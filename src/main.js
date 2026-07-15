@@ -25,6 +25,12 @@ const camera = new THREE.PerspectiveCamera(68, innerWidth / innerHeight, 0.03, 1
 camera.position.set(0, 1.62, 2.8);
 camera.rotation.order = 'YXZ';
 
+const player = new THREE.Group();
+scene.add(player);
+player.add(camera);
+sceneHost.dataset.playerX = '0.000';
+sceneHost.dataset.playerZ = '0.000';
+
 const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.7));
 renderer.setSize(innerWidth, innerHeight);
@@ -75,6 +81,15 @@ let elapsedBeforePause = 0;
 let nextSpawnAt = 0;
 let sequence = 0;
 let flashPower = 0;
+const movementKeys = new Set();
+const moveForward = new THREE.Vector3();
+const moveRight = new THREE.Vector3();
+const moveDirection = new THREE.Vector3();
+const worldUp = new THREE.Vector3(0, 1, 0);
+const cameraWorldPosition = new THREE.Vector3();
+const headBeforeTurn = new THREE.Vector3();
+const headAfterTurn = new THREE.Vector3();
+let snapTurnReady = true;
 
 function roundedRect(ctx, x, y, w, h, radius) {
   ctx.beginPath();
@@ -159,7 +174,8 @@ function spawnCard(customMessage, close = false, quiet = false) {
   });
   const card = new THREE.Mesh(new THREE.PlaneGeometry(.6, .2), material);
   card.position.copy(cardPosition(sequence, close));
-  card.lookAt(camera.position.x, camera.position.y, camera.position.z);
+  camera.getWorldPosition(cameraWorldPosition);
+  card.lookAt(cameraWorldPosition);
   card.userData = { born: clock.elapsedTime, targetScale: 1, drift: (Math.random() - .5) * .025 };
   card.scale.setScalar(.05);
   messageGroup.add(card);
@@ -281,6 +297,86 @@ renderer.domElement.addEventListener('pointermove', event => {
 renderer.domElement.addEventListener('pointerup', () => { dragging = false; });
 renderer.domElement.addEventListener('pointercancel', () => { dragging = false; });
 
+const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
+window.addEventListener('keydown', event => {
+  if (!movementCodes.has(event.code)) return;
+  movementKeys.add(event.code);
+  if (!event.repeat && !renderer.xr.isPresenting) {
+    const sideways = Number(event.code === 'KeyD' || event.code === 'ArrowRight') - Number(event.code === 'KeyA' || event.code === 'ArrowLeft');
+    const forwards = Number(event.code === 'KeyW' || event.code === 'ArrowUp') - Number(event.code === 'KeyS' || event.code === 'ArrowDown');
+    movePlayer(sideways, forwards, .08, camera);
+  }
+  event.preventDefault();
+});
+window.addEventListener('keyup', event => {
+  movementKeys.delete(event.code);
+});
+window.addEventListener('blur', () => movementKeys.clear());
+
+function movePlayer(sideways, forwards, speed, viewCamera) {
+  if (Math.abs(sideways) < .08 && Math.abs(forwards) < .08) return;
+  viewCamera.getWorldDirection(moveForward);
+  moveForward.y = 0;
+  if (moveForward.lengthSq() < .001) moveForward.set(0, 0, -1);
+  moveForward.normalize();
+  moveRight.crossVectors(moveForward, worldUp).normalize();
+  moveDirection.copy(moveForward).multiplyScalar(forwards).addScaledVector(moveRight, sideways);
+  if (moveDirection.lengthSq() > 1) moveDirection.normalize();
+  player.position.addScaledVector(moveDirection, speed);
+  player.position.x = THREE.MathUtils.clamp(player.position.x, -5.8, 5.8);
+  player.position.z = THREE.MathUtils.clamp(player.position.z, -136, 4);
+  sceneHost.dataset.playerX = player.position.x.toFixed(3);
+  sceneHost.dataset.playerZ = player.position.z.toFixed(3);
+}
+
+function updateDesktopMovement(delta) {
+  if (renderer.xr.isPresenting) return;
+  const sideways = Number(movementKeys.has('KeyD') || movementKeys.has('ArrowRight')) - Number(movementKeys.has('KeyA') || movementKeys.has('ArrowLeft'));
+  const forwards = Number(movementKeys.has('KeyW') || movementKeys.has('ArrowUp')) - Number(movementKeys.has('KeyS') || movementKeys.has('ArrowDown'));
+  movePlayer(sideways, forwards, delta * 2.5, camera);
+}
+
+function controllerStick(gamepad) {
+  if (!gamepad?.axes?.length) return { x: 0, y: 0 };
+  const axes = gamepad.axes;
+  const x = axes.length >= 4 ? axes[axes.length - 2] : axes[0];
+  const y = axes.length >= 4 ? axes[axes.length - 1] : axes[1];
+  return {
+    x: Math.abs(x || 0) > .16 ? x : 0,
+    y: Math.abs(y || 0) > .16 ? y : 0
+  };
+}
+
+function snapTurn(x, xrCamera) {
+  if (Math.abs(x) < .3) { snapTurnReady = true; return; }
+  if (!snapTurnReady || Math.abs(x) < .72) return;
+  xrCamera.getWorldPosition(headBeforeTurn);
+  player.rotation.y -= Math.sign(x) * Math.PI / 6;
+  player.updateMatrixWorld(true);
+  xrCamera.getWorldPosition(headAfterTurn);
+  player.position.add(headBeforeTurn.sub(headAfterTurn));
+  player.updateMatrixWorld(true);
+  snapTurnReady = false;
+}
+
+function updateXRMovement(delta) {
+  const session = renderer.xr.getSession();
+  if (!session) return;
+  const xrCamera = renderer.xr.getCamera(camera);
+  let usedMovementStick = false;
+  for (const source of session.inputSources) {
+    const stick = controllerStick(source.gamepad);
+    if (source.handedness === 'right') {
+      snapTurn(stick.x, xrCamera);
+      continue;
+    }
+    if (!usedMovementStick && (source.handedness === 'left' || source.handedness === 'none')) {
+      movePlayer(stick.x, -stick.y, delta * 2.1, xrCamera);
+      usedMovementStick = true;
+    }
+  }
+}
+
 window.addEventListener('deviceorientation', event => {
   if (dragging || renderer.xr.isPresenting || event.alpha == null) return;
   yaw = THREE.MathUtils.degToRad(-event.alpha);
@@ -295,6 +391,9 @@ window.addEventListener('resize', () => {
 });
 
 window.nachrichtenraum = {
+  getPosition() {
+    return { x: player.position.x, z: player.position.z };
+  },
   pushMessage({ source = 'WHATSAPP', title, age = 'gerade eben', category = 'PUBLIKUM' }) {
     if (!title) return;
     spawnCard({ source, title: String(title).slice(0, 110), age, category }, true);
@@ -319,6 +418,8 @@ renderer.setAnimationLoop(() => {
   const delta = Math.min(clock.getDelta(), .05);
   const now = clock.elapsedTime;
   if (!renderer.xr.isPresenting) camera.rotation.set(pitch, yaw, 0);
+  updateDesktopMovement(delta);
+  updateXRMovement(delta);
 
   if (running) {
     const elapsed = currentElapsed();
