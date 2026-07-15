@@ -1,6 +1,5 @@
 import * as THREE from 'three';
 import { VRButton } from 'three/addons/webxr/VRButton.js';
-import './styles.css';
 import { messageAt } from './data.js';
 
 const sceneHost = document.querySelector('#scene');
