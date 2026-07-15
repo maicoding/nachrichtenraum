@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0d0f10" />
+    <title>PUNKT E | Nachrichtenraum</title>
+  </head>
+  <body>
+    <main id="app">
+      <div id="scene" aria-label="Interaktiver dreidimensionaler Nachrichtenraum"></div>
+
+      <header class="topline">
+        <h1>PUNKT E</h1>
+        <time id="elapsed">00:00</time>
+        <span id="phase">BEREIT</span>
+      </header>
+
+      <section class="intro" id="intro" aria-labelledby="intro-title">
+        <div class="intro__rule"></div>
+        <h2 id="intro-title">Zu viele Nachrichten.</h2>
+        <p>Bewege den Blick. Bleibe im Raum. Der Strom wird dichter.</p>
+        <button id="enter" type="button">RAUM BETRETEN</button>
+        <small>Maus ziehen, Touch bewegen oder VR-Headset verwenden</small>
+      </section>
+
+      <aside class="meter" aria-label="Intensität">
+        <span>INTENSITÄT</span>
+        <div class="meter__track"><i id="intensity"></i></div>
+        <output id="count">000</output>
+      </aside>
+
+      <nav class="controls" aria-label="Steuerung">
+        <button id="toggle" type="button">START</button>
+        <button id="add" type="button">NEUE NACHRICHT</button>
+        <button id="sound" type="button" aria-pressed="true">TON AN</button>
+        <button id="vr" type="button">VR</button>
+      </nav>
+
+      <p class="demo-note">DEMO-INHALTE · LIVE-QUELLEN VORBEREITET</p>
+      <div class="flash" id="flash" aria-hidden="true"></div>
+      <div class="grain" aria-hidden="true"></div>
+    </main>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
