@@ -302,7 +302,7 @@ window.nachrichtenraum = {
 };
 
 async function pollLiveMessages() {
-  const endpoint = import.meta.env.VITE_MESSAGE_ENDPOINT;
+  const endpoint = import.meta.env?.VITE_MESSAGE_ENDPOINT;
   if (!endpoint) return;
   try {
     const response = await fetch(endpoint);
