@@ -10,7 +10,6 @@ const ui = {
   add: document.querySelector('#add'),
   sound: document.querySelector('#sound'),
   vr: document.querySelector('#vr'),
-  flash: document.querySelector('#flash'),
   elapsed: document.querySelector('#elapsed'),
   phase: document.querySelector('#phase'),
   intensity: document.querySelector('#intensity'),
@@ -68,8 +67,6 @@ for (let z = 1; z > -140; z -= 4) {
 scene.add(ribs);
 
 scene.add(new THREE.HemisphereLight(0xbfc6c8, 0x090a0b, 0.22));
-const flashLight = new THREE.PointLight(0xffffff, 0, 16, 1.8);
-scene.add(flashLight);
 
 const messageGroup = new THREE.Group();
 scene.add(messageGroup);
@@ -84,7 +81,6 @@ let startedAt = 0;
 let elapsedBeforePause = 0;
 let nextSpawnAt = 0;
 let sequence = 0;
-let flashPower = 0;
 let liveMessages = [];
 const movementKeys = new Set();
 const moveForward = new THREE.Vector3();
@@ -194,11 +190,6 @@ function spawnCard(customMessage, close = false, quiet = false) {
     messageGroup.remove(old);
   }
   if (!quiet) {
-    flashPower = 1;
-    flashLight.position.copy(card.position);
-    ui.flash.classList.remove('active');
-    void ui.flash.offsetWidth;
-    ui.flash.classList.add('active');
     playTone(currentIntensity());
   }
   updateReadout();
@@ -529,8 +520,6 @@ renderer.setAnimationLoop(() => {
     card.position.y += card.userData.drift * delta;
   });
 
-  flashPower *= Math.pow(.018, delta);
-  flashLight.intensity = flashPower * 48;
   if (audio.drone && running) audio.drone.gain.setTargetAtTime(.01 + currentIntensity() * .035, audio.context.currentTime, .5);
   renderer.render(scene, camera);
 });
