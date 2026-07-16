@@ -1,145 +1,355 @@
 {
-  "updatedAt": "2026-07-16T16:03:23.760Z",
+  "updatedAt": "2026-07-16T17:40:38.105Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "„Menschen sind keine Ware“ - Spahn löst Debatte über Leihmutterschaft aus",
-      "url": "https://www.bild.de/politik/inland/jens-spahn-loest-debatte-ueber-leihmutterschaft-aus-6a5893167a35912eb9adbea1",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Baby-Glück von Jens Spahn - DAS muss man zur Leihmutterschaft wissen!",
-      "url": "https://www.bild.de/politik/inland/babyglueck-von-jens-spahn-das-muss-man-zur-leihmutterschaft-wissen-6a58e32d7a35912eb9adc7c4",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von Grünen- bis AfD-Anhängern - So unterschiedlich sind die Sorgen der Wähler",
-      "url": "https://www.bild.de/politik/inland/deutsche-waehler-ticken-voellig-unterschiedlich-einwanderung-und-klima-sind-am-wichtigsten-6a58c28ef127abe2ae4901a4",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zwischenruf von Peter Tiede - Das ist bigott, Herr Spahn!",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-von-peter-tiede-das-ist-bigott-herr-spahn-6a58f3107a35912eb9adc99c",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Hymnen-Eklat - AfD-Chef Chrupalla: Lasse mir DDR nicht nehmen",
-      "url": "https://www.bild.de/politik/inland/zoff-in-der-afd-chrupalla-verteidigt-ddr-hymne-weidel-schweigt-6a58b13edc7c0a2fc7a38a98",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ferienbeginn in NRW - Am Brenner droht der totale Kollaps",
-      "url": "https://www.bild.de/politik/inland/verkehrschaos-am-brenner-urlaubern-droht-horror-auf-der-fahrt-6a58ac63dc7c0a2fc7a38a19",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wie die VW-Krise Deutschland schockt - Ronzheimer trifft Tim Kruithoff",
-      "url": "https://www.bild.de/politik/wie-die-vw-krise-deutschland-schockt-ronzheimer-trifft-tim-kruithoff-6a57b8b13e7028fed5239da2",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Ukrainer sauer auf Selenskyj! Proteste ausgeweitet",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Forderung der Angehörigen - Mahnmal für die RAF-Opfer? So reagiert die Politik",
-      "url": "https://www.bild.de/politik/inland/nach-forderung-der-angehoerigen-auch-weimer-und-dobrindt-fuer-raf-opfer-mahnmal-6a564d01664e99bc41e92d0d",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zur VW-Rettung! - Sachsen fordert Verdopplung der China-Zölle",
-      "url": "https://www.bild.de/politik/inland/hoehere-zoelle-sollen-chinesische-firmen-zum-einstieg-bei-vw-zwingen-6a58a2d7dc7c0a2fc7a388e5",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "INLAND"
-    },
     {
       "source": "BILD.DE",
       "title": "Chrupalla nicht mitgesungen? - Skandal um DDR-Hymne! AfD löscht heimlich Posts",
       "url": "https://www.bild.de/politik/inland/chrupalla-singt-ddr-hymne-afd-loescht-posts-nach-dessau-6a58814968b3d6515268a643",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "publishedAt": "2026-07-16T17:40:37.456Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Pflege, Rente, Arbeitslosigkeit - Ist DAS die Lösung für unseren Sozialstaat?",
       "url": "https://www.bild.de/politik/inland/pflege-rente-arbeitslosigkeit-ist-das-die-loesung-fuer-sozialstaat-6a58ab847a35912eb9adc164",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "publishedAt": "2026-07-16T17:40:37.456Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Trump kündigt brisante Rede an - „Das werden wirklich, wirklich große News!“",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trumps-rede-zur-lage-der-nation-das-werden-wirklich-grosse-news-6a57b19ab471d7a3ad0a34cb",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "publishedAt": "2026-07-16T17:40:37.456Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Sogar die Polizei rückte an - CDU-Urgestein fliegt bei Dobrindt raus",
-      "url": "https://www.bild.de/politik/inland/sogar-die-polizei-rueckte-an-cdu-urgestein-fliegt-bei-dobrindt-raus-6a4e5f2d43b7fd51850026ef",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "Zur VW-Rettung! - Sachsen fordert Verdopplung der China-Zölle",
+      "url": "https://www.bild.de/politik/inland/hoehere-zoelle-sollen-chinesische-firmen-zum-einstieg-bei-vw-zwingen-6a58a2d7dc7c0a2fc7a388e5",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Berliner Senat - Berlin zahlt Islamisten 675.000 Euro für Telefonseelsorge",
-      "url": "https://www.bild.de/politik/inland/berlin-zahlt-675-000-euro-fuer-telefonseelsorge-an-islamisten-6a55ed06d9d21346a288c20a",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "Ukrainer sauer auf Selenskyj - „Unsere Regierung hört uns nicht zu“",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-entlassung-von-fedorow-tausende-protestieren-gegen-selenskyj-6a58fdff29b150f031b1543b",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Verunglimpfung Verstorbener“ - Stauffenberg-Familie zeigt Kabarettisten Steimle an",
+      "url": "https://www.bild.de/politik/inland/stauffenberg-familie-stellt-strafanzeige-gegen-uwe-steimle-nach-afd-auftritt-6a58e31a7a35912eb9adc7c0",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
-      "title": "Berliner Sozial-Stadtrat fordert - Asylbewerber sollen mitanpacken",
-      "url": "https://www.bild.de/politik/inland/berliner-sozial-stadtrat-fordert-asylbewerber-sollen-mitanpacken-6a54a316f3b79f72b6bf4fe8",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "Neue Wahl-Umfrage - Evers kann Wegner-Fluch der CDU in Berlin stoppen",
+      "url": "https://www.bild.de/politik/inland/berlin-neue-wahl-umfrage-evers-kann-den-wegner-fluch-der-cdu-stoppen-6a5903f70c2929639762110d",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Emden-OB warnt vor VW-Schließung - „Keiner kauft sich dann ein Grundstück oder eine Küche“",
-      "url": "https://www.bild.de/politik/inland/emden-ob-warnt-bei-ronzheimer-vor-vw-werk-schliessung-keiner-kauft-sich-dann-ein-grundstueck-eine-kueche-oder-ein-auto-6a587d2568b3d6515268a5db",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "„Menschen sind keine Ware“ - Spahn löst Debatte über Leihmutterschaft aus",
+      "url": "https://www.bild.de/politik/inland/jens-spahn-loest-debatte-ueber-leihmutterschaft-aus-6a5893167a35912eb9adbea1",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Über eine Million pro Jahr - Jeder zweite Boomer geht vorzeitig in Rente",
-      "url": "https://www.bild.de/politik/inland/fruehrente-explodiert-expertin-warnt-vor-hohen-kosten-6a5892197a35912eb9adbe90",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "Igor Levit und Danger Dan - ZDF cancelt Künstler-Auftritt bei „Die Anstalt“",
+      "url": "https://www.bild.de/politik/inland/zdf-verhindert-die-anstalt-auftritt-von-igor-levit-und-danger-dan-6a58ea1ff127abe2ae490647",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Stau- und Hitze-Alarm! - So kommen Sie jetzt am besten an Ihr Urlaubsziel!",
-      "url": "https://www.bild.de/politik/inland/stau-und-hitze-alarm-so-kommen-sie-am-besten-ans-urlaubsziel-6a3920073131b31f75cc983f",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
-      "category": "BILD-PLUS"
+      "title": "Vertraulich: der Politik-Vodcast - „Das macht viele Republikaner nervös“",
+      "url": "https://www.bild.de/politik/vertraulich-der-politik-vodcast-das-macht-viele-republikaner-nervoes-6a58ef427a35912eb9adc93e",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ex-Vizekanzler meldet sich zu Wort - Gabriel: Mit Merkel gäbe es keinen Ukraine-Krieg",
-      "url": "https://www.bild.de/politik/inland/sigmar-gabriel-glaubt-mit-merkel-gaebe-es-keinen-ukraine-krieg-6a58645568b3d6515268a4d0",
-      "publishedAt": "2026-07-16T16:03:23.547Z",
+      "title": "Trump-Rede an die Nation - „Das macht viele Republikaner nervös“",
+      "url": "https://www.bild.de/politik/trump-rede-an-die-nation-das-macht-viele-republikaner-nervoes-6a58d3267a35912eb9adc603",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vertraulich - Der Politik-Vodcast „Das macht viele Republikaner nervös“",
+      "url": "https://www.bild.de/politik/vertraulich-der-politik-vodcast-das-macht-viele-republikaner-nervoes-6a5103168b5b8e3f0122aaba",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Baby-Glück von Jens Spahn - DAS muss man zur Leihmutterschaft wissen!",
+      "url": "https://www.bild.de/politik/inland/babyglueck-von-jens-spahn-das-muss-man-zur-leihmutterschaft-wissen-6a58e32d7a35912eb9adc7c4",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
       "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von Grünen- bis AfD-Anhängern - So unterschiedlich sind die Sorgen der Wähler",
+      "url": "https://www.bild.de/politik/inland/deutsche-waehler-ticken-voellig-unterschiedlich-einwanderung-und-klima-sind-am-wichtigsten-6a58c28ef127abe2ae4901a4",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zwischenruf von Peter Tiede - Das ist bigott, Herr Spahn!",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-von-peter-tiede-das-ist-bigott-herr-spahn-6a58f3107a35912eb9adc99c",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Hymnen-Eklat - AfD-Chef Chrupalla: Lasse mir DDR nicht nehmen",
+      "url": "https://www.bild.de/politik/inland/zoff-in-der-afd-chrupalla-verteidigt-ddr-hymne-weidel-schweigt-6a58b13edc7c0a2fc7a38a98",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ferienbeginn in NRW - Am Brenner droht der totale Kollaps",
+      "url": "https://www.bild.de/politik/inland/verkehrschaos-am-brenner-urlaubern-droht-horror-auf-der-fahrt-6a58ac63dc7c0a2fc7a38a19",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wie die VW-Krise Deutschland schockt - Ronzheimer trifft Tim Kruithoff",
+      "url": "https://www.bild.de/politik/wie-die-vw-krise-deutschland-schockt-ronzheimer-trifft-tim-kruithoff-6a57b8b13e7028fed5239da2",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Ukrainer sauer auf Selenskyj! Proteste ausgeweitet",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Forderung der Angehörigen - Mahnmal für die RAF-Opfer? So reagiert die Politik",
+      "url": "https://www.bild.de/politik/inland/nach-forderung-der-angehoerigen-auch-weimer-und-dobrindt-fuer-raf-opfer-mahnmal-6a564d01664e99bc41e92d0d",
+      "publishedAt": "2026-07-16T17:40:37.455Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Infrastruktur in Deutschland: Warum es so unerträglich langsam vorangeht",
+      "url": "https://www.spiegel.de/politik/infrastruktur-in-deutschland-warum-es-so-unertraeglich-langsam-vorangeht-a-60627d8c-ec98-4a32-87b9-0a0e259cf896#ref=rss",
+      "publishedAt": "2026-07-16T17:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Tausende gehen gegen Regierungsumbau auf die Straße",
+      "url": "https://www.deutschlandfunk.de/tausende-gehen-gegen-regierungsumbau-auf-die-strasse-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Finanzkriminalität - 26 Maßnahmen gegen Steuerbetrug",
+      "url": "https://www.deutschlandfunk.de/26-massnahmen-gegen-steuerbetrug-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Prävention - Gesundheitsministerin Warken will Krankheits-Vorbeugung ausbauen",
+      "url": "https://www.deutschlandfunk.de/gesundheitsministerin-warken-will-krankheits-vorbeugung-ausbauen-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wasserstoff-Pipeline - Deutschland und Algerien wollen Bau vorantreiben",
+      "url": "https://www.deutschlandfunk.de/deutschland-und-algerien-wollen-bau-vorantreiben-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Regierung in Kiew bestreitet Tötung von Chefingenieur in Akw Saporischschja",
+      "url": "https://www.deutschlandfunk.de/regierung-in-kiew-bestreitet-toetung-von-chefingenieur-in-akw-saporischschja-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Italien - Prozess um Brückeneinsturz in Genua: Ehemaliger Chef des Autobahnbetreibers zu 12 Jahren Haft verurteilt",
+      "url": "https://www.deutschlandfunk.de/prozess-um-brueckeneinsturz-in-genua-ehemaliger-chef-des-autobahnbetreibers-zu-12-jahren-haft-verurt-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Radsport - Tim Merlier gewinnt 12. Etappe der Tour de France",
+      "url": "https://www.deutschlandfunk.de/tim-merlier-gewinnt-12-etappe-der-tour-de-france-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienbericht - Desinformationskampagne im Wahlkampf in Sachsen-Anhalt",
+      "url": "https://www.deutschlandfunk.de/desinformationskampagne-im-wahlkampf-in-sachsen-anhalt-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Algerien - Elf Tote bei Brand in Kinderheim bei Algier - Präsident spricht von Tragödie",
+      "url": "https://www.deutschlandfunk.de/elf-tote-bei-brand-in-kinderheim-bei-algier-praesident-spricht-von-tragoedie-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ressourcen - Bundesumweltminister Schneider: Konflikte ums Wasser auch in Deutschland",
+      "url": "https://www.deutschlandfunk.de/bundesumweltminister-schneider-konflikte-ums-wasser-auch-in-deutschland-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Debatte um Spahn - CDU und Familienministerium halten an Leihmutterschaft-Verbot fest",
+      "url": "https://www.deutschlandfunk.de/cdu-und-familienministerium-halten-an-leihmutterschaft-verbot-fest-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bensberg - Merz und Macron treffen sich vor deutsch-französischem Ministerrat",
+      "url": "https://www.deutschlandfunk.de/merz-und-macron-treffen-sich-vor-deutsch-franzoesischem-ministerrat-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Transparenz - Rechercheplattform sieht negative Auswirkungen des neuen Berliner Informationsfreiheitsgesetzes",
+      "url": "https://www.deutschlandfunk.de/rechercheplattform-sieht-negative-auswirkungen-des-neuen-berliner-informationsfreiheitsgesetzes-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsumbildung - Serhij Koretskyj wird neuer ukrainischer Regierungschef - Proteste gegen Ablösung von Verteidigungsminister Fedorow",
+      "url": "https://www.deutschlandfunk.de/serhij-koretskyj-wird-neuer-ukrainischer-regierungschef-proteste-gegen-abloesung-von-verteidigungsmi-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-WM - Argentinische Nationalspieler posieren nach Sieg gegen England mit Falkland-Slogan - Britische Regierung fordert Untersuchung",
+      "url": "https://www.deutschlandfunk.de/argentinische-nationalspieler-posieren-nach-sieg-gegen-england-mit-falkland-slogan-britische-regieru-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jahresbericht - Welthungerhilfe kritisiert Kürzungen im Entwicklungsetat der Bundesregierung",
+      "url": "https://www.deutschlandfunk.de/welthungerhilfe-kritisiert-kuerzungen-im-entwicklungsetat-der-bundesregierung-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Persischer Golf - Indien verbietet seinen Seeleuten Einsatz in der Straße von Hormus",
+      "url": "https://www.deutschlandfunk.de/indien-verbietet-seinen-seeleuten-einsatz-in-der-strasse-von-hormus-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Naturkatastrophe - Erdbeben in Neuseeland der Stärke 5,9",
+      "url": "https://www.deutschlandfunk.de/erdbeben-in-neuseeland-der-staerke-5-102.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Auslieferung aus Tschechien - Justiz verlegt Neonazi Liebich von Frauen- in Männergefängnis",
+      "url": "https://www.deutschlandfunk.de/justiz-verlegt-neonazi-liebich-von-frauen-in-maennergefaengnis-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Luxemburg - EuGH: Spanisches Amnestiegesetz für katalanische Separatisten ist rechtmäßig",
+      "url": "https://www.deutschlandfunk.de/eugh-spanisches-amnestiegesetz-fuer-katalanische-separatisten-ist-rechtmaessig-100.html",
+      "publishedAt": "2026-07-16T17:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neues Album von Hanna Fearns: Diese Musik ist Kummer gewohnt",
+      "url": "https://taz.de/Neues-Album-von-Hanna-Fearns/!6192442/",
+      "publishedAt": "2026-07-16T17:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neue Musik aus Brasilien: Sie stellen dem Leben an sich grundlegende Fragen",
+      "url": "https://taz.de/Neue-Musik-aus-Brasilien/!6191754/",
+      "publishedAt": "2026-07-16T17:06:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ausstellung „Inventing Queer Cinema“: Mehr schwules als lesbisches Kino",
+      "url": "https://taz.de/Ausstellung-Inventing-Queer-Cinema/!6196514/",
+      "publishedAt": "2026-07-16T17:04:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Machtkampf in der AfD in NRW eskaliert: Hier wird gefilibustert und blockiert",
+      "url": "https://taz.de/Machtkampf-in-der-AfD-in-NRW-eskaliert/!6196490/",
+      "publishedAt": "2026-07-16T16:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Social Media: Flickenteppich bei der Alterskontrolle in der EU?",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-social-media-alterskontrolle-100.html",
+      "publishedAt": "2026-07-16T16:51:09.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Johann Wadephul: Was der Außenminister auf seiner Reise durch Finnland und Norwegen lernen will",
+      "url": "https://www.spiegel.de/politik/deutschland/johann-wadephul-was-der-aussenminister-auf-seiner-reise-durch-finnland-und-norwegen-lernen-will-a-342cfd57-258b-4580-99b6-e2d2dea5140b#ref=rss",
+      "publishedAt": "2026-07-16T16:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Regierungsumbildung in der Ukraine: Schmutzige Wäsche waschen in Kyjiw",
+      "url": "https://taz.de/Regierungsumbildung-in-der-Ukraine/!6196591/",
+      "publishedAt": "2026-07-16T16:33:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wasser wird knapp: Das sind nur die Vorboten",
+      "url": "https://taz.de/Wasser-wird-knapp/!6196512/",
+      "publishedAt": "2026-07-16T16:26:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Besetzte Golanhöhen: Will Israel Siedlungen in Syrien errichten?",
+      "url": "https://taz.de/Will-Israel-Siedlungen-in-Syrien-errichten/!6196580/",
+      "publishedAt": "2026-07-16T16:03:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -191,146 +401,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Finanzkriminalität - 26 Maßnahmen gegen Steuerbetrug",
-      "url": "https://www.deutschlandfunk.de/26-massnahmen-gegen-steuerbetrug-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Italien - Prozess um Brückeneinsturz in Genua: Ehemaliger Chef des Autobahnbetreibers zu 12 Jahren Haft verurteilt",
-      "url": "https://www.deutschlandfunk.de/prozess-um-brueckeneinsturz-in-genua-ehemaliger-chef-des-autobahnbetreibers-zu-12-jahren-haft-verurt-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Radsport - Tim Merlier gewinnt 12. Etappe der Tour de France",
-      "url": "https://www.deutschlandfunk.de/tim-merlier-gewinnt-12-etappe-der-tour-de-france-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - Desinformationskampagne im Wahlkampf in Sachsen-Anhalt",
-      "url": "https://www.deutschlandfunk.de/desinformationskampagne-im-wahlkampf-in-sachsen-anhalt-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Algerien - Elf Tote bei Brand in Kinderheim bei Algier - Präsident spricht von Tragödie",
-      "url": "https://www.deutschlandfunk.de/elf-tote-bei-brand-in-kinderheim-bei-algier-praesident-spricht-von-tragoedie-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Debatte um Spahn - CDU und Familienministerium halten an Leihmutterschaft-Verbot fest",
-      "url": "https://www.deutschlandfunk.de/cdu-und-familienministerium-halten-an-leihmutterschaft-verbot-fest-102.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bensberg - Merz und Macron treffen sich vor deutsch-französischem Ministerrat",
-      "url": "https://www.deutschlandfunk.de/merz-und-macron-treffen-sich-vor-deutsch-franzoesischem-ministerrat-102.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Transparenz - Rechercheplattform sieht negative Auswirkungen des neuen Berliner Informationsfreiheitsgesetzes",
-      "url": "https://www.deutschlandfunk.de/rechercheplattform-sieht-negative-auswirkungen-des-neuen-berliner-informationsfreiheitsgesetzes-102.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsumbildung - Serhij Koretskyj wird neuer ukrainischer Regierungschef - Proteste gegen Ablösung von Verteidigungsminister Fedorow",
-      "url": "https://www.deutschlandfunk.de/serhij-koretskyj-wird-neuer-ukrainischer-regierungschef-proteste-gegen-abloesung-von-verteidigungsmi-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball-WM - Argentinische Nationalspieler posieren nach Sieg gegen England mit Falkland-Slogan - Britische Regierung fordert Untersuchung",
-      "url": "https://www.deutschlandfunk.de/argentinische-nationalspieler-posieren-nach-sieg-gegen-england-mit-falkland-slogan-britische-regieru-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Jahresbericht - Welthungerhilfe kritisiert Kürzungen im Entwicklungsetat der Bundesregierung",
-      "url": "https://www.deutschlandfunk.de/welthungerhilfe-kritisiert-kuerzungen-im-entwicklungsetat-der-bundesregierung-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Persischer Golf - Indien verbietet seinen Seeleuten Einsatz in der Straße von Hormus",
-      "url": "https://www.deutschlandfunk.de/indien-verbietet-seinen-seeleuten-einsatz-in-der-strasse-von-hormus-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Naturkatastrophe - Erdbeben in Neuseeland der Stärke 5,9",
-      "url": "https://www.deutschlandfunk.de/erdbeben-in-neuseeland-der-staerke-5-102.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Auslieferung aus Tschechien - Justiz verlegt Neonazi Liebich von Frauen- in Männergefängnis",
-      "url": "https://www.deutschlandfunk.de/justiz-verlegt-neonazi-liebich-von-frauen-in-maennergefaengnis-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Luxemburg - EuGH: Spanisches Amnestiegesetz für katalanische Separatisten ist rechtmäßig",
-      "url": "https://www.deutschlandfunk.de/eugh-spanisches-amnestiegesetz-fuer-katalanische-separatisten-ist-rechtmaessig-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Repräsentantenhaus - Mehr als 100 Demokraten stimmen gegen US-Militärhilfe für Israel",
-      "url": "https://www.deutschlandfunk.de/mehr-als-100-demokraten-stimmen-gegen-us-militaerhilfe-fuer-israel-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Müritz-Nationalpark - Waldbrand breitet sich aus - Explosion von Altmunition",
-      "url": "https://www.deutschlandfunk.de/waldbrand-breitet-sich-aus-explosion-von-altmunition-124.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesaußenminister in Helsinki - Wadephul sieht Finnland beim Zivilschutz als Vorbild für Deutschland",
-      "url": "https://www.deutschlandfunk.de/wadephul-sieht-finnland-beim-zivilschutz-als-vorbild-fuer-deutschland-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Iran-Krieg - Teheran meldet Angriff auf Flughafen im Nordosten des Iran",
-      "url": "https://www.deutschlandfunk.de/teheran-meldet-angriff-auf-flughafen-im-nordosten-des-iran-100.html",
-      "publishedAt": "2026-07-16T15:31:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ressourcen - Bundesumweltminister Schneider: Konflikte ums Wasser auch in Deutschland",
-      "url": "https://www.deutschlandfunk.de/bundesumweltminister-schneider-konflikte-ums-wasser-auch-in-deutschland-102.html",
-      "publishedAt": "2026-07-16T15:30:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Kassenreform: Was bedeuten die Kürzungen für Psychotherapien?",
       "url": "https://www.tagesschau.de/inland/innenpolitik/psychotherapie-gkv-reform-100.html",
@@ -353,23 +423,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Oldenburger Polizeiopfer Lorenz A.: Gericht vermutet putative Notwehr",
-      "url": "https://taz.de/Oldenburger-Polizeiopfer-Lorenz-A/!6192564/",
-      "publishedAt": "2026-07-16T15:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Spahns Vaterglück durch Leihmutterschaft: Für konservative Werte – außer es betrifft ihn selbst",
       "url": "https://taz.de/Spahns-Vaterglueck-durch-Leihmutterschaft/!6196573/",
       "publishedAt": "2026-07-16T15:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Steuerhinterziehung in Deutschland: Regierung will härter gegen Finanzkriminalität vorgehen",
-      "url": "https://taz.de/Steuerhinterziehung-in-Deutschland/!6196229/",
-      "publishedAt": "2026-07-16T14:47:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -464,13 +520,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Heimliche Aufnahmen mit Smart Glasses: Glasklare Grauzone",
-      "url": "https://taz.de/Smart-Glasses-von-Meta-Was-tun-wenn-man-heimlich-gefilmt-und-das-Video-gepostet-wurde/!6196176/",
-      "publishedAt": "2026-07-16T11:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "AfD in NRW: Zerstrittene Lager blockieren Einigung im Landesverband",
       "url": "https://www.spiegel.de/politik/deutschland/afd-in-nrw-schlichtungsversuch-fuer-zerstrittenen-landesverband-scheiterte-offenbar-binnen-minuten-a-20e68f68-1e7e-494d-831c-c44151636bd9#ref=rss",
@@ -483,13 +532,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/toronto-luftqualitaet-waldbraende-100.html",
       "publishedAt": "2026-07-16T09:30:01.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "US-Militärhilfe für Israel: Immer mehr Demokraten rücken von Israel ab",
-      "url": "https://taz.de/US-Militaerhilfe-fuer-Israel/!6196519/",
-      "publishedAt": "2026-07-16T09:30:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -513,25 +555,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Flucht vor dem Justizsystem: Neonazi Liebich in Männergefängnis verlegt",
-      "url": "https://taz.de/Flucht-vor-dem-Justizsystem/!6196477/",
-      "publishedAt": "2026-07-16T07:50:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Neuer Unterhaltsvorschuss soll im Juli in die Regierungsabstimmung",
       "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-regierungsabstimmung-100.html",
       "publishedAt": "2026-07-16T07:19:40.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "„Katechon“ von Volker Weiß: Totalitäre Fantasien, biblisch hochgerüstet",
-      "url": "https://taz.de/Katechon-von-Volker-Weiss/!6191724/",
-      "publishedAt": "2026-07-16T07:09:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -580,13 +608,6 @@
       "title": "Christian Dürr: Ex-FDP-Chef steigt bei Start-up für E-Fuels ein",
       "url": "https://www.spiegel.de/politik/christian-duerr-ex-fdp-chef-steigt-bei-start-up-fuer-e-fuels-ein-a-ff91c381-0118-4c19-b12b-e769b501d09b#ref=rss",
       "publishedAt": "2026-07-15T18:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "„Die Odyssee“ von Christopher Nolan: Der Krieg hat ihn gebrochen",
-      "url": "https://taz.de/Die-Odyssee-von-Christopher-Nolan-Matt-Damon-auf-epischer-Irrfahrt/!6196047/",
-      "publishedAt": "2026-07-15T17:48:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -681,13 +702,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Ungarn: Deutsche Außenpolitiker verteidigen Rückbau des Systems Viktor Orbán",
-      "url": "https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss",
-      "publishedAt": "2026-07-15T14:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "EU will Schutz für wehrfähige Ukrainer einschränken",
       "url": "https://www.tagesschau.de/ausland/europa/eu-rat-schutz-ukrainer-100.html",
@@ -707,13 +721,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-social-media-100.html",
       "publishedAt": "2026-07-15T11:48:49.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Hape Kerkeling soll bei Anhörung über AfD-Verbotsverfahren in Thüringen sprechen",
-      "url": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-soll-bei-anhoerung-ueber-afd-verbotsverfahren-in-thueringen-sprechen-a-4c3b220e-b19a-4410-9308-e6b78c62afcc#ref=rss",
-      "publishedAt": "2026-07-15T11:21:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -777,13 +784,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/china-wettbewerb-deutschland-100.html",
       "publishedAt": "2026-07-14T14:37:33.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bevölkerungszahl der EU geht bis 2100 laut Studie um fast 52 Millionen zurück",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-sinkende-bevoelkerungszahl-100.html",
-      "publishedAt": "2026-07-14T14:29:08.000Z",
-      "category": "AUSLAND"
     },
     {
       "source": "TAGESSCHAU.DE",
