@@ -25,6 +25,11 @@ const feeds = [
     source: 'DLF',
     category: 'NACHRICHTEN',
     url: 'https://www.deutschlandfunk.de/nachrichten-100.rss'
+  },
+  {
+    source: 'BILD.DE',
+    category: 'POLITIK',
+    url: 'https://www.bild.de/feed/politik.xml'
   }
 ];
 
@@ -72,7 +77,7 @@ const messages = settled
   .flatMap(result => result.value.slice(0, 20))
   .filter((item, index, items) => items.findIndex(other => other.url === item.url) === index)
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
-  .slice(0, 100);
+  .slice(0, 120);
 
 if (!messages.length) throw new Error('Kein RSS-Feed konnte geladen werden.');
 

@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Die Anwendung lädt Schlagzeilen aus den RSS-Feeds von tagesschau.de, taz.de, SPIEGEL Politik und Deutschlandfunk Nachrichten. GitHub aktualisiert `feeds.json` zweimal pro Stunde. Die Karten nennen die Quelle und öffnen beim Anklicken den jeweiligen Artikel.
+Die Anwendung lädt Schlagzeilen aus den RSS-Feeds von tagesschau.de, taz.de, SPIEGEL Politik, Deutschlandfunk Nachrichten und BILD Politik. GitHub aktualisiert `feeds.json` zweimal pro Stunde. Die Karten nennen die Quelle und öffnen beim Anklicken den jeweiligen Artikel.
 
 Die Tagesschau-Inhalte sind für den privaten, nicht-kommerziellen Gebrauch vorgesehen. Für eine öffentliche oder kommerzielle Ausstellung müssen die Nutzungsrechte mit den Anbietern geklärt werden.
 

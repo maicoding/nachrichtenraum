@@ -1,144 +1,284 @@
 {
-  "updatedAt": "2026-07-16T05:31:17.900Z",
+  "updatedAt": "2026-07-16T05:35:27.626Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Jetzt droht FIFA-Ärger - Argentinien-Stars jubeln mit Kriegsplakat",
+      "url": "https://www.bild.de/sport/fussball/argentinien-stars-jubeln-mit-kriegsplakat-jetzt-droht-fifa-aerger-6a580c6768b3d6515268a265",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "WM 2026"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Anti-Israel-Blockade bei Volkswagen - Katar-Skandal! Regierung will die VW-Jobs retten",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/volkswagen-und-der-katar-skandal-jetzt-will-die-regierung-die-vw-jobs-retten-6a580538c0375e9136c4b700",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump-Minister will echte „Kämpfer“ - USA verdonnern Soldaten zum Testosteron-Test",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-minister-will-echte-kaempfer-usa-verdonnern-soldaten-zum-testosteron-test-6a582fb6a4dd37e74df56a4e",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "München dreht den Wasserhahn zu - Kommt jetzt die Wasserpolizei?",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/muenchen-dreht-den-wasserhahn-zu-kommentar-kommt-jetzt-die-wasserpolizei-6a577f930fae4e2165e362ff",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Atom-Alarm bei Lanz - Ist die Mullah-Bombe gar nicht mehr zu stoppen?",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/atom-alarm-bei-markus-lanz-ist-die-mullah-bombe-gar-nicht-mehr-zu-stoppen-6a58299aa4dd37e74df56a37",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "POLITIK-TALKSHOWS IM TV – TALK-KRITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "AKW-Chefingenieur getötet - Mordanschlag am Atomkraftwerk?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/akw-chefingenieur-getoetet-mordanschlag-am-atomkraftwerk-saporischschja-6a58103c68b3d6515268a274",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Wieder Raketen-Terror gegen Kiew",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Doppeltes Spiel bei Drohnen - China beliefert Russland UND die Ukraine",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/drohnen-china-beliefert-russland-und-die-ukraine-fuer-den-krieg-6a575c6288b6b373594b2868",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Singt nicht ihre Lieder!",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-singt-nicht-ihre-lieder-6a57b645b471d7a3ad0a3511",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach nur sechs Monaten - Selenskyj entlässt seinen Verteidigungsminister",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-entlaesst-ukrainischen-verteidigungsminister-fedorow-6a57c01ea4dd37e74df5669b",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Entgleisung bei AfD-Veranstaltung - Stauffenberg-Enkel entsetzt: „Ganz grauenhaft!“",
+      "url": "https://www.bild.de/politik/inland/stauffenberg-enkel-kritisiert-kabarettisten-nach-afd-auftritt-scharf-6a579ccc3e7028fed5239b63",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umstrittenes Vorhaben - Trump soll eigene US-Münze bekommen",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-donald-trump-bekommt-eigene-dollarmuenze-und-loest-rechtsstreit-aus-6a57aabb3e7028fed5239cae",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "eit zwei Jahren in Haft - Mutter fleht: Kanzler, helfen Sie meinem Sohn",
+      "url": "https://www.bild.de/politik/inland/sohn-in-algerien-im-gefaengnis-mutter-fleht-kanzler-merz-helfen-sie-meinem-sohn-6a57b0263e7028fed5239d0a",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wirbel um Gesang bei AfD-Treffen - „Die DDR-Hymne steht für eine Diktatur“",
+      "url": "https://www.bild.de/politik/eklat-bei-afd-veranstaltung-die-ddr-hymne-steht-fuer-eine-diktatur-6a576ccf664e99bc41e93b84",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Komplett-Ausfall bei AfD-Veranstaltung - „Wo ist Stauffenberg, wenn man ihn mal braucht“",
+      "url": "https://www.bild.de/politik/inland/entgleisungen-bei-der-afd-staatsanwaltschaft-ermittelt-gegen-uwe-steimle-nach-merkel-hetze-6a576aaf0fae4e2165e360c7",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aktie fällt unter Ausgabepreis - SpaceX stürzt an der Börse ab",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/spacex-aktie-faellt-unter-ausgabepreis-absturz-fuer-elon-musk-an-der-boerse-6a57ba36a4dd37e74df5662a",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kampfansage von Kanzler Merz - Ich werde alles tun, um die AfD zu verhindern",
+      "url": "https://www.bild.de/politik/inland/kanzler-merz-ich-werde-alles-tun-um-die-afd-zu-verhindern-6a5768de664e99bc41e93b20",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ex-Baerbock-Ministerium - Auswärtiges Amt schafft Gendersternchen ab",
+      "url": "https://www.bild.de/politik/inland/baerbock-hatte-dafuer-gekaempft-auswaertiges-amt-schafft-gendersternchen-ab-6a5790d2a4dd37e74df562ce",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Klingbeil plant Steuer-Hammer - Wer dem Staat Geld schuldet, zahlt bald doppelt",
+      "url": "https://www.bild.de/politik/inland/steuerreform-von-lars-klingbeil-wer-steuern-nachzahlen-muss-zahlt-2027-doppelt-zinsen-6a5798eea4dd37e74df56395",
+      "publishedAt": "2026-07-16T05:35:27.623Z",
+      "category": "INLAND"
+    },
     {
       "source": "DLF",
       "title": "Müritz-Nationalpark - Waldbrand breitet sich aus - Explosion von Altmunition",
       "url": "https://www.deutschlandfunk.de/waldbrand-breitet-sich-aus-explosion-von-altmunition-118.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "EU-Etat für 2027 - Länder wollen acht Milliarden weniger als EU-Kommission",
       "url": "https://www.deutschlandfunk.de/laender-wollen-acht-milliarden-weniger-als-eu-kommission-106.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Iran-Krieg - US-Militär verkündet neue Angriffswelle",
       "url": "https://www.deutschlandfunk.de/us-militaer-verkuendet-neue-angriffswelle-104.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Ukraine-Krieg - Russland greift Kiew erneut mit ballistischen Raketen an: zwei Tote",
       "url": "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-ballistischen-raketen-an-zwei-tote-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukrainische Hauptstadt - Russland greift Kiew erneut mit ballistischen Raketen an",
-      "url": "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-ballistischen-raketen-an-102.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Ukraine - Kabinettsumbildung: Selenskyj beantragt Ernennung von Chef des Energiekonzerns Naftogaz zum neuen Ministerpräsidenten",
       "url": "https://www.deutschlandfunk.de/kabinettsumbildung-selenskyj-beantragt-ernennung-von-chef-des-energiekonzerns-naftogaz-zum-neuen-min-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Migration - Illegale Einreisen stark gesunken: EU fordert Deutschland zu Stopp von innereuropäischen Grenzkontrollen auf",
       "url": "https://www.deutschlandfunk.de/illegale-einreisen-stark-gesunken-eu-fordert-deutschland-zu-stopp-von-innereuropaeischen-grenzkontro-102.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Frankreich - Nationalversammlung macht Weg für Sterbehilfe-Reform endgültig frei",
       "url": "https://www.deutschlandfunk.de/nationalversammlung-macht-weg-fuer-sterbehilfe-reform-endgueltig-frei-110.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Wegen Hitze und Trockenheit - Städtetag ruft zu bewussterem Umgang mit Wasser auf",
       "url": "https://www.deutschlandfunk.de/staedtetag-ruft-zu-bewussterem-umgang-mit-wasser-auf-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Sonderverwaltungszone - Behörden in Hongkong durchsuchen erneut Buchläden - fünf Festnahmen",
       "url": "https://www.deutschlandfunk.de/behoerden-in-hongkong-durchsuchen-erneut-buchlaeden-fuenf-festnahmen-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Bundeswirtschaftsministerium - Deutsche Rüstungsexporte steigen im ersten Halbjahr 2026 auf neuen Rekordwert",
       "url": "https://www.deutschlandfunk.de/deutsche-ruestungsexporte-steigen-im-ersten-halbjahr-2026-auf-neuen-rekordwert-108.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "EU-Mitgliedsstaaten - Vorerst keine Einigung auf neue Russland-Sanktionen - Ölpreisdeckel aber verlängert",
       "url": "https://www.deutschlandfunk.de/vorerst-keine-einigung-auf-neue-russland-sanktionen-oelpreisdeckel-aber-verlaengert-104.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Wadephul in Finnland - Deutschland und Finnland wollen Zusammenarbeit im Sicherheitsbereich ausbauen",
       "url": "https://www.deutschlandfunk.de/deutschland-und-finnland-wollen-zusammenarbeit-im-sicherheitsbereich-ausbauen-112.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Fußball - Zweites WM-Halbfinale: Argentinien besiegt England",
       "url": "https://www.deutschlandfunk.de/zweites-wm-halbfinale-argentinien-besiegt-england-104.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Genua - Urteile in Prozess um Brückeneinsturz erwartet",
       "url": "https://www.deutschlandfunk.de/urteile-in-prozess-um-brueckeneinsturz-erwartet-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Aktionsplan gegen Steuerbetrug - Klingbeil und Hubig stellen in Berlin Details vor",
       "url": "https://www.deutschlandfunk.de/klingbeil-und-hubig-stellen-in-berlin-details-vor-102.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "USA - Neue Sanktionen sollen Waffenbeschaffung des Iran erschweren",
       "url": "https://www.deutschlandfunk.de/neue-sanktionen-sollen-waffenbeschaffung-des-iran-erschweren-104.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Hormone - US-Regierung will Soldaten auf Testosteron-Mangel testen",
       "url": "https://www.deutschlandfunk.de/us-regierung-will-soldaten-auf-testosteron-mangel-testen-100.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Gedenktag - EU-Kommission erinnert an Opfer der Klimakrise",
       "url": "https://www.deutschlandfunk.de/eu-kommission-erinnert-an-opfer-der-klimakrise-104.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Migration - Deutschland und Österreich wollen an Grenzkontrollen festhalten",
       "url": "https://www.deutschlandfunk.de/deutschland-und-oesterreich-wollen-an-grenzkontrollen-festhalten-108.html",
-      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Israel - Wehrpflicht: Oberstes Gericht kassiert umstrittenes Schutzgesetz für ultraorthodoxe Juden",
+      "url": "https://www.deutschlandfunk.de/wehrpflicht-oberstes-gericht-kassiert-umstrittenes-schutzgesetz-fuer-ultraorthodoxe-juden-104.html",
+      "publishedAt": "2026-07-16T05:29:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
