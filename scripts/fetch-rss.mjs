@@ -15,6 +15,16 @@ const feeds = [
     source: 'TAZ.DE',
     category: 'POLITIK',
     url: 'https://taz.de/!p4608;rss/'
+  },
+  {
+    source: 'SPIEGEL.DE',
+    category: 'POLITIK',
+    url: 'https://www.spiegel.de/politik/index.rss'
+  },
+  {
+    source: 'DLF',
+    category: 'NACHRICHTEN',
+    url: 'https://www.deutschlandfunk.de/nachrichten-100.rss'
   }
 ];
 
@@ -59,10 +69,10 @@ const settled = await Promise.allSettled(feeds.map(async feed => {
 
 const messages = settled
   .filter(result => result.status === 'fulfilled')
-  .flatMap(result => result.value)
+  .flatMap(result => result.value.slice(0, 20))
   .filter((item, index, items) => items.findIndex(other => other.url === item.url) === index)
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
-  .slice(0, 72);
+  .slice(0, 100);
 
 if (!messages.length) throw new Error('Kein RSS-Feed konnte geladen werden.');
 

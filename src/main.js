@@ -283,7 +283,7 @@ renderer.xr.addEventListener('sessionend', () => { ui.vr.textContent = 'VR'; });
 function openCardUrl(card) {
   if (!card?.userData.url) return;
   const url = new URL(card.userData.url);
-  if (!['www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de'].includes(url.hostname)) return;
+  if (!['www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de', 'www.spiegel.de', 'spiegel.de', 'www.deutschlandfunk.de', 'deutschlandfunk.de'].includes(url.hostname)) return;
   window.open(url.href, '_blank', 'noopener');
 }
 

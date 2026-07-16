@@ -131,7 +131,7 @@ button { font: inherit; }
   .meter { display: none; }
   .controls { right: 12px; bottom: 12px; left: 12px; grid-template-columns: 1fr 1.4fr 1fr 1fr; }
   .controls button { min-height: 54px; padding: 0 7px; font-size: 8px; }
-  .demo-note { left: 18px; bottom: 74px; }
+  .demo-note { right: 18px; left: 18px; bottom: 74px; line-height: 1.5; }
   .movement-hint { top: 44px; left: 18px; max-width: calc(100vw - 36px); line-height: 1.5; }
   .intro small { line-height: 1.5; }
 }

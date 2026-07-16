@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-07-16T05:20:18.546Z",
+  "updatedAt": "2026-07-16T05:31:17.900Z",
   "messages": [
+    {
+      "source": "DLF",
+      "title": "Müritz-Nationalpark - Waldbrand breitet sich aus - Explosion von Altmunition",
+      "url": "https://www.deutschlandfunk.de/waldbrand-breitet-sich-aus-explosion-von-altmunition-118.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "EU-Etat für 2027 - Länder wollen acht Milliarden weniger als EU-Kommission",
+      "url": "https://www.deutschlandfunk.de/laender-wollen-acht-milliarden-weniger-als-eu-kommission-106.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iran-Krieg - US-Militär verkündet neue Angriffswelle",
+      "url": "https://www.deutschlandfunk.de/us-militaer-verkuendet-neue-angriffswelle-104.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Russland greift Kiew erneut mit ballistischen Raketen an: zwei Tote",
+      "url": "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-ballistischen-raketen-an-zwei-tote-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukrainische Hauptstadt - Russland greift Kiew erneut mit ballistischen Raketen an",
+      "url": "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-ballistischen-raketen-an-102.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Kabinettsumbildung: Selenskyj beantragt Ernennung von Chef des Energiekonzerns Naftogaz zum neuen Ministerpräsidenten",
+      "url": "https://www.deutschlandfunk.de/kabinettsumbildung-selenskyj-beantragt-ernennung-von-chef-des-energiekonzerns-naftogaz-zum-neuen-min-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Migration - Illegale Einreisen stark gesunken: EU fordert Deutschland zu Stopp von innereuropäischen Grenzkontrollen auf",
+      "url": "https://www.deutschlandfunk.de/illegale-einreisen-stark-gesunken-eu-fordert-deutschland-zu-stopp-von-innereuropaeischen-grenzkontro-102.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Nationalversammlung macht Weg für Sterbehilfe-Reform endgültig frei",
+      "url": "https://www.deutschlandfunk.de/nationalversammlung-macht-weg-fuer-sterbehilfe-reform-endgueltig-frei-110.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wegen Hitze und Trockenheit - Städtetag ruft zu bewussterem Umgang mit Wasser auf",
+      "url": "https://www.deutschlandfunk.de/staedtetag-ruft-zu-bewussterem-umgang-mit-wasser-auf-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sonderverwaltungszone - Behörden in Hongkong durchsuchen erneut Buchläden - fünf Festnahmen",
+      "url": "https://www.deutschlandfunk.de/behoerden-in-hongkong-durchsuchen-erneut-buchlaeden-fuenf-festnahmen-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundeswirtschaftsministerium - Deutsche Rüstungsexporte steigen im ersten Halbjahr 2026 auf neuen Rekordwert",
+      "url": "https://www.deutschlandfunk.de/deutsche-ruestungsexporte-steigen-im-ersten-halbjahr-2026-auf-neuen-rekordwert-108.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "EU-Mitgliedsstaaten - Vorerst keine Einigung auf neue Russland-Sanktionen - Ölpreisdeckel aber verlängert",
+      "url": "https://www.deutschlandfunk.de/vorerst-keine-einigung-auf-neue-russland-sanktionen-oelpreisdeckel-aber-verlaengert-104.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wadephul in Finnland - Deutschland und Finnland wollen Zusammenarbeit im Sicherheitsbereich ausbauen",
+      "url": "https://www.deutschlandfunk.de/deutschland-und-finnland-wollen-zusammenarbeit-im-sicherheitsbereich-ausbauen-112.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - Zweites WM-Halbfinale: Argentinien besiegt England",
+      "url": "https://www.deutschlandfunk.de/zweites-wm-halbfinale-argentinien-besiegt-england-104.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Genua - Urteile in Prozess um Brückeneinsturz erwartet",
+      "url": "https://www.deutschlandfunk.de/urteile-in-prozess-um-brueckeneinsturz-erwartet-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Aktionsplan gegen Steuerbetrug - Klingbeil und Hubig stellen in Berlin Details vor",
+      "url": "https://www.deutschlandfunk.de/klingbeil-und-hubig-stellen-in-berlin-details-vor-102.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Neue Sanktionen sollen Waffenbeschaffung des Iran erschweren",
+      "url": "https://www.deutschlandfunk.de/neue-sanktionen-sollen-waffenbeschaffung-des-iran-erschweren-104.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hormone - US-Regierung will Soldaten auf Testosteron-Mangel testen",
+      "url": "https://www.deutschlandfunk.de/us-regierung-will-soldaten-auf-testosteron-mangel-testen-100.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gedenktag - EU-Kommission erinnert an Opfer der Klimakrise",
+      "url": "https://www.deutschlandfunk.de/eu-kommission-erinnert-an-opfer-der-klimakrise-104.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Migration - Deutschland und Österreich wollen an Grenzkontrollen festhalten",
+      "url": "https://www.deutschlandfunk.de/deutschland-und-oesterreich-wollen-an-grenzkontrollen-festhalten-108.html",
+      "publishedAt": "2026-07-16T05:28:03.000Z",
+      "category": "NACHRICHTEN"
+    },
     {
       "source": "TAZ.DE",
       "title": "Tomás Saraceno über Natur und Kunst: „Ein Werk gemeinsam mit den Menschen“",
@@ -37,11 +177,11 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "US-Militär greift Tanker auf dem Weg zu iranischem Hafen an",
-      "url": "https://www.tagesschau.de/ausland/asien/us-angriffe-iran-100.html",
-      "publishedAt": "2026-07-16T02:42:43.000Z",
-      "category": "AUSLAND"
+      "source": "SPIEGEL.DE",
+      "title": "News: Argentinien im WM-Finale, Chemie-Standort Ludwigshafen, Präsidentschaftskandidatin Ilse Aigner",
+      "url": "https://www.spiegel.de/politik/deutschland/news-argentinien-im-wm-finale-chemie-standort-ludwigshafen-praesidentschaftskandidatin-ilse-aigner-a-492da042-8e59-4d5c-b80a-7efee1f03a1e#ref=rss",
+      "publishedAt": "2026-07-16T03:43:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -56,6 +196,13 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html",
       "publishedAt": "2026-07-15T18:30:41.000Z",
       "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Christian Dürr: Ex-FDP-Chef steigt bei Start-up für E-Fuels ein",
+      "url": "https://www.spiegel.de/politik/christian-duerr-ex-fdp-chef-steigt-bei-start-up-fuer-e-fuels-ein-a-ff91c381-0118-4c19-b12b-e769b501d09b#ref=rss",
+      "publishedAt": "2026-07-15T18:21:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -128,6 +275,20 @@
       "category": "AUSLAND"
     },
     {
+      "source": "SPIEGEL.DE",
+      "title": "Unterhaltsvorschuss: wieso der Staat so viel Geld für säumige Väter ausgibt. Und was sich jetzt ändern soll",
+      "url": "https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-wieso-der-staat-so-viel-geld-fuer-saeumige-vaeter-ausgibt-und-was-sich-jetzt-aendern-soll-a-d4b2b872-2f8b-4826-b3bd-3f4b0bac00b4#ref=rss",
+      "publishedAt": "2026-07-15T17:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: »Ich bin ein lernfähiges System« – der Kanzler bei der Bundespressekonferenz",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ich-bin-ein-lernfaehiges-system-der-kanzler-bei-der-bundespressekonferenz-a-d4d2f899-e317-4d7d-896b-b92b80a9b0bc#ref=rss",
+      "publishedAt": "2026-07-15T16:49:00.000Z",
+      "category": "POLITIK"
+    },
+    {
       "source": "TAZ.DE",
       "title": "Blockade im US-Kongress: Zartes Zeichen des Widerstand",
       "url": "https://taz.de/Blockade-im-US-Kongress/!6196218/",
@@ -146,13 +307,6 @@
       "title": "Finanzaffäre in Brüssel: Die EVP macht gemeinsame Sache mit den rechten Patrioten",
       "url": "https://taz.de/Finanzaffaere-in-Bruessel/!6196387/",
       "publishedAt": "2026-07-15T16:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reaktion auf den Irankrieg: Die Umgehungsstraße von Hormus",
-      "url": "https://taz.de/Reaktion-auf-den-Irankrieg/!6196214/",
-      "publishedAt": "2026-07-15T16:37:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -177,11 +331,25 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Israel: Oberstes Gericht kassiert vorerst Sonderrechte für Ultraorthodoxe",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-gerichtshof-ultraorthodoxe-100.html",
-      "publishedAt": "2026-07-15T15:30:43.000Z",
-      "category": "AUSLAND"
+      "source": "SPIEGEL.DE",
+      "title": "Gescheitertes Fregatten-Projekt: Pistorius drohen Nachforderungen in Höhe von Hunderten Millionen Euro",
+      "url": "https://www.spiegel.de/politik/deutschland/gescheitertes-fregatten-projekt-pistorius-drohen-nachforderungen-in-hoehe-von-hunderten-millionen-euro-a-898f5a72-f68b-4ae7-86f2-ee883f86c44b#ref=rss",
+      "publishedAt": "2026-07-15T16:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Bayern: Kostet ein Volksbegehren Markus Söder eine dritte Amtszeit?",
+      "url": "https://www.spiegel.de/politik/deutschland/bayern-kostet-ein-volksbegehren-markus-soeder-eine-dritte-amtszeit-a-623aebad-13f1-4eed-94bd-d463470c1f31#ref=rss",
+      "publishedAt": "2026-07-15T16:11:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: CDU mobilisiert Mitglieder gegen die AfD, AfD-Veranstaltung in Dessau, fünfter Jahrestag der Flutkatastrophe im Ahrtal",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-mobilisiert-mitglieder-gegen-die-afd-afd-veranstaltung-in-dessau-fuenfter-jahrestag-der-flutkatastrophe-im-ahrtal-a-75fd5043-e0ec-4cd6-83e9-d45787aed98c#ref=rss",
+      "publishedAt": "2026-07-15T15:54:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -191,10 +359,10 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "US-Gericht weist Einspruch ab: Trump zahlt 5,6 Millionen Dollar an E. Jean Carroll",
-      "url": "https://taz.de/US-Gericht-weist-Einspruch-ab/!6196415/",
-      "publishedAt": "2026-07-15T15:26:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Jens Spahn und Ehemann Daniel Funke sind Eltern geworden",
+      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-und-ehemann-daniel-funke-sind-eltern-geworden-a-869fe71e-9d39-4195-b9d6-955be2f1f30d#ref=rss",
+      "publishedAt": "2026-07-15T15:28:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -203,6 +371,13 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-dilemma-100.html",
       "publishedAt": "2026-07-15T15:24:18.000Z",
       "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Sein schwächster Moment? Da fällt dem Kanzler so schnell nichts ein",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-sein-schwaechster-moment-da-faellt-dem-kanzler-so-schnell-nichts-ein-a-4206617e-daa1-416f-9695-521794559414#ref=rss",
+      "publishedAt": "2026-07-15T15:20:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -226,46 +401,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "US-Konferenz mit Außenminister Rubio: Bundesregierung nimmt an Trumps Anti-Antifa-Gipfel teil",
-      "url": "https://taz.de/US-Konferenz-mit-Marco-Rubio/!6196349/",
-      "publishedAt": "2026-07-15T14:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "CARE-Pakete nach Kriegsende: US-Hilfe in Konservendosen",
       "url": "https://www.tagesschau.de/ausland/amerika/care-pakete-hilfe-nach-weltkrieg-100.html",
       "publishedAt": "2026-07-15T14:48:24.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Folgen der Klimakrise: Wenn Wassermangel normal wird",
-      "url": "https://taz.de/Folgen-der-Klimakrise/!6196185/",
-      "publishedAt": "2026-07-15T14:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Schutzfunktion in Gefahr: Deutschlands Landschaften kühlen nicht mehr gut",
-      "url": "https://taz.de/Schutzfunktion-in-Gefahr/!6196205/",
-      "publishedAt": "2026-07-15T14:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Von der Leyen und Selenskyj schließen Drohnenabkommen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-abkommen-verteidigung-100.html",
-      "publishedAt": "2026-07-15T14:30:33.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach Protest gegen Rheinmetall-Fabrik: Verhaftet wegen Polizeigewahrsam",
-      "url": "https://taz.de/Nach-Protest-gegen-Rheinmetall-Fabrik/!6196208/",
-      "publishedAt": "2026-07-15T14:29:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -275,24 +415,10 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Restitution von NS-Raubkunst: Kehrtwende in Bayern",
-      "url": "https://taz.de/NS-Raubkunst-Kehrtwende-in-Bayern/!6196291/",
-      "publishedAt": "2026-07-15T14:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Russische Angriffe auf die Ostukraine: Die Front rückt immer näher",
-      "url": "https://taz.de/Russische-Angriffe-auf-die-Ostukraine/!6196248/",
-      "publishedAt": "2026-07-15T14:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "+++ Nachrichten im Ukrainekrieg +++: EU und Ukraine schließen Drohnen-Deal",
-      "url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6196386/",
-      "publishedAt": "2026-07-15T14:00:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Ungarn: Deutsche Außenpolitiker verteidigen Rückbau des Systems Viktor Orbán",
+      "url": "https://www.spiegel.de/politik/deutschland/ungarn-deutsche-aussenpolitiker-verteidigen-rueckbau-des-systems-viktor-orban-a-c54a7fc3-d059-43eb-8ae7-c4400cd24440#ref=rss",
+      "publishedAt": "2026-07-15T14:11:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -303,95 +429,11 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Kinder fragen, die taz antwortet: Sind Kuhhörner eigentlich innen hohl?",
-      "url": "https://taz.de/Kinder-fragen-die-taz-antwortet/!6191048/",
-      "publishedAt": "2026-07-15T13:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Danke, Frankreich: Der (vor)letzte Akkord",
-      "url": "https://taz.de/Danke-Frankreich/!6196197/",
-      "publishedAt": "2026-07-15T13:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Was beim Unterhaltsvorschuss geplant ist - und wen das betrifft",
       "url": "https://www.tagesschau.de/inland/innenpolitik/unterhaltsvorschuss-prien-kritik-100.html",
       "publishedAt": "2026-07-15T13:23:00.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ende einer Trainerära: Ein Herz für Didier Deschamps",
-      "url": "https://taz.de/Ende-einer-Traineraera/!6196196/",
-      "publishedAt": "2026-07-15T13:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Spaniens überragender Defensivspieler: Der neue Kaiser",
-      "url": "https://taz.de/Spaniens-ueberragender-Defensivspieler/!6196193/",
-      "publishedAt": "2026-07-15T13:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Politiker und WM-Kolumnist: Bundestagsvizepräsident als „Kicker“-Lyriker",
-      "url": "https://taz.de/Politiker-und-WM-Kolumnist/!6196198/",
-      "publishedAt": "2026-07-15T13:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Das WM-Tagebuch des Fifa-Präsidenten: Volles Verständnis für die Fans",
-      "url": "https://taz.de/Das-WM-Tagebuch-des-Fifa-Praesidenten/!6196190/",
-      "publishedAt": "2026-07-15T13:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Analyse: Wie der Putschversuch 2016 und Erdoğans Machtgewinn zusammenhängen",
-      "url": "https://www.tagesschau.de/ausland/asien/10-jahre-putsch-tuerkei-100.html",
-      "publishedAt": "2026-07-15T13:13:55.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Elon Musk kauft Energieunternehmen: KI-Kampf in den USA",
-      "url": "https://taz.de/Energiehunger-Kuenstlicher-Intelligenz/!6196186/",
-      "publishedAt": "2026-07-15T13:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach Verbotsplan für Kinder: Briten wollen 16- und 17-Jährigen nachts Social Media sperren",
-      "url": "https://taz.de/London-kuendigt-naechtliche-Social-Media-Sperre-fuer-aeltere-Jugendliche-an/!6196328/",
-      "publishedAt": "2026-07-15T12:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Entscheidung steht bevor: Mehr Konkurrenz auf der Schiene",
-      "url": "https://taz.de/Entscheidung-steht-bevor/!6196172/",
-      "publishedAt": "2026-07-15T12:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Melonis Wahlrechtsreform in Italien: Abstimmungspleite beim Herzensprojekt",
-      "url": "https://taz.de/Melonis-Wahlrechtsreform-in-Italien/!6196243/",
-      "publishedAt": "2026-07-15T12:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Medienbericht über Schatten-Datenbank: Schufa speichert alte Daten länger als angenommen",
-      "url": "https://taz.de/Medienbericht-ueber-Schattendatenbank/!6196226/",
-      "publishedAt": "2026-07-15T11:53:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -401,31 +443,17 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Natur im Fadenkreuz: Krieg und Wirtschaftskrise setzen iranischen Wildtieren zu",
-      "url": "https://taz.de/Krieg-und-Wirtschaftskrise-setzen-iranischen-Wildtieren-zu/!6196283/",
-      "publishedAt": "2026-07-15T11:38:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Hape Kerkeling soll bei Anhörung über AfD-Verbotsverfahren in Thüringen sprechen",
+      "url": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-soll-bei-anhoerung-ueber-afd-verbotsverfahren-in-thueringen-sprechen-a-4c3b220e-b19a-4410-9308-e6b78c62afcc#ref=rss",
+      "publishedAt": "2026-07-15T11:21:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Spanien zieht ins WM-Finale ein: Im feinen Netz der Spinne",
-      "url": "https://taz.de/Spanien-zieht-ins-WM-Finale-ein/!6196204/",
-      "publishedAt": "2026-07-15T11:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Roman „Eisen“: Monteur der Avantgarde",
-      "url": "https://taz.de/Roman-Eisen/!6187175/",
-      "publishedAt": "2026-07-15T11:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Neonazi-Flucht gescheitert: Marla Svenja Liebich nach Deutschland ausgeliefert",
-      "url": "https://taz.de/Neonazi-Flucht-gescheitert/!6196268/",
-      "publishedAt": "2026-07-15T10:41:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Was von seinem Auftritt auf der Sommerpressekonferenz bleibt – drei Erkenntnisse",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-von-seinem-auftritt-auf-der-sommerpressekonferenz-bleibt-drei-erkenntnisse-a-64f43284-00fb-4652-a3c6-3cb7dc83bba7#ref=rss",
+      "publishedAt": "2026-07-15T10:50:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -443,17 +471,17 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Scam-Fabriken in Südostasien: Pekings Kampf gegen die Drahtzieher",
-      "url": "https://taz.de/Scam-Fabriken-in-Suedostasien/!6185926/",
-      "publishedAt": "2026-07-15T09:22:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt: CDU mobilisiert bundesweit Mitglieder für den Wahlkampf gegen die AfD",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-mobilisiert-bundesweit-mitglieder-fuer-den-wahlkampf-gegen-die-afd-a-cffbfafa-9bcf-4969-af69-f35c98b7bb35#ref=rss",
+      "publishedAt": "2026-07-15T10:01:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Scam-Fabriken in Myanmar: Der große Betrug",
-      "url": "https://taz.de/Scam-Fabriken-in-Myanmar/!6187668/",
-      "publishedAt": "2026-07-15T09:20:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Reform des Informationsfreiheitsgesetzes: Mit diesem Trick dürfen Union und SPD nicht durchkommen",
+      "url": "https://www.spiegel.de/politik/reform-des-informationsfreiheitsgesetzes-mit-diesem-trick-duerfen-union-und-spd-nicht-durchkommen-a-aa515591-fba6-452a-a0f0-1c128c23e64a#ref=rss",
+      "publishedAt": "2026-07-15T09:13:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -478,10 +506,10 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Teil 6 der Reihe zum 100. Geburtstag: Foucault und die Faschisierung",
-      "url": "https://taz.de/Teil-6-der-Reihe-zum-100-Geburtstag/!6195443/",
-      "publishedAt": "2026-07-15T07:40:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt: Uwe Steimle singt DDR-Hymne, Tino Chrupalla und Ulrich Siegmund stimmen ein",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-kabarettist-uwe-steimle-singt-ddr-hymne-tino-chrupalla-und-ulrich-siegmund-stimmen-ein-a-528664c3-14bd-4f4d-b611-a0b4e7bee16b#ref=rss",
+      "publishedAt": "2026-07-15T06:54:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -499,11 +527,179 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Im Podcast mit Fremden plaudern: Nette Leute gibt es überall, auch in Berlin",
-      "url": "https://taz.de/Im-Podcast-mit-Fremden-plaudern/!6195960/",
-      "publishedAt": "2026-07-15T05:00:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "Kreislaufwirtschaft: Ökodesign-Pflicht soll Vernichtung von Kleidung stoppen",
+      "url": "https://www.spiegel.de/politik/kreislaufwirtschaft-oekodesign-pflicht-soll-vernichtung-von-kleidung-stoppen-a-dfcc88cc-251e-4b04-bb65-8e53faa37141#ref=rss",
+      "publishedAt": "2026-07-15T03:55:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Mossad, Iran, Friedrich Merz, Putschversuch Türkei 2016",
+      "url": "https://www.spiegel.de/politik/deutschland/news-mossad-iran-friedrich-merz-putschversuch-tuerkei-2016-a-22a806ec-5d9d-4f35-97d8-d068d23a5e3a#ref=rss",
+      "publishedAt": "2026-07-15T03:42:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Abstimmung in Abgeordnetenkammer: Schlappe für Italiens Ministerpräsidentin Meloni",
+      "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-italien-100.html",
+      "publishedAt": "2026-07-15T03:01:41.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "74-jähriger Mann in Florida hingerichtet - nach 40 Jahren Haft",
+      "url": "https://www.tagesschau.de/ausland/amerika/hinrichtung-74-jaehriger-florida-100.html",
+      "publishedAt": "2026-07-15T01:39:00.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Gescheitertes Fregatten-Projekt: Damen-Werft wirft Boris Pistorius Rechtsbruch vor",
+      "url": "https://www.spiegel.de/politik/deutschland/gescheitertes-fregatten-projekt-damen-werft-wirft-pistorius-rechtsbruch-vor-a-e204fe3a-f6e9-4287-bbb4-28998a6c0075#ref=rss",
+      "publishedAt": "2026-07-14T18:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Ahrtal: Gordon Schnieder bittet nach Ahrtal-Katastrophe um Entschuldigung",
+      "url": "https://www.spiegel.de/politik/deutschland/ahrtal-ministerpraesident-gordon-schnieder-bittet-nach-ahrtal-katastrophe-um-entschuldigung-a-cce1e7d3-58d7-47ed-ae8c-656f4ffd47c6#ref=rss",
+      "publishedAt": "2026-07-14T17:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Mehrere Tote bei Gebäudebrand in Brüsseler Innenstadt",
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-gebaeudebrand-bruessel-100.html",
+      "publishedAt": "2026-07-14T17:56:00.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Trump will nun doch keine Gebühren für Hormus-Durchfahrt erheben",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-gebuehren-hormus-100.html",
+      "publishedAt": "2026-07-14T17:23:13.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Trumps Börsendeals, Mossad-Plan für Regimewechsel in Iran, Karin Priens Unterhaltskürzungen",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss",
+      "publishedAt": "2026-07-14T16:04:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "China-Politik: Wie Deutschland seine Industrie schützen will",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/china-wettbewerb-deutschland-100.html",
+      "publishedAt": "2026-07-14T14:37:33.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bevölkerungszahl der EU geht bis 2100 laut Studie um fast 52 Millionen zurück",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-sinkende-bevoelkerungszahl-100.html",
+      "publishedAt": "2026-07-14T14:29:08.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Frankreich setzt mit Militärparade Zeichen für Ukraine-Unterstützung",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-nationalfeiertag-macron-100.html",
+      "publishedAt": "2026-07-14T14:00:37.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html",
+      "publishedAt": "2026-07-14T05:32:28.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Prien will Unterhaltsvorschuss kürzen - Widerstand wächst",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/unterhalt-vorschuss-kuerzung-kritik-100.html",
+      "publishedAt": "2026-07-13T15:34:28.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Hubig will Entschädigung für zu Unrecht inhaftierte anheben",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/justiz-entschaedigung-zu-unrecht-inhaftiert-gesetz-100.html",
+      "publishedAt": "2026-07-13T11:09:34.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html",
+      "publishedAt": "2026-07-12T16:31:50.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "ARD-Sommerinterview: Linken-Chefin Schwerdtner kritisiert Reformen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-linke-schwerdtner-100.html",
+      "publishedAt": "2026-07-12T16:31:10.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Schwarz-rote Spitzenpolitiker warnen vor unnötigen Sommerloch-Debatten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerloch-diskussion-100.html",
+      "publishedAt": "2026-07-11T10:36:49.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html",
+      "publishedAt": "2026-07-11T09:10:12.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Forderung aus Wirtschaft und Politik: Deutsche Klimaneutralität erst 2050",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-klimaziele-100.html",
+      "publishedAt": "2026-07-11T08:50:25.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
+      "publishedAt": "2026-07-10T19:02:57.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundestag weitet Befugnisse von Bundespolizei deutlich aus",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
+      "publishedAt": "2026-07-10T15:38:36.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie die Koalition ihre Gesundheitsreform durchbrachte",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
+      "publishedAt": "2026-07-10T15:21:04.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
+      "publishedAt": "2026-07-10T13:19:02.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html",
+      "publishedAt": "2026-07-10T11:05:14.000Z",
+      "category": "INNENPOLITIK"
     }
   ]
 }
