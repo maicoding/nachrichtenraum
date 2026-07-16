@@ -1,0 +1,32 @@
+name: RSS aktualisieren
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+        with:
+          ref: main
+      - name: Set up Node
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: lts/*
+      - name: RSS laden
+        run: node scripts/fetch-rss.mjs
+      - name: Aktualisierung veröffentlichen
+        run: |
+          if git diff --quiet -- feeds.json public/feeds.json; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add feeds.json public/feeds.json
+          git commit -m "RSS-Meldungen aktualisieren"
+          git push

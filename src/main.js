@@ -14,7 +14,8 @@ const ui = {
   elapsed: document.querySelector('#elapsed'),
   phase: document.querySelector('#phase'),
   intensity: document.querySelector('#intensity'),
-  count: document.querySelector('#count')
+  count: document.querySelector('#count'),
+  sourceStatus: document.querySelector('#source-status')
 };
 
 const scene = new THREE.Scene();
@@ -74,6 +75,9 @@ const messageGroup = new THREE.Group();
 scene.add(messageGroup);
 const cards = [];
 const clock = new THREE.Clock();
+const raycaster = new THREE.Raycaster();
+const pointer = new THREE.Vector2();
+const controllerRotation = new THREE.Matrix4();
 let running = false;
 let soundOn = true;
 let startedAt = 0;
@@ -81,6 +85,7 @@ let elapsedBeforePause = 0;
 let nextSpawnAt = 0;
 let sequence = 0;
 let flashPower = 0;
+let liveMessages = [];
 const movementKeys = new Set();
 const moveForward = new THREE.Vector3();
 const moveRight = new THREE.Vector3();
@@ -164,7 +169,7 @@ function playTone(intensity) {
 }
 
 function spawnCard(customMessage, close = false, quiet = false) {
-  const message = customMessage || messageAt(sequence);
+  const message = customMessage || (liveMessages.length ? liveMessages[sequence % liveMessages.length] : messageAt(sequence));
   const material = new THREE.MeshBasicMaterial({
     map: makeCardTexture(message, sequence),
     transparent: true,
@@ -176,7 +181,7 @@ function spawnCard(customMessage, close = false, quiet = false) {
   card.position.copy(cardPosition(sequence, close));
   camera.getWorldPosition(cameraWorldPosition);
   card.lookAt(cameraWorldPosition);
-  card.userData = { born: clock.elapsedTime, targetScale: 1, drift: (Math.random() - .5) * .025 };
+  card.userData = { born: clock.elapsedTime, targetScale: 1, drift: (Math.random() - .5) * .025, url: message.url || '' };
   card.scale.setScalar(.05);
   messageGroup.add(card);
   cards.push(card);
@@ -275,26 +280,65 @@ ui.vr.addEventListener('click', () => xrButton.click());
 renderer.xr.addEventListener('sessionstart', () => { start(); ui.vr.textContent = 'VR AKTIV'; });
 renderer.xr.addEventListener('sessionend', () => { ui.vr.textContent = 'VR'; });
 
+function openCardUrl(card) {
+  if (!card?.userData.url) return;
+  const url = new URL(card.userData.url);
+  if (!['www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de'].includes(url.hostname)) return;
+  window.open(url.href, '_blank', 'noopener');
+}
+
+function openFirstCardHit() {
+  const hit = raycaster.intersectObjects(cards, false)[0];
+  if (hit) openCardUrl(hit.object);
+}
+
+for (let index = 0; index < 2; index += 1) {
+  const controller = renderer.xr.getController(index);
+  controller.addEventListener('select', function selectCard() {
+    controllerRotation.identity().extractRotation(this.matrixWorld);
+    raycaster.ray.origin.setFromMatrixPosition(this.matrixWorld);
+    raycaster.ray.direction.set(0, 0, -1).applyMatrix4(controllerRotation);
+    openFirstCardHit();
+  });
+  player.add(controller);
+}
+
 let dragging = false;
 let pointerX = 0;
 let pointerY = 0;
+let pointerStartX = 0;
+let pointerStartY = 0;
+let pointerMoved = false;
 let yaw = 0;
 let pitch = 0;
 renderer.domElement.addEventListener('pointerdown', event => {
   dragging = true;
   pointerX = event.clientX;
   pointerY = event.clientY;
+  pointerStartX = event.clientX;
+  pointerStartY = event.clientY;
+  pointerMoved = false;
   renderer.domElement.setPointerCapture(event.pointerId);
 });
 renderer.domElement.addEventListener('pointermove', event => {
   if (!dragging || renderer.xr.isPresenting) return;
+  if (Math.hypot(event.clientX - pointerStartX, event.clientY - pointerStartY) > 6) pointerMoved = true;
   yaw -= (event.clientX - pointerX) * .0032;
   pitch -= (event.clientY - pointerY) * .0032;
   pitch = THREE.MathUtils.clamp(pitch, -1.28, 1.28);
   pointerX = event.clientX;
   pointerY = event.clientY;
 });
-renderer.domElement.addEventListener('pointerup', () => { dragging = false; });
+renderer.domElement.addEventListener('pointerup', event => {
+  dragging = false;
+  if (pointerMoved || renderer.xr.isPresenting) return;
+  const rect = renderer.domElement.getBoundingClientRect();
+  pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+  pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+  camera.updateMatrixWorld(true);
+  raycaster.setFromCamera(pointer, camera);
+  openFirstCardHit();
+});
 renderer.domElement.addEventListener('pointercancel', () => { dragging = false; });
 
 const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
@@ -412,7 +456,51 @@ async function pollLiveMessages() {
 }
 setInterval(pollLiveMessages, 8000);
 
+function relativeAge(publishedAt) {
+  const minutes = Math.max(0, Math.floor((Date.now() - Date.parse(publishedAt)) / 60000));
+  if (minutes < 1) return 'gerade eben';
+  if (minutes < 60) return `vor ${minutes} Minuten`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return `vor ${hours} ${hours === 1 ? 'Stunde' : 'Stunden'}`;
+  const days = Math.floor(hours / 24);
+  return `vor ${days} ${days === 1 ? 'Tag' : 'Tagen'}`;
+}
+
+function clearCards() {
+  while (cards.length) {
+    const card = cards.pop();
+    card.material.map.dispose();
+    card.material.dispose();
+    card.geometry.dispose();
+    messageGroup.remove(card);
+  }
+}
+
+async function loadRssMessages() {
+  const candidates = ['./feeds.json', './public/feeds.json'];
+  for (const path of candidates) {
+    try {
+      const response = await fetch(`${path}?v=${Date.now()}`, { cache: 'no-store' });
+      if (!response.ok) continue;
+      const payload = await response.json();
+      const messages = (payload.messages || []).filter(item => item.title && item.source);
+      if (!messages.length) continue;
+      liveMessages = messages.map(item => ({ ...item, age: relativeAge(item.publishedAt) }));
+      clearCards();
+      sequence = 0;
+      for (let index = 0; index < 132; index += 1) spawnCard(null, index < 16, true);
+      const updated = new Date(payload.updatedAt);
+      ui.sourceStatus.textContent = `LIVE RSS · STAND ${updated.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })}`;
+      return;
+    } catch {
+      continue;
+    }
+  }
+  ui.sourceStatus.textContent = 'DEMO-INHALTE · RSS NICHT ERREICHBAR';
+}
+
 for (let i = 0; i < 132; i += 1) spawnCard(null, i < 16, true);
+loadRssMessages();
 
 renderer.setAnimationLoop(() => {
   const delta = Math.min(clock.getDelta(), .05);

@@ -11,7 +11,11 @@ npm install
 npm run dev
 ```
 
-Die angezeigten Meldungen sind gekennzeichnete Demo-Inhalte. Eine externe Quelle kann über `VITE_MESSAGE_ENDPOINT` angebunden werden. Der Endpunkt liefert dieses Format:
+Die Anwendung lädt Schlagzeilen aus den offiziellen RSS-Feeds von tagesschau.de und taz.de. GitHub aktualisiert `feeds.json` zweimal pro Stunde. Die Karten nennen die Quelle und öffnen beim Anklicken den jeweiligen Artikel.
+
+Die Tagesschau-Inhalte sind für den privaten, nicht-kommerziellen Gebrauch vorgesehen. Für eine öffentliche oder kommerzielle Ausstellung müssen die Nutzungsrechte mit den Anbietern geklärt werden.
+
+Eine weitere externe Quelle kann über `VITE_MESSAGE_ENDPOINT` angebunden werden. Der Endpunkt liefert dieses Format:
 
 ```json
 {
