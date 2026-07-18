@@ -1,285 +1,334 @@
 {
-  "updatedAt": "2026-07-18T08:27:15.705Z",
+  "updatedAt": "2026-07-18T10:04:02.983Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Offener Brief aus Brilon - Merz-Heimatverband fordert Rücktritt von Spahn",
-      "url": "https://www.bild.de/politik/inland/cdu-heimatverband-von-friedrich-merz-fordert-ruecktritt-von-jens-spahn-6a5b2a03340ecb5e694f550a",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Debatte um Leihmutterschaft - Die nächsten 48 Stunden sind entscheidend für Spahn!",
-      "url": "https://www.bild.de/politik/inland/jens-spahn-wegen-baby-per-leihmutter-in-kritik-senkt-auch-markus-soeder-den-daumen-6a5afdb0c72232627649a027",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "In der Straße von Hormus - Zwei Tanker durch Minen „explodiert“?",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/in-der-strasse-von-hormus-zwei-tanker-durch-minen-explodiert-6a5ac31c61b8a80211aaa270",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "AUSLAND UND INTERNATIONALES"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Dobrindt setzt Gefahrenstufe hoch - Mit Anschlag-Risiko „jederzeit“ zu rechnen",
-      "url": "https://www.bild.de/politik/inland/dobrindt-setzt-gefahrenstufe-hoch-mit-anschlag-risiko-jederzeit-zu-rechnen-6a5af10f61b8a80211aaa34e",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - 3 tote Kinder bei Angriff auf Odessa",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach dem Hymnen-Eklat - So viel SED steckt in der AfD",
-      "url": "https://www.bild.de/politik/inland/wie-viel-sed-steckt-in-der-afd-spuren-der-ddr-bei-personal-und-programm-6a5a053cc72232627649965d",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "BILD-PLUS"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kurz vor WM-Finale - Rauch zieht in USA! Trump droht Kanada mit Zöllen",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/kurz-vor-wm-finale-trump-droht-kanada-mit-zoellen-weil-brandrauch-nach-new-york-zieht-6a5a8a01c722326276499e39",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "AUSLAND UND INTERNATIONALES"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Börsen-Beben - Tech-Aktien brechen weltweit ein",
-      "url": "https://www.bild.de/politik/inland/boersen-beben-tech-aktien-brechen-weltweit-ein-6a59d8e429b150f031b15d9d",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ex-CDU-Regierungschef Carstensen deutlich - „Spahn reißt ein, was Friedrich Merz erreicht hat“",
-      "url": "https://www.bild.de/politik/inland/ruecktrittsforderungen-jetzt-ist-jens-spahn-ein-merz-problem-6a59f95dbb3fbf9dba987796",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar über das Abschiebeversagen - Recht muss durchgesetzt werden",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-ueber-das-abschiebeversagen-recht-muss-durchgesetzt-werden-6a5a7a38c722326276499da8",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Fußfesseln, Kopfschutz, Spuckhauben - Der tägliche Kampf um jeden Abschiebe-Flug",
-      "url": "https://www.bild.de/politik/fussfesseln-kopfschutz-spuckhauben-der-taegliche-kampf-um-jeden-abschiebe-flug-6a577af388b6b373594b2b18",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "BILD-PLUS"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ärger von ganz oben - Kirchen gehen auf Spahn los: „Echter Skandal!“",
-      "url": "https://www.bild.de/politik/inland/leihmutterschaft-kirchen-gehen-auf-jens-spahn-los-echter-skandal-6a5a4d6061b8a80211aa9e3c",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "INLAND"
-    },
     {
       "source": "BILD.DE",
       "title": "Iran-Krieg treibt die Preise - 2,31 Euro pro Liter! Spritpreis schießt wieder in die Höhe",
       "url": "https://www.bild.de/politik/inland/spritpreis-schiesst-wieder-in-die-hoehe-2-31-euro-pro-liter-6a5a040abb3fbf9dba9878f9",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "publishedAt": "2026-07-18T10:04:02.157Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Es geht um das „Süßempfinden“ der Bürger - Lebensmittel-Riesen zoffen sich um Zuckersteuer",
       "url": "https://www.bild.de/politik/inland/lebensmittel-riesen-zoffen-sich-um-zuckersteuer-6a5a3214e2d50c13b9a7a70a",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "publishedAt": "2026-07-18T10:04:02.157Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Exklusiv bei Paul Ronzheimer - Jetzt spricht Spahn",
       "url": "https://www.bild.de/politik/inland/exklusives-gespraech-mit-paul-ronzheimer-jetzt-spricht-spahn-6a5a346bc722326276499a17",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "publishedAt": "2026-07-18T10:04:02.157Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Paul Ronzheimer im Gespräch mit Jens Spahn - „Nicht verboten mit Leihmutter Eltern zu werden“",
       "url": "https://www.bild.de/politik/paul-ronzheimer-im-gespraech-mit-jens-spahn-nicht-verboten-mit-leihmutter-eltern-zu-werden-6a5a3683c722326276499a55",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "publishedAt": "2026-07-18T10:04:02.157Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "RONZHEIMER - Der neue Verbotsplan gegen die AfD. Mit Justus Bender",
-      "url": "https://www.bild.de/politik/ronzheimer-der-neue-verbotsplan-gegen-die-afd-mit-justus-bender-6a5a3c29c722326276499ada",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "title": "Debatte um Leihmutterschaft - Die nächsten 48 Stunden sind entscheidend für Spahn!",
+      "url": "https://www.bild.de/politik/inland/jens-spahn-wegen-baby-per-leihmutter-in-kritik-senkt-auch-markus-soeder-den-daumen-6a5afdb0c72232627649a027",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU-Grande unterstützt Fraktionschef - Roland Koch beklagt „Shitstorm“ gegen Spahn",
+      "url": "https://www.bild.de/politik/inland/hessen-cdu-grande-roland-koch-beklagt-shitstorm-gegen-jens-spahn-6a5b373a340ecb5e694f557a",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Unions-Beben - Jetzt kämpft Spahn um seine politische Karriere",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zoff mit NRW-AfD eskaliert - Einstweilige Verfügung gegen Weidel und Chrupalla!",
+      "url": "https://www.bild.de/politik/inland/afd-in-nordrhein-westfalen-will-einstweilige-verfuegung-gegen-weidel-und-chrupalla-6a5b0f0461b8a80211aaa404",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Offener Brief aus Brilon - Merz-Heimatverband fordert Rücktritt von Spahn",
+      "url": "https://www.bild.de/politik/inland/cdu-heimatverband-von-friedrich-merz-fordert-ruecktritt-von-jens-spahn-6a5b2a03340ecb5e694f550a",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "In der Straße von Hormus - Zwei Tanker durch Minen „explodiert“?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/in-der-strasse-von-hormus-zwei-tanker-durch-minen-explodiert-6a5ac31c61b8a80211aaa270",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "AUSLAND UND INTERNATIONALES"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Dobrindt setzt Gefahrenstufe hoch - Mit Anschlag-Risiko „jederzeit“ zu rechnen",
+      "url": "https://www.bild.de/politik/inland/dobrindt-setzt-gefahrenstufe-hoch-mit-anschlag-risiko-jederzeit-zu-rechnen-6a5af10f61b8a80211aaa34e",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - 3 tote Kinder bei Angriff auf Odessa",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Merz zum Streit um Jens Spahn - Spahn-Thema bleibt auf der CDU-Agenda",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/merz-zum-streit-um-jens-spahn-spahn-thema-bleibt-auf-der-cdu-agenda-6a5a2827e2d50c13b9a7a60f",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
+      "title": "Nach dem Hymnen-Eklat - So viel SED steckt in der AfD",
+      "url": "https://www.bild.de/politik/inland/wie-viel-sed-steckt-in-der-afd-spuren-der-ddr-bei-personal-und-programm-6a5a053cc72232627649965d",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "BILD-PLUS"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kurz vor WM-Finale - Rauch zieht in USA! Trump droht Kanada mit Zöllen",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/kurz-vor-wm-finale-trump-droht-kanada-mit-zoellen-weil-brandrauch-nach-new-york-zieht-6a5a8a01c722326276499e39",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Geschmackloses Propaganda-Plakat - Bei den Mullahs liegt Trump schon im Sarg",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-geschmackloses-propaganda-plakat-bei-den-mullahs-liegt-trump-schon-im-sarg-6a59db3ac72232627649926c",
-      "publishedAt": "2026-07-18T08:27:15.560Z",
-      "category": "AUSLAND UND INTERNATIONALES"
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Börsen-Beben - Tech-Aktien brechen weltweit ein",
+      "url": "https://www.bild.de/politik/inland/boersen-beben-tech-aktien-brechen-weltweit-ein-6a59d8e429b150f031b15d9d",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ex-CDU-Regierungschef Carstensen deutlich - „Spahn reißt ein, was Friedrich Merz erreicht hat“",
+      "url": "https://www.bild.de/politik/inland/ruecktrittsforderungen-jetzt-ist-jens-spahn-ein-merz-problem-6a59f95dbb3fbf9dba987796",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar über das Abschiebeversagen - Recht muss durchgesetzt werden",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-ueber-das-abschiebeversagen-recht-muss-durchgesetzt-werden-6a5a7a38c722326276499da8",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Fußfesseln, Kopfschutz, Spuckhauben - Der tägliche Kampf um jeden Abschiebe-Flug",
+      "url": "https://www.bild.de/politik/fussfesseln-kopfschutz-spuckhauben-der-taegliche-kampf-um-jeden-abschiebe-flug-6a577af388b6b373594b2b18",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "BILD-PLUS"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ärger von ganz oben - Kirchen gehen auf Spahn los: „Echter Skandal!“",
+      "url": "https://www.bild.de/politik/inland/leihmutterschaft-kirchen-gehen-auf-jens-spahn-los-echter-skandal-6a5a4d6061b8a80211aa9e3c",
+      "publishedAt": "2026-07-18T10:04:02.156Z",
+      "category": "INLAND"
     },
     {
       "source": "DLF",
       "title": "\"Hochproblematisch\" - Diskussion um Leihmutterschaft: Bosbach (CDU) legt Spahn Rücktritt nahe",
       "url": "https://www.deutschlandfunk.de/diskussion-um-leihmutterschaft-bosbach-cdu-legt-spahn-ruecktritt-nahe-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Öffentlich-rechtliche Medien - \"Echte Bereitschaft, Strukturen in Frage zu stellen\": NRW-Medienminister Liminski (CDU) nimmt Wandel bei ARD, ZDF und Deutschlandradio wahr",
-      "url": "https://www.deutschlandfunk.de/echte-bereitschaft-strukturen-in-frage-zu-stellen-nrw-medienminister-liminski-cdu-nimmt-wandel-bei-a-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "\"Pläne klar erkennbar\" - Gefahr von Anschlägen und Spionage: Dobrindt stuft Bedrohungslage für Deutschland hoch",
       "url": "https://www.deutschlandfunk.de/gefahr-von-anschlaegen-und-spionage-dobrindt-stuft-bedrohungslage-fuer-deutschland-hoch-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Smart Glasses - Rechtsexpertin Spiecker: \"Betroffene können sich bei heimlichen Aufnahmen von Kamerabrillen duchaus wehren\"",
-      "url": "https://www.deutschlandfunk.de/rechtsexpertin-spiecker-betroffene-koennen-sich-bei-heimlichen-aufnahmen-von-kamerabrillen-duchaus-w-102.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Parteien - Offizieller Wahlkampfauftakt der AfD in Sachsen-Anhalt - Proteste angekündigt",
-      "url": "https://www.deutschlandfunk.de/offizieller-wahlkampfauftakt-der-afd-in-sachsen-anhalt-proteste-angekuendigt-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutsche Bahn - DB-Mitarbeiter stürzt bei Auseinandersetzung mit Fahrgast aus fahrendem Zug",
-      "url": "https://www.deutschlandfunk.de/db-mitarbeiter-stuerzt-bei-auseinandersetzung-mit-fahrgast-aus-fahrendem-zug-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Chefredakteur von \"Finanztip\" - Wirtschaftsjournalist Tenhagen sieht Aufsicht der Krankenkassen wegen Investmentverlusten in der Verantwortung",
-      "url": "https://www.deutschlandfunk.de/wirtschaftsjournalist-tenhagen-sieht-aufsicht-der-krankenkassen-wegen-investmentverlusten-in-der-ver-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "title": "Öffentlich-rechtliche Medien - \"Echte Bereitschaft, Strukturen in Frage zu stellen\": NRW-Medienminister Liminski (CDU) nimmt Wandel bei ARD, ZDF und Deutschlandradio wahr",
+      "url": "https://www.deutschlandfunk.de/echte-bereitschaft-strukturen-in-frage-zu-stellen-nrw-medienminister-liminski-cdu-nimmt-wandel-bei-a-100.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Erneuerbare-Energien-Gesetz - Übergangsregelung geplant: Reiche mildert Einschnitte bei Förderung kleiner Solaranlagen ab",
       "url": "https://www.deutschlandfunk.de/uebergangsregelung-geplant-reiche-mildert-einschnitte-bei-foerderung-kleiner-solaranlagen-ab-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Smart Glasses - Rechtsexpertin Spiecker: \"Betroffene können sich bei heimlichen Aufnahmen von Kamerabrillen durchaus wehren\"",
+      "url": "https://www.deutschlandfunk.de/rechtsexpertin-spiecker-betroffene-koennen-sich-bei-heimlichen-aufnahmen-von-kamerabrillen-durchaus--102.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Parteien - Offizieller Wahlkampfauftakt der AfD in Sachsen-Anhalt - Proteste angekündigt",
+      "url": "https://www.deutschlandfunk.de/offizieller-wahlkampfauftakt-der-afd-in-sachsen-anhalt-proteste-angekuendigt-100.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutsche Bahn - DB-Mitarbeiter stürzt bei Auseinandersetzung mit Fahrgast aus fahrendem Zug",
+      "url": "https://www.deutschlandfunk.de/db-mitarbeiter-stuerzt-bei-auseinandersetzung-mit-fahrgast-aus-fahrendem-zug-100.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Chefredakteur von \"Finanztip\" - Wirtschaftsjournalist Tenhagen sieht Aufsicht der Krankenkassen wegen Investmentverlusten in der Verantwortung",
+      "url": "https://www.deutschlandfunk.de/wirtschaftsjournalist-tenhagen-sieht-aufsicht-der-krankenkassen-wegen-investmentverlusten-in-der-ver-100.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Russland attackiert erneut Hafen von Odessa - Tote nach ukrainischen Angriffen auf Logistikzentren",
+      "url": "https://www.deutschlandfunk.de/russland-attackiert-erneut-hafen-von-odessa-tote-nach-ukrainischen-angriffen-auf-logistikzentren-102.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-WM - Trump dankt FIFA-Chef Infantino für Aufhebung der Sperre gegen US-Stürmer Balogun",
+      "url": "https://www.deutschlandfunk.de/trump-dankt-fifa-chef-infantino-fuer-aufhebung-der-sperre-gegen-us-stuermer-balogun-102.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Raumfahrt - Indiens erste Privatrakete \"Vikram 1\" erfolgreich gestartet – Modi spricht von entscheidendem Moment auf dem Weg seines Landes ins Weltall",
+      "url": "https://www.deutschlandfunk.de/indiens-erste-privatrakete-vikram-1-erfolgreich-gestartet-modi-spricht-von-entscheidendem-moment-auf-104.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mecklenburg-Vorpommern - Landkreis: Waldbrand in Nationalpark Müritz breitet sich weiter aus",
+      "url": "https://www.deutschlandfunk.de/landkreis-waldbrand-in-nationalpark-mueritz-breitet-sich-weiter-aus-100.html",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Irankrieg - USA starten neue Angriffsserie - Revolutionsgarden: Zwei Öltanker in Straße von Hormus auf Minen aufgefahren",
       "url": "https://www.deutschlandfunk.de/usa-starten-neue-angriffsserie-revolutionsgarden-zwei-oeltanker-in-strasse-von-hormus-auf-minen-aufg-102.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Kiew - Nach Entlassung von Verteidigungsminister Fedorow: erneut Proteste in der Ukraine",
       "url": "https://www.deutschlandfunk.de/nach-entlassung-von-verteidigungsminister-fedorow-erneut-proteste-in-der-ukraine-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Internet - Verbraucherschützer gegen Social-Media-Verbot für Jugendliche",
       "url": "https://www.deutschlandfunk.de/verbraucherschuetzer-gegen-social-media-verbot-fuer-jugendliche-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Berlin - Bundestag muss Abstimmung über Polizeigesetz wiederholen",
       "url": "https://www.deutschlandfunk.de/bundestag-muss-abstimmung-ueber-polizeigesetz-wiederholen-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mecklenburg-Vorpommern - Kampf gegen Waldbrand in Nationalpark Müritz geht weiter",
-      "url": "https://www.deutschlandfunk.de/kampf-gegen-waldbrand-in-nationalpark-mueritz-geht-weiter-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Medienbericht - Ausschließlich Alt-Nazis haben die FPÖ aufgebaut",
       "url": "https://www.deutschlandfunk.de/ausschliesslich-alt-nazis-haben-die-fpoe-aufgebaut-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Marl - Machtkampf in der AfD: NRW-Landesverband setzte Parteitag gegen die Aufforderung Weidels und Chrupallas fort",
       "url": "https://www.deutschlandfunk.de/machtkampf-in-der-afd-nrw-landesverband-setzte-parteitag-gegen-die-aufforderung-weidels-und-chrupall-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Russland meldet sieben Tote nach Angriff auf Logistikzentrum",
-      "url": "https://www.deutschlandfunk.de/russland-meldet-sieben-tote-nach-angriff-auf-logistikzentrum-102.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Waldbrände - Trump: Kanada soll für Luftverschmutzung durch Brände zahlen",
       "url": "https://www.deutschlandfunk.de/trump-kanada-soll-fuer-luftverschmutzung-durch-braende-zahlen-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Südamerika - Zahl der Erdbeben-Toten in Venezuela auf mehr als 5.000 gestiegen",
       "url": "https://www.deutschlandfunk.de/zahl-der-erdbeben-toten-in-venezuela-auf-mehr-als-5-000-gestiegen-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
+      "publishedAt": "2026-07-18T09:59:31.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Schloss Augustusburg - Deutsch-französischer Ministerrat in Brühl: Merz und Macron kündigen engere militärische Zusammenarbeit an",
-      "url": "https://www.deutschlandfunk.de/deutsch-franzoesischer-ministerrat-in-bruehl-merz-und-macron-kuendigen-engere-militaerische-zusammen-102.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Hitzetote: Die Gemeinschaft kann einspringen",
+      "url": "https://taz.de/Hitzetote/!6192490/",
+      "publishedAt": "2026-07-18T09:37:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Fußball-Weltmeisterschaft - Frankreich und England spielen um Platz 3",
-      "url": "https://www.deutschlandfunk.de/frankreich-und-england-spielen-um-platz-100.html",
-      "publishedAt": "2026-07-18T08:19:23.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Naturschutz: Trump-Regierung weicht Artenschutzgesetz noch weiter auf",
+      "url": "https://taz.de/Naturschutz/!6197225/",
+      "publishedAt": "2026-07-18T09:25:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "50 Millionen Lotto-Jackpot: 3,40 Euro, um zu träumen",
+      "url": "https://taz.de/50-Millionen-Lotto-Jackpot/!6197088/",
+      "publishedAt": "2026-07-18T09:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Hanta-Virus und Ebolafieber: Eine Insel voller Viren",
+      "url": "https://taz.de/Hanta-Virus-und-Ebolafieber/!6192569/",
+      "publishedAt": "2026-07-18T09:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Umfrage zu Rekordtemperaturen: Ein Viertel der Menschen will nicht erkennen, dass Hitze und Klimawandel zusammenhängen",
+      "url": "https://taz.de/Umfrage-zu-Rekordtemperaturen/!6197226/",
+      "publishedAt": "2026-07-18T09:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Erstes Urteil zu Haasenburg-Forderungen: Heimfirma soll im Prinzip entschädigt werden",
+      "url": "https://taz.de/Erstes-Urteil-zu-Haasenburg-Forderungen/!6196612/",
+      "publishedAt": "2026-07-18T08:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "+++ Nachrichten im Irankrieg +++: Siebte Nacht der gegenseitigen Attacken",
+      "url": "https://taz.de/-Nachrichten-im-Irankrieg-/!6197224/",
+      "publishedAt": "2026-07-18T08:27:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -300,20 +349,6 @@
       "title": "Die Wahrheit: Verscheiden in der Besoldungsgruppe A",
       "url": "https://taz.de/Die-Wahrheit/!6192530/",
       "publishedAt": "2026-07-18T07:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wochentaz-Podcast: Hitzefrei fürs Hirn",
-      "url": "https://taz.de/Wochentaz-Podcast/!6196699/",
-      "publishedAt": "2026-07-18T07:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Pläne der EU-Kommission: Mit Strom gegen den Klimawandel",
-      "url": "https://taz.de/Plaene-der-EU-Kommission/!6197062/",
-      "publishedAt": "2026-07-18T07:07:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -381,27 +416,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Neuer Chef für Labour: Der britische König Charles bekommt Konkurrenz",
-      "url": "https://taz.de/Neuer-Chef-fuer-Labour/!6197154/",
-      "publishedAt": "2026-07-17T17:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach dem Anschlag von Schongau: Die Spuren des Täters und die Schlüsse daraus",
-      "url": "https://taz.de/Nach-dem-Anschlag-von-Schongau/!6197061/",
-      "publishedAt": "2026-07-17T17:50:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wasserkrise: Was Lachse auf Koks uns über Abwasser verraten",
-      "url": "https://taz.de/Wasserkrise/!6195776/",
-      "publishedAt": "2026-07-17T17:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Party für Millennials: Aura wieder aufgeladen",
       "url": "https://taz.de/Party-fuer-Millennials/!6196473/",
       "publishedAt": "2026-07-17T17:39:00.000Z",
@@ -426,13 +440,6 @@
       "title": "Waren aus dem Westjordanland: Irland beschließt Einfuhrverbot aus israelischen Siedlungen",
       "url": "https://taz.de/Waren-aus-dem-Westjordanland/!6197191/",
       "publishedAt": "2026-07-17T16:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Treffen von Merz und Macron: Gemeinsame Nuklearübungen mit Frankreich vereinbart",
-      "url": "https://taz.de/Treffen-von-Merz-und-Macron/!6197206/",
-      "publishedAt": "2026-07-17T16:31:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -496,13 +503,6 @@
       "title": "ZDF lädt Danger Dan und Igor Levit aus: Jetzt canceln sie schon die Staatstragenden",
       "url": "https://taz.de/ZDF-laedt-Danger-Dan-und-Igor-Levit-aus/!6197124/",
       "publishedAt": "2026-07-17T14:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "AfD-Fakes gegen Postkolonialismus: Weiße Schuld weißwaschen",
-      "url": "https://taz.de/AfD-Fakes-gegen-Postkolonialismus/!6196171/",
-      "publishedAt": "2026-07-17T14:17:00.000Z",
       "category": "POLITIK"
     },
     {
