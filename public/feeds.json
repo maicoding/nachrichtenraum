@@ -1,145 +1,334 @@
 {
-  "updatedAt": "2026-07-19T13:53:50.389Z",
+  "updatedAt": "2026-07-19T15:15:09.470Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "„Feste feiern, wie sie fallen“ - Respektlos? Juso-Chef stößt auf Spahn-Rücktritt an",
+      "url": "https://www.bild.de/politik/inland/spahn-ruecktritt-juso-chef-philipp-tuermer-sorgt-mit-video-fuer-kritik-6a5cd11cae8f7851eb5f0d55",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Schlimmste Raketen-Nacht seit Kriegsbeginn",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Merz wirft Spahn raus - Höhepunkt einer jahrelangen Rivalität",
       "url": "https://www.bild.de/politik/inland/merz-wirft-spahn-raus-hoehepunkt-einer-jahrelangen-rivalitaet-6a5c8f03ae8f7851eb5efe58",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Showdown beim WM-Finale - So will Trump die FIFA weiter beeinflussen",
       "url": "https://www.bild.de/politik/ausland-und-internationales/bild-reporterin-ueber-tumps-wm-debuet-politischer-showdown-beim-finale-6a5cb3d1ae8f7851eb5f06c5",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "RAF ermordete seinen Vater - Schleyer-Sohn tief bewegt von neuen Ermittlungen",
       "url": "https://www.bild.de/politik/inland/raf-ermordete-seinen-vater-schleyer-sohn-tief-bewegt-von-neuen-ermittlungen-des-bka-6a5a92c5c722326276499e96",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Nach dem Aus für 350 Jobs - Playmobil feuert Betriebsratschef fristlos",
       "url": "https://www.bild.de/politik/inland/playmobil-feuert-betriebsratschef-nach-schliessung-des-deutschen-werks-6a5c7a33ae8f7851eb5ef99f",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "BILD-Talk mit Boris Rhein - „Wir haben viel zu lange negativ übers Auto gesprochen“",
       "url": "https://www.bild.de/politik/inland/bild-talk-wir-haben-viel-zu-lange-negativ-uebers-auto-gesprochen-6a590c5a78c11a89eb540481",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Live-Ticker zum Spahn-Rücktritt - Merz deutet größeren Kabinettsumbau an",
       "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Top-Verdienst schon in der Ausbildung - Das sind die 50 bestbezahlten Azubi-Jobs",
       "url": "https://www.bild.de/politik/inland/top-verdienst-in-der-ausbildung-das-sind-die-bestbezahlten-azubi-jobs-6a46896017e758bbd23e1637",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Boris Rhein - „Deutschland ist das Autoland“",
       "url": "https://www.bild.de/politik/boris-rhein-deutschland-ist-das-autoland-6a5a331bbb3fbf9dba987d0d",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Umfrage zu Gesundheits- und Pflegereform - Die Angst vor der Pflege-Rechnung wächst",
       "url": "https://www.bild.de/politik/inland/umfrage-zu-reformen-die-angst-vor-der-pflege-rechnung-waechst-6a5a3dfd61b8a80211aa9d0f",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Iran-Krieg treibt Ölpreis hoch - Jetzt knallt der Spritpreis wieder rauf",
       "url": "https://www.bild.de/politik/inland/iran-krieg-treibt-oelpreis-hoch-jetzt-knallt-der-spritpreis-wieder-rauf-6a5ca2cdfcf158a602b3b5d2",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Merz tritt gegen Spahn nach - „Hatte auch was mit seiner Person zu tun“",
       "url": "https://www.bild.de/politik/inland/cdu-im-zdf-sommerinterview-tritt-friedrich-merz-gegen-jens-spahn-nach-6a5c9811ae8f7851eb5f0072",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Proteste in der Ukraine - Jetzt wankt auch Kiews mächtigster General!",
       "url": "https://www.bild.de/politik/ausland-und-internationales/proteste-in-der-ukraine-jetzt-wankt-auch-kiews-maechtigster-general-syrskyj-6a5c63fbc72232627649b677",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Dank „Ein Herz für Kinder“ - Bald kann Noa (3) auf eigenen Füßen stehen",
       "url": "https://www.bild.de/politik/inland/dank-ein-herz-fuer-kinder-bald-kann-noa-3-auf-eigenen-fuessen-stehen-6a2fc4850611b9299a155a4e",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "New Yorks Bürgermeister - Mamdani droht Netanjahu mit Festnahme",
       "url": "https://www.bild.de/politik/ausland-und-internationales/new-york-buergermeister-mamdani-droht-benjamin-netanjahu-mit-festnahme-6a5c6f74fcf158a602b3ac40",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Lambsdorff enthüllt - Respektlos-Geste von Putins Sprecherin!",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sprecherin-von-putin-verweigert-unserem-botschafter-den-handschlag-wegen-video-zur-benzinkrise-6a5b1ca261b8a80211aaa479",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Sonntagsfrage - AfD baut Vorsprung zur Union wieder aus",
       "url": "https://www.bild.de/politik/inland/sonntagsfrage-afd-zieht-an-cdu-vorbei-spahn-ruecktritt-wirbelt-union-durcheinander-6a5ba8d5c72232627649a6fc",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Ronzheimer vor Ort - Drohnen-Kriegerin Iryna ist Putins Albtraum",
       "url": "https://www.bild.de/politik/ausland-und-internationales/die-mutter-aller-drohnen-die-frau-vor-der-russland-zittert-6a5ba13a6d64d237c3774cfd",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Wie Spahn den Rückhalt des Kanzlers verlor - Das Baby und das Beben",
       "url": "https://www.bild.de/politik/inland/jens-spahn-verliert-kanzler-rueckhalt-wie-die-leihmutterschaft-seine-karriere-erschuetterte-6a5bb778c72232627649a94f",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
+      "publishedAt": "2026-07-19T15:15:09.130Z",
       "category": "INLAND"
     },
     {
-      "source": "BILD.DE",
-      "title": "Kolumne: Geht das nur mir so? - Infantino kann Fußball nicht leiden",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/infantino-kann-fussball-nicht-leiden-deshalb-macht-er-ihn-kaputt-6a5bc56261b8a80211aab209",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
-      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+      "source": "DLF",
+      "title": "Bundeskanzler - Nach Spahns Rücktritt: Merz deutet Kabinettsumbildung an",
+      "url": "https://www.deutschlandfunk.de/nach-spahns-ruecktritt-merz-deutet-kabinettsumbildung-an-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Raketen-Terror gegen Kiew - „Es war die schlimmste Nacht meines Lebens“",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/putin-schickt-so-viele-raketen-wie-nie-gegen-kiew-schlimmste-nacht-meines-lebens-6a5c71781dcab0e09322378d",
-      "publishedAt": "2026-07-19T13:53:50.103Z",
-      "category": "AUSLAND UND INTERNATIONALES"
+      "source": "DLF",
+      "title": "Dlf-Interview - Nach Rücktritt des Unionsfraktionschefs: Liminski (CDU): Spahn hat die Glaubwürdigkeitsfrage selbst beantwortet",
+      "url": "https://www.deutschlandfunk.de/nach-ruecktritt-des-unionsfraktionschefs-liminski-cdu-spahn-hat-die-glaubwuerdigkeitsfrage-selbst-be-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Russischer Großangriff auf Kiew - Ukraine beschießt Ölanlagen",
+      "url": "https://www.deutschlandfunk.de/russischer-grossangriff-auf-kiew-ukraine-beschiesst-oelanlagen-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Mehrere Tote nach israelischen Luftangriffen auf den Gaza-Streifen",
+      "url": "https://www.deutschlandfunk.de/mehrere-tote-nach-israelischen-luftangriffen-auf-den-gaza-streifen-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - Laut Medienberichten keine Hürden mehr: Jürgen Klopp kann neuer Bundestrainer werden",
+      "url": "https://www.deutschlandfunk.de/laut-medienberichten-keine-huerden-mehr-juergen-klopp-kann-neuer-bundestrainer-werden-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Spanien - Großer Waldbrand bei Madrid außer Kontrolle",
+      "url": "https://www.deutschlandfunk.de/grosser-waldbrand-bei-madrid-ausser-kontrolle-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Energie - Solarbranche kritisiert Pläne von Bundeswirtschaftsministerin Reiche - Förderung für kleine Solaranlagen soll gestrichen werden",
+      "url": "https://www.deutschlandfunk.de/solarbranche-kritisiert-plaene-von-bundeswirtschaftsministerin-reiche-foerderung-fuer-kleine-solaran-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheitswesen - Krankenkassen dringen auf Umsetzung der Sparmaßnahmen",
+      "url": "https://www.deutschlandfunk.de/krankenkassen-dringen-auf-umsetzung-der-sparmassnahmen-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Nach Tod von zwei Soldaten: USA starten Vergeltungsangriffe gegen Iran",
+      "url": "https://www.deutschlandfunk.de/nach-tod-von-zwei-soldaten-usa-starten-vergeltungsangriffe-gegen-iran-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Westafrika - Mali: 50 Soldaten bei Angriffen von Dschihadisten und Separatisten getötet",
+      "url": "https://www.deutschlandfunk.de/mali-50-soldaten-bei-angriffen-von-dschihadisten-und-separatisten-getoetet-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - XXL-WM lukrativer als bisher angenommen",
+      "url": "https://www.deutschlandfunk.de/xxl-wm-lukrativer-als-bisher-angenommen-104.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Thailand - Nach Pub-Brand in Bangkok steigt die Zahl der Toten auf 34",
+      "url": "https://www.deutschlandfunk.de/nach-pub-brand-in-bangkok-steigt-die-zahl-der-toten-auf-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Blockchain - US-Börsen-Unternehmen schickt 114-Billionen-Dollar-Aktienmarkt in Richtung Tokenisierung - Gebühren dürften bald weiter sinken",
+      "url": "https://www.deutschlandfunk.de/us-boersen-unternehmen-schickt-114-billionen-dollar-aktienmarkt-in-richtung-tokenisierung-gebuehren--100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutschland - Steigende Ausbildungszahlen im Handwerk",
+      "url": "https://www.deutschlandfunk.de/steigende-ausbildungszahlen-im-handwerk-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutsche Bahn - DB-Mitarbeiter stürzt aus fahrendem Zug - Gewerkschaft GDL fordert rechtliche Konsequenzen",
+      "url": "https://www.deutschlandfunk.de/db-mitarbeiter-stuerzt-aus-fahrendem-zug-gewerkschaft-gdl-fordert-rechtliche-konsequenzen-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-WM - Spanien und Argentinien spielen um den Titel - Halbzeitshow mit Justin Bieber, Coldplay und Madonna",
+      "url": "https://www.deutschlandfunk.de/spanien-und-argentinien-spielen-um-den-titel-halbzeitshow-mit-justin-bieber-coldplay-und-madonna-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Autoindustrie - Tesla will Produktion in Grünheide bei Berlin erweitern",
+      "url": "https://www.deutschlandfunk.de/tesla-will-produktion-in-gruenheide-bei-berlin-erweitern-102.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tagung in Südkorea - Welterbekomitee berät über Neuaufnahmen - Deutschland hat \"Papageiensiedlung\" nominiert",
+      "url": "https://www.deutschlandfunk.de/welterbekomitee-beraet-ueber-neuaufnahmen-deutschland-hat-papageiensiedlung-nominiert-104.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Britischer Haftbefehl - Influencer Andrew und Tristan Tate in den USA festgenommen",
+      "url": "https://www.deutschlandfunk.de/influencer-andrew-und-tristan-tate-in-den-usa-festgenommen-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-WM - Spiel um Platz 3: England gewinnt 6:4 gegen Frankreich",
+      "url": "https://www.deutschlandfunk.de/spiel-um-platz-3-england-gewinnt-6-4-gegen-frankreich-100.html",
+      "publishedAt": "2026-07-19T15:03:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Frauenfeinde in Florida festgenommen: Die Taten von Tate und Tate",
+      "url": "https://taz.de/Frauenfeinde-in-Florida-festgenommen/!6197398/",
+      "publishedAt": "2026-07-19T14:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
+      "publishedAt": "2026-07-19T14:26:55.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wut in Venezuela: \"Ihr habt Müll gebaut!\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-wut-baupfusch-100.html",
+      "publishedAt": "2026-07-19T14:13:51.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wahl in Berlin: Ein Igel für Berlin",
+      "url": "https://taz.de/Wahl-in-Berlin/!6197282/",
+      "publishedAt": "2026-07-19T14:03:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Buch über Louis Althussers Femizid: Antifeminismus in Aktion",
+      "url": "https://taz.de/Buch-ueber-Louis-Althussers-Femizid/!6192784/",
+      "publishedAt": "2026-07-19T14:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kernfusion zur Energiegewinnung: Investoren greifen nach den Sternen",
+      "url": "https://taz.de/Kernfusion-zur-Energiegewinnung/!6197317/",
+      "publishedAt": "2026-07-19T13:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Geschäftszeiten am Sonntag: Freizeit war gestern",
+      "url": "https://taz.de/Geschaeftszeiten-am-Sonntag/!6192585/",
+      "publishedAt": "2026-07-19T13:55:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -150,150 +339,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Queer in Polen: Präsident Nawrocki legt Veto gegen LGBTQI-Gesetz ein",
+      "title": "Queer in Polen: Präsident Karol Nawrocki legt Veto gegen LGBTQI-Gesetz ein",
       "url": "https://taz.de/Queer-in-Polen/!6197329/",
       "publishedAt": "2026-07-19T13:49:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundeskanzler - Nach Spahns Rücktritt: Merz deutet Kabinettsumbildung an",
-      "url": "https://www.deutschlandfunk.de/nach-spahns-ruecktritt-merz-deutet-kabinettsumbildung-an-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Dlf-Interview - Nach Rücktritt des Unionsfraktionschefs: Liminski (CDU): Spahn hat die Glaubwürdigkeitsfrage selbst beantwortet",
-      "url": "https://www.deutschlandfunk.de/nach-ruecktritt-des-unionsfraktionschefs-liminski-cdu-spahn-hat-die-glaubwuerdigkeitsfrage-selbst-be-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russischer Großangriff auf Kiew - Ukraine beschießt Ölanlagen",
-      "url": "https://www.deutschlandfunk.de/russischer-grossangriff-auf-kiew-ukraine-beschiesst-oelanlagen-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Mehrere Tote nach israelischen Luftangriffen auf den Gaza-Streifen",
-      "url": "https://www.deutschlandfunk.de/mehrere-tote-nach-israelischen-luftangriffen-auf-den-gaza-streifen-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Energie - Solarbranche kritisiert Pläne von Bundeswirtschaftsministerin Reiche - Förderung für kleine Solaranlagen soll gestrichen werden",
-      "url": "https://www.deutschlandfunk.de/solarbranche-kritisiert-plaene-von-bundeswirtschaftsministerin-reiche-foerderung-fuer-kleine-solaran-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheitswesen - Krankenkassen dringen auf Umsetzung der Sparmaßnahmen",
-      "url": "https://www.deutschlandfunk.de/krankenkassen-dringen-auf-umsetzung-der-sparmassnahmen-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Nach Tod von zwei Soldaten: USA starten Vergeltungsangriffe gegen Iran",
-      "url": "https://www.deutschlandfunk.de/nach-tod-von-zwei-soldaten-usa-starten-vergeltungsangriffe-gegen-iran-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Westafrika - Mali: 50 Soldaten bei Angriffen von Dschihadisten und Separatisten getötet",
-      "url": "https://www.deutschlandfunk.de/mali-50-soldaten-bei-angriffen-von-dschihadisten-und-separatisten-getoetet-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - XXL-WM lukrativer als bisher angenommen",
-      "url": "https://www.deutschlandfunk.de/xxl-wm-lukrativer-als-bisher-angenommen-104.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Thailand - Nach Pub-Brand in Bangkok steigt die Zahl der Toten auf 34",
-      "url": "https://www.deutschlandfunk.de/nach-pub-brand-in-bangkok-steigt-die-zahl-der-toten-auf-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Blockchain - US-Börsen-Unternehmen schickt 114-Billionen-Dollar-Aktienmarkt in Richtung Tokenisierung - Gebühren dürften bald weiter sinken",
-      "url": "https://www.deutschlandfunk.de/us-boersen-unternehmen-schickt-114-billionen-dollar-aktienmarkt-in-richtung-tokenisierung-gebuehren--100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutschland - Steigende Ausbildungszahlen im Handwerk",
-      "url": "https://www.deutschlandfunk.de/steigende-ausbildungszahlen-im-handwerk-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutsche Bahn - DB-Mitarbeiter stürzt aus fahrendem Zug - Gewerkschaft GDL fordert rechtliche Konsequenzen",
-      "url": "https://www.deutschlandfunk.de/db-mitarbeiter-stuerzt-aus-fahrendem-zug-gewerkschaft-gdl-fordert-rechtliche-konsequenzen-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball-WM - Spanien und Argentinien spielen um den Titel - Halbzeitshow mit Justin Bieber, Coldplay und Madonna",
-      "url": "https://www.deutschlandfunk.de/spanien-und-argentinien-spielen-um-den-titel-halbzeitshow-mit-justin-bieber-coldplay-und-madonna-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Autoindustrie - Tesla will Produktion in Grünheide bei Berlin erweitern",
-      "url": "https://www.deutschlandfunk.de/tesla-will-produktion-in-gruenheide-bei-berlin-erweitern-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Tagung in Südkorea - Welterbekomitee berät über Neuaufnahmen - Deutschland hat \"Papageiensiedlung\" nominiert",
-      "url": "https://www.deutschlandfunk.de/welterbekomitee-beraet-ueber-neuaufnahmen-deutschland-hat-papageiensiedlung-nominiert-104.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Britischer Haftbefehl - Influencer Andrew und Tristan Tate in den USA festgenommen",
-      "url": "https://www.deutschlandfunk.de/influencer-andrew-und-tristan-tate-in-den-usa-festgenommen-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball-WM - Spiel um Platz 3: England gewinnt 6:4 gegen Frankreich",
-      "url": "https://www.deutschlandfunk.de/spiel-um-platz-3-england-gewinnt-6-4-gegen-frankreich-100.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "EU-Richtlinie - Große Firmen dürfen unverkaufte Mode nicht mehr vernichten - Angebot an reduzierter Ware dürften steigen",
-      "url": "https://www.deutschlandfunk.de/grosse-firmen-duerfen-unverkaufte-mode-nicht-mehr-vernichten-angebot-an-reduzierter-ware-duerften-st-102.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Reformprozess - Ungarischer Präsident Sulyok unterschreibt das sofortige Ende seiner Amtszeit",
-      "url": "https://www.deutschlandfunk.de/ungarischer-praesident-sulyok-unterschreibt-das-sofortige-ende-seiner-amtszeit-104.html",
-      "publishedAt": "2026-07-19T13:41:11.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -314,13 +363,6 @@
       "title": "Ehrenamt bei der Hamburger Tafel: Sieben Stunden zwischen Überfluss und Bedürftigkeit",
       "url": "https://taz.de/Ehrenamt-bei-der-Hamburger-Tafel/!6179134/",
       "publishedAt": "2026-07-19T13:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Weltraumvertrag: Als der Himmel kurz allen gehören sollte",
-      "url": "https://taz.de/Weltraumvertrag/!6195778/",
-      "publishedAt": "2026-07-19T12:53:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -364,13 +406,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
       "publishedAt": "2026-07-19T11:39:28.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Spiel um Platz 3: Schafft es endlich ab!",
-      "url": "https://taz.de/Spiel-um-Platz-3/!6197285/",
-      "publishedAt": "2026-07-19T11:38:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -465,13 +500,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Nach fünfjähriger Haft in Kuba: Dissident Luis Manuel Otero Alcántara in die USA ausgereist",
-      "url": "https://taz.de/Nach-fuenfjaehriger-Haft-in-Kuba/!6197277/",
-      "publishedAt": "2026-07-19T08:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "+++ Nachrichten im Ukrainekrieg +++: Massiver russischer Raketenangriff auf Kyjiw",
       "url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6197275/",
       "publishedAt": "2026-07-19T07:56:00.000Z",
@@ -482,20 +510,6 @@
       "title": "Bundeswehr an Schulen: Ist das noch Bildung oder schon Rekrutierung?",
       "url": "https://www.spiegel.de/politik/bundeswehr-an-schulen-ist-das-noch-bildung-oder-schon-rekrutierung-a-9624e895-d80c-4f08-adb6-745daaa54ebd#ref=rss",
       "publishedAt": "2026-07-19T07:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün ist möglich",
-      "url": "https://taz.de/Mecklenburg-Vorpommern/!6192591/",
-      "publishedAt": "2026-07-19T07:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Landtagswahl in Sachsen-Anhalt: Wo sich Protest formiert, ist die AfD schon da",
-      "url": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6196322/",
-      "publishedAt": "2026-07-19T07:01:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -731,13 +745,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Falkland-Banner: Nach Halbfinal-Sieg droht Argentinien Ärger",
-      "url": "https://www.tagesschau.de/ausland/amerika/falkland-banner-wm-halbfinale-argentinien-england-100.html",
-      "publishedAt": "2026-07-17T07:26:39.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Andy Burnham wird Labour-Chef: Zwischen Hoffen und Zweifeln",
       "url": "https://www.tagesschau.de/ausland/europa/andy-burnham-labour-manchester-100.html",
       "publishedAt": "2026-07-17T06:07:48.000Z",
@@ -833,13 +840,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html",
       "publishedAt": "2026-07-15T17:40:38.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
-      "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
-      "publishedAt": "2026-07-15T17:38:28.000Z",
-      "category": "AUSLAND"
     }
   ]
 }
