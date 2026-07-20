@@ -1,145 +1,362 @@
 {
-  "updatedAt": "2026-07-20T17:07:57.952Z",
+  "updatedAt": "2026-07-20T19:06:46.831Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Ölpreis knackt 90 Dollar - Spritpreise steigen weiter an",
-      "url": "https://www.bild.de/politik/inland/oelpreis-knackt-90-dollar-spritpreise-schiessen-wieder-hoch-6a5ddfefc72232627649ddd0",
-      "publishedAt": "2026-07-20T17:07:57.949Z",
+      "title": "Nach dem Spahn-Knall - Der Fahrplan für den Neustart der Bundesregierung",
+      "url": "https://www.bild.de/politik/inland/nach-dem-ruecktritt-von-spahn-merz-fahrplan-fuer-den-neustart-der-bundesregierung-6a5e51c7dde33743432a727c",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Vertraulich! - Der Politik-Vodcast - „Jetzt bloß kein Gekungel!“",
-      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-jetzt-bloss-kein-gekungel-6a5e43ffdde33743432a6fff",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Debatte um Leihmutterschaft - Mehrheit ist sicher: Spahn hat der CDU geschadet",
-      "url": "https://www.bild.de/politik/inland/debatte-um-leihmutterschaft-mehrheit-ist-ueberzeugt-spahn-hat-der-cdu-geschadet-6a5e0313b5f21be806cb9a6c",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schon wieder neuer Premierminister - „Wir sind die crazy Brits“",
+      "title": "Schon wieder neuer Briten-Premier - Dieses Detail gab es noch nie",
       "url": "https://www.bild.de/politik/schon-wieder-neuer-premierminister-wir-sind-die-crazy-brits-6a5e39d80b9a862ca282d0cc",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Hammer für 75 Millionen Krankenversicherte! - Neue Regel – warum das für Sie teuer werden kann",
       "url": "https://www.bild.de/politik/inland/krankenkassen-muessen-nicht-mehr-ueber-steigende-beitraege-informieren-6a5c9ddcc72232627649bee3",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "BILD-PLUS"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Diese Sprit-Politik endet im Totalschaden",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-diese-sprit-politik-endet-im-totalschaden-6a5e3c3f3d7c8c257075eaaf",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
+      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Steffen Bilger nach Spahn-Aus - „Die Stimmung ist angespannt“",
+      "url": "https://www.bild.de/politik/inland/steffen-bilger-nach-spahn-aus-die-stimmung-ist-angespannt-6a5e5845dde33743432a74a7",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschende Umfrage - Das denken die Deutschen über Leihmutterschaft",
+      "url": "https://www.bild.de/politik/inland/ueberraschende-umfrage-das-denken-die-deutschen-wirklich-ueber-leihmutterschaft-6a5e474d3d7c8c257075ed63",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vertraulich! - Der Politik-Vodcast - „Jetzt bloß kein Gekungel!“",
+      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-jetzt-bloss-kein-gekungel-6a5e43ffdde33743432a6fff",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Debatte um Leihmutterschaft - Mehrheit ist sicher: Spahn hat der CDU geschadet",
+      "url": "https://www.bild.de/politik/inland/debatte-um-leihmutterschaft-mehrheit-ist-ueberzeugt-spahn-hat-der-cdu-geschadet-6a5e0313b5f21be806cb9a6c",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
+      "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "US-Leihmutter-Verträge - „Es ist erschreckend!“",
       "url": "https://www.bild.de/politik/us-leihmutter-vertraege-es-ist-erschreckend-6a5e36190b9a862ca282cfdd",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Machtverschiebung in der CDU - Der wahre Gewinner sitzt nicht in Berlin",
       "url": "https://www.bild.de/politik/inland/hendrik-wuest-rueckt-vor-wird-er-merz-ungekroenter-nachfolger-6a5dd28d61b8a80211aaeba2",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Wegen AfD-Kranz - Eklat bei Gedenkfeier im Bendlerblock!",
       "url": "https://www.bild.de/politik/inland/eklat-um-kranz-von-der-afd-bei-gedenkfeier-zu-attentat-auf-adolf-hitler-1944-6a5de7f461b8a80211aaee59",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "AfD weiter vorne - So würden die Deutschen jetzt wählen",
       "url": "https://www.bild.de/politik/afd-weiter-vorne-so-wuerden-die-deutschen-jetzt-waehlen-6a5a5597e2d50c13b9a7a96b",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Neunte Nacht in Folge - USA mit erneuter Angriffswelle auf den Iran",
       "url": "https://www.bild.de/politik/ausland-und-internationales/usa-greifen-den-iran-weiter-an-neunte-nacht-in-folge-6a5dbc69c72232627649dbbd",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "BILD"
     },
     {
       "source": "BILD.DE",
       "title": "Er nennt Israel-Massaker „Stolz des Volkes“ - Hamas präsentiert neuen Terror-Chef",
       "url": "https://www.bild.de/politik/ausland-und-internationales/hamas-praesentiert-neuen-chef-der-terrorgruppe-6a5e048318722ca866151617",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Nach Starmer-Rücktritt - Andy Burnham ist neuer Briten-Premier",
       "url": "https://www.bild.de/politik/ausland-und-internationales/burnham-ist-neuer-premier-von-grossbritannien-6a5e043861b8a80211aaf114",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Neue Zahlen aus den Bundesländern - Die große Lüge von der Abschiebe-Offensive",
       "url": "https://www.bild.de/politik/saarland-top-brandenburg-flop-die-luege-von-der-wende-bei-abschiebungen-6a5c8b9c61b8a80211aac428",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Machtwechsel in London - 10 Fakten über den neuen Briten-Premier",
       "url": "https://www.bild.de/politik/ausland-und-internationales/andy-burnham-wird-neuer-premier-10-fakten-ueber-den-neuen-briten-premier-6a5de20161b8a80211aaed84",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "RONZHEIMER - Merz’ brisanter Spahn-Satz",
       "url": "https://www.bild.de/politik/ronzheimer-merz-brisanter-spahn-satz-6a5d5f3d61b8a80211aae6a1",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Vize-Baby da - Trump zeigt erstes Foto vom Vance-Baby",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-postet-suesses-foto-des-vierten-kindes-von-jd-vance-6a5e016061b8a80211aaf0e3",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Spahn-Nachfolge in Union - „Jetzt bloß kein Gekungel!“",
       "url": "https://www.bild.de/politik/spahn-nachfolge-in-union-jetzt-bloss-kein-gekungel-6a5df91cc72232627649e043",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "publishedAt": "2026-07-20T19:06:46.472Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "CDU tagt in Berlin - Union entscheidet am 29. Juli über Spahn-Nachfolge",
-      "url": "https://www.bild.de/politik/cdu-tagt-in-berlin-kommt-spahns-nachfolger-hier-zum-vorstellungsgespraech-6a5de03961b8a80211aaed3f",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
+      "source": "DLF",
+      "title": "Iran-Krieg - Kraftstoffpreise steigen weiter - Regierung plant keine neuen Entlastungen",
+      "url": "https://www.deutschlandfunk.de/kraftstoffpreise-steigen-weiter-regierung-plant-keine-neuen-entlastungen-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Andy Burnham ist neuer britischer Premierminister",
+      "url": "https://www.deutschlandfunk.de/andy-burnham-ist-neuer-britischer-premierminister-106.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Neuer britischer Premierminister - Wer ist Andy Burnham und wofür steht er politisch?",
+      "url": "https://www.deutschlandfunk.de/neuer-britischer-premierminister-wer-ist-andy-burnham-und-wofuer-steht-er-politisch-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Rücktritt - Union berät über Nachfolge des Fraktionsvorsitzenden Spahn - Wahl am 29. Juli geplant",
+      "url": "https://www.deutschlandfunk.de/union-beraet-ueber-nachfolge-des-fraktionsvorsitzenden-spahn-wahl-am-29-juli-geplant-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kontroverse um Landesparteitag - AfD-Bundesspitze schaltet Kommission im Streit mit NRW-Landesverband ein",
+      "url": "https://www.deutschlandfunk.de/afd-bundesspitze-schaltet-kommission-im-streit-mit-nrw-landesverband-ein-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Personal-Spekulationen - Spahns Nachfolge: Diese Namen werden genannt",
+      "url": "https://www.deutschlandfunk.de/spahns-nachfolge-diese-namen-werden-genannt-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Studie - Mieten in Deutschland steigen im zweiten Quartal deutlich",
+      "url": "https://www.deutschlandfunk.de/mieten-in-deutschland-steigen-im-zweiten-quartal-deutlich-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jemen-Krieg - Huthi-Miliz will saudische Schiffe im Roten Meer blockieren",
+      "url": "https://www.deutschlandfunk.de/huthi-miliz-will-saudische-schiffe-im-roten-meer-blockieren-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Spahn-Rücktritt - Debatte um Leihmutterschaft in Geistes- und Rechtswissenschaft",
+      "url": "https://www.deutschlandfunk.de/debatte-um-leihmutterschaft-in-geistes-und-rechtswissenschaft-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Diplomatie - Neue Waffenruhe für Krieg zwischen USA und Iran vorgeschlagen",
+      "url": "https://www.deutschlandfunk.de/neue-waffenruhe-fuer-krieg-zwischen-usa-und-iran-vorgeschlagen-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "47 Jahre nach der Revolution - In Nicaragua soll es keine Wahlen mehr geben",
+      "url": "https://www.deutschlandfunk.de/in-nicaragua-soll-es-keine-wahlen-mehr-geben-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach starken Regenfällen - Chile ruft Katastrophenfall aus",
+      "url": "https://www.deutschlandfunk.de/chile-ruft-katastrophenfall-aus-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verkehr - Neuer Bahn-Konkurrent Italo bestellt 26 Siemens-Züge",
+      "url": "https://www.deutschlandfunk.de/neuer-bahn-konkurrent-italo-bestellt-26-siemens-zuege-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Brandenburg - Polizei ermittelt wieder wegen mutmaßlich rechtsextremer Straftaten in Cottbus",
+      "url": "https://www.deutschlandfunk.de/polizei-ermittelt-wieder-wegen-mutmasslich-rechtsextremer-straftaten-in-cottbus-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutschlandfunk-Bericht - Familie des 1961 ermordeten Patrice Lumumba bereitet Klage gegen Belgien vor",
+      "url": "https://www.deutschlandfunk.de/familie-des-1961-ermordeten-patrice-lumumba-bereitet-klage-gegen-belgien-vor-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Illegale Produkte - EU verhängt Millionenstrafe gegen chinesischen Online-Händler AliExpress",
+      "url": "https://www.deutschlandfunk.de/eu-verhaengt-millionenstrafe-gegen-chinesischen-online-haendler-aliexpress-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Unterhändler Al-Hayya neuer Chef der Hamas",
+      "url": "https://www.deutschlandfunk.de/unterhaendler-al-hayya-neuer-chef-der-hamas-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "New York - Lebenslange Haft für mexikanischen Drogenboss Zambada",
+      "url": "https://www.deutschlandfunk.de/lebenslange-haft-fuer-mexikanischen-drogenboss-zambada-102.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Cyberkriminalität - Ermittlern gelingt Schlag gegen Phishing-Dienste",
+      "url": "https://www.deutschlandfunk.de/ermittlern-gelingt-schlag-gegen-phishing-dienste-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Naturschutz - Nabu: Zahl der Störche hat sich mehr als verfünffacht",
+      "url": "https://www.deutschlandfunk.de/nabu-zahl-der-stoerche-hat-sich-mehr-als-verfuenffacht-100.html",
+      "publishedAt": "2026-07-20T18:54:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "USA: Mexikanischer Drogenboss \"El Mayo\" zu lebenslanger Haft verurteilt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-el-mayo-verurteilung-100.html",
+      "publishedAt": "2026-07-20T18:02:34.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "SPD-Wahlkampf in Berlin: Krach noch viel zu leise",
+      "url": "https://taz.de/SPD-Wahlkampf-in-Berlin/!6197474/",
+      "publishedAt": "2026-07-20T17:50:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Rundgang mit Stefan Evers (CDU) - Ist Berlin noch zu retten?",
-      "url": "https://www.bild.de/politik/inland/interview-rundgang-mit-stefan-evers-cdu-ist-berlin-noch-zu-retten-6a5bb3d5918c0212ca51988f",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
-      "category": "INLAND"
+      "source": "TAZ.DE",
+      "title": "Buch über Frauenfreundschaften: Geschichten, die wir uns über Freundschaft erzählen",
+      "url": "https://taz.de/Buch-ueber-Frauenfreundschaften/!6197497/",
+      "publishedAt": "2026-07-20T17:50:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Umfrage-Absturz innerhalb einer Woche - Putins Beliebtheit sinkt rasant",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-wladimir-putin-immer-unbeliebter-umfrage-absturz-um-5-prozent-6a5dc1a261b8a80211aaea07",
-      "publishedAt": "2026-07-20T17:07:57.948Z",
-      "category": "AUSLAND UND INTERNATIONALES"
+      "source": "TAZ.DE",
+      "title": "Krise des Einzelhandels: Damit der Pralinen-Laden bleibt",
+      "url": "https://taz.de/Krise-des-Einzelhandels/!6197487/",
+      "publishedAt": "2026-07-20T17:49:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Italienischer Chefredakteur über KI: „Künstliche Intelligenz ist wie ein Scharfschütze“",
+      "url": "https://taz.de/Eine-Zeitung-aus-Italien-veroeffentlicht-seit-2025-KI-generierte-Texte---hier-erklaert-der-Chefredakteur-warum/!6194907/",
+      "publishedAt": "2026-07-20T17:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kakerlaken-Bewegung in Indien: Gegen die Arroganz der Macht",
+      "url": "https://taz.de/Kakerlaken-Bewegung-in-Indien/!6197541/",
+      "publishedAt": "2026-07-20T17:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Halbzeitshow vom WM-Finale: Verlogener Kitsch",
+      "url": "https://taz.de/Halbzeitshow-im-WM-Finale-Der-logsiche-Tiefpunkt/!6197519/",
+      "publishedAt": "2026-07-20T17:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Spahn-Nachfolge: Kanzler Merz riskiert bei der Personalfrage neuen Ärger",
+      "url": "https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss",
+      "publishedAt": "2026-07-20T17:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Partei Alternative für Deutschland: Wer Queers ihre Rechte nehmen will, gehört verboten",
+      "url": "https://taz.de/AfD/!6192528/",
+      "publishedAt": "2026-07-20T17:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Islamische Republik Iran: Krieg von außen, Krieg von innen",
+      "url": "https://taz.de/Islamische-Republik-Iran/!6197591/",
+      "publishedAt": "2026-07-20T17:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neuer britischer Premier Andy Burnham: In London kommt der Weihnachtsmann",
+      "url": "https://taz.de/Neuer-britischer-Premier-Andy-Burnham/!6193293/",
+      "publishedAt": "2026-07-20T17:43:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -147,146 +364,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-machtkampf-kommission-100.html",
       "publishedAt": "2026-07-20T17:06:14.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Iran-Krieg - Kraftstoffpreise steigen weiter - Regierung plant keine neuen Entlastungen",
-      "url": "https://www.deutschlandfunk.de/kraftstoffpreise-steigen-weiter-regierung-plant-keine-neuen-entlastungen-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Andy Burnham ist neuer britischer Premierminister",
-      "url": "https://www.deutschlandfunk.de/andy-burnham-ist-neuer-britischer-premierminister-106.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Neuer britischer Premierminister - Wer ist Andy Burnham und wofür steht er politisch?",
-      "url": "https://www.deutschlandfunk.de/neuer-britischer-premierminister-wer-ist-andy-burnham-und-wofuer-steht-er-politisch-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Rücktritt - Union berät über Nachfolge des Fraktionsvorsitzenden Spahn - Wahl am 29. Juli geplant",
-      "url": "https://www.deutschlandfunk.de/union-beraet-ueber-nachfolge-des-fraktionsvorsitzenden-spahn-wahl-am-29-juli-geplant-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kontroverse um Landesparteitag - AfD-Bundesspitze schaltet Kommission im Streit mit NRW-Landesverband ein",
-      "url": "https://www.deutschlandfunk.de/afd-bundesspitze-schaltet-kommission-im-streit-mit-nrw-landesverband-ein-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Personal-Spekulationen - Spahns Nachfolge: Diese Namen werden genannt",
-      "url": "https://www.deutschlandfunk.de/spahns-nachfolge-diese-namen-werden-genannt-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Studie - Mieten in Deutschland steigen im zweiten Quartal deutlich",
-      "url": "https://www.deutschlandfunk.de/mieten-in-deutschland-steigen-im-zweiten-quartal-deutlich-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Jemen-Krieg - Huthi-Miliz will saudische Schiffe im Roten Meer blockieren",
-      "url": "https://www.deutschlandfunk.de/huthi-miliz-will-saudische-schiffe-im-roten-meer-blockieren-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Spahn-Rücktritt - Debatte um Leihmutterschaft in Geistes- und Rechtswissenschaft",
-      "url": "https://www.deutschlandfunk.de/debatte-um-leihmutterschaft-in-geistes-und-rechtswissenschaft-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Diplomatie - Neue Waffenruhe für Krieg zwischen USA und Iran vorgeschlagen",
-      "url": "https://www.deutschlandfunk.de/neue-waffenruhe-fuer-krieg-zwischen-usa-und-iran-vorgeschlagen-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach starken Regenfällen - Chile ruft Katastrophenfall aus",
-      "url": "https://www.deutschlandfunk.de/chile-ruft-katastrophenfall-aus-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verkehr - Neuer Bahn-Konkurrent Italo bestellt 26 Siemens-Züge",
-      "url": "https://www.deutschlandfunk.de/neuer-bahn-konkurrent-italo-bestellt-26-siemens-zuege-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Brandenburg - Polizei ermittelt wieder wegen mutmaßlich rechtsextremer Straftaten in Cottbus",
-      "url": "https://www.deutschlandfunk.de/polizei-ermittelt-wieder-wegen-mutmasslich-rechtsextremer-straftaten-in-cottbus-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutschlandfunk-Bericht - Familie des 1961 ermordeten Patrice Lumumba bereitet Klage gegen Belgien vor",
-      "url": "https://www.deutschlandfunk.de/familie-des-1961-ermordeten-patrice-lumumba-bereitet-klage-gegen-belgien-vor-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Illegale Produkte - EU verhängt Millionenstrafe gegen chinesischen Online-Händler AliExpress",
-      "url": "https://www.deutschlandfunk.de/eu-verhaengt-millionenstrafe-gegen-chinesischen-online-haendler-aliexpress-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Unterhändler Al-Hayya neuer Chef der Hamas",
-      "url": "https://www.deutschlandfunk.de/unterhaendler-al-hayya-neuer-chef-der-hamas-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "New York - Lebenslange Haft für mexikanischen Drogenboss Zambada",
-      "url": "https://www.deutschlandfunk.de/lebenslange-haft-fuer-mexikanischen-drogenboss-zambada-102.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Cyberkriminalität - Ermittlern gelingt Schlag gegen Phishing-Dienste",
-      "url": "https://www.deutschlandfunk.de/ermittlern-gelingt-schlag-gegen-phishing-dienste-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Naturschutz - Nabu: Zahl der Störche hat sich mehr als verfünffacht",
-      "url": "https://www.deutschlandfunk.de/nabu-zahl-der-stoerche-hat-sich-mehr-als-verfuenffacht-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "20. Juli 1944 - Gedenken an gescheitertes Hitler-Attentat um Graf von Stauffenberg vor 82 Jahren - \"Widerstand vereinte Milieus\"",
-      "url": "https://www.deutschlandfunk.de/gedenken-an-gescheitertes-hitler-attentat-um-graf-von-stauffenberg-vor-82-jahren-widerstand-vereinte-100.html",
-      "publishedAt": "2026-07-20T17:05:41.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -332,13 +409,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Massenprotest in Indien: „Kakerlakenbewegung“ fordert Regierung Modi heraus",
-      "url": "https://taz.de/Kakerlakenbewegung-in-Indien-fordert-Regierung-von-Modi-heraus/!6197703/",
-      "publishedAt": "2026-07-20T16:01:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "CDU-Fördergeldaffäre in Berlin: Mildes Urteil von CDU und SPD",
       "url": "https://taz.de/CDU-Foerdergeldaffaere/!6197531/",
       "publishedAt": "2026-07-20T16:00:00.000Z",
@@ -366,32 +436,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Nach Rücktritt von Jens Spahn: Fraktionsführung dringend gesucht",
-      "url": "https://taz.de/Nach-Ruecktritt-von-Jens-Spahn/!6197644/",
-      "publishedAt": "2026-07-20T14:55:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Andy Burnham ist neuer Premierminister in Großbritannien",
       "url": "https://www.tagesschau.de/ausland/europa/burnham-ernennung-premier-koenig-charles-100.html",
       "publishedAt": "2026-07-20T14:41:04.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Peter Thiel erhält Axel Springer Award: Ein Preis für den Antichristen",
-      "url": "https://taz.de/Peter-Thiel-bekommt-Axel-Springer-Award-Preis-fuer-den-Antichristen/!6197604/",
-      "publishedAt": "2026-07-20T14:01:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Mutmaßliche Polizeigewalt in Köln: „Pedro wurde wie ein Objekt behandelt“",
-      "url": "https://taz.de/Mutmassliche-Polizeigewalt-in-Koeln/!6197618/",
-      "publishedAt": "2026-07-20T13:50:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -426,13 +475,6 @@
       "title": "Jens Spahn: Frauke Brosius-Gersdorf spricht sich für Legalisierung von Leihmutterschaft aus",
       "url": "https://www.spiegel.de/politik/jens-spahn-frauke-brosius-gersdorf-fuer-legalisierung-von-leihmutterschaft-a-d01773b2-9db2-4b36-8ff9-826b8cf87ede#ref=rss",
       "publishedAt": "2026-07-20T13:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gebrochene Verhütungsspirale: Hersteller muss Schmerzensgeld zahlen",
-      "url": "https://taz.de/Gebrochene-Verhuetungsspirale/!6195338/",
-      "publishedAt": "2026-07-20T12:58:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -478,20 +520,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Das Wechselgeld von neulich: Immer nur zum Ehrenspäti",
-      "url": "https://taz.de/Das-Wechselgeld-von-neulich/!6197231/",
-      "publishedAt": "2026-07-20T11:05:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Sommerinterview des Kanzlers: Merz kann jetzt seinen Machtzirkel neu ordnen",
-      "url": "https://taz.de/Sommerinterview-des-Kanzlers/!6197514/",
-      "publishedAt": "2026-07-20T10:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
@@ -527,24 +555,10 @@
       "category": "AUSLAND"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Dobrindts Geheimdienstpläne: Raunende Terrorwarnungen",
-      "url": "https://taz.de/Dobrindts-Geheimdienstplaene/!6197440/",
-      "publishedAt": "2026-07-20T07:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Bundeswehr: Warum Grünen-Politiker an Schnupperlehrgängen teilnehmen",
       "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-warum-gruenen-politiker-an-schnupperlehrgaengen-teilnehmen-a-5cdf4074-ff39-4234-a176-68e6b54feb9b#ref=rss",
       "publishedAt": "2026-07-20T07:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Spaniens Triumph im WM-Finale: Ein kleiner Sieg für den Fußball",
-      "url": "https://taz.de/Spaniens-Triumph-im-WM-Finale/!6197475/",
-      "publishedAt": "2026-07-20T06:14:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -703,13 +717,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
-      "publishedAt": "2026-07-18T18:54:34.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
       "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
       "publishedAt": "2026-07-18T18:21:25.000Z",
@@ -755,13 +762,6 @@
       "title": "Jens Spahn: Ein Skandal zu viel für den politischen Überlebenskünstler",
       "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-ein-skandal-zu-viel-fuer-den-politischen-ueberlebenskuenstler-a-b216f13c-0682-4968-9e73-593d75073df2#ref=rss",
       "publishedAt": "2026-07-18T15:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "AfD stellt nach Eklat Liste für Wahl 2027 in Nordrhein-Westfalen auf",
-      "url": "https://www.spiegel.de/politik/afd-stellt-nach-eklat-nrw-liste-fuer-wahl-2027-auf-a-3056c40c-4820-410d-92de-3abd5db94408#ref=rss",
-      "publishedAt": "2026-07-18T15:14:00.000Z",
       "category": "POLITIK"
     },
     {
