@@ -1,145 +1,390 @@
 {
-  "updatedAt": "2026-07-20T08:18:26.700Z",
+  "updatedAt": "2026-07-20T11:28:30.454Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Platz 1 im Zitate-Ranking - BILD bleibt das wichtigste Medium",
-      "url": "https://www.bild.de/politik/inland/bild-bleibt-das-wichtigste-medium-platz-1-im-zitate-ranking-6a5dc751c72232627649dc36",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "title": "Rundgang mit Stefan Evers (CDU) - Ist Berlin noch zu retten?",
+      "url": "https://www.bild.de/politik/inland/interview-rundgang-mit-stefan-evers-cdu-ist-berlin-noch-zu-retten-6a5bb3d5918c0212ca51988f",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Personal-Karussell in Regierung? - Spahn-Rücktritt könnte für Merz ein Glücksfall sein",
-      "url": "https://www.bild.de/politik/inland/merz-zeitplan-fuer-kabinettsumbau-nach-spahn-ruecktritt-solls-schnell-gehen-6a5ce658fcf158a602b3c55b",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "INLAND"
+      "title": "Ronzheimer in der Ost-Ukraine - Eine Nacht mit Ukraines Elite-Einheit",
+      "url": "https://www.bild.de/politik/ronzheimer-in-der-ost-ukraine-eine-nacht-mit-ukraines-elite-einheit-6a56b8cc88b6b373594b2015",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ausgaben immer höher - Beamtenpensionen steigen in einem Jahr um 700 Mio.",
-      "url": "https://www.bild.de/politik/inland/pensionen-von-beamten-steigen-in-einem-jahr-um-700-millionen-6a5ca8ac61b8a80211aacbc5",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "title": "RONZHEIMER - Der neue Verbotsplan gegen die AfD. Mit Justus Bender",
+      "url": "https://www.bild.de/politik/ronzheimer-der-neue-verbotsplan-gegen-die-afd-mit-justus-bender-6a5a3c29c722326276499ada",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Paul Ronzheimer im Gespräch mit Jens Spahn - „Nicht verboten mit Leihmutter Eltern zu werden“",
+      "url": "https://www.bild.de/politik/paul-ronzheimer-im-gespraech-mit-jens-spahn-nicht-verboten-mit-leihmutter-eltern-zu-werden-6a5a3683c722326276499a55",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ronzheimer vor Ort - Drohnen-Kriegerin Iryna ist Putins Albtraum",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/die-mutter-aller-drohnen-die-frau-vor-der-russland-zittert-6a5ba13a6d64d237c3774cfd",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Meinungsfreiheit - Trump will Europas Internet-Regeln kippen",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-will-europas-internet-regeln-gegen-hass-im-netz-kippen-6a5cf83a61b8a80211aae088",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "AfD weiter vorne - So würden die Deutschen jetzt wählen",
       "url": "https://www.bild.de/politik/afd-weiter-vorne-so-wuerden-die-deutschen-jetzt-waehlen-6a5a5597e2d50c13b9a7a96b",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Platz 1 im Zitate-Ranking - BILD bleibt das wichtigste Medium",
+      "url": "https://www.bild.de/politik/inland/bild-bleibt-das-wichtigste-medium-platz-1-im-zitate-ranking-6a5dc751c72232627649dc36",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Personal-Karussell in Regierung? - Spahn-Rücktritt könnte für Merz ein Glücksfall sein",
+      "url": "https://www.bild.de/politik/inland/merz-zeitplan-fuer-kabinettsumbau-nach-spahn-ruecktritt-solls-schnell-gehen-6a5ce658fcf158a602b3c55b",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ausgaben immer höher - Beamtenpensionen steigen in einem Jahr um 700 Mio.",
+      "url": "https://www.bild.de/politik/inland/pensionen-von-beamten-steigen-in-einem-jahr-um-700-millionen-6a5ca8ac61b8a80211aacbc5",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
+      "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Steuern um 1300 Prozent rauf - Was hat Klingbeil plötzlich gegen Zigarren?",
       "url": "https://www.bild.de/politik/inland/zigarren-bald-deutlich-teurer-steuer-soll-um-1300-prozent-steigen-6a5ae5aac722326276499fb4",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Merz wirft Spahn raus - Höhepunkt einer jahrelangen Rivalität",
       "url": "https://www.bild.de/politik/inland/merz-wirft-spahn-raus-hoehepunkt-einer-jahrelangen-rivalitaet-6a5c8f03ae8f7851eb5efe58",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "BILD-PLUS"
     },
     {
       "source": "BILD.DE",
       "title": "Kommt jetzt der große Krieg? - USA verlegen weitere Kampfjets nach Nahost",
       "url": "https://www.bild.de/politik/ausland-und-internationales/usa-verlegen-weitere-kampfjets-nach-nahost-6a5d434be0a821422950ff18",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Mutter und Kind sind wohlauf - JD Vance zum vierten Mal Vater geworden",
       "url": "https://www.bild.de/politik/ausland-und-internationales/jd-vance-zum-vierten-mal-vater-geworden-6a5d50a0fc98a79e0248f0b7",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "publishedAt": "2026-07-20T11:28:30.201Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Beste Spielerin der Geschichte - Macht Ungarn dieses Schach-Genie zur Präsidentin?",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/macht-ungarn-schach-genie-judit-polgar-zur-praesidentin-6a5d4053c72232627649d7c6",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "title": "Eilmeldung - Andy Burnham ist neuer Premier von Großbritannien",
+      "url": "https://www.bild.de/politik/burnham-ist-neuer-premier-von-grossbritannien-6a5e043861b8a80211aaf114",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neunte Nacht in Folge - USA mit erneuter Angriffswelle auf den Iran",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/neunte-nacht-in-folge-usa-greifen-den-iran-weiter-an-6a5dbc69c72232627649dbbd",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
+      "category": "BILD"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU tagt in Berlin - Union entscheidet am 29. Juli über Spahn-Nachfolge",
+      "url": "https://www.bild.de/politik/cdu-tagt-in-berlin-kommt-spahns-nachfolger-hier-zum-vorstellungsgespraech-6a5de03961b8a80211aaed3f",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen AfD-Kranz - Eklat bei Gedenkfeier im Bendlerblock!",
+      "url": "https://www.bild.de/politik/inland/eklat-um-kranz-von-der-afd-bei-gedenkfeier-zu-attentat-auf-adolf-hitler-1944-6a5de7f461b8a80211aaee59",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umfrage-Absturz innerhalb einer Woche - Putins Beliebtheit sinkt rasant",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-wladimir-putin-immer-unbeliebter-umfrage-absturz-um-5-prozent-6a5dc1a261b8a80211aaea07",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Kommentar - Letzte Chance für einen Neustart",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-letzte-chance-fuer-einen-neustart-6a5d2ee7c72232627649d742",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "MEINUNG, KOMMENTARE & KOLUMNEN"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mann springt aus Gebüsch - Tomaten-Attacke auf Söder!",
-      "url": "https://www.bild.de/politik/inland/tomaten-attacke-auf-soeder-schrecksekunde-in-bernau-am-chiemsee-6a5d1b6ac72232627649d64c",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "title": "Ölpreis knackt 90 Dollar - Spritpreise steigen weiter an",
+      "url": "https://www.bild.de/politik/inland/oelpreis-knackt-90-dollar-spritpreise-schiessen-wieder-hoch-6a5ddfefc72232627649ddd0",
+      "publishedAt": "2026-07-20T11:28:30.200Z",
       "category": "INLAND"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach iranischem Angriff - US-Soldat in Jordanien vermisst! Armee findet Überreste",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-iranischem-angriff-us-soldat-in-jordanien-vermisst-armee-findet-ueberreste-6a5d21bbc72232627649d682",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "AUSLAND UND INTERNATIONALES"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schrecksekunde am Chiemsee - Video zeigt Tomaten-Attacke auf Söder",
-      "url": "https://www.bild.de/politik/schrecksekunde-am-chiemsee-video-zeigt-tomaten-attacke-auf-soeder-6a5d1bb0053596bf81cc0214",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "source": "SPIEGEL.DE",
+      "title": "Leihmutterschaft: Fall von Jens Spahn soll keine Konsequenzen für Hendrik Streeck haben",
+      "url": "https://www.spiegel.de/politik/leihmutterschaft-fall-von-jens-spahn-soll-keine-konsequenzen-fuer-hendrik-streeck-haben-a-0ba867dd-0547-4e9f-b9e2-23ff6ec2d8b0#ref=rss",
+      "publishedAt": "2026-07-20T11:20:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Abstand wird größer - AfD baut den Vorsprung aus",
-      "url": "https://www.bild.de/politik/abstand-wird-groesser-afd-baut-den-vorsprung-aus-6a5a5597e2d50c13b9a7a967",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "source": "TAZ.DE",
+      "title": "Das Wechselgeld von neulich: Immer nur zum Ehrenspäti",
+      "url": "https://taz.de/Das-Wechselgeld-von-neulich/!6197231/",
+      "publishedAt": "2026-07-20T11:05:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Ukraine meldet - Fünf Tote! Russen-Raketen treffen türkisches Schiff",
-      "url": "https://www.bild.de/politik/ukraine-meldet-fuenf-tote-russen-raketen-treffen-tuerkisches-schiff-6a5d148dae8f7851eb5f1976",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "source": "TAZ.DE",
+      "title": "3,1 Prozent mehr Stundenlohn: Amazon zahlt Mitarbeitern mehr Geld",
+      "url": "https://taz.de/Amazon-zahlt-Mitarbeitern-mehr-Geld/!6197596/",
+      "publishedAt": "2026-07-20T10:58:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Kanzler plant Kabinettsumbau - Wer wird was? Poker um Neuaufstellung in der Union",
-      "url": "https://www.bild.de/politik/inland/spahn-ruecktritt-merz-plant-neuaufstellung-der-regierung-wer-wird-was-6a5cbd38ae8f7851eb5f0905",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "BILD-PLUS"
+      "source": "DLF",
+      "title": "Gedenken an 20. Juli 1944 - NS-Widerstand vereinte Milieus",
+      "url": "https://www.deutschlandfunk.de/ns-widerstand-vereinte-milieus-102.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Respektlos? - Shitstorm für Juso-Chef nach Anti-Spahn-Video",
-      "url": "https://www.bild.de/politik/inland/spahn-ruecktritt-juso-chef-philipp-tuermer-sorgt-mit-video-fuer-kritik-6a5cd11cae8f7851eb5f0d55",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "INLAND"
+      "source": "DLF",
+      "title": "Illegale Produkte - EU verhängt Millionenstrafe gegen chinesischen Online-Händler AliExpress",
+      "url": "https://www.deutschlandfunk.de/eu-verhaengt-millionenstrafe-gegen-chinesischen-online-haendler-aliexpress-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Schlimmste Raketen-Nacht seit Kriegsbeginn",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
+      "source": "DLF",
+      "title": "Nach Rücktritt - Union berät über Nachfolge des Fraktionsvorsitzenden Spahn - Wahl am 29. Juli geplant",
+      "url": "https://www.deutschlandfunk.de/union-beraet-ueber-nachfolge-des-fraktionsvorsitzenden-spahn-wahl-am-29-juli-geplant-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Personal-Spekulationen - Spahns Nachfolge: Diese Namen werden genannt",
+      "url": "https://www.deutschlandfunk.de/spahns-nachfolge-diese-namen-werden-genannt-102.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jugendbewegung in Indien - Trotz Demonstrationsverbots: Tausende Anhänger der \"Kakerlaken Partei\" protestieren in Neu Delhi",
+      "url": "https://www.deutschlandfunk.de/trotz-demonstrationsverbots-tausende-anhaenger-der-kakerlaken-partei-protestieren-in-neu-delhi-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Irankrieg - Demokraten kritisieren Trump nach Tod von US-Soldaten scharf",
+      "url": "https://www.deutschlandfunk.de/demokraten-kritisieren-trump-nach-tod-von-us-soldaten-scharf-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bertelsmann Stiftung - Leistungen für Teilhabe und Bildung kommen bei vielen Kindern und Jugendlichen nicht an",
+      "url": "https://www.deutschlandfunk.de/leistungen-fuer-teilhabe-und-bildung-kommen-bei-vielen-kindern-und-jugendlichen-nicht-an-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kontroverse um Landesparteitag - Machtkampf in der AfD in NRW - Politikwissenschaftler Schroeder: \"ungewöhnlich für das Parteienwesen\"",
+      "url": "https://www.deutschlandfunk.de/machtkampf-in-der-afd-in-nrw-politikwissenschaftler-schroeder-ungewoehnlich-fuer-das-parteienwesen-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Auswertung - Viele Restaurants und Hotels löschen Google-Bewertungen",
+      "url": "https://www.deutschlandfunk.de/viele-restaurants-und-hotels-loeschen-google-bewertungen-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mecklenburg-Vorpommern - Minister: Waldbrand im Müritz-Nationalpark gelöscht",
+      "url": "https://www.deutschlandfunk.de/minister-waldbrand-im-mueritz-nationalpark-geloescht-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Saarland - 18 Menschen in Saarbrücken aus Seilbahn gerettet",
+      "url": "https://www.deutschlandfunk.de/18-menschen-in-saarbruecken-aus-seilbahn-gerettet-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "DAK-Auswertung - Krankheitsausfälle im Job leicht gesunken",
+      "url": "https://www.deutschlandfunk.de/krankheitsausfaelle-im-job-leicht-gesunken-102.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutsche Bahn - Offene Fragen zum Tathergang nach Attacke auf Bahnmitarbeiter",
+      "url": "https://www.deutschlandfunk.de/offene-fragen-zum-tathergang-nach-attacke-auf-bahnmitarbeiter-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "WM-Finale - Spanien ist Fußball-Weltmeister - 1:0 gegen Argentinien nach Verlängerung",
+      "url": "https://www.deutschlandfunk.de/spanien-ist-fussball-weltmeister-1-0-gegen-argentinien-nach-verlaengerung-112.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "WM-Bilanz - Sportphilosoph Gebauer: Fußball-Weltmeisterschaft hat Vertrauenskrise ausgelöst",
+      "url": "https://www.deutschlandfunk.de/sportphilosoph-gebauer-fussball-weltmeisterschaft-hat-vertrauenskrise-ausgeloest-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Burnham soll heute den Auftrag zur Regierungsbildung erhalten",
+      "url": "https://www.deutschlandfunk.de/burnham-soll-heute-den-auftrag-zur-regierungsbildung-erhalten-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Künftiger britischer Premierminister - Wer ist Andy Burnham und wofür steht er politisch?",
+      "url": "https://www.deutschlandfunk.de/kuenftiger-britischer-premierminister-wer-ist-andy-burnham-und-wofuer-steht-er-politisch-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Neunte Nacht in Folge - US-Angriffe auf den Iran gehen weiter - Berichte über Verlegung von weiteren Kampfjets",
+      "url": "https://www.deutschlandfunk.de/us-angriffe-auf-den-iran-gehen-weiter-berichte-ueber-verlegung-von-weiteren-kampfjets-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geldanlage - Sparkassen öffnen App für Wertpapierhandel",
+      "url": "https://www.deutschlandfunk.de/sparkassen-oeffnen-app-fuer-wertpapierhandel-102.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Motiv unklar - Mann bewirft Bayerns Ministerpräsident Söder mit Tomate",
+      "url": "https://www.deutschlandfunk.de/mann-bewirft-bayerns-ministerpraesident-soeder-mit-tomate-100.html",
+      "publishedAt": "2026-07-20T10:50:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sommerinterview des Kanzlers: Merz kann jetzt seinen Machtzirkel neu ordnen",
+      "url": "https://taz.de/Sommerinterview-des-Kanzlers/!6197514/",
+      "publishedAt": "2026-07-20T10:47:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "RAF ermordete seinen Vater - Schleyer-Sohn tief bewegt von neuen Ermittlungen",
-      "url": "https://www.bild.de/politik/inland/raf-ermordete-seinen-vater-schleyer-sohn-tief-bewegt-von-neuen-ermittlungen-des-bka-6a5a92c5c722326276499e96",
-      "publishedAt": "2026-07-20T08:18:26.135Z",
-      "category": "INLAND"
+      "source": "TAGESSCHAU.DE",
+      "title": "Unionsfraktion: Abstimmung über Spahn-Nachfolge am 29. Juli",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolge-fraktion-100.html",
+      "publishedAt": "2026-07-20T10:20:51.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
+      "publishedAt": "2026-07-20T10:11:55.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "+++ Nachrichten im Ukrainekrieg +++: Ukraine feuert mehr als 400 Drohnen auf Moskau",
+      "url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6197552/",
+      "publishedAt": "2026-07-20T10:02:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-100.html",
+      "publishedAt": "2026-07-20T10:01:40.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Jens Spahn: Unionsfraktion will erst in der kommenden Woche über Nachfolge entscheiden",
+      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-unionsfraktion-will-erst-in-der-kommenden-woche-ueber-nachfolge-entscheiden-a-5239e565-6c50-4ee5-93e9-cdca18ea7c19#ref=rss",
+      "publishedAt": "2026-07-20T09:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
+      "publishedAt": "2026-07-20T09:24:27.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Stadtplanerin über Hitzeschutz: „Hitzeschutz ist Daseinsvorsorge“",
+      "url": "https://taz.de/Stadtplanerin-ueber-Hitzeschutz/!6197101/",
+      "publishedAt": "2026-07-20T09:00:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Hitzekonzepte in Berlin und Barcelona: Heißes Pflaster",
+      "url": "https://taz.de/Hitzekonzepte-in-Berlin-und-Barcelona/!6197093/",
+      "publishedAt": "2026-07-20T08:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Argentinien verliert WM-Finale: \"Ich muss weinen\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/wm-finale-argentien-100.html",
+      "publishedAt": "2026-07-20T08:31:04.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spanien feiert WM-Titel: \"Das hier ist unbeschreiblich\"",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-reaktionen-sieg-wm-finale-100.html",
+      "publishedAt": "2026-07-20T08:30:55.000Z",
+      "category": "AUSLAND"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html",
+      "publishedAt": "2026-07-20T08:19:06.000Z",
+      "category": "AUSLAND"
     },
     {
       "source": "TAZ.DE",
@@ -171,150 +416,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "+++ Nachrichten im Nahost-Krieg +++: Die USA greifen Iran die neunte Nacht in Folge an",
+      "title": "+++ Nachrichten im Nahostkrieg +++: Die USA greifen Iran die neunte Nacht in Folge an",
       "url": "https://taz.de/-Nachrichten-im-Nahost-Krieg-/!6197478/",
       "publishedAt": "2026-07-20T06:58:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Rücktritt - Union berät über Nachfolge des Fraktionsvorsitzenden Spahn - CDU-Landeschef Peters fordert schnelle Entscheidung",
-      "url": "https://www.deutschlandfunk.de/union-beraet-ueber-nachfolge-des-fraktionsvorsitzenden-spahn-cdu-landeschef-peters-fordert-schnelle--100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Neunte Nacht in Folge - US-Angriffe auf den Iran gehen weiter - Berichte über Verlegung von weiteren Kampfjets",
-      "url": "https://www.deutschlandfunk.de/us-angriffe-auf-den-iran-gehen-weiter-berichte-ueber-verlegung-von-weiteren-kampfjets-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Trockenheit - Waldbrände wüten in Südeuropa und Nordafrika - Lage im Müritz-Nationalpark hat sich entspannt",
-      "url": "https://www.deutschlandfunk.de/waldbraende-wueten-in-suedeuropa-und-nordafrika-lage-im-mueritz-nationalpark-hat-sich-entspannt-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "DAK-Auswertung - Krankheitsausfälle im Job leicht gesunken",
-      "url": "https://www.deutschlandfunk.de/krankheitsausfaelle-im-job-leicht-gesunken-102.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutsche Bahn - Offene Fragen zum Tathergang nach Attacke auf Bahnmitarbeiter",
-      "url": "https://www.deutschlandfunk.de/offene-fragen-zum-tathergang-nach-attacke-auf-bahnmitarbeiter-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundeskanzler - Merz sieht \"Vertrauenskrise der Demokratie\" und verteidigt Sozialreformen",
-      "url": "https://www.deutschlandfunk.de/merz-sieht-vertrauenskrise-der-demokratie-und-verteidigt-sozialreformen-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "WM-Finale - Spanien ist Fußball-Weltmeister - 1:0 gegen Argentinien nach Verlängerung",
-      "url": "https://www.deutschlandfunk.de/spanien-ist-fussball-weltmeister-1-0-gegen-argentinien-nach-verlaengerung-112.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Jugendbewegung in Indien - Trotz Demonstrationsverbots: Protest der \"Kakerlaken Partei\" formiert sich in Neu Delhi",
-      "url": "https://www.deutschlandfunk.de/trotz-demonstrationsverbots-protest-der-kakerlaken-partei-formiert-sich-in-neu-delhi-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Burnham soll heute den Auftrag zur Regierungsbildung erhalten",
-      "url": "https://www.deutschlandfunk.de/burnham-soll-heute-den-auftrag-zur-regierungsbildung-erhalten-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schwarzmeer-Region - Ukraine wirft Russland Angriff auf Frachtschiff mit fünf Toten vor",
-      "url": "https://www.deutschlandfunk.de/ukraine-wirft-russland-angriff-auf-frachtschiff-mit-fuenf-toten-vor-104.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "NS-Zeit - Gedenken an Hitler-Widerstand um Claus Schenk Graf von Stauffenberg vor 82 Jahren",
-      "url": "https://www.deutschlandfunk.de/gedenken-an-hitler-widerstand-um-claus-schenk-graf-von-stauffenberg-vor-82-jahren-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - Keine Hürden von Red Bull mehr: Jürgen Klopp kann neuer Bundestrainer werden",
-      "url": "https://www.deutschlandfunk.de/keine-huerden-von-red-bull-mehr-juergen-klopp-kann-neuer-bundestrainer-werden-112.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Magenta TV - Telekom sichert sich auch Fernseh-Rechte für WM 2030",
-      "url": "https://www.deutschlandfunk.de/telekom-sichert-sich-auch-fernseh-rechte-fuer-wm-102.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Tour de France - Ursache für Sturz? - Diskussion um nächtliche Dopingkontrollen bei Vingegaard und Pogacar",
-      "url": "https://www.deutschlandfunk.de/ursache-fuer-sturz-diskussion-um-naechtliche-dopingkontrollen-bei-vingegaard-und-pogacar-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Afrika-Reise - Bundesaußenminister Wadephul reist nach Mauretanien, Nigeria und Südafrika",
-      "url": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-reist-nach-mauretanien-nigeria-und-suedafrika-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Norwegen - Denkmal für Opfer der Breivik-Anschläge in Oslo eingeweiht",
-      "url": "https://www.deutschlandfunk.de/denkmal-fuer-opfer-der-breivik-anschlaege-in-oslo-eingeweiht-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ungarn - Regierungschef Magyar will Judit Polgár für das Amt der Staatspräsidentin nominieren",
-      "url": "https://www.deutschlandfunk.de/regierungschef-magyar-will-judit-polg-r-fuer-das-amt-der-staatspraesidentin-nominieren-100.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Telegram-Posting - Russischer Kriegsgegner und Putin Kritiker Nadeschdin verzichtet auf Kandidatur bei Parlamentswahl",
-      "url": "https://www.deutschlandfunk.de/russischer-kriegsgegner-und-putin-kritiker-nadeschdin-verzichtet-auf-kandidatur-bei-parlamentswahl-104.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nordirak - US-Soldat bei Sprengung von Waffenresten einer iranischen Drohne getötet",
-      "url": "https://www.deutschlandfunk.de/us-soldat-bei-sprengung-von-waffenresten-einer-iranischen-drohne-getoetet-102.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Iran-Krieg - Demokraten kritisieren Trump nach Tod von zwei US-Soldaten - Sorge vor weiterer Eskalation",
-      "url": "https://www.deutschlandfunk.de/demokraten-kritisieren-trump-nach-tod-von-zwei-us-soldaten-sorge-vor-weiterer-eskalation-104.html",
-      "publishedAt": "2026-07-20T06:48:24.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -343,13 +448,6 @@
       "url": "https://taz.de/Neues-Buch-von-Klaus-Lederer/!6192524/",
       "publishedAt": "2026-07-20T05:46:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
-      "publishedAt": "2026-07-20T05:38:39.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -416,41 +514,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Trendhund: Wenn der Pudel tollt",
-      "url": "https://taz.de/Trendhund/!6192482/",
-      "publishedAt": "2026-07-19T18:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Album von Panda Bear und Sonic Boom: Besseres Klima dank Mariachi und Harmoniegesang",
-      "url": "https://taz.de/Album-von-Panda-Bear-und-Sonic-Boom/!6194102/",
-      "publishedAt": "2026-07-19T18:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Joachim Rock zu Kürzungsplänen: „Das wäre verheerend für einkommensarme Familien“",
-      "url": "https://taz.de/Joachim-Rock-zu-Kuerzungsplaenen/!6195991/",
-      "publishedAt": "2026-07-19T18:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Elektromobilität und Strommarkt: Autobatterie laden und Geld dafür bekommen? So geht's",
-      "url": "https://taz.de/Elektromobilitaet-und-Strommarkt/!6195403/",
-      "publishedAt": "2026-07-19T18:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Demokratieprojekte: Hört auf mit den Projekten",
-      "url": "https://taz.de/Demokratieprojekte/!6196417/",
-      "publishedAt": "2026-07-19T18:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Krieg in Iran: Die neue US-Offensive in Iran zieht an",
       "url": "https://taz.de/Krieg-in-Iran/!6197328/",
       "publishedAt": "2026-07-19T18:07:00.000Z",
@@ -461,13 +524,6 @@
       "title": "Leihmutterschaft und der Fall Spahn: Die Frau als Brutkasten",
       "url": "https://taz.de/Leihmutterschaft-und-der-Fall-Spahn/!6197386/",
       "publishedAt": "2026-07-19T18:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Danger Dan, Antifaschismus und das ZDF: Mit Legalismus gegen Rechtsextremismus?",
-      "url": "https://taz.de/Danger-Dan-Antifaschismus-und-das-ZDF/!6197316/",
-      "publishedAt": "2026-07-19T16:25:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -497,13 +553,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/venezuela-wut-baupfusch-100.html",
       "publishedAt": "2026-07-19T14:13:51.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
-      "publishedAt": "2026-07-19T11:39:28.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -702,31 +751,10 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Jens Spahn: So reagiert die Politik auf seinen Rücktritt",
-      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-so-reagiert-die-politik-auf-seinen-ruecktritt-a-82588463-a3e4-4676-bea0-2c867d6e4011#ref=rss",
-      "publishedAt": "2026-07-18T12:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Jens Spahn: Das Schreiben zu seinem Rücktritt an die CDU/CSU-Fraktion im Wortlaut",
-      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-das-schreiben-zu-seinem-ruecktritt-an-die-cdu-csu-fraktion-im-wortlaut-a-58c2af8e-9fb4-4249-8024-44a097a35cc1#ref=rss",
-      "publishedAt": "2026-07-18T12:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Polens Präsident Nawrocki: Mit Vetos macht er Tusk das Regieren schwer",
       "url": "https://www.tagesschau.de/ausland/europa/nawrocki-polen-100.html",
       "publishedAt": "2026-07-18T11:02:00.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Waldbrände in Kanada: Trump droht mit Zöllen wegen Luftverschmutzung",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-kanada-waldbrand-trump-zoelle-100.html",
-      "publishedAt": "2026-07-18T07:46:52.000Z",
       "category": "AUSLAND"
     },
     {
@@ -801,13 +829,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Brücken-Einsturz in Genua: Gemischte Gefühle nach Urteil gegen Top-Manager",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-genua-brueckeneinsturz-urteil-100.html",
-      "publishedAt": "2026-07-16T15:59:31.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Kassenreform: Was bedeuten die Kürzungen für Psychotherapien?",
       "url": "https://www.tagesschau.de/inland/innenpolitik/psychotherapie-gkv-reform-100.html",
       "publishedAt": "2026-07-16T15:29:41.000Z",
@@ -819,27 +840,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/westdeutschland-ostdeutschland-luecke-100.html",
       "publishedAt": "2026-07-16T15:27:15.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bär plant Weltraumgesetz und Astronauten-Programm für Jugendliche",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/baer-weltraumgesetz-astronauten-programm-100.html",
-      "publishedAt": "2026-07-16T13:04:16.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Urteil zum Einsturz der Morandi-Brücke in Genua erwartet",
-      "url": "https://www.tagesschau.de/ausland/europa/urteil-eingestuerzte-bruecke-genua-100.html",
-      "publishedAt": "2026-07-16T04:25:22.000Z",
-      "category": "AUSLAND"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html",
-      "publishedAt": "2026-07-15T18:30:41.000Z",
-      "category": "AUSLAND"
     }
   ]
 }
