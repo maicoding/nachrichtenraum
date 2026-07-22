@@ -18,14 +18,13 @@ const ui = {
 };
 
 const phases = [
-  { id: 'morning', label: 'MORGEN', start: 0, end: 120, speed: 4, level: 3, interval: 2.3, batch: 1, breath: false },
-  { id: 'breath-morning', label: 'ATEMPAUSE', start: 120, end: 180, speed: 4, level: 0, interval: Infinity, batch: 0, breath: true },
-  { id: 'noon', label: 'MITTAG', start: 180, end: 300, speed: 6, level: 4.5, interval: .82, batch: 1, breath: false },
-  { id: 'breath-noon', label: 'ATEMPAUSE', start: 300, end: 360, speed: 6, level: 0, interval: Infinity, batch: 0, breath: true },
-  { id: 'evening', label: 'ABEND', start: 360, end: 480, speed: 8, level: 6, interval: .26, batch: 2, breath: false },
-  { id: 'silence', label: 'STILLE', start: 480, end: Infinity, speed: 5, level: 0, interval: Infinity, batch: 0, breath: true }
+  { id: 'onset', label: 'ANLAUF', start: 0, end: 10, speed: 2.8, level: 2.5, interval: .55, batch: 1, breath: false, hold: 3.8, surround: .35 },
+  { id: 'acceleration', label: 'BESCHLEUNIGUNG', start: 10, end: 22, speed: 4.8, level: 4, interval: .24, batch: 2, breath: false, hold: 2.6, surround: .55 },
+  { id: 'flood', label: 'FLUT', start: 22, end: 32, speed: 7, level: 5.2, interval: .12, batch: 3, breath: false, hold: 1.7, surround: .72 },
+  { id: 'overload', label: 'ÜBERLASTUNG', start: 32, end: 40, speed: 9, level: 6, interval: .075, batch: 4, breath: false, hold: 1, surround: .86 },
+  { id: 'silence', label: 'STILLE', start: 40, end: Infinity, speed: 0, level: 0, interval: Infinity, batch: 0, breath: false, hold: 0, surround: 0 }
 ];
-const timelineLength = 480;
+const timelineLength = 40;
 const localTempo = ['localhost', '127.0.0.1'].includes(location.hostname)
   ? THREE.MathUtils.clamp(Number(new URLSearchParams(location.search).get('tempo')) || 1, 1, 60)
   : 1;
@@ -121,16 +120,16 @@ function roundedRect(ctx, x, y, w, h, radius) {
 
 function colorForCategory(category = '') {
   const name = category.toUpperCase();
-  if (name.includes('WIRTSCHAFT') || name.includes('PREIS')) return '#F4C95D';
-  if (name.includes('INNEN')) return '#FF716C';
-  if (name.includes('AUSLAND')) return '#69A1FF';
-  if (name.includes('KARRIERE') || name.includes('STUDIUM')) return '#B998FF';
-  if (name.includes('KLIMA') || name.includes('UMWELT') || name.includes('REGION')) return '#64D6A4';
-  if (name.includes('GESUND') || name.includes('PSYCH')) return '#FF9BC2';
-  if (name.includes('WISSEN') || name.includes('UNIVERSUM')) return '#8FD3FF';
-  if (name.includes('NETZ') || name.includes('MEDIEN')) return '#78D7D1';
-  if (name.includes('POLITIK')) return '#FF955E';
-  return '#F1F0E8';
+  if (name.includes('WIRTSCHAFT') || name.includes('PREIS')) return '#183A5A';
+  if (name.includes('INNEN')) return '#263E63';
+  if (name.includes('AUSLAND')) return '#1D4B73';
+  if (name.includes('KARRIERE') || name.includes('STUDIUM')) return '#313D65';
+  if (name.includes('KLIMA') || name.includes('UMWELT') || name.includes('REGION')) return '#164A59';
+  if (name.includes('GESUND') || name.includes('PSYCH')) return '#343B63';
+  if (name.includes('WISSEN') || name.includes('UNIVERSUM')) return '#1E405F';
+  if (name.includes('NETZ') || name.includes('MEDIEN')) return '#193B50';
+  if (name.includes('POLITIK')) return '#263B59';
+  return '#1C2C3E';
 }
 
 function makeCardTexture(message, index) {
@@ -139,17 +138,24 @@ function makeCardTexture(message, index) {
   canvas.height = 300;
   const ctx = canvas.getContext('2d');
   ctx.fillStyle = colorForCategory(message.category);
-  roundedRect(ctx, 0, 0, 900, 300, 7);
-  ctx.fillStyle = '#17191a';
+  roundedRect(ctx, 3, 3, 894, 294, 30);
+  ctx.strokeStyle = 'rgba(186, 218, 247, .62)';
+  ctx.lineWidth = 4;
+  ctx.stroke();
+  ctx.beginPath();
+  ctx.arc(50, 45, 8, 0, Math.PI * 2);
+  ctx.fillStyle = '#8CCBFF';
+  ctx.fill();
+  ctx.fillStyle = '#EAF3FC';
   ctx.font = '500 24px Arial';
   ctx.letterSpacing = '3px';
-  ctx.fillText(message.source, 44, 48);
-  ctx.fillStyle = '#343A3D';
+  ctx.fillText(message.source, 74, 52);
+  ctx.fillStyle = '#AFC7DE';
   ctx.textAlign = 'right';
   ctx.font = '500 19px Arial';
   ctx.fillText(String(index + 1).padStart(3, '0'), 856, 48);
   ctx.textAlign = 'left';
-  ctx.fillStyle = '#111314';
+  ctx.fillStyle = '#F7FAFD';
   ctx.font = '600 47px Arial';
   const words = message.title.split(' ');
   const lines = [];
@@ -165,7 +171,7 @@ function makeCardTexture(message, index) {
   }
   lines.push(line);
   lines.slice(0, 2).forEach((text, i) => ctx.fillText(text, 44, 122 + i * 54));
-  ctx.fillStyle = '#343A3D';
+  ctx.fillStyle = '#B8CEE2';
   ctx.font = '500 18px Arial';
   ctx.fillText(`${message.category}  ·  ${message.age}`, 44, 266);
   const texture = new THREE.CanvasTexture(canvas);
@@ -221,9 +227,9 @@ function spawnCard(customMessage, close = false, quiet = false) {
   });
   const card = new THREE.Mesh(new THREE.PlaneGeometry(.6, .2), material);
   const side = Math.random() < .5 ? -1 : 1;
-  const spread = phase.id === 'evening' ? 5.2 : phase.id === 'noon' ? 4.2 : 3.4;
+  const spread = 2.7 + phase.level * .45;
   const readable = close || Math.random() < .34;
-  const surroundChance = phase.id === 'evening' ? .8 : phase.id === 'noon' ? .58 : .32;
+  const surroundChance = phase.surround;
   const surroundsViewer = Math.random() < surroundChance;
   const angle = Math.random() * Math.PI * 2;
   const distance = readable ? 3.2 + Math.random() * 3.2 : surroundsViewer ? 4.8 + Math.random() * 2.2 : 7 + Math.random() * 8;
@@ -251,13 +257,13 @@ function spawnCard(customMessage, close = false, quiet = false) {
     category: message.category,
     directionX,
     directionZ,
-    hold: phase.id === 'morning' ? 4.2 : phase.id === 'noon' ? 3.2 : 2.35,
+    hold: phase.hold,
     startDistance: horizontalDistance,
     surroundsViewer,
     targetScale: readable ? 1.12 : .96,
     travel: 0,
     speed: phase.speed * (.84 + Math.random() * .32),
-    waveAmplitude: .22 + Math.random() * (phase.id === 'evening' ? 1.05 : .62),
+    waveAmplitude: .22 + Math.random() * (.42 + phase.level * .1),
     waveFrequency: .55 + Math.random() * 1.1,
     wavePhase: Math.random() * Math.PI * 2,
     url: message.url || ''
@@ -266,7 +272,7 @@ function spawnCard(customMessage, close = false, quiet = false) {
   messageGroup.add(card);
   cards.push(card);
   sequence += 1;
-  while (cards.length > 360) disposeCard(cards[0]);
+  while (cards.length > 240) disposeCard(cards[0]);
   if (!quiet) playTone(phase.level || 3);
   updateReadout();
 }
@@ -646,13 +652,14 @@ renderer.setAnimationLoop(() => {
   if (running) updateReadout();
 
   camera.getWorldPosition(cameraWorldPosition);
+  const vanish = phase.id === 'silence' ? THREE.MathUtils.clamp((elapsed - timelineLength) / .8, 0, 1) : 0;
   for (let index = cards.length - 1; index >= 0; index -= 1) {
     const card = cards[index];
     const age = now - card.userData.born;
     const ease = 1 - Math.exp(-age * 7);
     const overshoot = age < .55 ? Math.sin(age / .55 * Math.PI) * .16 : 0;
-    card.scale.setScalar((ease + overshoot) * card.userData.targetScale);
-    card.material.opacity = Math.min(1, age * 5);
+    card.scale.setScalar((ease + overshoot) * card.userData.targetScale * (1 - vanish * .45));
+    card.material.opacity = Math.min(1, age * 5) * (1 - vanish);
     const movingAge = Math.max(0, age - card.userData.hold);
     const waveStrength = movingAge > 0 ? 1 : .18;
     const wave = Math.sin(movingAge * card.userData.waveFrequency * 3 + card.userData.wavePhase);
@@ -676,7 +683,7 @@ renderer.setAnimationLoop(() => {
     const hasPassed = card.userData.behavior === 'pass' && card.userData.travel > card.userData.startDistance + 8;
     const hasRisen = card.position.y > 8.5;
     const hasReceded = card.userData.behavior === 'recede' && card.userData.travel < -52;
-    if (hasPassed || hasRisen || hasReceded) disposeCard(card);
+    if (hasPassed || hasRisen || hasReceded || vanish >= 1) disposeCard(card);
   }
 
   updateAudio(now, phase);

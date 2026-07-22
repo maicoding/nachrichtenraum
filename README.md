@@ -15,16 +15,15 @@ Die Anwendung lädt Schlagzeilen aus den RSS-Feeds von tagesschau.de, taz.de, SP
 
 ## Ablauf
 
-- 00:00 bis 02:00: Morgen, Geschwindigkeit 4, Tonstufe 3
-- 02:00 bis 03:00: Atempause
-- 03:00 bis 05:00: Mittag, Geschwindigkeit 6
-- 05:00 bis 06:00: Atempause
-- 06:00 bis 08:00: Abend, Geschwindigkeit 8, Tonstufe 6
-- ab 08:00: Stille
+- 00:00 bis 00:10: langsamer Anlauf
+- 00:10 bis 00:22: schnelle Beschleunigung
+- 00:22 bis 00:32: Nachrichtenflut
+- 00:32 bis 00:40: maximale Überlastung
+- ab 00:40: Stille, alle Nachrichten verschwinden
 
 Desktop: W, A, S, D oder Pfeiltasten zum Laufen, Ziehen mit der Maus oder Q und E zum sanften 360-Grad-Drehen. VR: linker Stick zum Laufen, rechter Stick zum stufenlosen Drehen.
 
-Jedes Thema besitzt eine feste Kartenfarbe. Die Karten erscheinen rund um die Person, ploppen auf, bleiben kurz lesbar und fliegen anschließend vorbei, nach oben oder zurück in die Tiefe.
+Die Themen besitzen verschiedene dunkle Blautöne. Die Karten erinnern an Smartphone-Benachrichtigungen, erscheinen rund um die Person, ploppen auf und fliegen anschließend vorbei, nach oben oder zurück in die Tiefe.
 
 Die Tagesschau-Inhalte sind für den privaten, nicht-kommerziellen Gebrauch vorgesehen. Für eine öffentliche oder kommerzielle Ausstellung müssen die Nutzungsrechte mit den Anbietern geklärt werden.
 
