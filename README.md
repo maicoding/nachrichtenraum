@@ -22,9 +22,9 @@ Die Anwendung lädt Schlagzeilen aus den RSS-Feeds von tagesschau.de, taz.de, SP
 - 06:00 bis 08:00: Abend, Geschwindigkeit 8, Tonstufe 6
 - ab 08:00: Stille
 
-Desktop: W, A, S, D oder Pfeiltasten zum Laufen, Ziehen mit der Maus zum Umsehen. VR: linker Stick zum Laufen, rechter Stick zum Drehen.
+Desktop: W, A, S, D oder Pfeiltasten zum Laufen, Ziehen mit der Maus oder Q und E zum sanften 360-Grad-Drehen. VR: linker Stick zum Laufen, rechter Stick zum stufenlosen Drehen.
 
-Jedes Thema besitzt eine feste Kartenfarbe. Die Karten ploppen auf, bleiben kurz lesbar und fliegen anschließend vorbei, nach oben oder zurück in die Tiefe.
+Jedes Thema besitzt eine feste Kartenfarbe. Die Karten erscheinen rund um die Person, ploppen auf, bleiben kurz lesbar und fliegen anschließend vorbei, nach oben oder zurück in die Tiefe.
 
 Die Tagesschau-Inhalte sind für den privaten, nicht-kommerziellen Gebrauch vorgesehen. Für eine öffentliche oder kommerzielle Ausstellung müssen die Nutzungsrechte mit den Anbietern geklärt werden.
 

@@ -22,7 +22,7 @@ const phases = [
   { id: 'breath-morning', label: 'ATEMPAUSE', start: 120, end: 180, speed: 4, level: 0, interval: Infinity, batch: 0, breath: true },
   { id: 'noon', label: 'MITTAG', start: 180, end: 300, speed: 6, level: 4.5, interval: .82, batch: 1, breath: false },
   { id: 'breath-noon', label: 'ATEMPAUSE', start: 300, end: 360, speed: 6, level: 0, interval: Infinity, batch: 0, breath: true },
-  { id: 'evening', label: 'ABEND', start: 360, end: 480, speed: 8, level: 6, interval: .32, batch: 2, breath: false },
+  { id: 'evening', label: 'ABEND', start: 360, end: 480, speed: 8, level: 6, interval: .26, batch: 2, breath: false },
   { id: 'silence', label: 'STILLE', start: 480, end: Infinity, speed: 5, level: 0, interval: Infinity, batch: 0, breath: true }
 ];
 const timelineLength = 480;
@@ -47,6 +47,7 @@ player.add(camera);
 sceneHost.dataset.playerX = '0.000';
 sceneHost.dataset.playerZ = '0.000';
 sceneHost.dataset.phase = 'ready';
+sceneHost.dataset.yaw = '0.000';
 sceneHost.dataset.passed = 'false';
 sceneHost.dataset.risen = 'false';
 sceneHost.dataset.receded = 'false';
@@ -111,7 +112,6 @@ const worldUp = new THREE.Vector3(0, 1, 0);
 const cameraWorldPosition = new THREE.Vector3();
 const headBeforeTurn = new THREE.Vector3();
 const headAfterTurn = new THREE.Vector3();
-let snapTurnReady = true;
 
 function roundedRect(ctx, x, y, w, h, radius) {
   ctx.beginPath();
@@ -223,12 +223,22 @@ function spawnCard(customMessage, close = false, quiet = false) {
   const side = Math.random() < .5 ? -1 : 1;
   const spread = phase.id === 'evening' ? 5.2 : phase.id === 'noon' ? 4.2 : 3.4;
   const readable = close || Math.random() < .34;
-  const baseX = player.position.x + side * (readable ? .45 + Math.random() * 2.5 : .7 + Math.random() * spread);
+  const surroundChance = phase.id === 'evening' ? .8 : phase.id === 'noon' ? .58 : .32;
+  const surroundsViewer = Math.random() < surroundChance;
+  const angle = Math.random() * Math.PI * 2;
+  const distance = readable ? 3.2 + Math.random() * 3.2 : surroundsViewer ? 4.8 + Math.random() * 2.2 : 7 + Math.random() * 8;
+  const rawBaseX = surroundsViewer
+    ? player.position.x + Math.cos(angle) * distance
+    : player.position.x + side * (readable ? .45 + Math.random() * 2.5 : .7 + Math.random() * spread);
+  const baseX = THREE.MathUtils.clamp(rawBaseX, -6.4, 6.4);
   const baseY = readable ? 1.05 + Math.random() * 2.3 : .65 + Math.random() * 4.4;
-  const distance = readable ? 3.2 + Math.random() * 3.2 : 7 + Math.random() * 8;
+  const baseZ = surroundsViewer ? player.position.z + Math.sin(angle) * distance : player.position.z - distance;
+  const horizontalDistance = Math.max(.001, Math.hypot(player.position.x - baseX, player.position.z - baseZ));
+  const directionX = (player.position.x - baseX) / horizontalDistance;
+  const directionZ = (player.position.z - baseZ) / horizontalDistance;
   const motionRoll = Math.random();
   const behavior = motionRoll < .22 ? 'rise' : motionRoll < .42 ? 'recede' : 'pass';
-  card.position.set(baseX, baseY, player.position.z - distance);
+  card.position.set(baseX, baseY, baseZ);
   camera.getWorldPosition(cameraWorldPosition);
   card.lookAt(cameraWorldPosition);
   card.userData = {
@@ -236,10 +246,16 @@ function spawnCard(customMessage, close = false, quiet = false) {
     born: clock.elapsedTime,
     baseX,
     baseY,
+    baseZ,
     behavior,
     category: message.category,
+    directionX,
+    directionZ,
     hold: phase.id === 'morning' ? 4.2 : phase.id === 'noon' ? 3.2 : 2.35,
+    startDistance: horizontalDistance,
+    surroundsViewer,
     targetScale: readable ? 1.12 : .96,
+    travel: 0,
     speed: phase.speed * (.84 + Math.random() * .32),
     waveAmplitude: .22 + Math.random() * (phase.id === 'evening' ? 1.05 : .62),
     waveFrequency: .55 + Math.random() * 1.1,
@@ -265,6 +281,7 @@ function updateReadout() {
   sceneHost.dataset.phase = !running && seconds === 0 ? 'ready' : phase.id;
   sceneHost.dataset.behaviors = [...new Set(cards.map(card => card.userData.behavior))].join(',');
   sceneHost.dataset.categories = [...new Set(cards.map(card => card.userData.category))].join('|');
+  sceneHost.dataset.surrounding = String(cards.filter(card => card.userData.surroundsViewer).length);
 }
 
 const audio = { context: null, master: null, drone: null, breath: null };
@@ -417,11 +434,13 @@ renderer.domElement.addEventListener('pointercancel', () => {
   dragging = false;
 });
 
-const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
+const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'KeyQ', 'KeyE', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
 window.addEventListener('keydown', event => {
   if (!movementCodes.has(event.code)) return;
   movementKeys.add(event.code);
   if (!event.repeat && !renderer.xr.isPresenting) {
+    if (event.code === 'KeyQ') yaw += .045;
+    if (event.code === 'KeyE') yaw -= .045;
     const sideways = Number(event.code === 'KeyD' || event.code === 'ArrowRight') - Number(event.code === 'KeyA' || event.code === 'ArrowLeft');
     const forwards = Number(event.code === 'KeyW' || event.code === 'ArrowUp') - Number(event.code === 'KeyS' || event.code === 'ArrowDown');
     movePlayer(sideways, forwards, .06, camera);
@@ -451,6 +470,8 @@ function movePlayer(sideways, forwards, speed, viewCamera) {
 
 function updateDesktopMovement(delta) {
   if (renderer.xr.isPresenting) return;
+  const turn = Number(movementKeys.has('KeyQ')) - Number(movementKeys.has('KeyE'));
+  yaw += turn * delta * 1.35;
   desiredVelocity.set(
     Number(movementKeys.has('KeyD') || movementKeys.has('ArrowRight')) - Number(movementKeys.has('KeyA') || movementKeys.has('ArrowLeft')),
     Number(movementKeys.has('KeyW') || movementKeys.has('ArrowUp')) - Number(movementKeys.has('KeyS') || movementKeys.has('ArrowDown'))
@@ -472,19 +493,14 @@ function controllerStick(gamepad) {
   };
 }
 
-function snapTurn(x, xrCamera) {
-  if (Math.abs(x) < .3) {
-    snapTurnReady = true;
-    return;
-  }
-  if (!snapTurnReady || Math.abs(x) < .72) return;
+function smoothTurn(x, xrCamera, delta) {
+  if (Math.abs(x) < .12) return;
   xrCamera.getWorldPosition(headBeforeTurn);
-  player.rotation.y -= Math.sign(x) * Math.PI / 6;
+  player.rotation.y -= x * delta * 1.35;
   player.updateMatrixWorld(true);
   xrCamera.getWorldPosition(headAfterTurn);
   player.position.add(headBeforeTurn.sub(headAfterTurn));
   player.updateMatrixWorld(true);
-  snapTurnReady = false;
 }
 
 function updateXRMovement(delta) {
@@ -495,7 +511,7 @@ function updateXRMovement(delta) {
   for (const source of session.inputSources) {
     const stick = controllerStick(source.gamepad);
     if (source.handedness === 'right') {
-      snapTurn(stick.x, xrCamera);
+      smoothTurn(stick.x, xrCamera, delta);
       continue;
     }
     if (!usedMovementStick && (source.handedness === 'left' || source.handedness === 'none')) {
@@ -614,7 +630,10 @@ function updateAudio(now, phase) {
 renderer.setAnimationLoop(() => {
   const delta = Math.min(clock.getDelta(), .05);
   const now = clock.elapsedTime;
-  if (!renderer.xr.isPresenting) camera.rotation.set(pitch, yaw, 0);
+  if (!renderer.xr.isPresenting) {
+    camera.rotation.set(pitch, yaw, 0);
+    sceneHost.dataset.yaw = yaw.toFixed(3);
+  }
   updateDesktopMovement(delta);
   updateXRMovement(delta);
 
@@ -637,26 +656,26 @@ renderer.setAnimationLoop(() => {
     const movingAge = Math.max(0, age - card.userData.hold);
     const waveStrength = movingAge > 0 ? 1 : .18;
     const wave = Math.sin(movingAge * card.userData.waveFrequency * 3 + card.userData.wavePhase);
-    card.position.x = card.userData.baseX + wave * card.userData.waveAmplitude * waveStrength;
-    card.position.y = card.userData.baseY + Math.cos(movingAge * card.userData.waveFrequency * 2 + card.userData.wavePhase) * card.userData.waveAmplitude * .22 * waveStrength;
-    if (movingAge > 0 && card.userData.behavior === 'pass') {
-      card.position.z += card.userData.speed * delta;
-      sceneHost.dataset.passed = 'true';
-    }
+    if (movingAge > 0 && card.userData.behavior === 'pass') card.userData.travel += card.userData.speed * delta;
     if (movingAge > 0 && card.userData.behavior === 'rise') {
+      card.userData.travel += card.userData.speed * .12 * delta;
       card.userData.baseY += card.userData.speed * .34 * delta;
-      card.position.z += card.userData.speed * .12 * delta;
       sceneHost.dataset.risen = 'true';
     }
     if (movingAge > 0 && card.userData.behavior === 'recede') {
-      card.position.z -= card.userData.speed * .48 * delta;
-      card.userData.baseX += Math.sign(card.userData.baseX - player.position.x || 1) * card.userData.speed * .055 * delta;
+      card.userData.travel -= card.userData.speed * .48 * delta;
       sceneHost.dataset.receded = 'true';
     }
+    const perpendicularX = -card.userData.directionZ;
+    const perpendicularZ = card.userData.directionX;
+    card.position.x = card.userData.baseX + card.userData.directionX * card.userData.travel + perpendicularX * wave * card.userData.waveAmplitude * waveStrength;
+    card.position.y = card.userData.baseY + Math.cos(movingAge * card.userData.waveFrequency * 2 + card.userData.wavePhase) * card.userData.waveAmplitude * .22 * waveStrength;
+    card.position.z = card.userData.baseZ + card.userData.directionZ * card.userData.travel + perpendicularZ * wave * card.userData.waveAmplitude * waveStrength;
+    if (movingAge > 0 && card.userData.behavior === 'pass') sceneHost.dataset.passed = 'true';
     card.lookAt(cameraWorldPosition);
-    const hasPassed = card.position.z > player.position.z + 8;
+    const hasPassed = card.userData.behavior === 'pass' && card.userData.travel > card.userData.startDistance + 8;
     const hasRisen = card.position.y > 8.5;
-    const hasReceded = card.position.z < player.position.z - 72;
+    const hasReceded = card.userData.behavior === 'recede' && card.userData.travel < -52;
     if (hasPassed || hasRisen || hasReceded) disposeCard(card);
   }
 
