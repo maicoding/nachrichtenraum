@@ -17,9 +17,25 @@ const ui = {
   sourceStatus: document.querySelector('#source-status')
 };
 
+const phases = [
+  { id: 'morning', label: 'MORGEN', start: 0, end: 120, speed: 4, level: 3, interval: 2.3, batch: 1, breath: false },
+  { id: 'breath-morning', label: 'ATEMPAUSE', start: 120, end: 180, speed: 4, level: 0, interval: Infinity, batch: 0, breath: true },
+  { id: 'noon', label: 'MITTAG', start: 180, end: 300, speed: 6, level: 4.5, interval: .82, batch: 1, breath: false },
+  { id: 'breath-noon', label: 'ATEMPAUSE', start: 300, end: 360, speed: 6, level: 0, interval: Infinity, batch: 0, breath: true },
+  { id: 'evening', label: 'ABEND', start: 360, end: 480, speed: 8, level: 6, interval: .32, batch: 2, breath: false },
+  { id: 'silence', label: 'STILLE', start: 480, end: Infinity, speed: 5, level: 0, interval: Infinity, batch: 0, breath: true }
+];
+const timelineLength = 480;
+const localTempo = ['localhost', '127.0.0.1'].includes(location.hostname)
+  ? THREE.MathUtils.clamp(Number(new URLSearchParams(location.search).get('tempo')) || 1, 1, 60)
+  : 1;
+const localStart = ['localhost', '127.0.0.1'].includes(location.hostname)
+  ? THREE.MathUtils.clamp(Number(new URLSearchParams(location.search).get('start')) || 0, 0, timelineLength)
+  : 0;
+
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x0d0f10);
-scene.fog = new THREE.FogExp2(0x0d0f10, 0.029);
+scene.background = new THREE.Color(0x090a0b);
+scene.fog = new THREE.FogExp2(0x090a0b, 0.034);
 
 const camera = new THREE.PerspectiveCamera(68, innerWidth / innerHeight, 0.03, 160);
 camera.position.set(0, 1.62, 2.8);
@@ -30,19 +46,20 @@ scene.add(player);
 player.add(camera);
 sceneHost.dataset.playerX = '0.000';
 sceneHost.dataset.playerZ = '0.000';
+sceneHost.dataset.phase = 'ready';
 
 const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.7));
 renderer.setSize(innerWidth, innerHeight);
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 0.82;
+renderer.toneMappingExposure = .76;
 renderer.xr.enabled = true;
 sceneHost.append(renderer.domElement);
 
 const tunnel = new THREE.Mesh(
   new THREE.CylinderGeometry(7.5, 7.5, 150, 48, 1, true),
-  new THREE.MeshStandardMaterial({ color: 0x171a1b, roughness: 1, metalness: 0, side: THREE.BackSide })
+  new THREE.MeshStandardMaterial({ color: 0x141617, roughness: 1, metalness: 0, side: THREE.BackSide })
 );
 tunnel.rotation.x = Math.PI / 2;
 tunnel.position.z = -67;
@@ -50,23 +67,22 @@ scene.add(tunnel);
 
 const floor = new THREE.Mesh(
   new THREE.PlaneGeometry(16, 150, 1, 30),
-  new THREE.MeshStandardMaterial({ color: 0x121415, roughness: 1, metalness: 0 })
+  new THREE.MeshStandardMaterial({ color: 0x0e1011, roughness: 1, metalness: 0 })
 );
 floor.rotation.x = -Math.PI / 2;
 floor.position.set(0, 0, -67);
 scene.add(floor);
 
 const ribs = new THREE.Group();
-const ribMaterial = new THREE.MeshBasicMaterial({ color: 0x2b2e2f, transparent: true, opacity: 0.28 });
+const ribMaterial = new THREE.MeshBasicMaterial({ color: 0x272a2b, transparent: true, opacity: .24 });
 for (let z = 1; z > -140; z -= 4) {
-  const rib = new THREE.Mesh(new THREE.TorusGeometry(7.45, 0.018, 4, 64), ribMaterial);
+  const rib = new THREE.Mesh(new THREE.TorusGeometry(7.45, .018, 4, 64), ribMaterial);
   rib.position.set(0, 1.3, z);
   rib.rotation.x = Math.PI / 2;
   ribs.add(rib);
 }
 scene.add(ribs);
-
-scene.add(new THREE.HemisphereLight(0xbfc6c8, 0x090a0b, 0.22));
+scene.add(new THREE.HemisphereLight(0xbfc6c8, 0x08090a, .18));
 
 const messageGroup = new THREE.Group();
 scene.add(messageGroup);
@@ -78,7 +94,7 @@ const controllerRotation = new THREE.Matrix4();
 let running = false;
 let soundOn = true;
 let startedAt = 0;
-let elapsedBeforePause = 0;
+let elapsedBeforePause = localStart;
 let nextSpawnAt = 0;
 let sequence = 0;
 let liveMessages = [];
@@ -86,6 +102,8 @@ const movementKeys = new Set();
 const moveForward = new THREE.Vector3();
 const moveRight = new THREE.Vector3();
 const moveDirection = new THREE.Vector3();
+const desiredVelocity = new THREE.Vector2();
+const smoothVelocity = new THREE.Vector2();
 const worldUp = new THREE.Vector3(0, 1, 0);
 const cameraWorldPosition = new THREE.Vector3();
 const headBeforeTurn = new THREE.Vector3();
@@ -103,7 +121,7 @@ function makeCardTexture(message, index) {
   canvas.width = 900;
   canvas.height = 300;
   const ctx = canvas.getContext('2d');
-  ctx.fillStyle = '#f4f4f0';
+  ctx.fillStyle = '#f6f6f2';
   roundedRect(ctx, 0, 0, 900, 300, 7);
   ctx.fillStyle = '#17191a';
   ctx.font = '500 24px Arial';
@@ -121,8 +139,12 @@ function makeCardTexture(message, index) {
   let line = '';
   for (const word of words) {
     const test = `${line}${line ? ' ' : ''}${word}`;
-    if (ctx.measureText(test).width > 800 && line) { lines.push(line); line = word; }
-    else line = test;
+    if (ctx.measureText(test).width > 800 && line) {
+      lines.push(line);
+      line = word;
+    } else {
+      line = test;
+    }
   }
   lines.push(line);
   lines.slice(0, 2).forEach((text, i) => ctx.fillText(text, 44, 122 + i * 54));
@@ -135,37 +157,44 @@ function makeCardTexture(message, index) {
   return texture;
 }
 
-function cardPosition(index, close = false) {
-  const golden = 2.399963;
-  const angle = index * golden + (Math.random() - .5) * .45;
-  const radius = close ? 1.1 + Math.random() * 2.3 : 1.8 + Math.random() * 3.1;
-  const z = close ? -.45 - Math.random() * 5.5 : -4 - (index % 105) * .88 - Math.random() * 1.5;
-  return new THREE.Vector3(
-    Math.cos(angle) * radius,
-    1.6 + Math.sin(angle) * radius * .74,
-    z
-  );
+function currentElapsed() {
+  const seconds = running ? elapsedBeforePause + ((performance.now() - startedAt) / 1000) * localTempo : elapsedBeforePause;
+  return Math.max(0, seconds);
 }
 
-function playTone(intensity) {
-  if (!soundOn || !audio.context) return;
+function phaseAt(seconds = currentElapsed()) {
+  return phases.find(phase => seconds >= phase.start && seconds < phase.end) || phases.at(-1);
+}
+
+function disposeCard(card) {
+  const index = cards.indexOf(card);
+  if (index >= 0) cards.splice(index, 1);
+  card.material.map.dispose();
+  card.material.dispose();
+  card.geometry.dispose();
+  messageGroup.remove(card);
+}
+
+function playTone(level) {
+  if (!soundOn || !audio.context || level <= 0) return;
   const ctx = audio.context;
   const now = ctx.currentTime;
   const osc = ctx.createOscillator();
   const gain = ctx.createGain();
-  osc.type = 'sine';
-  osc.frequency.setValueAtTime(720 + Math.random() * 480, now);
-  osc.frequency.exponentialRampToValueAtTime(360, now + .11);
-  gain.gain.setValueAtTime(0.0001, now);
-  gain.gain.exponentialRampToValueAtTime(0.018 + intensity * .018, now + .008);
-  gain.gain.exponentialRampToValueAtTime(0.0001, now + .14);
+  osc.type = Math.random() > .7 ? 'triangle' : 'sine';
+  osc.frequency.setValueAtTime(640 + Math.random() * 620, now);
+  osc.frequency.exponentialRampToValueAtTime(280 + level * 18, now + .12);
+  gain.gain.setValueAtTime(.0001, now);
+  gain.gain.exponentialRampToValueAtTime(.007 + level * .004, now + .008);
+  gain.gain.exponentialRampToValueAtTime(.0001, now + .15);
   osc.connect(gain).connect(audio.master);
   osc.start(now);
-  osc.stop(now + .15);
+  osc.stop(now + .16);
 }
 
 function spawnCard(customMessage, close = false, quiet = false) {
   const message = customMessage || (liveMessages.length ? liveMessages[sequence % liveMessages.length] : messageAt(sequence));
+  const phase = phaseAt();
   const material = new THREE.MeshBasicMaterial({
     map: makeCardTexture(message, sequence),
     transparent: true,
@@ -174,66 +203,80 @@ function spawnCard(customMessage, close = false, quiet = false) {
     toneMapped: false
   });
   const card = new THREE.Mesh(new THREE.PlaneGeometry(.6, .2), material);
-  card.position.copy(cardPosition(sequence, close));
+  const side = Math.random() < .5 ? -1 : 1;
+  const spread = phase.id === 'evening' ? 5.2 : phase.id === 'noon' ? 4.2 : 3.4;
+  const baseX = player.position.x + side * (.7 + Math.random() * spread);
+  const baseY = .65 + Math.random() * 4.4;
+  const distance = close ? 5 + Math.random() * 6 : 16 + Math.random() * 18;
+  card.position.set(baseX, baseY, player.position.z - distance);
   camera.getWorldPosition(cameraWorldPosition);
   card.lookAt(cameraWorldPosition);
-  card.userData = { born: clock.elapsedTime, targetScale: 1, drift: (Math.random() - .5) * .025, url: message.url || '' };
-  card.scale.setScalar(.05);
+  card.userData = {
+    born: clock.elapsedTime,
+    baseX,
+    baseY,
+    speed: phase.speed * (.84 + Math.random() * .32),
+    waveAmplitude: .22 + Math.random() * (phase.id === 'evening' ? 1.05 : .62),
+    waveFrequency: .55 + Math.random() * 1.1,
+    wavePhase: Math.random() * Math.PI * 2,
+    url: message.url || ''
+  };
+  card.scale.setScalar(.04);
   messageGroup.add(card);
   cards.push(card);
   sequence += 1;
-  if (cards.length > 480) {
-    const old = cards.shift();
-    old.material.map.dispose();
-    old.material.dispose();
-    old.geometry.dispose();
-    messageGroup.remove(old);
-  }
-  if (!quiet) {
-    playTone(currentIntensity());
-  }
+  while (cards.length > 360) disposeCard(cards[0]);
+  if (!quiet) playTone(phase.level || 3);
   updateReadout();
-}
-
-function currentElapsed() {
-  return running ? elapsedBeforePause + (performance.now() - startedAt) / 1000 : elapsedBeforePause;
-}
-
-function currentIntensity() {
-  return Math.min(1, currentElapsed() / 300);
-}
-
-function spawnInterval() {
-  const p = currentIntensity();
-  return THREE.MathUtils.lerp(4.8, .16, Math.pow(p, 1.65));
 }
 
 function updateReadout() {
   const seconds = Math.floor(currentElapsed());
+  const phase = phaseAt(seconds);
   ui.elapsed.textContent = `${String(Math.floor(seconds / 60)).padStart(2, '0')}:${String(seconds % 60).padStart(2, '0')}`;
-  const p = currentIntensity();
-  ui.intensity.style.height = `${Math.max(4, p * 100)}%`;
+  ui.intensity.style.height = `${Math.max(3, phase.level / 6 * 100)}%`;
   ui.count.textContent = String(cards.length).padStart(3, '0');
-  ui.phase.textContent = !running && seconds === 0 ? 'BEREIT' : !running ? 'ANGEHALTEN' : p < .2 ? 'ZUSTROM' : p < .55 ? 'VERDICHTUNG' : p < .85 ? 'ÜBERLASTUNG' : 'VERLUST';
+  ui.phase.textContent = !running && seconds === 0 ? 'BEREIT' : !running ? 'ANGEHALTEN' : phase.label;
+  sceneHost.dataset.phase = !running && seconds === 0 ? 'ready' : phase.id;
 }
 
-const audio = { context: null, master: null, drone: null };
+const audio = { context: null, master: null, drone: null, breath: null };
 function initAudio() {
-  if (audio.context) { audio.context.resume(); return; }
+  if (audio.context) {
+    audio.context.resume();
+    return;
+  }
   const AudioContext = window.AudioContext || window.webkitAudioContext;
   if (!AudioContext) return;
   audio.context = new AudioContext();
   audio.master = audio.context.createGain();
-  audio.master.gain.value = soundOn ? .55 : 0;
+  audio.master.gain.value = soundOn ? .52 : 0;
   audio.master.connect(audio.context.destination);
+
   const drone = audio.context.createOscillator();
   const droneGain = audio.context.createGain();
   drone.type = 'sine';
   drone.frequency.value = 42;
-  droneGain.gain.value = .012;
+  droneGain.gain.value = 0;
   drone.connect(droneGain).connect(audio.master);
   drone.start();
   audio.drone = droneGain;
+
+  const buffer = audio.context.createBuffer(1, audio.context.sampleRate * 5, audio.context.sampleRate);
+  const data = buffer.getChannelData(0);
+  for (let i = 0; i < data.length; i += 1) data[i] = (Math.random() * 2 - 1) * .55;
+  const breathSource = audio.context.createBufferSource();
+  const filter = audio.context.createBiquadFilter();
+  const breathGain = audio.context.createGain();
+  breathSource.buffer = buffer;
+  breathSource.loop = true;
+  filter.type = 'lowpass';
+  filter.frequency.value = 620;
+  filter.Q.value = .7;
+  breathGain.gain.value = 0;
+  breathSource.connect(filter).connect(breathGain).connect(audio.master);
+  breathSource.start();
+  audio.breath = breathGain;
 }
 
 function start() {
@@ -241,7 +284,7 @@ function start() {
   if (!running) {
     startedAt = performance.now();
     running = true;
-    nextSpawnAt = currentElapsed() + .25;
+    nextSpawnAt = currentElapsed() + .3;
   }
   ui.intro.classList.add('hidden');
   ui.toggle.textContent = 'PAUSE';
@@ -257,24 +300,37 @@ function pause() {
 
 ui.enter.addEventListener('click', start);
 ui.toggle.addEventListener('click', () => running ? pause() : start());
-ui.add.addEventListener('click', () => { initAudio(); spawnCard(null, true); });
+ui.add.addEventListener('click', () => {
+  initAudio();
+  spawnCard(null, true);
+});
 ui.sound.addEventListener('click', () => {
   soundOn = !soundOn;
   ui.sound.textContent = soundOn ? 'TON AN' : 'TON AUS';
   ui.sound.setAttribute('aria-pressed', String(soundOn));
-  if (audio.master) audio.master.gain.setTargetAtTime(soundOn ? .55 : 0, audio.context.currentTime, .04);
+  if (audio.master) audio.master.gain.setTargetAtTime(soundOn ? .52 : 0, audio.context.currentTime, .04);
 });
 
 const xrButton = VRButton.createButton(renderer);
 document.body.append(xrButton);
 ui.vr.addEventListener('click', () => xrButton.click());
-renderer.xr.addEventListener('sessionstart', () => { start(); ui.vr.textContent = 'VR AKTIV'; });
-renderer.xr.addEventListener('sessionend', () => { ui.vr.textContent = 'VR'; });
+renderer.xr.addEventListener('sessionstart', () => {
+  start();
+  ui.vr.textContent = 'VR AKTIV';
+});
+renderer.xr.addEventListener('sessionend', () => {
+  ui.vr.textContent = 'VR';
+});
+
+const allowedHosts = new Set([
+  'www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de', 'www.spiegel.de', 'spiegel.de',
+  'www.deutschlandfunk.de', 'deutschlandfunk.de', 'www.bild.de', 'bild.de', 'ondemand-mp3.dradio.de'
+]);
 
 function openCardUrl(card) {
   if (!card?.userData.url) return;
   const url = new URL(card.userData.url);
-  if (!['www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de', 'www.spiegel.de', 'spiegel.de', 'www.deutschlandfunk.de', 'deutschlandfunk.de', 'www.bild.de', 'bild.de'].includes(url.hostname)) return;
+  if (!allowedHosts.has(url.hostname)) return;
   window.open(url.href, '_blank', 'noopener');
 }
 
@@ -314,8 +370,8 @@ renderer.domElement.addEventListener('pointerdown', event => {
 renderer.domElement.addEventListener('pointermove', event => {
   if (!dragging || renderer.xr.isPresenting) return;
   if (Math.hypot(event.clientX - pointerStartX, event.clientY - pointerStartY) > 6) pointerMoved = true;
-  yaw -= (event.clientX - pointerX) * .0032;
-  pitch -= (event.clientY - pointerY) * .0032;
+  yaw -= (event.clientX - pointerX) * .0024;
+  pitch -= (event.clientY - pointerY) * .0024;
   pitch = THREE.MathUtils.clamp(pitch, -1.28, 1.28);
   pointerX = event.clientX;
   pointerY = event.clientY;
@@ -330,7 +386,9 @@ renderer.domElement.addEventListener('pointerup', event => {
   raycaster.setFromCamera(pointer, camera);
   openFirstCardHit();
 });
-renderer.domElement.addEventListener('pointercancel', () => { dragging = false; });
+renderer.domElement.addEventListener('pointercancel', () => {
+  dragging = false;
+});
 
 const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
 window.addEventListener('keydown', event => {
@@ -339,7 +397,7 @@ window.addEventListener('keydown', event => {
   if (!event.repeat && !renderer.xr.isPresenting) {
     const sideways = Number(event.code === 'KeyD' || event.code === 'ArrowRight') - Number(event.code === 'KeyA' || event.code === 'ArrowLeft');
     const forwards = Number(event.code === 'KeyW' || event.code === 'ArrowUp') - Number(event.code === 'KeyS' || event.code === 'ArrowDown');
-    movePlayer(sideways, forwards, .08, camera);
+    movePlayer(sideways, forwards, .06, camera);
   }
   event.preventDefault();
 });
@@ -349,7 +407,7 @@ window.addEventListener('keyup', event => {
 window.addEventListener('blur', () => movementKeys.clear());
 
 function movePlayer(sideways, forwards, speed, viewCamera) {
-  if (Math.abs(sideways) < .08 && Math.abs(forwards) < .08) return;
+  if (Math.abs(sideways) < .015 && Math.abs(forwards) < .015) return;
   viewCamera.getWorldDirection(moveForward);
   moveForward.y = 0;
   if (moveForward.lengthSq() < .001) moveForward.set(0, 0, -1);
@@ -366,9 +424,14 @@ function movePlayer(sideways, forwards, speed, viewCamera) {
 
 function updateDesktopMovement(delta) {
   if (renderer.xr.isPresenting) return;
-  const sideways = Number(movementKeys.has('KeyD') || movementKeys.has('ArrowRight')) - Number(movementKeys.has('KeyA') || movementKeys.has('ArrowLeft'));
-  const forwards = Number(movementKeys.has('KeyW') || movementKeys.has('ArrowUp')) - Number(movementKeys.has('KeyS') || movementKeys.has('ArrowDown'));
-  movePlayer(sideways, forwards, delta * 2.5, camera);
+  desiredVelocity.set(
+    Number(movementKeys.has('KeyD') || movementKeys.has('ArrowRight')) - Number(movementKeys.has('KeyA') || movementKeys.has('ArrowLeft')),
+    Number(movementKeys.has('KeyW') || movementKeys.has('ArrowUp')) - Number(movementKeys.has('KeyS') || movementKeys.has('ArrowDown'))
+  );
+  if (desiredVelocity.lengthSq() > 1) desiredVelocity.normalize();
+  const smoothing = 1 - Math.exp(-delta * 5.5);
+  smoothVelocity.lerp(desiredVelocity, smoothing);
+  movePlayer(smoothVelocity.x, smoothVelocity.y, delta * 2.35, camera);
 }
 
 function controllerStick(gamepad) {
@@ -383,7 +446,10 @@ function controllerStick(gamepad) {
 }
 
 function snapTurn(x, xrCamera) {
-  if (Math.abs(x) < .3) { snapTurnReady = true; return; }
+  if (Math.abs(x) < .3) {
+    snapTurnReady = true;
+    return;
+  }
   if (!snapTurnReady || Math.abs(x) < .72) return;
   xrCamera.getWorldPosition(headBeforeTurn);
   player.rotation.y -= Math.sign(x) * Math.PI / 6;
@@ -443,7 +509,9 @@ async function pollLiveMessages() {
     if (!response.ok) return;
     const incoming = await response.json();
     for (const item of incoming.messages || []) window.nachrichtenraum.pushMessage(item);
-  } catch { /* Live data remains optional. */ }
+  } catch {
+    return;
+  }
 }
 setInterval(pollLiveMessages, 8000);
 
@@ -457,19 +525,8 @@ function relativeAge(publishedAt) {
   return `vor ${days} ${days === 1 ? 'Tag' : 'Tagen'}`;
 }
 
-function clearCards() {
-  while (cards.length) {
-    const card = cards.pop();
-    card.material.map.dispose();
-    card.material.dispose();
-    card.geometry.dispose();
-    messageGroup.remove(card);
-  }
-}
-
 async function loadRssMessages() {
-  const candidates = ['./feeds.json', './public/feeds.json'];
-  for (const path of candidates) {
+  for (const path of ['./feeds.json', './public/feeds.json']) {
     try {
       const response = await fetch(`${path}?v=${Date.now()}`, { cache: 'no-store' });
       if (!response.ok) continue;
@@ -477,9 +534,6 @@ async function loadRssMessages() {
       const messages = (payload.messages || []).filter(item => item.title && item.source);
       if (!messages.length) continue;
       liveMessages = messages.map(item => ({ ...item, age: relativeAge(item.publishedAt) }));
-      clearCards();
-      sequence = 0;
-      for (let index = 0; index < 132; index += 1) spawnCard(null, index < 16, true);
       const updated = new Date(payload.updatedAt);
       ui.sourceStatus.textContent = `LIVE RSS · STAND ${updated.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })}`;
       return;
@@ -489,9 +543,17 @@ async function loadRssMessages() {
   }
   ui.sourceStatus.textContent = 'DEMO-INHALTE · RSS NICHT ERREICHBAR';
 }
-
-for (let i = 0; i < 132; i += 1) spawnCard(null, i < 16, true);
 loadRssMessages();
+
+function updateAudio(now, phase) {
+  if (!audio.context) return;
+  const audioNow = audio.context.currentTime;
+  const droneTarget = running && !phase.breath ? .003 + phase.level * .0022 : 0;
+  audio.drone.gain.setTargetAtTime(droneTarget, audioNow, .4);
+  const breathPulse = .5 + .5 * Math.sin(now * 1.55 - Math.PI / 2);
+  const breathTarget = running && phase.breath ? .012 + breathPulse * .052 : 0;
+  audio.breath.gain.setTargetAtTime(breathTarget, audioNow, .18);
+}
 
 renderer.setAnimationLoop(() => {
   const delta = Math.min(clock.getDelta(), .05);
@@ -500,26 +562,29 @@ renderer.setAnimationLoop(() => {
   updateDesktopMovement(delta);
   updateXRMovement(delta);
 
-  if (running) {
-    const elapsed = currentElapsed();
-    if (elapsed >= nextSpawnAt) {
-      const batch = currentIntensity() > .7 ? Math.ceil(1 + currentIntensity() * 3) : 1;
-      for (let i = 0; i < batch; i += 1) spawnCard(null, Math.random() < .14);
-      nextSpawnAt = elapsed + spawnInterval();
-    }
-    messageGroup.position.z += delta * (.035 + currentIntensity() * .085);
-    updateReadout();
+  const elapsed = currentElapsed();
+  const phase = phaseAt(elapsed);
+  if (running && phase.batch > 0 && elapsed >= nextSpawnAt) {
+    for (let i = 0; i < phase.batch; i += 1) spawnCard(null, Math.random() < .08);
+    nextSpawnAt = elapsed + phase.interval;
   }
+  if (running) updateReadout();
 
-  cards.forEach(card => {
+  camera.getWorldPosition(cameraWorldPosition);
+  for (let index = cards.length - 1; index >= 0; index -= 1) {
+    const card = cards[index];
     const age = now - card.userData.born;
     const ease = 1 - Math.exp(-age * 7);
-    const scale = card.userData.targetScale * ease;
-    card.scale.setScalar(scale);
+    card.scale.setScalar(ease);
     card.material.opacity = Math.min(1, age * 5);
-    card.position.y += card.userData.drift * delta;
-  });
+    const wave = Math.sin(age * card.userData.waveFrequency * phase.speed + card.userData.wavePhase);
+    card.position.x = card.userData.baseX + wave * card.userData.waveAmplitude;
+    card.position.y = card.userData.baseY + Math.cos(age * card.userData.waveFrequency * 1.35 + card.userData.wavePhase) * card.userData.waveAmplitude * .34;
+    card.position.z += card.userData.speed * delta;
+    card.lookAt(cameraWorldPosition);
+    if (card.position.z > player.position.z + 8) disposeCard(card);
+  }
 
-  if (audio.drone && running) audio.drone.gain.setTargetAtTime(.01 + currentIntensity() * .035, audio.context.currentTime, .5);
+  updateAudio(now, phase);
   renderer.render(scene, camera);
 });

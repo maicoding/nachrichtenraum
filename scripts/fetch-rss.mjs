@@ -8,8 +8,23 @@ const feeds = [
   },
   {
     source: 'TAGESSCHAU.DE',
-    category: 'AUSLAND',
+    category: 'AUSLANDSPOLITIK',
     url: 'https://www.tagesschau.de/ausland/index~rss2.xml'
+  },
+  {
+    source: 'TAGESSCHAU.DE',
+    category: 'WIRTSCHAFT & PREISE',
+    url: 'https://www.tagesschau.de/wirtschaft/verbraucher/index~rss2.xml'
+  },
+  {
+    source: 'TAGESSCHAU.DE',
+    category: 'KLIMA & UMWELT',
+    url: 'https://www.tagesschau.de/wissen/klima/index~rss2.xml'
+  },
+  {
+    source: 'TAGESSCHAU.DE',
+    category: 'GESUNDHEIT & PSYCHE',
+    url: 'https://www.tagesschau.de/wissen/gesundheit/index~rss2.xml'
   },
   {
     source: 'TAZ.DE',
@@ -25,6 +40,11 @@ const feeds = [
     source: 'DLF',
     category: 'NACHRICHTEN',
     url: 'https://www.deutschlandfunk.de/nachrichten-100.rss'
+  },
+  {
+    source: 'DLF',
+    category: 'KARRIERE & STUDIUM',
+    url: 'https://www.deutschlandfunk.de/campus-karriere-104.xml'
   },
   {
     source: 'BILD.DE',
@@ -59,7 +79,7 @@ function parseItems(xml, feed) {
     const url = decodeXml(tag(item, 'link'));
     const published = Date.parse(decodeXml(tag(item, 'pubDate')));
     const publishedAt = new Date(Number.isFinite(published) ? published : Date.now()).toISOString();
-    const category = decodeXml(tag(item, 'category')).toUpperCase() || feed.category;
+    const category = feed.category;
     return { source: feed.source, title, url, publishedAt, category };
   }).filter(item => item.title && item.url.startsWith('https://'));
 }
@@ -74,10 +94,10 @@ const settled = await Promise.allSettled(feeds.map(async feed => {
 
 const messages = settled
   .filter(result => result.status === 'fulfilled')
-  .flatMap(result => result.value.slice(0, 20))
+  .flatMap(result => result.value.slice(0, 18))
   .filter((item, index, items) => items.findIndex(other => other.url === item.url) === index)
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
-  .slice(0, 120);
+  .slice(0, 180);
 
 if (!messages.length) throw new Error('Kein RSS-Feed konnte geladen werden.');
 
