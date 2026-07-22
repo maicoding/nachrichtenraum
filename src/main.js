@@ -47,6 +47,9 @@ player.add(camera);
 sceneHost.dataset.playerX = '0.000';
 sceneHost.dataset.playerZ = '0.000';
 sceneHost.dataset.phase = 'ready';
+sceneHost.dataset.passed = 'false';
+sceneHost.dataset.risen = 'false';
+sceneHost.dataset.receded = 'false';
 
 const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.7));
@@ -116,18 +119,32 @@ function roundedRect(ctx, x, y, w, h, radius) {
   ctx.fill();
 }
 
+function colorForCategory(category = '') {
+  const name = category.toUpperCase();
+  if (name.includes('WIRTSCHAFT') || name.includes('PREIS')) return '#F4C95D';
+  if (name.includes('INNEN')) return '#FF716C';
+  if (name.includes('AUSLAND')) return '#69A1FF';
+  if (name.includes('KARRIERE') || name.includes('STUDIUM')) return '#B998FF';
+  if (name.includes('KLIMA') || name.includes('UMWELT') || name.includes('REGION')) return '#64D6A4';
+  if (name.includes('GESUND') || name.includes('PSYCH')) return '#FF9BC2';
+  if (name.includes('WISSEN') || name.includes('UNIVERSUM')) return '#8FD3FF';
+  if (name.includes('NETZ') || name.includes('MEDIEN')) return '#78D7D1';
+  if (name.includes('POLITIK')) return '#FF955E';
+  return '#F1F0E8';
+}
+
 function makeCardTexture(message, index) {
   const canvas = document.createElement('canvas');
   canvas.width = 900;
   canvas.height = 300;
   const ctx = canvas.getContext('2d');
-  ctx.fillStyle = '#f6f6f2';
+  ctx.fillStyle = colorForCategory(message.category);
   roundedRect(ctx, 0, 0, 900, 300, 7);
   ctx.fillStyle = '#17191a';
   ctx.font = '500 24px Arial';
   ctx.letterSpacing = '3px';
   ctx.fillText(message.source, 44, 48);
-  ctx.fillStyle = '#737574';
+  ctx.fillStyle = '#343A3D';
   ctx.textAlign = 'right';
   ctx.font = '500 19px Arial';
   ctx.fillText(String(index + 1).padStart(3, '0'), 856, 48);
@@ -148,7 +165,7 @@ function makeCardTexture(message, index) {
   }
   lines.push(line);
   lines.slice(0, 2).forEach((text, i) => ctx.fillText(text, 44, 122 + i * 54));
-  ctx.fillStyle = '#777a79';
+  ctx.fillStyle = '#343A3D';
   ctx.font = '500 18px Arial';
   ctx.fillText(`${message.category}  ·  ${message.age}`, 44, 266);
   const texture = new THREE.CanvasTexture(canvas);
@@ -205,16 +222,24 @@ function spawnCard(customMessage, close = false, quiet = false) {
   const card = new THREE.Mesh(new THREE.PlaneGeometry(.6, .2), material);
   const side = Math.random() < .5 ? -1 : 1;
   const spread = phase.id === 'evening' ? 5.2 : phase.id === 'noon' ? 4.2 : 3.4;
-  const baseX = player.position.x + side * (.7 + Math.random() * spread);
-  const baseY = .65 + Math.random() * 4.4;
-  const distance = close ? 5 + Math.random() * 6 : 16 + Math.random() * 18;
+  const readable = close || Math.random() < .34;
+  const baseX = player.position.x + side * (readable ? .45 + Math.random() * 2.5 : .7 + Math.random() * spread);
+  const baseY = readable ? 1.05 + Math.random() * 2.3 : .65 + Math.random() * 4.4;
+  const distance = readable ? 3.2 + Math.random() * 3.2 : 7 + Math.random() * 8;
+  const motionRoll = Math.random();
+  const behavior = motionRoll < .22 ? 'rise' : motionRoll < .42 ? 'recede' : 'pass';
   card.position.set(baseX, baseY, player.position.z - distance);
   camera.getWorldPosition(cameraWorldPosition);
   card.lookAt(cameraWorldPosition);
   card.userData = {
+    id: sequence,
     born: clock.elapsedTime,
     baseX,
     baseY,
+    behavior,
+    category: message.category,
+    hold: phase.id === 'morning' ? 4.2 : phase.id === 'noon' ? 3.2 : 2.35,
+    targetScale: readable ? 1.12 : .96,
     speed: phase.speed * (.84 + Math.random() * .32),
     waveAmplitude: .22 + Math.random() * (phase.id === 'evening' ? 1.05 : .62),
     waveFrequency: .55 + Math.random() * 1.1,
@@ -238,6 +263,8 @@ function updateReadout() {
   ui.count.textContent = String(cards.length).padStart(3, '0');
   ui.phase.textContent = !running && seconds === 0 ? 'BEREIT' : !running ? 'ANGEHALTEN' : phase.label;
   sceneHost.dataset.phase = !running && seconds === 0 ? 'ready' : phase.id;
+  sceneHost.dataset.behaviors = [...new Set(cards.map(card => card.userData.behavior))].join(',');
+  sceneHost.dataset.categories = [...new Set(cards.map(card => card.userData.category))].join('|');
 }
 
 const audio = { context: null, master: null, drone: null, breath: null };
@@ -495,6 +522,17 @@ window.nachrichtenraum = {
   getPosition() {
     return { x: player.position.x, z: player.position.z };
   },
+  getCardStates() {
+    return cards.slice(0, 40).map(card => ({
+      id: card.userData.id,
+      behavior: card.userData.behavior,
+      category: card.userData.category,
+      color: card.material.map?.image ? colorForCategory(card.userData.category) : '',
+      x: Number(card.position.x.toFixed(2)),
+      y: Number(card.position.y.toFixed(2)),
+      z: Number(card.position.z.toFixed(2))
+    }));
+  },
   pushMessage({ source = 'WHATSAPP', title, age = 'gerade eben', category = 'PUBLIKUM' }) {
     if (!title) return;
     spawnCard({ source, title: String(title).slice(0, 110), age, category }, true);
@@ -525,6 +563,24 @@ function relativeAge(publishedAt) {
   return `vor ${days} ${days === 1 ? 'Tag' : 'Tagen'}`;
 }
 
+function alternateCategories(messages) {
+  const groups = new Map();
+  for (const message of messages) {
+    const category = message.category || 'NACHRICHTEN';
+    if (!groups.has(category)) groups.set(category, []);
+    groups.get(category).push(message);
+  }
+  const ordered = [];
+  const queues = [...groups.values()];
+  while (queues.some(queue => queue.length)) {
+    for (const queue of queues) {
+      const message = queue.shift();
+      if (message) ordered.push(message);
+    }
+  }
+  return ordered;
+}
+
 async function loadRssMessages() {
   for (const path of ['./feeds.json', './public/feeds.json']) {
     try {
@@ -533,7 +589,7 @@ async function loadRssMessages() {
       const payload = await response.json();
       const messages = (payload.messages || []).filter(item => item.title && item.source);
       if (!messages.length) continue;
-      liveMessages = messages.map(item => ({ ...item, age: relativeAge(item.publishedAt) }));
+      liveMessages = alternateCategories(messages.map(item => ({ ...item, age: relativeAge(item.publishedAt) })));
       const updated = new Date(payload.updatedAt);
       ui.sourceStatus.textContent = `LIVE RSS · STAND ${updated.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })}`;
       return;
@@ -575,14 +631,33 @@ renderer.setAnimationLoop(() => {
     const card = cards[index];
     const age = now - card.userData.born;
     const ease = 1 - Math.exp(-age * 7);
-    card.scale.setScalar(ease);
+    const overshoot = age < .55 ? Math.sin(age / .55 * Math.PI) * .16 : 0;
+    card.scale.setScalar((ease + overshoot) * card.userData.targetScale);
     card.material.opacity = Math.min(1, age * 5);
-    const wave = Math.sin(age * card.userData.waveFrequency * phase.speed + card.userData.wavePhase);
-    card.position.x = card.userData.baseX + wave * card.userData.waveAmplitude;
-    card.position.y = card.userData.baseY + Math.cos(age * card.userData.waveFrequency * 1.35 + card.userData.wavePhase) * card.userData.waveAmplitude * .34;
-    card.position.z += card.userData.speed * delta;
+    const movingAge = Math.max(0, age - card.userData.hold);
+    const waveStrength = movingAge > 0 ? 1 : .18;
+    const wave = Math.sin(movingAge * card.userData.waveFrequency * 3 + card.userData.wavePhase);
+    card.position.x = card.userData.baseX + wave * card.userData.waveAmplitude * waveStrength;
+    card.position.y = card.userData.baseY + Math.cos(movingAge * card.userData.waveFrequency * 2 + card.userData.wavePhase) * card.userData.waveAmplitude * .22 * waveStrength;
+    if (movingAge > 0 && card.userData.behavior === 'pass') {
+      card.position.z += card.userData.speed * delta;
+      sceneHost.dataset.passed = 'true';
+    }
+    if (movingAge > 0 && card.userData.behavior === 'rise') {
+      card.userData.baseY += card.userData.speed * .34 * delta;
+      card.position.z += card.userData.speed * .12 * delta;
+      sceneHost.dataset.risen = 'true';
+    }
+    if (movingAge > 0 && card.userData.behavior === 'recede') {
+      card.position.z -= card.userData.speed * .48 * delta;
+      card.userData.baseX += Math.sign(card.userData.baseX - player.position.x || 1) * card.userData.speed * .055 * delta;
+      sceneHost.dataset.receded = 'true';
+    }
     card.lookAt(cameraWorldPosition);
-    if (card.position.z > player.position.z + 8) disposeCard(card);
+    const hasPassed = card.position.z > player.position.z + 8;
+    const hasRisen = card.position.y > 8.5;
+    const hasReceded = card.position.z < player.position.z - 72;
+    if (hasPassed || hasRisen || hasReceded) disposeCard(card);
   }
 
   updateAudio(now, phase);

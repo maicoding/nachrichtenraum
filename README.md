@@ -24,6 +24,8 @@ Die Anwendung lädt Schlagzeilen aus den RSS-Feeds von tagesschau.de, taz.de, SP
 
 Desktop: W, A, S, D oder Pfeiltasten zum Laufen, Ziehen mit der Maus zum Umsehen. VR: linker Stick zum Laufen, rechter Stick zum Drehen.
 
+Jedes Thema besitzt eine feste Kartenfarbe. Die Karten ploppen auf, bleiben kurz lesbar und fliegen anschließend vorbei, nach oben oder zurück in die Tiefe.
+
 Die Tagesschau-Inhalte sind für den privaten, nicht-kommerziellen Gebrauch vorgesehen. Für eine öffentliche oder kommerzielle Ausstellung müssen die Nutzungsrechte mit den Anbietern geklärt werden.
 
 Eine weitere externe Quelle kann über `VITE_MESSAGE_ENDPOINT` angebunden werden. Der Endpunkt liefert dieses Format:
