@@ -1,145 +1,383 @@
 {
-  "updatedAt": "2026-07-22T10:07:18.939Z",
+  "updatedAt": "2026-07-22T12:03:40.735Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Zehn Ex-Topmanager im Visier - Razzia bei Deutscher Bank",
-      "url": "https://www.bild.de/politik/inland/steuerfahnder-durchsuchen-zentrale-razzia-bei-deutscher-bank-6a608299a8dd005bc4b72cf0",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "BILD"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD weiß - Thorsten Frei wird Nachfolger von Spahn",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-exklusiv-friedrich-merz-und-markus-soeder-wollen-frei-als-spahn-ersatz-6a608d0c89ebf086fe0b762c",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "AUSLAND UND INTERNATIONALES"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - Schalte von Merz und Söder zu Spahn-Nachfolge",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merz und Söder einig - Spahn-Nachfolge: Entscheidung noch heute!",
-      "url": "https://www.bild.de/politik/inland/friedrich-merz-und-markus-soeder-einig-heute-entscheidung-ueber-spahn-nachfolge-6a607c2eee78a955fac7b426",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Standorte werden geprüft - Diese 33 Galeria-Filialen stehen auf Abschussliste",
-      "url": "https://www.bild.de/politik/inland/standorte-werden-geprueft-diese-33-filialen-von-galeria-stehen-auf-der-abschussliste-6a60784ba8dd005bc4b72b21",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "INLAND"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Tanker kehren um - Terrormiliz blockiert nächste wichtige Öl-Route",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/huthis-blockieren-meerenge-bei-saudi-arabien-naechster-preisschock-bei-oel-droht-6a5e122361b8a80211aaf27b",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "AUSLAND UND INTERNATIONALES"
-    },
     {
       "source": "BILD.DE",
       "title": "Alkoholverbot an allen Bahnhöfen - „Viel zu wenig Personal. Wer soll das kontrollieren?“",
       "url": "https://www.bild.de/politik/deutsche-bahn-plant-alkoholverbot-an-allen-bahnhoefen-viel-zu-wenig-personal-wer-soll-das-kontrollieren-6a5f51e0fb6c4ab717fc9382",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Neue Aufgabe für seinen Kumpel? - Trump will Infantino als UN-Generalsekretär",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-will-fifa-boss-gianni-infantino-als-generalsekretaer-der-un-6a604de48f5bba832e162418",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Schweden verschärft Regeln bei Migration - Bei „schlechtem Lebenswandel“ wird ausgewiesen",
       "url": "https://www.bild.de/politik/ausland-und-internationales/schweden-verschaerft-regeln-bei-migration-auslaender-mit-schlechtem-lebenswandel-werden-ausgewiesen-6a5f788f7d9caf17695e9180",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Präzisionsschläge in Serie - 1:15 Stunden-Angriff der USA auf den Iran",
       "url": "https://www.bild.de/politik/ausland-und-internationales/elfte-nacht-in-folge-usa-greifen-den-iran-1-15-stunden-lang-an-6a605c9cee78a955fac7ac83",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Sachsen-MP Kretschmer gegen Merz - „Wachstum entsteht durch Freiheit!“",
       "url": "https://www.bild.de/politik/inland/ministerpraesident-kretschmer-brandmauer-backpfeife-fuer-kanzler-merz-6a60312c5675b70e69475170",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Heikler Bericht über Deal - USA erlauben Saudi-Arabien Urananreicherung",
       "url": "https://www.bild.de/politik/ausland-und-internationales/bericht-ueber-heiklen-deal-usa-erlauben-saudi-arabien-urananreicherung-6a6052d88f5bba832e162521",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Abzocke an der Zapfsäule - Wer verdient an unserem Sprit?",
       "url": "https://www.bild.de/politik/inland/2-15-euro-fuer-den-liter-e10-wer-verdient-an-unserem-sprit-6a5f1b3d3d7c8c257075f906",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
       "title": "Eine Gefallene war noch nicht einmal 20 - Wie gefährlich werden diese Soldaten für Trump?",
       "url": "https://www.bild.de/politik/ausland-und-internationales/17-gefallene-aus-den-usa-im-irankrieg-wie-gefaehrlich-werden-die-toten-soldaten-fuer-trump-6a5e3fc0dde33743432a6ef3",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
       "title": "Polizei fasst Tatverdächtigen - Brexit-Politikerin mit 21 Hammerschlägen ermordet",
       "url": "https://www.bild.de/politik/ausland-und-internationales/tatverdaechtiger-gefasst-britische-politikerin-und-reality-star-mit-21-hammerschlaegen-getoetet-6a5fabcb2937e4865893f420",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "publishedAt": "2026-07-22T12:03:40.274Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Selenskyj feuert Armee-Chef",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "title": "OpenAI-Test außer Kontrolle - „KI wird zu Massenkriminalität führen“",
+      "url": "https://www.bild.de/politik/openai-test-ausser-kontrolle-ki-wird-zu-massenkriminalitaet-fuehren-6a609fda0e3703262e0c84d5",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Auch die EU muss zittern - Trump schwingt Zoll-Hammer gegen die halbe Welt",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-schwingt-zoll-hammer-gegen-halbe-welt-auch-die-eu-muss-zittern-6a6011648683a0c909716524",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "title": "BILD weiß - Thorsten Frei wird Nachfolger von Spahn",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-und-markus-soeder-einig-thorsten-frei-wird-nachfolger-von-spahn-6a608d0c89ebf086fe0b762c",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "WhatsApp und Co - EU erlaubt „Chatkontrolle“",
+      "url": "https://www.bild.de/politik/whatsapp-und-co-eu-erlaubt-chatkontrolle-6a60ae35efccf0c0d55358d1",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Tanker kehren um - Terrormiliz blockiert nächste wichtige Öl-Route",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/huthis-blockieren-meerenge-bei-saudi-arabien-naechster-preisschock-bei-oel-droht-6a5e122361b8a80211aaf27b",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Es sind Milliarden - Minister verrät die hohen Kosten des Iran-Kriegs",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-noch-mehr-geld-verteidigungsminister-verraet-die-immensen-kosten-des-kriegs-gegen-den-iran-6a5fd1ba64a4e203254fcc79",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "title": "Ein Leben wie im Blockbuster - „General Hollywood“soll Kiews Armee umkrempeln",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-jetzt-soll-general-hollywood-kiews-armee-umkrempeln-6a606bc8ee78a955fac7b049",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
       "category": "AUSLAND UND INTERNATIONALES"
     },
     {
       "source": "BILD.DE",
-      "title": "Marius in Trier erstochen – Reaktionen - „Alle sagen ‚Es ist unfassbar‘ – niemand handelt“",
-      "url": "https://www.bild.de/politik/inland/reaktionen-auf-den-tod-von-marius-22-in-trier-polizei-politiker-und-betroffene-sind-entsetzt-6a5de726c72232627649de82",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
+      "title": "Neuer Unions-Fraktionschef: - „Thorsten Frei ist eine ehrliche Haut“",
+      "url": "https://www.bild.de/politik/neuer-unions-fraktionschef-thorsten-frei-ist-eine-ehrliche-haut-6a609b06ea7bf3843138ad96",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zehn Ex-Topmanager im Visier - Razzia bei Deutscher Bank",
+      "url": "https://www.bild.de/politik/inland/steuerfahnder-durchsuchen-zentrale-razzia-bei-deutscher-bank-6a608299a8dd005bc4b72cf0",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "BILD"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisante Aufnahmen - Diese Bilder bringen Sea-Watch in schwere Seenot",
+      "url": "https://www.bild.de/politik/inland/brisante-aufnahmen-diese-bilder-bringen-sea-watch-in-schwere-seenot-6a609712ea7bf3843138ad02",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
       "category": "INLAND"
     },
     {
       "source": "BILD.DE",
-      "title": "Nach tagelangen Protesten - Selenskyj entlässt Armee-Chef",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-tagelangen-protesten-selenskyj-entlaesst-umstrittenen-armeechef-nachfolger-steht-schon-fest-6a5fc68d12b6973a9848f0a0",
-      "publishedAt": "2026-07-22T10:07:18.719Z",
-      "category": "AUSLAND UND INTERNATIONALES"
+      "title": "Nächster Kahlschlag bei Kaufhaus-Kette - Diesen 33 Galeria-Filialen droht die Schließung",
+      "url": "https://www.bild.de/politik/inland/standorte-werden-geprueft-diese-33-filialen-von-galeria-stehen-auf-der-abschussliste-6a60784ba8dd005bc4b72b21",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - Schalte von Merz und Söder zu Spahn-Nachfolge",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merz und Söder einig - Spahn-Nachfolge: Entscheidung noch heute!",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-und-markus-soeder-einig-heute-entscheidung-ueber-spahn-nachfolge-6a607c2eee78a955fac7b426",
+      "publishedAt": "2026-07-22T12:03:40.273Z",
+      "category": "INLAND"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Mehr als 14 Jahre Haft für Italiener: Die Grenzen der Notwehr",
+      "url": "https://taz.de/Mehr-als-14-Jahre-Haft-fuer-Italiener/!6197933/",
+      "publishedAt": "2026-07-22T11:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Jens Spahn: Warum dieser Skandal einer zu viel war - Podcast",
+      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-warum-dieser-skandal-einer-zu-viel-war-podcast-a-0afdfbd4-f51e-45ac-82da-ddc74c4daf45#ref=rss",
+      "publishedAt": "2026-07-22T11:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Mord an Politikerin in Großbritannien: Mit 21 Hammerschlägen getötet",
+      "url": "https://taz.de/Mord-an-Politikerin-in-Grossbritannien/!6198135/",
+      "publishedAt": "2026-07-22T11:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Jemen im Krieg zwischen Iran und USA: Nach der Straße von Hormus fällt die nächste Meerenge",
+      "url": "https://taz.de/Jemen-im-Krieg-zwischen-Iran-und-USA/!6198078/",
+      "publishedAt": "2026-07-22T11:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kunstbiennale Venedig: EU-Förderung offiziell gestrichen",
+      "url": "https://taz.de/Kunstbiennale-Venedig/!6198141/",
+      "publishedAt": "2026-07-22T11:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienberichte - Kanzleramtschef Frei soll Spahn-Nachfolger werden",
+      "url": "https://www.deutschlandfunk.de/kanzleramtschef-frei-soll-spahn-nachfolger-werden-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Reichsbürger - Anklage gegen vier mutmaßliche Anführer",
+      "url": "https://www.deutschlandfunk.de/anklage-gegen-vier-mutmassliche-anfuehrer-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Kabinett beschließt neue Cyber-Sicherheitsstrategie für Bundesverwaltung",
+      "url": "https://www.deutschlandfunk.de/kabinett-beschliesst-neue-cyber-sicherheitsstrategie-fuer-bundesverwaltung-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Norwegen - Gedenken an die Opfer der Terroranschläge in Oslo und auf Utøya",
+      "url": "https://www.deutschlandfunk.de/gedenken-an-die-opfer-der-terroranschlaege-in-oslo-und-auf-ut-ya-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankfurt - Ermittler durchsuchen Deutsche Bank",
+      "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-deutsche-bank-106.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienberichte - USA und Saudi-Arabien wollen Nuklearabkommen unterzeichnen",
+      "url": "https://www.deutschlandfunk.de/usa-und-saudi-arabien-wollen-nuklearabkommen-unterzeichnen-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fast 1.000 Ebola-Tote im Kongo",
+      "url": "https://www.deutschlandfunk.de/fast-1-000-ebola-tote-im-kongo-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Libanon - Tyrus nun gefährdetes UNO-Weltkulturerbe",
+      "url": "https://www.deutschlandfunk.de/tyrus-nun-gefaehrdetes-uno-weltkulturerbe-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Energie - Bartsch wirft Bundesregierung Untätigkeit angesichts hoher Spritpreise vor - Klüssendorf plädiert für Spritpreisdeckel",
+      "url": "https://www.deutschlandfunk.de/bartsch-wirft-bundesregierung-untaetigkeit-angesichts-hoher-spritpreise-vor-kluessendorf-plaediert-f-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankfurt - Ermittler durchsuchen Deutsche Bank",
+      "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-deutsche-bank-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Manila - Lawrow kündigt Treffen mit Rubio in philippinischer Hauptstadt an",
+      "url": "https://www.deutschlandfunk.de/lawrow-kuendigt-treffen-mit-rubio-in-philippinischer-hauptstadt-an-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Künstliche Intelligenz - KI-Modell von OpenAI startet selbstständig Cyberangriff",
+      "url": "https://www.deutschlandfunk.de/ki-modell-von-openai-startet-selbststaendig-cyberangriff-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ostdeutschland - Kretschmer (CDU): \"Wer noch über Brandmauern redet, hat die Zeichen der Zeit nicht erkannt\"",
+      "url": "https://www.deutschlandfunk.de/kretschmer-cdu-wer-noch-ueber-brandmauern-redet-hat-die-zeichen-der-zeit-nicht-erkannt-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Erneut Angriffe auf russischen Onlinehändler Wildberries",
+      "url": "https://www.deutschlandfunk.de/erneut-angriffe-auf-russischen-onlinehaendler-wildberries-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Selenskyj entlässt Armeechef Syrskyj und ernennt Nachfolger",
+      "url": "https://www.deutschlandfunk.de/selenskyj-entlaesst-armeechef-syrskyj-und-ernennt-nachfolger-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Terrorgefahr - CDU-Sicherheitspolitiker Henrichmann sieht ebenfalls konkrete Bedrohungslage in Deutschland",
+      "url": "https://www.deutschlandfunk.de/cdu-sicherheitspolitiker-henrichmann-sieht-ebenfalls-konkrete-bedrohungslage-in-deutschland-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Forschung - Weniger Frauen in Deutschland schließen Habilitation ab",
+      "url": "https://www.deutschlandfunk.de/weniger-frauen-in-deutschland-schliessen-habilitation-ab-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Investitionen in Startups in Deutschland im ersten Halbjahr gestiegen",
+      "url": "https://www.deutschlandfunk.de/investitionen-in-startups-in-deutschland-im-ersten-halbjahr-gestiegen-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Protesten Anfang des Jahres - Weitere Hinrichtung im Iran",
+      "url": "https://www.deutschlandfunk.de/weitere-hinrichtung-im-iran-100.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mittelamerika - USA schicken trotz diplomatischer Spannungen Hilfsmittel nach Kuba",
+      "url": "https://www.deutschlandfunk.de/usa-schicken-trotz-diplomatischer-spannungen-hilfsmittel-nach-kuba-102.html",
+      "publishedAt": "2026-07-22T11:34:11.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Verbotene Reichsbürger-Gruppe: Anklage gegen mutmaßliche Köpfe des „Königreichs Deutschland“",
+      "url": "https://taz.de/Verbotene-Reichsbuerger-Gruppe/!6198159/",
+      "publishedAt": "2026-07-22T11:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Den Haager Haftbefehl gegen Netanjahu: Mamdani will, darf aber nicht",
+      "url": "https://taz.de/Den-Haager-Haftbefehl-gegen-Netanjahu/!6198142/",
+      "publishedAt": "2026-07-22T11:33:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kommunalwahl in Niedersachsen: FDP-Kandidat klagt gegen Altersobergrenze",
+      "url": "https://taz.de/Kommunalwahl-in-Niedersachsen/!6197745/",
+      "publishedAt": "2026-07-22T11:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Künstliche Intelligenz: KI von OpenAI unternimmt selbstständig Hackerangriff",
+      "url": "https://taz.de/Kuenstliche-Intelligenz/!6198123/",
+      "publishedAt": "2026-07-22T11:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Spahn-Nachfolger gefunden: Thorsten Frei wird Unionsfraktionschef",
+      "url": "https://taz.de/Frei-soll-Spahn-als-Unionsfraktionschef-folgen/!6198199/",
+      "publishedAt": "2026-07-22T10:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Strengere Verkehrsregeln: Griechenland verbietet E-Scooter für unter 17-Jährige",
+      "url": "https://taz.de/Haertere-Verkehrsregeln/!6198125/",
+      "publishedAt": "2026-07-22T10:23:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "CDU/CSU: Thorsten Frei soll auf Jens Spahn als Fraktionschef der Union folgen",
+      "url": "https://www.spiegel.de/politik/deutschland/cdu-csu-thorsten-frei-soll-auf-jens-spahn-als-fraktionschef-der-union-folgen-a-90440a30-4751-46b0-89af-d38f79e07806#ref=rss",
+      "publishedAt": "2026-07-22T10:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Konzert von Danger Dan und Igor Levit: Bedächtig, fast andächtig",
+      "url": "https://taz.de/Konzert-von-Danger-Dan-und-Igor-Levit/!6198086/",
+      "publishedAt": "2026-07-22T10:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Gedenken in Österreich: Früher Hitler, jetzt die Polizei",
+      "url": "https://taz.de/Gedenken-in-Oesterreich/!6198076/",
+      "publishedAt": "2026-07-22T10:07:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -147,146 +385,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html",
       "publishedAt": "2026-07-22T09:57:28.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "DLF",
-      "title": "Reichsbürger - Anklage gegen vier mutmaßliche Anführer",
-      "url": "https://www.deutschlandfunk.de/anklage-gegen-vier-mutmassliche-anfuehrer-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienberichte - USA und Saudi-Arabien wollen Nuklearabkommen unterzeichnen",
-      "url": "https://www.deutschlandfunk.de/usa-und-saudi-arabien-wollen-nuklearabkommen-unterzeichnen-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Personalfrage - Unionsfraktionsvorstand hält digitale Sitzung mit Merz und Söder zu Spahn-Nachfolge ab",
-      "url": "https://www.deutschlandfunk.de/unionsfraktionsvorstand-haelt-digitale-sitzung-mit-merz-und-soeder-zu-spahn-nachfolge-ab-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Norwegen - Gedenken an die Opfer der Terroranschläge in Oslo und auf Utøya",
-      "url": "https://www.deutschlandfunk.de/gedenken-an-die-opfer-der-terroranschlaege-in-oslo-und-auf-ut-ya-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Frankfurt - Ermittler durchsuchen Deutsche Bank",
-      "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-deutsche-bank-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Manila - Lawrow kündigt Treffen mit Rubio in philippinischer Hauptstadt an",
-      "url": "https://www.deutschlandfunk.de/lawrow-kuendigt-treffen-mit-rubio-in-philippinischer-hauptstadt-an-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Künstliche Intelligenz - KI-Modell von OpenAI startet selbstständig Cyberangriff",
-      "url": "https://www.deutschlandfunk.de/ki-modell-von-openai-startet-selbststaendig-cyberangriff-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Energie - Bartsch wirft Bundesregierung Untätigkeit angesichts hoher Spritpreise vor - Klüssendorf plädiert für Spritpreisdeckel",
-      "url": "https://www.deutschlandfunk.de/bartsch-wirft-bundesregierung-untaetigkeit-angesichts-hoher-spritpreise-vor-kluessendorf-plaediert-f-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ostdeutschland - Kretschmer (CDU): \"Wer noch über Brandmauern redet, hat die Zeichen der Zeit nicht erkannt\"",
-      "url": "https://www.deutschlandfunk.de/kretschmer-cdu-wer-noch-ueber-brandmauern-redet-hat-die-zeichen-der-zeit-nicht-erkannt-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Erneut Angriffe auf russischen Onlinehändler Wildberries",
-      "url": "https://www.deutschlandfunk.de/erneut-angriffe-auf-russischen-onlinehaendler-wildberries-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Selenskyj entlässt Armeechef Syrskyj und ernennt Nachfolger",
-      "url": "https://www.deutschlandfunk.de/selenskyj-entlaesst-armeechef-syrskyj-und-ernennt-nachfolger-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Terrorgefahr - CDU-Sicherheitspolitiker Henrichmann sieht ebenfalls konkrete Bedrohungslage in Deutschland",
-      "url": "https://www.deutschlandfunk.de/cdu-sicherheitspolitiker-henrichmann-sieht-ebenfalls-konkrete-bedrohungslage-in-deutschland-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Forschung - Weniger Frauen in Deutschland schließen Habilitation ab",
-      "url": "https://www.deutschlandfunk.de/weniger-frauen-in-deutschland-schliessen-habilitation-ab-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Investitionen in Startups in Deutschland im ersten Halbjahr gestiegen",
-      "url": "https://www.deutschlandfunk.de/investitionen-in-startups-in-deutschland-im-ersten-halbjahr-gestiegen-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "JVA Siegburg - Durchsuchung nach Hinweis auf geplanten Gefangenenaufstand",
-      "url": "https://www.deutschlandfunk.de/durchsuchung-nach-hinweis-auf-geplanten-gefangenenaufstand-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Protesten Anfang des Jahres - Weitere Hinrichtung im Iran",
-      "url": "https://www.deutschlandfunk.de/weitere-hinrichtung-im-iran-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mittelamerika - USA schicken trotz diplomatischer Spannungen Hilfsmittel nach Kuba",
-      "url": "https://www.deutschlandfunk.de/usa-schicken-trotz-diplomatischer-spannungen-hilfsmittel-nach-kuba-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "US-Senat - Hegseth schätzt Kosten des Iran-Kriegs auf 37,5 Milliarden US-Dollar",
-      "url": "https://www.deutschlandfunk.de/hegseth-schaetzt-kosten-des-iran-kriegs-auf-37-5-milliarden-us-dollar-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Als erstes EU-Land - Frankreich verbietet Soziale Medien für unter 15-Jährige",
-      "url": "https://www.deutschlandfunk.de/frankreich-verbietet-soziale-medien-fuer-unter-15-jaehrige-102.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Olympia-Einkaufszentrum - Steinmeier bei Gedenken zu zehntem Jahrestag des rassistischen OEZ-Attentats in München",
-      "url": "https://www.deutschlandfunk.de/steinmeier-bei-gedenken-zu-zehntem-jahrestag-des-rassistischen-oez-attentats-in-muenchen-100.html",
-      "publishedAt": "2026-07-22T09:55:02.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -311,7 +409,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Jens Spahn: Friedrich Merz und Markus Söder planen am Nachmittag Schalte von Fraktionsvorstand über Nachfolge",
+      "title": "Jens Spahn: Friedrich Merz und Markus Söder setzen kurzfristig Schalte des Fraktionsvorstands an",
       "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-friedrich-merz-und-markus-soeder-planen-am-nachmittag-schalte-von-fraktionsvorstand-ueber-nachfolge-a-1c8afb42-4639-429b-ab5c-bc0eb934cfb0#ref=rss",
       "publishedAt": "2026-07-22T08:56:00.000Z",
       "category": "POLITIK"
@@ -331,20 +429,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Gewerkschafter über VW-Rüstungspläne: „Wir sehen Risiken für die Kollegen“",
-      "url": "https://taz.de/Gewerkschafter-ueber-VW-Ruestungsplaene/!6197839/",
-      "publishedAt": "2026-07-22T07:46:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Deutsche Rüstungsindustrie: Panzer statt Autos",
-      "url": "https://taz.de/Deutsche-Ruestungsindustrie/!6197835/",
-      "publishedAt": "2026-07-22T07:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Lob für Alkoholverbot an Bahnhöfen - aber Fragen zur Umsetzung",
       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-alkoholverbot-bahnhoefe-100.html",
@@ -353,23 +437,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Konzert in Berlin nach Absage des ZDF: „Wie gehen wir um mit rechter Gewalt?“",
-      "url": "https://taz.de/Konzert-in-Berlin-nach-Absage-des-ZDF/!6198075/",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Als erstes EU-Land: Frankreich verbietet soziale Medien für unter 15-Jährige",
       "url": "https://taz.de/Als-erstes-EU-Land/!6198074/",
       "publishedAt": "2026-07-22T06:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach tagelangen Protesten in der Ukraine: Selenskyj entlässt Armeechef Syrskyj",
-      "url": "https://taz.de/Nach-tagelangen-Protesten-in-der-Ukraine/!6198073/",
-      "publishedAt": "2026-07-22T06:06:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -409,37 +479,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Jahresbilanz rechte Gewalt 2025: Der Einfluss der AfD in Zahlen",
-      "url": "https://taz.de/Jahresbilanz-rechte-Gewalt-2025/!6197853/",
-      "publishedAt": "2026-07-22T05:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Politologe über Korruption in Russland: „Wer an die Macht kommt, füllt sich die Taschen“",
-      "url": "https://taz.de/Politologe-ueber-Korruption-in-Russland/!6197804/",
-      "publishedAt": "2026-07-22T05:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Der Hausbesuch: Einer, der im Osten bleibt",
       "url": "https://taz.de/Der-Hausbesuch/!6178264/",
       "publishedAt": "2026-07-22T05:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gentest für Tennisprofis: Feindbild Transfrau",
-      "url": "https://taz.de/Gentest-fuer-Tennisprofis/!6197847/",
-      "publishedAt": "2026-07-22T05:05:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "15 Jahre Attentat auf Utøya: Wie Norwegen an das Trauma erinnert",
-      "url": "https://taz.de/15-Jahre-Attentat-auf-Utoya/!6197870/",
-      "publishedAt": "2026-07-22T05:04:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -493,30 +535,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Sexuelle Gewalt gegen Kinder: Polizei registriert mehr Fälle",
-      "url": "https://taz.de/Sexuelle-Gewalt-gegen-Kinder/!6198051/",
-      "publishedAt": "2026-07-21T18:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Alkoholverbot an Bahnhöfen: Nicht mein Bier",
-      "url": "https://taz.de/Ein-Alkoholverbot-an-Bahnhoefen-soll-die-Kriminalitaet-senken---es-koennte-das-Gegenteil-bewirken/!6197859/",
-      "publishedAt": "2026-07-21T17:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Vor dem CSD-Wochenende in Berlin: Ein queerer Scherbenhaufen",
       "url": "https://taz.de/Vor-dem-CSD-Wochenende-in-Berlin/!6197841/",
       "publishedAt": "2026-07-21T17:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gedenktag für Drogentote: „Zu spät erreicht, zu selten geschützt“",
-      "url": "https://taz.de/Gedenktag-fuer-Drogentote/!6197828/",
-      "publishedAt": "2026-07-21T16:30:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -560,13 +581,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-biennale-venedig-russland-100.html",
       "publishedAt": "2026-07-21T14:16:43.000Z",
       "category": "AUSLAND"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Libanons Präsident in den USA: Trumps Druck soll Israel zum Abzug bewegen",
-      "url": "https://taz.de/Libanons-Praesident-in-den-USA/!6197950/",
-      "publishedAt": "2026-07-21T13:50:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -751,25 +765,11 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Jens Spahn: CDU und CSU wollen erst am 29. Juli über Nachfolge entscheiden",
-      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-unionsfraktion-will-erst-in-der-kommenden-woche-ueber-nachfolge-entscheiden-a-5239e565-6c50-4ee5-93e9-cdca18ea7c19#ref=rss",
-      "publishedAt": "2026-07-20T09:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
       "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
       "publishedAt": "2026-07-20T09:24:27.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Bundeswehr: Warum Grünen-Politiker an Schnupperlehrgängen teilnehmen",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-warum-gruenen-politiker-an-schnupperlehrgaengen-teilnehmen-a-5cdf4074-ff39-4234-a176-68e6b54feb9b#ref=rss",
-      "publishedAt": "2026-07-20T07:12:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
