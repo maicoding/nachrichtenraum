@@ -1,130 +1,277 @@
 {
-  "updatedAt": "2026-07-23T17:48:47.409Z",
+  "updatedAt": "2026-07-23T19:45:57.417Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - „Was da passiert, konnte ich mir nicht vorstellen“",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-was-da-passiert-konnte-ich-mir-nicht-vorstellen-6a622467efccf0c0d5536f8e",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
+      "title": "Mit Baby - Wo Familie Spahn Geburtstag feiert",
+      "url": "https://www.bild.de/politik/inland/mit-baby-wo-familie-spahn-geburtstag-feiert-6a61e636d4d33e475a7b59a2",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Exklusiv - Warken wird Kanzleramts-Chefin, Linnemann Minister",
-      "url": "https://www.bild.de/politik/exklusiv-warken-wird-kanzleramts-chefin-linnemann-gesundheitsminister-6a620e7bd4d33e475a7b5db4",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
+      "title": "Piraten kapern Tanker vor Somalia - Acht deutsche Seeleute entführt",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/somalia-piraten-entfuehren-tanker-mit-acht-deutschen-seeleuten-an-bord-6a62533defccf0c0d55372c3",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Kommentar zum Wahl-Ausschluss von AfD-Politikern - Ein gefährliches Spiel mit der Demokratie",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zu-afd-in-niedersachsen-wer-ist-die-groessere-gefahr-fuer-die-demokratie-6a61f36c26ebb8e13e2ee6da",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Mehrere Fälle in Niedersachsen - AfD-Politiker von Wahl ausgeschlossen! Weil sie in der AfD sind?",
-      "url": "https://www.bild.de/politik/inland/niedersachsen-afd-politiker-von-wahl-ausgeschlossen-natuerlich-verfassungswidrig-6a61a75fefccf0c0d55363d0",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
+      "title": "Live-Ticker zum Ukraine-Krieg - Russlands modernster Jet bei Moskau abgestürzt",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Brisante Aufnahmen - Diese Bilder bringen Sea-Watch in Erklärungsnot",
-      "url": "https://www.bild.de/politik/inland/brisante-aufnahmen-diese-bilder-bringen-sea-watch-in-schwere-seenot-6a609712ea7bf3843138ad02",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
+      "title": "Sachsen-Anhalt-Umfrage - SPD nur noch bei fünf Prozent",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-umfrage-spd-nur-noch-bei-fuenf-prozent-6a623534a61f29895b484d45",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Lauterbach ätzt gegen Auswanderer - „Auf diese Leute können wir verzichten“",
-      "url": "https://www.bild.de/politik/inland/lauterbach-gegen-top-verdiener-auf-diese-leute-koennen-wir-verzichten-6a61d7b0d4d33e475a7b57f9",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Angriff auf Söder - GSG9-Mann: So gefährlich war es für den CSU-Chef",
-      "url": "https://www.bild.de/politik/inland/angriff-auf-soeder-gsg9-mann-so-gefaehrlich-war-es-fuer-den-csu-chef-6a5e37883d7c8c257075e965",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Trumps Saudi-Deal - „Es könnte Richtung Atombombe gehen“",
-      "url": "https://www.bild.de/politik/trumps-saudi-deal-es-koennte-richtung-atombombe-gehen-6a621c1e26ebb8e13e2eeb21",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merz plant Kabinetts-Umbau - CSU-Ansage: Dobrindt muss Innenminister bleiben!",
-      "url": "https://www.bild.de/politik/inland/neuer-kanzleramtschef-csu-dobrindt-muss-innenminister-bleiben-6a61f994a61f29895b48481d",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "15 Jahre nach Utoya-Massaker - „Breivik lebt in Luxus-Lounge im Knast“",
-      "url": "https://www.bild.de/politik/15-jahre-nach-massaker-auf-utoya-breivik-lebt-in-luxus-lounge-im-knast-6a60c93ef8f59889637251f6",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Pädophile bei TikTok und Insta - „Was da passiert, konnte ich mir nicht vorstellen“",
-      "url": "https://www.bild.de/politik/paedophile-bei-tiktok-und-insta-was-da-passiert-konnte-ich-mir-nicht-vorstellen-6a61e736efccf0c0d553697d",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Angriffen auf Tanker - Ölpreis knackt die 100-Dollar-Marke",
-      "url": "https://www.bild.de/politik/nach-angriffen-auf-tanker-oelpreis-knackt-die-100-dollar-marke-6a6212c126ebb8e13e2eea10",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zwischenruf von Peter Tiede - Herr Lauterbach, Herr Klingbeil: Das ist einfach asozial!",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-herr-lauterbach-herr-klingbeil-das-ist-einfach-asozial-6a61ecb9d4d33e475a7b5a86",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Treffen der Außenminister - Ukraine-Hilfen: Lügen-Lawrow warnt Rubio",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-hilfen-lawrow-warnt-rubio-vor-waffenlieferungen-6a61c706a61f29895b4842d6",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wettbewerbsverstöße - EU verhängt heftige Strafe gegen Google",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wettbewerbsverstoesse-eu-verhaengt-heftige-strafe-gegen-google-6a61e6a3a61f29895b48465b",
-      "publishedAt": "2026-07-23T17:48:47.098Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mit Baby - Wo Familie Spahn Geburtstag feiert",
-      "url": "https://www.bild.de/politik/inland/mit-baby-wo-familie-spahn-geburtstag-feiert-6a61e636d4d33e475a7b59a2",
-      "publishedAt": "2026-07-23T17:48:47.097Z",
+      "title": "Kommentar zur Kabinettsumbildung - Merz zaudert nicht mehr",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zur-kabinettsumbildung-merz-zaudert-nicht-mehr-6a624752a61f29895b484e40",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Nina Warken leitet Kanzleramt - „Jetzt muss sie zeigen, ob sie es kann“",
       "url": "https://www.bild.de/politik/nina-warken-leitet-kanzleramt-jetzt-muss-sie-zeigen-ob-sie-es-kann-6a6238edefccf0c0d553713c",
-      "publishedAt": "2026-07-23T17:48:47.097Z",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Geheimes Mullah-Atomlager? - DAS offenbaren Satellitenbilder",
       "url": "https://www.bild.de/politik/geheimes-mullah-atomlager-das-offenbaren-satellitenbilder-6a622d65efccf0c0d553706a",
-      "publishedAt": "2026-07-23T17:48:47.097Z",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Politik-Vodcast - Vertraulich! - „Was da passiert, konnte ich mir nicht vorstellen“",
+      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-was-da-passiert-konnte-ich-mir-nicht-vorstellen-6a622467efccf0c0d5536f8e",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiv - Warken wird Kanzleramts-Chefin, Linnemann Minister",
+      "url": "https://www.bild.de/politik/exklusiv-warken-wird-kanzleramts-chefin-linnemann-gesundheitsminister-6a620e7bd4d33e475a7b5db4",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehrere Fälle in Niedersachsen - AfD-Politiker von Wahl ausgeschlossen! Weil sie in der AfD sind?",
+      "url": "https://www.bild.de/politik/inland/niedersachsen-afd-politiker-von-wahl-ausgeschlossen-natuerlich-verfassungswidrig-6a61a75fefccf0c0d55363d0",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisante Aufnahmen - Diese Bilder bringen Sea-Watch in Erklärungsnot",
+      "url": "https://www.bild.de/politik/inland/brisante-aufnahmen-diese-bilder-bringen-sea-watch-in-schwere-seenot-6a609712ea7bf3843138ad02",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lauterbach ätzt gegen Auswanderer - „Auf diese Leute können wir verzichten“",
+      "url": "https://www.bild.de/politik/inland/lauterbach-gegen-top-verdiener-auf-diese-leute-koennen-wir-verzichten-6a61d7b0d4d33e475a7b57f9",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Angriff auf Söder - GSG9-Mann: So gefährlich war es für den CSU-Chef",
+      "url": "https://www.bild.de/politik/inland/angriff-auf-soeder-gsg9-mann-so-gefaehrlich-war-es-fuer-den-csu-chef-6a5e37883d7c8c257075e965",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trumps Saudi-Deal - „Es könnte Richtung Atombombe gehen“",
+      "url": "https://www.bild.de/politik/trumps-saudi-deal-es-koennte-richtung-atombombe-gehen-6a621c1e26ebb8e13e2eeb21",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merz plant Kabinetts-Umbau - CSU-Ansage: Dobrindt muss Innenminister bleiben!",
+      "url": "https://www.bild.de/politik/inland/neuer-kanzleramtschef-csu-dobrindt-muss-innenminister-bleiben-6a61f994a61f29895b48481d",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "15 Jahre nach Utoya-Massaker - „Breivik lebt in Luxus-Lounge im Knast“",
+      "url": "https://www.bild.de/politik/15-jahre-nach-massaker-auf-utoya-breivik-lebt-in-luxus-lounge-im-knast-6a60c93ef8f59889637251f6",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Pädophile bei TikTok und Insta - „Was da passiert, konnte ich mir nicht vorstellen“",
+      "url": "https://www.bild.de/politik/paedophile-bei-tiktok-und-insta-was-da-passiert-konnte-ich-mir-nicht-vorstellen-6a61e736efccf0c0d553697d",
+      "publishedAt": "2026-07-23T19:45:57.270Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
+      "publishedAt": "2026-07-23T19:43:31.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienberichte - Warken soll Kanzleramtsministerin werden - Linnemann übernimmt Gesundheitsressort",
+      "url": "https://www.deutschlandfunk.de/warken-soll-kanzleramtsministerin-werden-linnemann-uebernimmt-gesundheitsressort-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Rüstungspolitik - Pistorius: \"Denken über Raketen-Startplatz für Bundeswehr nach\"",
+      "url": "https://www.deutschlandfunk.de/pistorius-denken-ueber-raketen-startplatz-fuer-bundeswehr-nach-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Repräsentantenhaus stimmt erneut für Ende des Iran-Kriegs",
+      "url": "https://www.deutschlandfunk.de/repraesentantenhaus-stimmt-erneut-fuer-ende-des-iran-kriegs-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Horn von Afrika - Berichte: Somalische Piraten halten Tanker fest - acht deutsche Seeleute an Bord",
+      "url": "https://www.deutschlandfunk.de/berichte-somalische-piraten-halten-tanker-fest-acht-deutsche-seeleute-an-bord-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Indien - Regierung Modi sucht Gespräch mit \"Kakerlaken\"-Bewegung",
+      "url": "https://www.deutschlandfunk.de/regierung-modi-sucht-gespraech-mit-kakerlaken-bewegung-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Teuerung - Preis für Rohöl steigt über 100 Dollar",
+      "url": "https://www.deutschlandfunk.de/preis-fuer-rohoel-steigt-ueber-100-dollar-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Terrorprozess - Salman Rushdie schildert Attentat vor US-Bundesgericht",
+      "url": "https://www.deutschlandfunk.de/salman-rushdie-schildert-attentat-vor-us-bundesgericht-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iran-Krieg - Trump droht Iran wegen Huthi-Angriffen auf saudische Schiffe",
+      "url": "https://www.deutschlandfunk.de/trump-droht-iran-wegen-huthi-angriffen-auf-saudische-schiffe-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - Trump knüpft Atomabkommen mit Saudi-Arabien an Israel-Annäherung",
+      "url": "https://www.deutschlandfunk.de/trump-knuepft-atomabkommen-mit-saudi-arabien-an-israel-annaeherung-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Trotz hoher Energiepreise - Europäische Zentralbank hält Zinsen vorerst konstant",
+      "url": "https://www.deutschlandfunk.de/europaeische-zentralbank-haelt-zinsen-vorerst-konstant-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Migration - Amnesty International und Pro Asyl kritisieren strengere Abschiebepraxis nach Afghanistan",
+      "url": "https://www.deutschlandfunk.de/amnesty-international-und-pro-asyl-kritisieren-strengere-abschiebepraxis-nach-afghanistan-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regensburg - Festnahme nach tödlicher Messerattacke",
+      "url": "https://www.deutschlandfunk.de/festnahme-nach-toedlicher-messerattacke-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Duisburg - 37-Jähriger stirbt bei Polizeieinsatz in Duisburg - Ermittlungen gegen sechs Beamte und zwei Rettungskräfte",
+      "url": "https://www.deutschlandfunk.de/37-jaehriger-stirbt-bei-polizeieinsatz-in-duisburg-ermittlungen-gegen-sechs-beamte-und-zwei-rettungs-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wegen unfairer Geschäftspraktiken - EU verhängt 890 Millionen Euro Strafe gegen Google",
+      "url": "https://www.deutschlandfunk.de/eu-verhaengt-890-millionen-euro-strafe-gegen-google-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Karlsruhe - Bundesverfassungsgericht weist Beschwerde zum Heizungsgesetz ab",
+      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-zum-heizungsgesetz-ab-100.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtag - Bayern führt einen \"Uniformtag\" für Soldaten, Polizisten, Justizangestellte, Feuerwehrleute und Rettungskräfte ein",
+      "url": "https://www.deutschlandfunk.de/bayern-fuehrt-einen-uniformtag-fuer-soldaten-polizisten-justizangestellte-feuerwehrleute-und-rettung-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tour de France - Richard Carapaz gewinnt 18. Etappe",
+      "url": "https://www.deutschlandfunk.de/richard-carapaz-gewinnt-18-etappe-104.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Einsparungen im Bundeshaushalt - Deutscher Gewerkschaftsbund kritisiert Kürzungen bei der Berufsorientierung",
+      "url": "https://www.deutschlandfunk.de/deutscher-gewerkschaftsbund-kritisiert-kuerzungen-bei-der-berufsorientierung-102.html",
+      "publishedAt": "2026-07-23T19:40:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Bundesregierung: Der Kanzler wagt beim Kabinettsumbau eine riskante Operation",
+      "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-der-kanzler-wagt-beim-kabinettsumbau-eine-riskante-operation-a-1b657e52-1027-46af-98ac-7a99f527e7d3#ref=rss",
+      "publishedAt": "2026-07-23T19:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "AfD-Politik für Sachsen-Anhalt: Paradoxon mit schädlichen Folgen",
+      "url": "https://taz.de/AfD-Politik-fuer-Sachsen-Anhalt/!6198503/",
+      "publishedAt": "2026-07-23T18:03:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -140,132 +287,6 @@
       "url": "https://taz.de/Atomwaffenforscher-zum-US-Deal/!6198579/",
       "publishedAt": "2026-07-23T17:45:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienberichte - Warken soll Kanzleramtsministerin werden - Linnemann übernimmt Gesundheitsressort",
-      "url": "https://www.deutschlandfunk.de/warken-soll-kanzleramtsministerin-werden-linnemann-uebernimmt-gesundheitsressort-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Rüstungspolitik - Pistorius: \"Denken über Raketen-Startplatz für Bundeswehr nach\"",
-      "url": "https://www.deutschlandfunk.de/pistorius-denken-ueber-raketen-startplatz-fuer-bundeswehr-nach-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Teuerung - Preis für Rohöl steigt über 100 Dollar",
-      "url": "https://www.deutschlandfunk.de/preis-fuer-rohoel-steigt-ueber-100-dollar-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Indien - Regierung Modi sucht Gespräch mit \"Kakerlaken\"-Bewegung",
-      "url": "https://www.deutschlandfunk.de/regierung-modi-sucht-gespraech-mit-kakerlaken-bewegung-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Iran-Krieg - Trump droht Iran wegen Huthi-Angriffen auf saudische Schiffe",
-      "url": "https://www.deutschlandfunk.de/trump-droht-iran-wegen-huthi-angriffen-auf-saudische-schiffe-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Washington - Trump knüpft Atomabkommen mit Saudi-Arabien an Israel-Annäherung",
-      "url": "https://www.deutschlandfunk.de/trump-knuepft-atomabkommen-mit-saudi-arabien-an-israel-annaeherung-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Trotz hoher Energiepreise - Europäische Zentralbank hält Zinsen vorerst konstant",
-      "url": "https://www.deutschlandfunk.de/europaeische-zentralbank-haelt-zinsen-vorerst-konstant-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Migration - Amnesty International und Pro Asyl kritisieren strengere Abschiebepraxis nach Afghanistan",
-      "url": "https://www.deutschlandfunk.de/amnesty-international-und-pro-asyl-kritisieren-strengere-abschiebepraxis-nach-afghanistan-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Regensburg - Festnahme nach tödlicher Messerattacke",
-      "url": "https://www.deutschlandfunk.de/festnahme-nach-toedlicher-messerattacke-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Duisburg - 37-Jähriger stirbt bei Polizeieinsatz in Duisburg - Ermittlungen gegen sechs Beamte und zwei Rettungskräfte",
-      "url": "https://www.deutschlandfunk.de/37-jaehriger-stirbt-bei-polizeieinsatz-in-duisburg-ermittlungen-gegen-sechs-beamte-und-zwei-rettungs-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wegen unfairer Geschäftspraktiken - EU verhängt 890 Millionen Euro Strafe gegen Google",
-      "url": "https://www.deutschlandfunk.de/eu-verhaengt-890-millionen-euro-strafe-gegen-google-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Karlsruhe - Bundesverfassungsgericht weist Beschwerde zum Heizungsgesetz ab",
-      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-zum-heizungsgesetz-ab-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landtag - Bayern führt einen \"Uniformtag\" für Soldaten, Polizisten, Justizangestellte, Feuerwehrleute und Rettungskräfte ein",
-      "url": "https://www.deutschlandfunk.de/bayern-fuehrt-einen-uniformtag-fuer-soldaten-polizisten-justizangestellte-feuerwehrleute-und-rettung-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Tour de France - Richard Carapaz gewinnt 18. Etappe",
-      "url": "https://www.deutschlandfunk.de/richard-carapaz-gewinnt-18-etappe-104.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Einsparungen im Bundeshaushalt - Deutscher Gewerkschaftsbund kritisiert Kürzungen bei der Berufsorientierung",
-      "url": "https://www.deutschlandfunk.de/deutscher-gewerkschaftsbund-kritisiert-kuerzungen-bei-der-berufsorientierung-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "G20-Gipfel in Florida - Wadephul kritisiert Ausladung Südafrikas durch Trump",
-      "url": "https://www.deutschlandfunk.de/wadephul-kritisiert-ausladung-suedafrikas-durch-trump-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Seit Inkraftreten von Waffenruhe - Fachleute: Lebensmittelversorgung im Gazastreifen teilweise verbessert - Versorgung noch immer unzureichend",
-      "url": "https://www.deutschlandfunk.de/fachleute-lebensmittelversorgung-im-gazastreifen-teilweise-verbessert-versorgung-noch-immer-unzureic-100.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Moskau dämpft Hoffnung auf baldige Friedensgespräche mit Kiew",
-      "url": "https://www.deutschlandfunk.de/moskau-daempft-hoffnung-auf-baldige-friedensgespraeche-mit-kiew-102.html",
-      "publishedAt": "2026-07-23T17:38:25.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -336,13 +357,6 @@
       "url": "https://taz.de/Kabinettsumbildung/!6198734/",
       "publishedAt": "2026-07-23T16:32:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
-      "publishedAt": "2026-07-23T16:28:39.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -461,13 +475,6 @@
       "title": "Elternzeit in Norwegen: So macht man es Vätern leicht",
       "url": "https://taz.de/Warum-anders-als-in-Deutschland-fast-jeder-Mann-in-Norwegen-Elternzeit-nimmt/!6195133/",
       "publishedAt": "2026-07-23T13:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Psychoanalyse in Argentinien: Wo man sich im Café Sigi traf",
-      "url": "https://taz.de/Psychoanalyse-in-Argentinien/!6198158/",
-      "publishedAt": "2026-07-23T13:10:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -693,13 +700,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/verdaechtiger-epstein-komplize-tot-aufgefunden-100.html",
       "publishedAt": "2026-07-22T15:45:34.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-von-der-ukraine-koennten-die-deutschen-viel-lernen-wenn-sie-denn-vor-ort-waeren-a-4c0a3b8e-3458-4a54-83e7-9389ee459540#ref=rss",
-      "publishedAt": "2026-07-22T15:41:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
