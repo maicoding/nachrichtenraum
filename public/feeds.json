@@ -1,263 +1,368 @@
 {
-  "updatedAt": "2026-07-23T12:02:38.555Z",
+  "updatedAt": "2026-07-23T14:32:20.720Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Lauterbach ätzt gegen Auswanderer - „Auf diese Leute können wir verzichten“",
-      "url": "https://www.bild.de/politik/inland/lauterbach-gegen-top-verdiener-auf-diese-leute-koennen-wir-verzichten-6a61d7b0d4d33e475a7b57f9",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wettbewerbsverstöße - EU verhängt heftige Strafe gegen Google",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wettbewerbsverstoesse-eu-verhaengt-heftige-strafe-gegen-google-6a61e6a3a61f29895b48465b",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Übler Verdacht gegen Seenotretter - Arbeitet Sea-Watch mit der Schleuser-Mafia?",
-      "url": "https://www.bild.de/politik/inland/uebler-verdacht-gegen-seenotretter-arbeitet-sea-watch-mit-der-organisierten-kriminalitaet-zusammen-6a5f4ae92937e4865893e5ba",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Umfrage - AfD jetzt auch in Berlin vorne",
-      "url": "https://www.bild.de/politik/inland/neue-umfrage-afd-liegt-jetzt-auch-in-berlin-vorne-6a60a14d0e3703262e0c8518",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Treffen der Außenminister - Ukraine-Hilfen: Lügen-Lawrow warnt Rubio",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-hilfen-lawrow-warnt-rubio-vor-waffenlieferungen-6a61c706a61f29895b4842d6",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "139 Jahre nach der Gründung - Varta geht der Saft aus",
-      "url": "https://www.bild.de/politik/139-jahre-nach-der-gruendung-deutschlands-batterie-legende-varta-geht-der-saft-aus-6a61c33726ebb8e13e2ee0da",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Es hat mit China zu tun - Mercedes droht Verkaufsverbot in den USA",
-      "url": "https://www.bild.de/politik/inland/mercedes-droht-verkaufsverbot-in-den-usa-6a61d3d726ebb8e13e2ee2f2",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
       "title": "15 Jahre nach Utoya-Massaker - „Breivik lebt in Luxus-Lounge im Knast“",
-      "url": "https://www.bild.de/politik/15-jahre-nach-utoya-massaker-breivik-lebt-in-luxus-lounge-im-knast-6a60c93ef8f59889637251f6",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mehrere Fälle in Niedersachsen - AfD-Politiker von Wahl ausgeschlossen! Weil sie in der AfD sind?",
-      "url": "https://www.bild.de/politik/inland/niedersachsen-afd-politiker-von-wahl-ausgeschlossen-natuerlich-verfassungswidrig-6a61a75fefccf0c0d55363d0",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "OpenAI-Test außer Kontrolle - „KI wird zu Massenkriminalität führen“",
-      "url": "https://www.bild.de/politik/bei-einem-testlauf-bei-openai-hat-sich-die-ki-selbststaendig-gemacht-ki-wird-zu-massenkriminalitaet-fuehren-6a609fda0e3703262e0c84d5",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Spritpreise explodieren wieder - „Deutsche Autofahrer lassen sich zu viel gefallen!“",
-      "url": "https://www.bild.de/politik/spritpreise-explodieren-wieder-deutsche-autofahrer-lassen-sich-zu-viel-gefallen-6a60a3010e3703262e0c8570",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zwölfte Nacht in Folge - US-Militär fliegt Angriffswelle gegen Iran",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/zwoelfte-nacht-in-folge-us-militaer-fliegt-angriffswelle-gegen-iran-6a61b2c4efccf0c0d5536463",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "1,4 Billionen Euro - Rekord! Jeder dritte Euro geht für Sozialausgaben drauf",
-      "url": "https://www.bild.de/politik/inland/1-4-billionen-euro-jeder-dritte-euro-geht-fuer-sozialausgaben-drauf-6a61be6a26ebb8e13e2ee08c",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - „KI wird zu Massenkriminalität führen“",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-ki-wird-zu-massenkriminalitaet-fuehren-6a60d397df889b74b6648ada",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zehn Ex-Topmanager im Visier - Razzia bei Deutscher Bank",
-      "url": "https://www.bild.de/politik/inland/steuerfahnder-durchsuchen-zentrale-razzia-bei-deutscher-bank-6a608299a8dd005bc4b72cf0",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Vor den Herbst-Wahlen - Wegen der AfD: Spaltungs-Angst in der Ost-CDU",
-      "url": "https://www.bild.de/politik/inland/die-reformen-reichen-nicht-cdu-landeschef-gibt-kretschmer-recht-6a608abbea7bf3843138aa72",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Selenskyj telefoniert mit Trump-Verhandlern",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-23T12:02:37.565Z",
+      "url": "https://www.bild.de/politik/15-jahre-nach-massaker-auf-utoya-breivik-lebt-in-luxus-lounge-im-knast-6a60c93ef8f59889637251f6",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Pädophile bei TikTok und Insta - „Was da passiert, konnte ich mir nicht vorstellen“",
       "url": "https://www.bild.de/politik/paedophile-bei-tiktok-und-insta-was-da-passiert-konnte-ich-mir-nicht-vorstellen-6a61e736efccf0c0d553697d",
-      "publishedAt": "2026-07-23T12:02:37.564Z",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Angriffen auf Tanker - Ölpreis knackt die 100-Dollar-Marke",
+      "url": "https://www.bild.de/politik/nach-angriffen-auf-tanker-oelpreis-knackt-die-100-dollar-marke-6a6212c126ebb8e13e2eea10",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehrere Fälle in Niedersachsen - AfD-Politiker von Wahl ausgeschlossen! Weil sie in der AfD sind?",
+      "url": "https://www.bild.de/politik/inland/niedersachsen-afd-politiker-von-wahl-ausgeschlossen-natuerlich-verfassungswidrig-6a61a75fefccf0c0d55363d0",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zwischenruf von Peter Tiede - Herr Lauterbach, Herr Klingbeil: Das ist einfach asozial!",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-herr-lauterbach-herr-klingbeil-das-ist-einfach-asozial-6a61ecb9d4d33e475a7b5a86",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lauterbach ätzt gegen Auswanderer - „Auf diese Leute können wir verzichten“",
+      "url": "https://www.bild.de/politik/inland/lauterbach-gegen-top-verdiener-auf-diese-leute-koennen-wir-verzichten-6a61d7b0d4d33e475a7b57f9",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merz plant Kabinetts-Umbau - CSU-Ansage: Dobrindt muss Innenminister bleiben!",
+      "url": "https://www.bild.de/politik/inland/neuer-kanzleramtschef-csu-dobrindt-muss-innenminister-bleiben-6a61f994a61f29895b48481d",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Treffen der Außenminister - Ukraine-Hilfen: Lügen-Lawrow warnt Rubio",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-hilfen-lawrow-warnt-rubio-vor-waffenlieferungen-6a61c706a61f29895b4842d6",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wettbewerbsverstöße - EU verhängt heftige Strafe gegen Google",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wettbewerbsverstoesse-eu-verhaengt-heftige-strafe-gegen-google-6a61e6a3a61f29895b48465b",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Übler Verdacht gegen Seenotretter - Arbeitet Sea-Watch mit der Schleuser-Mafia?",
+      "url": "https://www.bild.de/politik/inland/uebler-verdacht-gegen-seenotretter-arbeitet-sea-watch-mit-der-organisierten-kriminalitaet-zusammen-6a5f4ae92937e4865893e5ba",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Umfrage - AfD jetzt auch in Berlin vorne",
+      "url": "https://www.bild.de/politik/inland/neue-umfrage-afd-liegt-jetzt-auch-in-berlin-vorne-6a60a14d0e3703262e0c8518",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "139 Jahre nach der Gründung - Varta geht der Saft aus",
+      "url": "https://www.bild.de/politik/139-jahre-nach-der-gruendung-deutschlands-batterie-legende-varta-geht-der-saft-aus-6a61c33726ebb8e13e2ee0da",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Es hat mit China zu tun - Mercedes droht Verkaufsverbot in den USA",
+      "url": "https://www.bild.de/politik/inland/mercedes-droht-verkaufsverbot-in-den-usa-6a61d3d726ebb8e13e2ee2f2",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "OpenAI-Test außer Kontrolle - „KI wird zu Massenkriminalität führen“",
+      "url": "https://www.bild.de/politik/bei-einem-testlauf-bei-openai-hat-sich-die-ki-selbststaendig-gemacht-ki-wird-zu-massenkriminalitaet-fuehren-6a609fda0e3703262e0c84d5",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Spritpreise explodieren wieder - „Deutsche Autofahrer lassen sich zu viel gefallen!“",
+      "url": "https://www.bild.de/politik/spritpreise-explodieren-wieder-deutsche-autofahrer-lassen-sich-zu-viel-gefallen-6a60a3010e3703262e0c8570",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zwölfte Nacht in Folge - US-Militär fliegt Angriffswelle gegen Iran",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/zwoelfte-nacht-in-folge-us-militaer-fliegt-angriffswelle-gegen-iran-6a61b2c4efccf0c0d5536463",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "1,4 Billionen Euro - Rekord! Jeder dritte Euro geht für Sozialausgaben drauf",
+      "url": "https://www.bild.de/politik/inland/1-4-billionen-euro-jeder-dritte-euro-geht-fuer-sozialausgaben-drauf-6a61be6a26ebb8e13e2ee08c",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Politik-Vodcast - Vertraulich! - „KI wird zu Massenkriminalität führen“",
+      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-ki-wird-zu-massenkriminalitaet-fuehren-6a60d397df889b74b6648ada",
+      "publishedAt": "2026-07-23T14:32:20.587Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Britischer Premier Burnham senkt die Gewerbesteuer für Pubs, Clubs & Live-Musik",
+      "url": "https://www.tagesschau.de/ausland/europa/gewerbesteuer-grossbritannien-100.html",
+      "publishedAt": "2026-07-23T14:30:14.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - Trump knüpft Atomabkommen mit Saudi-Arabien an Israel-Annäherung",
+      "url": "https://www.deutschlandfunk.de/trump-knuepft-atomabkommen-mit-saudi-arabien-an-israel-annaeherung-100.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Wegen unfairer Geschäftspraktiken - EU verhängt 890 Millionen Euro Strafe gegen Google",
       "url": "https://www.deutschlandfunk.de/eu-verhaengt-890-millionen-euro-strafe-gegen-google-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Karlsruhe - Bundesverfassungsgericht weist Beschwerde zum Heizungsgesetz ab",
       "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-zum-heizungsgesetz-ab-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Trotz hoher Energiepreise - Europäische Zentralbank hält Zinsen vorerst konstant",
+      "url": "https://www.deutschlandfunk.de/europaeische-zentralbank-haelt-zinsen-vorerst-konstant-102.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iran-Krieg - Trump droht Iran wegen Huthi-Angriffen auf saudische Schiffe",
+      "url": "https://www.deutschlandfunk.de/trump-droht-iran-wegen-huthi-angriffen-auf-saudische-schiffe-100.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regensburg - Geiselnahme in Bank - Mensch in Lebensgefahr",
+      "url": "https://www.deutschlandfunk.de/geiselnahme-in-bank-mensch-in-lebensgefahr-100.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Einsparungen im Bundeshaushalt - Deutscher Gewerkschaftsbund kritisiert Kürzungen bei der Berufsorientierung",
+      "url": "https://www.deutschlandfunk.de/deutscher-gewerkschaftsbund-kritisiert-kuerzungen-bei-der-berufsorientierung-102.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "G20-Gipfel in Florida - Wadephul kritisiert Ausladung Südafrikas durch Trump",
+      "url": "https://www.deutschlandfunk.de/wadephul-kritisiert-ausladung-suedafrikas-durch-trump-102.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Seit Inkraftreten von Waffenruhe - Fachleute: Lebensmittelversorgung im Gazastreifen teilweise verbessert - Versorgung noch immer unzureichend",
+      "url": "https://www.deutschlandfunk.de/fachleute-lebensmittelversorgung-im-gazastreifen-teilweise-verbessert-versorgung-noch-immer-unzureic-100.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Moskau dämpft Hoffnung auf baldige Friedensgespräche mit Kiew",
+      "url": "https://www.deutschlandfunk.de/moskau-daempft-hoffnung-auf-baldige-friedensgespraeche-mit-kiew-102.html",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Washington - USA und Saudi-Arabien unterzeichnen Atomabkommen - Steinberg: \"Katastrophe für die Region\"",
       "url": "https://www.deutschlandfunk.de/usa-und-saudi-arabien-unterzeichnen-atomabkommen-steinberg-katastrophe-fuer-die-region-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Nahost - USA setzen B-1-Langstreckenbomber gegen Iran ein",
       "url": "https://www.deutschlandfunk.de/usa-setzen-b-1-langstreckenbomber-gegen-iran-ein-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Ukraine-Krieg - EU-Staaten einigen sich auf neue Sanktionen gegen Russland",
       "url": "https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-neue-sanktionen-gegen-russland-124.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Debatte um \"Brandmauer\" - Arbeitgeberpräsident Dulger: AfD hat keine Lösungen, Bilger (CDU): Auf Bundesebene keinesfalls Gespräche mit AfD",
       "url": "https://www.deutschlandfunk.de/arbeitgeberpraesident-dulger-afd-hat-keine-loesungen-bilger-cdu-auf-bundesebene-keinesfalls-gespraec-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Migration - Amnesty International: Afghanen ohne Straftat droht nach neuer Praxis Abschiebung",
       "url": "https://www.deutschlandfunk.de/amnesty-international-afghanen-ohne-straftat-droht-nach-neuer-praxis-abschiebung-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Hackerangriff von Künstlicher Intelligenz - OpenAI-Vorfall: Digitalministerium sieht massive Veränderung der Bedrohungslage",
       "url": "https://www.deutschlandfunk.de/openai-vorfall-digitalministerium-sieht-massive-veraenderung-der-bedrohungslage-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Statistisches Bundesamt - Zahl der Alleinerziehenden leicht zurückgegangen - weiterhin meist Frauen",
       "url": "https://www.deutschlandfunk.de/zahl-der-alleinerziehenden-leicht-zurueckgegangen-weiterhin-meist-frauen-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Streit in der AfD - Gottschalk: AfD-Landesverband NRW werde sich \"gegen Übergriffigkeit zu Wehr setzen\"",
       "url": "https://www.deutschlandfunk.de/gottschalk-afd-landesverband-nrw-werde-sich-gegen-uebergriffigkeit-zu-wehr-setzen-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - Sozialausgaben in Deutschland steigen weiter - Rückgang beim Bürgergeld",
-      "url": "https://www.deutschlandfunk.de/sozialausgaben-in-deutschland-steigen-weiter-rueckgang-beim-buergergeld-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Frankreich - 20.000 Menschen wegen Waldbrands in Touristenregion bei Bordeaux in Sicherheit gebracht",
-      "url": "https://www.deutschlandfunk.de/20-000-menschen-wegen-waldbrands-in-touristenregion-bei-bordeaux-in-sicherheit-gebracht-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gaming - EU stimmt Milliarden-Übernahme des US-Videospielekonzerns EA durch saudischen Staatsfonds zu",
-      "url": "https://www.deutschlandfunk.de/eu-stimmt-milliarden-uebernahme-des-us-videospielekonzerns-ea-durch-saudischen-staatsfonds-zu-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Krim - Antike Stadt auf besetzter Halbinsel nun bedrohtes Welterbe",
-      "url": "https://www.deutschlandfunk.de/antike-stadt-auf-besetzter-halbinsel-nun-bedrohtes-welterbe-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Proteste in Indien - Ministerpräsident Modi kündigt harte Strafen für Prüfungsbetrug an",
-      "url": "https://www.deutschlandfunk.de/ministerpraesident-modi-kuendigt-harte-strafen-fuer-pruefungsbetrug-an-100.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Afrika-Reise - Bundesaußenminister Wadephul auf Amtsbesuch in Südafrika",
-      "url": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-auf-amtsbesuch-in-suedafrika-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Manila - Lawrow und Rubio sprechen in Manila über Ukraine",
-      "url": "https://www.deutschlandfunk.de/lawrow-und-rubio-sprechen-in-manila-ueber-ukraine-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Teillegalisierung - Studie: Mehr Krankenhausaufenthalte wegen Cannabis",
-      "url": "https://www.deutschlandfunk.de/studie-mehr-krankenhausaufenthalte-wegen-cannabis-102.html",
-      "publishedAt": "2026-07-23T11:55:25.000Z",
+      "publishedAt": "2026-07-23T14:17:54.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
-      "title": "Heilkräuterindustrie im Kosovo: Die Ernte nach dem Krieg",
-      "url": "https://taz.de/Heilkraeuterindustrie-im-Kosovo/!6192987/",
-      "publishedAt": "2026-07-23T11:22:00.000Z",
+      "title": "Kooperation mit Taliban: Ausweitung von Abschiebungen nach Afghanistan absehbar",
+      "url": "https://taz.de/Kooperation-mit-Taliban/!6198406/",
+      "publishedAt": "2026-07-23T14:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Trotz Verbot: Israels Minister Ben-Gvir provoziert mit Gebet auf Tempelberg",
+      "url": "https://taz.de/Trotz-Verbot/!6198494/",
+      "publishedAt": "2026-07-23T14:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Urteil zum Heizungsgesetz: Zack-Zack-Gesetzgebung ist erlaubt",
+      "url": "https://taz.de/Urteil-zum-Heizungsgesetz/!6198449/",
+      "publishedAt": "2026-07-23T14:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Abkommen zwischen USA und Saudi-Arabien: Trump stellt Atom-Deal mit Riad schon wieder infrage",
+      "url": "https://taz.de/Abkommen-zwischen-USA-und-Saudi-Arabien/!6198650/",
+      "publishedAt": "2026-07-23T14:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Afghanistan: Bundesregierung weitet Abschiebungen aus – Kritik von Amnesty International",
+      "url": "https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss",
+      "publishedAt": "2026-07-23T13:49:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Elternzeit in Norwegen: So macht man es Vätern leicht",
+      "url": "https://taz.de/Warum-anders-als-in-Deutschland-fast-jeder-Mann-in-Norwegen-Elternzeit-nimmt/!6195133/",
+      "publishedAt": "2026-07-23T13:47:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Psychoanalyse in Argentinien: Wo man sich im Café Sigi traf",
+      "url": "https://taz.de/Psychoanalyse-in-Argentinien/!6198158/",
+      "publishedAt": "2026-07-23T13:10:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Stefan Evers vor der Berlin-Wahl: »Aggressive Beschimpfungen erlebt, wurde sogar angespuckt«",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-cdu-spitzenkandidat-stefan-evers-im-interview-ueber-beschimpfungen-und-zukunftsplaene-a-2398787b-ac1d-45f2-93bd-ee1fb5783142#ref=rss",
+      "publishedAt": "2026-07-23T12:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie gerecht ist das Reformpaket der Koalition?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reformpaket-koalition-100.html",
+      "publishedAt": "2026-07-23T12:38:17.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Rolle der Kurden im Irankrieg: Mit allen Mitteln – auch verbotenen?",
+      "url": "https://taz.de/Rolle-der-Kurden-im-Irankrieg/!6198271/",
+      "publishedAt": "2026-07-23T12:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Korruption in Vietnam: Verdacht auf lukrative innerparteiliche Gefangenenfreikäufe",
+      "url": "https://taz.de/Partei-und-Korruption-in-Vietnam/!6198408/",
+      "publishedAt": "2026-07-23T12:32:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kritik an Fleisch-Kampagne: Tiere essen, ohne nachzudenken",
+      "url": "https://taz.de/Kritik-an-Fleisch-Kampagne/!6197716/",
+      "publishedAt": "2026-07-23T12:30:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Spanien nach wochenlanger Hitze und Trockenheit",
+      "url": "https://www.tagesschau.de/video/video-1619310.html",
+      "publishedAt": "2026-07-23T12:27:10.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Atomdeal zwischen USA und Saudi-Arabien: Der Nahe Osten wird noch instabiler",
+      "url": "https://taz.de/Atomdeal-zwischen-USA-und-Saudi-Arabien/!6198426/",
+      "publishedAt": "2026-07-23T12:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Kanzleramt: Diese Unionspolitiker werden für die Nachfolge von Thorsten Frei gehandelt",
+      "url": "https://www.spiegel.de/politik/deutschland/kanzleramt-diese-unionspolitiker-werden-fuer-die-nachfolge-von-thorsten-frei-gehandelt-a-16a9edb3-1d5e-40de-af3a-4fc067859067#ref=rss",
+      "publishedAt": "2026-07-23T12:10:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -345,13 +450,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Tourismus in Spanien: Die Schule als Touri-Hotspot",
-      "url": "https://taz.de/Tourismus-in-Spanien/!6191535/",
-      "publishedAt": "2026-07-23T09:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Großbritannien: Andy Burnham senkt Gewerbesteuer für Pubs in England",
       "url": "https://www.spiegel.de/politik/grossbritannien-andy-burnham-senkt-gewerbesteuer-fuer-pubs-in-england-a-d35cee2d-f489-4db7-a118-35ef7440fa41#ref=rss",
@@ -364,13 +462,6 @@
       "url": "https://www.spiegel.de/politik/ukrainekrieg-eu-verhaengt-neue-sanktionen-gegen-russland-a-b6cd978e-fdae-45b4-a1b3-2510f12eb095#ref=rss",
       "publishedAt": "2026-07-23T08:39:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen",
-      "url": "https://www.tagesschau.de/video/video-1619198.html",
-      "publishedAt": "2026-07-23T08:37:03.000Z",
-      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -388,16 +479,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Atomdeal zwischen USA und Saudi-Arabien: Neuer Sprengstoff für den Nahen Osten",
-      "url": "https://taz.de/Uran-Deal-zwischen-USA-und-Saudis/!6198384/",
-      "publishedAt": "2026-07-23T08:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Atomdeal zwischen USA und Saudi-Arabien: „Unverantwortlich und gefährlich“",
-      "url": "https://taz.de/Atomdeal-USA/Saudi-Arabien/!6198383/",
-      "publishedAt": "2026-07-23T07:48:00.000Z",
+      "title": "+++ Nachrichten im Nahostkrieg +++: Ölpreis steigt auf über 100 Dollar",
+      "url": "https://taz.de/-Nachrichten-im-Nahostkrieg-/!6198387/",
+      "publishedAt": "2026-07-23T07:52:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -405,13 +489,6 @@
       "title": "Leihmutterschaft: Der Fall Jens Spahn zeigt die Absurdität des deutschen Verbots",
       "url": "https://www.spiegel.de/politik/deutschland/leihmutterschaft-der-fall-jens-spahn-zeigt-die-absurditaet-des-deutschen-verbots-a-a720f030-f577-4733-800c-6ae2113aecad#ref=rss",
       "publishedAt": "2026-07-23T07:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Vermittler an Jeffrey Epstein: Mutmaßlicher Komplize tot",
-      "url": "https://taz.de/Vermittler-an-Jeffrey-Epstein/!6198385/",
-      "publishedAt": "2026-07-23T07:34:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -443,39 +520,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Verein Lamsa in Halle an der Saale: „Migration ist nur die Kirsche auf der Torte“",
-      "url": "https://taz.de/Verein-Lamsa-in-Halle-an-der-Saale/!6197985/",
-      "publishedAt": "2026-07-23T06:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
       "publishedAt": "2026-07-23T05:47:47.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Midterms in den Vereinigten Staaten: Übernehmen jetzt die So­zia­lis­t:in­nen bei den US-Demokraten?",
-      "url": "https://taz.de/Midterms-in-den-Vereinigten-Staaten/!6198172/",
-      "publishedAt": "2026-07-23T05:26:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Datenschützerin über Geheimdienstreform: Der BND rüstet auf",
-      "url": "https://taz.de/Bundesdatenschutzbeauftragte-ueber-Geheimdienstreform-Seid-ihr-bescheuert/!6198179/",
-      "publishedAt": "2026-07-23T05:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Radikaler Umbau der Bundesverwaltung: Die Kettensäge jetzt auch in Deutschland",
-      "url": "https://taz.de/Radikaler-Umbau-der-Bundesverwaltung/!6198121/",
-      "publishedAt": "2026-07-23T05:09:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -518,20 +567,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
       "publishedAt": "2026-07-22T18:47:30.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Thorsten Frei folgt auf Jens Spahn: Wenn er scheitert, scheitert auch Merz",
-      "url": "https://taz.de/Thorsten-Frei-folgt-auf-Jens-Spahn/!6198252/",
-      "publishedAt": "2026-07-22T18:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Auftritt von Danger Dan und Igor Levit: Verschweigen funktioniert nicht mehr",
-      "url": "https://taz.de/Berlin-Konzert-von-Danger-Dan-und-Igor-Levit-Verschweigen-funktioniert-nicht-mehr/!6198244/",
-      "publishedAt": "2026-07-22T18:11:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -681,27 +716,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Michael Kretschmer: CDU-Ministerpräsident will »mit jedem reden, der reden will«",
-      "url": "https://www.spiegel.de/politik/deutschland/michael-kretschmer-cdu-ministerpraesident-von-sachsen-will-mit-jedem-reden-der-reden-will-a-f85a8cdb-342d-43c5-8f3b-1f267f7b392e#ref=rss",
-      "publishedAt": "2026-07-22T12:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Jens Spahn: Warum dieser Skandal einer zu viel war - Podcast",
-      "url": "https://www.spiegel.de/politik/deutschland/jens-spahn-warum-dieser-skandal-einer-zu-viel-war-podcast-a-0afdfbd4-f51e-45ac-82da-ddc74c4daf45#ref=rss",
-      "publishedAt": "2026-07-22T11:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Thorsten Frei (CDU): Kanzleramtschef soll neuer Fraktionschef der Union werden",
-      "url": "https://www.spiegel.de/politik/deutschland/cdu-csu-thorsten-frei-soll-auf-jens-spahn-als-fraktionschef-der-union-folgen-a-90440a30-4751-46b0-89af-d38f79e07806#ref=rss",
-      "publishedAt": "2026-07-22T10:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "So will die Bundesregierung deutsche Start-ups fördern",
       "url": "https://www.tagesschau.de/inland/innenpolitik/start-up-strategie-bundesregierung-102.html",
@@ -748,13 +762,6 @@
       "title": "Frankreich: Die Not der Weinbauern nach den Waldbränden",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-weinbauern-100.html",
       "publishedAt": "2026-07-21T22:38:36.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Frankreich beschließt Social-Media-Verbot für Kinder unter 15 Jahren",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-102.html",
-      "publishedAt": "2026-07-21T20:11:42.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -888,13 +895,6 @@
       "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
       "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
       "publishedAt": "2026-07-20T09:24:27.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html",
-      "publishedAt": "2026-07-19T15:36:16.000Z",
       "category": "INNENPOLITIK"
     },
     {
