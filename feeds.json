@@ -1,130 +1,312 @@
 {
-  "updatedAt": "2026-07-24T17:13:44.225Z",
+  "updatedAt": "2026-07-24T18:47:26.039Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Sonntagsfrage - Knackt BSW bald die 5 Prozent?",
-      "url": "https://www.bild.de/politik/sonntagsfrage-knackt-bsw-bald-die-5-prozent-6a6375d5fe2765826e0fc470",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sonntagsfrage - Knackt das BSW bald die 5 Prozent?",
-      "url": "https://www.bild.de/politik/sonntagsfrage-knackt-das-bsw-bald-die-5-prozent-6a6378d63952477c49b2cfbc",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "890 Millionen Euro - Google hat EU-Strafe nach 18 Stunden wieder drin!",
-      "url": "https://www.bild.de/politik/inland/google-hat-eu-strafe-in-hoehe-von-890-millionen-euro-nach-18-stunden-wieder-drin-6a633403ca0c538adac99045",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Der verpatzte Neustart",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-der-verpatzte-neustart-6a6355ed166bc12eb54f4bf7",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Kaum zu resozialisieren“ - Fast jeder zweite Häftling ist inzwischen Ausländer",
-      "url": "https://www.bild.de/politik/inland/fast-jeder-zweite-haeftling-ist-auslaender-kaum-zu-resozialisieren-6a6358bb166bc12eb54f4c53",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Und DAS soll verfassungsfeindlich sein? - Top-Jurist zerlegt Vorwürfe gegen AfD-Kandidat",
-      "url": "https://www.bild.de/politik/inland/wahl-in-niedersachsen-jurist-zerlegt-vorwuerfe-gegen-afd-mann-sichert-6a62185e26ebb8e13e2eeaba",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schrotflinten-Zoff bei Pistorius - Bundeswehr-Soldaten fürchten um ihr Leben",
-      "url": "https://www.bild.de/politik/inland/pistorius-widersprcht-soldaten-schrotflinten-zoff-bei-der-bundeswehr-6a6078688f5bba832e162d3f",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Eine Schwäche für Putin? - Italiens Filmdiva Ornella Muti will Russin werden",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/eine-schwaeche-fuer-putin-italiens-filmdiva-ornella-muti-will-russin-werden-6a634d203952477c49b2cba9",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Er hasst uns konsequent“ - Russen zittern vor Selenskyjs neuem General",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/er-hasst-uns-russen-zittern-vor-selenskyjs-neuem-general-6a63106026ebb8e13e2ef680",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Jeder gibt seinen Senf dazu - Gaga-Zoff um Fischbrötchen-Plakat der CDU",
-      "url": "https://www.bild.de/politik/inland/wahlkampf-in-meck-pomm-gaga-zoff-um-fischbroetchen-plakat-der-cdu-6a635130b9a97a04edfd91a4",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Legitime Ziele“ - Ukraine greift Russen-Amazon in St. Petersburg an",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/drohenangriff-ukraine-greift-russisches-amazon-in-st-petersburg-an-6a6347d73952477c49b2cb1c",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - Merz stellt seine neue Regierung vor",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Ukraine schießt sich auf „Russlands Amazon“ ein",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-24T17:13:43.694Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Politik-Vodcast: Vertraulich! - Hier baut Merz sein Kabinett um",
-      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-hier-baut-merz-sein-kabinett-um-6a637640166bc12eb54f4f62",
-      "publishedAt": "2026-07-24T17:13:43.693Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Second Lady teilt erstes Familienfoto - Vierter Vance-Spross erobert Instagram",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-second-lady-usha-vance-teilt-erstes-familienfoto-mit-baby-alec-6a6389e6166bc12eb54f5135",
-      "publishedAt": "2026-07-24T17:13:43.693Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Test wird zum Hackerangriff - Der Moment, in dem OpenAI die Kontrolle verlor",
-      "url": "https://www.bild.de/politik/ein-test-wird-zum-hackerangriff-der-moment-in-dem-openai-die-kontrolle-verlor-6a61e286a61f29895b4845e7",
-      "publishedAt": "2026-07-24T17:13:43.693Z",
+      "title": "Neuer Gesundheitsminister - Altes Zitat holt Linnemann ein",
+      "url": "https://www.bild.de/politik/inland/neuer-gesundheitsminister-linnemann-vor-einem-jahr-als-gesundheitsminister-waere-ich-nicht-erfolgreich-gewesen-6a6232f226ebb8e13e2eed9a",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Ein Monat nach den Erdbeben - „Venezuela sieht aus wie ein Kriegsgebiet“",
       "url": "https://www.bild.de/politik/ein-monat-nach-den-erdbeben-venezuela-sieht-aus-wie-ein-kriegsgebiet-6a637795b9a97a04edfd9507",
-      "publishedAt": "2026-07-24T17:13:43.693Z",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ermittlungen eingeleitet - Zebra-Skandal um Viktor Orbán",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ermittlungen-in-ungarn-zebra-skandal-um-ex-regierungschef-viktor-orban-6a63880bfe2765826e0fc5b7",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "890 Millionen Euro - Trump: EU wird „sehr hohen Preis“ für Google-Strafe zahlen",
+      "url": "https://www.bild.de/politik/inland/google-hat-eu-strafe-in-hoehe-von-890-millionen-euro-nach-18-stunden-wieder-drin-6a633403ca0c538adac99045",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - Merz stellt seine neue Regierung vor",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Politik-Vodcast: Vertraulich! - Hier baut Merz sein Kabinett um",
+      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-hier-baut-merz-sein-kabinett-um-6a637640166bc12eb54f4f62",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Second Lady teilt erstes Familienfoto - Vierter Vance-Spross erobert Instagram",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-second-lady-usha-vance-teilt-erstes-familienfoto-mit-baby-alec-6a6389e6166bc12eb54f5135",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Test wird zum Hackerangriff - Der Moment, in dem OpenAI die Kontrolle verlor",
+      "url": "https://www.bild.de/politik/ein-test-wird-zum-hackerangriff-der-moment-in-dem-openai-die-kontrolle-verlor-6a61e286a61f29895b4845e7",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Merz hat keinen Verkehrsminister - Um 4 Uhr morgens kam die Absage per Textnachricht",
       "url": "https://www.bild.de/politik/inland/warum-merz-ploetzlich-ohne-neuen-verkehrsminister-dasteht-um-4-uhr-morgens-kam-die-absage-per-textnachricht-6a63162626ebb8e13e2ef705",
-      "publishedAt": "2026-07-24T17:13:43.693Z",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sonntagsfrage - Knackt BSW bald die 5 Prozent?",
+      "url": "https://www.bild.de/politik/sonntagsfrage-knackt-bsw-bald-die-5-prozent-6a6375d5fe2765826e0fc470",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sonntagsfrage - Knackt das BSW bald die 5 Prozent?",
+      "url": "https://www.bild.de/politik/sonntagsfrage-knackt-das-bsw-bald-die-5-prozent-6a6378d63952477c49b2cfbc",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Der verpatzte Neustart",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-der-verpatzte-neustart-6a6355ed166bc12eb54f4bf7",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Kaum zu resozialisieren“ - Fast jeder zweite Häftling ist inzwischen Ausländer",
+      "url": "https://www.bild.de/politik/inland/fast-jeder-zweite-haeftling-ist-auslaender-kaum-zu-resozialisieren-6a6358bb166bc12eb54f4c53",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Und DAS soll verfassungsfeindlich sein? - Top-Jurist zerlegt Vorwürfe gegen AfD-Kandidat",
+      "url": "https://www.bild.de/politik/inland/wahl-in-niedersachsen-jurist-zerlegt-vorwuerfe-gegen-afd-mann-sichert-6a62185e26ebb8e13e2eeaba",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Schrotflinten-Zoff bei Pistorius - Bundeswehr-Soldaten fürchten um ihr Leben",
+      "url": "https://www.bild.de/politik/inland/pistorius-widersprcht-soldaten-schrotflinten-zoff-bei-der-bundeswehr-6a6078688f5bba832e162d3f",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Eine Schwäche für Putin? - Italiens Filmdiva Ornella Muti will Russin werden",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/eine-schwaeche-fuer-putin-italiens-filmdiva-ornella-muti-will-russin-werden-6a634d203952477c49b2cba9",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Er hasst uns konsequent“ - Russen zittern vor Selenskyjs neuem General",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/er-hasst-uns-russen-zittern-vor-selenskyjs-neuem-general-6a63106026ebb8e13e2ef680",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Jeder gibt seinen Senf dazu - Gaga-Zoff um Fischbrötchen-Plakat der CDU",
+      "url": "https://www.bild.de/politik/inland/wahlkampf-in-meck-pomm-gaga-zoff-um-fischbroetchen-plakat-der-cdu-6a635130b9a97a04edfd91a4",
+      "publishedAt": "2026-07-24T18:47:25.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Waldbrände - Frankreich und Spanien bringen zehntausende Menschen in Sicherheit",
+      "url": "https://www.deutschlandfunk.de/frankreich-und-spanien-bringen-zehntausende-menschen-in-sicherheit-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Bundesregierung zu neuen US-Zöllen: USA sollen Abkommen mit der EU einhalten",
+      "url": "https://www.deutschlandfunk.de/bundesregierung-zu-neuen-us-zoellen-usa-sollen-abkommen-mit-der-eu-einhalten-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland/Ukraine - Russische Raketen auf Kiew - mindestens 10 Tote und über 100 Verletzte",
+      "url": "https://www.deutschlandfunk.de/russische-raketen-auf-kiew-mindestens-10-tote-und-ueber-100-verletzte-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Rekordstrafe gegen Google - Trump bezichtigt EU-Kommission des \"Raubs an US-Konzernen\"",
+      "url": "https://www.deutschlandfunk.de/trump-bezichtigt-eu-kommission-des-raubs-an-us-konzernen-104.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Türkei - Abgesetzter Oppositionsführer Özel verlässt CHP und gründet neue Partei",
+      "url": "https://www.deutschlandfunk.de/abgesetzter-oppositionsfuehrer-oezel-verlaesst-chp-und-gruendet-neue-partei-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsumbildung - Kritik der Opposition an bekanntgewordenen Personalien",
+      "url": "https://www.deutschlandfunk.de/kritik-der-opposition-an-bekanntgewordenen-personalien-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Radsport - Pogacar gewinnt Tour-de-France-Etappe nach Alpe d'Huez",
+      "url": "https://www.deutschlandfunk.de/pogacar-gewinnt-tour-de-france-etappe-nach-alpe-d-huez-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsumbildung - Medienberichte: Bundesverkehrsminister Schnieder muss gehen",
+      "url": "https://www.deutschlandfunk.de/medienberichte-bundesverkehrsminister-schnieder-muss-gehen-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Varta meldet Insolvenz an - aber nicht für Haushaltsbatterien",
+      "url": "https://www.deutschlandfunk.de/varta-meldet-insolvenz-an-aber-nicht-fuer-haushaltsbatterien-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "BKA-Lagebild - Mehr als 40 Prozent weniger Schleuserkriminalität",
+      "url": "https://www.deutschlandfunk.de/mehr-als-40-prozent-weniger-schleuserkriminalitaet-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landeswahlausschuss - 15 Parteien mit Landeswahllisten in Sachsen-Anhalt zugelassen",
+      "url": "https://www.deutschlandfunk.de/15-parteien-mit-landeswahllisten-in-sachsen-anhalt-zugelassen-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Polen - Spaltung bei Polens rechtskonservativer PiS-Partei",
+      "url": "https://www.deutschlandfunk.de/spaltung-bei-polens-rechtskonservativer-pis-partei-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "VW - Gewinn bricht um ein Drittel ein",
+      "url": "https://www.deutschlandfunk.de/gewinn-bricht-um-ein-drittel-ein-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nachfolge von Nagelsmann - Jürgen Klopp offiziell als Bundestrainer bestätigt - Mertesacker wird Geschäftsführer Sport beim DFB",
+      "url": "https://www.deutschlandfunk.de/juergen-klopp-offiziell-als-bundestrainer-bestaetigt-mertesacker-wird-geschaeftsfuehrer-sport-beim-d-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundesverfassungsgericht - Pauschale Rücknahme von Aufnahmezusagen für Afghanen zurückgewiesen",
+      "url": "https://www.deutschlandfunk.de/pauschale-ruecknahme-von-aufnahmezusagen-fuer-afghanen-zurueckgewiesen-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regensburg - Mutmaßlicher Täter nach tödlichem Angriff in Bank in U-Haft",
+      "url": "https://www.deutschlandfunk.de/mutmasslicher-taeter-nach-toedlichem-angriff-in-bank-in-u-haft-102.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundesregierung - Angst um Psychotherapie-Versorgung in Deutschland - Politik versetzt Fachleute und Patienten in Aufruhr",
+      "url": "https://www.deutschlandfunk.de/angst-um-psychotherapie-versorgung-in-deutschland-politik-versetzt-fachleute-und-patienten-in-aufruh-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bayern - Erstmals auch Hinweisschilder auf Freitagsgebete in Moschee aufgehängt - begleitet von islamfeindlichen Reaktionen",
+      "url": "https://www.deutschlandfunk.de/erstmals-auch-hinweisschilder-auf-freitagsgebete-in-moschee-aufgehaengt-begleitet-von-islamfeindlich-100.html",
+      "publishedAt": "2026-07-24T18:36:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Thorsten Frei: Designierter CDU/CSU-Fraktionschef freut sich auf seinen neuen Job",
+      "url": "https://www.spiegel.de/politik/deutschland/thorsten-frei-designierter-cdu-csu-fraktionschef-freut-sich-auf-seinen-neuen-job-a-388291dc-eacf-4e6e-880f-7e0c7baf4a84#ref=rss",
+      "publishedAt": "2026-07-24T18:23:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html",
+      "publishedAt": "2026-07-24T18:18:38.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Debütroman von Şeyda Kurt: Schleichende Versumpfung in sieben Tagen",
+      "url": "https://taz.de/Debuetroman-von-Seyda-Kurt/!6195191/",
+      "publishedAt": "2026-07-24T17:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Der Hassprediger aus Bremen: »Wenn ihr seht, dass jemand die Tat macht, dann sollt ihr beide töten« - SPIEGEL TV",
+      "url": "https://www.spiegel.de/politik/deutschland/der-hassprediger-aus-bremen-wenn-ihr-seht-dass-jemand-die-tat-macht-dann-sollt-ihr-beide-toeten-spiegel-tv-a-17860455-ec9a-4b1f-a178-9ff62d8fca3d#ref=rss",
+      "publishedAt": "2026-07-24T17:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "DFB: Wer braucht schon Meister!",
+      "url": "https://taz.de/DFB/!6195062/",
+      "publishedAt": "2026-07-24T17:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "OpenAIs autonomer KI-Angriff: Verantwortlich ist nach wie vor der Mensch",
+      "url": "https://taz.de/OpenAIs-autonomer-KI-Angriff/!6198641/",
+      "publishedAt": "2026-07-24T17:43:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nach Naturschutz und Regen in der Türkei: Die Rückkehr der Flamingos",
+      "url": "https://taz.de/Nach-Naturschutz-und-Regen-in-der-Tuerkei/!6198785/",
+      "publishedAt": "2026-07-24T17:42:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Mitarbeiterin in Ausländerbehörde: „Frau K. verhält sich, als wäre sie Gott“",
+      "url": "https://taz.de/Mitarbeiterin-in-Auslaenderbehoerde/!6195163/",
+      "publishedAt": "2026-07-24T17:41:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -133,132 +315,6 @@
       "url": "https://www.spiegel.de/politik/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss",
       "publishedAt": "2026-07-24T17:08:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Waldbrände - Frankreich und Spanien bringen zehntausende Menschen in Sicherheit",
-      "url": "https://www.deutschlandfunk.de/frankreich-und-spanien-bringen-zehntausende-menschen-in-sicherheit-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Bundesregierung zu neuen US-Zöllen: USA sollen Abkommen mit der EU einhalten",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-zu-neuen-us-zoellen-usa-sollen-abkommen-mit-der-eu-einhalten-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russland/Ukraine - Russische Raketen auf Kiew - mindestens 10 Tote und über 100 Verletzte",
-      "url": "https://www.deutschlandfunk.de/russische-raketen-auf-kiew-mindestens-10-tote-und-ueber-100-verletzte-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Türkei - Abgesetzter Oppositionsführer Özel verlässt CHP und gründet neue Partei",
-      "url": "https://www.deutschlandfunk.de/abgesetzter-oppositionsfuehrer-oezel-verlaesst-chp-und-gruendet-neue-partei-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsumbildung - Kritik der Opposition an bekanntgewordenen Personalien",
-      "url": "https://www.deutschlandfunk.de/kritik-der-opposition-an-bekanntgewordenen-personalien-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Radsport - Pogacar gewinnt Tour-de-France-Etappe nach Alpe d'Huez",
-      "url": "https://www.deutschlandfunk.de/pogacar-gewinnt-tour-de-france-etappe-nach-alpe-d-huez-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsumbildung - Medienberichte: Bundesverkehrsminister Schnieder muss gehen",
-      "url": "https://www.deutschlandfunk.de/medienberichte-bundesverkehrsminister-schnieder-muss-gehen-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Varta meldet Insolvenz an - aber nicht für Haushaltsbatterien",
-      "url": "https://www.deutschlandfunk.de/varta-meldet-insolvenz-an-aber-nicht-fuer-haushaltsbatterien-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "BKA-Lagebild - Mehr als 40 Prozent weniger Schleuserkriminalität",
-      "url": "https://www.deutschlandfunk.de/mehr-als-40-prozent-weniger-schleuserkriminalitaet-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landeswahlausschuss - 15 Parteien mit Landeswahllisten in Sachsen-Anhalt zugelassen",
-      "url": "https://www.deutschlandfunk.de/15-parteien-mit-landeswahllisten-in-sachsen-anhalt-zugelassen-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Polen - Spaltung bei Polens rechtskonservativer PiS-Partei",
-      "url": "https://www.deutschlandfunk.de/spaltung-bei-polens-rechtskonservativer-pis-partei-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "VW - Gewinn bricht um ein Drittel ein",
-      "url": "https://www.deutschlandfunk.de/gewinn-bricht-um-ein-drittel-ein-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nachfolge von Nagelsmann - Jürgen Klopp offiziell als Bundestrainer bestätigt - Mertesacker wird Geschäftsführer Sport beim DFB",
-      "url": "https://www.deutschlandfunk.de/juergen-klopp-offiziell-als-bundestrainer-bestaetigt-mertesacker-wird-geschaeftsfuehrer-sport-beim-d-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesverfassungsgericht - Pauschale Rücknahme von Aufnahmezusagen für Afghanen zurückgewiesen",
-      "url": "https://www.deutschlandfunk.de/pauschale-ruecknahme-von-aufnahmezusagen-fuer-afghanen-zurueckgewiesen-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Regensburg - Mutmaßlicher Täter nach tödlichem Angriff in Bank in U-Haft",
-      "url": "https://www.deutschlandfunk.de/mutmasslicher-taeter-nach-toedlichem-angriff-in-bank-in-u-haft-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesregierung - Angst um Psychotherapie-Versorgung in Deutschland - Politik versetzt Fachleute und Patienten in Aufruhr",
-      "url": "https://www.deutschlandfunk.de/angst-um-psychotherapie-versorgung-in-deutschland-politik-versetzt-fachleute-und-patienten-in-aufruh-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bayern - Erstmals auch Hinweisschilder auf Freitagsgebete in Moschee aufgehängt - begleitet von islamfeindlichen Reaktionen",
-      "url": "https://www.deutschlandfunk.de/erstmals-auch-hinweisschilder-auf-freitagsgebete-in-moschee-aufgehaengt-begleitet-von-islamfeindlich-100.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kakeya-Vermutung gelöst - Fields-Medaille an junge Mathematiker aus China, den USA und Kanada",
-      "url": "https://www.deutschlandfunk.de/fields-medaille-an-junge-mathematiker-aus-china-den-usa-und-kanada-102.html",
-      "publishedAt": "2026-07-24T17:01:50.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -287,13 +343,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/brenner-lastwagen-stau-100.html",
       "publishedAt": "2026-07-24T15:40:41.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Atomdeal zwischen USA und Saudi-Arabien: Sprengstoff für das Pulverfass Nahost?",
-      "url": "https://taz.de/Atomdeal-zwischen-USA-und-Saudi-Arabien/!6198758/",
-      "publishedAt": "2026-07-24T15:39:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -342,13 +391,6 @@
       "title": "Keine Zulassung für Assistenzhunde: Bailey muss draußen bleiben",
       "url": "https://taz.de/Keine-Zulassung-fuer-Assistenzhunde/!6196377/",
       "publishedAt": "2026-07-24T14:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Waldbrände in Südeuropa: Spanien ruft Notstand aus, Frankreich evakuiert Urlauber",
-      "url": "https://taz.de/Waldbraende-in-Suedeuropa/!6199100/",
-      "publishedAt": "2026-07-24T14:03:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -423,20 +465,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "CSD in Berlin: Kuschelkurs statt Haltung",
-      "url": "https://taz.de/CSD-in-Berlin/!6198689/",
-      "publishedAt": "2026-07-24T12:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gerichtsvorladung zurückgezogen: Erfolg für „New York Times“ bei Streit mit Trump-Regierung",
-      "url": "https://taz.de/Gerichtsvorladung-zurueckgezogen/!6198754/",
-      "publishedAt": "2026-07-24T11:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Graphic Novel zur Sportgeschichte: Kicker, Kolonien, Klassen",
       "url": "https://taz.de/Graphic-Novel-zur-Sportgeschichte/!6198388/",
       "publishedAt": "2026-07-24T11:37:00.000Z",
@@ -447,13 +475,6 @@
       "title": "Film „H wie Habicht“: Der Trost liegt in der Natur",
       "url": "https://taz.de/Bestseller-Adaption-H-wie-Habicht-Fragiles-Gleichgewicht-zwischen-Leid-und-Zuversicht/!6198516/",
       "publishedAt": "2026-07-24T11:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Geleaktes Frontex-Video: Wie rechte Medien gegen Sea-Watch hetzen",
-      "url": "https://taz.de/Kampagne-gegen-Seenotrettung/!6198761/",
-      "publishedAt": "2026-07-24T11:33:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -695,25 +716,11 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Ukraine-Krieg: Wer das neue EU-Sanktionspaket gegen Russland verwässerte",
-      "url": "https://www.spiegel.de/politik/deutschland/ukraine-krieg-wer-das-neue-eu-sanktionspaket-gegen-russland-verwaesserte-a-b004b568-031d-4621-a31f-89ac3a7dbc6f#ref=rss",
-      "publishedAt": "2026-07-23T14:33:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Britischer Premier Burnham senkt die Gewerbesteuer für Pubs, Clubs & Live-Musik",
       "url": "https://www.tagesschau.de/ausland/europa/gewerbesteuer-grossbritannien-100.html",
       "publishedAt": "2026-07-23T14:30:14.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Afghanistan: Bundesregierung weitet Abschiebungen aus – Kritik von Amnesty International",
-      "url": "https://www.spiegel.de/politik/deutschland/afghanistan-bundesregierung-weitet-abschiebungen-aus-kritik-von-amnesty-international-a-217ad7e5-295d-4a57-bdab-ef385146b669#ref=rss",
-      "publishedAt": "2026-07-23T13:49:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -811,13 +818,6 @@
       "title": "Frei als Fraktionschef: Stühlerücken für mehr Stabilität in der Union?",
       "url": "https://www.tagesschau.de/inland/innenpolitik/fraktionschef-frei-union-100.html",
       "publishedAt": "2026-07-22T16:32:28.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Kanzleramtschef Frei soll neuer Fraktionsvorsitzender der Union werden",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/unionsfraktion-vorsitz-frei-100.html",
-      "publishedAt": "2026-07-22T16:00:54.000Z",
       "category": "INNENPOLITIK"
     },
     {
