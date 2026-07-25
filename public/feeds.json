@@ -1,130 +1,312 @@
 {
-  "updatedAt": "2026-07-25T11:49:43.378Z",
+  "updatedAt": "2026-07-25T14:01:56.556Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "890 Millionen Euro - Trump: EU wird „sehr hohen Preis“ für Google-Strafe zahlen",
-      "url": "https://www.bild.de/politik/inland/google-hat-eu-strafe-in-hoehe-von-890-millionen-euro-nach-18-stunden-wieder-drin-6a633403ca0c538adac99045",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Entweder Minister oder Parteichefs - Ultimatum aus der SPD-Basis für Bas und Klingbeil",
-      "url": "https://www.bild.de/politik/inland/ultimatum-aus-spd-basis-fuer-bas-und-klingbeil-minister-oder-parteichefs-6a644960fe2765826e0fca78",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Uran für die Saudis? - Deal verrät mehr über Trump, als ihm lieb ist",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/uran-fuer-die-saudis-dieses-abkommen-verraet-mehr-ueber-trump-als-ihm-lieb-ist-6a637d28166bc12eb54f5006",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bald-Fraktionschef verteidigt Kanzler - Frei spricht von „Pech“ bei Merz’ Minister-Chaos",
-      "url": "https://www.bild.de/politik/inland/bald-fraktionschef-verteidigt-merz-frei-spricht-von-pech-bei-minister-chaos-6a63ba2ffe2765826e0fc7cc",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Ukraine schießt sich auf „Russlands Amazon“ ein",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Vorwurf: Sexueller Missbrauch - Chefankläger des Weltstrafgerichts entlassen",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/vorwurf-sexueller-missbrauch-chefanklaeger-des-weltstrafgerichts-entlassen-6a63f661166bc12eb54f5545",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nächste absurde Maßnahme - Wegen Durchfall! Trump droht Mexiko mit Zöllen",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-durchfall-trump-droht-mexiko-mit-zoellen-6a63e25ffe2765826e0fc8f0",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neuer Gesundheitsminister - Altes Zitat holt Linnemann ein",
-      "url": "https://www.bild.de/politik/inland/neuer-gesundheitsminister-linnemann-vor-einem-jahr-als-gesundheitsminister-waere-ich-nicht-erfolgreich-gewesen-6a6232f226ebb8e13e2eed9a",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ein Monat nach den Erdbeben - „Venezuela sieht aus wie ein Kriegsgebiet“",
-      "url": "https://www.bild.de/politik/ein-monat-nach-den-erdbeben-venezuela-sieht-aus-wie-ein-kriegsgebiet-6a637795b9a97a04edfd9507",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ermittlungen eingeleitet - Zebra-Skandal um Viktor Orbán",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ermittlungen-in-ungarn-zebra-skandal-um-ex-regierungschef-viktor-orban-6a63880bfe2765826e0fc5b7",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - Merz stellt seine neue Regierung vor",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-25T11:49:43.321Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neues Renten-Geschenk für Kinder - Wer sich jetzt 53.000 Euro sichern kann",
-      "url": "https://www.bild.de/politik/inland/staat-zahlt-kindern-beitrag-fuer-die-rente-wer-sich-jetzt-53-000-euro-sichern-kann-6a60d63d51897532dc73a40a",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Exklusiv bei BILD - Linnemann erklärt, warum er doch Gesundheit kann",
-      "url": "https://www.bild.de/politik/inland/exklusiv-bei-bild-linnemann-erklaert-warum-er-doch-gesundheit-kann-6a6476b0166bc12eb54f5953",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Umgang mit seinem Verkehrsminister - Wut auf Merz an der CDU-Basis!",
-      "url": "https://www.bild.de/politik/inland/umgang-mit-seinem-verkehrsminister-wut-auf-merz-an-der-cdu-basis-6a644a40fe2765826e0fca80",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Das sagen die BILD-Leser - „Klopp ist ein Profi – Merz eben nicht“",
       "url": "https://www.bild.de/politik/inland/merz-oder-klopp-bild-leser-faellen-klares-urteil-6a646a23166bc12eb54f5891",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Trump 2028? - „Jetzt trete ich ein viertes Mal an!“",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-2028-jetzt-trete-ich-ein-viertes-mal-an-6a647cdd65564fc8c9e6ce2a",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
+      "title": "„New York Times“ exklusiv - Mullahs wollten Trump beim Nato-Gipfel ermorden",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/new-york-times-mullahs-wollten-trump-beim-nato-gipfel-ermorden-6a64823ffe2765826e0fcd1a",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Philipp Amthor wird Staatsminister - Per Achterbahn ins Kanzleramt",
       "url": "https://www.bild.de/politik/inland/philipp-amthor-wird-staatsminister-per-achterbahn-aufstieg-ins-kanzleramt-6a6316ceefccf0c0d55378e0",
-      "publishedAt": "2026-07-25T11:49:43.320Z",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiv bei BILD - Linnemann erklärt, warum er doch Gesundheit kann",
+      "url": "https://www.bild.de/politik/inland/exklusiv-bei-bild-linnemann-erklaert-warum-er-doch-gesundheit-kann-6a6476b0166bc12eb54f5953",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Um dieses Video geht es - Vor einem Jahr sprach Linnemann noch anders",
+      "url": "https://www.bild.de/politik/inland/um-dieses-video-geht-es-vor-einem-jahr-sprach-linnemann-noch-anders-6a64a952fe2765826e0fcf3d",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Tischtennis-Verbot - Nachfolgerin sperrt Lauterbach aus",
+      "url": "https://www.bild.de/politik/inland/sondererlaubnis-weg-nachfolgerin-sperrt-lauterbach-aus-68469ae4eaf9b317dbcfda30",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Betrachtung von Filipp Piatov - Der größte Unterschied zwischen Klopp und Merz",
+      "url": "https://www.bild.de/politik/inland/essay-von-filipp-piatov-der-groesste-unterschied-zwischen-klopp-und-merz-6a64711a29fff39d0af2deb8",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neues Renten-Geschenk für Kinder - Wer sich jetzt 53.000 Euro sichern kann",
+      "url": "https://www.bild.de/politik/inland/staat-zahlt-kindern-beitrag-fuer-die-rente-wer-sich-jetzt-53-000-euro-sichern-kann-6a60d63d51897532dc73a40a",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umgang mit seinem Verkehrsminister - Wut auf Merz an der CDU-Basis!",
+      "url": "https://www.bild.de/politik/inland/umgang-mit-seinem-verkehrsminister-wut-auf-merz-an-der-cdu-basis-6a644a40fe2765826e0fca80",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump 2028? - „Jetzt trete ich ein viertes Mal an!“",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-2028-jetzt-trete-ich-ein-viertes-mal-an-6a647cdd65564fc8c9e6ce2a",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "890 Millionen Euro - Trump: EU wird „sehr hohen Preis“ für Google-Strafe zahlen",
+      "url": "https://www.bild.de/politik/inland/google-hat-eu-strafe-in-hoehe-von-890-millionen-euro-nach-18-stunden-wieder-drin-6a633403ca0c538adac99045",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Entweder Minister oder Parteichefs - Ultimatum aus der SPD-Basis für Bas und Klingbeil",
+      "url": "https://www.bild.de/politik/inland/ultimatum-aus-spd-basis-fuer-bas-und-klingbeil-minister-oder-parteichefs-6a644960fe2765826e0fca78",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Uran für die Saudis? - Deal verrät mehr über Trump, als ihm lieb ist",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/uran-fuer-die-saudis-dieses-abkommen-verraet-mehr-ueber-trump-als-ihm-lieb-ist-6a637d28166bc12eb54f5006",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bald-Fraktionschef verteidigt Kanzler - Frei spricht von „Pech“ bei Merz’ Minister-Chaos",
+      "url": "https://www.bild.de/politik/inland/bald-fraktionschef-verteidigt-merz-frei-spricht-von-pech-bei-minister-chaos-6a63ba2ffe2765826e0fc7cc",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Ukraine schießt sich auf „Russlands Amazon“ ein",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vorwurf: Sexueller Missbrauch - Chefankläger des Weltstrafgerichts entlassen",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/vorwurf-sexueller-missbrauch-chefanklaeger-des-weltstrafgerichts-entlassen-6a63f661166bc12eb54f5545",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nächste absurde Maßnahme - Wegen Durchfall! Trump droht Mexiko mit Zöllen",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-durchfall-trump-droht-mexiko-mit-zoellen-6a63e25ffe2765826e0fc8f0",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-07-25T14:01:56.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Beispielloses Ausmaß\" - Waldbrände in Frankreich und Spanien außer Kontrolle - mehr als 250.000 Menschen in Sicherheit gebracht - erste Vororte von Bordeaux evakuiert",
+      "url": "https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-ausser-kontrolle-mehr-als-250-000-menschen-in-sicherheit-gebra-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"La Parisienne\" - Französische Chansonsängerin Marie Paule Belle gestorben",
+      "url": "https://www.deutschlandfunk.de/franzoesische-chansonsaengerin-marie-paule-belle-gestorben-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Weitere gegenseitige Angriffe - 8 Tote im russisch besetzten Teil von Saporischschja",
+      "url": "https://www.deutschlandfunk.de/weitere-gegenseitige-angriffe-8-tote-im-russisch-besetzten-teil-von-saporischschja-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheitspolitik - Marburger Bund: Linnemann muss Expertise der Ärzteschaft einbinden",
+      "url": "https://www.deutschlandfunk.de/marburger-bund-linnemann-muss-expertise-der-aerzteschaft-einbinden-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Resolution - Chefankläger am internationalen Strafgerichtshof abgesetzt",
+      "url": "https://www.deutschlandfunk.de/chefanklaeger-am-internationalen-strafgerichtshof-abgesetzt-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Kakerlaken-Bewegung\" - Indiens Bildungsminister tritt nach Jugend-Protesten zurück",
+      "url": "https://www.deutschlandfunk.de/indiens-bildungsminister-tritt-nach-jugend-protesten-zurueck-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "48. Pride-Parade - Hunderttausende zu Demonstration bei Christopher Street Day in Berlin",
+      "url": "https://www.deutschlandfunk.de/hunderttausende-zu-demonstration-bei-christopher-street-day-in-berlin-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bayern - Hinweisschild auf Freitagsgebete in Penzberger Moschee beschmiert - Islamische Gemeinde: \"Treten weiter für friedliches Miteinander ein\"",
+      "url": "https://www.deutschlandfunk.de/hinweisschild-auf-freitagsgebete-in-penzberger-moschee-beschmiert-islamische-gemeinde-treten-weiter--100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Globale Justiz - Venezuela tritt aus Internationalem Strafgerichtshof aus",
+      "url": "https://www.deutschlandfunk.de/venezuela-tritt-aus-internationalem-strafgerichtshof-aus-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Vereinte Nationen - UNO-Generalsekretär Guterres besucht Syrien",
+      "url": "https://www.deutschlandfunk.de/uno-generalsekretaer-guterres-besucht-syrien-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Urteil des Bundesverfassungsgerichts - Aufnahmeprogramm für afghanische Flüchtlinge: Amnesty und EKD begrüßen Einzelfallprüfung",
+      "url": "https://www.deutschlandfunk.de/aufnahmeprogramm-fuer-afghanische-fluechtlinge-amnesty-und-ekd-begruessen-einzelfallpruefung-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sinkende Impfquoten - Höchste Zahl an Masern-Infektionen in den USA seit 35 Jahren - Experten verweisen auf Impfskepsis von Gesundheitsminister Kennedy",
+      "url": "https://www.deutschlandfunk.de/hoechste-zahl-an-masern-infektionen-in-den-usa-seit-35-jahren-experten-verweisen-auf-impfskepsis-von-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Luftraumverletzung - Erneut ausländische Drohne über Rumänien abgeschossen",
+      "url": "https://www.deutschlandfunk.de/erneut-auslaendische-drohne-ueber-rumaenien-abgeschossen-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verfassungsschutz - Warnung vor Radikalisierung junger Männer in \"Active Clubs\"",
+      "url": "https://www.deutschlandfunk.de/warnung-vor-radikalisierung-junger-maenner-in-active-clubs-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Venezuela - Schweigeminute für Erdbebenopfer einen Monat nach der Katastrophe",
+      "url": "https://www.deutschlandfunk.de/schweigeminute-fuer-erdbebenopfer-einen-monat-nach-der-katastrophe-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundesverband der Deutschen Industrie - Gönner: Industrie verliert monatlich 15.000 Arbeitsplätze",
+      "url": "https://www.deutschlandfunk.de/goenner-industrie-verliert-monatlich-15-000-arbeitsplaetze-100.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "US-Militär - Präsident Trump nominiert neuen Befehlshaber der Landstreitkräfte in Europa und Afrika",
+      "url": "https://www.deutschlandfunk.de/praesident-trump-nominiert-neuen-befehlshaber-der-landstreitkraefte-in-europa-und-afrika-104.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheitskosten - Versicherte zahlen für Hilfsmittel inzwischen 1,1 Milliarden Euro extra",
+      "url": "https://www.deutschlandfunk.de/versicherte-zahlen-fuer-hilfsmittel-inzwischen-1-1-milliarden-euro-extra-102.html",
+      "publishedAt": "2026-07-25T13:54:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neues Buch von Maggie Nelson: Choose your battles",
+      "url": "https://taz.de/Neues-Buch-von-Maggie-Nelson/!6198416/",
+      "publishedAt": "2026-07-25T13:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Jugendproteste in Indien beendet: „Kakerlaken“-Bewegung erzwingt Rücktritt des Bildungsministers",
+      "url": "https://taz.de/Jugendproteste-in-Indien/!6199158/",
+      "publishedAt": "2026-07-25T13:22:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Neue Kritik aus der CDU nach Rochade – »Bundesregierung sollte nicht wie ein Feudalkönigreich geführt werden«",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-neue-kritik-aus-der-cdu-nach-rochade-bundesregierung-sollte-nicht-wie-ein-feudalkoenigreich-gefuehrt-werden-a-c7fd17de-17bd-40b6-94f4-5897325e87c0#ref=rss",
+      "publishedAt": "2026-07-25T13:17:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
+      "url": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html",
+      "publishedAt": "2026-07-25T12:50:47.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Künftiger Gesundheitsminister Linnemann: Ahnungslos, aber ganz viel Meinung",
+      "url": "https://taz.de/Kuenftiger-Gesundheitsminister-Linnemann/!6199156/",
+      "publishedAt": "2026-07-25T12:28:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
+      "url": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html",
+      "publishedAt": "2026-07-25T12:23:30.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Videobeweis beim Fußball: War der Ball in Wembley 1966 doch drin?",
+      "url": "https://taz.de/Videobeweis-beim-Fussball/!6195068/",
+      "publishedAt": "2026-07-25T12:18:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Klima-News der Woche: Bricht so die Energiewende zusammen?",
+      "url": "https://taz.de/Die-Klima-News-der-Woche/!6199111/",
+      "publishedAt": "2026-07-25T12:18:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -139,139 +321,6 @@
       "title": "Nach Bericht über Air Force One: Trump und kritische Journalisten - ein \"Stresstest\"",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-nyt-100.html",
       "publishedAt": "2026-07-25T11:41:35.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Beispielloses Ausmaß\" - Waldbrände in Frankreich und Spanien weiter außer Kontrolle - mehr als 160.000 Menschen in Sicherheit gebracht - erste Vororte von Bordeaux evakuiert",
-      "url": "https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-weiter-ausser-kontrolle-mehr-als-160-000-menschen-in-sicherhei-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheitspolitik - Marburger Bund: Linnemann muss Expertise der Ärzteschaft einbinden",
-      "url": "https://www.deutschlandfunk.de/marburger-bund-linnemann-muss-expertise-der-aerzteschaft-einbinden-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Resolution - Chefankläger am internationalen Strafgerichtshof abgesetzt",
-      "url": "https://www.deutschlandfunk.de/chefanklaeger-am-internationalen-strafgerichtshof-abgesetzt-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Kakerlaken-Bewegung\" - Indiens Bildungsminister tritt nach Jugend-Protesten zurück",
-      "url": "https://www.deutschlandfunk.de/indiens-bildungsminister-tritt-nach-jugend-protesten-zurueck-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "48. Pride-Parade - Hunderttausende zu Demonstration bei Christopher Street Day in Berlin",
-      "url": "https://www.deutschlandfunk.de/hunderttausende-zu-demonstration-bei-christopher-street-day-in-berlin-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Globale Justiz - Venezuela tritt aus Internationalem Strafgerichtshof aus",
-      "url": "https://www.deutschlandfunk.de/venezuela-tritt-aus-internationalem-strafgerichtshof-aus-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Vereinte Nationen - UNO-Generalsekretär Guterres besucht Syrien",
-      "url": "https://www.deutschlandfunk.de/uno-generalsekretaer-guterres-besucht-syrien-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Urteil des Bundesverfassungsgerichts - Aufnahmeprogramm für afghanische Flüchtlinge: Amnesty und EKD begrüßen Einzelfallprüfung",
-      "url": "https://www.deutschlandfunk.de/aufnahmeprogramm-fuer-afghanische-fluechtlinge-amnesty-und-ekd-begruessen-einzelfallpruefung-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sinkende Impfquoten - Höchste Zahl an Masern-Infektionen in den USA seit 35 Jahren - Experten verweisen auf Impfskepsis von Gesundheitsminister Kennedy",
-      "url": "https://www.deutschlandfunk.de/hoechste-zahl-an-masern-infektionen-in-den-usa-seit-35-jahren-experten-verweisen-auf-impfskepsis-von-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Luftraumverletzung - Erneut ausländische Drohne über Rumänien abgeschossen",
-      "url": "https://www.deutschlandfunk.de/erneut-auslaendische-drohne-ueber-rumaenien-abgeschossen-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verfassungsschutz - Warnung vor Radikalisierung junger Männer in \"Active Clubs\"",
-      "url": "https://www.deutschlandfunk.de/warnung-vor-radikalisierung-junger-maenner-in-active-clubs-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Venezuela - Schweigeminute für Erdbebenopfer einen Monat nach der Katastrophe",
-      "url": "https://www.deutschlandfunk.de/schweigeminute-fuer-erdbebenopfer-einen-monat-nach-der-katastrophe-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesverband der Deutschen Industrie - Gönner: Industrie verliert monatlich 15.000 Arbeitsplätze",
-      "url": "https://www.deutschlandfunk.de/goenner-industrie-verliert-monatlich-15-000-arbeitsplaetze-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "US-Militär - Präsident Trump nominiert neuen Befehlshaber der Landstreitkräfte in Europa und Afrika",
-      "url": "https://www.deutschlandfunk.de/praesident-trump-nominiert-neuen-befehlshaber-der-landstreitkraefte-in-europa-und-afrika-104.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheitskosten - Versicherte zahlen für Hilfsmittel inzwischen 1,1 Milliarden Euro extra",
-      "url": "https://www.deutschlandfunk.de/versicherte-zahlen-fuer-hilfsmittel-inzwischen-1-1-milliarden-euro-extra-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Videoplattform - Kulturstaatsminister Weimer: Europäische Eigentümerstruktur von TikTok notwendig\" - Platformen sollten Abgabe zahlen",
-      "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-europaeische-eigentuemerstruktur-von-tiktok-notwendig-platformen-sollten-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Iran-Krieg - US-Militär schießt ‌einen Tanker im Golf ​von Oman manövrierunfähig",
-      "url": "https://www.deutschlandfunk.de/us-militaer-schiesst-einen-tanker-im-golf-von-oman-manoevrierunfaehig-102.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Rotes Meer - Von Saudi-Arabien geführte Militärkoalition greift Huthi-Ziele im Jemen an, Berichte über Gegenangriffe",
-      "url": "https://www.deutschlandfunk.de/von-saudi-arabien-gefuehrte-militaerkoalition-greift-huthi-ziele-im-jemen-an-berichte-ueber-gegenang-100.html",
-      "publishedAt": "2026-07-25T11:34:33.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
-      "url": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html",
-      "publishedAt": "2026-07-25T11:14:53.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -346,13 +395,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Personalwechsel bei der CDU: Ist die Kabinettsumbildung ein echter Neustart?",
-      "url": "https://taz.de/Personalwechsel-bei-der-CDU/!6199145/",
-      "publishedAt": "2026-07-25T09:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Neue Zoll-Drohungen aus den USA: Trump klagt über Diskriminierung und Durchfall",
       "url": "https://taz.de/Neue-Zoll-Drohungen-aus-den-USA/!6199139/",
       "publishedAt": "2026-07-25T08:34:00.000Z",
@@ -392,27 +434,6 @@
       "url": "https://taz.de/Polens-Rechte-in-der-Krise/!6199137/",
       "publishedAt": "2026-07-25T07:24:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Die Wahrheit: Die Ungesundes mit den Händen machen",
-      "url": "https://taz.de/Die-Wahrheit/!6195116/",
-      "publishedAt": "2026-07-25T07:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Schwuler Vater über seinen Kinderwunsch: „Ich wollte keine fremde Frau ausbeuten“",
-      "url": "https://taz.de/Schwuler-Vater-ueber-seinen-Kinderwunsch/!6195196/",
-      "publishedAt": "2026-07-25T07:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
-      "url": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html",
-      "publishedAt": "2026-07-25T07:06:30.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -486,13 +507,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "DFB: Wer braucht schon Meister!",
-      "url": "https://taz.de/DFB/!6195062/",
-      "publishedAt": "2026-07-24T17:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Mitarbeiterin in Ausländerbehörde: „Frau K. verhält sich, als wäre sie Gott“",
       "url": "https://taz.de/Mitarbeiterin-in-Auslaenderbehoerde/!6195163/",
       "publishedAt": "2026-07-24T17:41:00.000Z",
@@ -503,13 +517,6 @@
       "title": "CDU: Carsten Linnemann zweifelte an seiner Eignung als Gesundheitsminister",
       "url": "https://www.spiegel.de/politik/deutschland/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss",
       "publishedAt": "2026-07-24T17:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach Verlegung von Gaza-Veranstaltung: Ist die humanitäre Hilfe in Gaza neutral genug?",
-      "url": "https://taz.de/Nach-Verlegung-von-Gaza-Veranstaltung/!6198308/",
-      "publishedAt": "2026-07-24T16:49:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -714,13 +721,6 @@
       "url": "https://www.tagesschau.de/ausland/gueterres-debatte-100.html",
       "publishedAt": "2026-07-24T05:37:31.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Carsten Linnemann, Kabinettsumbildung in Berlin, Leihmütter, Tod eines Epstein-Komplizen",
-      "url": "https://www.spiegel.de/politik/deutschland/news-carsten-linnemann-kabinettsumbildung-in-berlin-leihmuetter-tod-eines-epstein-komplizen-a-d7f9e73b-cb45-402b-9fcc-81d16e53f663#ref=rss",
-      "publishedAt": "2026-07-24T03:41:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
