@@ -1,130 +1,284 @@
 {
-  "updatedAt": "2026-07-26T11:08:53.371Z",
+  "updatedAt": "2026-07-26T12:16:46.494Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "JU-Chef Johannes Winkel - „Eine Ideologie erklärt unserer Gesellschaft den Krieg“",
-      "url": "https://www.bild.de/politik/inland/ju-chef-zu-csd-terror-islamismus-erklaert-unserer-gesellschaft-den-krieg-6a65d1d0e4e0a5362b8fbf92",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Ära unglaublicher Fülle“ wegen KI - Musk: In zehn Jahren kann sich jeder alles leisten",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-mit-prognose-zu-ki-in-zehn-jahren-kann-sich-jeder-alles-leisten-6a65d60be4e0a5362b8fc06d",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Polizeigewerkschafter Ostermann - „Wie lange wollen wir noch zuschauen?“",
-      "url": "https://www.bild.de/politik/inland/polizeigewerkschafter-ostermann-wie-lange-wollen-wir-noch-zuschauen-6a65b796fe2765826e0fd93a",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Interview mit Alexander Hoffmann - CSU fordert Drohnen-Abkommen mit der Ukraine",
-      "url": "https://www.bild.de/politik/inland/csu-fordert-drohnen-abkommen-mit-der-ukraine-fuer-mehr-sicherheit-6a6351e4166bc12eb54f4b94",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar von Chefredakteur Robert Schneider - Die SPD macht nicht weniger Blödsinn als Merz",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-chefredakteur-robert-schneider-die-spd-macht-nicht-weniger-bloedsinn-als-merz-6a64ce472d42c378bab76892",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Anruf auf dem Campingplatz - So misslang die Kanzler-Mission Ministertausch",
-      "url": "https://www.bild.de/politik/inland/anruf-auf-dem-campingplatz-so-misslang-die-kanzler-mission-ministertausch-6a6357c7166bc12eb54f4c28",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Feuerkatastrophen in Südeuropa - Was haben Waldbrände mit dem Klimawandel zu tun?",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/waldbraende-in-suedeuropa-welche-rolle-spielt-der-klimawandel-6a6358733952477c49b2cccf",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
-      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Im Keller des Gesundheitsministeriums - Lauterbach fordert Linnemann zum Tischtennis-Duell",
-      "url": "https://www.bild.de/politik/inland/im-keller-des-gesundheitsministeriums-lauterbach-fordert-linnemann-zum-tischtennis-duell-6a634150b9a97a04edfd9050",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Diebstahls mit Waffen - Staatsanwalt ermittelt gegen Bundeswehr-Helden",
-      "url": "https://www.bild.de/politik/inland/wegen-diebstahls-mit-waffen-staatsanwalt-ermittelt-gegen-fuenf-bundeswehr-helden-6a6382fffe2765826e0fc55e",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Verkehrsminister kalt erwischt - Im Island-Urlaub kam der Schock-Anruf von Merz",
-      "url": "https://www.bild.de/politik/inland/verkehrsminister-schnieder-von-kanzler-merz-im-island-urlaub-gefeuert-6a647a3d29fff39d0af2df26",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Rausschmiss von Schnieder - Jetzt rebelliert die Union",
-      "url": "https://www.bild.de/politik/inland/rausschmiss-von-schnieder-jetzt-rebelliert-die-union-6a650e69166bc12eb54f636e",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "CSU-Landesgruppenchef bei BILD - Was wird mit Frei anders als mit Spahn, Herr Hoffmann?",
-      "url": "https://www.bild.de/politik/csu-landesgruppenchef-bei-bild-was-wird-mit-frei-anders-als-mit-spahn-herr-hoffmann-6a6355c0fe2765826e0fc204",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Firework“ für Bombenangriffe - Katy Perry tobt über TikTok-Clip des Weißen Hauses",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/firework-als-soundtrack-fuer-iranattacken-katy-perry-wuetet-gegen-trump-6a64e63b166bc12eb54f6150",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Umgang mit seinem Verkehrsminister - Wut auf Merz an der CDU-Basis!",
       "url": "https://www.bild.de/politik/inland/umgang-mit-seinem-verkehrsminister-wut-auf-merz-an-der-cdu-basis-6a644a40fe2765826e0fca80",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
+      "publishedAt": "2026-07-26T12:16:46.491Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "„Pickaxe Mountain“ im Iran - Das ist die Einfahrt zur Atomhölle der Mullahs",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-pickaxe-mountain-angreifen-die-einfahrt-zur-atomhoelle-der-mullahs-6a61d479efccf0c0d5536714",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
+      "publishedAt": "2026-07-26T12:16:46.491Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Bei ihm kann der Kanzler noch lernen - So feiert das Netz Philipp Amthor",
       "url": "https://www.bild.de/politik/inland/bei-ihm-kann-der-kanzler-noch-lernen-so-feiert-das-netz-philipp-amthor-6a649f61166bc12eb54f5c11",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
+      "publishedAt": "2026-07-26T12:16:46.491Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ricarda Lang über ihren neuen Lebensstil - „Früher habe ich den Stress weggegessen“",
-      "url": "https://www.bild.de/politik/inland/ricarda-lang-ueber-ihren-neuen-lebensstil-frueher-habe-ich-den-stress-weggegessen-6a64b2d9166bc12eb54f5d70",
-      "publishedAt": "2026-07-26T11:08:52.609Z",
+      "title": "BILD exklusiv - CSD-Terror: Merz kommt zu Trauer-Gottesdienst nach Berlin",
+      "url": "https://www.bild.de/politik/inland/csd-terror-merz-kommt-zu-trauer-gottesdienst-nach-berlin-6a65f63a1ef2b4202d8576cc",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Anruf auf dem Campingplatz - So misslang die Kanzler-Mission Ministertausch",
+      "url": "https://www.bild.de/politik/inland/anruf-auf-dem-campingplatz-so-misslang-die-kanzler-mission-ministertausch-6a6357c7166bc12eb54f4c28",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "JU-Chef Johannes Winkel - „Eine Ideologie erklärt unserer Gesellschaft den Krieg“",
+      "url": "https://www.bild.de/politik/inland/ju-chef-zu-csd-terror-islamismus-erklaert-unserer-gesellschaft-den-krieg-6a65d1d0e4e0a5362b8fbf92",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Ära unglaublicher Fülle“ wegen KI - Musk: In zehn Jahren kann sich jeder alles leisten",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-mit-prognose-zu-ki-in-zehn-jahren-kann-sich-jeder-alles-leisten-6a65d60be4e0a5362b8fc06d",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Polizeigewerkschafter Ostermann - „Wie lange wollen wir noch zuschauen?“",
+      "url": "https://www.bild.de/politik/inland/polizeigewerkschafter-ostermann-wie-lange-wollen-wir-noch-zuschauen-6a65b796fe2765826e0fd93a",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Interview mit Alexander Hoffmann - CSU fordert Drohnen-Abkommen mit der Ukraine",
+      "url": "https://www.bild.de/politik/inland/csu-fordert-drohnen-abkommen-mit-der-ukraine-fuer-mehr-sicherheit-6a6351e4166bc12eb54f4b94",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von Chefredakteur Robert Schneider - Die SPD macht nicht weniger Blödsinn als Merz",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-chefredakteur-robert-schneider-die-spd-macht-nicht-weniger-bloedsinn-als-merz-6a64ce472d42c378bab76892",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Feuerkatastrophen in Südeuropa - Was haben Waldbrände mit dem Klimawandel zu tun?",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/waldbraende-in-suedeuropa-welche-rolle-spielt-der-klimawandel-6a6358733952477c49b2cccf",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
+      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Im Keller des Gesundheitsministeriums - Lauterbach fordert Linnemann zum Tischtennis-Duell",
+      "url": "https://www.bild.de/politik/inland/im-keller-des-gesundheitsministeriums-lauterbach-fordert-linnemann-zum-tischtennis-duell-6a634150b9a97a04edfd9050",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Diebstahls mit Waffen - Staatsanwalt ermittelt gegen Bundeswehr-Helden",
+      "url": "https://www.bild.de/politik/inland/wegen-diebstahls-mit-waffen-staatsanwalt-ermittelt-gegen-fuenf-bundeswehr-helden-6a6382fffe2765826e0fc55e",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Verkehrsminister kalt erwischt - Im Island-Urlaub kam der Schock-Anruf von Merz",
+      "url": "https://www.bild.de/politik/inland/verkehrsminister-schnieder-von-kanzler-merz-im-island-urlaub-gefeuert-6a647a3d29fff39d0af2df26",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Rausschmiss von Schnieder - Jetzt rebelliert die Union",
+      "url": "https://www.bild.de/politik/inland/rausschmiss-von-schnieder-jetzt-rebelliert-die-union-6a650e69166bc12eb54f636e",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CSU-Landesgruppenchef bei BILD - Was wird mit Frei anders als mit Spahn, Herr Hoffmann?",
+      "url": "https://www.bild.de/politik/csu-landesgruppenchef-bei-bild-was-wird-mit-frei-anders-als-mit-spahn-herr-hoffmann-6a6355c0fe2765826e0fc204",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Firework“ für Bombenangriffe - Katy Perry tobt über TikTok-Clip des Weißen Hauses",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/firework-als-soundtrack-fuer-iranattacken-katy-perry-wuetet-gegen-trump-6a64e63b166bc12eb54f6150",
+      "publishedAt": "2026-07-26T12:16:46.490Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Eine Tote, 16 Verletzte - Fahndung nach 21-Jährigem: So ist der Stand nach der Gewalttat beim CSD in Berlin",
+      "url": "https://www.deutschlandfunk.de/fahndung-nach-21-jaehrigem-so-ist-der-stand-nach-der-gewalttat-beim-csd-in-berlin-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gewaltat beim CSD - Trauer in queerer Community: \"Regenbogen hat einen Riss bekommen\"",
+      "url": "https://www.deutschlandfunk.de/trauer-in-queerer-community-regenbogen-hat-einen-riss-bekommen-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein",
+      "url": "https://www.deutschlandfunk.de/zweite-nacht-ohne-us-angriff-iran-stellt-attacken-ebenfalls-ein-102.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Westjordanland - Israelische Siedler zünden Moscheen an",
+      "url": "https://www.deutschlandfunk.de/israelische-siedler-zuenden-moscheen-an-102.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Südeuropa - Waldbrände: Weitere massenhafte Evakuierungen in Frankreich und Spanien",
+      "url": "https://www.deutschlandfunk.de/waldbraende-weitere-massenhafte-evakuierungen-in-frankreich-und-spanien-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsumbildung - Kritik innerhalb der CDU an Merz wegen des Umgangs mit Verkehrsminister Schnieder",
+      "url": "https://www.deutschlandfunk.de/kritik-innerhalb-der-cdu-an-merz-wegen-des-umgangs-mit-verkehrsminister-schnieder-102.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geheimdienstinformationen - Selenskyj: Russland plant den Einsatz zehntausender nordkoreanischer Soldaten",
+      "url": "https://www.deutschlandfunk.de/selenskyj-russland-plant-den-einsatz-zehntausender-nordkoreanischer-soldaten-110.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kaspisches Meer - Iran legt Ukraine Angriff auf Frachtschiff zur Last",
+      "url": "https://www.deutschlandfunk.de/iran-legt-ukraine-angriff-auf-frachtschiff-zur-last-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Vertragsabschlüsse - Klingbeil und Schwesig fordern Verbesserungen für Krebsüberlebende",
+      "url": "https://www.deutschlandfunk.de/klingbeil-und-schwesig-fordern-verbesserungen-fuer-krebsueberlebende-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Immunschwächekrankheit - Organisation Ärzte ohne Grenzen fordert auf Welt-Aids-Konferenz günstigeren HIV-Schutz",
+      "url": "https://www.deutschlandfunk.de/organisation-aerzte-ohne-grenzen-fordert-auf-welt-aids-konferenz-guenstigeren-hiv-schutz-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "China - Taifun \"Noul\" trifft erreicht Provinz Guangdong - 340.000 Menschen in Sicherheit gebracht",
+      "url": "https://www.deutschlandfunk.de/taifun-noul-trifft-erreicht-provinz-guangdong-340-000-menschen-in-sicherheit-gebracht-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Zweiter Anlauf erfolgreich - Waldsiedlung Berlin-Zehlendorf ist UNESCO-Welterbe",
+      "url": "https://www.deutschlandfunk.de/waldsiedlung-berlin-zehlendorf-ist-unesco-welterbe-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bayreuth - Richard-Wagner-Urenkelin und Festspielleiterin Katharina Wagner spricht sich gegen Rassismus und Verharmlosung der Geschichte aus",
+      "url": "https://www.deutschlandfunk.de/richard-wagner-urenkelin-und-festspielleiterin-katharina-wagner-spricht-sich-gegen-rassismus-und-ver-104.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Brasilien - Sohn des inhaftierten Ex-Präsidenten Bolsonaro zum Präsidentschaftskandidaten gekürt",
+      "url": "https://www.deutschlandfunk.de/sohn-des-inhaftierten-ex-praesidenten-bolsonaro-zum-praesidentschaftskandidaten-gekuert-104.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Nach Vergewaltigungsvorwürfen gegen Graham Platner: US-Demokraten nominieren neuen Kandidaten für wichtigen Senatssitz in Maine",
+      "url": "https://www.deutschlandfunk.de/nach-vergewaltigungsvorwuerfen-gegen-graham-platner-us-demokraten-nominieren-neuen-kandidaten-fuer-w-100.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Guterres in Damaskus - erster Besuch eines UNO-Generalsekretärs in Syrien seit mehr als 15 Jahren",
+      "url": "https://www.deutschlandfunk.de/guterres-in-damaskus-erster-besuch-eines-uno-generalsekretaers-in-syrien-seit-mehr-als-15-jahren-108.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Indien - Nach Rücktritt von Bildungsminister: \"Kakerlaken\"-Bewegung beendet Proteste",
+      "url": "https://www.deutschlandfunk.de/nach-ruecktritt-von-bildungsminister-kakerlaken-bewegung-beendet-proteste-106.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ganderkesee bei Bremen - Zwei Tote bei Absturz eines Kleinflugzeugs",
+      "url": "https://www.deutschlandfunk.de/zwei-tote-bei-absturz-eines-kleinflugzeugs-116.html",
+      "publishedAt": "2026-07-26T12:12:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Spanien: Neuer Brand bei Valencia",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
+      "publishedAt": "2026-07-26T11:49:54.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Waldbrände in Frankreich: Urlaubsparadies am Atlantik wird zur Feuerhölle",
+      "url": "https://taz.de/Waldbraende-in-Frankreich/!6199203/",
+      "publishedAt": "2026-07-26T11:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Leichtathletik: Ein schnell laufendes Verfahren",
+      "url": "https://taz.de/Leichtathletik/!6199181/",
+      "publishedAt": "2026-07-26T11:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "CSD in Berlin: Wir müssen zusammenrücken",
+      "url": "https://taz.de/CSD-in-Berlin/!6199213/",
+      "publishedAt": "2026-07-26T11:22:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -147,132 +301,6 @@
       "url": "https://taz.de/Opposition-in-Polen/!6199175/",
       "publishedAt": "2026-07-26T10:39:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Christopher Street Day - Nach Gewalttat bei CSD in Berlin - eine Tote und 16 Verletzte - Polizei fahndet nach Verdächtigem aus islamistischer Szene",
-      "url": "https://www.deutschlandfunk.de/nach-gewalttat-bei-csd-in-berlin-eine-tote-und-16-verletzte-polizei-fahndet-nach-verdaechtigem-aus-i-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Abscheuliche Tat\" - Mutmaßlicher Anschlag auf Berliner CSD: Entsetzte Reaktionen aus der Politik",
-      "url": "https://www.deutschlandfunk.de/mutmasslicher-anschlag-auf-berliner-csd-entsetzte-reaktionen-aus-der-politik-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Südeuropa - Waldbrände: Weitere massenhafte Evakuierungen in Frankreich und Spanien",
-      "url": "https://www.deutschlandfunk.de/waldbraende-weitere-massenhafte-evakuierungen-in-frankreich-und-spanien-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsumbildung - Kritik innerhalb der CDU an Merz wegen des Umgangs mit Verkehrsminister Schnieder",
-      "url": "https://www.deutschlandfunk.de/kritik-innerhalb-der-cdu-an-merz-wegen-des-umgangs-mit-verkehrsminister-schnieder-102.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Geheimdienstinformationen - Selenskyj: Russland plant den Einsatz zehntausender nordkoreanischer Soldaten",
-      "url": "https://www.deutschlandfunk.de/selenskyj-russland-plant-den-einsatz-zehntausender-nordkoreanischer-soldaten-110.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kaspisches Meer - Iran legt Ukraine Angriff auf Frachtschiff zur Last",
-      "url": "https://www.deutschlandfunk.de/iran-legt-ukraine-angriff-auf-frachtschiff-zur-last-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Vertragsabschlüsse - Klingbeil und Schwesig fordern Verbesserungen für Krebsüberlebende",
-      "url": "https://www.deutschlandfunk.de/klingbeil-und-schwesig-fordern-verbesserungen-fuer-krebsueberlebende-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Immunschwächekrankheit - Organisation Ärzte ohne Grenzen fordert auf Welt-Aids-Konferenz günstigeren HIV-Schutz",
-      "url": "https://www.deutschlandfunk.de/organisation-aerzte-ohne-grenzen-fordert-auf-welt-aids-konferenz-guenstigeren-hiv-schutz-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "China - Taifun \"Noul\" trifft erreicht Provinz Guangdong - 340.000 Menschen in Sicherheit gebracht",
-      "url": "https://www.deutschlandfunk.de/taifun-noul-trifft-erreicht-provinz-guangdong-340-000-menschen-in-sicherheit-gebracht-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Zweiter Anlauf erfolgreich - Waldsiedlung Berlin-Zehlendorf ist UNESCO-Welterbe",
-      "url": "https://www.deutschlandfunk.de/waldsiedlung-berlin-zehlendorf-ist-unesco-welterbe-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bayreuth - Richard-Wagner-Urenkelin und Festspielleiterin Katharina Wagner spricht sich gegen Rassismus und Verharmlosung der Geschichte aus",
-      "url": "https://www.deutschlandfunk.de/richard-wagner-urenkelin-und-festspielleiterin-katharina-wagner-spricht-sich-gegen-rassismus-und-ver-104.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Brasilien - Sohn des inhaftierten Ex-Präsidenten Bolsonaro zum Präsidentschaftskandidaten gekürt",
-      "url": "https://www.deutschlandfunk.de/sohn-des-inhaftierten-ex-praesidenten-bolsonaro-zum-praesidentschaftskandidaten-gekuert-104.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Nach Vergewaltigungsvorwürfen gegen Graham Platner: US-Demokraten nominieren neuen Kandidaten für wichtigen Senatssitz in Maine",
-      "url": "https://www.deutschlandfunk.de/nach-vergewaltigungsvorwuerfen-gegen-graham-platner-us-demokraten-nominieren-neuen-kandidaten-fuer-w-100.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Guterres in Damaskus - erster Besuch eines UNO-Generalsekretärs in Syrien seit mehr als 15 Jahren",
-      "url": "https://www.deutschlandfunk.de/guterres-in-damaskus-erster-besuch-eines-uno-generalsekretaers-in-syrien-seit-mehr-als-15-jahren-108.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Indien - Nach Rücktritt von Bildungsminister: \"Kakerlaken\"-Bewegung beendet Proteste",
-      "url": "https://www.deutschlandfunk.de/nach-ruecktritt-von-bildungsminister-kakerlaken-bewegung-beendet-proteste-106.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ganderkesee bei Bremen - Zwei Tote bei Absturz eines Kleinflugzeugs",
-      "url": "https://www.deutschlandfunk.de/zwei-tote-bei-absturz-eines-kleinflugzeugs-116.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"La Parisienne\" - Französische Chansonsängerin Marie Paule Belle gestorben",
-      "url": "https://www.deutschlandfunk.de/franzoesische-chansonsaengerin-marie-paule-belle-gestorben-120.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "21. Etappe - Tour de France geht in Paris zu Ende - Schlussetappe wird wegen Waldbränden gekürzt",
-      "url": "https://www.deutschlandfunk.de/tour-de-france-geht-in-paris-zu-ende-schlussetappe-wird-wegen-waldbraenden-gekuerzt-102.html",
-      "publishedAt": "2026-07-26T10:34:44.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -378,27 +406,6 @@
       "url": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html",
       "publishedAt": "2026-07-25T18:32:30.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "„Odyssee“ nach Madeline Miller: Göttin, macht das Spaß!",
-      "url": "https://taz.de/Neuerzaehlungen-griechischer-Mythologie-Ja-Odysseus-ist-cool-aber-haben-Sie-schon-mal-von-Circe-gehoert/!6195132/",
-      "publishedAt": "2026-07-25T18:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Bequeme Möbel: Ein Sofa für sich allein",
-      "url": "https://taz.de/Bequeme-Moebel/!6195139/",
-      "publishedAt": "2026-07-25T18:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Abhängigkeit von großen Plattformen: Bitte alle aussteigen",
-      "url": "https://taz.de/Abhaengigkeit-von-grossen-Plattformen/!6195096/",
-      "publishedAt": "2026-07-25T18:19:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -588,13 +595,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/cdu-generalsekretaer-carsten-linnemann-zweifelte-an-seiner-eignung-als-gesundheitsminister-a-308ca142-110d-45d4-85e2-604b84567473#ref=rss",
       "publishedAt": "2026-07-24T17:08:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mehr als 65.000 Menschen wegen Waldbränden in Frankreich evakuiert",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-108.html",
-      "publishedAt": "2026-07-24T15:42:34.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
