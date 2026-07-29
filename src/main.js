@@ -62,6 +62,7 @@ let activeStageIndex = -1;
 let lastSpawnAt = 0;
 let lastSoundAt = 0;
 let closedCount = 0;
+let pausedCount = 0;
 let seededTestCard = false;
 let audioContext;
 let audioMaster;
@@ -72,9 +73,9 @@ let testOffset = 0;
 const pointer = new THREE.Vector2();
 const pointerRay = new THREE.Raycaster();
 const cameraPosition = new THREE.Vector3();
-const controllerPosition = new THREE.Vector3();
-const cardLocalPoint = new THREE.Vector3();
 const lookTarget = new THREE.Vector3();
+const joystickAxis = new THREE.Vector2();
+const joystickCursor = new THREE.Vector2();
 
 const params = new URLSearchParams(location.search);
 const localTesting = location.hostname === "localhost" || location.hostname === "127.0.0.1";
@@ -242,6 +243,7 @@ function createCard(options = {}) {
     pitch: THREE.MathUtils.randFloat(0.72, 1.65),
     velocity: tangent.multiplyScalar(THREE.MathUtils.randFloat(0.018, 0.065)),
     wave: Math.random() * Math.PI * 2,
+    paused: false,
   };
   mesh.userData.card = card;
   cards.push(card);
@@ -254,6 +256,7 @@ function destroyCard(card, interaction = true) {
   const index = cards.indexOf(card);
   if (index < 0) return;
   cards.splice(index, 1);
+  if (card.paused) pausedCount = Math.max(0, pausedCount - 1);
   card.entity.removeObject3D("mesh");
   card.entity.remove();
   card.geometry.dispose();
@@ -270,8 +273,21 @@ function destroyCard(card, interaction = true) {
 }
 
 function updateCardCount() {
-  messageCount.textContent = `${cards.length} NACHRICHTEN`;
+  messageCount.textContent = pausedCount
+    ? `${cards.length} NACHRICHTEN · ${pausedCount} ANGEHALTEN`
+    : `${cards.length} NACHRICHTEN`;
   scene.dataset.cardCount = String(cards.length);
+  scene.setAttribute("data-paused-count", String(pausedCount));
+}
+
+function toggleCardPaused(card) {
+  if (!card || !cards.includes(card)) return;
+  card.paused = !card.paused;
+  pausedCount += card.paused ? 1 : -1;
+  card.material.color.set(card.paused ? 0x86aee8 : 0xffffff);
+  card.entity.setAttribute("data-paused", String(card.paused));
+  playPlop(card.paused ? 0.58 : 1.18);
+  updateCardCount();
 }
 
 function buildSwarm() {
@@ -427,6 +443,7 @@ function updateCards(delta, intensity, now) {
   cameraEl.object3D.getWorldPosition(cameraPosition);
   for (let index = 0; index < cards.length; index += 1) {
     const card = cards[index];
+    if (card.paused) continue;
     const age = (now - card.bornAt) / 1000;
     card.entity.object3D.position.addScaledVector(card.velocity, delta * intensity);
     card.entity.object3D.position.y += Math.sin(age * 1.25 + card.wave) * 0.0016 * intensity;
@@ -474,47 +491,63 @@ function tick(now) {
   }
   updateCards(delta, state.stage.intensity, now);
   updateSwarm(now, state.stage.intensity);
+  updateJoystickCursor(delta);
 }
 
-function checkControllerClose() {
+function updateJoystickCursor(delta) {
+  if (!scene.is("vr-mode")) return;
+  const deadzone = 0.14;
+  const x = Math.abs(joystickAxis.x) > deadzone ? joystickAxis.x : 0;
+  const y = Math.abs(joystickAxis.y) > deadzone ? joystickAxis.y : 0;
+  joystickCursor.x = THREE.MathUtils.clamp(joystickCursor.x + x * delta * 1.45, -0.92, 0.92);
+  joystickCursor.y = THREE.MathUtils.clamp(joystickCursor.y - y * delta * 1.45, -0.82, 0.82);
+  const camera = cameraEl.getObject3D("camera");
+  const distance = 1.05;
+  const halfHeight = Math.tan(THREE.MathUtils.degToRad(camera.fov * 0.5)) * distance;
+  cursorEl.object3D.position.set(
+    joystickCursor.x * halfHeight * camera.aspect,
+    joystickCursor.y * halfHeight,
+    -distance,
+  );
+}
+
+function activateAtPointer(pointerPosition) {
   if (!running || activeStageIndex < 0 || stages[activeStageIndex].type === "pause") return;
-  cursorEl.object3D.getWorldPosition(controllerPosition);
-  let nearest;
-  let nearestDistance = Infinity;
-  for (const card of cards) {
-    cardLocalPoint.copy(controllerPosition);
-    card.entity.object3D.worldToLocal(cardLocalPoint);
-    const scale = card.entity.object3D.scale.x;
-    const insideX =
-      cardLocalPoint.x > cardWidth * 0.31 &&
-      cardLocalPoint.x < cardWidth * 0.5 &&
-      cardLocalPoint.y > cardHeight * 0.2 &&
-      cardLocalPoint.y < cardHeight * 0.5 &&
-      Math.abs(cardLocalPoint.z) < 0.22 / scale;
-    if (insideX) {
-      const distance = card.entity.object3D.getWorldPosition(lookTarget).distanceTo(controllerPosition);
-      if (distance < nearestDistance) {
-        nearest = card;
-        nearestDistance = distance;
-      }
-    }
+  const camera = cameraEl.getObject3D("camera");
+  pointerRay.setFromCamera(pointerPosition, camera);
+  const hit = pointerRay.intersectObjects(cards.map((card) => card.mesh), false)[0];
+  if (!hit?.object?.userData.card) return;
+  if (hit.uv && hit.uv.x > 0.79 && hit.uv.y > 0.7) {
+    destroyCard(hit.object.userData.card, true);
+    return;
   }
-  if (nearest) destroyCard(nearest, true);
+  toggleCardPaused(hit.object.userData.card);
+}
+
+function activateControllerCursor() {
+  activateAtPointer(joystickCursor);
+}
+
+function updateJoystickAxis(event) {
+  const detail = event.detail || {};
+  if (Number.isFinite(detail.x) && Number.isFinite(detail.y)) {
+    joystickAxis.set(detail.x, detail.y);
+    return;
+  }
+  const axis = detail.axis;
+  if (Array.isArray(axis) && axis.length >= 2) {
+    joystickAxis.set(axis.at(-2) || 0, axis.at(-1) || 0);
+  }
 }
 
 function checkDesktopClose(event) {
   if (!running || scene.is("vr-mode") || stages[activeStageIndex]?.type === "pause") return;
+  if (performance.now() - startedAt < 700) return;
   const canvas = scene.canvas;
   const rect = canvas.getBoundingClientRect();
   pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
   pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
-  const camera = cameraEl.getObject3D("camera");
-  pointerRay.setFromCamera(pointer, camera);
-  const intersections = pointerRay.intersectObjects(cards.map((card) => card.mesh), false);
-  const hit = intersections[0];
-  if (hit?.uv && hit.uv.x > 0.79 && hit.uv.y > 0.7) {
-    destroyCard(hit.object.userData.card, true);
-  }
+  activateAtPointer(pointer);
 }
 
 function seedTestCard() {
@@ -562,6 +595,7 @@ scene.addEventListener("loaded", async () => {
   swarmRoot.object3D.visible = true;
   cardsRoot.object3D.visible = false;
   scene.setAttribute("data-closed-count", "0");
+  scene.setAttribute("data-paused-count", "0");
   if (navigator.xr) {
     try {
       const supported = await navigator.xr.isSessionSupported("immersive-vr");
@@ -580,10 +614,18 @@ scene.addEventListener("render-target-loaded", () => {
 });
 scene.addEventListener("enter-vr", () => {
   document.body.classList.add("in-vr");
+  cursorEl.setAttribute("visible", true);
   if (!running) startExperience();
 });
-scene.addEventListener("exit-vr", () => document.body.classList.remove("in-vr"));
-controllerEl.addEventListener("triggerdown", checkControllerClose);
+scene.addEventListener("exit-vr", () => {
+  document.body.classList.remove("in-vr");
+  cursorEl.setAttribute("visible", false);
+  joystickAxis.set(0, 0);
+});
+controllerEl.addEventListener("thumbstickmoved", updateJoystickAxis);
+controllerEl.addEventListener("axismove", updateJoystickAxis);
+controllerEl.addEventListener("triggerdown", activateControllerCursor);
+controllerEl.addEventListener("thumbstickdown", activateControllerCursor);
 startButton.addEventListener("click", () => startExperience());
 vrButton.addEventListener("click", () => startExperience({ enterVR: true }));
 window.addEventListener("keydown", (event) => {
@@ -606,11 +648,15 @@ window.nachrichtenraum = {
     stageType: scene.dataset.stageType,
     cards: cards.length,
     closedCount,
+    pausedCount,
     audioState: audioContext?.state || "unavailable",
     rssMessages: Number(scene.dataset.feedCount || 0),
   }),
   closeNearest: () => {
     if (cards[0]) destroyCard(cards[0], true);
+  },
+  pauseNearest: () => {
+    if (cards[0]) toggleCardPaused(cards[0]);
   },
 };
 
