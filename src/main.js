@@ -23,15 +23,11 @@ const cardWidth = 1.62;
 const cardHeight = 0.8;
 const cardLimit = 132;
 const stages = [
-  { type: "active", label: "PHASE I · ÜBERFLUTUNG", duration: 20, intensity: 1, target: 48, startRate: 780, endRate: 150, batch: 1 },
+  { type: "active", label: "PHASE I · LANGSAM", duration: 20, intensity: 0.75, target: 35, startRate: 1200, endRate: 420, batch: 1 },
   { type: "pause", label: "STILLE", duration: 6 },
-  { type: "active", label: "PHASE II · ESKALATION", duration: 30, intensity: 1.35, target: 76, startRate: 480, endRate: 82, batch: 2 },
+  { type: "active", label: "PHASE II · MITTEL", duration: 20, intensity: 1.35, target: 78, startRate: 450, endRate: 120, batch: 2 },
   { type: "pause", label: "STILLE", duration: 6 },
-  { type: "active", label: "PHASE III · SCHNELL", duration: 20, intensity: 1.6, target: 94, startRate: 310, endRate: 62, batch: 2 },
-  { type: "pause", label: "STILLE", duration: 6 },
-  { type: "active", label: "PHASE IV · SCHNELLER", duration: 20, intensity: 1.9, target: 114, startRate: 220, endRate: 45, batch: 3 },
-  { type: "pause", label: "STILLE", duration: 6 },
-  { type: "active", label: "PHASE V · MAXIMUM", duration: 20, intensity: 2.3, target: 132, startRate: 150, endRate: 34, batch: 3 },
+  { type: "active", label: "PHASE III · GANZ VIELE", duration: 20, intensity: 2.3, target: 132, startRate: 120, endRate: 30, batch: 3 },
   { type: "pause", label: "STILLE", duration: 6 },
 ];
 const cycleDuration = stages.reduce((sum, stage) => sum + stage.duration, 0);
@@ -507,7 +503,7 @@ async function enterStage(index, stage) {
   scene.dataset.swarmVisible = "true";
   lastSpawnAt = 0;
   if (!cards.length) {
-    const initialCount = index === 0 ? 12 : 28;
+    const initialCount = index === 0 ? 4 : index === 2 ? 20 : 36;
     for (let count = 0; count < initialCount; count += 1) createCard({ sound: false });
   }
 }
