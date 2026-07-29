@@ -1,131 +1,376 @@
 {
-  "updatedAt": "2026-07-29T10:18:09.835Z",
+  "updatedAt": "2026-07-29T12:33:45.912Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Merz unter Druck - „Der Kanzler muss dafür sorgen, dass die Regierung steht“",
-      "url": "https://www.bild.de/politik/merz-unter-druck-der-kanzler-muss-dafuer-sorgen-dass-die-regierung-steht-6a69c8289069e20393cd9a43",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "title": "Wechsel im Verkehrsministerium - Applaus für Schnieder, Klatsche für Merz",
+      "url": "https://www.bild.de/politik/inland/wechsel-im-verkehrsministerium-applaus-fuer-schnieder-klatsche-fuer-merz-6a69f0c5ded2b2d2df845312",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Kabinettsumbau - Drei neue Minister und ein Handschlag",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Nach „Terror“-Vorwurf - Telegram-Chef zeigt Putin den Stinkefinger",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wladimir-putin-jagt-telegram-gruender-als-terrorist-der-reagiert-mit-eindeutiger-geste-6a69b7f3a17ee9f1dfd829d0",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kassenärzte-Chef warnt Linnemann - „Schaden kaum noch gutzumachen“",
+      "url": "https://www.bild.de/politik/inland/kassenaerzte-chef-gassen-warnt-linnemann-schaden-kaum-noch-gutzumachen-6a69ae77a17ee9f1dfd828c2",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Raketenhagel! - Hier brechen die Mullahs die Feuerpause",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-feuert-raketen-ab-usa-melden-ueberraschungsangriff-6a6996929069e20393cd95d8",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vertraulich - Der Politik-Vodcast: Wie sicher ist der CSD in Hamburg?",
+      "url": "https://www.bild.de/politik/vertraulich-der-politik-vodcast-wie-sicher-ist-der-csd-in-hamburg-6a69d56518af02e41ad874f0",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Auto-Krise! - BMW baut 8.000 Jobs ab",
       "url": "https://www.bild.de/politik/inland/eilmeldung-bmw-baut-8000-jobs-ab-6a69ac781ff9bc89d881282b",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wende beim Geld - Plötzlich will die EU das Bargeld retten",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-plan-zum-schutz-von-bargeld-nur-karten-schilder-werden-verboten-6a549da2fa6efd2265aa6557",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "title": "Merz unter Druck - „Der Kanzler muss dafür sorgen, dass die Regierung steht“",
+      "url": "https://www.bild.de/politik/merz-unter-druck-der-kanzler-muss-dafuer-sorgen-dass-die-regierung-steht-6a69c8289069e20393cd9a43",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Regierungs-Neustart beim Bundespräsidenten - Hier wird Schnieder entlassen",
+      "url": "https://www.bild.de/politik/steinmeier-neue-minister-nach-spahn-ruecktritt-ernannt-6a69d30318af02e41ad874b0",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Live-Ticker zum Ukraine-Krieg - Trump gibt Selenskyj offenbar Patriot-Zusage",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Islamismus-Experte Mansour schlägt Alarm - „Ich befürchte, es wird nicht aufhören“",
-      "url": "https://www.bild.de/politik/inland/islamismus-experte-mansour-schlaegt-alarm-ich-befuerchte-es-wird-nicht-aufhoeren-6a69bce49069e20393cd990f",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "title": "RONZHEIMER - Ex-Salafist packt aus! So schlimm ist der Hass auf Queere. Mit Tugay Saraç",
+      "url": "https://www.bild.de/politik/ronzheimer-ex-salafist-packt-aus-so-schlimm-ist-der-hass-auf-queere-mit-tugay-sarac-6a693ba41ff9bc89d8812404",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Nach CSD-Anschlag - Berliner Bürgermeister will Islamunterricht an Schulen",
-      "url": "https://www.bild.de/politik/inland/berlin-buergermeister-kai-wegner-will-nach-csd-anschlag-islamunterricht-an-schulen-6a69923ba17ee9f1dfd82632",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "title": "Vor CSD in Hamburg - „5 Gefährder sollten in Präventivhaft kommen“",
+      "url": "https://www.bild.de/politik/vor-csd-in-hamburg-5-gefaehrder-sollten-in-praeventivhaft-kommen-6a69cfb81ff9bc89d8812be0",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Merz verursacht CDU-Chaos - „Lage ist ernster als zur Zeit der Spendenaffäre“",
       "url": "https://www.bild.de/politik/inland/friedrich-merz-verursacht-chaos-in-cdu-lage-ist-ernster-als-zur-zeit-der-spendenaffaere-6a6990a6905b13f5a47fdffe",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wende beim Geld - Plötzlich will die EU das Bargeld retten",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-plan-zum-schutz-von-bargeld-nur-karten-schilder-werden-verboten-6a549da2fa6efd2265aa6557",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Islamismus-Experte Mansour schlägt Alarm - „Ich befürchte, es wird nicht aufhören“",
+      "url": "https://www.bild.de/politik/inland/islamismus-experte-mansour-schlaegt-alarm-ich-befuerchte-es-wird-nicht-aufhoeren-6a69bce49069e20393cd990f",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach CSD-Anschlag - Berliner Bürgermeister will Islamunterricht an Schulen",
+      "url": "https://www.bild.de/politik/inland/berlin-buergermeister-kai-wegner-will-nach-csd-anschlag-islamunterricht-an-schulen-6a69923ba17ee9f1dfd82632",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Rechner: Sind Sie betroffen? - Uns droht ein Pflege-Kollaps!",
       "url": "https://www.bild.de/politik/inland/exklusiv-studie-warnt-vor-ueberalterung-und-droht-ein-pflege-kollaps-6a5e2c310b9a862ca282ce5a",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Abschiebeflug in Leipzig - Dobrindt: „Kein Verständnis für die Proteste“",
       "url": "https://www.bild.de/politik/inland/dobrindt-zum-abschiebeflug-nach-afghanistan-ich-habe-kein-verstaendnis-fuer-die-proteste-6a68a2c3a17ee9f1dfd81b4b",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "publishedAt": "2026-07-29T12:33:45.352Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Bei ihm kann der Kanzler noch lernen - So feiert das Netz Philipp Amthor",
-      "url": "https://www.bild.de/politik/inland/philipp-amthor-wird-im-netz-gefeiert-von-ihm-kann-der-kanzler-noch-lernen-6a649f61166bc12eb54f5c11",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände bei Bordeaux: Feuerwehr kämpft gegen neue Flammen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-104.html",
+      "publishedAt": "2026-07-29T12:26:55.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Lufthansa-Tochter ITA erlaubt jetzt große Hunde in der Kabine",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hund-flugzeug-urlaub-100.html",
+      "publishedAt": "2026-07-29T12:23:50.000Z",
+      "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "DLF",
+      "title": "Ökostrom-Förderung - Bundeswirtschaftsministerin Reiche: EEG kein Rundum-Sorglos-Paket mehr",
+      "url": "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-eeg-kein-rundum-sorglos-paket-mehr-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundeskabinett - Steinmeier ernennt Gesundheitsminister Linnemann, Verkehrsminister Bilger und Kanzleramtschefin Warken",
+      "url": "https://www.deutschlandfunk.de/steinmeier-ernennt-gesundheitsminister-linnemann-verkehrsminister-bilger-und-kanzleramtschefin-warke-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sperrklausel - SPD in Sachsen-Anhalt stellt Fünf-Prozent-Hürde infrage",
+      "url": "https://www.deutschlandfunk.de/spd-in-sachsen-anhalt-stellt-fuenf-prozent-huerde-infrage-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Medienberichte: Pro-Russische Journalistin soll Land verlassen",
+      "url": "https://www.deutschlandfunk.de/medienberichte-pro-russische-journalistin-soll-land-verlassen-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nordrhein-Westfalen - Weitere Justizvollzugsanstalt wegen Korruptionsverdachts durchsucht",
+      "url": "https://www.deutschlandfunk.de/weitere-justizvollzugsanstalt-wegen-korruptionsverdachts-durchsucht-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Autobauer - BMW will bis Ende 2027 8.000 Stellen abbauen",
+      "url": "https://www.deutschlandfunk.de/bmw-will-bis-ende-2027-8-000-stellen-abbauen-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsbeschluss - Behörden sollen KI bei Asylanträgen nutzen dürfen",
+      "url": "https://www.deutschlandfunk.de/behoerden-sollen-ki-bei-asylantraegen-nutzen-duerfen-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Forschung - Deutscher KI-Chatbot \"Soofi\" soll bald an den Start gehen - \"Rennen um KI längst noch nicht entschieden\"",
+      "url": "https://www.deutschlandfunk.de/deutscher-ki-chatbot-soofi-soll-bald-an-den-start-gehen-rennen-um-ki-laengst-noch-nicht-entschieden-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verkehr - Direktflüge zwischen Deutschland und Syrien wieder aufgenommen",
+      "url": "https://www.deutschlandfunk.de/direktfluege-zwischen-deutschland-und-syrien-wieder-aufgenommen-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berliner Morgenpost - Vater von mutmaßlichem CSD-Attentäter soll schwul sein",
+      "url": "https://www.deutschlandfunk.de/vater-von-mutmasslichem-csd-attentaeter-soll-schwul-sein-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "CDU-Personalumbau - Miersch (SPD) erwartet, dass Ruhe in der Koalition einkehrt - Radtke (CDU) stellt sich hinter Merz",
+      "url": "https://www.deutschlandfunk.de/miersch-spd-erwartet-dass-ruhe-in-der-koalition-einkehrt-radtke-cdu-stellt-sich-hinter-merz-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - Weißes Haus nennt Treffen Trumps mit Selenskyj und Netanjahu \"positiv und produktiv\"",
+      "url": "https://www.deutschlandfunk.de/weisses-haus-nennt-treffen-trumps-mit-selenskyj-und-netanjahu-positiv-und-produktiv-116.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutschland - Pro-Kopf-Verschuldung steigt auf fast 32.000 Euro",
+      "url": "https://www.deutschlandfunk.de/pro-kopf-verschuldung-steigt-auf-fast-32-000-euro-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Universität Hamburg - Plagiatsvorwurf gegen Brosius-Gersdorf nicht gerechtfertigt",
+      "url": "https://www.deutschlandfunk.de/plagiatsvorwurf-gegen-brosius-gersdorf-nicht-gerechtfertigt-102.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fortschritt beim Brennerbasistunnel - Durchschlag zwischen Österreich und Italien geschafft",
+      "url": "https://www.deutschlandfunk.de/durchschlag-zwischen-oesterreich-und-italien-geschafft-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitzewelle - Waldbrände bei Madrid: Zehntausende können in Häuser zurückkehren",
+      "url": "https://www.deutschlandfunk.de/waldbraende-bei-madrid-zehntausende-koennen-in-haeuser-zurueckkehren-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheit - Hamburger Polizei verdoppelt Einsatzkräfte bei CSD-Veranstaltung",
+      "url": "https://www.deutschlandfunk.de/hamburger-polizei-verdoppelt-einsatzkraefte-bei-csd-veranstaltung-102.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinetts-Umbildung - Weselsky befürchtet neuen Stillstand bei der Bahn durch Wechsel im Verkehrsministerium",
+      "url": "https://www.deutschlandfunk.de/weselsky-befuerchtet-neuen-stillstand-bei-der-bahn-durch-wechsel-im-verkehrsministerium-100.html",
+      "publishedAt": "2026-07-29T12:15:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Steinmeier ernennt Warken, Bilger und Linnemann zu Ministern",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html",
+      "publishedAt": "2026-07-29T12:05:57.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Schwerverletzte in der russischen Armee: Wie der Kreml Veteranen im Stich lässt",
+      "url": "https://taz.de/Schwerverletzte-in-der-russischen-Armee/!6199922/",
+      "publishedAt": "2026-07-29T11:44:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Iran feuert Raketen ab - USA melden Überraschungsangriff",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-feuert-raketen-ab-usa-melden-ueberraschungsangriff-6a6996929069e20393cd95d8",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAZ.DE",
+      "title": "Experte über Klima und Niedrigwasser: „Die Elbe als Bundeswasserstraße – diese Zeiten sind vorbei“",
+      "url": "https://taz.de/Experte-ueber-Klima-und-Niedrigwasser/!6199683/",
+      "publishedAt": "2026-07-29T11:43:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "US-Präsident beeindruckt - Wie Selenskyj plötzlich Trumps Liebling wurde",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-beeindruckt-wie-selenskyj-trumps-liebling-wurde-6a6923131ff9bc89d88123aa",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAZ.DE",
+      "title": "Erdüberlastungstag: Menschheit lebt ab Donnerstag auf Pump",
+      "url": "https://taz.de/Erdueberlastungstag/!6199969/",
+      "publishedAt": "2026-07-29T11:41:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Feuerpause beendet! - Iran startet „Überraschungsangriff“",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/us-militaer-meldet-ende-der-kampfpause-iran-startet-ueberraschungsangriff-6a692f78a17ee9f1dfd823df",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAZ.DE",
+      "title": "Internationales Fototreffen in Arles: Hydrofeminismus und KI",
+      "url": "https://taz.de/Internationales-Fototreffen-in-Arles/!6199956/",
+      "publishedAt": "2026-07-29T11:41:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Kabinettsumbau - Kanzler Merz dreht am Personalkarussell",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz' neues Kabinett steht – so geht es im politische Berlin nun weiter",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-neues-kabinett-steht-so-geht-es-im-politische-berlin-nun-weiter-a-5b3e9c0c-2823-446b-aef2-4ee344f3dcdb#ref=rss",
+      "publishedAt": "2026-07-29T11:36:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Viktor Janukowitsch im russischen Exil - Ukraines Ex-Präsident lebt in Russland wie ein König",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ex-praesident-der-ukraine-viktor-janukowitsch-lebt-heute-im-luxus-in-russland-6a6854c0ce0aac7f44e40820",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Welche Folgen die neuen Energiegesetze haben",
+      "url": "https://www.tagesschau.de/wissen/klima/faq-eeg-reform-100.html",
+      "publishedAt": "2026-07-29T11:35:05.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Berliner Justiz wehrt sich gegen Kritik nach CSD-Anschlag",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/berliner-justiz-kritik-csd-anschlag-100.html",
+      "publishedAt": "2026-07-29T11:26:08.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Investoren im Fußball: Der große WM-Ausverkauf",
+      "url": "https://taz.de/Investoren-im-Fussball/!6199999/",
+      "publishedAt": "2026-07-29T11:25:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach BILD-Bericht - Post will Briefmarke mit Davidstern doch drucken",
-      "url": "https://www.bild.de/politik/inland/nach-erster-ablehnung-post-will-briefmarke-mit-davidstern-doch-drucken-6a68c5eba17ee9f1dfd81edf",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAZ.DE",
+      "title": "Spielfilm „Bitteres Fest“: Von sich selbst in der dritten Person sprechen",
+      "url": "https://taz.de/Spielfilm-Bitteres-Fest/!6199545/",
+      "publishedAt": "2026-07-29T10:39:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Minister kommt heute nicht ins Kabinett - Schnieder will Merz nicht sehen!",
-      "url": "https://www.bild.de/politik/inland/schnieder-will-merz-nicht-sehen-noch-verkehrsminister-kommt-nicht-ins-kabinett-6a68c827a17ee9f1dfd81f10",
-      "publishedAt": "2026-07-29T10:18:09.445Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Zwei Todesfälle in Deutschland durch Vibrionen-Infektion",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/tote-nach-vibrionen-infektion-100.html",
+      "publishedAt": "2026-07-29T10:38:15.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Frank-Walter Steinmeier ernennt neue CDU-Minister",
+      "url": "https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-ernennt-neue-cdu-minister-patrick-schnieder-stand-vor-herkulesaufgabe-a-2a53c99e-dbbf-4b47-ae74-752378b58fb3#ref=rss",
+      "publishedAt": "2026-07-29T10:30:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html",
+      "publishedAt": "2026-07-29T10:25:14.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html",
+      "publishedAt": "2026-07-29T10:23:23.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
+      "publishedAt": "2026-07-29T10:19:25.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -133,132 +378,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/heiko-strohmann-kommunikation-ausbaufaehig-stimmung-kurz-vor-katastrophal-bremens-cdu-chef-erklaert-kritik-an-merz-a-ae8ed40b-9af1-409f-b1a4-16f74e44381e#ref=rss",
       "publishedAt": "2026-07-29T10:08:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Ökostrom-Förderung - Kabinett beschließt Reformpläne von Bundeswirtschaftsministerin Reiche",
-      "url": "https://www.deutschlandfunk.de/kabinett-beschliesst-reformplaene-von-bundeswirtschaftsministerin-reiche-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Autobauer - BMW will bis Ende 2027 8.000 Stellen abbauen",
-      "url": "https://www.deutschlandfunk.de/bmw-will-bis-ende-2027-8-000-stellen-abbauen-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinett und Partei - Personalumbau soll abgeschlossen werden - Radtke (CDU) stellt sich hinter Merz",
-      "url": "https://www.deutschlandfunk.de/personalumbau-soll-abgeschlossen-werden-radtke-cdu-stellt-sich-hinter-merz-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutschland - Pro-Kopf-Verschuldung steigt auf fast 32.000 Euro",
-      "url": "https://www.deutschlandfunk.de/pro-kopf-verschuldung-steigt-auf-fast-32-000-euro-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Universität Hamburg - Plagiatsvorwurf gegen Brosius-Gersdorf nicht gerechtfertigt",
-      "url": "https://www.deutschlandfunk.de/plagiatsvorwurf-gegen-brosius-gersdorf-nicht-gerechtfertigt-102.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fortschritt beim Brennerbasistunnel - Durchschlag zwischen Österreich und Italien geschafft",
-      "url": "https://www.deutschlandfunk.de/durchschlag-zwischen-oesterreich-und-italien-geschafft-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitzewelle - Waldbrände bei Madrid: Zehntausende können in Häuser zurückkehren",
-      "url": "https://www.deutschlandfunk.de/waldbraende-bei-madrid-zehntausende-koennen-in-haeuser-zurueckkehren-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinetts-Umbildung - Weselsky befürchtet neuen Stillstand bei der Bahn durch Wechsel im Verkehrsministerium",
-      "url": "https://www.deutschlandfunk.de/weselsky-befuerchtet-neuen-stillstand-bei-der-bahn-durch-wechsel-im-verkehrsministerium-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheit - Hamburger Polizei verdoppelt Einsatzkräfte bei CSD-Veranstaltung",
-      "url": "https://www.deutschlandfunk.de/hamburger-polizei-verdoppelt-einsatzkraefte-bei-csd-veranstaltung-102.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach CSD-Anschlag - Familienministerin Prien will Demokratie-Programm nachschärfen",
-      "url": "https://www.deutschlandfunk.de/familienministerin-prien-will-demokratie-programm-nachschaerfen-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Washington - Weißes Haus nennt Treffen Trumps mit Selenskyj und Netanjahu \"positiv und produktiv\"",
-      "url": "https://www.deutschlandfunk.de/weisses-haus-nennt-treffen-trumps-mit-selenskyj-und-netanjahu-positiv-und-produktiv-116.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Griechenland - Waldbrände auf Paros unter Kontrolle",
-      "url": "https://www.deutschlandfunk.de/waldbraende-auf-paros-unter-kontrolle-102.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Frankreich - Waldbrände bei Bordeaux: Wieder Tausende Menschen evakuiert, Feuer in Spanien größtenteils unter Kontrolle",
-      "url": "https://www.deutschlandfunk.de/waldbraende-bei-bordeaux-wieder-tausende-menschen-evakuiert-feuer-in-spanien-groesstenteils-unter-ko-114.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Venezuela - Demonstranten fordern Neuwahlen",
-      "url": "https://www.deutschlandfunk.de/demonstranten-fordern-neuwahlen-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berichte - Telegram-Chef Durow in Russland zur internationalen Fahndung ausgeschrieben",
-      "url": "https://www.deutschlandfunk.de/telegram-chef-durow-in-russland-zur-internationalen-fahndung-ausgeschrieben-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Japan - Erdbeben legt Auto- und Chipfabriken lahm",
-      "url": "https://www.deutschlandfunk.de/erdbeben-legt-auto-und-chipfabriken-lahm-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "BASF - Belegschaft im Stammwerk auf tiefstem Stand seit 1954",
-      "url": "https://www.deutschlandfunk.de/belegschaft-im-stammwerk-auf-tiefstem-stand-seit-100.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sport - Kritik an Investoren-Plänen der FIFA",
-      "url": "https://www.deutschlandfunk.de/kritik-an-investoren-plaenen-der-fifa-102.html",
-      "publishedAt": "2026-07-29T09:56:13.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -331,34 +450,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Hinrichtungen in Iran: Protest gegen Machtdemonstration des Regimes",
-      "url": "https://taz.de/Hinrichtungen-in-Iran/!6199965/",
-      "publishedAt": "2026-07-29T08:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
-      "publishedAt": "2026-07-29T07:26:30.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html",
-      "publishedAt": "2026-07-29T07:25:01.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html",
-      "publishedAt": "2026-07-29T07:24:34.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
       "url": "https://www.tagesschau.de/wissen/klima/waldbraende-europa-klima-erderwaermung-100.html",
@@ -366,39 +457,11 @@
       "category": "KLIMA & UMWELT"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Selenskyj und Netanjahu in Washington: Gemischte Gefühle",
-      "url": "https://taz.de/Selenskyj-und-Netanjahu-in-Washington/!6199964/",
-      "publishedAt": "2026-07-29T07:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Waldbrände bei Bordeaux: Feuerwehr kämpft gegen neue Flammen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-104.html",
-      "publishedAt": "2026-07-29T07:10:28.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "+++ Nach CSD-Anschlag +++: Mehr Geld für queere Projekte versprochen",
-      "url": "https://taz.de/-Nach-CSD-Anschlag-/!6199962/",
-      "publishedAt": "2026-07-29T06:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "US-Senat bestätigt Clayton als neuen Geheimdienstchef",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienst-clayton-senat-100.html",
       "publishedAt": "2026-07-29T06:19:39.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reaktion auf Drohnenangriffe: USA und Saudi-Arabien greifen Ziele im Irak an",
-      "url": "https://taz.de/Reaktion-auf-Drohnenangriffe/!6199961/",
-      "publishedAt": "2026-07-29T06:18:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -462,13 +525,6 @@
       "url": "https://www.tagesschau.de/video/video-1622340.html",
       "publishedAt": "2026-07-28T18:35:42.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Album von Micha Acher: Dem Geist von Stücken nachspüren",
-      "url": "https://taz.de/Album-Henry-and-the-Ghosts-Songbook-von-Micha-Acher-Dem-Geist-nachspueren/!6199661/",
-      "publishedAt": "2026-07-28T17:56:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -567,13 +623,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
       "publishedAt": "2026-07-28T13:48:03.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kater in der Großstadt?: Ich glaube, er hatte ein gutes Leben",
-      "url": "https://taz.de/Kater-in-der-Grossstadt/!6199693/",
-      "publishedAt": "2026-07-28T13:48:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -681,20 +730,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "CSD-Anschlag in Berlin: BKA stuft 410 Menschen als islamistische Gefährder ein",
-      "url": "https://www.spiegel.de/politik/csd-anschlag-bka-stuft-410-menschen-in-deutschland-als-islamistische-gefaehrder-ein-a-72bd6b98-9afa-4be4-ab6b-1e0e277043bb#ref=rss",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "CSD-Anschlag in Berlin: Alexander Dobrindt will Fußfesseln und Präventivhaft für Gefährder",
-      "url": "https://www.spiegel.de/politik/dobrindt-will-fussfesseln-und-praeventivhaft-fuer-gefaehrder-a-c2281500-4ed9-48e3-9013-4226856ad4e2#ref=rss",
-      "publishedAt": "2026-07-27T23:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Großbritannien: Burnham empfängt Selenskyj - erster ausländischer Besucher",
       "url": "https://www.tagesschau.de/ausland/gb-ukraine-usa-selenskyj-100.html",
@@ -780,24 +815,10 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Nach CSD-Anschlag: Rufe nach einem schärferen Strafrecht",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-taeter-aufklaerung-100.html",
-      "publishedAt": "2026-07-27T09:50:11.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "USA: Mehrere Menschen durch Schüsse bei Fest in Seattle getötet",
       "url": "https://www.tagesschau.de/ausland/amerika/seattle-fest-schuesse-100.html",
       "publishedAt": "2026-07-27T07:05:17.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "CSU-Klausurtagung am Rande des Personalkarussells",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-klausurtagung-108.html",
-      "publishedAt": "2026-07-27T06:49:31.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1109,13 +1130,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Studierende geben Hälfte ihres Einkommens für Wohnen aus",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/studierende-wohnkosten-belastung-100.html",
-      "publishedAt": "2026-07-15T08:32:27.000Z",
-      "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Fünf Jahre nach der Ahrtal-Flut - welche Rolle spielt der Klimawandel?",
       "url": "https://www.tagesschau.de/wissen/klima/flut-ahrtal-klimawandel-100.html",
       "publishedAt": "2026-07-14T08:09:46.000Z",
@@ -1207,13 +1221,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Meere im Juni so aufgeheizt wie nie zuvor",
-      "url": "https://www.tagesschau.de/wissen/klima/meere-warm-copernicus-100.html",
-      "publishedAt": "2026-07-01T03:26:59.000Z",
-      "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Studie: HPV-Impfung drückt Krebs-Sterberisiko auf nahezu null",
       "url": "https://www.tagesschau.de/wissen/gesundheit/hp-viren-impfungen-sterberisiko-100.html",
       "publishedAt": "2026-06-30T14:07:58.000Z",
@@ -1252,13 +1259,6 @@
       "title": "Homeoffice: Was neue Orte, Bewegung und Kontakte für die Psyche bewirken",
       "url": "https://www.tagesschau.de/wissen/gesundheit/homeoffice-psyche-100.html",
       "publishedAt": "2026-06-05T15:15:31.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Gewitter können bei Pollen-Allergikern Asthma auslösen",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/gewitter-asthma-heuschnupfen-100.html",
-      "publishedAt": "2026-06-04T09:01:19.000Z",
       "category": "GESUNDHEIT & PSYCHE"
     }
   ]
