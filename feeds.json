@@ -1,28 +1,36 @@
 {
-  "updatedAt": "2026-07-29T19:43:19.711Z",
+  "updatedAt": "2026-07-29T20:37:19.024Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Ich möchte kämpfen“ - Abdul Ballout und der IS",
+      "excerpt": "Ermittler finden bei CSD-Attentäter Ballout neue Beweise für seine IS-Treue.",
+      "url": "https://www.bild.de/politik/inland/abdul-ballout-bekennervideo-des-is-auf-seinem-handy-entdeckt-6a686fd8c435b807339bcfa2",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Aussprache in der Fraktion - Warum Merz von Söder genervt war",
       "excerpt": "Merz ringt mit CDU-Krise, während Söder ein Comeback für Jens Spahn ins Spiel bringt.",
       "url": "https://www.bild.de/politik/inland/aussprache-in-der-fraktion-warum-merz-von-soeder-genervt-war-6a6a2aedc175441768458bf8",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "FIFA will WM-Verkauf - Trump-Familie profitiert vom Infantino-Plan",
-      "excerpt": "Die FIFA will die Kommerzialisierungsrechte an der Fußball-WM teilweise an Privatinvestoren verkaufen. Der Deal soll über die Firma ...",
-      "url": "https://www.bild.de/politik/wm-verkauf-an-privat-investoren-trumps-schwiegersohn-ist-der-gewinner-6a69efb0ded2b2d2df8452d8",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Baerbock sauer wegen Kritik an Frauen - Plötzlich sind sogar die High Heels „zu hoch“",
-      "excerpt": "Annalena Baerbock berichtet von sexistischen Anfeindungen und will Frauen Mut machen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/baerbock-ueber-angriffe-auf-frauen-ploetzlich-sind-high-heels-zu-hoch-6a69da731ff9bc89d8812d08",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "title": "Fußfessel und Präventivhaft - Dobrindt: Härteres Vorgehen gegen Gefährder",
+      "excerpt": "Innenminister Dobrindt äußert sich auf einer Pressekonferenz zu den aktuellen Ermittlungen zum Anschlag auf den CSD in Berlin.",
+      "url": "https://www.bild.de/politik/inland/fussfessel-und-praeventivhaft-dobrindt-haerteres-vorgehen-gegen-gefaehrder-6a68ba7aa17ee9f1dfd81db2",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +38,23 @@
       "title": "INSA-Umfrage - Jeder Dritte gegen neue Tank-Regel",
       "excerpt": "Die Deutschen sind bei Spritpreis-Regeln gespalten, fordern aber Steuersenkung.",
       "url": "https://www.bild.de/politik/inland/spritpreise-75-prozent-fordern-dauerhaft-niedrigere-steuern-6a637335b9a97a04edfd94ba",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "FIFA will WM-Verkauf - Trump-Familie profitiert vom Infantino-Plan",
+      "excerpt": "Die FIFA will die Kommerzialisierungsrechte an der Fußball-WM teilweise an Privatinvestoren verkaufen. Der Deal soll über die Firma ...",
+      "url": "https://www.bild.de/politik/wm-verkauf-an-privat-investoren-trumps-schwiegersohn-ist-der-gewinner-6a69efb0ded2b2d2df8452d8",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Baerbock sauer wegen Kritik an Frauen - Plötzlich sind sogar die High Heels „zu hoch“",
+      "excerpt": "Annalena Baerbock berichtet von sexistischen Anfeindungen und will Frauen Mut machen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/baerbock-ueber-angriffe-auf-frauen-ploetzlich-sind-high-heels-zu-hoch-6a69da731ff9bc89d8812d08",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +62,7 @@
       "title": "Merz schließt Kabinettsumbau ab - Neues Team, neues Glück?",
       "excerpt": "Merz baut Kabinett um, Thorsten Frei wird mit starkem Ergebnis Fraktionschef.",
       "url": "https://www.bild.de/politik/inland/merz-schliesst-kabinettsumbau-ab-neues-team-neues-glueck-6a6a2489dd06dd5ef2e3ea00",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +70,7 @@
       "title": "Angeblicher Griff an Po - Top-Diplomat stolperte über diese Entgleisungen",
       "excerpt": "Diplomat Till Knorn muss New York verlassen, nach Vorwürfen wegen Sexsprüchen.",
       "url": "https://www.bild.de/politik/inland/ex-generalkonsul-in-new-york-darueber-stolperte-wadephuls-top-diplomat-6a5f92cf7d9caf17695e93cc",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +78,7 @@
       "title": "91,9 Prozent - Jetzt hat Frei seinen Traumjob",
       "excerpt": "Thorsten Frei wird mit starkem Ergebnis neuer Unionsfraktionschef im Bundestag.",
       "url": "https://www.bild.de/politik/inland/cdu-fraktionschef-thorsten-frei-jetzt-hat-er-seinen-traumjob-6a69e6f1dd06dd5ef2e3e3df",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +86,7 @@
       "title": "Live-Ticker zum Ukraine-Krieg - Trump gibt Selenskyj offenbar Patriot-Zusage",
       "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +94,7 @@
       "title": "Live-Ticker zum Kabinettsumbau - Plötzlich spricht Söder vom Spahn-Comeback",
       "excerpt": "Spahns Rücktritt löst Kabinettsumbau aus, Bilger wird Verkehrsminister.",
       "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +102,7 @@
       "title": "Zwischenruf von Peter Tiede - Diese Jammer-Abgänge gehen mir auf den Keks!",
       "excerpt": "Politische Ämter hat man auf Zeit. Ständig sagen das alle Politiker mit schönen Ämtern.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-von-peter-tiede-diese-jammerabgaenge-gehen-mir-auf-den-keks-6a6a0cbcded2b2d2df845639",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +110,7 @@
       "title": "Furcht vor neuer Eskalation - Erklärt der Iran jetzt auch Kiew den Krieg?",
       "excerpt": "Ukraine attackiert Waffenfrachter im Kaspischen Meer und warnt vor Irans Rolle.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/angriffe-im-kaspischen-meer-erklaert-der-iran-jetzt-auch-der-ukraine-den-krieg-6a69b80f18af02e41ad87192",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +118,7 @@
       "title": "Kommentar - Wir verschwenden zu viel Wasser",
       "excerpt": "Deutschland leidet unter Hitze, zugleich verschwenden wir kostbares Trinkwasser.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-wir-verschwenden-zu-viel-wasser-6a69e8fb95262dd1627848db",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Vertraulich - Der Politik-Vodcast: Wie sicher ist der CSD in Hamburg?",
       "excerpt": "Nach dem Terror-Anschlag beim CSD in Berlin rüstet sich jetzt Hamburg für den Christopher Street Day. Die Sicherheitsvorkehrungen wu...",
       "url": "https://www.bild.de/politik/vertraulich-der-politik-vodcast-wie-sicher-ist-der-csd-in-hamburg-6a69d56518af02e41ad874f0",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "Dürre in Deutschland - Wasserverbote! Was gilt bei mir?",
       "excerpt": "Wegen zunehmender Wasserknappheit fordert ein Wissenschaftler mehr Nutzung von Abwasser.",
       "url": "https://www.bild.de/politik/inland/duerre-in-deutschland-wasserverbote-was-gilt-bei-mir-6a5ddb3418722ca86615126e",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
@@ -118,47 +142,23 @@
       "title": "Wechsel im Verkehrsministerium - Applaus für Schnieder, Klatsche für Merz",
       "excerpt": "Nach dem Rücktritt als Verkehrsminister wird Patrick Schnieder gefeiert verabschiedet.",
       "url": "https://www.bild.de/politik/inland/wechsel-im-verkehrsministerium-applaus-fuer-schnieder-klatsche-fuer-merz-6a69f0c5ded2b2d2df845312",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
+      "publishedAt": "2026-07-29T20:37:17.729Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Vorstoß aus Sachsen-Anhalt - 5-Prozent-SPD will 5-Prozent-Hürde abschaffen",
-      "excerpt": "SPD-Spitzenkandidat Willingmann könnte mit seiner Partei an der Sperrminorität scheitern.",
-      "url": "https://www.bild.de/politik/inland/sperrminoritaet-5-prozent-spd-will-5-prozent-huerde-abschaffen-6a69e7a685822a37a3331bdb",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mitarbeiter feiern Schnieder - Standing Ovations für gefeuerten Verkehrsminister",
-      "excerpt": "Mitarbeiter feiern den entlassenen Verkehrsminister bei seinem Abschied im Amt.",
-      "url": "https://www.bild.de/politik/inland/patrick-schnieder-standing-ovations-fuer-gefeuerten-verkehrsminister-6a69ec4bdd06dd5ef2e3e4c0",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Ein Stück Freiheit“ - SIE wollen unser Bargeld retten",
-      "excerpt": "BILD erklärt die Schlacht um den Erhalt von Bargeld, die seit drei Jahren in Brüssel tobt.",
-      "url": "https://www.bild.de/politik/inland/bargeld-in-der-eu-die-schlacht-um-das-ueberleben-von-scheinen-und-muenzen-6a57504b88b6b373594b2710",
-      "publishedAt": "2026-07-29T19:43:19.000Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Schreiben an die Bundesregierung - Rente und Pflege: Ost-Ministerpräsidenten der CDU fordern Rücksicht vom Bund",
+      "excerpt": "Die Ministerpräsidenten von Sachsen, Sachsen-Anhalt und Thüringen haben die Bundesregierung aufgefordert, bei den Sozialreformen die Perspektive der ostdeutschen Bundesländer stärker zu berücksichtigen.",
+      "url": "https://www.deutschlandfunk.de/rente-und-pflege-ost-ministerpraesidenten-der-cdu-fordern-ruecksicht-vom-bund-102.html",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Niedersachsen - Mehrere AfD-Bewerber von Kommunalwahl ausgeschlossen",
       "excerpt": "In Niedersachsen sind mehrere AfD-Politiker nicht zu den Kommunalwahlen im September zugelassen worden.",
       "url": "https://www.deutschlandfunk.de/mehrere-afd-bewerber-von-kommunalwahl-ausgeschlossen-102.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesregierung - Kabinettsumbau vollzogen - Merz will seine Politik besser erklären",
-      "excerpt": "Bundeskanzler und CDU-Chef Merz hat nach parteiinterner Kritik an seiner Kabinettsumbildung eine bessere Kommunikation zugesagt. Merz erklärte nach einer Sondersitzung der Unionsfraktion, ein Schwerpunkt seiner Arbeit we",
-      "url": "https://www.deutschlandfunk.de/kabinettsumbau-vollzogen-merz-will-seine-politik-besser-erklaeren-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,23 +166,15 @@
       "title": "Berlin - Justiz und Polizei weisen Kritik nach CSD-Anschlag zurück",
       "excerpt": "Nach dem Anschlag beim Christopher Street Day in Berlin hat die Berliner Justiz Kritik an einem früheren Urteil gegen den mutmaßlichen Täter zurückgewiesen. Die Präsidentin des Kammergerichts, Diekmann, sowie Generalstaa",
       "url": "https://www.deutschlandfunk.de/justiz-und-polizei-weisen-kritik-nach-csd-anschlag-zurueck-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Sicherheit - Hamburger Polizei verdoppelt Einsatzkräfte bei CSD-Veranstaltung",
-      "excerpt": "Nach dem Anschlag beim Christopher Street Day in Berlin hat die Polizei in Hamburg ihre Sicherheitsmaßnahmen für den CSD am kommenden Wochenende verstärkt.",
-      "url": "https://www.deutschlandfunk.de/hamburger-polizei-verdoppelt-einsatzkraefte-bei-csd-veranstaltung-102.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach CSD-Anschlag in Berlin - Nordrhein-Westfalen verschärft Überwachung von 165 islamistischen Gefährdern",
-      "excerpt": "Nach dem Anschlag in Berlin sollen Gefährder in Nordrhein-Westfalen intensiver überwacht werden.",
-      "url": "https://www.deutschlandfunk.de/nordrhein-westfalen-verschaerft-ueberwachung-von-165-islamistischen-gefaehrdern-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "title": "Bundesregierung - Kabinettsumbau vollzogen - Merz will seine Politik besser erklären",
+      "excerpt": "Bundeskanzler und CDU-Chef Merz hat nach parteiinterner Kritik an seiner Kabinettsumbildung eine bessere Kommunikation zugesagt. Merz erklärte nach einer Sondersitzung der Unionsfraktion, ein Schwerpunkt seiner Arbeit we",
+      "url": "https://www.deutschlandfunk.de/kabinettsumbau-vollzogen-merz-will-seine-politik-besser-erklaeren-100.html",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +182,15 @@
       "title": "Waldbrände in Südeuropa - Neue Hitzewelle in Südwestfrankreich - drei Tote bei Waldbränden in Griechenland",
       "excerpt": "Die Waldbrände an der französischen Atlantikküste bei Bordeaux sind weiterhin nicht vollständig unter Kontrolle. Wie die Behörden mitteilten, erschwert eine neue Hitzewelle mit Temperaturen von rund 40 Grad die Bekämpfun",
       "url": "https://www.deutschlandfunk.de/neue-hitzewelle-in-suedwestfrankreich-drei-tote-bei-waldbraenden-in-griechenland-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Demokratische Republik Kongo - Rasant steigende Zahl der Ebola-Fälle - Vereinte Nationen fordern deutlich mehr Hilfe vor Ort",
+      "excerpt": "Angesichts der sich rasant ausbreitenden Ebola-Epidemie in der Demokratischen Republik Kongo fordern die Vereinten Nationen eine Ausweitung der Hilfsmaßnahmen.",
+      "url": "https://www.deutschlandfunk.de/rasant-steigende-zahl-der-ebola-faelle-vereinte-nationen-fordern-deutlich-mehr-hilfe-vor-ort-102.html",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +198,23 @@
       "title": "Konjunktur - US-Notenbank lässt Zinssatz erneut unverändert",
       "excerpt": "Die US-Notenbank Fed lässt den Leitzins ein weiteres Mal unverändert.",
       "url": "https://www.deutschlandfunk.de/us-notenbank-laesst-zinssatz-erneut-unveraendert-102.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheit - Hamburger Polizei verdoppelt Einsatzkräfte bei CSD-Veranstaltung",
+      "excerpt": "Nach dem Anschlag beim Christopher Street Day in Berlin hat die Polizei in Hamburg ihre Sicherheitsmaßnahmen für den CSD am kommenden Wochenende verstärkt.",
+      "url": "https://www.deutschlandfunk.de/hamburger-polizei-verdoppelt-einsatzkraefte-bei-csd-veranstaltung-102.html",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach CSD-Anschlag in Berlin - Nordrhein-Westfalen verschärft Überwachung von 165 islamistischen Gefährdern",
+      "excerpt": "Nach dem Anschlag in Berlin sollen Gefährder in Nordrhein-Westfalen intensiver überwacht werden.",
+      "url": "https://www.deutschlandfunk.de/nordrhein-westfalen-verschaerft-ueberwachung-von-165-islamistischen-gefaehrdern-100.html",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +222,7 @@
       "title": "Naher Osten - Bagdad verurteilt Luftangriffe auf irakisches Territorium",
       "excerpt": "Die Führung des Irak hat die Angriffe auf Iran-treue Milizen im Land verurteilt.",
       "url": "https://www.deutschlandfunk.de/bagdad-verurteilt-luftangriffe-auf-irakisches-territorium-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +230,7 @@
       "title": "Polen - Nach Spaltung von rechtskonservativer PiS-Partei - Polens Ex-Regierungschef Morawiecki gründet eigene Fraktion",
       "excerpt": "Nach der Spaltung von Polens größter Oppositionspartei PiS hat der frühere Regierungschef Morawiecki die Gründung einer neuen Fraktion angekündigt.",
       "url": "https://www.deutschlandfunk.de/nach-spaltung-von-rechtskonservativer-pis-partei-polens-ex-regierungschef-morawiecki-gruendet-eigene-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +238,7 @@
       "title": "Ökostrom-Förderung - Bundeswirtschaftsministerin Reiche: EEG kein Rundum-Sorglos-Paket mehr",
       "excerpt": "Das Bundeskabinett in Berlin hat die Reform der Ökostrom-Förderung und die Neuregelung für Stromnetzanschlüsse beschlossen. Bundeswirtschaftsministerin Reiche sprach von einem Paradigmenwechsel. Das EEG sei künftig kein ",
       "url": "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-eeg-kein-rundum-sorglos-paket-mehr-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +246,7 @@
       "title": "EEG und Netzpaket - Welche Folgen haben die Reform der Ökostrom-Förderung und des Netzanschlusspakets?",
       "excerpt": "Das Bundeskabinett hat nach langen Verhandlungen die Reform der Ökostrom-Förderung und die Neuregelung für Stromnetzanschlüsse beschlossen. Bundeswirtschaftsministerin Reiche, CDU, sprach von einem Paradigmenwechsel. Man",
       "url": "https://www.deutschlandfunk.de/welche-folgen-haben-die-reform-der-oekostrom-foerderung-und-des-netzanschlusspakets-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,7 @@
       "title": "Hohe Kraftstoffpreise - Regierung grundsätzlich offen bei Übergewinnsteuer für Mineralölkonzerne",
       "excerpt": "Angesichts der hohen Kraftstoffpreise steht die Bundesregierung einer Übergewinnsteuer ‌für Mineralölkonzerne grundsätzlich offen gegenüber.",
       "url": "https://www.deutschlandfunk.de/regierung-grundsaetzlich-offen-bei-uebergewinnsteuer-fuer-mineraloelkonzerne-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +262,7 @@
       "title": "Energie - Bundesregierung treibt Bau eines weltweit ersten Kernfusionskraftwerks mit Millionenförderungen voran",
       "excerpt": "Die Bundesregierung treibt die Bemühungen zum Bau des weltweit ersten Kernfusionskraftwerks in den 40er-Jahren in Deutschland voran.",
       "url": "https://www.deutschlandfunk.de/bundesregierung-treibt-bau-eines-weltweit-ersten-kernfusionskraftwerks-mit-millionenfoerderungen-vor-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +270,7 @@
       "title": "Fußball - Berichte: FIFA setzt Mitgliedsverbänden Frist für Infantinos Investoren-Plan",
       "excerpt": "Der Fußball-Weltverband FIFA hat den Mitgliedsverbänden Berichten zufolge eine Frist für die Zustimmung zu einem angekündigten Investorenplan gesetzt. Geplant ist, einen Teil der kommerziellen Rechte für die Weltmeisters",
       "url": "https://www.deutschlandfunk.de/berichte-fifa-setzt-mitgliedsverbaenden-frist-fuer-infantinos-investoren-plan-102.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +278,7 @@
       "title": "Sperrklausel - SPD in Sachsen-Anhalt stellt Fünf-Prozent-Hürde infrage",
       "excerpt": "Der SPD-Spitzenkandidat für die Landtagswahl in Sachsen-Anhalt, Vize-Ministerpräsident Willingmann, stellt die Fünf-Prozent-Hürde infrage.",
       "url": "https://www.deutschlandfunk.de/spd-in-sachsen-anhalt-stellt-fuenf-prozent-huerde-infrage-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,24 +286,16 @@
       "title": "Frankreich - Medienberichte: Pro-Russische Journalistin soll Land verlassen",
       "excerpt": "Die prorussische Journalistin Xenia Fedorova soll aus Frankreich ausgewiesen werden.",
       "url": "https://www.deutschlandfunk.de/medienberichte-pro-russische-journalistin-soll-land-verlassen-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
+      "publishedAt": "2026-07-29T20:10:46.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Nordrhein-Westfalen - Weitere Justizvollzugsanstalt wegen Korruptionsverdachts durchsucht",
-      "excerpt": "In Nordrhein-Westfalen hat die Polizei im Zuge von Korruptionsermittlungen ein weiteres Gefängnis durchsucht.",
-      "url": "https://www.deutschlandfunk.de/weitere-justizvollzugsanstalt-wegen-korruptionsverdachts-durchsucht-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Autobauer - BMW will bis Ende 2027 8.000 Stellen abbauen",
-      "excerpt": "Der Münchner Autobauer BMW will Tausende Stellen in Deutschland abbauen. Das erfuhren mehrere Medien aus Unternehmenskreisen. Demzufolge haben sich Konzernführung und Betriebsrat auf ein Abfindungsprogramm geeinigt, um b",
-      "url": "https://www.deutschlandfunk.de/bmw-will-bis-ende-2027-8-000-stellen-abbauen-100.html",
-      "publishedAt": "2026-07-29T19:26:10.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "excerpt": "Kräftige Winde und Hitze haben auch in der Türkei und Griechenland neue Waldbrände entfacht. Beim Kampf gegen die Flammen am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben.",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "publishedAt": "2026-07-29T19:44:32.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -523,17 +531,17 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Friedrich Merz: Statement des Kanzlers zu CDU-Personalumbau im Livestream",
-      "excerpt": "Aus der eigenen Partei hagelt es Kritik für Kanzler Merz. Nach der Aussprache in der Fraktion tritt er jetzt vor die Presse – sehen Sie sein Statement hier live.",
-      "url": "https://www.spiegel.de/politik/friedrich-merz-statement-des-kanzlers-zu-cdu-personalumbau-im-livestream-a-c7c7b25d-73b2-4932-99f2-eb909e974398#ref=rss",
+      "title": "Thorsten Frei: Merz-Vertrauter als Unionsfraktionschef gewählt",
+      "excerpt": "Gutes Ergebnis für Thorsten Frei: Die Unionsfraktion hat ihn mit 91,9 Prozent zu ihrem neuen Chef gewählt. Eine Aussprache der Abgeordneten mit Kanzler Merz soll folgen – dabei dürfte es ungemütlich werden.",
+      "url": "https://www.spiegel.de/politik/deutschland/thorsten-frei-merz-vertrauter-als-unionsfraktionschef-gewaehlt-a-24f0d2ae-2f63-43c5-b80d-7dfb329504c4#ref=rss",
       "publishedAt": "2026-07-29T13:05:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Thorsten Frei: Merz-Vertrauter als Unionsfraktionschef gewählt",
-      "excerpt": "Gutes Ergebnis für Thorsten Frei: Die Unionsfraktion hat ihn mit 91,9 Prozent zu ihrem neuen Chef gewählt. Eine Aussprache der Abgeordneten mit Kanzler Merz soll folgen – dabei dürfte es ungemütlich werden.",
-      "url": "https://www.spiegel.de/politik/deutschland/thorsten-frei-merz-vertrauter-als-unionsfraktionschef-gewaehlt-a-24f0d2ae-2f63-43c5-b80d-7dfb329504c4#ref=rss",
+      "title": "Friedrich Merz: Statement des Kanzlers zu CDU-Personalumbau im Livestream",
+      "excerpt": "Aus der eigenen Partei hagelt es Kritik für Kanzler Merz. Nach der Aussprache in der Fraktion tritt er jetzt vor die Presse – sehen Sie sein Statement hier live.",
+      "url": "https://www.spiegel.de/politik/friedrich-merz-statement-des-kanzlers-zu-cdu-personalumbau-im-livestream-a-c7c7b25d-73b2-4932-99f2-eb909e974398#ref=rss",
       "publishedAt": "2026-07-29T13:05:00.000Z",
       "category": "POLITIK"
     },
@@ -951,14 +959,6 @@
       "excerpt": "\"Mallorca am Limit\" - Zehntausende Menschen haben unter diesem Motto gegen zu viele Touristen auf der spanischen Insel demonstriert. Sie fordern etwa, die Besucherzahl zu begrenzen. Besonders eng wird es auf dem Wohnungs",
       "url": "https://www.tagesschau.de/ausland/europa/mallorca-massentourismus-proteste-100.html",
       "publishedAt": "2026-07-27T01:43:26.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
-      "excerpt": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mare",
-      "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
-      "publishedAt": "2026-07-26T17:54:16.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
