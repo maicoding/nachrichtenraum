@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#000108" />
     <meta name="description" content="Nachrichtenraum, eine WebXR-Erfahrung über digitale Reizüberflutung." />
     <title>Nachrichtenraum</title>
-    <link rel="stylesheet" href="./src/styles.css?v=7" />
+    <link rel="stylesheet" href="./src/styles.css?v=8" />
     <script src="https://aframe.io/releases/1.8.0/aframe.min.js"></script>
   </head>
   <body>
@@ -35,6 +35,7 @@
               geometry="primitive: triangle; vertexA: 0.032 0.042 0; vertexB: -0.022 -0.032 0; vertexC: 0.025 -0.017 0"
               material="color: #ffffff; shader: flat; side: double; transparent: true; opacity: 0.98; depthTest: false"
             ></a-entity>
+            <a-entity id="vr-motion-toggle" position="0 -0.5 -1.05" visible="false"></a-entity>
           </a-camera>
           <a-entity
             id="right-controller"
@@ -68,12 +69,14 @@
         </div>
       </section>
 
+      <button id="motion-toggle" type="button">ALLE NACHRICHTEN ANHALTEN</button>
+
       <aside id="desktop-help">
         <span>MAUS: 360° BLICK</span>
         <span>WASD: BEWEGEN</span>
         <span>KLICK: ANHALTEN · X: SCHLIESSEN</span>
       </aside>
     </main>
-    <script type="module" src="./src/main.js?v=13"></script>
+    <script type="module" src="./src/main.js?v=14"></script>
   </body>
 </html>

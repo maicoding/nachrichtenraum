@@ -4,6 +4,7 @@ const scene = document.querySelector("#xr-scene");
 const cameraEl = document.querySelector("#viewer");
 const controllerEl = document.querySelector("#right-controller");
 const cursorEl = document.querySelector("#controller-cursor");
+const vrMotionToggleEl = document.querySelector("#vr-motion-toggle");
 const cardsRoot = document.querySelector("#news-root");
 const swarmRoot = document.querySelector("#data-swarm");
 const startScreen = document.querySelector("#start-screen");
@@ -15,6 +16,7 @@ const phaseLabel = document.querySelector("#phase-label");
 const timer = document.querySelector("#timer");
 const messageCount = document.querySelector("#message-count");
 const feedStatus = document.querySelector("#feed-status");
+const motionToggle = document.querySelector("#motion-toggle");
 
 const THREE = window.THREE;
 const cardWidth = 1.62;
@@ -57,6 +59,7 @@ let messages = fallbackMessages.map(normalizeMessage);
 let cards = [];
 let swarm;
 let running = false;
+let allMessagesPaused = false;
 let startedAt = 0;
 let activeStageIndex = -1;
 let lastSpawnAt = 0;
@@ -69,6 +72,8 @@ let audioMaster;
 let animationFrame;
 let lastFrame = performance.now();
 let testOffset = 0;
+let vrToggleMesh;
+let vrToggleTexture;
 
 const pointer = new THREE.Vector2();
 const pointerRay = new THREE.Raycaster();
@@ -189,6 +194,66 @@ function drawCardTexture(message) {
   texture.magFilter = THREE.LinearFilter;
   texture.generateMipmaps = false;
   return texture;
+}
+
+function drawVrToggleTexture() {
+  const canvas = document.createElement("canvas");
+  canvas.width = 512;
+  canvas.height = 112;
+  const context = canvas.getContext("2d");
+  context.fillStyle = allMessagesPaused ? "#98bfff" : "#071327";
+  context.fillRect(0, 0, canvas.width, canvas.height);
+  context.strokeStyle = "#ffffff";
+  context.lineWidth = 6;
+  context.strokeRect(3, 3, canvas.width - 6, canvas.height - 6);
+  context.fillStyle = allMessagesPaused ? "#07101f" : "#ffffff";
+  context.font = "700 28px Arial";
+  context.textAlign = "center";
+  context.textBaseline = "middle";
+  context.fillText(allMessagesPaused ? "NACHRICHTEN FORTSETZEN" : "ALLE NACHRICHTEN ANHALTEN", 256, 56);
+  const texture = new THREE.CanvasTexture(canvas);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.minFilter = THREE.LinearFilter;
+  texture.magFilter = THREE.LinearFilter;
+  texture.generateMipmaps = false;
+  return texture;
+}
+
+function buildVrToggle() {
+  const geometry = new THREE.PlaneGeometry(0.72, 0.158);
+  vrToggleTexture = drawVrToggleTexture();
+  const material = new THREE.MeshBasicMaterial({
+    map: vrToggleTexture,
+    transparent: false,
+    depthTest: false,
+    toneMapped: false,
+  });
+  vrToggleMesh = new THREE.Mesh(geometry, material);
+  vrToggleMesh.renderOrder = 1000;
+  vrToggleMesh.userData.action = "toggleAll";
+  vrMotionToggleEl.setObject3D("mesh", vrToggleMesh);
+}
+
+async function toggleAllMessages() {
+  if (!running || stages[activeStageIndex]?.type === "pause") return;
+  allMessagesPaused = !allMessagesPaused;
+  motionToggle.classList.toggle("is-paused", allMessagesPaused);
+  motionToggle.textContent = allMessagesPaused ? "NACHRICHTEN FORTSETZEN" : "ALLE NACHRICHTEN ANHALTEN";
+  scene.setAttribute("data-all-paused", String(allMessagesPaused));
+  if (vrToggleMesh) {
+    const previous = vrToggleTexture;
+    vrToggleTexture = drawVrToggleTexture();
+    vrToggleMesh.material.map = vrToggleTexture;
+    vrToggleMesh.material.needsUpdate = true;
+    previous?.dispose();
+  }
+  if (allMessagesPaused && audioContext?.state === "running") {
+    await audioContext.suspend();
+  } else if (!allMessagesPaused && audioContext?.state === "suspended") {
+    await audioContext.resume();
+    playPlop(0.9);
+  }
+  scene.dataset.audioState = audioContext?.state || "unavailable";
 }
 
 function randomPoint(radiusMin = 2.4, radiusMax = 8.6) {
@@ -421,6 +486,10 @@ async function enterStage(index, stage) {
     document.body.classList.add("is-silent");
     cardsRoot.object3D.visible = false;
     swarmRoot.object3D.visible = false;
+    if (scene.is("vr-mode")) {
+      cursorEl.setAttribute("visible", false);
+      vrMotionToggleEl.setAttribute("visible", false);
+    }
     if (audioContext?.state === "running") await audioContext.suspend();
     scene.dataset.audioState = audioContext?.state || "unavailable";
     scene.dataset.swarmVisible = "false";
@@ -429,7 +498,11 @@ async function enterStage(index, stage) {
   document.body.classList.remove("is-silent");
   cardsRoot.object3D.visible = true;
   swarmRoot.object3D.visible = true;
-  if (audioContext?.state === "suspended") await audioContext.resume();
+  if (scene.is("vr-mode")) {
+    cursorEl.setAttribute("visible", true);
+    vrMotionToggleEl.setAttribute("visible", true);
+  }
+  if (!allMessagesPaused && audioContext?.state === "suspended") await audioContext.resume();
   scene.dataset.audioState = audioContext?.state || "unavailable";
   scene.dataset.swarmVisible = "true";
   lastSpawnAt = 0;
@@ -485,11 +558,11 @@ function tick(now) {
   if (state.stage.type === "pause") return;
   const rate = THREE.MathUtils.lerp(state.stage.startRate, state.stage.endRate, state.progress);
   const target = Math.round(THREE.MathUtils.lerp(12, state.stage.target, Math.pow(state.progress, 0.6)));
-  if (!interactionTest && now - lastSpawnAt >= rate && cards.length < target) {
+  if (!allMessagesPaused && !interactionTest && now - lastSpawnAt >= rate && cards.length < target) {
     lastSpawnAt = now;
     for (let count = 0; count < state.stage.batch && cards.length < target; count += 1) createCard();
   }
-  updateCards(delta, state.stage.intensity, now);
+  if (!allMessagesPaused) updateCards(delta, state.stage.intensity, now);
   updateSwarm(now, state.stage.intensity);
   updateJoystickCursor(delta);
 }
@@ -515,7 +588,14 @@ function activateAtPointer(pointerPosition) {
   if (!running || activeStageIndex < 0 || stages[activeStageIndex].type === "pause") return;
   const camera = cameraEl.getObject3D("camera");
   pointerRay.setFromCamera(pointerPosition, camera);
-  const hit = pointerRay.intersectObjects(cards.map((card) => card.mesh), false)[0];
+  const targets = vrToggleMesh && scene.is("vr-mode")
+    ? [vrToggleMesh, ...cards.map((card) => card.mesh)]
+    : cards.map((card) => card.mesh);
+  const hit = pointerRay.intersectObjects(targets, false)[0];
+  if (hit?.object?.userData.action === "toggleAll") {
+    toggleAllMessages();
+    return;
+  }
   if (!hit?.object?.userData.card) return;
   if (hit.uv && hit.uv.x > 0.79 && hit.uv.y > 0.7) {
     destroyCard(hit.object.userData.card, true);
@@ -574,6 +654,7 @@ async function startExperience({ enterVR = false } = {}) {
     startScreen.classList.add("is-hidden");
     hud.classList.add("is-visible");
     help.classList.add("is-visible");
+    motionToggle.classList.add("is-visible");
     running = true;
     startedAt = performance.now();
     activeStageIndex = -1;
@@ -591,11 +672,13 @@ async function startExperience({ enterVR = false } = {}) {
 scene.addEventListener("loaded", async () => {
   attachDesktopInteraction();
   buildSwarm();
+  buildVrToggle();
   await loadFeeds();
   swarmRoot.object3D.visible = true;
   cardsRoot.object3D.visible = false;
   scene.setAttribute("data-closed-count", "0");
   scene.setAttribute("data-paused-count", "0");
+  scene.setAttribute("data-all-paused", "false");
   if (navigator.xr) {
     try {
       const supported = await navigator.xr.isSessionSupported("immersive-vr");
@@ -614,12 +697,15 @@ scene.addEventListener("render-target-loaded", () => {
 });
 scene.addEventListener("enter-vr", () => {
   document.body.classList.add("in-vr");
-  cursorEl.setAttribute("visible", true);
+  const interactionVisible = stages[activeStageIndex]?.type !== "pause";
+  cursorEl.setAttribute("visible", interactionVisible);
+  vrMotionToggleEl.setAttribute("visible", interactionVisible);
   if (!running) startExperience();
 });
 scene.addEventListener("exit-vr", () => {
   document.body.classList.remove("in-vr");
   cursorEl.setAttribute("visible", false);
+  vrMotionToggleEl.setAttribute("visible", false);
   joystickAxis.set(0, 0);
 });
 controllerEl.addEventListener("thumbstickmoved", updateJoystickAxis);
@@ -628,6 +714,7 @@ controllerEl.addEventListener("triggerdown", activateControllerCursor);
 controllerEl.addEventListener("thumbstickdown", activateControllerCursor);
 startButton.addEventListener("click", () => startExperience());
 vrButton.addEventListener("click", () => startExperience({ enterVR: true }));
+motionToggle.addEventListener("click", () => toggleAllMessages());
 window.addEventListener("keydown", (event) => {
   if (event.key.toLowerCase() === "x" && running && cards.length) {
     const nearest = cards
@@ -649,6 +736,7 @@ window.nachrichtenraum = {
     cards: cards.length,
     closedCount,
     pausedCount,
+    allMessagesPaused,
     audioState: audioContext?.state || "unavailable",
     rssMessages: Number(scene.dataset.feedCount || 0),
   }),
