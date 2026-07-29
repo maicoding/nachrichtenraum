@@ -1,691 +1,619 @@
-import * as THREE from 'three';
-import { VRButton } from 'three/addons/webxr/VRButton.js';
-import { messageAt } from './data.js';
+import { fallbackMessages } from "./data.js";
 
-const sceneHost = document.querySelector('#scene');
-const ui = {
-  intro: document.querySelector('#intro'),
-  enter: document.querySelector('#enter'),
-  toggle: document.querySelector('#toggle'),
-  add: document.querySelector('#add'),
-  sound: document.querySelector('#sound'),
-  vr: document.querySelector('#vr'),
-  elapsed: document.querySelector('#elapsed'),
-  phase: document.querySelector('#phase'),
-  intensity: document.querySelector('#intensity'),
-  count: document.querySelector('#count'),
-  sourceStatus: document.querySelector('#source-status')
+const scene = document.querySelector("#xr-scene");
+const cameraEl = document.querySelector("#viewer");
+const controllerEl = document.querySelector("#right-controller");
+const cursorEl = document.querySelector("#controller-cursor");
+const cardsRoot = document.querySelector("#news-root");
+const swarmRoot = document.querySelector("#data-swarm");
+const startScreen = document.querySelector("#start-screen");
+const startButton = document.querySelector("#start-button");
+const vrButton = document.querySelector("#vr-button");
+const hud = document.querySelector("#hud");
+const help = document.querySelector("#desktop-help");
+const phaseLabel = document.querySelector("#phase-label");
+const timer = document.querySelector("#timer");
+const messageCount = document.querySelector("#message-count");
+const feedStatus = document.querySelector("#feed-status");
+
+const THREE = window.THREE;
+const cardWidth = 1.62;
+const cardHeight = 0.8;
+const cardLimit = 132;
+const stages = [
+  { type: "active", label: "PHASE I · ÜBERFLUTUNG", duration: 20, intensity: 1, target: 48, startRate: 780, endRate: 150, batch: 1 },
+  { type: "pause", label: "STILLE", duration: 6 },
+  { type: "active", label: "PHASE II · ESKALATION", duration: 30, intensity: 1.35, target: 76, startRate: 480, endRate: 82, batch: 2 },
+  { type: "pause", label: "STILLE", duration: 6 },
+  { type: "active", label: "PHASE III · SCHNELL", duration: 20, intensity: 1.6, target: 94, startRate: 310, endRate: 62, batch: 2 },
+  { type: "pause", label: "STILLE", duration: 6 },
+  { type: "active", label: "PHASE IV · SCHNELLER", duration: 20, intensity: 1.9, target: 114, startRate: 220, endRate: 45, batch: 3 },
+  { type: "pause", label: "STILLE", duration: 6 },
+  { type: "active", label: "PHASE V · MAXIMUM", duration: 20, intensity: 2.3, target: 132, startRate: 150, endRate: 34, batch: 3 },
+  { type: "pause", label: "STILLE", duration: 6 },
+];
+const cycleDuration = stages.reduce((sum, stage) => sum + stage.duration, 0);
+const categoryColors = {
+  POLITIK: "#123c75",
+  INNENPOLITIK: "#133f78",
+  AUSLANDSPOLITIK: "#173560",
+  AUSLAND: "#173560",
+  "WIRTSCHAFT & PREISE": "#0c496a",
+  WIRTSCHAFT: "#0c496a",
+  MIETEN: "#24456e",
+  RENTE: "#343e65",
+  "GESUNDHEIT & PSYCHE": "#184f61",
+  GESUNDHEIT: "#184f61",
+  "KLIMA & UMWELT": "#155266",
+  KLIMA: "#155266",
+  STUDIUM: "#2d3f73",
+  "KARRIERE & STUDIUM": "#27476b",
+  KARRIERE: "#27476b",
+  NACHRICHTEN: "#163b68",
+  NEWS: "#163b68",
 };
 
-const phases = [
-  { id: 'onset', label: 'ANLAUF', start: 0, end: 10, speed: 2.8, level: 2.5, interval: .55, batch: 1, breath: false, hold: 3.8, surround: .35 },
-  { id: 'acceleration', label: 'BESCHLEUNIGUNG', start: 10, end: 22, speed: 4.8, level: 4, interval: .24, batch: 2, breath: false, hold: 2.6, surround: .55 },
-  { id: 'flood', label: 'FLUT', start: 22, end: 32, speed: 7, level: 5.2, interval: .12, batch: 3, breath: false, hold: 1.7, surround: .72 },
-  { id: 'overload', label: 'ÜBERLASTUNG', start: 32, end: 40, speed: 9, level: 6, interval: .075, batch: 4, breath: false, hold: 1, surround: .86 },
-  { id: 'silence', label: 'STILLE', start: 40, end: Infinity, speed: 0, level: 0, interval: Infinity, batch: 0, breath: false, hold: 0, surround: 0 }
-];
-const timelineLength = 40;
-const localTempo = ['localhost', '127.0.0.1'].includes(location.hostname)
-  ? THREE.MathUtils.clamp(Number(new URLSearchParams(location.search).get('tempo')) || 1, 1, 60)
-  : 1;
-const localStart = ['localhost', '127.0.0.1'].includes(location.hostname)
-  ? THREE.MathUtils.clamp(Number(new URLSearchParams(location.search).get('start')) || 0, 0, timelineLength)
-  : 0;
-
-const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x090a0b);
-scene.fog = new THREE.FogExp2(0x090a0b, 0.034);
-
-const camera = new THREE.PerspectiveCamera(68, innerWidth / innerHeight, 0.03, 160);
-camera.position.set(0, 1.62, 2.8);
-camera.rotation.order = 'YXZ';
-
-const player = new THREE.Group();
-scene.add(player);
-player.add(camera);
-sceneHost.dataset.playerX = '0.000';
-sceneHost.dataset.playerZ = '0.000';
-sceneHost.dataset.phase = 'ready';
-sceneHost.dataset.yaw = '0.000';
-sceneHost.dataset.passed = 'false';
-sceneHost.dataset.risen = 'false';
-sceneHost.dataset.receded = 'false';
-
-const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
-renderer.setPixelRatio(Math.min(devicePixelRatio, 1.7));
-renderer.setSize(innerWidth, innerHeight);
-renderer.outputColorSpace = THREE.SRGBColorSpace;
-renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = .76;
-renderer.xr.enabled = true;
-sceneHost.append(renderer.domElement);
-
-const tunnel = new THREE.Mesh(
-  new THREE.CylinderGeometry(7.5, 7.5, 150, 48, 1, true),
-  new THREE.MeshStandardMaterial({ color: 0x141617, roughness: 1, metalness: 0, side: THREE.BackSide })
-);
-tunnel.rotation.x = Math.PI / 2;
-tunnel.position.z = -67;
-scene.add(tunnel);
-
-const floor = new THREE.Mesh(
-  new THREE.PlaneGeometry(16, 150, 1, 30),
-  new THREE.MeshStandardMaterial({ color: 0x0e1011, roughness: 1, metalness: 0 })
-);
-floor.rotation.x = -Math.PI / 2;
-floor.position.set(0, 0, -67);
-scene.add(floor);
-
-const ribs = new THREE.Group();
-const ribMaterial = new THREE.MeshBasicMaterial({ color: 0x272a2b, transparent: true, opacity: .24 });
-for (let z = 1; z > -140; z -= 4) {
-  const rib = new THREE.Mesh(new THREE.TorusGeometry(7.45, .018, 4, 64), ribMaterial);
-  rib.position.set(0, 1.3, z);
-  rib.rotation.x = Math.PI / 2;
-  ribs.add(rib);
-}
-scene.add(ribs);
-scene.add(new THREE.HemisphereLight(0xbfc6c8, 0x08090a, .18));
-
-const messageGroup = new THREE.Group();
-scene.add(messageGroup);
-const cards = [];
-const clock = new THREE.Clock();
-const raycaster = new THREE.Raycaster();
-const pointer = new THREE.Vector2();
-const controllerRotation = new THREE.Matrix4();
+let messages = fallbackMessages.map(normalizeMessage);
+let cards = [];
+let swarm;
 let running = false;
-let soundOn = true;
 let startedAt = 0;
-let elapsedBeforePause = localStart;
-let nextSpawnAt = 0;
-let sequence = 0;
-let liveMessages = [];
-const movementKeys = new Set();
-const moveForward = new THREE.Vector3();
-const moveRight = new THREE.Vector3();
-const moveDirection = new THREE.Vector3();
-const desiredVelocity = new THREE.Vector2();
-const smoothVelocity = new THREE.Vector2();
-const worldUp = new THREE.Vector3(0, 1, 0);
-const cameraWorldPosition = new THREE.Vector3();
-const headBeforeTurn = new THREE.Vector3();
-const headAfterTurn = new THREE.Vector3();
+let activeStageIndex = -1;
+let lastSpawnAt = 0;
+let lastSoundAt = 0;
+let closedCount = 0;
+let seededTestCard = false;
+let audioContext;
+let audioMaster;
+let animationFrame;
+let lastFrame = performance.now();
+let testOffset = 0;
 
-function roundedRect(ctx, x, y, w, h, radius) {
-  ctx.beginPath();
-  ctx.roundRect(x, y, w, h, radius);
-  ctx.fill();
+const pointer = new THREE.Vector2();
+const pointerRay = new THREE.Raycaster();
+const cameraPosition = new THREE.Vector3();
+const controllerPosition = new THREE.Vector3();
+const cardLocalPoint = new THREE.Vector3();
+const lookTarget = new THREE.Vector3();
+
+const params = new URLSearchParams(location.search);
+const localTesting = location.hostname === "localhost" || location.hostname === "127.0.0.1";
+const interactionTest = localTesting && params.get("test") === "1";
+if (localTesting && params.has("start")) testOffset = Number(params.get("start")) || 0;
+
+function stripMarkup(value = "") {
+  const text = document.createElement("textarea");
+  text.innerHTML = String(value).replace(/<[^>]*>/g, " ");
+  return text.value.replace(/\s+/g, " ").trim();
 }
 
-function colorForCategory(category = '') {
-  const name = category.toUpperCase();
-  if (name.includes('WIRTSCHAFT') || name.includes('PREIS')) return '#183A5A';
-  if (name.includes('INNEN')) return '#263E63';
-  if (name.includes('AUSLAND')) return '#1D4B73';
-  if (name.includes('KARRIERE') || name.includes('STUDIUM')) return '#313D65';
-  if (name.includes('KLIMA') || name.includes('UMWELT') || name.includes('REGION')) return '#164A59';
-  if (name.includes('GESUND') || name.includes('PSYCH')) return '#343B63';
-  if (name.includes('WISSEN') || name.includes('UNIVERSUM')) return '#1E405F';
-  if (name.includes('NETZ') || name.includes('MEDIEN')) return '#193B50';
-  if (name.includes('POLITIK')) return '#263B59';
-  return '#1C2C3E';
+function normalizeMessage(item = {}) {
+  const title = stripMarkup(item.title).slice(0, 150) || "Neue Meldung";
+  const excerpt = stripMarkup(item.excerpt || item.description || item.summary).slice(0, 220);
+  return {
+    title,
+    excerpt: excerpt || "Eine neue Entwicklung erzeugt weitere Fragen, Reaktionen und Folgeprobleme.",
+    source: stripMarkup(item.source || "RSS").toUpperCase().slice(0, 26),
+    category: stripMarkup(item.category || "NEWS").toUpperCase().slice(0, 22),
+    link: item.link || item.url || "",
+  };
 }
 
-function makeCardTexture(message, index) {
-  const canvas = document.createElement('canvas');
-  canvas.width = 900;
-  canvas.height = 300;
-  const ctx = canvas.getContext('2d');
-  ctx.fillStyle = colorForCategory(message.category);
-  roundedRect(ctx, 3, 3, 894, 294, 30);
-  ctx.strokeStyle = 'rgba(186, 218, 247, .62)';
-  ctx.lineWidth = 4;
-  ctx.stroke();
-  ctx.beginPath();
-  ctx.arc(50, 45, 8, 0, Math.PI * 2);
-  ctx.fillStyle = '#8CCBFF';
-  ctx.fill();
-  ctx.fillStyle = '#EAF3FC';
-  ctx.font = '500 24px Arial';
-  ctx.letterSpacing = '3px';
-  ctx.fillText(message.source, 74, 52);
-  ctx.fillStyle = '#AFC7DE';
-  ctx.textAlign = 'right';
-  ctx.font = '500 19px Arial';
-  ctx.fillText(String(index + 1).padStart(3, '0'), 856, 48);
-  ctx.textAlign = 'left';
-  ctx.fillStyle = '#F7FAFD';
-  ctx.font = '600 47px Arial';
-  const words = message.title.split(' ');
+async function loadFeeds() {
+  const paths = ["./feeds.json", "./public/feeds.json"];
+  for (const path of paths) {
+    try {
+      const response = await fetch(`${path}?v=${Date.now()}`, { cache: "no-store" });
+      if (!response.ok) continue;
+      const payload = await response.json();
+      const list = Array.isArray(payload) ? payload : payload.messages;
+      if (Array.isArray(list) && list.length) {
+        messages = [...list.map(normalizeMessage), ...fallbackMessages.map(normalizeMessage)];
+        feedStatus.textContent = `${list.length} RSS-MELDUNGEN`;
+        scene.dataset.feedCount = String(list.length);
+        return;
+      }
+    } catch {
+      feedStatus.textContent = "RSS-FALLBACK";
+    }
+  }
+  messages = fallbackMessages.map(normalizeMessage);
+  feedStatus.textContent = "RSS-FALLBACK";
+  scene.dataset.feedCount = "0";
+}
+
+function wrapText(context, value, maxWidth, maxLines) {
+  const words = value.split(/\s+/);
   const lines = [];
-  let line = '';
-  for (const word of words) {
-    const test = `${line}${line ? ' ' : ''}${word}`;
-    if (ctx.measureText(test).width > 800 && line) {
+  let line = "";
+  while (words.length && lines.length < maxLines) {
+    const word = words.shift();
+    const candidate = line ? `${line} ${word}` : word;
+    if (context.measureText(candidate).width > maxWidth && line) {
       lines.push(line);
       line = word;
     } else {
-      line = test;
+      line = candidate;
     }
   }
-  lines.push(line);
-  lines.slice(0, 2).forEach((text, i) => ctx.fillText(text, 44, 122 + i * 54));
-  ctx.fillStyle = '#B8CEE2';
-  ctx.font = '500 18px Arial';
-  ctx.fillText(`${message.category}  ·  ${message.age}`, 44, 266);
+  if (line && lines.length < maxLines) lines.push(line);
+  if (words.length && lines.length) {
+    let finalLine = lines.at(-1);
+    while (context.measureText(`${finalLine}…`).width > maxWidth && finalLine.length > 4) {
+      finalLine = finalLine.slice(0, -1);
+    }
+    lines[lines.length - 1] = `${finalLine.trim()}…`;
+  }
+  return lines;
+}
+
+function drawCardTexture(message) {
+  const canvas = document.createElement("canvas");
+  canvas.width = 512;
+  canvas.height = 256;
+  const context = canvas.getContext("2d");
+  const accent = categoryColors[message.category] || categoryColors.NEWS;
+  context.fillStyle = "#ffffff";
+  context.fillRect(0, 0, canvas.width, canvas.height);
+  context.fillStyle = accent;
+  context.fillRect(0, 0, 14, canvas.height);
+  context.fillRect(14, 0, canvas.width - 14, 13);
+  context.fillStyle = "#090d16";
+  context.fillRect(449, 18, 46, 46);
+  context.strokeStyle = "#ffffff";
+  context.lineWidth = 4;
+  context.beginPath();
+  context.moveTo(462, 31);
+  context.lineTo(482, 51);
+  context.moveTo(482, 31);
+  context.lineTo(462, 51);
+  context.stroke();
+  context.fillStyle = "#1b2d4d";
+  context.font = "700 14px Arial";
+  context.fillText(`${message.source} · ${message.category}`, 34, 47);
+  context.fillStyle = "#070a0f";
+  context.font = "700 27px Arial";
+  const titleLines = wrapText(context, message.title, 397, 3);
+  titleLines.forEach((line, index) => context.fillText(line, 34, 87 + index * 30));
+  const excerptY = 103 + titleLines.length * 30;
+  context.fillStyle = "#313744";
+  context.font = "400 16px Arial";
+  const excerptLines = wrapText(context, message.excerpt, 440, 2);
+  excerptLines.forEach((line, index) => context.fillText(line, 34, excerptY + index * 21));
+  context.fillStyle = accent;
+  context.fillRect(34, 232, 108, 5);
   const texture = new THREE.CanvasTexture(canvas);
   texture.colorSpace = THREE.SRGBColorSpace;
-  texture.anisotropy = Math.min(8, renderer.capabilities.getMaxAnisotropy());
+  texture.minFilter = THREE.LinearFilter;
+  texture.magFilter = THREE.LinearFilter;
+  texture.generateMipmaps = false;
   return texture;
 }
 
-function currentElapsed() {
-  const seconds = running ? elapsedBeforePause + ((performance.now() - startedAt) / 1000) * localTempo : elapsedBeforePause;
-  return Math.max(0, seconds);
+function randomPoint(radiusMin = 2.4, radiusMax = 8.6) {
+  const radius = THREE.MathUtils.lerp(radiusMin, radiusMax, Math.pow(Math.random(), 0.68));
+  const theta = Math.random() * Math.PI * 2;
+  const vertical = THREE.MathUtils.lerp(-0.92, 0.92, Math.random());
+  const planar = Math.sqrt(1 - vertical * vertical);
+  return new THREE.Vector3(
+    Math.cos(theta) * planar * radius,
+    1.45 + vertical * radius * 0.72,
+    Math.sin(theta) * planar * radius,
+  );
 }
 
-function phaseAt(seconds = currentElapsed()) {
-  return phases.find(phase => seconds >= phase.start && seconds < phase.end) || phases.at(-1);
+function removeOldestCard() {
+  const oldest = cards[0];
+  if (oldest) destroyCard(oldest, false);
 }
 
-function disposeCard(card) {
-  const index = cards.indexOf(card);
-  if (index >= 0) cards.splice(index, 1);
-  card.material.map.dispose();
-  card.material.dispose();
-  card.geometry.dispose();
-  messageGroup.remove(card);
-}
-
-function playTone(level) {
-  if (!soundOn || !audio.context || level <= 0) return;
-  const ctx = audio.context;
-  const now = ctx.currentTime;
-  const osc = ctx.createOscillator();
-  const gain = ctx.createGain();
-  osc.type = Math.random() > .7 ? 'triangle' : 'sine';
-  osc.frequency.setValueAtTime(640 + Math.random() * 620, now);
-  osc.frequency.exponentialRampToValueAtTime(280 + level * 18, now + .12);
-  gain.gain.setValueAtTime(.0001, now);
-  gain.gain.exponentialRampToValueAtTime(.007 + level * .004, now + .008);
-  gain.gain.exponentialRampToValueAtTime(.0001, now + .15);
-  osc.connect(gain).connect(audio.master);
-  osc.start(now);
-  osc.stop(now + .16);
-}
-
-function spawnCard(customMessage, close = false, quiet = false) {
-  const message = customMessage || (liveMessages.length ? liveMessages[sequence % liveMessages.length] : messageAt(sequence));
-  const phase = phaseAt();
+function createCard(options = {}) {
+  if (cards.length >= cardLimit) removeOldestCard();
+  const message = options.message || messages[Math.floor(Math.random() * messages.length)];
+  const texture = drawCardTexture(message);
+  const geometry = new THREE.PlaneGeometry(cardWidth, cardHeight);
   const material = new THREE.MeshBasicMaterial({
-    map: makeCardTexture(message, sequence),
-    transparent: true,
-    opacity: 0,
+    map: texture,
+    transparent: false,
     side: THREE.DoubleSide,
-    toneMapped: false
+    toneMapped: false,
   });
-  const card = new THREE.Mesh(new THREE.PlaneGeometry(.6, .2), material);
-  const side = Math.random() < .5 ? -1 : 1;
-  const spread = 2.7 + phase.level * .45;
-  const readable = close || Math.random() < .34;
-  const surroundChance = phase.surround;
-  const surroundsViewer = Math.random() < surroundChance;
-  const angle = Math.random() * Math.PI * 2;
-  const distance = readable ? 3.2 + Math.random() * 3.2 : surroundsViewer ? 4.8 + Math.random() * 2.2 : 7 + Math.random() * 8;
-  const rawBaseX = surroundsViewer
-    ? player.position.x + Math.cos(angle) * distance
-    : player.position.x + side * (readable ? .45 + Math.random() * 2.5 : .7 + Math.random() * spread);
-  const baseX = THREE.MathUtils.clamp(rawBaseX, -6.4, 6.4);
-  const baseY = readable ? 1.05 + Math.random() * 2.3 : .65 + Math.random() * 4.4;
-  const baseZ = surroundsViewer ? player.position.z + Math.sin(angle) * distance : player.position.z - distance;
-  const horizontalDistance = Math.max(.001, Math.hypot(player.position.x - baseX, player.position.z - baseZ));
-  const directionX = (player.position.x - baseX) / horizontalDistance;
-  const directionZ = (player.position.z - baseZ) / horizontalDistance;
-  const motionRoll = Math.random();
-  const behavior = motionRoll < .22 ? 'rise' : motionRoll < .42 ? 'recede' : 'pass';
-  card.position.set(baseX, baseY, baseZ);
-  camera.getWorldPosition(cameraWorldPosition);
-  card.lookAt(cameraWorldPosition);
-  card.userData = {
-    id: sequence,
-    born: clock.elapsedTime,
-    baseX,
-    baseY,
-    baseZ,
-    behavior,
-    category: message.category,
-    directionX,
-    directionZ,
-    hold: phase.hold,
-    startDistance: horizontalDistance,
-    surroundsViewer,
-    targetScale: readable ? 1.12 : .96,
-    travel: 0,
-    speed: phase.speed * (.84 + Math.random() * .32),
-    waveAmplitude: .22 + Math.random() * (.42 + phase.level * .1),
-    waveFrequency: .55 + Math.random() * 1.1,
-    wavePhase: Math.random() * Math.PI * 2,
-    url: message.url || ''
+  const mesh = new THREE.Mesh(geometry, material);
+  const entity = document.createElement("a-entity");
+  entity.className = "news-card";
+  entity.setObject3D("mesh", mesh);
+  cardsRoot.appendChild(entity);
+  const position = options.position || randomPoint();
+  entity.object3D.position.copy(position);
+  cameraEl.object3D.getWorldPosition(cameraPosition);
+  entity.object3D.lookAt(cameraPosition);
+  entity.object3D.rotateZ(THREE.MathUtils.randFloatSpread(0.16));
+  entity.object3D.scale.setScalar(options.scale || THREE.MathUtils.randFloat(0.88, 1.08));
+  const direction = position.clone().sub(cameraPosition).normalize();
+  const tangent = new THREE.Vector3(-direction.z, THREE.MathUtils.randFloatSpread(0.32), direction.x).normalize();
+  const card = {
+    entity,
+    mesh,
+    texture,
+    geometry,
+    material,
+    message,
+    bornAt: performance.now(),
+    pitch: THREE.MathUtils.randFloat(0.72, 1.65),
+    velocity: tangent.multiplyScalar(THREE.MathUtils.randFloat(0.018, 0.065)),
+    wave: Math.random() * Math.PI * 2,
   };
-  card.scale.setScalar(.04);
-  messageGroup.add(card);
+  mesh.userData.card = card;
   cards.push(card);
-  sequence += 1;
-  while (cards.length > 240) disposeCard(cards[0]);
-  if (!quiet) playTone(phase.level || 3);
-  updateReadout();
+  updateCardCount();
+  if (running && options.sound !== false) playPlop(card.pitch);
+  return card;
 }
 
-function updateReadout() {
-  const seconds = Math.floor(currentElapsed());
-  const phase = phaseAt(seconds);
-  ui.elapsed.textContent = `${String(Math.floor(seconds / 60)).padStart(2, '0')}:${String(seconds % 60).padStart(2, '0')}`;
-  ui.intensity.style.height = `${Math.max(3, phase.level / 6 * 100)}%`;
-  ui.count.textContent = String(cards.length).padStart(3, '0');
-  ui.phase.textContent = !running && seconds === 0 ? 'BEREIT' : !running ? 'ANGEHALTEN' : phase.label;
-  sceneHost.dataset.phase = !running && seconds === 0 ? 'ready' : phase.id;
-  sceneHost.dataset.behaviors = [...new Set(cards.map(card => card.userData.behavior))].join(',');
-  sceneHost.dataset.categories = [...new Set(cards.map(card => card.userData.category))].join('|');
-  sceneHost.dataset.surrounding = String(cards.filter(card => card.userData.surroundsViewer).length);
-}
-
-const audio = { context: null, master: null, drone: null, breath: null };
-function initAudio() {
-  if (audio.context) {
-    audio.context.resume();
-    return;
+function destroyCard(card, interaction = true) {
+  const index = cards.indexOf(card);
+  if (index < 0) return;
+  cards.splice(index, 1);
+  card.entity.removeObject3D("mesh");
+  card.entity.remove();
+  card.geometry.dispose();
+  card.material.dispose();
+  card.texture.dispose();
+  if (interaction) {
+    closedCount += 1;
+    playWhoosh(card.pitch);
+    createCard();
+    createCard();
   }
+  scene.setAttribute("data-closed-count", String(closedCount));
+  updateCardCount();
+}
+
+function updateCardCount() {
+  messageCount.textContent = `${cards.length} NACHRICHTEN`;
+  scene.dataset.cardCount = String(cards.length);
+}
+
+function buildSwarm() {
+  const pointCount = 920;
+  const positions = new Float32Array(pointCount * 3);
+  const colors = new Float32Array(pointCount * 3);
+  const points = [];
+  for (let index = 0; index < pointCount; index += 1) {
+    const point = randomPoint(1.8, 13.5);
+    points.push(point);
+    positions[index * 3] = point.x;
+    positions[index * 3 + 1] = point.y;
+    positions[index * 3 + 2] = point.z;
+    colors[index * 3] = THREE.MathUtils.randFloat(0.08, 0.2);
+    colors[index * 3 + 1] = THREE.MathUtils.randFloat(0.32, 0.6);
+    colors[index * 3 + 2] = THREE.MathUtils.randFloat(0.72, 1);
+  }
+  const pointGeometry = new THREE.BufferGeometry();
+  pointGeometry.setAttribute("position", new THREE.BufferAttribute(positions, 3));
+  pointGeometry.setAttribute("color", new THREE.BufferAttribute(colors, 3));
+  const pointMaterial = new THREE.PointsMaterial({
+    size: 0.035,
+    vertexColors: true,
+    transparent: true,
+    opacity: 0.76,
+    depthWrite: false,
+    blending: THREE.AdditiveBlending,
+    sizeAttenuation: true,
+  });
+  const pointMesh = new THREE.Points(pointGeometry, pointMaterial);
+  const lineCount = 330;
+  const linePositions = new Float32Array(lineCount * 6);
+  for (let index = 0; index < lineCount; index += 1) {
+    const first = points[Math.floor(Math.random() * points.length)];
+    let second = points[Math.floor(Math.random() * points.length)];
+    let attempts = 0;
+    while (first.distanceTo(second) > 3.2 && attempts < 10) {
+      second = points[Math.floor(Math.random() * points.length)];
+      attempts += 1;
+    }
+    linePositions.set([first.x, first.y, first.z, second.x, second.y, second.z], index * 6);
+  }
+  const lineGeometry = new THREE.BufferGeometry();
+  lineGeometry.setAttribute("position", new THREE.BufferAttribute(linePositions, 3));
+  const lineMaterial = new THREE.LineBasicMaterial({
+    color: 0x174a92,
+    transparent: true,
+    opacity: 0.16,
+    depthWrite: false,
+    blending: THREE.AdditiveBlending,
+  });
+  const lineMesh = new THREE.LineSegments(lineGeometry, lineMaterial);
+  const group = new THREE.Group();
+  group.add(pointMesh, lineMesh);
+  swarmRoot.setObject3D("mesh", group);
+  swarm = { group, pointMaterial, lineMaterial };
+}
+
+function initAudio() {
+  if (audioContext) return;
   const AudioContext = window.AudioContext || window.webkitAudioContext;
   if (!AudioContext) return;
-  audio.context = new AudioContext();
-  audio.master = audio.context.createGain();
-  audio.master.gain.value = soundOn ? .52 : 0;
-  audio.master.connect(audio.context.destination);
+  audioContext = new AudioContext();
+  audioMaster = audioContext.createGain();
+  audioMaster.gain.value = 0.38;
+  audioMaster.connect(audioContext.destination);
+  scene.dataset.audioState = audioContext.state;
+}
 
-  const drone = audio.context.createOscillator();
-  const droneGain = audio.context.createGain();
-  drone.type = 'sine';
-  drone.frequency.value = 42;
-  droneGain.gain.value = 0;
-  drone.connect(droneGain).connect(audio.master);
-  drone.start();
-  audio.drone = droneGain;
+function playPlop(pitch = 1) {
+  if (!audioContext || audioContext.state !== "running") return;
+  const nowMs = performance.now();
+  if (nowMs - lastSoundAt < 48) return;
+  lastSoundAt = nowMs;
+  const now = audioContext.currentTime;
+  const oscillator = audioContext.createOscillator();
+  const gain = audioContext.createGain();
+  oscillator.type = Math.random() > 0.45 ? "sine" : "triangle";
+  oscillator.frequency.setValueAtTime(180 * pitch, now);
+  oscillator.frequency.exponentialRampToValueAtTime(70 * pitch, now + 0.09);
+  gain.gain.setValueAtTime(0.0001, now);
+  gain.gain.exponentialRampToValueAtTime(0.13, now + 0.008);
+  gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.11);
+  oscillator.connect(gain);
+  gain.connect(audioMaster);
+  oscillator.start(now);
+  oscillator.stop(now + 0.12);
+}
 
-  const buffer = audio.context.createBuffer(1, audio.context.sampleRate * 5, audio.context.sampleRate);
+function playWhoosh(pitch = 1) {
+  if (!audioContext || audioContext.state !== "running") return;
+  const now = audioContext.currentTime;
+  const length = Math.floor(audioContext.sampleRate * 0.2);
+  const buffer = audioContext.createBuffer(1, length, audioContext.sampleRate);
   const data = buffer.getChannelData(0);
-  for (let i = 0; i < data.length; i += 1) data[i] = (Math.random() * 2 - 1) * .55;
-  const breathSource = audio.context.createBufferSource();
-  const filter = audio.context.createBiquadFilter();
-  const breathGain = audio.context.createGain();
-  breathSource.buffer = buffer;
-  breathSource.loop = true;
-  filter.type = 'lowpass';
-  filter.frequency.value = 620;
-  filter.Q.value = .7;
-  breathGain.gain.value = 0;
-  breathSource.connect(filter).connect(breathGain).connect(audio.master);
-  breathSource.start();
-  audio.breath = breathGain;
-}
-
-function start() {
-  initAudio();
-  if (!running) {
-    startedAt = performance.now();
-    running = true;
-    nextSpawnAt = currentElapsed() + .3;
+  for (let index = 0; index < length; index += 1) {
+    data[index] = (Math.random() * 2 - 1) * (1 - index / length);
   }
-  ui.intro.classList.add('hidden');
-  ui.toggle.textContent = 'PAUSE';
-  updateReadout();
+  const source = audioContext.createBufferSource();
+  const filter = audioContext.createBiquadFilter();
+  const gain = audioContext.createGain();
+  source.buffer = buffer;
+  filter.type = "bandpass";
+  filter.frequency.setValueAtTime(1300 * pitch, now);
+  filter.frequency.exponentialRampToValueAtTime(210 * pitch, now + 0.2);
+  gain.gain.setValueAtTime(0.12, now);
+  gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.2);
+  source.connect(filter);
+  filter.connect(gain);
+  gain.connect(audioMaster);
+  source.start(now);
 }
 
-function pause() {
-  elapsedBeforePause = currentElapsed();
-  running = false;
-  ui.toggle.textContent = 'WEITER';
-  updateReadout();
+function currentStage(elapsed) {
+  let cycleTime = ((elapsed % cycleDuration) + cycleDuration) % cycleDuration;
+  for (let index = 0; index < stages.length; index += 1) {
+    if (cycleTime < stages[index].duration) {
+      return { index, stage: stages[index], progress: cycleTime / stages[index].duration };
+    }
+    cycleTime -= stages[index].duration;
+  }
+  return { index: 0, stage: stages[0], progress: 0 };
 }
 
-ui.enter.addEventListener('click', start);
-ui.toggle.addEventListener('click', () => running ? pause() : start());
-ui.add.addEventListener('click', () => {
-  initAudio();
-  spawnCard(null, true);
-});
-ui.sound.addEventListener('click', () => {
-  soundOn = !soundOn;
-  ui.sound.textContent = soundOn ? 'TON AN' : 'TON AUS';
-  ui.sound.setAttribute('aria-pressed', String(soundOn));
-  if (audio.master) audio.master.gain.setTargetAtTime(soundOn ? .52 : 0, audio.context.currentTime, .04);
-});
-
-const xrButton = VRButton.createButton(renderer);
-document.body.append(xrButton);
-ui.vr.addEventListener('click', () => xrButton.click());
-renderer.xr.addEventListener('sessionstart', () => {
-  start();
-  ui.vr.textContent = 'VR AKTIV';
-});
-renderer.xr.addEventListener('sessionend', () => {
-  ui.vr.textContent = 'VR';
-});
-
-const allowedHosts = new Set([
-  'www.tagesschau.de', 'tagesschau.de', 'taz.de', 'www.taz.de', 'www.spiegel.de', 'spiegel.de',
-  'www.deutschlandfunk.de', 'deutschlandfunk.de', 'www.bild.de', 'bild.de', 'ondemand-mp3.dradio.de'
-]);
-
-function openCardUrl(card) {
-  if (!card?.userData.url) return;
-  const url = new URL(card.userData.url);
-  if (!allowedHosts.has(url.hostname)) return;
-  window.open(url.href, '_blank', 'noopener');
+async function enterStage(index, stage) {
+  activeStageIndex = index;
+  phaseLabel.textContent = stage.label;
+  scene.dataset.phase = stage.label;
+  scene.dataset.stageType = stage.type;
+  if (stage.type === "pause") {
+    document.body.classList.add("is-silent");
+    cardsRoot.object3D.visible = false;
+    swarmRoot.object3D.visible = false;
+    if (audioContext?.state === "running") await audioContext.suspend();
+    scene.dataset.audioState = audioContext?.state || "unavailable";
+    scene.dataset.swarmVisible = "false";
+    return;
+  }
+  document.body.classList.remove("is-silent");
+  cardsRoot.object3D.visible = true;
+  swarmRoot.object3D.visible = true;
+  if (audioContext?.state === "suspended") await audioContext.resume();
+  scene.dataset.audioState = audioContext?.state || "unavailable";
+  scene.dataset.swarmVisible = "true";
+  lastSpawnAt = 0;
+  if (!cards.length) {
+    const initialCount = index === 0 ? 12 : 28;
+    for (let count = 0; count < initialCount; count += 1) createCard({ sound: false });
+  }
 }
 
-function openFirstCardHit() {
-  const hit = raycaster.intersectObjects(cards, false)[0];
-  if (hit) openCardUrl(hit.object);
+function updateCards(delta, intensity, now) {
+  cameraEl.object3D.getWorldPosition(cameraPosition);
+  for (let index = 0; index < cards.length; index += 1) {
+    const card = cards[index];
+    const age = (now - card.bornAt) / 1000;
+    card.entity.object3D.position.addScaledVector(card.velocity, delta * intensity);
+    card.entity.object3D.position.y += Math.sin(age * 1.25 + card.wave) * 0.0016 * intensity;
+    if (index % 4 === Math.floor(now / 180) % 4) {
+      lookTarget.copy(cameraPosition);
+      card.entity.object3D.lookAt(lookTarget);
+      card.entity.object3D.rotateZ(Math.sin(card.wave + age * 0.18) * 0.045);
+    }
+    const distance = card.entity.object3D.position.distanceTo(cameraPosition);
+    if (distance > 14 || distance < 1.15) {
+      card.entity.object3D.position.copy(randomPoint());
+      card.entity.object3D.lookAt(cameraPosition);
+    }
+  }
 }
 
-for (let index = 0; index < 2; index += 1) {
-  const controller = renderer.xr.getController(index);
-  controller.addEventListener('select', function selectCard() {
-    controllerRotation.identity().extractRotation(this.matrixWorld);
-    raycaster.ray.origin.setFromMatrixPosition(this.matrixWorld);
-    raycaster.ray.direction.set(0, 0, -1).applyMatrix4(controllerRotation);
-    openFirstCardHit();
-  });
-  player.add(controller);
+function updateSwarm(now, intensity) {
+  if (!swarm) return;
+  swarm.group.rotation.y = now * 0.000018 * intensity;
+  swarm.group.rotation.x = Math.sin(now * 0.00009) * 0.035;
+  swarm.pointMaterial.opacity = 0.56 + Math.sin(now * 0.0025) * 0.16;
+  swarm.lineMaterial.opacity = 0.1 + intensity * 0.038;
 }
 
-let dragging = false;
-let pointerX = 0;
-let pointerY = 0;
-let pointerStartX = 0;
-let pointerStartY = 0;
-let pointerMoved = false;
-let yaw = 0;
-let pitch = 0;
-renderer.domElement.addEventListener('pointerdown', event => {
-  dragging = true;
-  pointerX = event.clientX;
-  pointerY = event.clientY;
-  pointerStartX = event.clientX;
-  pointerStartY = event.clientY;
-  pointerMoved = false;
-  renderer.domElement.setPointerCapture(event.pointerId);
-});
-renderer.domElement.addEventListener('pointermove', event => {
-  if (!dragging || renderer.xr.isPresenting) return;
-  if (Math.hypot(event.clientX - pointerStartX, event.clientY - pointerStartY) > 6) pointerMoved = true;
-  yaw -= (event.clientX - pointerX) * .0024;
-  pitch -= (event.clientY - pointerY) * .0024;
-  pitch = THREE.MathUtils.clamp(pitch, -1.28, 1.28);
-  pointerX = event.clientX;
-  pointerY = event.clientY;
-});
-renderer.domElement.addEventListener('pointerup', event => {
-  dragging = false;
-  if (pointerMoved || renderer.xr.isPresenting) return;
-  const rect = renderer.domElement.getBoundingClientRect();
+function tick(now) {
+  animationFrame = requestAnimationFrame(tick);
+  const delta = Math.min((now - lastFrame) / 1000, 0.05);
+  lastFrame = now;
+  if (!running) {
+    updateSwarm(now, 0.35);
+    return;
+  }
+  const elapsed = (now - startedAt) / 1000 + testOffset;
+  const state = currentStage(elapsed);
+  if (state.index !== activeStageIndex) enterStage(state.index, state.stage);
+  const minutes = Math.floor((elapsed % cycleDuration) / 60);
+  const seconds = Math.floor(elapsed % 60);
+  timer.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+  if (state.stage.type === "pause") return;
+  const rate = THREE.MathUtils.lerp(state.stage.startRate, state.stage.endRate, state.progress);
+  const target = Math.round(THREE.MathUtils.lerp(12, state.stage.target, Math.pow(state.progress, 0.6)));
+  if (!interactionTest && now - lastSpawnAt >= rate && cards.length < target) {
+    lastSpawnAt = now;
+    for (let count = 0; count < state.stage.batch && cards.length < target; count += 1) createCard();
+  }
+  updateCards(delta, state.stage.intensity, now);
+  updateSwarm(now, state.stage.intensity);
+}
+
+function checkControllerClose() {
+  if (!running || activeStageIndex < 0 || stages[activeStageIndex].type === "pause") return;
+  cursorEl.object3D.getWorldPosition(controllerPosition);
+  let nearest;
+  let nearestDistance = Infinity;
+  for (const card of cards) {
+    cardLocalPoint.copy(controllerPosition);
+    card.entity.object3D.worldToLocal(cardLocalPoint);
+    const scale = card.entity.object3D.scale.x;
+    const insideX =
+      cardLocalPoint.x > cardWidth * 0.31 &&
+      cardLocalPoint.x < cardWidth * 0.5 &&
+      cardLocalPoint.y > cardHeight * 0.2 &&
+      cardLocalPoint.y < cardHeight * 0.5 &&
+      Math.abs(cardLocalPoint.z) < 0.22 / scale;
+    if (insideX) {
+      const distance = card.entity.object3D.getWorldPosition(lookTarget).distanceTo(controllerPosition);
+      if (distance < nearestDistance) {
+        nearest = card;
+        nearestDistance = distance;
+      }
+    }
+  }
+  if (nearest) destroyCard(nearest, true);
+}
+
+function checkDesktopClose(event) {
+  if (!running || scene.is("vr-mode") || stages[activeStageIndex]?.type === "pause") return;
+  const canvas = scene.canvas;
+  const rect = canvas.getBoundingClientRect();
   pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
   pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
-  camera.updateMatrixWorld(true);
-  raycaster.setFromCamera(pointer, camera);
-  openFirstCardHit();
-});
-renderer.domElement.addEventListener('pointercancel', () => {
-  dragging = false;
-});
-
-const movementCodes = new Set(['KeyW', 'KeyA', 'KeyS', 'KeyD', 'KeyQ', 'KeyE', 'ArrowUp', 'ArrowLeft', 'ArrowDown', 'ArrowRight']);
-window.addEventListener('keydown', event => {
-  if (!movementCodes.has(event.code)) return;
-  movementKeys.add(event.code);
-  if (!event.repeat && !renderer.xr.isPresenting) {
-    if (event.code === 'KeyQ') yaw += .045;
-    if (event.code === 'KeyE') yaw -= .045;
-    const sideways = Number(event.code === 'KeyD' || event.code === 'ArrowRight') - Number(event.code === 'KeyA' || event.code === 'ArrowLeft');
-    const forwards = Number(event.code === 'KeyW' || event.code === 'ArrowUp') - Number(event.code === 'KeyS' || event.code === 'ArrowDown');
-    movePlayer(sideways, forwards, .06, camera);
+  const camera = cameraEl.getObject3D("camera");
+  pointerRay.setFromCamera(pointer, camera);
+  const intersections = pointerRay.intersectObjects(cards.map((card) => card.mesh), false);
+  const hit = intersections[0];
+  if (hit?.uv && hit.uv.x > 0.79 && hit.uv.y > 0.7) {
+    destroyCard(hit.object.userData.card, true);
   }
-  event.preventDefault();
-});
-window.addEventListener('keyup', event => {
-  movementKeys.delete(event.code);
-});
-window.addEventListener('blur', () => movementKeys.clear());
-
-function movePlayer(sideways, forwards, speed, viewCamera) {
-  if (Math.abs(sideways) < .015 && Math.abs(forwards) < .015) return;
-  viewCamera.getWorldDirection(moveForward);
-  moveForward.y = 0;
-  if (moveForward.lengthSq() < .001) moveForward.set(0, 0, -1);
-  moveForward.normalize();
-  moveRight.crossVectors(moveForward, worldUp).normalize();
-  moveDirection.copy(moveForward).multiplyScalar(forwards).addScaledVector(moveRight, sideways);
-  if (moveDirection.lengthSq() > 1) moveDirection.normalize();
-  player.position.addScaledVector(moveDirection, speed);
-  player.position.x = THREE.MathUtils.clamp(player.position.x, -5.8, 5.8);
-  player.position.z = THREE.MathUtils.clamp(player.position.z, -136, 4);
-  sceneHost.dataset.playerX = player.position.x.toFixed(3);
-  sceneHost.dataset.playerZ = player.position.z.toFixed(3);
 }
 
-function updateDesktopMovement(delta) {
-  if (renderer.xr.isPresenting) return;
-  const turn = Number(movementKeys.has('KeyQ')) - Number(movementKeys.has('KeyE'));
-  yaw += turn * delta * 1.35;
-  desiredVelocity.set(
-    Number(movementKeys.has('KeyD') || movementKeys.has('ArrowRight')) - Number(movementKeys.has('KeyA') || movementKeys.has('ArrowLeft')),
-    Number(movementKeys.has('KeyW') || movementKeys.has('ArrowUp')) - Number(movementKeys.has('KeyS') || movementKeys.has('ArrowDown'))
-  );
-  if (desiredVelocity.lengthSq() > 1) desiredVelocity.normalize();
-  const smoothing = 1 - Math.exp(-delta * 5.5);
-  smoothVelocity.lerp(desiredVelocity, smoothing);
-  movePlayer(smoothVelocity.x, smoothVelocity.y, delta * 2.35, camera);
+function seedTestCard() {
+  if (!interactionTest || seededTestCard) return;
+  seededTestCard = true;
+  createCard({
+    message: normalizeMessage(fallbackMessages[0]),
+    position: new THREE.Vector3(0, 1.6, -2.25),
+    scale: 1.2,
+    sound: false,
+  });
 }
 
-function controllerStick(gamepad) {
-  if (!gamepad?.axes?.length) return { x: 0, y: 0 };
-  const axes = gamepad.axes;
-  const x = axes.length >= 4 ? axes[axes.length - 2] : axes[0];
-  const y = axes.length >= 4 ? axes[axes.length - 1] : axes[1];
-  return {
-    x: Math.abs(x || 0) > .16 ? x : 0,
-    y: Math.abs(y || 0) > .16 ? y : 0
-  };
+function attachDesktopInteraction() {
+  if (!scene.canvas || scene.canvas.dataset.newsInteraction === "true") return;
+  scene.canvas.dataset.newsInteraction = "true";
+  scene.canvas.addEventListener("click", checkDesktopClose);
 }
 
-function smoothTurn(x, xrCamera, delta) {
-  if (Math.abs(x) < .12) return;
-  xrCamera.getWorldPosition(headBeforeTurn);
-  player.rotation.y -= x * delta * 1.35;
-  player.updateMatrixWorld(true);
-  xrCamera.getWorldPosition(headAfterTurn);
-  player.position.add(headBeforeTurn.sub(headAfterTurn));
-  player.updateMatrixWorld(true);
-}
-
-function updateXRMovement(delta) {
-  const session = renderer.xr.getSession();
-  if (!session) return;
-  const xrCamera = renderer.xr.getCamera(camera);
-  let usedMovementStick = false;
-  for (const source of session.inputSources) {
-    const stick = controllerStick(source.gamepad);
-    if (source.handedness === 'right') {
-      smoothTurn(stick.x, xrCamera, delta);
-      continue;
-    }
-    if (!usedMovementStick && (source.handedness === 'left' || source.handedness === 'none')) {
-      movePlayer(stick.x, -stick.y, delta * 2.1, xrCamera);
-      usedMovementStick = true;
+async function startExperience({ enterVR = false } = {}) {
+  if (!running) {
+    initAudio();
+    if (audioContext?.state === "suspended") await audioContext.resume();
+    startScreen.classList.add("is-hidden");
+    hud.classList.add("is-visible");
+    help.classList.add("is-visible");
+    running = true;
+    startedAt = performance.now();
+    activeStageIndex = -1;
+    seedTestCard();
+  }
+  if (enterVR && !scene.is("vr-mode")) {
+    try {
+      await scene.enterVR();
+    } catch {
+      vrButton.textContent = "VR NICHT VERFÜGBAR";
     }
   }
 }
 
-window.addEventListener('deviceorientation', event => {
-  if (dragging || renderer.xr.isPresenting || event.alpha == null) return;
-  yaw = THREE.MathUtils.degToRad(-event.alpha);
-  pitch = THREE.MathUtils.degToRad(THREE.MathUtils.clamp(event.beta - 70, -70, 70));
-}, { passive: true });
+scene.addEventListener("loaded", async () => {
+  attachDesktopInteraction();
+  buildSwarm();
+  await loadFeeds();
+  swarmRoot.object3D.visible = true;
+  cardsRoot.object3D.visible = false;
+  scene.setAttribute("data-closed-count", "0");
+  if (navigator.xr) {
+    try {
+      const supported = await navigator.xr.isSessionSupported("immersive-vr");
+      vrButton.hidden = !supported;
+    } catch {
+      vrButton.hidden = true;
+    }
+  } else {
+    vrButton.hidden = true;
+  }
+  scene.dataset.ready = "true";
+});
 
-window.addEventListener('resize', () => {
-  camera.aspect = innerWidth / innerHeight;
-  camera.updateProjectionMatrix();
-  renderer.setSize(innerWidth, innerHeight);
-  renderer.setPixelRatio(Math.min(devicePixelRatio, 1.7));
+scene.addEventListener("render-target-loaded", () => {
+  attachDesktopInteraction();
+});
+scene.addEventListener("enter-vr", () => {
+  document.body.classList.add("in-vr");
+  if (!running) startExperience();
+});
+scene.addEventListener("exit-vr", () => document.body.classList.remove("in-vr"));
+controllerEl.addEventListener("triggerdown", checkControllerClose);
+startButton.addEventListener("click", () => startExperience());
+vrButton.addEventListener("click", () => startExperience({ enterVR: true }));
+window.addEventListener("keydown", (event) => {
+  if (event.key.toLowerCase() === "x" && running && cards.length) {
+    const nearest = cards
+      .map((card) => ({ card, distance: card.entity.object3D.position.distanceTo(cameraEl.object3D.position) }))
+      .sort((a, b) => a.distance - b.distance)[0]?.card;
+    if (nearest) destroyCard(nearest, true);
+  }
+});
+window.addEventListener("beforeunload", () => {
+  cancelAnimationFrame(animationFrame);
+  audioContext?.close();
 });
 
 window.nachrichtenraum = {
-  getPosition() {
-    return { x: player.position.x, z: player.position.z };
+  getState: () => ({
+    running,
+    phase: scene.dataset.phase,
+    stageType: scene.dataset.stageType,
+    cards: cards.length,
+    closedCount,
+    audioState: audioContext?.state || "unavailable",
+    rssMessages: Number(scene.dataset.feedCount || 0),
+  }),
+  closeNearest: () => {
+    if (cards[0]) destroyCard(cards[0], true);
   },
-  getCardStates() {
-    return cards.slice(0, 40).map(card => ({
-      id: card.userData.id,
-      behavior: card.userData.behavior,
-      category: card.userData.category,
-      color: card.material.map?.image ? colorForCategory(card.userData.category) : '',
-      x: Number(card.position.x.toFixed(2)),
-      y: Number(card.position.y.toFixed(2)),
-      z: Number(card.position.z.toFixed(2))
-    }));
-  },
-  pushMessage({ source = 'WHATSAPP', title, age = 'gerade eben', category = 'PUBLIKUM' }) {
-    if (!title) return;
-    spawnCard({ source, title: String(title).slice(0, 110), age, category }, true);
-  }
 };
 
-async function pollLiveMessages() {
-  const endpoint = import.meta.env?.VITE_MESSAGE_ENDPOINT;
-  if (!endpoint) return;
-  try {
-    const response = await fetch(endpoint);
-    if (!response.ok) return;
-    const incoming = await response.json();
-    for (const item of incoming.messages || []) window.nachrichtenraum.pushMessage(item);
-  } catch {
-    return;
-  }
-}
-setInterval(pollLiveMessages, 8000);
-
-function relativeAge(publishedAt) {
-  const minutes = Math.max(0, Math.floor((Date.now() - Date.parse(publishedAt)) / 60000));
-  if (minutes < 1) return 'gerade eben';
-  if (minutes < 60) return `vor ${minutes} Minuten`;
-  const hours = Math.floor(minutes / 60);
-  if (hours < 24) return `vor ${hours} ${hours === 1 ? 'Stunde' : 'Stunden'}`;
-  const days = Math.floor(hours / 24);
-  return `vor ${days} ${days === 1 ? 'Tag' : 'Tagen'}`;
-}
-
-function alternateCategories(messages) {
-  const groups = new Map();
-  for (const message of messages) {
-    const category = message.category || 'NACHRICHTEN';
-    if (!groups.has(category)) groups.set(category, []);
-    groups.get(category).push(message);
-  }
-  const ordered = [];
-  const queues = [...groups.values()];
-  while (queues.some(queue => queue.length)) {
-    for (const queue of queues) {
-      const message = queue.shift();
-      if (message) ordered.push(message);
-    }
-  }
-  return ordered;
-}
-
-async function loadRssMessages() {
-  for (const path of ['./feeds.json', './public/feeds.json']) {
-    try {
-      const response = await fetch(`${path}?v=${Date.now()}`, { cache: 'no-store' });
-      if (!response.ok) continue;
-      const payload = await response.json();
-      const messages = (payload.messages || []).filter(item => item.title && item.source);
-      if (!messages.length) continue;
-      liveMessages = alternateCategories(messages.map(item => ({ ...item, age: relativeAge(item.publishedAt) })));
-      const updated = new Date(payload.updatedAt);
-      ui.sourceStatus.textContent = `LIVE RSS · STAND ${updated.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })}`;
-      return;
-    } catch {
-      continue;
-    }
-  }
-  ui.sourceStatus.textContent = 'DEMO-INHALTE · RSS NICHT ERREICHBAR';
-}
-loadRssMessages();
-
-function updateAudio(now, phase) {
-  if (!audio.context) return;
-  const audioNow = audio.context.currentTime;
-  const droneTarget = running && !phase.breath ? .003 + phase.level * .0022 : 0;
-  audio.drone.gain.setTargetAtTime(droneTarget, audioNow, .4);
-  const breathPulse = .5 + .5 * Math.sin(now * 1.55 - Math.PI / 2);
-  const breathTarget = running && phase.breath ? .012 + breathPulse * .052 : 0;
-  audio.breath.gain.setTargetAtTime(breathTarget, audioNow, .18);
-}
-
-renderer.setAnimationLoop(() => {
-  const delta = Math.min(clock.getDelta(), .05);
-  const now = clock.elapsedTime;
-  if (!renderer.xr.isPresenting) {
-    camera.rotation.set(pitch, yaw, 0);
-    sceneHost.dataset.yaw = yaw.toFixed(3);
-  }
-  updateDesktopMovement(delta);
-  updateXRMovement(delta);
-
-  const elapsed = currentElapsed();
-  const phase = phaseAt(elapsed);
-  if (running && phase.batch > 0 && elapsed >= nextSpawnAt) {
-    for (let i = 0; i < phase.batch; i += 1) spawnCard(null, Math.random() < .08);
-    nextSpawnAt = elapsed + phase.interval;
-  }
-  if (running) updateReadout();
-
-  camera.getWorldPosition(cameraWorldPosition);
-  const vanish = phase.id === 'silence' ? THREE.MathUtils.clamp((elapsed - timelineLength) / .8, 0, 1) : 0;
-  for (let index = cards.length - 1; index >= 0; index -= 1) {
-    const card = cards[index];
-    const age = now - card.userData.born;
-    const ease = 1 - Math.exp(-age * 7);
-    const overshoot = age < .55 ? Math.sin(age / .55 * Math.PI) * .16 : 0;
-    card.scale.setScalar((ease + overshoot) * card.userData.targetScale * (1 - vanish * .45));
-    card.material.opacity = Math.min(1, age * 5) * (1 - vanish);
-    const movingAge = Math.max(0, age - card.userData.hold);
-    const waveStrength = movingAge > 0 ? 1 : .18;
-    const wave = Math.sin(movingAge * card.userData.waveFrequency * 3 + card.userData.wavePhase);
-    if (movingAge > 0 && card.userData.behavior === 'pass') card.userData.travel += card.userData.speed * delta;
-    if (movingAge > 0 && card.userData.behavior === 'rise') {
-      card.userData.travel += card.userData.speed * .12 * delta;
-      card.userData.baseY += card.userData.speed * .34 * delta;
-      sceneHost.dataset.risen = 'true';
-    }
-    if (movingAge > 0 && card.userData.behavior === 'recede') {
-      card.userData.travel -= card.userData.speed * .48 * delta;
-      sceneHost.dataset.receded = 'true';
-    }
-    const perpendicularX = -card.userData.directionZ;
-    const perpendicularZ = card.userData.directionX;
-    card.position.x = card.userData.baseX + card.userData.directionX * card.userData.travel + perpendicularX * wave * card.userData.waveAmplitude * waveStrength;
-    card.position.y = card.userData.baseY + Math.cos(movingAge * card.userData.waveFrequency * 2 + card.userData.wavePhase) * card.userData.waveAmplitude * .22 * waveStrength;
-    card.position.z = card.userData.baseZ + card.userData.directionZ * card.userData.travel + perpendicularZ * wave * card.userData.waveAmplitude * waveStrength;
-    if (movingAge > 0 && card.userData.behavior === 'pass') sceneHost.dataset.passed = 'true';
-    card.lookAt(cameraWorldPosition);
-    const hasPassed = card.userData.behavior === 'pass' && card.userData.travel > card.userData.startDistance + 8;
-    const hasRisen = card.position.y > 8.5;
-    const hasReceded = card.userData.behavior === 'recede' && card.userData.travel < -52;
-    if (hasPassed || hasRisen || hasReceded || vanish >= 1) disposeCard(card);
-  }
-
-  updateAudio(now, phase);
-  renderer.render(scene, camera);
-});
+loadFeeds();
+attachDesktopInteraction();
+animationFrame = requestAnimationFrame(tick);

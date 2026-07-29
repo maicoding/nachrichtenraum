@@ -76,11 +76,12 @@ function parseItems(xml, feed) {
   return [...xml.matchAll(/<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi)].map(match => {
     const item = match[1];
     const title = decodeXml(tag(item, 'title'));
+    const excerpt = decodeXml(tag(item, 'description')).slice(0, 220);
     const url = decodeXml(tag(item, 'link'));
     const published = Date.parse(decodeXml(tag(item, 'pubDate')));
     const publishedAt = new Date(Number.isFinite(published) ? published : Date.now()).toISOString();
     const category = feed.category;
-    return { source: feed.source, title, url, publishedAt, category };
+    return { source: feed.source, title, excerpt, url, publishedAt, category };
   }).filter(item => item.title && item.url.startsWith('https://'));
 }
 

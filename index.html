@@ -3,53 +3,76 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="theme-color" content="#0d0f10" />
-    <title>Nachrichtenraum | Punkt E</title>
-    <link rel="stylesheet" href="./src/styles.css" />
-    <script type="importmap">
-      {
-        "imports": {
-          "three": "https://cdn.jsdelivr.net/npm/three@0.178.0/build/three.module.js",
-          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.178.0/examples/jsm/"
-        }
-      }
-    </script>
+    <meta name="theme-color" content="#000108" />
+    <meta name="description" content="Nachrichtenraum, eine WebXR-Erfahrung über digitale Reizüberflutung." />
+    <title>Nachrichtenraum</title>
+    <link rel="stylesheet" href="./src/styles.css?v=7" />
+    <script src="https://aframe.io/releases/1.8.0/aframe.min.js"></script>
   </head>
   <body>
     <main id="app">
-      <div id="scene" aria-label="Interaktiver dreidimensionaler Nachrichtenraum"></div>
+      <a-scene
+        id="xr-scene"
+        background="color: #000108"
+        fog="type: exponential; color: #000108; density: 0.018"
+        renderer="antialias: true; colorManagement: true; highRefreshRate: true; physicallyCorrectLights: false; maxCanvasWidth: 2560; maxCanvasHeight: 1440"
+        webxr="referenceSpaceType: local-floor; optionalFeatures: local-floor, bounded-floor"
+        vr-mode-ui="enabled: false"
+        loading-screen="enabled: false"
+        device-orientation-permission-ui="enabled: false"
+      >
+        <a-entity id="rig">
+          <a-camera
+            id="viewer"
+            position="0 1.6 0"
+            look-controls="pointerLockEnabled: false; magicWindowTrackingEnabled: true"
+            wasd-controls="acceleration: 18"
+          ></a-camera>
+          <a-entity
+            id="right-controller"
+            meta-touch-controls="hand: right; model: false"
+            oculus-touch-controls="hand: right; model: false"
+          >
+            <a-entity
+              id="controller-cursor"
+              position="0 0 -0.08"
+              geometry="primitive: triangle; vertexA: 0.032 0.042 0; vertexB: -0.022 -0.032 0; vertexC: 0.025 -0.017 0"
+              material="color: #ffffff; shader: flat; side: double; transparent: true; opacity: 0.96"
+            ></a-entity>
+          </a-entity>
+        </a-entity>
+        <a-entity id="data-swarm"></a-entity>
+        <a-entity id="news-root"></a-entity>
+      </a-scene>
 
-      <header class="topline">
-        <h1>NACHRICHTENRAUM</h1>
-        <time id="elapsed">00:00</time>
-        <span id="phase">BEREIT</span>
-      </header>
-
-      <section class="intro" id="intro" aria-labelledby="intro-title">
-        <div class="intro__rule"></div>
-        <h2 id="intro-title">Nachrichtenraum</h2>
-        <p>Vierzig Sekunden zwischen Nachrichtendichte und völliger Stille.</p>
-        <button id="enter" type="button">START</button>
-        <small>UMSEHEN: MAUS ODER HEADSET · LAUFEN: W A S D ODER LINKER VR-STICK · SANFT DREHEN: Q / E ODER RECHTER VR-STICK</small>
+      <section id="start-screen" aria-labelledby="title">
+        <div class="start-content">
+          <p class="eyebrow">PUNKT E</p>
+          <h1 id="title">Nachrichtenraum</h1>
+          <p class="intro">Eine 360°-Erfahrung über digitale Reizüberflutung.</p>
+          <button id="start-button" type="button">START</button>
+          <button id="vr-button" type="button">IN VR STARTEN</button>
+          <p class="hint">Kopfhörer empfohlen</p>
+        </div>
       </section>
 
-      <aside class="meter" aria-label="Intensität">
-        <span>INTENSITÄT</span>
-        <div class="meter__track"><i id="intensity"></i></div>
-        <output id="count">000</output>
+      <section id="hud" aria-live="polite">
+        <div>
+          <span id="phase-label">BEREIT</span>
+          <span id="timer">00:00</span>
+        </div>
+        <div>
+          <span id="message-count">0 NACHRICHTEN</span>
+          <span id="feed-status">RSS WIRD GELADEN</span>
+        </div>
+      </section>
+
+      <aside id="desktop-help">
+        <span>MAUS: 360° BLICK</span>
+        <span>WASD: BEWEGEN</span>
+        <span>X: SCHLIESSEN</span>
       </aside>
-
-      <nav class="controls" aria-label="Steuerung">
-        <button id="toggle" type="button">START</button>
-        <button id="add" type="button">NEUE NACHRICHT</button>
-        <button id="sound" type="button" aria-pressed="true">TON AN</button>
-        <button id="vr" type="button">VR</button>
-      </nav>
-
-      <p class="demo-note"><span id="source-status">RSS WIRD GELADEN</span> · QUELLEN: <a href="https://www.tagesschau.de/infoservices/rssfeeds" target="_blank" rel="noopener">TAGESSCHAU.DE</a> + <a href="https://taz.de/!p4608;rss/" target="_blank" rel="noopener">TAZ.DE</a> + <a href="https://www.spiegel.de/politik/index.rss" target="_blank" rel="noopener">SPIEGEL.DE</a> + <a href="https://www.deutschlandfunk.de/campus-karriere-100.html" target="_blank" rel="noopener">DLF</a> + <a href="https://www.bild.de/feed/politik.xml" target="_blank" rel="noopener">BILD.DE</a></p>
-      <p class="movement-hint">W A S D / PFEILTASTEN: LAUFEN · Q / E: SANFT 360° DREHEN · VR: LINKER STICK LAUFEN · RECHTER STICK DREHEN</p>
-      <div class="grain" aria-hidden="true"></div>
     </main>
-    <script type="module" src="./src/main.js?v=20260722-9"></script>
+    <script type="module" src="./src/main.js?v=11"></script>
   </body>
 </html>
