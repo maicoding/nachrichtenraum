@@ -1,130 +1,354 @@
 {
-  "updatedAt": "2026-07-29T04:30:49.967Z",
+  "updatedAt": "2026-07-29T07:31:11.924Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Er ist nur Trumps zweite Wahl - Amerikas neuer Ober-Spion",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/er-ist-nur-trumps-zweite-wahl-amerikas-neuer-ober-spion-6a69425d1ff9bc89d8812412",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "title": "Live-Ticker zum Kabinettsumbau - Kanzler Merz dreht am Personalkarussell",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zum-unions-beben-jetzt-kaempft-jens-spahn-um-seine-politische-karriere-6a5b40f8c72232627649a24f",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Feuerpause beendet! - Iran startet „Überraschungsangriff“",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/us-militaer-meldet-ende-der-kampfpause-iran-startet-ueberraschungsangriff-6a692f78a17ee9f1dfd823df",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "title": "Merz verursacht CDU-Chaos - „Lage ist ernster als zur Zeit der Spendenaffäre“",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-verursacht-chaos-in-cdu-lage-ist-ernster-als-zur-zeit-der-spendenaffaere-6a6990a6905b13f5a47fdffe",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Trump gibt Selenskyj offenbar Patriot-Zusage",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Präsident beeindruckt - Wie Selenskyj plötzlich Trumps Liebling wurde",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-beeindruckt-wie-selenskyj-trumps-liebling-wurde-6a6923131ff9bc89d88123aa",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "title": "Iran feuert Raketen ab - USA melden Überraschungsangriff",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-feuert-raketen-ab-usa-melden-ueberraschungsangriff-6a6996929069e20393cd95d8",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Minister kommt heute nicht ins Kabinett - Schnieder will Merz nicht sehen!",
       "url": "https://www.bild.de/politik/inland/schnieder-will-merz-nicht-sehen-noch-verkehrsminister-kommt-nicht-ins-kabinett-6a68c827a17ee9f1dfd81f10",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Viktor Janukowitsch im russischen Exil - Ukraines Ex-Präsident lebt wie ein König",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ex-praesident-der-ukraine-viktor-janukowitsch-lebt-heute-im-luxus-in-russland-6a6854c0ce0aac7f44e40820",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mail von Martenstein - Sehr geehrter Herr Bundespräsident, nur Floskeln",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/martenstein-kritisiert-steinmeiers-standardfloskeln-6a68bb2cce0aac7f44e412a9",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Er ist nur Trumps zweite Wahl - Amerikas neuer Ober-Spion",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/er-ist-nur-trumps-zweite-wahl-amerikas-neuer-ober-spion-6a69425d1ff9bc89d8812412",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Feuerpause beendet! - Iran startet „Überraschungsangriff“",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/us-militaer-meldet-ende-der-kampfpause-iran-startet-ueberraschungsangriff-6a692f78a17ee9f1dfd823df",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Trump gibt Selenskyj offenbar Patriot-Zusage",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident beeindruckt - Wie Selenskyj plötzlich Trumps Liebling wurde",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-beeindruckt-wie-selenskyj-trumps-liebling-wurde-6a6923131ff9bc89d88123aa",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Im Dezember tritt Guterres ab - Baerbock fordert Revolution an UN-Spitze",
       "url": "https://www.bild.de/politik/ausland-und-internationales/im-dezember-tritt-guterres-ab-baerbock-fordert-revolution-an-un-spitze-6a692d5ca17ee9f1dfd823d5",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Kommentar - Taten, nicht Worte!",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/csd-anschlag-nur-taten-schaffen-vertrauen-6a68c759a17ee9f1dfd81ef7",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Rechner: Sind Sie betroffen? - Uns droht ein Pflege-Kollaps!",
       "url": "https://www.bild.de/politik/inland/exklusiv-studie-warnt-vor-ueberalterung-und-droht-ein-pflege-kollaps-6a5e2c310b9a862ca282ce5a",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Kurzzeitiger Rekord - Apples Börsenwert klettert über 5 Billionen Dollar",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kurzzeitiger-rekord-apple-klettert-ueber-5-billionen-dollar-boersenwert-6a68f5711ff9bc89d8812212",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Selenskyj und Netanjahu im Weißen Haus - Trump-Audienz im Schatten von zwei Kriegen",
       "url": "https://www.bild.de/politik/ausland-und-internationales/erst-selenskyj-dann-netanjahu-im-weissen-haus-audienz-bei-us-praesident-trump-im-schatten-von-zwei-kriegen-6a68e42cc435b807339bdb93",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Was die Politik 2016 ankündigte - Das Amri-Versprechen und was daraus (nicht) wurde",
       "url": "https://www.bild.de/politik/inland/gefaehrder-was-aus-den-versprechen-nach-dem-anschlag-von-anis-amri-wurde-6a686733ce0aac7f44e4096a",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
       "title": "Selbst eigene Experten warnen - Trump erwägt das „fast Unmögliche“ im Iran",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-erwaegt-das-fast-unmoegliche-im-iran-eigene-experten-warnen-6a683e651ff9bc89d8811341",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "publishedAt": "2026-07-29T07:31:11.732Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Angriff auf den deutschen Kfz-Markt - In 15 Minuten bis zum nächsten BYD-Autohändler",
-      "url": "https://www.bild.de/politik/inland/byd-greift-deutschen-kfz-markt-an-flash-charging-300-ladestationen-und-neue-jobs-6a5dd68fb5f21be806cb9641",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "source": "DLF",
+      "title": "Kabinetts-Umbildung - Weselsky befürchtet neuen Stillstand bei der Bahn durch Wechsel im Verkehrsministerium",
+      "url": "https://www.deutschlandfunk.de/weselsky-befuerchtet-neuen-stillstand-bei-der-bahn-durch-wechsel-im-verkehrsministerium-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsumwandlung - CDU-Sozialpolitiker Radtke stellt sich hinter Kanzler Merz",
+      "url": "https://www.deutschlandfunk.de/cdu-sozialpolitiker-radtke-stellt-sich-hinter-kanzler-merz-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheit - Hamburger Polizei verdoppelt Einsatzkräfte bei CSD-Veranstaltung",
+      "url": "https://www.deutschlandfunk.de/hamburger-polizei-verdoppelt-einsatzkraefte-bei-csd-veranstaltung-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ökostrom-Förderung - Kabinettsbeschluss über Reformpläne von Bundeswirtschaftsministerin Reiche erwartet",
+      "url": "https://www.deutschlandfunk.de/kabinettsbeschluss-ueber-reformplaene-von-bundeswirtschaftsministerin-reiche-erwartet-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - Weißes Haus nennt Treffen Trumps mit Selenskyj und Netanjahu \"positiv und produktiv\"",
+      "url": "https://www.deutschlandfunk.de/weisses-haus-nennt-treffen-trumps-mit-selenskyj-und-netanjahu-positiv-und-produktiv-116.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "BASF - Belegschaft im Stammwerk auf tiefstem Stand seit 1954",
+      "url": "https://www.deutschlandfunk.de/belegschaft-im-stammwerk-auf-tiefstem-stand-seit-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Waldbrände bei Bordeaux: Wieder Tausende Menschen evakuiert, Feuer in Spanien größtenteils unter Kontrolle",
+      "url": "https://www.deutschlandfunk.de/waldbraende-bei-bordeaux-wieder-tausende-menschen-evakuiert-feuer-in-spanien-groesstenteils-unter-ko-114.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Regierung verbietet Einfuhr chinesischer Roboter",
+      "url": "https://www.deutschlandfunk.de/regierung-verbietet-einfuhr-chinesischer-roboter-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland - Online-Händler Wildberries evakuiert Logistikzentrum",
+      "url": "https://www.deutschlandfunk.de/online-haendler-wildberries-evakuiert-logistikzentrum-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach CSD-Anschlag - Familienministerin Prien will Demokratie-Programm nachschärfen",
+      "url": "https://www.deutschlandfunk.de/familienministerin-prien-will-demokratie-programm-nachschaerfen-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Anschlag in Berlin - Verband Queere Vielfalt: Anschlag nur \"Spitze des Eisbergs\" - dauerhafter Einsatz der Politik gefordert",
+      "url": "https://www.deutschlandfunk.de/verband-queere-vielfalt-anschlag-nur-spitze-des-eisbergs-dauerhafter-einsatz-der-politik-gefordert-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Griechenland - Waldbrände auf Paros - Mehrere Dörfer evakuiert",
+      "url": "https://www.deutschlandfunk.de/waldbraende-auf-paros-mehrere-doerfer-evakuiert-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Krieg am Golf - Nach tagelanger Pause: US-Armee meldet Abwehr von iranischen Raketenangriffen",
+      "url": "https://www.deutschlandfunk.de/nach-tagelanger-pause-us-armee-meldet-abwehr-von-iranischen-raketenangriffen-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Krieg am Golf - USA und Saudi-Arabien greifen proiranische Milizen im Irak an",
+      "url": "https://www.deutschlandfunk.de/usa-und-saudi-arabien-greifen-proiranische-milizen-im-irak-an-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Asien - Mindestens 13 Tote nach schwerem Erdbeben in Japan",
+      "url": "https://www.deutschlandfunk.de/mindestens-13-tote-nach-schwerem-erdbeben-in-japan-100.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Senat stimmt für schärfere Sanktionen gegen Moskau",
+      "url": "https://www.deutschlandfunk.de/senat-stimmt-fuer-schaerfere-sanktionen-gegen-moskau-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Südamerika - Fujimori tritt Amt als Präsidentin von Peru an",
+      "url": "https://www.deutschlandfunk.de/fujimori-tritt-amt-als-praesidentin-von-peru-an-106.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geteilte Insel - Guterres mit neuem Vermittlungsversuch auf Zypern",
+      "url": "https://www.deutschlandfunk.de/guterres-mit-neuem-vermittlungsversuch-auf-zypern-102.html",
+      "publishedAt": "2026-07-29T07:28:46.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
+      "publishedAt": "2026-07-29T07:26:30.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html",
+      "publishedAt": "2026-07-29T07:25:01.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html",
+      "publishedAt": "2026-07-29T07:24:34.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
+      "url": "https://www.tagesschau.de/wissen/klima/waldbraende-europa-klima-erderwaermung-100.html",
+      "publishedAt": "2026-07-29T07:17:06.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Selenskyj und Netanjahu in Washington: Gemischte Gefühle",
+      "url": "https://taz.de/Selenskyj-und-Netanjahu-in-Washington/!6199964/",
+      "publishedAt": "2026-07-29T07:17:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Rechte und Konservative“ verantwortlich - Linken-Statement zu CSD-Terror sorgt für Entsetzen",
-      "url": "https://www.bild.de/politik/inland/statement-der-linken-zum-csd-terror-sorgt-fuer-entsetzen-6a673d90b5090c8e581ee08a",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände bei Bordeaux: Feuerwehr kämpft gegen neue Flammen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-104.html",
+      "publishedAt": "2026-07-29T07:10:28.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "+++ Nach CSD-Anschlag +++: Mehr Geld für queere Projekte versprochen",
+      "url": "https://taz.de/-Nach-CSD-Anschlag-/!6199962/",
+      "publishedAt": "2026-07-29T06:27:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Amerikaner empört - Trickst Trump bei den Totenzahlen seiner Soldaten?",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trickst-trump-bei-den-totenzahlen-seiner-soldaten-amerikaner-empoert-6a67b9c01ff9bc89d8811069",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "source": "TAZ.DE",
+      "title": "Misstrauen in die Medien abbauen: Radikale Transparenz",
+      "url": "https://taz.de/Open-Source-im-Journalismus/!6195101/",
+      "publishedAt": "2026-07-29T06:23:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Militärische Aktion“ geplant - Ex-Elite-Soldat gesteht Spionage im Bundestag",
-      "url": "https://www.bild.de/politik/inland/prozess-gegen-reichsbuerger-frueherer-soldat-gesteht-spionage-im-bundestag-6a68d2dfce0aac7f44e414e9",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Senat bestätigt Clayton als neuen Geheimdienstchef",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienst-clayton-senat-100.html",
+      "publishedAt": "2026-07-29T06:19:39.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Reaktion auf Drohnenangriffe: USA und Saudi-Arabien greifen Ziele im Irak an",
+      "url": "https://taz.de/Reaktion-auf-Drohnenangriffe/!6199961/",
+      "publishedAt": "2026-07-29T06:18:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Will den unwürdigen Zustand beenden“ - Verkehrsminister Schnieder bittet um Entlassung",
-      "url": "https://www.bild.de/politik/verkehrsminister-schnieder-will-um-entlassung-bitten-6a662e2de4e0a5362b8fc7a1",
-      "publishedAt": "2026-07-29T04:30:49.675Z",
+      "source": "TAZ.DE",
+      "title": "Sammelband „Verleugnete Verfolgte“: Verdrängt, vergessen und verleugnet",
+      "url": "https://taz.de/Sammelband-Verleugnete-Verfolgte/!6195166/",
+      "publishedAt": "2026-07-29T05:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Ankratzen mit Salatbar",
+      "url": "https://taz.de/Die-Wahrheit/!6199671/",
+      "publishedAt": "2026-07-29T05:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Erneuerbare-Energien-Gesetz: Dunkle Zeiten für den Solarausbau",
+      "url": "https://taz.de/Erneuerbare-Energien-Gesetz/!6199738/",
+      "publishedAt": "2026-07-29T05:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "CSD-Anschlag: Islamismusexperte warnt vor Radikalisierung weiterer junger Männer",
+      "url": "https://www.spiegel.de/politik/deutschland/csd-anschlag-islamismusexperte-warnt-vor-radikalisierung-weiterer-junger-maenner-a-de076db4-726d-460b-9fff-b0013eb4b8ac#ref=rss",
+      "publishedAt": "2026-07-29T04:44:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -133,132 +357,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html",
       "publishedAt": "2026-07-29T04:25:55.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Anschlag in Berlin - Verband Queere Vielfalt: Anschlag nur \"Spitze des Eisbergs\" - dauerhafter Einsatz der Politik gefordert",
-      "url": "https://www.deutschlandfunk.de/verband-queere-vielfalt-anschlag-nur-spitze-des-eisbergs-dauerhafter-einsatz-der-politik-gefordert-100.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach CSD-Anschlag - Familienministerin Prien will Demokratie-Programm nachschärfen",
-      "url": "https://www.deutschlandfunk.de/familienministerin-prien-will-demokratie-programm-nachschaerfen-100.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ökostrom-Förderung - Kabinettsbeschluss über Reformpläne von Bundeswirtschaftsministerin Reiche erwartet",
-      "url": "https://www.deutschlandfunk.de/kabinettsbeschluss-ueber-reformplaene-von-bundeswirtschaftsministerin-reiche-erwartet-100.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundeskabinett - Steinmeier ernennt neue Ministerinnen und Minister",
-      "url": "https://www.deutschlandfunk.de/steinmeier-ernennt-neue-ministerinnen-und-minister-108.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Krieg am Golf - Nach tagelanger Pause: US-Armee meldet Abwehr von iranischen Raketenangriffen",
-      "url": "https://www.deutschlandfunk.de/nach-tagelanger-pause-us-armee-meldet-abwehr-von-iranischen-raketenangriffen-100.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Krieg am Golf - USA und Saudi-Arabien greifen proiranische Milizen im Irak an",
-      "url": "https://www.deutschlandfunk.de/usa-und-saudi-arabien-greifen-proiranische-milizen-im-irak-an-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Asien - Mindestens 13 Tote nach schwerem Erdbeben in Japan",
-      "url": "https://www.deutschlandfunk.de/mindestens-13-tote-nach-schwerem-erdbeben-in-japan-100.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Senat stimmt für schärfere Sanktionen gegen Moskau",
-      "url": "https://www.deutschlandfunk.de/senat-stimmt-fuer-schaerfere-sanktionen-gegen-moskau-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Südamerika - Fujimori tritt Amt als Präsidentin von Peru an",
-      "url": "https://www.deutschlandfunk.de/fujimori-tritt-amt-als-praesidentin-von-peru-an-106.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Geteilte Insel - Guterres mit neuem Vermittlungsversuch auf Zypern",
-      "url": "https://www.deutschlandfunk.de/guterres-mit-neuem-vermittlungsversuch-auf-zypern-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "600 Millionen Dollar - USA wollen wieder Geld für Impfallianz Gavi zur Verfügung stellen",
-      "url": "https://www.deutschlandfunk.de/usa-wollen-wieder-geld-fuer-impfallianz-gavi-zur-verfuegung-stellen-104.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - IW-Studie: Deutscher Arbeitsmarkt leidet unter dreifacher Migrationswende",
-      "url": "https://www.deutschlandfunk.de/iw-studie-deutscher-arbeitsmarkt-leidet-unter-dreifacher-migrationswende-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Washington - Weißes Haus nennt Treffen Trumps mit Selenskyj und Netanjahu \"positiv und produktiv\"",
-      "url": "https://www.deutschlandfunk.de/weisses-haus-nennt-treffen-trumps-mit-selenskyj-und-netanjahu-positiv-und-produktiv-116.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach CSD-Anschlag - Antisemitismusbeauftragter für Verschärfung des Strafrechts, Queerbeauftragte fordert besseren Schutz",
-      "url": "https://www.deutschlandfunk.de/antisemitismusbeauftragter-fuer-verschaerfung-des-strafrechts-queerbeauftragte-fordert-besseren-schu-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Grüne - Trotz Verurteilung des CSD-Anschlags: Özdemir attackiert Islamverbände",
-      "url": "https://www.deutschlandfunk.de/trotz-verurteilung-des-csd-anschlags-oezdemir-attackiert-islamverbaende-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berlin - CSD-Anschlag wieder kurz vor Wahlen: Politik prüft Zusammenhang",
-      "url": "https://www.deutschlandfunk.de/csd-anschlag-wieder-kurz-vor-wahlen-politik-prueft-zusammenhang-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verlag - Westermann schließt Zwickauer Druckerei - 170 Jobs weg",
-      "url": "https://www.deutschlandfunk.de/westermann-schliesst-zwickauer-druckerei-170-jobs-weg-102.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "UNO-Sicherheitsrat - Stellvertretender Sonderkoordinator bezeichnet Lage im Westjordanland als alarmierend",
-      "url": "https://www.deutschlandfunk.de/stellvertretender-sonderkoordinator-bezeichnet-lage-im-westjordanland-als-alarmierend-104.html",
-      "publishedAt": "2026-07-29T04:20:41.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "SPIEGEL.DE",
@@ -331,13 +429,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Queere Community nach dem CSD-Attentat: Von Trauer zu Wut zu Widerstand",
-      "url": "https://taz.de/Queere-Community-nach-dem-CSD-Attentat/!6199799/",
-      "publishedAt": "2026-07-28T17:52:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Herzberg am Harz: Stadt lehnt AfD-Kandidat für Bürgermeisterwahl ab",
       "url": "https://www.spiegel.de/politik/herzberg-am-harz-stadt-lehnt-afd-kandidat-fuer-buergermeisterwahl-ab-a-2adf7ad2-bce5-4180-a120-5f2e0d751f25#ref=rss",
@@ -388,20 +479,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Debatte über Faschismus: Wenn die Theorie irritiert",
-      "url": "https://taz.de/Laesst-sich-Faschismus-besser-bekaempfen-wenn-man-mehr-ueber-ihn-weiss/!6199756/",
-      "publishedAt": "2026-07-28T15:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Rüstungsproduktion in Berlin: Widerstand gegen Waffenschmiede",
-      "url": "https://taz.de/Ruestungsproduktion-in-Berlin/!6199684/",
-      "publishedAt": "2026-07-28T15:55:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Abschiebeflug nach Afghanistan: Jetzt trifft es auch die Nichtstraftäter",
       "url": "https://taz.de/Abschiebeflug-nach-Afghanistan/!6199858/",
       "publishedAt": "2026-07-28T15:48:00.000Z",
@@ -413,13 +490,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebeflug-afghanen-102.html",
       "publishedAt": "2026-07-28T15:16:09.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Schwangerschaftsabbruch in Bremerhaven: Guter Wille, aber kein Überblick",
-      "url": "https://taz.de/Schwieriger-Schwangerschaftsabbruch/!6199754/",
-      "publishedAt": "2026-07-28T15:11:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -471,13 +541,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Studie zu Profiten: Ölkonzerne verdienen Milliarden am Irankrieg",
-      "url": "https://taz.de/Profite-verdoppelt/!6199682/",
-      "publishedAt": "2026-07-28T13:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Debatte nach Anschlag auf CSD: Fußfessel oder Präventivhaft für Gefährder?",
       "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-debatte-csu-spd-strafrecht-bka-100.html",
@@ -510,13 +573,6 @@
       "title": "Friedrich Merz: Bundesregierung weist Vorwürfe von Tino Sorge zurück",
       "url": "https://www.spiegel.de/politik/deutschland/kabinettsumbau-von-friedrich-merz-bundesregierung-weist-vorwuerfe-von-tino-sorge-zurueck-a-a2690dbe-fd3e-4be5-ad41-44f66cbf17c3#ref=rss",
       "publishedAt": "2026-07-28T10:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Beseitigung von Wikingerlegenden: „Archäologie und Mythos gehen weit auseinander“",
-      "url": "https://taz.de/Beseitigung-von-Wikingerlegenden/!6197961/",
-      "publishedAt": "2026-07-28T09:50:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -553,13 +609,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/braende-europa-frankreich-spanien-faq-100.html",
       "publishedAt": "2026-07-28T07:25:55.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ex-Hotel wird Heim für Wohnungslose: Aufruhr im Berliner Villenviertel",
-      "url": "https://taz.de/Ex-Hotel-wird-Heim-fuer-Wohnungslose/!6198596/",
-      "publishedAt": "2026-07-28T07:00:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -716,13 +765,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Anschlag auf CSD in Berlin: Es ist jetzt wichtig, Solidarität zu zeigen",
-      "url": "https://www.spiegel.de/politik/anschlag-auf-csd-in-berlin-es-ist-jetzt-wichtig-solidaritaet-zu-zeigen-a-550c2e60-11b6-4691-9996-41dcb013c171#ref=rss",
-      "publishedAt": "2026-07-27T10:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Nach CSD-Anschlag: Rufe nach einem schärferen Strafrecht",
       "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-taeter-aufklaerung-100.html",
@@ -766,20 +808,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Steffen Bilger soll neuer Verkehrsminister werden",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
-      "publishedAt": "2026-07-26T19:03:10.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Angriff auf CSD Berlin: Tatverdächtiger war polizeibekannter Islamist",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
-      "publishedAt": "2026-07-26T18:51:06.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
       "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
       "publishedAt": "2026-07-26T17:54:16.000Z",
@@ -787,30 +815,9 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
-      "publishedAt": "2026-07-26T17:35:36.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
-      "url": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html",
-      "publishedAt": "2026-07-26T13:46:21.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Waldbrände in Spanien: Neuer Brand bei Valencia",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
       "publishedAt": "2026-07-26T11:49:54.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Waldbrände in Frankreich: Feuer rückt näher an Bordeaux heran",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-feuer-breitet-sich-aus-bordeaux-100.html",
-      "publishedAt": "2026-07-26T09:26:27.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -839,13 +846,6 @@
       "title": "So schützen Kleingärten vor Hitze",
       "url": "https://www.tagesschau.de/wissen/klima/kleingaerten-klimaschutz-100.html",
       "publishedAt": "2026-07-25T07:47:36.000Z",
-      "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Cai Rienäcker, ARD Paris, und Kristina Böker, ARD Madrid, zur Waldbrandlage in Frankreich und Spanien",
-      "url": "https://www.tagesschau.de/video/video-1619904.html",
-      "publishedAt": "2026-07-24T13:42:44.000Z",
       "category": "KLIMA & UMWELT"
     },
     {
@@ -889,6 +889,13 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-entwuerfe-banknoten-100.html",
       "publishedAt": "2026-07-23T14:58:52.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Spanien nach wochenlanger Hitze und Trockenheit",
+      "url": "https://www.tagesschau.de/video/video-1619310.html",
+      "publishedAt": "2026-07-23T12:27:10.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1211,13 +1218,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/hp-viren-impfungen-sterberisiko-100.html",
       "publishedAt": "2026-06-30T14:07:58.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Tiny Forests: Kleine Wälder - große Wirkung?",
-      "url": "https://www.tagesschau.de/wissen/klima/tiny-forests-100.html",
-      "publishedAt": "2026-06-28T05:55:34.000Z",
-      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
