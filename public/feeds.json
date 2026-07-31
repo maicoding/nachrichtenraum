@@ -1,12 +1,36 @@
 {
-  "updatedAt": "2026-07-31T07:37:36.039Z",
+  "updatedAt": "2026-07-31T10:17:39.559Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Bestätigt! Russisches Geschoss schlug in Polen ein",
-      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
+      "title": "Mit Nordkorea-Rakete - Russland tötet drei Generationen einer Familie",
+      "excerpt": "Nordkoreanische Rakete tötet fast ganze Familie eines ukrainischen Frontsoldaten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-greift-ukraine-an-soldat-verliert-sohn-eltern-und-drei-geschwister-6a6c37e0ef632fe6ede66632",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Jetzt Geld zurückfordern - „Bausparkassen zocken Gebühren ab“",
+      "excerpt": "Jahresgebühren und Verwaltungskosten für Riester-Bausparverträge sind unzulässig. Kunden würden so unangemessen benachteiligt werden...",
+      "url": "https://www.bild.de/politik/jetzt-geld-zurueckfordern-bausparkassen-zocken-gebuehren-ab-6a6c5c0fef632fe6ede668f3",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ansturm auf Europas Grenze - Ceuta erlebt historische Migrationskrise",
+      "excerpt": "Italien fordert wegen des Migrantenansturms Sanktionen gegen Spanien im Schengen-Raum.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ansturm-auf-europas-grenze-historische-migrationskrise-in-ceuta-6a6c593aef632fe6ede668af",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Was wäre, wenn man einfach...“ - Neuer Geheimplan soll Mullahs in die Knie zwingen",
+      "excerpt": "Geht der Machtkampf mit dem Iran in eine neue, gefährliche Phase?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-neuer-geheimplan-von-donald-trump-soll-mullahs-in-die-knie-zwingen-6a6c31ac5aee44c118a9475d",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +38,7 @@
       "title": "Westgrenzen werden zum Problem - Kommen die Migranten aus Ceuta jetzt zu uns?",
       "excerpt": "Politiker warnen vor neuer Route über Spanien, Schleuser setzen auf Westeuropa.",
       "url": "https://www.bild.de/politik/inland/ceuta-gestuermt-kommen-die-migranten-jetzt-nach-deutschland-6a50831abb0cf80de56a434a",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +46,55 @@
       "title": "Krach nach Migranten-Ansturm - Meloni will Spanien aus Schengen-Raum werfen",
       "excerpt": "Italien droht Spanien nach Migrantenkrise in Ceuta mit Schengen-Ausschluss.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-von-migranten-gestuermt-jetzt-will-italien-spanien-aus-schengenraum-werfen-6a6c36fa5aee44c118a94791",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Seit mehr als 150 Tagen im Versteck - CIA und Mossad jagen den Ober-Mullah",
+      "excerpt": "Geheimdienste CIA und Mossad jagen den versteckten iranischen Führer Chamenei.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/untergetaucht-im-iran-cia-und-mossad-jagen-ober-mullah-modschtaba-chamenei-6a6b07d4b5b26399f0be0d10",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach kurzer Erholung im Frühjahr - Wieder mehr als drei Millionen Arbeitslose!",
+      "excerpt": "Arbeitslosigkeit steigt wieder über drei Millionen, der Jobmarkt bleibt schwach.",
+      "url": "https://www.bild.de/politik/inland/arbeitslosigkeit-wieder-mehr-als-drei-millionen-arbeitslose-in-deutschland-6a6c4b56dd06dd5ef2e4033a",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Tausende Migranten stürmen Ceuta - „Ich wollte schon als Kind nach Spanien“",
+      "excerpt": "Tausende Migranten versuchen über das Meer Ceuta zu erreichen, es herrscht Notstand.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/tausende-migranten-stuermen-ceuta-ich-wollte-schon-als-kind-nach-spanien-6a6c462edd06dd5ef2e402f7",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Donau hat zu wenig Wasser - Zwei EU-Staaten müssen Kernkraftwerke abschalten",
+      "excerpt": "Niedriger Donaupegel legt AKWs in Ungarn und Rumänien lahm und gefährdet Stromversorgung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donau-hat-zu-wenig-wasser-zwei-eu-staaten-muessen-kernkraftwerke-abschalten-6a6c332a5aee44c118a94769",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - Behörden gehen von rund 49.000 Migranten aus",
+      "excerpt": "Gerichtsurteil stoppt Rückführungen, Zahl der Migranten in Ceuta und Melilla steigt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-zu-ansturm-auf-ceuta-und-melilla-behoerden-schaetzen-mehr-als-40-000-migranten-6a6c559cff33749f57289c5d",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Die Politik lässt die Autofahrer im Stich!",
+      "excerpt": "Hohe Spritpreise treiben die Inflation, doch Staat und Politik handeln nicht.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-die-politik-laesst-die-autofahrer-im-stich-6a6b7fbee097baffab3339d5",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
@@ -30,31 +102,7 @@
       "title": "ZDF weigert sich - Bahn will Hayali-Doku aus der Mediathek verbannen",
       "excerpt": "Die Bahn wirft der Hayali-Doku falsche Fakten vor, das ZDF lehnt eine Löschung ab.",
       "url": "https://www.bild.de/politik/inland/zdf-weigert-sich-deutsche-bahn-will-doku-von-dunja-hayali-aus-mediathek-verbannen-6a6c29e4ef632fe6ede66585",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mail von Martenstein - Sehr geehrte Daniela Behrens,",
-      "excerpt": "Martenstein kritisiert den Ausschluss eines AfD-Kandidaten von der Landratswahl.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-sehr-geehrte-daniela-behrens-6a6b7cb734ac1649a32b0a44",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "CSD-Zoff im ZDF-Talk - Reul wettert gegen Berliner Kuschel-Justiz",
-      "excerpt": "Reul fordert härtere Urteile für junge Straftäter und klare Haltung gegen Islamismus.",
-      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/sarah-tacke-im-zdf-herbert-reul-wettert-gegen-berliner-kuschel-justiz-6a6be2dbef632fe6ede663fe",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zwei Wochen Zunder - Neuer Bomben-Plan gegen die Mullahs",
-      "excerpt": "US-Kommandeur drängt auf zweiwöchige Luftoffensive, Trump zögert mit Entscheidung.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/admiral-brad-cooper-trump-krieger-hat-bomben-plan-gegen-den-iran-6a6be340ef632fe6ede66403",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
@@ -62,79 +110,7 @@
       "title": "Politik-Sommer bleibt heiß - Vier Gefahren lauern auf Merz (eine ist er selbst)",
       "excerpt": "Trotz Umbau im Kabinett gerät Kanzler Merz im Sommer politisch massiv unter Druck.",
       "url": "https://www.bild.de/politik/inland/friedrich-merz-diese-vier-gefahren-bedrohen-seine-kanzlerschaft-6a6b19c2b5b26399f0be0f1a",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Trump verkündet - Hamas wird vollständig entwaffnet",
-      "excerpt": "Ist das der Schritt zu dauerhaftem Frieden für das terrorgeplagte Israel? US-Präsident Donald Trump hat auf seiner Social-Media-Plat...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-verkuendet-hamas-wird-vollstaendig-entwaffnet-6a6bd1a3dd06dd5ef2e3ff28",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Im ersten Halbjahr - Zahl der Abschiebungen gesunken",
-      "excerpt": "Im ersten Halbjahr 2026 wurden weniger Menschen abgeschoben als im Vorjahr.",
-      "url": "https://www.bild.de/politik/inland/zahl-der-abschiebungen-im-ersten-halbjahr-gesunken-6a6c0440ef632fe6ede66488",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Trump-Ansage - Hamas soll Entwaffnung zugestimmt haben, aber …",
-      "excerpt": "Hamas soll einem Zeitplan zur kompletten Entwaffnung zugestimmt haben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-trump-ansage-hamas-soll-entwaffnung-zugestimmt-haben-aber-6a6bf35edd06dd5ef2e3ff92",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Am Freitag kommt das dicke Plus an - So viel Rente haben Sie ab heute mehr",
-      "excerpt": "Warum viele Rentner warten müssen, während Pensionäre ihr Plus längst erhalten haben.",
-      "url": "https://www.bild.de/politik/inland/am-freitag-kommt-das-dicke-plus-an-so-viel-rente-haben-sie-ab-morgen-mehr-6a68b1bea17ee9f1dfd81cca",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Weckruf für Regierung“ - Vertrauen in den Staat auf historischem Tiefstand",
-      "excerpt": "Nur noch 17 Prozent glauben an einen funktionierenden Staat und fordern Reformen.",
-      "url": "https://www.bild.de/politik/inland/umfrage-vertrauen-in-den-staat-auf-historischem-tiefstand-6a6b0cca3b5ab80bc2911e78",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Migranten-Ansturm in Ceuta - Jetzt schickt Spanien die Armee",
-      "excerpt": "Tausende Migranten sind ins spanische Ceuta geschwommen. Die Regierung schickt die Armee.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-migranten-ueberrennen-spanische-hafenstadt-6a6b2befb5b26399f0be114a",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Stromausfall: Regierung bereitet sich vor - Geheimplan für langfristige Blackouts",
-      "excerpt": "Die Bundesnetzagentur arbeitet heimlich an Plänen für den Fall längerer Stromausfälle.",
-      "url": "https://www.bild.de/politik/inland/bundesregierung-bereitet-sich-auf-stromausfaelle-vor-geheimplan-fuer-langfristige-blackouts-6a6b20e5b5b26399f0be0fee",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Überraschende Studie - Linke und AfD in jedem zweiten Punkt einig",
-      "excerpt": "Kurz vor der Landtagswahl wirbelt eine brisante Studie Sachsen-Anhalt auf.",
-      "url": "https://www.bild.de/politik/inland/ueberraschende-studie-linke-und-afd-in-jedem-zweiten-punkt-einig-6a6af74cdd06dd5ef2e3f0d0",
-      "publishedAt": "2026-07-31T07:37:35.755Z",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
@@ -142,55 +118,119 @@
       "title": "Klagen gegen das Kartellamt - Konzerne wollen Kosten für Sprit verheimlichen",
       "excerpt": "Zwei Ölkonzerne wehren sich vor Gericht gegen Auskunftsforderungen des Kartellamts.",
       "url": "https://www.bild.de/politik/inland/auskunft-ueber-tatsaechliche-spritkosten-mineraloelkonzerne-verklagen-das-bundeskartellamt-6a6b345ddd06dd5ef2e3f627",
-      "publishedAt": "2026-07-31T07:37:35.754Z",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Bestätigt! Russisches Geschoss schlug in Polen ein",
+      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mail von Martenstein - Sehr geehrte Daniela Behrens,",
+      "excerpt": "Martenstein kritisiert den Ausschluss eines AfD-Kandidaten von der Landratswahl.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-sehr-geehrte-daniela-behrens-6a6b7cb734ac1649a32b0a44",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CSD-Zoff im ZDF-Talk - Reul wettert gegen Berliner Kuschel-Justiz",
+      "excerpt": "Reul fordert härtere Urteile für junge Straftäter und klare Haltung gegen Islamismus.",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/sarah-tacke-im-zdf-herbert-reul-wettert-gegen-berliner-kuschel-justiz-6a6be2dbef632fe6ede663fe",
+      "publishedAt": "2026-07-31T10:17:38.968Z",
       "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
-      "title": "Aktivist aus Uganda über Hamburger CSD: „Ich habe gemischte Gefühle“",
-      "excerpt": "Ivan Kakonge, 28, schwul und Aktivist, kam 2025 nach Hamburg – aus Uganda, wo Homosexualität verboten ist. So geht es ihm vor seinem ersten CSD. mehr...",
-      "url": "https://taz.de/Aktivist-aus-Uganda-ueber-Hamburger-CSD/!6200098/",
-      "publishedAt": "2026-07-31T07:32:00.000Z",
+      "title": "Fußball-Mehrheit gegen Infantino: Auch der asiatische Fußballverband erteilt Fifa Absage",
+      "excerpt": "Nach Uefa und Concacaf spricht sich auch Asiens Regionalverband AFC gegen den Investorendeal aus. Damit hat der Infantino-Plan rechnerisch keine Mehrheit mehr. mehr...",
+      "url": "https://taz.de/Fussball-Mehrheit-gegen-Infantino/!6200645/",
+      "publishedAt": "2026-07-31T10:04:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
+      "excerpt": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht die europäischen Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Auch aus den USA kommt Kritik",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
+      "publishedAt": "2026-07-31T09:33:43.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Überlegungen zu Fusionskraftwerken: Wie Deutschland die Kernfusion entwickeln will",
+      "excerpt": "Dank Forschungsministerin Bär gibt es nun für Laserfusion, Magnetfusion und Brennstoffforschung drei Verbünde. Ein Kraftwerk gibt es damit noch nicht. mehr...",
+      "url": "https://taz.de/Ueberlegungen-zu-Fusionskraftwerken/!6200311/",
+      "publishedAt": "2026-07-31T09:33:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
-      "title": "WM-Gastgeber gegen Infantino: Nächster Verband stellt sich gegen FIFA-Plan",
-      "excerpt": "Die UEFA leistet massiven Widerstand gegen den in dieser Woche vorgeschlagenen Investorendeal der FIFA. Nun erhalten die Europäer unerwartete Unterstützung. mehr...",
-      "url": "https://taz.de/WM-Gastgeber-gegen-Infantino/!6200618/",
-      "publishedAt": "2026-07-31T07:30:00.000Z",
+      "title": "Arbeitsmarkt im Juli: Zahl der Arbeitslosen steigt wieder über drei Millionen",
+      "excerpt": "Im Juli nimmt die Zahl der Arbeitslosen üblicherweise kräftig zu. In diesem Jahr wurde erneut die Grenze von drei Millionen überschritten. mehr...",
+      "url": "https://taz.de/Arbeitsmarkt-im-Juli/!6200629/",
+      "publishedAt": "2026-07-31T09:33:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Sieghard Knodel: Sie nennen ihn das Phantom des Bundestags. Wer ist der faule Ex-AfD-Mann?",
+      "excerpt": "Niemand fehlt im Bundestag so oft wie der Ex-AfD-Mann Sieghard Knodel. Seine frühere Partei habe ihm das Leben zur Hölle gemacht, sagt er. Er sei der faulste Abgeordnete überhaupt, finden seine Gegner. Jetzt will er sich",
+      "url": "https://www.spiegel.de/politik/deutschland/sieghard-knodel-sie-nennen-ihn-das-phantom-des-bundestags-wer-ist-der-extrem-faule-ex-afd-mann-a-d38bffad-b6d0-4ace-a541-f2cb237c47c6#ref=rss",
+      "publishedAt": "2026-07-31T09:30:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Nordafrika - Ceuta weiter das Ziel zahlreicher Migranten - Spanien schickt Soldaten",
-      "excerpt": "Nach der Ankunft Tausender Migranten hat die spanische Regierung Soldaten nach Ceuta an der nordafrikanischen Küste entsandt. Derweil machen sich weiter viele Menschen auf den Weg in die spanische Exklave.",
-      "url": "https://www.deutschlandfunk.de/ceuta-weiter-das-ziel-zahlreicher-migranten-spanien-schickt-soldaten-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "title": "Sport - Investorenplan der FIFA für WM vor dem Aus",
+      "excerpt": "Die Pläne der FIFA, die Fußball-Weltmeisterschaft für Investoren zu öffnen, dürften gescheitert sein. In den Widerstand dagegen reihte sich nun auch der für Asien zuständige Kontinentalverband AFC ein.",
+      "url": "https://www.deutschlandfunk.de/investorenplan-der-fifa-fuer-wm-vor-dem-aus-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Bundestagsvizepräsident - Auch Ramelow (Linke) gegen 5-Prozent-Hürde: \"Wir sind nicht mehr das alte Westdeutschland\"",
-      "excerpt": "Auch Bundestagsvizepräsident Ramelow hat Bereitschaft für eine Abschaffung der Fünf-Prozent-Hürde signalisiert. Die Debatte darüber sei notwendig, sagte der Linken-Politiker dem Redaktionsnetzwerk Deutschland.",
-      "url": "https://www.deutschlandfunk.de/auch-ramelow-linke-gegen-5-prozent-huerde-wir-sind-nicht-mehr-das-alte-westdeutschland-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "title": "Wirtschaft - Arbeitslosenzahl steigt auf über drei Millionen",
+      "excerpt": "Die Zahl der Arbeitslosen in Deutschland hat im Juli ‌zugenommen und ⁠überschreitet nun die Marke ⁠von drei Millionen. Die Bundesagentur für Arbeit verzeichnete 3 Millionen 7-tausend Arbeitslose, wie die Behörde in Nürnb",
+      "url": "https://www.deutschlandfunk.de/arbeitslosenzahl-steigt-auf-ueber-drei-millionen-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Medienbericht - Ölkonzerne verklagen Bundeskartellamt wegen Benzinpreis-Prüfung",
-      "excerpt": "Das Bundeskartellamt stößt bei seiner Untersuchung der stark gestiegenen Kraftstoffpreise einem Medienbericht zufolge auf juristischen Widerstand.",
-      "url": "https://www.deutschlandfunk.de/oelkonzerne-verklagen-bundeskartellamt-wegen-benzinpreis-pruefung-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "title": "Nordafrika - Schätzungsweise 49.000 Migranten erreichen spanische Exklave Ceuta",
+      "excerpt": "In Nordafrika sind laut spanischer Regierung innerhalb von 24 Stunden schätzungsweise 49.000 Migranten von Marokko aus in der Exklave Ceuta angekommen. Mehrere Menschen kamen beim Versuch ums Leben, das EU-Gebiet zu erre",
+      "url": "https://www.deutschlandfunk.de/schaetzungsweise-49-000-migranten-erreichen-spanische-exklave-ceuta-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ölpreise - Portugiesische Regierung plant Übergewinnsteuer für Ölkonzerne im laufenden Jahr",
-      "excerpt": "Die portugiesische Regierung will eine Sondersteuer auf übermäßig hohe Gewinne von Ölkonzernen für das laufende Jahr einführen.",
-      "url": "https://www.deutschlandfunk.de/portugiesische-regierung-plant-uebergewinnsteuer-fuer-oelkonzerne-im-laufenden-jahr-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "title": "Migranten in Ceuta - Italien will Ausschluss Spaniens aus Schengen-Raum",
+      "excerpt": "Wegen der vielen Migranten in der spanischen Exklave Ceuta in Nordafrika hat die rechtsgerichtete Regierung in Italien den Ausschluss Spaniens aus dem Schengen-Raum gefordert. Die wiederum linksgerichtete Regierung in Ma",
+      "url": "https://www.deutschlandfunk.de/italien-will-ausschluss-spaniens-aus-schengen-raum-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "EU-Katastrophenschutz - Ukraine unterstützt Löscharbeiten in Frankreich: 70 Feuerwehrleute in Waldbrandgebiete aufgebrochen",
+      "excerpt": "Die Ukraine entsendet Feuerwehrleute nach Frankreich, um die Bekämpfung der Waldbrände zu unterstützten.",
+      "url": "https://www.deutschlandfunk.de/ukraine-unterstuetzt-loescharbeiten-in-frankreich-70-feuerwehrleute-in-waldbrandgebiete-aufgebrochen-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Luftverkehr - Syrien-Öffnung geht weiter: Nun auch Direktflüge nach Aleppo",
+      "excerpt": "Die Kölner Fluggesellschaft LEAV Aviation hat für Sonntag auch den ersten Direktflug von Deutschland in die syrische Großstadt Aleppo angekündigt.",
+      "url": "https://www.deutschlandfunk.de/syrien-oeffnung-geht-weiter-nun-auch-direktfluege-nach-aleppo-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,39 +238,15 @@
       "title": "Regierungspläne - Sachsens Ministerpräsident Kretschmer (CDU) droht mit Ablehnung von Rente- und Pflegereform im Bundesrat",
       "excerpt": "Sachsens Ministerpräsident Kretschmer hat seinen Widerstand gegen die aktuellen Pläne für die Renten- und Pflegereform bekräftigt.",
       "url": "https://www.deutschlandfunk.de/sachsens-ministerpraesident-kretschmer-cdu-droht-mit-ablehnung-von-rente-und-pflegereform-im-bundesr-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Sachsen-Anhalt, Baden-Württemberg, Bayern - Deutscher Wetterdienst: 40-Grad-Marke an mehreren Orten geknackt - neue vorläufige Juli-Hitzerekorde",
-      "excerpt": "Der Deutsche Wetterdienst hat in drei Bundesländern neue vorläufige Hitze-Rekordwerte für den Monat Juli gemessen.",
-      "url": "https://www.deutschlandfunk.de/deutscher-wetterdienst-40-grad-marke-an-mehreren-orten-geknackt-neue-vorlaeufige-juli-hitzerekorde-106.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bayern - Feuerwehr kämpft weiter gegen den Waldbrand in den Chiemgauer Alpen",
-      "excerpt": "Beim Löschen eines Waldbrands in Südbayern macht die Feuerwehr nach eigenen Angaben Fortschritte.",
-      "url": "https://www.deutschlandfunk.de/feuerwehr-kaempft-weiter-gegen-den-waldbrand-in-den-chiemgauer-alpen-102.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Künstliche Intelligenz - Auch KI von Anthropic griff echte Firmen an",
-      "excerpt": "Wenige Wochen nach der Hacker-Attacke eines KI-Modells von OpenAI ist bekannt geworden, dass etwas Ähnliches beim Konkurrenzunternehmen Anthropic geschehen ist.",
-      "url": "https://www.deutschlandfunk.de/auch-ki-von-anthropic-griff-echte-firmen-an-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Trump gibt Vereinbarung zur Entwaffnung der Hamas bekannt",
-      "excerpt": "Die Terrororganisation Hamas hat laut US-Präsident Trump einer Entwaffnung und Entmilitarisierung des Gazastreifens zugestimmt.",
-      "url": "https://www.deutschlandfunk.de/trump-gibt-vereinbarung-zur-entwaffnung-der-hamas-bekannt-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "title": "Bundestagsvizepräsident - Auch Ramelow (Linke) gegen 5-Prozent-Hürde: \"Wir sind nicht mehr das alte Westdeutschland\"",
+      "excerpt": "Auch Bundestagsvizepräsident Ramelow hat Bereitschaft für eine Abschaffung der Fünf-Prozent-Hürde signalisiert. Die Debatte darüber sei notwendig, sagte der Linken-Politiker dem Redaktionsnetzwerk Deutschland.",
+      "url": "https://www.deutschlandfunk.de/auch-ramelow-linke-gegen-5-prozent-huerde-wir-sind-nicht-mehr-das-alte-westdeutschland-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,47 @@
       "title": "Finanzwissenschaftler - \"Unter den reichsten Ländern dürften die Deutschen wohl das risikoscheueste Volk der Erde sein\"",
       "excerpt": "Der Finanzökonom Christian Klein hat den Umgang der Deutschen mit ihrem Geld kritisiert. Unter den reichsten Ländern dürften die Deutschen wohl das risikoscheueste Volk der Erde sein, wenn es um Sparen gehe, sagte der Pr",
       "url": "https://www.deutschlandfunk.de/unter-den-reichsten-laendern-duerften-die-deutschen-wohl-das-risikoscheueste-volk-der-erde-sein-102.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienbericht - Ölkonzerne verklagen Bundeskartellamt wegen Benzinpreis-Prüfung",
+      "excerpt": "Das Bundeskartellamt stößt bei seiner Untersuchung der stark gestiegenen Kraftstoffpreise einem Medienbericht zufolge auf juristischen Widerstand.",
+      "url": "https://www.deutschlandfunk.de/oelkonzerne-verklagen-bundeskartellamt-wegen-benzinpreis-pruefung-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ölpreise - Portugiesische Regierung plant Übergewinnsteuer für Ölkonzerne im laufenden Jahr",
+      "excerpt": "Die portugiesische Regierung will eine Sondersteuer auf übermäßig hohe Gewinne von Ölkonzernen für das laufende Jahr einführen.",
+      "url": "https://www.deutschlandfunk.de/portugiesische-regierung-plant-uebergewinnsteuer-fuer-oelkonzerne-im-laufenden-jahr-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bayern - Feuerwehr kämpft weiter gegen den Waldbrand in den Chiemgauer Alpen",
+      "excerpt": "Beim Löschen eines Waldbrands in Südbayern macht die Feuerwehr nach eigenen Angaben Fortschritte.",
+      "url": "https://www.deutschlandfunk.de/feuerwehr-kaempft-weiter-gegen-den-waldbrand-in-den-chiemgauer-alpen-102.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Anhaltende Trockenheit - Rhein-Niedrigwasser nahe Rekordtief",
+      "excerpt": "​Der Rheinpegel an der für die Schifffahrt wichtigen Engstelle Kaub nähert sich seinem Rekordtief.",
+      "url": "https://www.deutschlandfunk.de/rhein-niedrigwasser-nahe-rekordtief-100.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt, Baden-Württemberg, Bayern - Deutscher Wetterdienst: 40-Grad-Marke an mehreren Orten geknackt - neue vorläufige Juli-Hitzerekorde",
+      "excerpt": "Der Deutsche Wetterdienst hat in drei Bundesländern neue vorläufige Hitze-Rekordwerte für den Monat Juli gemessen.",
+      "url": "https://www.deutschlandfunk.de/deutscher-wetterdienst-40-grad-marke-an-mehreren-orten-geknackt-neue-vorlaeufige-juli-hitzerekorde-106.html",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +302,7 @@
       "title": "EU - Recht auf Reparatur tritt in Kraft",
       "excerpt": "Heute ist das so genannte Recht auf Reparatur in Kraft getreten.",
       "url": "https://www.deutschlandfunk.de/recht-auf-reparatur-tritt-in-kraft-102.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +310,7 @@
       "title": "EU-Richtlinie in Kraft - Recht auf Reparatur - was ändert sich für Kunden?",
       "excerpt": "Heute ist das sogenannte Recht auf Reparatur in Kraft getreten. Die Bundesregierung hat eine entsprechende EU-Richtlinie umgesetzt. Verbraucher haben nun länger als bisher einen Anspruch darauf, dass Geräte wie Smartphon",
       "url": "https://www.deutschlandfunk.de/recht-auf-reparatur-was-aendert-sich-fuer-kunden-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +318,7 @@
       "title": "Riskante Geschäfte - Verbraucherschützer kritisieren Krankenkassen für Millionenverluste durch gescheiterte Investments",
       "excerpt": "Der Verbraucherzentrale Bundesverband kritisiert riskante Finanzgeschäfte von Krankenkassen, die Berichten zufolge zu Millionenverlusten geführt haben.",
       "url": "https://www.deutschlandfunk.de/verbraucherschuetzer-kritisieren-krankenkassen-fuer-millionenverluste-durch-gescheiterte-investments-102.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,40 +326,40 @@
       "title": "Thüringen - DDR-Oldtimer: Eisenach feiert 60 Jahre Wartburg 353",
       "excerpt": "Eisenach feiert 60 Jahre Wartburg 353. Zahlreiche Fans des DDR-Oldtimers werden ab heute aus dem In- und Ausland zum sogenannten Heimweh-Treffen erwartet. Die Veranstalter rechnen mit mehreren hundert Fahrzeugen.",
       "url": "https://www.deutschlandfunk.de/ddr-oldtimer-eisenach-feiert-60-jahre-wartburg-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
+      "publishedAt": "2026-07-31T09:19:40.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Grünheide - Tesla stellt 1.000 Menschen neu ein",
-      "excerpt": "Der US-Elektroautohersteller Tesla hat in seinem deutschen Werk in Grünheide mit der Aufstockung der Mitarbeiterzahl begonnen.",
-      "url": "https://www.deutschlandfunk.de/tesla-stellt-1-000-menschen-neu-ein-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Medien berichten von mehr als 40.000 Migranten in Ceuta",
+      "excerpt": "Medienberichten zufolge sollen mehr als 40.000 Migranten in die spanische Exklave Ceuta gelangt sein - auch befeuert von Gerüchten über eine Grenzöffnung. Spanien hat zusätzliche Soldaten mobilisiert. Von Stefan Ehlert.",
+      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-100.html",
+      "publishedAt": "2026-07-31T09:18:39.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Maßnahmen nach CSD - NRW-Innenminister Reul (CDU): \"Sicherheitslage ehrlich betrachen\"",
-      "excerpt": "Nach dem Anschlag beim CSD in Berlin hat Nordrhein-Westfalens Innenminister Reul hat dazu aufgerufen, die Sicherheitslage realistisch und ehrlich zu betrachten.",
-      "url": "https://www.deutschlandfunk.de/nrw-innenminister-reul-cdu-sicherheitslage-ehrlich-betrachen-102.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Antworten auf Wirtschaftskrise: Bin-nen-nach-fra-ge!",
+      "excerpt": "Sozialkürzungen und Stellenabbau sollen die deutsche Wirtschaft retten. Besser wäre es, vom „New Deal“ Franklin D. Roosevelts zu lernen. mehr...",
+      "url": "https://taz.de/Antworten-auf-Wirtschaftskrise/!6200396/",
+      "publishedAt": "2026-07-31T08:34:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Migration - Zahl der Abschiebungen im ersten Halbjahr gesunken",
-      "excerpt": "Die Zahl der Abschiebungen aus Deutschland sinkt.",
-      "url": "https://www.deutschlandfunk.de/zahl-der-abschiebungen-im-ersten-halbjahr-gesunken-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
+      "excerpt": "In den vergangenen Tagen erreichten viele Migranten das spanische Ceuta in Nordafrika. Die örtlichen Behörden sind beunruhigt, die Aufnahmezentren überfüllt. Heute reist Premierminister Sánchez in die Exklave.",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "\"Niemand verkauft den Fußball\" - FIFA wehrt sich gegen Kritik - besteht aber weiter auf ihre Teilprivatisierungspläne für die WM",
-      "excerpt": "Die FIFA hat die Kritik an ihren Investoren-Plänen rund um die Fußball-WM zurückgewiesen, besteht aber gleichzeitig auf ihrem Vorhaben.",
-      "url": "https://www.deutschlandfunk.de/fifa-wehrt-sich-gegen-kritik-besteht-aber-weiter-auf-ihre-teilprivatisierungsplaene-fuer-die-wm-100.html",
-      "publishedAt": "2026-07-31T07:27:12.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Künstler Grant Mooney in Mönchengladbach: Was das Material verrät",
+      "excerpt": "Im Museum Abteiberg durchquert der US-Künstler Grant Mooney die jüngere Geschichte der Bildhauerei – auf poetische bis marxistische Weise. mehr...",
+      "url": "https://taz.de/Kuenstler-Grant-Mooney-in-Moenchengladbach/!6200276/",
+      "publishedAt": "2026-07-31T07:40:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -315,35 +371,11 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Migration: Wie 3.000 Migranten die Grenze nach Spanien überwanden",
+      "title": "Migration nach Spanien: Über 40.000 sollen Grenze überwunden haben",
       "excerpt": "Tausende Menschen aus Marokko sind in die spanische Exklave Ceuta gelangt. Italien fordert den Ausschluss Spaniens aus dem Schengen-Raum. mehr...",
       "url": "https://taz.de/Migration/!6200609/",
       "publishedAt": "2026-07-31T07:13:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Amsterdam vor der Pride-Parade: Einheit unter Druck",
-      "excerpt": "Am Wochenende steht in den Niederlanden die „World Pride“ an. Der Anschlag auf dem CSD in Berlin prägt die Vorbereitungen zur Boot-Parade. mehr...",
-      "url": "https://taz.de/Amsterdam-vor-der-Pride-Parade/!6200381/",
-      "publishedAt": "2026-07-31T07:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gewinneinbruch und Stellenabbau bei BMW: Perfide Strategie gegen Wirtschaftsdemokratie",
-      "excerpt": "BMW will Tausende Stellen abbauen. Für das Unternehmen muss das nicht schlimm sein, doch es ist ein Angriff auf die Mitbestimmung der Beschäftigten. mehr...",
-      "url": "https://taz.de/Gewinneinbruch-und-Stellenabbau-bei-BMW/!6200345/",
-      "publishedAt": "2026-07-31T07:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
-      "excerpt": "In den vergangenen Tagen erreichten viele Migranten das spanische Ceuta in Nordafrika. Die örtlichen Behörden sind beunruhigt, die Aufnahmezentren überfüllt. Heute reist Premierminister Sánchez in die Exklave. Die EU bot",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html",
-      "publishedAt": "2026-07-31T07:03:03.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -363,22 +395,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Westcoast-Psychedelik-Compilation: Die psychedelischen Dandys transzendieren San Francisco",
-      "excerpt": "Wow, what a trip: Der britische Kulturkritiker Jon Savage hat mit „Jon Savage’s SF Sike 1966—72“ einen Sampler mit Psychedelia zusammengestellt. mehr...",
-      "url": "https://taz.de/Westcoast-Psychedelik-Compilation/!6193908/",
-      "publishedAt": "2026-07-31T05:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Saudi-Arabien: Neue Militärkooperation zum Schutz von Ölexporten im Roten Meer",
-      "excerpt": "Das Königreich sieht auch seine Ölexporte über das Rote Meer zunehmend in Gefahr. Gemeinsam mit arabischen und weiteren Staaten ruft das Land eine neue Militärkooperation ins Leben.",
-      "url": "https://www.spiegel.de/politik/saudi-arabien-neue-militaerkooperation-zum-schutz-von-oelexporten-im-roten-meer-a-21c5562f-6890-42f2-bcf7-270ae326b9b7#ref=rss",
-      "publishedAt": "2026-07-31T05:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Die Wahrheit: Bedrohlicher Schlupf",
       "excerpt": "Neues von der Schratzelforschung: Der Ursprung der rund tausend Jahre alten Erdlöcher bleibt im Dunkeln. mehr...",
       "url": "https://taz.de/Die-Wahrheit/!6200290/",
@@ -387,7 +403,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Deutschland: 9663 Menschen im ersten Halbjahr abgeschoben – weniger als 2025",
+      "title": "Deutschland: Weniger Abschiebungen im ersten Halbjahr",
       "excerpt": "Von Januar bis Juni sind 9663 Menschen aus Deutschland abgeschoben worden – rund 2100 weniger als im Vorjahreszeitraum. Die AfD kritisiert die Migrationspolitik der Bundesregierung, Innenminister Dobrindt hält dagegen.",
       "url": "https://www.spiegel.de/politik/deutschland-9663-menschen-im-ersten-halbjahr-abgeschoben-weniger-als-2025-a-df57b969-e99b-48ef-a224-6e3322c68c51#ref=rss",
       "publishedAt": "2026-07-31T04:52:00.000Z",
@@ -403,7 +419,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "News: Verbraucher, Recht auf Repatarur, Deutscher Bundestag, Frauen-Ausgabe der Tour de France",
+      "title": "News: Verbraucher, Recht auf Repatarur, Bundestag, Tour de France Femmes",
       "excerpt": "Verbraucher bekommen neue Rechte. Das Phantom des Deutschen Bundestags erklärt sich. Und die Frauen-Ausgabe der Tour de France startet. Das ist die Lage am Freitagmorgen.",
       "url": "https://www.spiegel.de/politik/deutschland/news-verbraucher-recht-auf-repatarur-deutscher-bundestag-frauen-ausgabe-der-tour-de-france-a-4733042c-4d19-408e-9e2d-8a7a0aa8c0e9#ref=rss",
       "publishedAt": "2026-07-31T03:34:00.000Z",
@@ -512,14 +528,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
       "publishedAt": "2026-07-30T17:24:31.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "„Oma gegen rechts“ zu rechten Drohungen: „Das macht schon Schiss“",
-      "excerpt": "Eine Aktivistin nannte Björn Höcke auf einen Plakat „Nazi“ – und geriet ins Visier der Behörden und Höckes selbst. Ein Gespräch über die Ermittlungen. mehr...",
-      "url": "https://taz.de/Oma-gegen-rechts-zu-rechten-Drohungen/!6188538/",
-      "publishedAt": "2026-07-30T17:23:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -755,14 +763,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
-      "excerpt": "In Frankreich und Spanien brennt es weiter. Auch aus der Türkei und Griechenland werden neue Waldbrände gemeldet. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben.",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
-      "publishedAt": "2026-07-29T22:42:29.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Personalumbau in der CDU: Merz hat jetzt keinen Schutzschild mehr",
       "excerpt": "In der Fraktionssitzung machten die Unionsabgeordneten ihrem Unmut Luft. Merz' Personalumbau scheint zwar zu besänftigen - aber der Kanzler hat jetzt ein Instrument verbraucht, das ihm bald fehlen könnte. Von Tina Handel",
       "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-cdu-personalumbau-100.html",
@@ -880,14 +880,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
       "publishedAt": "2026-07-29T10:19:25.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Feuer bei Bordeaux: Was die freiwilligen Helfer im Brandgebiet leisten",
-      "excerpt": "Sie weisen ortsunkundigen Feuerwehrleuten den Weg oder helfen beim Befüllen der Löschfahrzeuge: In den Waldbrandgebieten rund um Bordeaux ist das Engagement der freiwilligen Helfer groß. Cai Rienäcker war unterwegs in ev",
-      "url": "https://www.tagesschau.de/ausland/europa/brand-frankreich-100.html",
-      "publishedAt": "2026-07-29T09:51:00.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1440,6 +1432,14 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/homeoffice-psyche-100.html",
       "publishedAt": "2026-06-05T15:15:31.000Z",
       "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Unser Fenster nach Belarus: Pässe, Exil und Widerstand",
+      "excerpt": "Exil endet nicht an der Grenze: Belarussische Stimmen diskutieren über Passentzug, Repression und die Kraft unabhängiger Medien. mehr...",
+      "url": "https://taz.de/Unser-Fenster-nach-Belarus/!6200603/",
+      "publishedAt": "2026-05-31T07:06:00.000Z",
+      "category": "POLITIK"
     }
   ]
 }
