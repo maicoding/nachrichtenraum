@@ -1,116 +1,12 @@
 {
-  "updatedAt": "2026-08-01T01:16:32.105Z",
+  "updatedAt": "2026-08-01T04:39:54.952Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Wieder massiver Raketen-Terror gegen Kiew",
-      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zu Ansturm auf Ceuta - Migranten kehren zurück, Lage entspannt sich",
-      "excerpt": "Ein Großteil der 60.000 Migranten soll Cuta wieder verlassen haben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-zu-ansturm-auf-ceuta-und-melilla-behoerden-schaetzen-mehr-als-40-000-migranten-6a6c559cff33749f57289c5d",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Lage entspannt sich - Keine Perspektive: Tausende Migranten verlassen Ceuta",
-      "excerpt": "Nach dem Massenansturm kehren in Ceuta Ruhe ein und fast alle Migranten zurück.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/drama-in-ceuta-zehntausende-migranten-nach-massenansturm-auf-spanien-zurueck-in-marokko-6a6cf5e75ee3caa4780707a5",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar von Nikolaus Harbusch - Kein neues 2015!",
-      "excerpt": "EU-Politiker fordern harten Grenzschutz, um einen neuen Flüchtlingsansturm zu stoppen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-kein-neues-2015-6a6cad005aee44c118a9538c",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter trifft Migranten aus Marokko - „So gelang uns die Flucht nach Spanien“",
-      "excerpt": "Reporter trifft in Marokko Flüchtlinge und hört ihre Geschichten von der Flucht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/marokko-fluechtlinge-berichten-so-gelang-uns-die-flucht-nach-spanien-6a6cb7ffff33749f5728a525",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Tausende Migranten stürmen Ceuta - „Ich wollte schon als Kind nach Spanien“",
-      "excerpt": "Tausende Migranten versuchen über das Meer Ceuta zu erreichen, es herrscht Notstand.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/tausende-migranten-stuermen-ceuta-ich-wollte-schon-als-kind-nach-spanien-6a6c462edd06dd5ef2e402f7",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schuld ist Dieter Hallervorden - Parteispitze geht auf eigenen CDU-Kandidaten los",
-      "excerpt": "Die Bundes-CDU geht nach einem Hallervorden-Auftritt auf Distanz zur Wahlkampf-Strategie.",
-      "url": "https://www.bild.de/politik/inland/schuld-ist-ausgerechnet-dieter-hallervorden-generalsekretaerin-der-cdu-geht-auf-eigenen-spitzenkandidaten-los-6a6cafc3ef632fe6ede67023",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Israels Außenminister - „Wenn wir handeln müssen, werden wir handeln“",
-      "excerpt": "Israels Außenminister droht Iran mit harten Antworten und will Atomwaffen verhindern.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/aussenminister-von-israel-zum-iran-wenn-wir-handeln-muessen-werden-wir-handeln-6a6c8d01ef632fe6ede66d6e",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Machtkampf geht weiter - Weidel will fünf AfD-Politiker bestrafen",
-      "excerpt": "AfD-Spitze leitet im Machtkampf Ordnungsverfahren gegen fünf NRW-Politiker ein.",
-      "url": "https://www.bild.de/politik/inland/machtkampf-in-der-afd-weidel-will-fuenf-politiker-bestrafen-sogar-ihren-vertrauten-tritschler-6a6cbafcff33749f5728a555",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Trotz Tank-Wut! - Schwarz-Rot bricht Spritpreis-Versprechen",
-      "excerpt": "Trotz teurem Benzin lässt die Regierung ihr Versprechen gegen hohe Preise platzen.",
-      "url": "https://www.bild.de/politik/inland/trotz-tankwut-koalition-bricht-versprechen-zum-spritpreis-6a6c696a5aee44c118a94be0",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die Welt in Sorge - 17 Länder betroffen! Iran-Krieg breitet sich aus",
-      "excerpt": "Der Iran-Krieg weitet sich mit immer mehr beteiligten Staaten zum Flächenbrand aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/krieg-in-iran-weitet-sich-aus-schon-17-laender-sind-betroffen-6a6a2a8595262dd162784f14",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Horror-Crash auf den B27 - Drogen-Verdacht gegen CDU-Politiker Thomas Bareiß",
-      "excerpt": "Nach dem Unfall auf der B27 wird gegen Thomas Bareiß wegen Drogenkonsums ermittelt.",
-      "url": "https://www.bild.de/politik/inland/nach-schwerem-unfall-auf-den-b27-verdacht-auf-drogenkonsum-bei-thomas-bareiss-cdu-6a6c9befdd06dd5ef2e40b15",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Ceuta-Chaos! - Ceuta-Chaos! Weber will notfalls Frontex einsetzen",
       "excerpt": "Weber fordert hartes Vorgehen in Ceuta und droht Spanien mit Frontex-Einsatz.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-chaos-csu-politiker-manfred-weber-will-notfalls-frontex-einsetzen-6a6c7a5fff33749f57289fe9",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
+      "publishedAt": "2026-08-01T04:39:54.884Z",
       "category": "POLITIK"
     },
     {
@@ -118,39 +14,151 @@
       "title": "10 Fragen zum Ceuta-Drama - So einfach könnten Migranten nach Deutschland kommen",
       "excerpt": "Migranten aus Marokko sind nach Ceuta geströmt. BILD klärt zehn wichtige Fragen.",
       "url": "https://www.bild.de/politik/inland/10-fragen-zum-ceuta-drama-so-einfach-koennten-die-migranten-jetzt-nach-deutschland-kommen-6a6c6e835aee44c118a94c83",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
+      "publishedAt": "2026-08-01T04:39:54.884Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Umstrittene Forderung - Linke: Deutschland muss Ceuta-Migranten aufnehmen",
-      "excerpt": "Linken-Politiker fordert Aufnahme von Migranten aus der spanischen Exklave Ceuta.",
-      "url": "https://www.bild.de/politik/inland/clara-buenger-von-den-linken-fordert-aufnahme-von-migranten-aus-ceuta-in-deutschland-6a6caf51ef632fe6ede6700f",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
+      "title": "Rüffel für das Management - Mächtig Kasalla von Bahn-Chefin Palla",
+      "excerpt": "Bahn-Chefin Palla rechnet mit alter Führungskultur ab und lobt Mitarbeiter als Helden.",
+      "url": "https://www.bild.de/politik/inland/wegduck-system-wischiwaschi-rueffel-helden-lob-maechtig-kasalla-von-bahn-chefin-palla-6a6d59f0dd06dd5ef2e4126b",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "„Damit 2015 sich nicht wiederholt“ - Politiker schlagen nach Migranten-Ansturm Alarm",
-      "excerpt": "Nach dem Massenandrang in Ceuta sprechen europäische Regierungschefs von einer Krise.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-europas-politiker-schlagen-alarm-damit-sich-2015-nicht-wiederholt-6a6c837ddd06dd5ef2e4089e",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
+      "title": "Live-Ticker zum Ukraine-Krieg - Neun Tote nach Raketen-Terror gegen Kiew",
+      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ansturm auf Europas Grenze - Ceuta erlebt historische Migrationskrise",
-      "excerpt": "Italien fordert wegen des Migrantenansturms Sanktionen gegen Spanien im Schengen-Raum.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ansturm-auf-europas-grenze-historische-migrationskrise-in-ceuta-6a6c593aef632fe6ede668af",
-      "publishedAt": "2026-08-01T01:16:31.904Z",
+      "title": "SPD-General Tim Klüssendorf in BILD - Rente mit 63 soll bleiben",
+      "excerpt": "Kanzler Merz hat den Zoff nach der Kabinettsumbildung überstanden. Doch es gibt neuen Ärger.",
+      "url": "https://www.bild.de/politik/inland/neuer-zoff-mit-dem-koalitionspartner-cdu-spd-haelt-an-rente-mit-63-jahren-fest-6a6ca70bff33749f5728a3d2",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Bedeutende Anlagen“ im Visier - Mullahs drohen der Welt mit Öl-Inferno",
+      "excerpt": "Iran droht bei neuen US-Angriffen mit Raketen auf Öl- und Gasanlagen am Golf.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bedeutende-anlagen-im-visier-mullahs-drohen-der-welt-mit-oel-inferno-6a6d4aa2ef632fe6ede675ba",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zu Ansturm auf Ceuta - Migranten kehren zurück, Lage entspannt sich",
+      "excerpt": "Ein Großteil der 60.000 Migranten soll Cuta wieder verlassen haben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-zu-ansturm-auf-ceuta-und-melilla-behoerden-schaetzen-mehr-als-40-000-migranten-6a6c559cff33749f57289c5d",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lage entspannt sich - Keine Perspektive: Tausende Migranten verlassen Ceuta",
+      "excerpt": "Nach dem Massenansturm kehren in Ceuta Ruhe ein und fast alle Migranten zurück.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/drama-in-ceuta-zehntausende-migranten-nach-massenansturm-auf-spanien-zurueck-in-marokko-6a6cf5e75ee3caa4780707a5",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von Nikolaus Harbusch - Kein neues 2015!",
+      "excerpt": "EU-Politiker fordern harten Grenzschutz, um einen neuen Flüchtlingsansturm zu stoppen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-kein-neues-2015-6a6cad005aee44c118a9538c",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Reporter trifft Migranten aus Marokko - „So gelang uns die Flucht nach Spanien“",
+      "excerpt": "Reporter trifft in Marokko Flüchtlinge und hört ihre Geschichten von der Flucht.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/marokko-fluechtlinge-berichten-so-gelang-uns-die-flucht-nach-spanien-6a6cb7ffff33749f5728a525",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Tausende Migranten stürmen Ceuta - „Ich wollte schon als Kind nach Spanien“",
+      "excerpt": "Tausende Migranten versuchen über das Meer Ceuta zu erreichen, es herrscht Notstand.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/tausende-migranten-stuermen-ceuta-ich-wollte-schon-als-kind-nach-spanien-6a6c462edd06dd5ef2e402f7",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Schuld ist Dieter Hallervorden - Parteispitze geht auf eigenen CDU-Kandidaten los",
+      "excerpt": "Die Bundes-CDU geht nach einem Hallervorden-Auftritt auf Distanz zur Wahlkampf-Strategie.",
+      "url": "https://www.bild.de/politik/inland/schuld-ist-ausgerechnet-dieter-hallervorden-generalsekretaerin-der-cdu-geht-auf-eigenen-spitzenkandidaten-los-6a6cafc3ef632fe6ede67023",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Israels Außenminister - „Wenn wir handeln müssen, werden wir handeln“",
+      "excerpt": "Israels Außenminister droht Iran mit harten Antworten und will Atomwaffen verhindern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/aussenminister-von-israel-zum-iran-wenn-wir-handeln-muessen-werden-wir-handeln-6a6c8d01ef632fe6ede66d6e",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Machtkampf geht weiter - Weidel will fünf AfD-Politiker bestrafen",
+      "excerpt": "AfD-Spitze leitet im Machtkampf Ordnungsverfahren gegen fünf NRW-Politiker ein.",
+      "url": "https://www.bild.de/politik/inland/machtkampf-in-der-afd-weidel-will-fuenf-politiker-bestrafen-sogar-ihren-vertrauten-tritschler-6a6cbafcff33749f5728a555",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trotz Tank-Wut! - Schwarz-Rot bricht Spritpreis-Versprechen",
+      "excerpt": "Trotz teurem Benzin lässt die Regierung ihr Versprechen gegen hohe Preise platzen.",
+      "url": "https://www.bild.de/politik/inland/trotz-tankwut-koalition-bricht-versprechen-zum-spritpreis-6a6c696a5aee44c118a94be0",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Die Welt in Sorge - 17 Länder betroffen! Iran-Krieg breitet sich aus",
+      "excerpt": "Der Iran-Krieg weitet sich mit immer mehr beteiligten Staaten zum Flächenbrand aus.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/krieg-in-iran-weitet-sich-aus-schon-17-laender-sind-betroffen-6a6a2a8595262dd162784f14",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Horror-Crash auf den B27 - Drogen-Verdacht gegen CDU-Politiker Thomas Bareiß",
+      "excerpt": "Nach dem Unfall auf der B27 wird gegen Thomas Bareiß wegen Drogenkonsums ermittelt.",
+      "url": "https://www.bild.de/politik/inland/nach-schwerem-unfall-auf-den-b27-verdacht-auf-drogenkonsum-bei-thomas-bareiss-cdu-6a6c9befdd06dd5ef2e40b15",
+      "publishedAt": "2026-08-01T04:39:54.883Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Ukraine - Bürgermeister Klitschko: Tote und Verletzte bei Raketenangriffen auf Kiew",
-      "excerpt": "Die ukrainische Hauptstadt Kiew ist in der zweiten Nacht in Folge Ziel massiver russischer Luftangriffe geworden.",
-      "url": "https://www.deutschlandfunk.de/buergermeister-klitschko-tote-und-verletzte-bei-raketenangriffen-auf-kiew-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "title": "Fußball - FIFA gibt Pläne zur Beteiligung von Investoren an der Weltmeisterschaft auf",
+      "excerpt": "Der Fußball-Weltverband FIFA hat seine umstrittenen Pläne zum Verkauf von WM-Anteilen an Investoren aufgegeben. FIFA-Präsident Infantino erklärte, der Vorschlag werde nicht weiter verfolgt.",
+      "url": "https://www.deutschlandfunk.de/fifa-gibt-plaene-zur-beteiligung-von-investoren-an-der-weltmeisterschaft-auf-100.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Bürgermeister Klitschko: Tote und Verletzte bei russischen Raketenangriffen auf Kiew",
+      "excerpt": "Bei russischen Luftangriffen auf die ukrainische Hauptstadt Kiew sind in der Nacht mindestens neun Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/buergermeister-klitschko-tote-und-verletzte-bei-russischen-raketenangriffen-auf-kiew-104.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,15 +166,23 @@
       "title": "Interview der Woche - Russische Oppositionelle Galjamina: \"USA und Europa könnten Putin zu Kriegsende bewegen\"",
       "excerpt": "Die russische Oppositionelle Julia Galjamina erwartet nicht, dass ihre Landsleute genügend Einfluss auf Staatschef Putin nehmen können, um ein Ende des Angriffskrieges gegen die Ukraine zu erreichen. Zwar wünschten sich ",
       "url": "https://www.deutschlandfunk.de/russische-oppositionelle-galjamina-usa-und-europa-koennten-putin-zu-kriegsende-bewegen-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Fußball - FIFA gibt Pläne zur Beteiligung von Investoren an der Weltmeisterschaft auf",
-      "excerpt": "Der Fußball-Weltverband FIFA hat seine umstrittenen Pläne zum Verkauf von WM-Anteilen an Investoren aufgegeben.",
-      "url": "https://www.deutschlandfunk.de/fifa-gibt-plaene-zur-beteiligung-von-investoren-an-der-weltmeisterschaft-auf-100.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "title": "Iran-Krieg - Tanker in Straße von Hormus angegriffen - Trump droht mit neuen Angriffen",
+      "excerpt": "In der für den internationalen Ölhandel wichtigen Straße von Hormus ist vor der Küste des Omans erneut ein Tanker angegriffen worden.",
+      "url": "https://www.deutschlandfunk.de/tanker-in-strasse-von-hormus-angegriffen-trump-droht-mit-neuen-angriffen-100.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Streit in der AfD - AfD-Bundesvorstand geht gegen weitere führende Parteimitglieder in Nordrhein-Westfalen vor",
+      "excerpt": "Der AfD-Bundesvorstand geht gegen weitere führende Mitglieder des eigenen Landesverbandes in Nordrhein-Westfalen vor.",
+      "url": "https://www.deutschlandfunk.de/afd-bundesvorstand-geht-gegen-weitere-fuehrende-parteimitglieder-in-nordrhein-westfalen-vor-100.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +190,15 @@
       "title": "Deutsche Bahn - Vorstandschefin Palla beklagt \"organisierte Verantwortungslosigkeit\" im Konzern",
       "excerpt": "Die Vorstandsvorsitzende der Deutschen Bahn, Palla, hat die Führungskräfte des bundeseigenen Konzerns kritisiert.",
       "url": "https://www.deutschlandfunk.de/vorstandschefin-palla-beklagt-organisierte-verantwortungslosigkeit-im-konzern-100.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "SPD-Fraktionschef - Miersch: Wollen die im Koalitionsvertrag vereinbarte Facharztgarantie umsetzen",
+      "excerpt": "Der Fraktionsvorsitzende der SPD im Bundestag, Miersch, hat das Nebeneinander von gesetzlicher und privater Krankenversicherung als eine zentrale Reformfrage bezeichnet.",
+      "url": "https://www.deutschlandfunk.de/miersch-wollen-die-im-koalitionsvertrag-vereinbarte-facharztgarantie-umsetzen-100.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,15 +206,7 @@
       "title": "Unwetter - Baum erschlägt einen Mann in Sachsen - Feuerwehr vielerorts im Einsatz",
       "excerpt": "In verschiedenen Regionen Deutschlands hat es gestern Abend schwere Unwetter mit starken Gewittern gegeben.",
       "url": "https://www.deutschlandfunk.de/baum-erschlaegt-einen-mann-in-sachsen-feuerwehr-vielerorts-im-einsatz-100.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Eine Woche nach Berlin-Anschlag - CSD-Demos und Veranstaltungen in Hamburg und weiteren Städten",
-      "excerpt": "Eine Woche nach dem Anschlag in Berlin finden heute in mehreren Städten weitere Veranstaltungen zum Christopher Street Day statt.",
-      "url": "https://www.deutschlandfunk.de/csd-demos-und-veranstaltungen-in-hamburg-und-weiteren-staedten-100.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +214,7 @@
       "title": "Migrations-Krise - Wegen Ceuta: Frankreich verstärkt Grenzkontrollen, Italien setzt Schengen aus, Spanien mahnt",
       "excerpt": "Frankreich verschärft nach der Ankunft zehntausender Migranten in der spanischen Exklave Ceuta in Nordafrika seine Kontrollen an der Grenze zu Spanien. Innenminister Nuñez teilte mit, es würden zusätzliche Soldaten, Poli",
       "url": "https://www.deutschlandfunk.de/wegen-ceuta-frankreich-verstaerkt-grenzkontrollen-italien-setzt-schengen-aus-spanien-mahnt-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +222,7 @@
       "title": "Kabinettsumbildung - Güntzler (CDU) bedauert Probleme durch kurzfristige Absage an Merz",
       "excerpt": "Der CDU-Abgeordnete Güntzler hat sein Bedauern über die Umstände seiner kurzfristigen Absage an Bundeskanzler Merz zur Übernahme des Verkehrsminister-Postens geäußert.",
       "url": "https://www.deutschlandfunk.de/guentzler-cdu-bedauert-probleme-durch-kurzfristige-absage-an-merz-106.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +230,15 @@
       "title": "Rentenreform - Auch Sozialverband VdK fordert Änderungen von der Koalition",
       "excerpt": "Nach der Kritik mehrerer ostdeutscher CDU-Ministerpräsidenten an den Rentenplänen der Koalition fordert auch der Sozialverband VdK Änderungen an dem Vorhaben.",
       "url": "https://www.deutschlandfunk.de/auch-sozialverband-vdk-fordert-aenderungen-von-der-koalition-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Eine Woche nach Berlin-Anschlag - CSD-Demos und Veranstaltungen in Hamburg und weiteren Städten",
+      "excerpt": "Eine Woche nach dem Anschlag in Berlin finden heute in mehreren Städten Veranstaltungen zum Christopher Street Day statt.",
+      "url": "https://www.deutschlandfunk.de/csd-demos-und-veranstaltungen-in-hamburg-und-weiteren-staedten-102.html",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +246,7 @@
       "title": "Südeuropa - Neue Flächenbrände in Griechenland - Fortschritte bei der Bekämpfung in Frankreich und Spanien",
       "excerpt": "In Griechenland kämpfen Einsatzkräfte weiter gegen mehrere große Waldbrände.",
       "url": "https://www.deutschlandfunk.de/neue-flaechenbraende-in-griechenland-fortschritte-bei-der-bekaempfung-in-frankreich-und-spanien-110.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +254,7 @@
       "title": "Italien - Erdbeben der Stärke 4,7 bei Neapel",
       "excerpt": "Das Gebiet rund um die süditalienische Großstadt Neapel ist von einem Erdbeben erschüttert worden.",
       "url": "https://www.deutschlandfunk.de/erdbeben-der-staerke-4-7-bei-neapel-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +262,7 @@
       "title": "Niedriger Donau-Pegelstand - Ungarn will einziges Atomkraftwerk abschalten",
       "excerpt": "Wegen niedriger Pegelstände der Donau schaltet Ungarn in der kommenden Woche sein einziges Atomkraftwerk ab.",
       "url": "https://www.deutschlandfunk.de/ungarn-will-einziges-atomkraftwerk-abschalten-108.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +270,7 @@
       "title": "Ukraine-Krieg - US-Präsident Trump zurückhaltend zu möglicher Patriot-Lizenz",
       "excerpt": "US-Präsident Trump hat sich zurückhaltend zu einer möglichen Lizenz für die Herstellung von Patriot-Abfangraketen in der Ukraine geäußert.",
       "url": "https://www.deutschlandfunk.de/us-praesident-trump-zurueckhaltend-zu-moeglicher-patriot-lizenz-110.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +278,7 @@
       "title": "Nach Berliner CSD-Attentat - Senatorin Günther-Wünsch: Eltern gewaltbereiter Kinder möglicherweise das Sorgerecht entziehen",
       "excerpt": "Die Berliner Senatorin für Bildung und Familie, Günther-Wünsch, plädiert für eine Gesetzesänderung mit dem Ziel, Eltern gewaltbereiter Kinder unter bestimmten Umständen das Sorgerecht zu entziehen.",
       "url": "https://www.deutschlandfunk.de/senatorin-guenther-wuensch-eltern-gewaltbereiter-kinder-moeglicherweise-das-sorgerecht-entziehen-106.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,31 +286,7 @@
       "title": "Gazastreifen - US-Präsident Trump verkündet Einigung zur Entwaffnung der Hamas; Hamas widerspricht den Angaben",
       "excerpt": "Nach der Ankündigung von US-Präsident Trump, wonach die Hamas im Gazastreifen ihrer Entwaffnung zugestimmt haben soll, bleiben Fragen offen.",
       "url": "https://www.deutschlandfunk.de/us-praesident-trump-verkuendet-einigung-zur-entwaffnung-der-hamas-hamas-widerspricht-den-angaben-114.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Acht neue Reaktorblöcke genehmigt - China will Atomkraft ausbauen",
-      "excerpt": "China will die Nutzung der Atomkraft im Land intensivieren.",
-      "url": "https://www.deutschlandfunk.de/china-will-atomkraft-ausbauen-104.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutsche Bahn - 3700 Tonnen schwere Eisenbahnbrücke in Hamburg eingesetzt",
-      "excerpt": "In Hamburg hat eine neue, mehr als 100 Meter lange Eisenbahnbrücke ihr Ziel erreicht.",
-      "url": "https://www.deutschlandfunk.de/3700-tonnen-schwere-eisenbahnbruecke-in-hamburg-eingesetzt-102.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sport - Investorenplan der FIFA für WM vor dem Aus",
-      "excerpt": "Die Pläne der FIFA, die Fußball-Weltmeisterschaft für Investoren zu öffnen, dürften gescheitert sein. In den Widerstand dagegen reihte sich nun auch der für Asien zuständige Kontinentalverband AFC ein.",
-      "url": "https://www.deutschlandfunk.de/investorenplan-der-fifa-fuer-wm-vor-dem-aus-116.html",
-      "publishedAt": "2026-08-01T01:08:42.000Z",
+      "publishedAt": "2026-08-01T04:28:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -795,17 +795,17 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Katherina Reiche: Wirtschaftsministerin auf Bewährung",
-      "excerpt": "Katherina Reiches Tage als Wirtschaftsministerin schienen gezählt – das glaubten zuletzt viele in Berlin. Doch der Kanzler schwächt sie nur, belässt sie aber im Amt. Warum?",
-      "url": "https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerin-auf-bewaehrung-a-c9761e5a-8d45-49d2-b570-531ede2dd89b#ref=rss",
+      "title": "Bundestagswahl: Linke und AfD gegen Fünfprozenthürde",
+      "excerpt": "Sollen künftig auch Parteien mit weniger als fünf Prozent der Zweitstimmen im Bundestag sitzen? Ex-Verfassungsrichter Papier hatte eine Dreiprozenthürde vorgeschlagen, die Linke findet das gut. Die AfD will die Schwelle ",
+      "url": "https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-und-afd-gegen-fuenfprozenthuerde-a-6c3a6bbf-accc-46fc-8fe3-e23abf0ea392#ref=rss",
       "publishedAt": "2026-07-30T13:39:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Bundestagswahl: Linke und AfD gegen Fünfprozenthürde",
-      "excerpt": "Sollen künftig auch Parteien mit weniger als fünf Prozent der Zweitstimmen im Bundestag sitzen? Ex-Verfassungsrichter Papier hatte eine Dreiprozenthürde vorgeschlagen, die Linke findet das gut. Die AfD will die Schwelle ",
-      "url": "https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-und-afd-gegen-fuenfprozenthuerde-a-6c3a6bbf-accc-46fc-8fe3-e23abf0ea392#ref=rss",
+      "title": "Katherina Reiche: Wirtschaftsministerin auf Bewährung",
+      "excerpt": "Katherina Reiches Tage als Wirtschaftsministerin schienen gezählt – das glaubten zuletzt viele in Berlin. Doch der Kanzler schwächt sie nur, belässt sie aber im Amt. Warum?",
+      "url": "https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerin-auf-bewaehrung-a-c9761e5a-8d45-49d2-b570-531ede2dd89b#ref=rss",
       "publishedAt": "2026-07-30T13:39:00.000Z",
       "category": "POLITIK"
     },
