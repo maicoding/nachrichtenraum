@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-08-03T13:48:16.575Z",
+  "updatedAt": "2026-08-03T16:41:06.034Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Sachsen-Anhalt - Rätsel um Studium von AfD-Kandidat Ulrich Siegmund",
-      "excerpt": "AfD-Spitzenmann Siegmund nennt trotz Nachfragen seine Hochschule bis heute nicht.",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-raestel-um-studium-von-spitzenkandidat-der-afd-ulrich-siegmund-6a705deadd06dd5ef2e42f05",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "title": "6 Tote, darunter 3 Kinder - Drohnenabschuss über Badegästen",
+      "excerpt": "Schock am Schwarzen Meer: Beim Abschuss einer ukrainischen Drohne durch die russische...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/6-tote-darunter-3-kinder-drohnenabschuss-ueber-badegaesten-6a708836935ebc37ca9d41d8",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Unterstützung aus Bayern - SPD will Ilse Aigner als Bundespräsidentin",
-      "excerpt": "SPD-Granden werben für Ilse Aigner als erste Frau im höchsten Staatsamt.",
-      "url": "https://www.bild.de/politik/inland/ilse-aigner-spd-will-politikerin-von-der-csu-als-bundespraesidentin-6a703912ef632fe6ede691d0",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "title": "Als „Alice Merkel“ verhöhnt - Wirft Weidel jetzt ihren Kritiker aus der AfD?",
+      "excerpt": "Bundestagsabgeordneter Rüdiger Lucassen fordert Führungsstärke von AfD-Chefin",
+      "url": "https://www.bild.de/politik/inland/er-hat-alice-weidel-als-alice-merkel-verhoehnt-wirft-die-afd-ihren-kritiker-raus-6a709d75cc46967c04cad9b6",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Politik-Vodcast - Vertraulich! -„Nur eine Frage der Zeit, bis der nächste Ansturm kommt“",
+      "excerpt": "Migration in Ceuta, Rente mit 63 und Dürre: Das sind die Themen des Tages.",
+      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-nur-eine-frage-der-zeit-bis-der-naechste-ansturm-kommt-6a70a87dcc46967c04cadab0",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Renommierte Mullah-Gegnerin - „Allahu Akbar“ klingt für mich nach Hinrichtung",
+      "excerpt": "Iranische Aktivistin fordert nach CSD-Anschlag härteren Kurs gegen Islamismus.",
+      "url": "https://www.bild.de/politik/inland/mullah-gegnerin-warnt-allahu-akbar-klingt-fuer-mich-nach-hinrichtung-6a689681a17ee9f1dfd8196e",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trotz Verbot und Klagen - Influencer pilgern zu Epsteins „verfluchter“ Insel",
+      "excerpt": "YouTuber dringen für Klicks auf Epsteins frühere Insel ein und riskieren Anzeigen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/jeffrey-epstein-influencer-pilgern-trotz-verbot-und-klagen-zu-insel-little-st-james-6a702ad9cf0a7790ecb7dbfd",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +46,87 @@
       "title": "Ölpreis kracht runter - ADAC: Spritpreise sinken zu langsam",
       "excerpt": "Trotz fallender Ölpreise bleiben Benzin und Diesel in Deutschland deutlich zu teuer.",
       "url": "https://www.bild.de/politik/oelpreis-faellt-stark-adac-kritisiert-zu-langsame-sprit-senkungen-6a7053d2cf0a7790ecb7de7d",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ost-MPs wollen ans Rentenpaket - „Das ist billiger Sozial-Populismus“",
+      "excerpt": "Vier Ost-Ministerpräsidenten kämpfen trotz Rentenpaket für die Rente mit 63.",
+      "url": "https://www.bild.de/politik/ost-mps-wollen-ans-rentenpaket-das-ist-billiger-sozial-populismus-6a70a7a9cc46967c04cadaa5",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Julia Ruhs – Meine Meinung - Wir brauchen JETZT eine Festung Europa!",
+      "excerpt": "Europa soll mit strengen Außengrenzen Migration begrenzen und Sicherheit schützen.",
+      "url": "https://www.bild.de/politik/inland/julia-ruhs-meine-meinung-wir-brauchen-jetzt-eine-festung-europa-6a705bd2ef632fe6ede694a7",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump offenbar ratlos - Militär bettelt um „kreative“ Ideen für Iran-Krieg",
+      "excerpt": "Trumps Militär sucht neue Wege, um den Iran trotz begrenzter Optionen zu treffen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-offenbar-ratlos-us-militaer-bettelt-um-kreative-ideen-fuer-krieg-im-iran-6a709853935ebc37ca9d44a0",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Herr Klingbeil, Commerzbank-Aktien verkaufen!",
+      "excerpt": "Der Bund soll seine Commerzbank-Anteile verkaufen und Jobs sowie Standorte sichern.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-herr-klingbeil-verkaufen-sie-die-commerzbank-aktien-6a70acdd679e1a4a72fd02fd",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Horror-Crash - CDU-Abgeordneter Bareiß verliert Führerschein",
+      "excerpt": "Nach einem Unfall unter Drogenverdacht verliert CDU-Mann Bareiß den Führerschein.",
+      "url": "https://www.bild.de/politik/inland/cdu-abgeordneter-thomas-bareiss-verliert-nach-horror-unfall-seinen-fuehrerschein-6a70a0f2cc46967c04cad9fe",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zoff eskaliert - Wer am meisten davon hat, wenn die Rente mit 63 bleibt",
+      "excerpt": "Der neue Streit um die Rente mit 63 hat einen finanziellen Grund.",
+      "url": "https://www.bild.de/politik/inland/zoff-eskaliert-wer-am-meisten-davon-hat-wenn-die-rente-mit-63-bleibt-6a6f286eef632fe6ede688c8",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "6 Tote, darunter 3 Kinder! - Russen-Flugabwehr schießt Drohne über Urlaubern ab",
+      "excerpt": "Abgeschossene Drohne tötet sechs Menschen an russischem Strand, viele werden verletzt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-flugabwehr-schiesst-drohne-ueber-badegaesten-ab-6-tote-6a7084ea935ebc37ca9d4180",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Panne bei Ryanair - Jetzt werden Flugzeugfenster knapp!",
+      "excerpt": "Ein Chemieunfall beim Zulieferer bremst Fensterproduktion, Flüge laufen weiter.",
+      "url": "https://www.bild.de/politik/boieng-und-airbus-kabinenfenster-fuer-flugzeuge-sind-ploetzlich-mangelware-6a707d7aabec2d71c8bee241",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sachsen-Anhalt - Rätsel um Studium von AfD-Kandidat Ulrich Siegmund",
+      "excerpt": "AfD-Mann Siegmund nennt seinen Studienort erst nach öffentlicher Nachfrage.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-raestel-um-studium-von-spitzenkandidat-der-afd-ulrich-siegmund-6a705deadd06dd5ef2e42f05",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Heftiger Widerstand von AfD-Chefin Weidel - SPD will Ilse Aigner als Bundespräsidentin",
+      "excerpt": "SPD-Granden werben für Ilse Aigner als erste Frau im höchsten Staatsamt.",
+      "url": "https://www.bild.de/politik/inland/ilse-aigner-spd-will-politikerin-von-der-csu-als-bundespraesidentin-6a703912ef632fe6ede691d0",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
       "category": "POLITIK"
     },
     {
@@ -30,23 +134,7 @@
       "title": "Von Normalität keine Spur - Noch immer Tausende illegale Migranten in Ceuta",
       "excerpt": "Spaniens Regierung meldet Rückkehr, doch in Ceuta harren noch Tausende Migranten aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/noch-immer-tausende-illegale-migranten-in-ceuta-keine-normalitaet-6a702149dd06dd5ef2e42abc",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "6 Tote – darunter 3 Kinder! - Russen-Flugabwehr schießt Drohne über Urlaubern ab",
-      "excerpt": "Abgeschossene Drohne tötet sechs Menschen an russischem Strand, viele werden verletzt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-flugabwehr-schiesst-drohne-ueber-badegaesten-ab-6-tote-6a7084ea935ebc37ca9d4180",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "6 Tote, darunter 3 Kinder - Drohnenabschuss über Badegästen",
-      "excerpt": "Schock am Schwarzen Meer: Beim Abschuss einer ukrainischen Drohne durch die russische...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/6-tote-darunter-3-kinder-drohnenabschuss-ueber-badegaesten-6a708836935ebc37ca9d41d8",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
       "category": "POLITIK"
     },
     {
@@ -54,95 +142,311 @@
       "title": "Niedrigwasser im Rhein - „Das kann das Wirtschaftswachstum ersticken“",
       "excerpt": "Niedrige Pegel legen die Schifffahrt lahm und gefährden das Wirtschaftswachstum.",
       "url": "https://www.bild.de/politik/niedrigwasser-im-rhein-das-kann-das-wirtschaftswachstum-ersticken-6a706ae0679e1a4a72fcfd1f",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "publishedAt": "2026-08-03T16:41:05.631Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Flüchtlinge in Ceuta - „Nur eine Frage der Zeit, bis der nächste Ansturm kommt“",
-      "excerpt": "In Ceuta sind Migranten mit Schwimmringen am Grenzzaun vorbeigeschwommen.",
-      "url": "https://www.bild.de/politik/fluechtlinge-in-ceuta-nur-eine-frage-der-zeit-bis-der-naechste-ansturm-kommt-6a704f058fa429a9893fe9ea",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "DLF",
+      "title": "Niedrigwasser - Neuer Bundesverkehrsminister Bilger lädt zu Fachkonferenz",
+      "excerpt": "Angesichts der niedrigen Pegelstände an wichtigen Flüssen wie dem Rhein hat Bundesverkehrsminister Bilger eine Fachkonferenz angekündigt. Das Treffen sei für Donnerstag in Bonn angesetzt, teilte ein Sprecher des Minister",
+      "url": "https://www.deutschlandfunk.de/neuer-bundesverkehrsminister-bilger-laedt-zu-fachkonferenz-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Reformdebatte - 7 von 16 Länderchefs wollen an abschlagsfreier Rente nach 45 Beitragsjahren festhalten",
+      "excerpt": "Auch die saarländische Ministerpräsidentin Rehlinger und Bremens Bürgermeister Bovenschulte (beide SPD) sprechen sich gegen die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren aus. Damit wenden sich nun bere",
+      "url": "https://www.deutschlandfunk.de/7-von-16-laenderchefs-wollen-an-abschlagsfreier-rente-nach-45-beitragsjahren-festhalten-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ceuta-Krise - Von der Leyen dankt Spanien für Umgang mit massenhafter Migranten-Ankunft und fordert besseren Schutz der Außengrenzen",
+      "excerpt": "EU-Kommissionspräsidentin von der Leyen hat dem spanischen Ministerpräsidenten Sanchez für den Umgang mit der Ankunft zehntausender Migranten in der Exklave Ceuta in Marokko gedankt. In dem Brief, von dem die Nachrichten",
+      "url": "https://www.deutschlandfunk.de/von-der-leyen-dankt-spanien-fuer-umgang-mit-massenhafter-migranten-ankunft-und-fordert-besseren-schu-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "WM-Investorenpläne - Erste Verbände entziehen FIFA-Chef Infantino Unterstützung für Wiederwahl",
+      "excerpt": "Im Streit um einen geplanten Teilverkauf der WM-Rechte haben erste nationale Fußballverbände dem Präsidenten des Weltverbands FIFA, Infantino, die Unterstützung für seine Wiederwahl entzogen. Entsprechende Erklärungen ga",
+      "url": "https://www.deutschlandfunk.de/erste-verbaende-entziehen-fifa-chef-infantino-unterstuetzung-fuer-wiederwahl-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Offener Brief - Mehr als 1.000 Juristen fordern AfD-Verbotsverfahren",
+      "excerpt": "Mehr als eintausend Juristinnen und Juristen in Deutschland unterstützen die Einleitung eines AfD-Verbotsverfahrens beim Bundesverfassungsgericht. Sie haben einen offenen Brief an die Bundesregierung und die Abgeordneten",
+      "url": "https://www.deutschlandfunk.de/mehr-als-1-000-juristen-fordern-afd-verbotsverfahren-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verbraucherzentrale - Bahn-Sprecher weist Kritik an Preisgestaltung zurück",
+      "excerpt": "Die Deutsche Bahn hat Kritik von Verbraucherschützern an ihrer Preisgestaltung für Zugtickets zurückgewiesen.",
+      "url": "https://www.deutschlandfunk.de/bahn-sprecher-weist-kritik-an-preisgestaltung-zurueck-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Anschlag auf CSD - Gefährder in Berlin werden strenger überwacht - teilweise mit Fußfesseln",
+      "excerpt": "Nach dem Anschlag am Rande des Christopher Street Day in Berlin werden dort islamistische Gefährder strenger überwacht.",
+      "url": "https://www.deutschlandfunk.de/gefaehrder-in-berlin-werden-strenger-ueberwacht-teilweise-mit-fussfesseln-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "München - 34-Jähriger stirbt nach Festnahme - LKA ermittelt",
+      "excerpt": "Nach dem Tod eines Mannes nach dessen Festnahme hat das Bayerische Landeskriminalamt Ermittlungen aufgenommen.",
+      "url": "https://www.deutschlandfunk.de/34-jaehriger-stirbt-nach-festnahme-lka-ermittelt-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Industriepark Schwarze Pumpe - Altech wird geplantes Batteriewerk in der Lausitz nicht bauen",
+      "excerpt": "Der Technologiehersteller Altech hat die Planungen für ein Batteriewerk in der Lausitz eingestellt.",
+      "url": "https://www.deutschlandfunk.de/altech-wird-geplantes-batteriewerk-in-der-lausitz-nicht-bauen-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tiergesundheit - Unbekanntes Virus bei Rindern in Südbaden nachgewiesen",
+      "excerpt": "Bei Rindern in Südbaden ist ein bisher unbekanntes Virus nachgewiesen worden.",
+      "url": "https://www.deutschlandfunk.de/unbekanntes-virus-bei-rindern-in-suedbaden-nachgewiesen-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Behörden melden zahlreiche Tote bei gegenseitigen Angriffen",
+      "excerpt": "Bei ukrainischen Angriffen auf russisches Gebiet und die von Russland annektierte Halbinsel Krim sind nach Behördenangaben mindestens zehn Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/behoerden-melden-zahlreiche-tote-bei-gegenseitigen-angriffen-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland - Kreml-Kritiker Nadeschdin setzt sich ins Ausland ab",
+      "excerpt": "Der russische Oppositionspolitiker Boris Nadeschdin hat sich nach einer vorübergehenden Festnahme ins Ausland abgesetzt.",
+      "url": "https://www.deutschlandfunk.de/kreml-kritiker-nadeschdin-setzt-sich-ins-ausland-ab-102.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Potsdam - Früherer Regierungssprecher Heye mit 85 Jahren gestorben",
+      "excerpt": "Der frühere Regierungssprecher Uwe-Karsten Heye ist im Alter von 85 Jahren gestorben.",
+      "url": "https://www.deutschlandfunk.de/frueherer-regierungssprecher-heye-mit-85-jahren-gestorben-102.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Japan und USA stützen gemeinsam japanische Währung Yen",
+      "excerpt": "Japan und die USA haben gemeinsam Maßnahmen ergriffen, um die japanische Währung Yen zu stützen.",
+      "url": "https://www.deutschlandfunk.de/japan-und-usa-stuetzen-gemeinsam-japanische-waehrung-yen-104.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Augenzeugen - Bewaffnete entführen im Nordwesten Nigerias mehr als 50 Menschen",
+      "excerpt": "Im Nordwesten Nigerias haben bewaffnete Angreifer mehr als 50 Menschen entführt.",
+      "url": "https://www.deutschlandfunk.de/bewaffnete-entfuehren-im-nordwesten-nigerias-mehr-als-50-menschen-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Israel - Gericht stoppt Pläne für Krokodilgräben um Gefängnisse mit Palästinensern",
+      "excerpt": "In Israel hat ein Gericht die Pläne des rechtsextremen Sicherheits-Ministers Ben-Gvir gestoppt, Krokodilgräben um Gefängnisse mit palästinensischen Insassen zu ziehen.",
+      "url": "https://www.deutschlandfunk.de/gericht-stoppt-plaene-fuer-krokodilgraeben-um-gefaengnisse-mit-palaestinensern-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Waldbrände - USA: Hunderte Häuser in der Stadt Spokane zerstört - Griechenland: Feuer westlich von Athen weiter außer Kontrolle",
+      "excerpt": "Im US-Bundesstaat Washington haben Waldbrände zehntausende Menschen zur Flucht gezwungen und hunderte Häuser zerstört.",
+      "url": "https://www.deutschlandfunk.de/usa-hunderte-haeuser-in-der-stadt-spokane-zerstoert-griechenland-feuer-westlich-von-athen-weiter-aus-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kriminalität - Anklage im Zusammenhang mit großer Drogen-Plattform \"Archetyp Market\"",
+      "excerpt": "In Frankfurt am Main ist Anklage gegen den Gründer einer der weltweit größten Handelsplattformen für Drogen im Darknet erhoben worden.",
+      "url": "https://www.deutschlandfunk.de/anklage-im-zusammenhang-mit-grosser-drogen-plattform-archetyp-market-100.html",
+      "publishedAt": "2026-08-03T16:36:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
+      "excerpt": "Angesichts des Ukraine-Kriegs und der Trump-Drohungen in Bezug auf Grönland gilt in Dänemark von heute an ein längerer Wehrdienst. Zu den Männern und Frauen, die ihren Dienst antreten, gehört auch Prinzessin Isabella. Vo",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
+      "publishedAt": "2026-08-03T16:25:40.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nach dem Ansturm auf Ceuta: Die Illusion der Kontrolle",
+      "excerpt": "Nach dem Ansturm auf Ceuta ringt die EU um Konsequenzen. Die Krise wirft neue Fragen zur Zusammenarbeit mit Marokko und anderen nordafrikanischen Staaten auf. mehr...",
+      "url": "https://taz.de/Nach-dem-Ansturm-auf-Ceuta/!6201294/",
+      "publishedAt": "2026-08-03T16:24:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "31.000 Firmen und Stiftungen betroffen - Hacker-Alarm in Liechtenstein! Angriff auf Steuerparadies",
-      "excerpt": "Cyberangriff auf Register in Liechtenstein gefährdet Daten tausender Firmenbesitzer.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/cyberhammer-in-liechtenstein-hacker-erbeuten-daten-aus-geheimregister-6a7028ccef632fe6ede69107",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAZ.DE",
+      "title": "Debatte über Reform: Ostdeutsche Politiker wollen abschlagsfreie Rente behalten",
+      "excerpt": "Die drei CDU-Ministerpräsidenten Mario Voigt, Michael Kretschmer und Sven Schulze wehren sich gegen die Pläne der eigenen Bundesregierung. Warum das? mehr...",
+      "url": "https://taz.de/Drei-ostdeutsche-Politiker-der-CDU-wollen-die-abschlagsfreie-Rente-behalten/!6201311/",
+      "publishedAt": "2026-08-03T16:04:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Ein Kommentar von Tim Röhn - Nichts ist gut in Ceuta",
-      "excerpt": "Ceuta bleibt Krisenherd: Migration, Tote und Versagen Spaniens belasten die EU.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/nichts-ist-gut-in-ceuta-ein-kommentar-von-tim-roehn-6a7065afabec2d71c8bedff1",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
+      "excerpt": "In Griechenland kämpfen die Einsatzkräfte weiter gegen etliche Waldbrände. Einer rückt gefährlich nah an die Stadt Megara, westlich von Athen, heran. Der Bürgermeister spricht von einer chaotischen Lage.",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
+      "publishedAt": "2026-08-03T15:41:10.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Queeres Jugendnetzwerk Lambda: „Mit uns fällt die Vernetzung weg“",
+      "excerpt": "Die Bundesregierung streicht dem queeren Jugendnetzwerk die Förderung. Damit geht der politische Rückhalt verloren, sagt Bundesgeschäftsführerin Kim Alexandra Trau. mehr...",
+      "url": "https://taz.de/Queeres-Jugendnetzwerk-Lambda/!6201431/",
+      "publishedAt": "2026-08-03T15:38:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Erst drohen – jetzt Friedenskurs - Trump: „Größter Angriff seit dem 2. Weltkrieg“",
-      "excerpt": "Trump stoppt geplanten Militärschlag gegen Iran und kündigt neue Gespräche an.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/erst-drohen-dann-friedenskurs-trump-groesste-angriff-seit-dem-zweiten-weltkrieg-6a704dfb8fa429a9893fe9d2",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAZ.DE",
+      "title": "Mi­gran­t*in­nen in Ceuta: Entsetzen über Merz' Solidarität mit Meloni",
+      "excerpt": "Im Migrationschaos von Ceuta sprang die Bundesregierung den rechten Kri­ti­ke­r*in­nen der spanischen Regierung bei. Der Unmut darüber wächst. mehr...",
+      "url": "https://taz.de/Migrantinnen-in-Ceuta/!6201430/",
+      "publishedAt": "2026-08-03T15:30:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach 2 Jahren Übernahmeschlacht - Italiener können die Commerzbank schlucken",
-      "excerpt": "UniCredit übernimmt bei der Commerzbank das Ruder, Tausende Stellen wackeln.",
-      "url": "https://www.bild.de/politik/commerzbank-gibt-offenbar-kampf-gegen-unicredit-auf-6a703d088fa429a9893fe876",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAZ.DE",
+      "title": "Bodyshaming bei Popstars: In der Petrischale",
+      "excerpt": "Körper zu kommentieren, gilt im Alltag als unhöflich. Bei Stars scheinen wir aber eine Ausnahme zu machen. Popstar Ariana Grande wurde es nun zu viel. mehr...",
+      "url": "https://taz.de/Unangemessene-Kommentare-zu-Koerpern-Sonderfall-Popstars/!6201336/",
+      "publishedAt": "2026-08-03T15:28:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Neun Tote nach Raketen-Terror gegen Kiew",
-      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Donald Trump und der Irankrieg, Ceuta, Infantino und die Uefa",
+      "excerpt": "Die USA beklagen Hackerangriffe auf ihre Wasserversorgung und verdächtigen Iran. In Ceuta schlachten rechte Politiker und Influencer die Migrationslage aus. Und: Die Opposition gegen Fifa-Chef Gianni Infantino wächst.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-und-der-irankrieg-ceuta-infantino-und-die-uefa-a-fab2b55b-4966-4612-8f08-e05fa7870ef5#ref=rss",
+      "publishedAt": "2026-08-03T15:28:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Exklusive Zahlen - Die iPhone-Sauerei im Bundestag",
-      "excerpt": "So viele Handys und Tablets wurden geordert in einem Jahr.",
-      "url": "https://www.bild.de/politik/inland/bundestag-1-670-geraete-fuer-fast-1-5-millionen-euro-6a68b73ec435b807339bd7d6",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "SPIEGEL.DE",
+      "title": "Thomas Bareiß: Polizei stellt nach Unfall Führerschein sicher",
+      "excerpt": "Hat Thomas Bareiß unter dem Einfluss eines Betäubungsmittels einen Autounfall verursacht? Infolge dieses Verdachts bekam der CDU-Bundestagsabgeordnete jetzt Besuch von der Polizei. Autofahren darf er vorerst nicht mehr.",
+      "url": "https://www.spiegel.de/politik/deutschland/thomas-bareiss-polizei-stellt-nach-unfall-fuehrerschein-sicher-a-a738e27b-e0f1-4b52-9737-7293936c446e#ref=rss",
+      "publishedAt": "2026-08-03T15:25:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nur noch Chaos ++ Sind die Reformen dahin? - Jetzt zoffen sie sich schon wieder um unsere Rente",
-      "excerpt": "SPD und Union streiten über Rente mit 63, höhere Steuern und Minijobs.",
-      "url": "https://www.bild.de/politik/inland/rente-mit-63-jetzt-zoffen-sich-spd-und-cdu-schon-wieder-um-die-reform-6a6f1cccdd06dd5ef2e422e8",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "SPIEGEL.DE",
+      "title": "Ceuta: Wie die Bilder von Migranten in der spanischen Exklave der AfD helfen",
+      "excerpt": "Auch wenn sich die Lage in Ceuta beruhigt hat: Für die AfD ist die Eskalation in der spanischen Exklave ein Wahlkampfgeschenk. Dabei macht sie sich auch die Arbeit rechtsextremer Aktivisten zunutze.",
+      "url": "https://www.spiegel.de/politik/deutschland/ceuta-wie-die-bilder-von-migranten-in-der-spanischen-exklave-der-afd-helfen-a-b1f6ce65-4117-4375-83ec-ee305e00776d#ref=rss",
+      "publishedAt": "2026-08-03T15:19:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Mail von Martenstein - Liebe Veronika Grimm, das ist der Hammer!",
-      "excerpt": "Martenstein über den Etat 2029, der ganz für Soziales, Bundeswehr, Zins ausgegeben wird.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-liebe-veronika-grimm-das-ist-der-hammer-6a6f4f4347212184724ad1cf",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAZ.DE",
+      "title": "Stressbedingte Ausfälle: Ungesunde Arbeitswelt",
+      "excerpt": "Berufstätige waren 2025 so häufig wie nie stressbedingt krank. Kein Wunder, denn die viele Arbeit ist für niemanden dauerhaft machbar. mehr...",
+      "url": "https://taz.de/Zu-viel-Stress-Unsere-Arbeitswelt-ist-ungesund/!6201341/",
+      "publishedAt": "2026-08-03T15:18:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach Feuerpause - Trump kündigt neue Gespräche mit Iran an",
-      "excerpt": "US-Präsident Donald Trump (80) hat neue Gespräche mit dem Iran für Montag angekündigt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-feuerpause-trump-kuendigt-neue-gespraeche-mit-iran-an-6a6fc043dd06dd5ef2e428de",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "SPIEGEL.DE",
+      "title": "AfD-Kandidaturen in Niedersachsen: Die Wahlausschüsse agieren undemokratisch (Kommentar)",
+      "excerpt": "AfD-Politiker von Ämtern fernzuhalten, kann richtig sein. Wenn aber Wahlausschüsse intransparent über ihren Ausschluss entscheiden, leidet das Vertrauen in den Staat.",
+      "url": "https://www.spiegel.de/politik/deutschland/afd-kandidaturen-in-niedersachsen-die-wahlausschuesse-agieren-undemokratisch-kommentar-a-9c17a5b3-5fba-4c1e-9b7f-497d4baa328e#ref=rss",
+      "publishedAt": "2026-08-03T15:18:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Raketen werden knapp - USA droht Israel-Dilemma",
-      "excerpt": "US-General warnt: Raketenmangel könnte Israels Schutz im Iran-Krieg schwächen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/raketen-werden-knapp-usa-droht-israel-dilemma-6a6fdb07ef632fe6ede68ee6",
-      "publishedAt": "2026-08-03T13:48:16.570Z",
+      "source": "TAZ.DE",
+      "title": "Hans Ulrich Obrist über mystische Gärten: „Wir wollten eine Situation der Verlangsamung schaffen“",
+      "excerpt": "Der Vatikan würdigt auf der diesjährigen Venedig-Kunstbiennale die Mystikerin Hildegard von Bingen. Warum und wie erzählt Starkurator Hans Ulrich Obrist. mehr...",
+      "url": "https://taz.de/Hans-Ulrich-Obrist-ueber-mystische-Gaerten/!6200668/",
+      "publishedAt": "2026-08-03T15:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Stromkrise durch Niedrigwasser der Donau - Rumänien sprengt Felsen",
+      "excerpt": "Rumänien greift wegen des niedrigen Wasserstands der Donau zu ungewöhnlichen Mitteln: Mit einer Sprengung im Fluss soll mehr Wasser zum AKW Cernavoda geleitet werden. Dort, in Ungarn und in Serbien wird zum Stromsparen a",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-donau-100.html",
+      "publishedAt": "2026-08-03T15:10:41.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Andrang in Ceuta fordert Von der Leyen stärkeren EU-Grenzschutz",
+      "excerpt": "Vorwürfe, Rechtfertigungen, Erklärungsversuche: Die Ausnahmesituation in Ceuta hat eine weitere Migrationsdebatte entfacht. EU-Kommissionspräsidentin von der Leyen bemüht sich, die Wogen zu glätten - sieht aber Handlungs",
+      "url": "https://www.tagesschau.de/ausland/europa/vonderleyen-eu-ceuta-100.html",
+      "publishedAt": "2026-08-03T15:09:23.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Israel: Minister gegen Militärs",
+      "excerpt": "Israels Verteidigungsminister feuert den Chef des israelischen Militärs im Westjordanland – wohl, weil der einen Haftbefehl für einen Siedler verlängern wollte. mehr...",
+      "url": "https://taz.de/Politik-in-Israel/!6201362/",
+      "publishedAt": "2026-08-03T14:51:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Migration nach Ceuta: Zum Grenzübertritt ermuntert",
+      "excerpt": "Mehrere Zehntausend Menschen hatten am Donnerstag die Grenze zur spanischen Exklave Ceuta in Nordafrika überwunden. Was steckt dahinter? mehr...",
+      "url": "https://taz.de/Migration-nach-Ceuta/!6201332/",
+      "publishedAt": "2026-08-03T14:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Aufruf in offenem Brief: Mehr als 1.000 Juristen für AfD-Verbot",
+      "excerpt": "Mehr als 1.000 Juristen fordern ein AfD-Verbot. In einem offenen Brief appellieren sie an die Politik, ein Verbotsverfahren einzuleiten. Es drohe ein \"ernsthafter Schaden\" für die Demokratie.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/juristen-afd-verbot-100.html",
+      "publishedAt": "2026-08-03T14:09:01.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Irischer Sänger Glen Hansard gestorben: Die letzte Session",
+      "excerpt": "Glen Hansard spielte noch in seinem Stammpub, wenige Stunden später verunglückte der Musiker tödlich. Irland trauert um eine prägende Stimme. mehr...",
+      "url": "https://taz.de/Irischer-Saenger-Glen-Hansard-gestorben/!6201342/",
+      "publishedAt": "2026-08-03T14:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sommerfestival in Hamburg: „Apokalypse muss nicht das Ende sein“",
+      "excerpt": "Das Internationale Sommerfestival auf Kampnagel feiert Hoffnung: Sie hilft, die Zukunft aktiv zu gestalten, sagt Festivaleiter András Siebold. mehr...",
+      "url": "https://taz.de/Sommerfestival-in-Hamburg/!6199561/",
+      "publishedAt": "2026-08-03T13:59:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -152,150 +456,6 @@
       "url": "https://taz.de/Ebola-in-der-DR-Kongo/!6201359/",
       "publishedAt": "2026-08-03T13:40:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Reformdebatte - 6 von 16 Ministerpräsidenten wollen an abschlagsfreier Rente nach 45 Beitragsjahren festhalten",
-      "excerpt": "Auch die saarländische Ministerpräsidentin Rehlinger (SPD) spricht sich gegen die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren aus. Damit wenden sich nun bereits sechs von 16 Länderregierungschefs explizi",
-      "url": "https://www.deutschlandfunk.de/6-von-16-ministerpraesidenten-wollen-an-abschlagsfreier-rente-nach-45-beitragsjahren-festhalten-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Offener Brief - Mehr als 1.000 Juristen fordern AfD-Verbotsverfahren",
-      "excerpt": "Mehr als eintausend Juristinnen und Juristen in Deutschland unterstützen die Einleitung eines AfD-Verbotsverfahrens beim Bundesverfassungsgericht. Sie haben einen offenen Brief an die Bundesregierung und die Abgeordneten",
-      "url": "https://www.deutschlandfunk.de/mehr-als-1-000-juristen-fordern-afd-verbotsverfahren-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Anschlag auf CSD - Gefährder in Berlin werden strenger überwacht - teilweise mit Fußfesseln",
-      "excerpt": "Nach dem Anschlag am Rande des Christopher Street Day in Berlin werden dort islamistische Gefährder strenger überwacht.",
-      "url": "https://www.deutschlandfunk.de/gefaehrder-in-berlin-werden-strenger-ueberwacht-teilweise-mit-fussfesseln-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ceuta-Krise - Von der Leyen dankt Spanien für Umgang mit Migranten-Ansturm und fordert besseren Schutz der Außengrenzen",
-      "excerpt": "EU-Kommissionspräsidentin von der Leyen hat dem spanischen Ministerpräsident Sanchez für den Umgang mit dem Ansturm zehntausender Migranten auf die Exklave Ceuta in Marokko gedankt. In dem Brief, von dem die Nachrichtena",
-      "url": "https://www.deutschlandfunk.de/von-der-leyen-dankt-spanien-fuer-umgang-mit-migranten-ansturm-und-fordert-besseren-schutz-der-aussen-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russland greift Saporischschja mit Gleitbomben an - Tote und Verletzte bei ukrainischen Angriffen in Schwarzmeer-Region",
-      "excerpt": "Die russische Armee hat die ukrainische Großstadt Saporischschja erneut mit Gleitbomben angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russland-greift-saporischschja-mit-gleitbomben-an-tote-und-verletzte-bei-ukrainischen-angriffen-in-s-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Japan und USA stützen gemeinsam japanische Währung Yen",
-      "excerpt": "Japan und die USA haben gemeinsam Maßnahmen ergriffen, um die japanische Währung Yen zu stützen.",
-      "url": "https://www.deutschlandfunk.de/japan-und-usa-stuetzen-gemeinsam-japanische-waehrung-yen-104.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Augenzeugen - Bewaffnete entführen im Nordwesten Nigerias mehr als 50 Menschen",
-      "excerpt": "Im Nordwesten Nigerias haben bewaffnete Angreifer mehr als 50 Menschen entführt.",
-      "url": "https://www.deutschlandfunk.de/bewaffnete-entfuehren-im-nordwesten-nigerias-mehr-als-50-menschen-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Israel - Gericht stoppt Pläne für Krokodilgräben um Gefängnisse mit Palästinensern",
-      "excerpt": "In Israel hat ein Gericht die Pläne des rechtsextremen Sicherheits-Ministers Ben-Gvir gestoppt, Krokodilgräben um Gefängnisse mit palästinensischen Insassen zu ziehen.",
-      "url": "https://www.deutschlandfunk.de/gericht-stoppt-plaene-fuer-krokodilgraeben-um-gefaengnisse-mit-palaestinensern-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "WM-Investorenpläne - UEFA droht Infantino mit rechtlichen Schritten",
-      "excerpt": "Der europäische Fußball-Verband UEFA droht dem Weltverband FIFA und dessen Präsidenten Infantino mit rechtlichen Schritten wegen der gescheiterten Pläne für einen Teilverkauf der WM-Rechte. Dies berichten übereinstimmend",
-      "url": "https://www.deutschlandfunk.de/uefa-droht-infantino-mit-rechtlichen-schritten-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Waldbrände - USA: Hunderte Häuser in der Stadt Spokane zerstört - Griechenland: Feuer westlich von Athen weiter außer Kontrolle",
-      "excerpt": "Im US-Bundesstaat Washington haben Waldbrände zehntausende Menschen zur Flucht gezwungen und hunderte Häuser zerstört.",
-      "url": "https://www.deutschlandfunk.de/usa-hunderte-haeuser-in-der-stadt-spokane-zerstoert-griechenland-feuer-westlich-von-athen-weiter-aus-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kriminalität - Anklage im Zusammenhang mit großer Drogen-Plattform \"Archetyp Market\"",
-      "excerpt": "In Frankfurt am Main ist Anklage gegen den Gründer einer der weltweit größten Handelsplattformen für Drogen im Darknet erhoben worden.",
-      "url": "https://www.deutschlandfunk.de/anklage-im-zusammenhang-mit-grosser-drogen-plattform-archetyp-market-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Ex-Harrods-Boss Al-Fayed: Vier Frauen als Opfer von Menschenhandel anerkannt",
-      "excerpt": "Das britische Innenministerium hat vier Frauen als Opfer von Menschenhandel anerkannt, die mutmaßlich durch den verstorbenen früheren Besitzer des Londoner Kaufhauses Harrods, Al-Fayed, sexuell missbraucht worden sind.",
-      "url": "https://www.deutschlandfunk.de/ex-harrods-boss-al-fayed-vier-frauen-als-opfer-von-menschenhandel-anerkannt-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landesbank - Bafin ordnet Maßnahmen zur Geldwäsche-Prävention bei der NordLB an",
-      "excerpt": "Die Norddeutsche Landesbank muss auf Anordnung der Finanzaufsicht Bafin Mängel bei der Vorbeugung gegen Geldwäsche und ⁠Terrorismusfinanzierung beseitigen. ⁠",
-      "url": "https://www.deutschlandfunk.de/bafin-ordnet-massnahmen-zur-geldwaesche-praevention-bei-der-nordlb-an-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Mindestens 17 Tote bei israelischen Angriffen im Gazastreifen",
-      "excerpt": "Bei den israelischen Luftangriffen im Gazastreifen am Wochenende sind nach palästinensischen Angaben mindestens 17 Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/mindestens-17-tote-bei-israelischen-angriffen-im-gazastreifen-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Dax mit über 26.000 Punkten auf Rekordhoch",
-      "excerpt": "Der deutsche Leitindex Dax hat erstmals die Marke von 26.000 Punkten überschritten. Am Montagvormittag lag er bei 26.005 Punkten - und damit 1,47 Prozent über dem Schlussstand am Freitag. Analysten führen das Rekordhoch ",
-      "url": "https://www.deutschlandfunk.de/dax-mit-ueber-26-000-punkten-auf-rekordhoch-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kultusminister Jung - Rechtsanspruch von Erstklässlern auf Ganztagsbetreuung wird in Baden-Württemberg \"ganz überwiegend\" erfüllt",
-      "excerpt": "Der Kultusminister von Baden-Württemberg, Jung, sieht eine gute Grundlage für den in Kraft getretenen Rechtsanspruch von Erstklässlern auf Ganztagsbetreuung.",
-      "url": "https://www.deutschlandfunk.de/rechtsanspruch-von-erstklaesslern-auf-ganztagsbetreuung-wird-in-baden-wuerttemberg-ganz-ueberwiegend-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mineralölkonzerne - Shell verkauft europäisches Onshore-Geschäft mit erneuerbaren Energien an Total Energies",
-      "excerpt": "Der niederländisch-britische Shell-Konzern verkauft sein Geschäft mit erneuerbaren Energien an Land an den ‌französischen Konkurrenten ⁠Total Energies.",
-      "url": "https://www.deutschlandfunk.de/shell-verkauft-europaeisches-onshore-geschaeft-mit-erneuerbaren-energien-an-total-energies-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Asien - Regierung von Südkorea ordnet wegen Temperaturen von 42 Grad Schutzmaßnahmen an",
-      "excerpt": "Auf der koreanischen Halbinsel sind während einer Hitzewelle neue Rekordtemperaturen gemessen worden.",
-      "url": "https://www.deutschlandfunk.de/regierung-von-suedkorea-ordnet-wegen-temperaturen-von-42-grad-schutzmassnahmen-an-100.html",
-      "publishedAt": "2026-08-03T13:27:00.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -311,22 +471,6 @@
       "excerpt": "Das von der Bundesregierung geplante Rentenpaket gerät zunehmend unter Druck. Saarlands Regierungschefin Rehlinger flankiert den Vorstoß der ostdeutschen Ministerpräsidenten und bietet CSU-Chef Söder einen Kompromiss an.",
       "url": "https://www.spiegel.de/politik/deutschland/geplante-rentenreform-anke-rehlinger-gegen-abschaffung-der-rente-mit-63-a-34d7bdd1-548f-47c9-bec9-c74debc05c41#ref=rss",
       "publishedAt": "2026-08-03T13:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Proteste in Georgien: Die Wände sprechen Bände",
-      "excerpt": "An vielen Fassaden der georgischen Hauptstadt Tbilissi finden sich regierungskritische Graffitis. Die Stadtreinigung entfernt sie, am nächsten Tag sind sie wieder da. mehr...",
-      "url": "https://taz.de/Proteste-in-Georgien/!6201353/",
-      "publishedAt": "2026-08-03T13:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Lobbyisten im Wirtschaftsministerium: Nur die Meinung der Energiekonzerne zählt",
-      "excerpt": "Das Wirtschaftsministerium spricht über die EU-Methanverordnung zum Klimaschutz nur mit der Gas-Branche. Umweltverbände finden kein Gehör. mehr...",
-      "url": "https://taz.de/Lobbyisten-im-Wirtschaftsministerium/!6201363/",
-      "publishedAt": "2026-08-03T13:06:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -352,14 +496,6 @@
       "url": "https://www.deutschlandfunk.de/fremdsprachenlernen-mit-digitalen-medien-ein-selbstversuch-100.html",
       "publishedAt": "2026-08-03T12:46:42.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Uefa prüft rechtliche Schritte: Infantino soll Beweise aufbewahren",
-      "excerpt": "Die Uefa baut eine rechtliche Drohkulisse auf. Der erste Nationalverband entzieht Fifa-Boss Gianni Infantino öffentlich seinen Beistand zur Wiederwahl. mehr...",
-      "url": "https://taz.de/Uefa-prueft-rechtliche-Schritte/!6201420/",
-      "publishedAt": "2026-08-03T12:41:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
@@ -410,14 +546,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Studie zu Pestizideinsatz in Argentinien: Gebärende besonders gefährdet",
-      "excerpt": "Laut einer Langzeitstudie besteht ein Zusammenhang zwischen einem höheren Risiko für Fehlgeburten und Chemikalien in der Landwirtschaft. mehr...",
-      "url": "https://taz.de/Studie-zu-Pestizideinsatz-in-Argentinien/!6201276/",
-      "publishedAt": "2026-08-03T11:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "FAQ: Was wird aus der abschlagsfreien Frührente?",
       "excerpt": "Nach Kritik der drei ostdeutschen CDU-Ministerpräsidenten am Rentenpaket der schwarz-roten Koalition ist eine Debatte über Nachbesserungen entbrannt. Es geht vor allem um die sogenannte Rente mit 63. Abschaffen oder doch",
@@ -431,14 +559,6 @@
       "excerpt": "Minderheiten wird oft zugeschrieben, besonders resilient zu sein. Doch als Gesellschaft sollten wir alle gemeinsam Krisen überstehen können. mehr...",
       "url": "https://taz.de/Umgang-mit-Krisen/!6196729/",
       "publishedAt": "2026-08-03T11:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Besuch in der Vergangenheit: Um 90° gedreht",
-      "excerpt": "Zurück im Elternhaus: Zwischen aufgetauchten Kindheitserinnerungen, strengen Alltagsregeln und vertrauten Geräuschen wirkt die Abwesenheit nach. mehr...",
-      "url": "https://taz.de/Besuch-in-der-Vergangenheit/!6201020/",
-      "publishedAt": "2026-08-03T11:26:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -458,28 +578,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Waldbrand in Washington: Flammen zerstören Teile der US-Großstadt Spokane",
-      "excerpt": "Ein Waldbrand im Nordwesten der USA hat bereits hunderte Häuser in der Stadt Spokane zerstört. Zehntausende Menschen mussten den Ort verlassen. mehr...",
-      "url": "https://taz.de/Waldbrand-in-Washington/!6201297/",
-      "publishedAt": "2026-08-03T08:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Verbraucherschützer kritisieren Ticket-Angebote bei der Bahn",
       "excerpt": "Tagsüber sind die Chancen auf ein Ticket zum Super-Sparpreis bei der Deutschen Bahn laut Verbraucherschützern gering. Die Bahn widerspricht und sagt, dass derzeit so viele Billigtickets wie nie verfügbar seien.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-supersparpreis-verbraucherschuetzer-100.html",
       "publishedAt": "2026-08-03T08:45:50.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
-      "excerpt": "In Griechenland kämpfen die Feuerwehren weiter gegen etliche Waldbrände. Einer nähert sich gefährlich nah der Stadt Megara, westlich von Athen. Der Bürgermeister spricht von einer chaotischen Lage.",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
-      "publishedAt": "2026-08-03T08:30:40.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -490,52 +594,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Schönheitsideale: Schonmal über Daumenkappen nachgedacht?",
-      "excerpt": "Was Menschen an sich und anderen schön finden, ändert sich ständig. 2126 sind Bauch-Beine-Po egal, der Fokus liegt auf anderen Merkmalen. mehr...",
-      "url": "https://taz.de/Was-koennten-die-Schoenheitsideale-im-Jahr-2126-sein/!6196866/",
-      "publishedAt": "2026-08-03T07:29:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Anschläge mit Autos: „Wir können Software entwickeln, die so eine Tat verhindert“",
-      "excerpt": "Lassen sich Auto-Anschläge und Amokfahrten verhindern? Ja, sagt ein Unfallforscher. Aber das könne dauern. mehr...",
-      "url": "https://taz.de/Anschlaege-mit-Autos/!6201179/",
-      "publishedAt": "2026-08-03T07:26:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Diebstahl von Unternehmerdaten in Liechtenstein sorgt für Aufregung",
       "excerpt": "Ausgerechnet in Liechtenstein, wo Unternehmer auf Diskretion zählen, ist ein riesiger Datensatz gestohlen worden - konkret eine Liste mit wirtschaftlich tätigen Personen. Wer dahinter steckt, ist noch unklar. Von Thomas ",
       "url": "https://www.tagesschau.de/ausland/europa/liechtenstein-datendiebstahl-100.html",
       "publishedAt": "2026-08-03T07:02:15.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "+++Nachrichten im Irankrieg+++: Laut Iran derzeit keine Verhandlungen mit den USA",
-      "excerpt": "Donald Trump verkündet nach der Feuerpause neue Gespräche mit Iran. Dessen Außenministerium teilt mit, bisher gebe es keinen Austausch. mehr...",
-      "url": "https://taz.de/Iran-Krieg/!6201279/",
-      "publishedAt": "2026-08-03T06:36:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ausstellung von Niina Lehtonen Braun: Wo Wasser, Blut und Farben fließen",
-      "excerpt": "Sie tanzen durchs Feuer und baden im Eis: Niina Lehtonen Brauns Aquarelle und Gouachen nackter Frauen in Aktion in der Schwartzschen Villa in Berlin. mehr...",
-      "url": "https://taz.de/Ausstellung-von-Niina-Lehtonen-Braun/!6200165/",
-      "publishedAt": "2026-08-03T05:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Münster vor dem CSD in der Stadt: Wieder der Schmerz",
-      "excerpt": "Der Anschlag beim Berliner CSD erschüttert auch Münster. Die Stadt, wo vor vier Jahren der trans Mann Malte C. beim CSD tödlich verletzt wurde. mehr...",
-      "url": "https://taz.de/Muenster-vor-dem-CSD-in-der-Stadt/!6196732/",
-      "publishedAt": "2026-08-03T05:15:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -739,22 +803,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
-      "excerpt": "In Ceuta sind die Menschen verärgert - sowohl Bewohner als auch Migranten. Unklar ist, warum Marokko den Ansturm überhaupt zugelassen hat. Spanien verteidigt unterdessen seine Migrationspolitik gegen Kritik aus der EU. V",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
-      "publishedAt": "2026-08-01T15:34:53.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
-      "excerpt": "Die Waldbrände in der Nähe von Bordeaux sind eingedämmt. Das gab das französische Innenministerium bekannt. Währenddessen verschärft sich die Lage in Griechenland. Dort sind um Athen neue Feuer ausgebrochen.",
-      "url": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html",
-      "publishedAt": "2026-08-01T15:07:09.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Flüge nach Afghanistan: Deutschland, die Taliban und Abschiebungen",
       "excerpt": "Erstmals wurde ein Mann nach Afghanistan abgeschoben, bei dem es sich nicht um einen verurteilten Straftäter handelte. Viele weitere Flüge dürften folgen. Die Kritik bleibt, dass dazu Absprachen mit den Taliban notwendig",
       "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-146.html",
@@ -779,22 +827,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Serbien: Wie ein Musikfestival in Ungnade fiel",
-      "excerpt": "Serbiens Behörden gehen unter Präsident Vucic vehement gegen die regierungskritische Kulturszene vor. Nun hat es das Musikfestival Exit erwischt - das größte des Balkans. Unter staatlichem Druck zog es von Serbien nach M",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-festival-novi-sad-100.html",
-      "publishedAt": "2026-08-01T13:22:07.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Fritz Güntzler räumt Fehler bei Absage des Verkehrsministerpostens ein",
-      "excerpt": "Wegen seines Umgangs mit Ex-Verkehrsminister Schnieder steht Friedrich Merz in der Kritik: Nun hat sich der CDU-Abgeordnete zu Wort gemeldet, der das Amt eigentlich übernehmen sollte – und kurzfristig wieder absprang.",
-      "url": "https://www.spiegel.de/politik/deutschland/fritz-guentzler-raeumt-fehler-bei-absage-des-verkehrsministerpostens-ein-a-82cedcab-56db-4828-9350-14c28e75f703#ref=rss",
-      "publishedAt": "2026-08-01T12:46:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Tricks gegen Hitze in der Stadt: Von A nach B - möglichst im Schatten",
       "excerpt": "Deutschland ist mittendrin in der Hitzewelle - an die 40 Grad Celsius kann das Thermometer jetzt anzeigen. Für Menschen in der Stadt wird das besonders zur Belastung. Aber es gibt ein paar Tricks. Von Rebecca Reinhard.",
       "url": "https://www.tagesschau.de/wissen/klima/hitze-schatten-staedtebau-versiegelung-klimawandel-100.html",
@@ -808,30 +840,6 @@
       "url": "https://www.deutschlandfunk.de/queere-vielfalt-in-schule-und-gesellschaft-was-bildung-bewirken-kann-102.html",
       "publishedAt": "2026-08-01T12:05:01.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "»Rente mit 63«: Thorsten Frei legt sich mit CDU-Ministerpräsidenten im Osten an",
-      "excerpt": "Ringen um die Parteiposition: Mehrere Ministerpräsidenten der CDU begehren gegen die geplante Rentenreform auf. Der neue Fraktionschef Frei hält dagegen.",
-      "url": "https://www.spiegel.de/politik/deutschland/rente-mit-63-thorsten-frei-widerspricht-ost-ministerpraesidenten-der-cdu-a-4229a64c-0e68-465f-a0d3-a1a9718dd861#ref=rss",
-      "publishedAt": "2026-08-01T10:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Schlantologie: Wer sind die beiden jungen Macher hinter dem KI-Satirekanal?",
-      "excerpt": "In KI-manipulierten Videos parodieren sie Friedrich Merz, Robert Habeck oder Gregor Gysi und erreichen im Netz ein riesiges Publikum. Was wollen die jungen Macher hinter dem Satirekanal »Schlantologie« erreichen?",
-      "url": "https://www.spiegel.de/politik/deutschland/schlantologie-wer-sind-die-beiden-jungen-macher-hinter-dem-ki-satirekanal-a-0a872b8d-21f9-4d7c-bb48-451b5af72dd2#ref=rss",
-      "publishedAt": "2026-08-01T09:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "CSD-Anschlag: Unerträglich, wie die Linke Islamismus verharmlost - Meinung",
-      "excerpt": "Warum fällt es manchen in der linken und queeren Community so schwer, klar zu benennen, welche Gefahr von radikalen Muslimen ausgeht?",
-      "url": "https://www.spiegel.de/politik/deutschland/csd-anschlag-unertraeglich-wie-die-linke-islamismus-verharmlost-meinung-a-03a13e62-a77f-4efc-86eb-7244451a3efb#ref=rss",
-      "publishedAt": "2026-08-01T09:23:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1079,14 +1087,6 @@
       "excerpt": "Kanzler Merz wollte mit dem Personalumbau neuen Schwung erzeugen - CDU-Politiker in Sachsen-Anhalt befürchten das Gegenteil. Besonders ein Fall sorgt für Unmut. Zerstritten erscheinen will man aber nicht. Von Hannes Leon",
       "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-kritik-100.html",
       "publishedAt": "2026-07-29T03:18:43.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach CSD-Attentat: Verschärfungen im Polizei- und Strafrecht machbar?",
-      "excerpt": "Nach dem Anschlag am Rande des CSD in Berlin werden Verschärfungen im Polizeirecht und im Strafrecht diskutiert. Worum geht es genau und welche Forderungen sind wirklich umsetzbar? Von Antonetta Stephany und Björn-Hendri",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-forderungen-recht-100.html",
-      "publishedAt": "2026-07-28T19:03:56.000Z",
       "category": "INNENPOLITIK"
     },
     {
