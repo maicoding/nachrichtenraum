@@ -1,108 +1,68 @@
 {
-  "updatedAt": "2026-08-04T12:29:34.028Z",
+  "updatedAt": "2026-08-04T15:09:43.075Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Debatte zum Zivildienst - „So ein Einsatz stärkt den Zusammenhalt“",
+      "excerpt": "Kommt der Zivildienst zurück? Viele BILD-User fänden das richtig. Alle Infos hier.",
+      "url": "https://www.bild.de/politik/inland/kommt-der-zivildienst-zurueck-so-ein-einsatz-staerkt-den-zusammenhalt-6a71d633df3bf7ee07797ab2",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Ceuta-Chaos - EU-Innenminister stellen sich hinter Spanien",
+      "excerpt": "EU-Minister stärken Spanien in Ceuta-Krise und verschärfen Schutz der Außengrenzen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-chaos-eu-innenminister-stellen-sich-hinter-spanien-6a71d81347f8c988ecd61970",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Im Krieg gegen den Iran - Gehen Trump die Raketen aus?",
+      "excerpt": "US-Raketenlager schrumpfen im Iran-Krieg, Experten warnen vor Engpässen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/im-krieg-gegen-den-iran-gehen-trump-die-raketen-aus-6a71bd0acc46967c04cae600",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Er erreicht monatlich 200 000 Menschen - Deutscher Rapper will Politiker „lynchen“",
+      "excerpt": "Rapper Beslik ruft zu gewaltsamem Umsturz auf und verherrlicht Lynchfantasien.",
+      "url": "https://www.bild.de/politik/inland/beslik-erreicht-monatlich-200-000-menschen-deutscher-rapper-will-regierung-mit-waffengewalt-stuerzen-6a71ad38df3bf7ee077974f8",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Immer noch Tausende Migranten in Ceuta - Jetzt bieten Schleuser Jetski-Fahrten ans Festland an",
       "excerpt": "In Ceuta stecken Tausende Migranten fest, Hilfsangebote und Unterkünfte fehlen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/immer-noch-tausende-migranten-in-ceuta-jetzt-bieten-schleuser-jetski-fahrten-ans-festland-an-6a70e7e0cc46967c04caddd2",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Julia Ruhs – Meine Meinung - Wir brauchen JETZT eine Festung Europa!",
-      "excerpt": "Europa soll mit strengen Außengrenzen Migration begrenzen und Sicherheit schützen.",
-      "url": "https://www.bild.de/politik/inland/julia-ruhs-meine-meinung-wir-brauchen-jetzt-eine-festung-europa-6a705bd2ef632fe6ede694a7",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
+      "title": "Caritas lehnt Zivi-Pläne ab - „Hier werden falsche Hoffnungen geweckt“",
+      "excerpt": "Journalist Thomas Kausch im Vodcast-Vertraulich-Gespräch mit der Präsidentin der Caritas über die Pläne der Politik wieder den Zivil...",
+      "url": "https://www.bild.de/politik/caritas-lehnt-zivi-plaene-ab-hier-werden-falsche-hoffnungen-geweckt-6a71cc2247f8c988ecd61802",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wegen Missbrauchsaufnahmen - Apple warf Telegram aus dem App Store",
-      "excerpt": "Apple sperrte Telegram wegen Missbrauchsinhalten kurzzeitig aus dem App Store.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-missbrauchsaufnahmen-apple-warf-telegram-aus-dem-app-store-6a71b45247f8c988ecd614cd",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
+      "title": "Sachsen-Anhalt - Rätsel um Studium von AfD-Kandidat Ulrich Siegmund",
+      "excerpt": "AfD-Mann Siegmund nennt seinen Studienort erst nach öffentlicher Nachfrage.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-raestel-um-studium-von-spitzenkandidat-der-afd-ulrich-siegmund-6a705deadd06dd5ef2e42f05",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "RCH-155 schon in der Ukraine - Pistorius plaudert Haubitzen-Geheimnis aus",
-      "excerpt": "Pistorius verrät: Moderne RCH-155-Haubitzen sind längst in der Ukraine angekommen.",
-      "url": "https://www.bild.de/politik/inland/boris-pistorius-rch-155-offenbar-laengst-in-der-ukraine-im-einsatz-6a717eee9fe80d33dcd3647d",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Für mindestens 280 Millionen Euro - Weltberühmtes Hotel Adlon soll verkauft werden",
-      "excerpt": "Anleger wollen das berühmte Berliner Luxushotel Adlon für 280 Millionen Euro veräußern.",
-      "url": "https://www.bild.de/politik/inland/hotel-adlon-in-berlin-soll-fuer-mindestens-280-millionen-euro-verkauft-werden-6a71923847f8c988ecd611ca",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Iran-Krieg und streikenden Piloten - Über 50 Prozent! Gewinn-Einbruch bei Lufthansa",
-      "excerpt": "Streiks und hohe Kerosinpreise lassen den Lufthansa-Gewinn stark einbrechen.",
-      "url": "https://www.bild.de/politik/inland/krieg-im-iran-und-streik-umsatz-bricht-bei-lufthansa-massiv-ein-6a717912b9cf931126824699",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Briten-Premier Burnham im Urlaub - Kaum im Amt, schon am Strand",
-      "excerpt": "Burnham fliegt kurz nach Amtsstart in den Urlaub und erntet heftige Kritik.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/andy-burnham-britischer-premier-fliegt-trotz-ankuendigung-in-urlaub-6a718bdadf3bf7ee0779718b",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Klassenkampf von oben“ - SPD-Linke fordert Rückkehr zum Sozialismus",
-      "excerpt": "Jetzt kracht es in der SPD! Das Forum DL21 rechnet scharf mit der Parteispitze ab.",
-      "url": "https://www.bild.de/politik/inland/spd-gruppe-attackiert-union-empoerung-ueber-klassenkampf-von-oben-6a708ed3abec2d71c8bee42c",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wer betroffen sein könnte - Der Geheimplan fürs Zivildienst-Comeback",
-      "excerpt": "Die Regierung bereitet den neuen Zivildienst vor. Fragezeichen gibt es bei den Kosten.",
-      "url": "https://www.bild.de/politik/inland/fuer-wehrdienstverweigerer-bundesregierung-plant-neuen-zivildienst-6a6c9b9bff33749f5728a304",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "So teuer ist die „Rente mit 63“ wirklich - 7 von 16 Länder-Chefs rebellieren gegen Abschaffung",
-      "excerpt": "Aktuell belastet das System die Rentenkasse jährlich mit einer Milliardensumme.",
-      "url": "https://www.bild.de/politik/inland/7-von-16-ministerpraesidenten-rebellieren-gegen-die-abschaffung-so-teuer-ist-die-rente-mit-63-wirklich-6a706a3dabec2d71c8bee081",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "EVP-Chef Manfred Weber - „Niemand hätte in Ceuta sterben müssen“",
-      "excerpt": "Die Ceuta-Krise hat Spanien innerhalb Europas isoliert. Heute kommt es zum Showdown.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-zofft-sich-die-eu-mit-spanien-die-geduld-mit-sanchez-ist-vorbei-6a707777679e1a4a72fcfe33",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sie wurde von Hamas ermordet - Freund von Terror-Opfer erschießt sich auf ihrem Grab",
-      "excerpt": "Bar Araf tötet sich am Grab seiner von den Hamas-Terroristen ermordeten Freundin.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-massaker-der-hamas-freund-von-terror-opfer-erschiesst-sich-auf-ihrem-grab-6a70361ccf0a7790ecb7dc9c",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Niedrigwasser im Rhein - „Das kann das Wirtschaftswachstum ersticken“",
-      "excerpt": "Niedrige Pegel legen die Schifffahrt lahm und gefährden das Wirtschaftswachstum.",
-      "url": "https://www.bild.de/politik/niedrigwasser-im-rhein-das-kann-das-wirtschaftswachstum-ersticken-6a706ae0679e1a4a72fcfd1f",
-      "publishedAt": "2026-08-04T12:29:32.595Z",
+      "title": "Die Wahrheit über die Krise in Ceuta - „80.000 bis 100.000 Migranten realistisch“",
+      "excerpt": "Global Reporter Tim Röhn gibt Insider-Einblicke in die Lage vor Ort.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ronzheimer-podcast-zur-krise-in-ceuta-80-000-bis-100-000-eine-realistische-zahl-6a71b34ddf3bf7ee077975eb",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +70,7 @@
       "title": "Trotz Iran-Krieg und Hormus-Sperrung - Ölkonzerne jubeln über Riesen-Gewinne!",
       "excerpt": "Ölkonzerne melden Rekordgewinne, während Autofahrer unter teuren Spritpreisen leiden.",
       "url": "https://www.bild.de/politik/inland/trotz-iran-krieg-und-hormus-sperrung-oekonzerne-jubeln-ueber-riesen-gewinne-6a71962b61ec46f846a26826",
-      "publishedAt": "2026-08-04T12:29:32.594Z",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
@@ -118,15 +78,7 @@
       "title": "KI-Überwachung an Brennpunkten - „Taten verhindern kann sie nicht, aber Täter schnappen“",
       "excerpt": "Berliner Polizei testet KI-Kameras an Brennpunkten, um Straftäter schneller zu fassen.",
       "url": "https://www.bild.de/politik/ki-ueberwachung-an-brennpunkten-taten-verhindern-kann-sie-nicht-aber-taeter-schnappen-6a71b3a047f8c988ecd614b6",
-      "publishedAt": "2026-08-04T12:29:32.594Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Im Krieg gegen den Iran - Gehen Trump die Raketen aus?",
-      "excerpt": "Washington – Alarmierende Berichte aus Washington: Der Krieg gegen den Iran dauert seit Ende Februar an – und schon jetzt sollen die...",
-      "url": "https://www.bild.de/politik/inland/im-krieg-gegen-den-iran-gehen-trump-die-raketen-aus-6a71bd0acc46967c04cae600",
-      "publishedAt": "2026-08-04T12:29:32.594Z",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +86,7 @@
       "title": "Im Vergleich zum Vorjahr - 50 Prozent weniger Asylanträge im Juli",
       "excerpt": "Verschärfter Migrationskurs: Asylerstanträge in Deutschland brechen stark ein.",
       "url": "https://www.bild.de/politik/im-vergleich-zum-vorjahr-50-prozent-weniger-asylantraege-im-juli-6a71acb061ec46f846a269dd",
-      "publishedAt": "2026-08-04T12:29:32.594Z",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
@@ -142,111 +94,103 @@
       "title": "Ceuta-Krisengipfel - Italien enthüllt neuen Afrika-Abschiebeplan",
       "excerpt": "Ein Detail kommt selbst für Insider überraschend.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/eu-migrationsstreit-italiens-plan-fuer-schnellere-abschiebungen-6a71b7c761ec46f846a26b9f",
-      "publishedAt": "2026-08-04T12:29:32.594Z",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
       "category": "POLITIK"
     },
     {
+      "source": "BILD.DE",
+      "title": "Julia Ruhs – Meine Meinung - Wir brauchen JETZT eine Festung Europa!",
+      "excerpt": "Europa soll mit strengen Außengrenzen Migration begrenzen und Sicherheit schützen.",
+      "url": "https://www.bild.de/politik/inland/julia-ruhs-meine-meinung-wir-brauchen-jetzt-eine-festung-europa-6a705bd2ef632fe6ede694a7",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Missbrauchsaufnahmen - Apple warf Telegram aus dem App Store",
+      "excerpt": "Apple sperrte Telegram wegen Missbrauchsinhalten kurzzeitig aus dem App Store.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-missbrauchsaufnahmen-apple-warf-telegram-aus-dem-app-store-6a71b45247f8c988ecd614cd",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "RCH-155 schon in der Ukraine - Pistorius plaudert Haubitzen-Geheimnis aus",
+      "excerpt": "Pistorius verrät: Moderne RCH-155-Haubitzen sind längst in der Ukraine angekommen.",
+      "url": "https://www.bild.de/politik/inland/boris-pistorius-rch-155-offenbar-laengst-in-der-ukraine-im-einsatz-6a717eee9fe80d33dcd3647d",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Für mindestens 280 Millionen Euro - Weltberühmtes Hotel Adlon soll verkauft werden",
+      "excerpt": "Anleger wollen das berühmte Berliner Luxushotel Adlon für 280 Millionen Euro veräußern.",
+      "url": "https://www.bild.de/politik/inland/hotel-adlon-in-berlin-soll-fuer-mindestens-280-millionen-euro-verkauft-werden-6a71923847f8c988ecd611ca",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Iran-Krieg und streikenden Piloten - Über 50 Prozent! Gewinn-Einbruch bei Lufthansa",
+      "excerpt": "Streiks und hohe Kerosinpreise lassen den Lufthansa-Gewinn stark einbrechen.",
+      "url": "https://www.bild.de/politik/inland/krieg-im-iran-und-streik-umsatz-bricht-bei-lufthansa-massiv-ein-6a717912b9cf931126824699",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Briten-Premier Burnham im Urlaub - Kaum im Amt, schon am Strand",
+      "excerpt": "Burnham fliegt kurz nach Amtsstart in den Urlaub und erntet heftige Kritik.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/andy-burnham-britischer-premier-fliegt-trotz-ankuendigung-in-urlaub-6a718bdadf3bf7ee0779718b",
+      "publishedAt": "2026-08-04T15:09:43.070Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Stromnetz auf Kuba am Montag erneut landesweit zusammengebrochen",
+      "excerpt": "Kein Strom bei drückender Hitze - in Kuba ist es wieder zu landesweiten Blackouts gekommen. Schulunterricht fällt aus und Krankenhäuser können Patienten offenbar nur eingeschränkt behandeln. Experten warnen vor einer hum",
+      "url": "https://www.tagesschau.de/ausland/amerika/erneuter-stromausfall-kuba-100.html",
+      "publishedAt": "2026-08-04T14:57:35.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "25 Demokratische US-Bundesstaaten klagen gegen Trumps neue Zölle",
+      "excerpt": "Seit rund anderthalb Wochen gelten neue US-Zölle gegen 60 Handelspartner, die nun erneut zum juristischen Streitfall werden. 25 Bundesstaaten der USA haben Klage gegen die Aufschläge auf Importe eingereicht.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-klage-100.html",
+      "publishedAt": "2026-08-04T14:45:42.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
       "source": "DLF",
-      "title": "Wehrpflicht - Ministeriumssprecherin bestätigt Pläne für neuen Zivildienst",
-      "excerpt": "Die Bundesregierung bereitet die Grundlagen für einen neuen Zivildienst vor. Auf Anfrage des Deutschlandfunks erklärte eine Sprecherin des Familienministeriums, sollte die allgemeine Wehrpflicht wieder eingesetzt werden,",
-      "url": "https://www.deutschlandfunk.de/ministeriumssprecherin-bestaetigt-plaene-fuer-neuen-zivildienst-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Ceuta-Krise - EU-Innenminister geben sich geschlossen",
+      "excerpt": "Die EU-Staaten wollen nach ihrem Streit über die Migrationskrise in der spanischen Exklave Ceuta künftig geschlossener auftreten und durch Frühwarnsysteme besser vorbereitet sein. Auch die Beobachtung von Social Media so",
+      "url": "https://www.deutschlandfunk.de/eu-innenminister-geben-sich-geschlossen-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ceuta-Krise - EU-Innenminister beraten über Konsequenzen",
-      "excerpt": "Nach dem Andrang von Migranten auf die spanische Exklave Ceuta in Marokko haben die EU-Innenminister in einer Sondersitzung über Konsequenzen beraten.",
-      "url": "https://www.deutschlandfunk.de/eu-innenminister-beraten-ueber-konsequenzen-114.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Globale Gerechtigkeit - Weltsozialforum beginnt in Benin - 50.000 Teilnehmer",
+      "excerpt": "Im westafrikanischen Benin hat das Weltsozialforum begonnen. In der Stadt Cotonou beraten rund 50.000 Teilnehmer aus 150 Ländern über globale Gerechtigkeit, Demokratie, die Folgen des Klimawandels und den Abbau koloniale",
+      "url": "https://www.deutschlandfunk.de/weltsozialforum-beginnt-in-benin-50-000-teilnehmer-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Rhein, Elbe und Donau - Das sind die Folgen niedriger Flusspegel",
-      "excerpt": "Den großen deutschen Flüssen Rhein, Elbe und Donau fehlt Wasser, ebenso wie vielen anderen Wasserläufen. Vielerorts werden täglich neue Tiefststände erreicht. Besserung ist wegen der andauernden Trockenheit und Hitze vor",
-      "url": "https://www.deutschlandfunk.de/das-sind-die-folgen-niedriger-flusspegel-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Berlin - Bundestags-Innenausschuss berät über Konsequenzen aus Berliner CSD-Anschlag",
+      "excerpt": "Der Innenausschuss des Bundestages berät derzeit über Konsequenzen aus dem islamistischen Anschlag am Rande des Christopher Street Day in Berlin.",
+      "url": "https://www.deutschlandfunk.de/bundestags-innenausschuss-beraet-ueber-konsequenzen-aus-berliner-csd-anschlag-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Saarland - Großeinsatz wegen radioaktiven Materials in Sankt Ingbert",
-      "excerpt": "Im saarländischen Sankt Ingbert hat es einen Großeinsatz der Polizei wegen einer möglichen Gefahr durch radioaktives Material gegeben.",
-      "url": "https://www.deutschlandfunk.de/grosseinsatz-wegen-radioaktiven-materials-in-sankt-ingbert-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Ukrainische Armee greift erneut Lagerhäuser von Online-Händler an - russische Behörden melden fünf Tote",
-      "excerpt": "Bei ukrainischen Drohnenangriffen auf die Region Moskau sind russischen Angaben zufolge mindestens fünf Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/ukrainische-armee-greift-erneut-lagerhaeuser-von-online-haendler-an-russische-behoerden-melden-fuenf-108.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Russisches Amazon\" - Warum die Ukraine den Versandhändler Wildberries angreift",
-      "excerpt": "Das ukrainische Militär nimmt die Infrastruktur von Wildberries, Russlands größtem Online-Versandhändler, ins Visier. In den vergangen zwei Wochen wurden wichtige Einrichtungen des Unternehmens mit Drohnen angegriffen. I",
-      "url": "https://www.deutschlandfunk.de/warum-die-ukraine-den-versandhaendler-wildberries-angreift-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Nach Angriff auf Frachter: Türkei fordert mehr Sicherheit im Schwarzen Meer",
-      "excerpt": "Im Schwarzen Meer sind nach Regierungsangaben zwei türkische Frachtschiffe mit Drohnen angegriffen worden.",
-      "url": "https://www.deutschlandfunk.de/nach-angriff-auf-frachter-tuerkei-fordert-mehr-sicherheit-im-schwarzen-meer-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Waldbrände und Niedrigpegel - \"Hitzegipfel\" gefordert - Proteste vor Kanzleramt angekündigt",
-      "excerpt": "Angesichts der Hitzewelle mit Waldbränden in Südeuropa und niedrigen Pegelständen auch in Deutschland wird ein Sondertreffen der Politik gefordert. Ein Bündnis aus Naturschutz- und Sozialverbänden sowie Gewerkschaften ru",
-      "url": "https://www.deutschlandfunk.de/hitzegipfel-gefordert-proteste-vor-kanzleramt-angekuendigt-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Superzelle\" - Schweres Unwetter verursacht starke Schäden im Weimarer Land",
-      "excerpt": "Ein starkes Unwetter hat im Weimarer Land in Thüringen schwere Schäden verursacht.",
-      "url": "https://www.deutschlandfunk.de/schweres-unwetter-verursacht-starke-schaeden-im-weimarer-land-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Folge des Iran-Kriegs - Kartellamt sieht Fortschritte bei Untersuchung zu Kraftstoffpreisen",
-      "excerpt": "Das Bundeskartellamt sieht Fortschritte bei seinen Untersuchungen zu den hohen Kraftstoffpreisen.",
-      "url": "https://www.deutschlandfunk.de/kartellamt-sieht-fortschritte-bei-untersuchung-zu-kraftstoffpreisen-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Boot in Brand geraten - 157 Migranten aus dem Ärmelkanal gerettet",
-      "excerpt": "Nach einem Brand auf einem Boot im Ärmelkanal sind 157 Migranten vor dem Ertrinken gerettet worden.",
-      "url": "https://www.deutschlandfunk.de/157-migranten-aus-dem-aermelkanal-gerettet-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitze und Dürre - Europas Landwirte rechnen mit erheblichen Ernteeinbußen",
-      "excerpt": "Landwirte in ganz Europa haben angesichts der aktuellen Witterungsbedingungen vor einem Einbruch der Lebensmittelproduktion und steigenden Preisen gewarnt. Extreme Hitze, Dürre und Waldbrände fügten allen Arten von Anbau",
-      "url": "https://www.deutschlandfunk.de/europas-landwirte-rechnen-mit-erheblichen-ernteeinbussen-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Trockenheit - Niedrigwasser bedroht deutsches Wirtschaftswachstum - Stromproduktion in mehreren Ländern beeinträchtigt",
-      "excerpt": "Angesichts des Niedrigwassers deutscher Flüsse warnen Ökonomen vor negativen Auswirkungen auf die Wirtschaft. In anderen europäischen Ländern ist die Stromproduktion beeinträchtigt, was sich auch auf Konzerne auswirkt.",
-      "url": "https://www.deutschlandfunk.de/niedrigwasser-bedroht-deutsches-wirtschaftswachstum-stromproduktion-in-mehreren-laendern-beeintraech-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Flugverkehr - Lufthansa: Gewinn im zweiten Quartal eingebrochen",
+      "excerpt": "Die Lufthansa hat im zweiten Quartal deutlich weniger Gewinn verzeichnet.",
+      "url": "https://www.deutschlandfunk.de/lufthansa-gewinn-im-zweiten-quartal-eingebrochen-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,40 +198,200 @@
       "title": "Waldbrand - Niederlande: Feuer in Naturschutzgebiet nahe der Grenze zu Nordrhein-Westfalen - Campingplatz geräumt",
       "excerpt": "Der Brand in den Niederlanden nahe der Grenze zu Nordrhein-Westfalen ist weiterhin nicht unter Kontrolle.",
       "url": "https://www.deutschlandfunk.de/niederlande-feuer-in-naturschutzgebiet-nahe-der-grenze-zu-nordrhein-westfalen-campingplatz-geraeumt-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Besetzte Halbinsel Krim - Russischer Soldat tötet einen Kameraden und drei Zivilisten",
-      "excerpt": "Auf der von Russland annektierten Halbinsel Krim hat ein russischer Soldat vier Menschen erschossen.",
-      "url": "https://www.deutschlandfunk.de/russischer-soldat-toetet-einen-kameraden-und-drei-zivilisten-102.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Hungerkrise - Jeder zweite Minderjährige in Afghanistan ist unterernährt",
+      "excerpt": "Das Welternährungsprogramm der Vereinten Nationen - WFP - warnt vor einer Hungerkrise in Afghanistan.",
+      "url": "https://www.deutschlandfunk.de/jeder-zweite-minderjaehrige-in-afghanistan-ist-unterernaehrt-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Ceuta - Marquardt (Grüne): Keine Belege für Anreize durch spanische Migrationspolitik",
-      "excerpt": "Nach dem Andrang von Migranten auf die spanische Exklave Ceuta in Marokko hat der Grünen-Europaabgeordnete Marquardt Kritik an der spanischen Migrationspolitik zurückgewiesen. Marquardt sagte im Deutschlandfunk, es gebe ",
-      "url": "https://www.deutschlandfunk.de/marquardt-gruene-keine-belege-fuer-anreize-durch-spanische-migrationspolitik-102.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Huthi-Miliz - Kämpfer melden Angriff auf Flughafen in Saudi-Arabien",
+      "excerpt": "Die vom Iran unterstützte Huthi-Miliz im Jemen hat nach eigener Aussage einen Flughafen im Südwesten Saudi-Arabiens mit einer Drohne angegriffen.",
+      "url": "https://www.deutschlandfunk.de/kaempfer-melden-angriff-auf-flughafen-in-saudi-arabien-102.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Debatte um abschlagsfreie Rente - Ökonom Werding warnt vor Aufschnüren des Rentenpakets",
-      "excerpt": "Der Ökonom Martin Werding rät der schwarz-roten Koalition davon ab, das geplante Paket zur Rentenreform noch einmal aufzuschnüren. Das Mitglied der Rentenkommission sagte dem Wirtschaftsmagazin \"Capital\", man habe sich m",
-      "url": "https://www.deutschlandfunk.de/oekonom-werding-warnt-vor-aufschnueren-des-rentenpakets-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Wehrpflicht - Ministeriumssprecherin bestätigt Pläne für neuen Zivildienst",
+      "excerpt": "Die Bundesregierung bereitet die Grundlagen für einen neuen Zivildienst vor. Auf Anfrage des Deutschlandfunks erklärte eine Sprecherin des Familienministeriums, sollte die allgemeine Wehrpflicht wieder eingesetzt werden,",
+      "url": "https://www.deutschlandfunk.de/ministeriumssprecherin-bestaetigt-plaene-fuer-neuen-zivildienst-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Unwetter - Sperrung für Teile der Sächsischen Schweiz für Besucher bis Ende August verlängert",
-      "excerpt": "Nach dem Unwetter in der Sächsischen Schweiz haben die Behörden das Betretungsverbot für Teile des Nationalparks bis Ende August verlängert.",
-      "url": "https://www.deutschlandfunk.de/sperrung-fuer-teile-der-saechsischen-schweiz-fuer-besucher-bis-ende-august-verlaengert-100.html",
-      "publishedAt": "2026-08-04T12:21:51.000Z",
+      "title": "Rhein, Elbe und Donau - Das sind die Folgen niedriger Flusspegel",
+      "excerpt": "Den großen deutschen Flüssen Rhein, Elbe und Donau fehlt Wasser, ebenso wie vielen anderen Wasserläufen. Vielerorts werden täglich neue Tiefststände erreicht. Besserung ist wegen der andauernden Trockenheit und Hitze vor",
+      "url": "https://www.deutschlandfunk.de/das-sind-die-folgen-niedriger-flusspegel-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
       "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Saarland - Großeinsatz wegen radioaktiven Materials in Sankt Ingbert",
+      "excerpt": "Im saarländischen Sankt Ingbert hat es einen Großeinsatz der Polizei wegen einer möglichen Gefahr durch radioaktives Material gegeben.",
+      "url": "https://www.deutschlandfunk.de/grosseinsatz-wegen-radioaktiven-materials-in-sankt-ingbert-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Ukrainische Armee greift erneut Lagerhäuser von Online-Händler an - russische Behörden melden fünf Tote",
+      "excerpt": "Bei ukrainischen Drohnenangriffen auf die Region Moskau sind russischen Angaben zufolge mindestens fünf Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/ukrainische-armee-greift-erneut-lagerhaeuser-von-online-haendler-an-russische-behoerden-melden-fuenf-108.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Russisches Amazon\" - Warum die Ukraine den Versandhändler Wildberries angreift",
+      "excerpt": "Das ukrainische Militär nimmt die Infrastruktur von Wildberries, Russlands größtem Online-Versandhändler, ins Visier. In den vergangen zwei Wochen wurden wichtige Einrichtungen des Unternehmens mit Drohnen angegriffen. I",
+      "url": "https://www.deutschlandfunk.de/warum-die-ukraine-den-versandhaendler-wildberries-angreift-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Nach Angriff auf Frachter: Türkei fordert mehr Sicherheit im Schwarzen Meer",
+      "excerpt": "Im Schwarzen Meer sind nach Regierungsangaben zwei türkische Frachtschiffe mit Drohnen angegriffen worden.",
+      "url": "https://www.deutschlandfunk.de/nach-angriff-auf-frachter-tuerkei-fordert-mehr-sicherheit-im-schwarzen-meer-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Waldbrände und Niedrigpegel - \"Hitzegipfel\" gefordert - Proteste vor Kanzleramt angekündigt",
+      "excerpt": "Angesichts der Hitzewelle mit Waldbränden in Südeuropa und niedrigen Pegelständen auch in Deutschland wird ein Sondertreffen der Politik gefordert. Ein Bündnis aus Naturschutz- und Sozialverbänden sowie Gewerkschaften ru",
+      "url": "https://www.deutschlandfunk.de/hitzegipfel-gefordert-proteste-vor-kanzleramt-angekuendigt-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Superzelle\" - Schweres Unwetter verursacht starke Schäden im Weimarer Land",
+      "excerpt": "Ein starkes Unwetter hat im Weimarer Land in Thüringen schwere Schäden verursacht.",
+      "url": "https://www.deutschlandfunk.de/schweres-unwetter-verursacht-starke-schaeden-im-weimarer-land-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Folge des Iran-Kriegs - Kartellamt sieht Fortschritte bei Untersuchung zu Kraftstoffpreisen",
+      "excerpt": "Das Bundeskartellamt sieht Fortschritte bei seinen Untersuchungen zu den hohen Kraftstoffpreisen.",
+      "url": "https://www.deutschlandfunk.de/kartellamt-sieht-fortschritte-bei-untersuchung-zu-kraftstoffpreisen-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Boot in Brand geraten - 157 Migranten aus dem Ärmelkanal gerettet",
+      "excerpt": "Nach einem Brand auf einem Boot im Ärmelkanal sind 157 Migranten vor dem Ertrinken gerettet worden.",
+      "url": "https://www.deutschlandfunk.de/157-migranten-aus-dem-aermelkanal-gerettet-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitze und Dürre - Europas Landwirte rechnen mit erheblichen Ernteeinbußen",
+      "excerpt": "Landwirte in ganz Europa haben angesichts der aktuellen Witterungsbedingungen vor einem Einbruch der Lebensmittelproduktion und steigenden Preisen gewarnt. Extreme Hitze, Dürre und Waldbrände fügten allen Arten von Anbau",
+      "url": "https://www.deutschlandfunk.de/europas-landwirte-rechnen-mit-erheblichen-ernteeinbussen-100.html",
+      "publishedAt": "2026-08-04T14:43:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Inselstaat in demografischer Krise: Immer mehr Menschen verlassen Kuba",
+      "excerpt": "In den letzten fünf Jahren ist die kubanische Bevölkerung je nach Quelle um bis zu 3 Millionen Menschen geschrumpft. Die Auswanderungswelle hat Folgen. mehr...",
+      "url": "https://taz.de/Inselstaat-in-demografischer-Krise/!6201629/",
+      "publishedAt": "2026-08-04T14:32:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Gold bei EM im Freiwasserschwimmen: Meister der Mentalität",
+      "excerpt": "Hinter Florian Wellbrock liegt eine schwierige Saison. Umso größer war seine Freude über den EM-Titel in der olympischen Freiwasserdistanz. mehr...",
+      "url": "https://taz.de/Gold-bei-EM-im-Freiwasserschwimmen/!6201622/",
+      "publishedAt": "2026-08-04T14:26:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Migration in spanischer Exklave: Was lernen EU und Spanien aus Ceuta?",
+      "excerpt": "Binnen weniger Tage gelangten Zehntausende Migranten nach Ceuta. Die meisten sind zurück in Marokko, doch die Debatte über den Schutz der EU-Außengrenzen bleibt. Die Menschen in Ceuta versuchen derweil, zur Normalität zu",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migranten-eu-100.html",
+      "publishedAt": "2026-08-04T14:23:59.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ceuta-Krise: EU-Innenminister stellen sich geschlossen hinter Spanien",
+      "excerpt": "Bei einer kurzfristig einberufenen Videokonferenz zu den Vorfällen in Ceuta haben die EU-Innenminister Spanien demonstrativ den Rücken gestärkt. Die Außengrenzen lägen in gemeinsamer europäischer Verantwortung. Das klang",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-innenministerrat-100.html",
+      "publishedAt": "2026-08-04T14:22:14.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wegbrechende Spritsteuer: Die Briten nennen es Fahrstromsteuer",
+      "excerpt": "Mit der Antriebswende bei Autos schrumpfen die Mineralölsteuereinnahmen durch Verbrennersprit. Nun könnten neue Abgaben bei E-Fahrzeugen kommen. mehr...",
+      "url": "https://taz.de/Wegbrechende-Spritsteuer/!6201569/",
+      "publishedAt": "2026-08-04T13:40:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Migration nach Ceuta: Madrid erhöht Zahl der Angekommenen auf 72.000",
+      "excerpt": "Fast alle Migranten, die nach Ceuta geschwommen waren, sind wieder in Marokko. Die EU lobt Spaniens schnelle Reaktion, die Zahl der Todesopfer steigt. mehr...",
+      "url": "https://taz.de/Migration-nach-Ceuta/!6201740/",
+      "publishedAt": "2026-08-04T13:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Neue Visaregeln für USA-Studierende - Int. Christian Strowa DAAD",
+      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/neue-visaregeln-fuer-usa-studierende-int-christian-strowa-daad-100.html",
+      "publishedAt": "2026-08-04T12:45:00.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "DLF",
+      "title": "Sind die Kommunen fit für den Ganztag? Marc Elxnat, Städte- u. Gemeindebund",
+      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/sind-die-kommunen-fit-fuer-den-ganztag-marc-elxnat-staedte-u-gemeindebund-100.html",
+      "publishedAt": "2026-08-04T12:40:00.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "DLF",
+      "title": "Fehlstart auf Kosten der Kinder? Elke Alsago, Verdi",
+      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/fehlstart-auf-kosten-der-kinder-elke-alsago-verdi-100.html",
+      "publishedAt": "2026-08-04T12:37:00.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "DLF",
+      "title": "Endlich in Kraft: Rechtsanspruch auf Ganztagsbetreuung",
+      "excerpt": "Dierks, Petra www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/endlich-in-kraft-rechtsanspruch-auf-ganztagsbetreuung-100.html",
+      "publishedAt": "2026-08-04T12:36:00.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Historiker Marģers Vestermanis gestorben: Nichts vergessen, aufschreiben, Zeugnis ablegen",
+      "excerpt": "Marģers Vestermanis war der letzte Überlebende von Ghetto, KZ und Waldbrüderzeit in Lettland. Zugleich war er Historiker des Holocausts. Ein Nachruf. mehr...",
+      "url": "https://taz.de/Historiker-Margers-Vestermanis-gestorben/!6201455/",
+      "publishedAt": "2026-08-04T12:33:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -331,14 +435,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Keine Klimapolitik in Österreich: Wien im Hitzestau",
-      "excerpt": "Österreich bricht Hitzerekorde, doch beim Klimaschutz herrscht Stillstand. Bürgerliche Parteien blockieren. Auch FPÖ-Forderungen sind wenig glaubhaft. mehr...",
-      "url": "https://taz.de/Klimapolitik-in-Oesterreich-Hitzerekorde-werden-gebrochen-doch-beim-Schutz-herrscht-Stillstand/!6200378/",
-      "publishedAt": "2026-08-04T10:01:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Was es heißt, in Gaza aufzuwachsen: Mit väterlicher Skepsis und mütterlicher Rebellion",
       "excerpt": "„Muscheln am Strand von Gaza“: Hamza Abu Howidy hat ein berührendes Buch über das Leben in Gaza und seinen Weg zum Friedensaktivisten geschrieben. mehr...",
       "url": "https://taz.de/Was-es-heisst-in-Gaza-aufzuwachsen/!6195122/",
@@ -371,14 +467,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Ausbeutung von Mi­gran­ten in Italien: Mörderische Ernte",
-      "excerpt": "In Kalabrien werden vier Erntehelfer getötet. Der Landwirt, auf dessen Hof sie tätig waren, kann trotzdem weiter auf fette EU-Subventionen hoffen. Wie kann das sein? mehr...",
-      "url": "https://taz.de/Ausbeutung-von-Migranten-in-Italien/!6196812/",
-      "publishedAt": "2026-08-04T08:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Roman von Maria Reva: Wenn das Gehäuse links dreht",
       "excerpt": "Drei Frauen entführen dreizehn Männer in einem Wohnmobil voller Schnecken: Nichts ist zu absurd in Zeiten des Krieges und in Maria Revas brillantem Ukraine-Roman. mehr...",
       "url": "https://taz.de/Roman-von-Maria-Reva/!6201370/",
@@ -391,22 +479,6 @@
       "excerpt": "Einst gestaltete er die friedliche Revolution von 1989 mit. Nun predigt Frank Richter in seiner neuen Heimat Sachsen-Anhalt. mehr...",
       "url": "https://taz.de/Theologe-und-Politiker-Frank-Richter/!6200558/",
       "publishedAt": "2026-08-04T07:33:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU-Handel mit Siedlungswaren: Nur ein Boykott wäre rechtskonform",
-      "excerpt": "Berlin und Rom schieben Verfahrensgründe vor, um ein Importverbot für Waren aus israelischen Siedlungen zu blockieren. Dabei ist die Sache rechtlich eindeutig. mehr...",
-      "url": "https://taz.de/EU-Handel-mit-Siedlungswaren/!6201291/",
-      "publishedAt": "2026-08-04T07:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Solidarität mit Palästina in der BRD: Warum ich die Vorsilbe „Deutsch“ wieder ablegte",
-      "excerpt": "Unser Autor kam 1973 als palästinensischer Flüchtling nach Berlin und identifizierte sich lange mit der neuen Heimat. Jetzt nicht mehr. mehr...",
-      "url": "https://taz.de/Solidaritaet-mit-Palaestina-in-der-BRD/!6201028/",
-      "publishedAt": "2026-08-04T07:25:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -456,14 +528,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-nicht-zwingend-eine-frau-im-bundespraesidenten-amt-a-269f4fdb-e81d-4e41-9580-a27df693f9cf#ref=rss",
       "publishedAt": "2026-08-04T05:33:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "25 Demokratische US-Bundesstaaten klagen gegen Trumps neue Zölle",
-      "excerpt": "Seit rund anderthalb Wochen gelten neue US-Zölle gegen 60 Handelspartner, die nun erneut zum juristischen Streitfall werden. 25 Bundesstaaten der USA haben Klage gegen die Aufschläge auf Importe eingereicht.",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-klage-100.html",
-      "publishedAt": "2026-08-04T05:28:28.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -536,14 +600,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-102.html",
       "publishedAt": "2026-08-03T19:43:16.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU nach Ceuta: Zur Freude der Antieuropäer",
-      "excerpt": "Die Europäische Union ist nach den Ereignissen in Ceuta auf dem besten Weg, sich selbst zu schreddern. Europas rechter Rand reibt sich die Hände. mehr...",
-      "url": "https://taz.de/EU-nach-Ceuta/!6201345/",
-      "publishedAt": "2026-08-03T17:53:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -715,14 +771,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Chronologie zum Iran-Krieg: Trumps Drohungen, Trumps Rückzieher",
-      "excerpt": "Mal droht Trump mit heftigen Angriffen, dann spricht er wieder von einer bevorstehenden Einigung: Seit Monaten äußert sich der US-Präsident inkonsistent zu den Iran-Gesprächen - eine Chronologie der Widersprüche.",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-wechselnder-kurs-kehrtwende-100.html",
-      "publishedAt": "2026-08-03T09:42:20.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Verbraucherschützer kritisieren Ticket-Angebote bei der Bahn",
       "excerpt": "Tagsüber sind die Chancen auf ein Ticket zum Super-Sparpreis bei der Deutschen Bahn laut Verbraucherschützern gering. Die Bahn widerspricht und sagt, dass derzeit so viele Billigtickets wie nie verfügbar seien.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-supersparpreis-verbraucherschuetzer-100.html",
@@ -794,14 +842,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "excerpt": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz. Bei Löscharbeiten kollidierten zwei Hubschrauber - zwei der Piloten kamen beim darauffolgenden Abstu",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
-      "publishedAt": "2026-08-02T16:42:50.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Ceuta: Blitzmigrationskrise legt Spaltung in der EU offen",
       "excerpt": "Die Blitzmigrationskrise in Ceuta zeigt: Die europäische Solidarität wird in so einer Ausnahmesituation schnell brüchig. Einer der Antreiber dieser Spaltung ist die rechte Politikerin Giorgia Meloni.",
@@ -816,14 +856,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/rente-mit-63-baerbel-bas-fordert-von-union-klarheit-zur-abschlagsfreien-fruehrente-a-51528974-6b5a-416a-a188-e62162f2fd77#ref=rss",
       "publishedAt": "2026-08-02T16:05:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
-      "excerpt": "Nach dem Andrang Zehntausender Migranten auf die spanische Exklave Ceuta herrscht in der EU Unruhe. Bundesaußenminister Wadephul spricht von einem \"absoluten Stresstest\". Grüne und SPD vermuten eine gezielte Provokation ",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-aussengrenze-wadephul-100.html",
-      "publishedAt": "2026-08-02T13:44:24.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1106,14 +1138,6 @@
       "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "DLF",
-      "title": "Mittelstand: Azubis und Fachkräfte mit TikTok anwerben",
-      "excerpt": "Hofmann, Livia www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/mittelstand-azubis-und-fachkraefte-mit-tiktok-anwerben-100.html",
-      "publishedAt": "2026-07-28T12:40:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Online-Buchungsrekord für Ferienwohnungen",
       "excerpt": "Immer mehr Ferienunterkünfte werden hierzulande über große Online-Plattformen gebucht. Mit mehr als 68 Millionen Übernachtungen erreichten die Online-Buchungen sogar einen Rekord.",
@@ -1130,22 +1154,6 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Sexuelle Bildung: Welche Rolle Eltern bei der Prävention spielen",
-      "excerpt": "Schütz, Martin www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/sexuelle-bildung-welche-rolle-eltern-bei-der-praevention-spielen-100.html",
-      "publishedAt": "2026-07-27T12:50:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Sexuelle Bildung: Welche Rolle Schule bei der Prävention spielt",
-      "excerpt": "Schütz, Martin www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/sexuelle-bildung-welche-rolle-schule-bei-der-praevention-spielt-100.html",
-      "publishedAt": "2026-07-27T12:40:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "So steht es um die weltweite Aids-Bekämpfung",
       "excerpt": "In Rio de Janeiro treffen sich von heute an Tausende Menschen zur internationalen Aids-Konferenz - dem größten und wichtigsten Forum zum Thema HIV und Aids. Wie steht es um die Forschung? Ein Überblick von Daniela Remus.",
@@ -1160,14 +1168,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
       "publishedAt": "2026-07-25T16:10:14.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Mediennutzung - Kita und Schule können nicht alle Versäumnisse ausgleichen",
-      "excerpt": "Erzieher und Lehrer klagen immer lauter über mangelnde Kompetenzen der Kinder: motorisch, emotional, kognitiv. Was Eltern leisten können, hängt von vielen Bedingungen ab. Ihr Vorbild ist wichtig, ihr Job anstrengend. Wor",
-      "url": "https://www.deutschlandfunk.de/eltern-in-die-pflicht-kita-schule-koennen-nicht-alle-versaeumnisse-ausgleichen-100.html",
-      "publishedAt": "2026-07-25T12:05:00.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
