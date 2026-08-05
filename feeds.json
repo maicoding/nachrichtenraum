@@ -1,100 +1,12 @@
 {
-  "updatedAt": "2026-08-05T04:29:42.550Z",
+  "updatedAt": "2026-08-05T07:25:24.018Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "BILD-Debatte zum Zivildienst - „So ein Einsatz stärkt den Zusammenhalt“",
-      "excerpt": "Kommt der Zivildienst zurück? Viele BILD-User fänden das richtig. Alle Infos hier.",
-      "url": "https://www.bild.de/politik/inland/kommt-der-zivildienst-zurueck-so-ein-einsatz-staerkt-den-zusammenhalt-6a71d633df3bf7ee07797ab2",
-      "publishedAt": "2026-08-05T04:29:41.626Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Neun Tote nach Raketen-Terror gegen Kiew",
-      "excerpt": "Seit dem 24. Februar 2022 führt Russland einen brutalen Angriffskrieg gegen die Ukraine.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ukrainische „Einflussoperation“ - 40 Tage, die Putin schwer zugesetzt haben",
-      "excerpt": "Ukrainische Drohnenangriffe schwächen Russlands Wirtschaft, bringen aber keinen Frieden.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukrainische-einflussoperation-40-tage-die-putin-schwer-zugesetzt-haben-6a71c7d047f8c988ecd617a4",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Für 416 Millionen Euro - Blick auf Geheimbaustelle von Pistorius",
-      "excerpt": "Pistorius lässt seinen Berliner Dienstsitz für 416 Millionen Euro massiv ausbauen.",
-      "url": "https://www.bild.de/politik/inland/fuer-416-millionen-euro-blick-auf-geheimbaustelle-von-pistorius-6a72023d47f8c988ecd61e2d",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ermittlungsverfahren gestoppt - Frida (14) war starr vor Angst, aber sie weinte und schrie nicht",
-      "excerpt": "Diese Familie gibt nicht auf, obwohl das Verfahren zu einer Vergewaltigung eingestellt wurde.",
-      "url": "https://www.bild.de/politik/inland/verfahren-zu-vergewaltigung-gestoppt-frida-14-hatte-angst-aber-sie-schrie-nicht-6a6df811aa498e31a519a986",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Vor Besuch des Präsidenten - Bewaffneter Mann auf Trump-Golfplatz festgenommen",
-      "excerpt": "US-Präsident Donald Trump (80) besucht am Dienstag ein Spendendinner in Kalifornien.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bewaffneter-mann-auf-golfplatz-von-donald-trump-festgenommen-6a727d54cc46967c04caef1e",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Pflege, Jobs, Sozialkassen - Zivildienst-Comeback: Was wird jetzt besser?",
-      "excerpt": "Der BILD-Check: Löst ein neuer Zivildienst den Pflege- und Fachkräftemangel?",
-      "url": "https://www.bild.de/politik/inland/zivildienst-comeback-was-kann-besser-werden-bei-pflege-sozialkassen-jobs-6a71bb5edf3bf7ee07797750",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Erste Zahlen nach Börsengang - SpaceX macht Millionenminus, aber weniger als erwartet",
-      "excerpt": "Elon Musks Raumfahrtkonzern SpaceX hat seine ersten Quartalszahlen vorgelegt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/erste-zahlen-nach-boersengang-spacex-macht-millionenminus-aber-weniger-als-erwartet-6a72493647f8c988ecd6222d",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Angriff auf Händler in Cherson - Russische Drohne jagt Zivilist",
-      "excerpt": "Eine Drohne verfolgt einen 52-Jährigen um sein Auto, bis sie explodiert.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/angriff-auf-haendler-in-cherson-russische-drohne-jagt-zivilist-6a722c494bc688bc1d63ad63",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach CDU-Auftritt in Sachsen-Anhalt - Jetzt nennt Schulze Hallervordens Aussagen „grundfalsch“",
-      "excerpt": "Magdeburg – „Völkermord“ in Gaza, „Kriegsminister“ Pistorius, Kritik an Kanzler Merz: Mit diesen Aussagen sorgte Kabarettist Dieter ...",
-      "url": "https://www.bild.de/politik/inland/nach-cdu-auftritt-in-sachsen-anhalt-jetzt-nennt-schulze-hallervordens-aussagen-grundfalsch-6a71d91b47f8c988ecd61991",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Milliarden Gründe für die Rentenreform!",
-      "excerpt": "Wahlkampf stoppt Reform: Ost-Länder wehren sich gegen das Ende der Rente mit 63.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-milliarden-gruende-fuer-die-rentenreform-6a722a2d4bc688bc1d63ad3e",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Mindestens 14 Menschen sterben - Russischer Raketenhagel auf Kiew",
+      "excerpt": "Die Nacht über Kiew wird zum Albtraum. Sirenen heulen, Explosionen erschüttern die...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/mindestens-14-menschen-sterben-russischer-raketenhagel-auf-kiew-6a72dbec3013d32d67880c03",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
@@ -102,71 +14,199 @@
       "title": "Exklusiv-Interview zum Ceuta-Chaos - Jetzt spricht der Chef-Krisenmanager der EU!",
       "excerpt": "EU-Sheriff Brunner: Wer Schuld an den Toten ist. Was er Spanien vorwirft. Was daraus folgt.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/magnus-brunner-spricht-exklusiv-in-bild-ceuta-war-ein-test-fuer-europa-6a71eea5c52afc46d93d55bf",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Schlimmer war’s dieses Jahr nur im Januar - Schon wieder fast jeder zweite Fernzug verspätet",
-      "excerpt": "Im Juli war nur gut die Hälfte der Fernzüge pünktlich, teils wegen Hitze und Schäden.",
-      "url": "https://www.bild.de/politik/inland/schlimmer-wars-dieses-jahr-nur-im-januar-fast-jeder-zweite-fernzug-verspaetet-6a720e984e4ecbf2a00770e2",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Keine einzige abgefangen! - Russen-Raketen töten mindestens 15 Ukrainer",
+      "excerpt": "Russland beschießt Kiew in der Nacht mit Drohnen und Raketen. Es gibt viele Tote. .",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/keine-einzige-abgefangen-russen-raketen-toeten-mindestens-15-menschen-6a72c831cc46967c04caf0eb",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "„Unverständlich“, „viel zu spät“ - Rechnungshof rechnet mit Merz-Prestigeprojekt ab",
-      "excerpt": "Die Finanzkontrolleure rügen Planungslücken und Risiken.",
-      "url": "https://www.bild.de/politik/inland/bundesrechnungshof-rechnet-mit-prestigeobjekt-von-merz-ab-6a706b4fabec2d71c8bee0a3",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Sogar die Grünen sind sauer - Neue Dortmunder Bahnen fahren ohne Klimaanlagen",
+      "excerpt": "Dortmunds neue Stadtbahnen fahren aus Spar- und Klimagründen ohne Klimaanlage.",
+      "url": "https://www.bild.de/politik/inland/stadtwerke-in-dortmund-wollten-sparen-zoff-um-neue-bahnen-ohne-klimaanlagen-6a70a9db935ebc37ca9d468d",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Heute sehen wir den Milliardenverlust - Schicksalsnacht für Elon Musk und SpaceX",
-      "excerpt": "Sein Raumfahrt-Unternehmen muss heute seine Verluste offenlegen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/spacex-zahlen-schicksalsnacht-fuer-elon-musk-nach-dem-kurssturz-6a71e2a461ec46f846a26fb5",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Finanzierungslücke von 2,2 Milliarden Euro - Ökonomen zerlegen AfD-Wahlprogramm",
+      "excerpt": "Forscher sehen im AfD-Programm ein unbezahlbares Luftschloss mit Milliardenloch.",
+      "url": "https://www.bild.de/politik/inland/finanzierungsluecke-von-2-2-milliarden-euro-oekonomen-zerlegen-wahlprogramm-der-afd-6a72c76947f8c988ecd624f5",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Politik-Vodcast - Vertraulich! „Schwesig als SPD-Chefin wäre schwieriger für Merz“",
-      "excerpt": "In der SPD wächst der Unmut über die Führung, Schwesigs Aufstieg wird diskutiert.",
-      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-schwesig-als-spd-chefin-waere-schwieriger-fuer-merz-6a71e791cc46967c04cae99d",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Live-Ticker - Dutzende Tote durch Russen-Raketen in Kiew",
+      "excerpt": "Russland greift Kiew erneut mit Raketen und Drohnen an, 14 Menschen sterben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Bas und Klingbeil auf Abruf? - „Schwesig als SPD-Chefin wäre schwieriger für Merz“",
-      "excerpt": "In der SPD wächst der Unmut über die Spitze, Schwesig bringt sich als Chefin in Stellung.",
-      "url": "https://www.bild.de/politik/bas-und-klingbeil-auf-abruf-schwesig-als-spd-chefin-waere-schwieriger-fuer-merz-6a71f0a247f8c988ecd61c46",
-      "publishedAt": "2026-08-05T04:29:41.625Z",
+      "title": "Mail von Martenstein - Lieber Cem Özdemir, Sie Brückenbauer!",
+      "excerpt": "Über eines der vielen deutschen Probleme wird wenig gesprochen. Es sind die Brücken.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-lieber-cem-oezdemir-sie-brueckenbauer-6a71fd35cc46967c04caeb5e",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Die Wahrheit über die Krise in Ceuta - „80.000 bis 100.000 Migranten realistisch“",
+      "excerpt": "Global Reporter Tim Röhn gibt Insider-Einblicke in die Lage vor Ort.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ronzheimer-podcast-zur-krise-in-ceuta-80-000-bis-100-000-eine-realistische-zahl-6a71b34ddf3bf7ee077975eb",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ukrainische „Einflussoperation“ - 40 Tage, die Putin schwer zugesetzt haben",
+      "excerpt": "Ukrainische Drohnenangriffe schwächen Russlands Wirtschaft, bringen aber keinen Frieden.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukrainische-einflussoperation-40-tage-die-putin-schwer-zugesetzt-haben-6a71c7d047f8c988ecd617a4",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Für 416 Millionen Euro - Blick auf Geheimbaustelle von Pistorius",
+      "excerpt": "Pistorius lässt seinen Berliner Dienstsitz für 416 Millionen Euro massiv ausbauen.",
+      "url": "https://www.bild.de/politik/inland/fuer-416-millionen-euro-blick-auf-geheimbaustelle-von-pistorius-6a72023d47f8c988ecd61e2d",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ermittlungsverfahren gestoppt - Frida (14) war starr vor Angst, aber sie weinte und schrie nicht",
+      "excerpt": "Diese Familie gibt nicht auf, obwohl das Verfahren zu einer Vergewaltigung eingestellt wurde.",
+      "url": "https://www.bild.de/politik/inland/verfahren-zu-vergewaltigung-gestoppt-frida-14-hatte-angst-aber-sie-schrie-nicht-6a6df811aa498e31a519a986",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vor Besuch des Präsidenten - Bewaffneter Mann auf Trump-Golfplatz festgenommen",
+      "excerpt": "US-Präsident Donald Trump (80) besucht am Dienstag ein Spendendinner in Kalifornien.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bewaffneter-mann-auf-golfplatz-von-donald-trump-festgenommen-6a727d54cc46967c04caef1e",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Pflege, Jobs, Sozialkassen - Zivildienst-Comeback: Was wird jetzt besser?",
+      "excerpt": "Der BILD-Check: Löst ein neuer Zivildienst den Pflege- und Fachkräftemangel?",
+      "url": "https://www.bild.de/politik/inland/zivildienst-comeback-was-kann-besser-werden-bei-pflege-sozialkassen-jobs-6a71bb5edf3bf7ee07797750",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Erste Zahlen nach Börsengang - SpaceX macht Millionenminus, aber weniger als erwartet",
+      "excerpt": "Elon Musks Raumfahrtkonzern SpaceX hat seine ersten Quartalszahlen vorgelegt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/erste-zahlen-nach-boersengang-spacex-macht-millionenminus-aber-weniger-als-erwartet-6a72493647f8c988ecd6222d",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Angriff auf Händler in Cherson - Russische Drohne jagt Zivilist",
+      "excerpt": "Eine Drohne verfolgt einen 52-Jährigen um sein Auto, bis sie explodiert.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/angriff-auf-haendler-in-cherson-russische-drohne-jagt-zivilist-6a722c494bc688bc1d63ad63",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach CDU-Auftritt in Sachsen-Anhalt - Jetzt nennt Schulze Hallervordens Aussagen „grundfalsch“",
+      "excerpt": "Magdeburg – „Völkermord“ in Gaza, „Kriegsminister“ Pistorius, Kritik an Kanzler Merz: Mit diesen Aussagen sorgte Kabarettist Dieter ...",
+      "url": "https://www.bild.de/politik/inland/nach-cdu-auftritt-in-sachsen-anhalt-jetzt-nennt-schulze-hallervordens-aussagen-grundfalsch-6a71d91b47f8c988ecd61991",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Milliarden Gründe für die Rentenreform!",
+      "excerpt": "Wahlkampf stoppt Reform: Ost-Länder wehren sich gegen das Ende der Rente mit 63.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-milliarden-gruende-fuer-die-rentenreform-6a722a2d4bc688bc1d63ad3e",
+      "publishedAt": "2026-08-05T07:25:23.828Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Debatte um Zivildienst - Caritasverband plädiert für Stärkung der Freiwilligendienste",
+      "excerpt": "Die Präsidentin des Deutschen Caritasverbandes, Welskop-Deffaa, hat sich zurückhaltend zu den Plänen für einen möglichen neuen Zivildienst geäußert. Welskop-Deffaa sagte im Deutschlandfunk, was man vor allem brauche, sei",
+      "url": "https://www.deutschlandfunk.de/caritasverband-plaediert-fuer-staerkung-der-freiwilligendienste-104.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Rentenreform - Arbeitgeber \"fassungslos\" über jüngste Debatte zur Frührente",
       "excerpt": "Die Bundesvereinigung der Arbeitergeberverbände BDA kritisiert den Widerstand einiger Ministerpräsidenten von CDU und SPD gegen den geplanten Wegfall der abschlagsfreien Frührente. Man verspiele die vielleicht letzte Cha",
       "url": "https://www.deutschlandfunk.de/arbeitgeber-fassungslos-ueber-juengste-debatte-zur-fruehrente-108.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ukraine - Gegenseitige Angriffe in der Nacht - Ein Toter und mehrere Verletzte",
-      "excerpt": "Russland und die Ukraine haben in der Nacht ihre Kampfhandlungen fortgesetzt.",
-      "url": "https://www.deutschlandfunk.de/gegenseitige-angriffe-in-der-nacht-ein-toter-und-mehrere-verletzte-100.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "title": "Krieg gegen die Ukraine - Mindestens 15 Tote bei russischem Angriff auf Kiew, erneute Attacken auf russischen Versandhändler",
+      "excerpt": "Russland hat in der Nacht erneut die ukrainische Hauptstadt Kiew mit Raketen angegriffen. Wie Bürgermeister Klitschko mitteilte, gab es mindestens 15 Tote und dutzende Verletzte. Die Ukraine attackierte erneut den Online",
+      "url": "https://www.deutschlandfunk.de/mindestens-15-tote-bei-russischem-angriff-auf-kiew-erneute-attacken-auf-russischen-versandhaendler-100.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Debatte um Zivildienst - Arbeiter-Samariter-Bund und Rotes Kreuz formulieren Anforderungen",
-      "excerpt": "In der Debatte um einen möglichen neuen Zivildienst haben der Arbeiter-Samariter-Bund und das Deutsche Rote Kreuz konkrete Anforderungen formuliert.",
-      "url": "https://www.deutschlandfunk.de/arbeiter-samariter-bund-und-rotes-kreuz-formulieren-anforderungen-102.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "title": "US-Gesundheitsbehörde CDC - Darm-Erkrankung Cyclosporiasis bereitet sich in den USA aus - mehr als 10.000 bestätigte Fälle",
+      "excerpt": "Die Magen-Darm-Erkrankung Cyclosporiasis ist nicht lebensbedrohlich - doch ein großer Ausbruch wird in den USA immer mehr zum Politikum. Wie die Gesundheitsbehörde CDC in Atlanta mitteilte, sind inzwischen mehr als 10.00",
+      "url": "https://www.deutschlandfunk.de/darm-erkrankung-cyclosporiasis-bereitet-sich-in-den-usa-aus-mehr-als-10-000-bestaetigte-faelle-100.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Künstliche Intelligenz - KI-Modell von Anthropic unternimmt Manipulationsversuch",
+      "excerpt": "Erneut gibt es einen Fall ungesteuerter Hacker-Aktivitäten von Künstlicher Intelligenz. Britische Sicherheitsexperten entdeckten, dass ein KI-Modell der Entwicklerfirma Anthropic bei einem Testlauf versucht hat, eine Sch",
+      "url": "https://www.deutschlandfunk.de/ki-modell-von-anthropic-unternimmt-manipulationsversuch-104.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - Berufungsgericht gibt Klimaschützern im Streit mit der US-Regierung recht",
+      "excerpt": "Die von der US-Regierung veranlasste Streichung von milliardenschweren Klimaschutz-Programmen ist laut einem Gerichtsurteil rechtswidrig.",
+      "url": "https://www.deutschlandfunk.de/berufungsgericht-gibt-klimaschuetzern-im-streit-mit-der-us-regierung-recht-102.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - SpaceX mit Nettoverlust von 541 Millionen Dollar im zweiten Quartal",
+      "excerpt": "Der Raumfahrtkonzern SpaceX hat mit seinem ersten Geschäftsbericht seit dem Rekordbörsengang im Juni die Erwartungen der Anleger enttäuscht.",
+      "url": "https://www.deutschlandfunk.de/spacex-mit-nettoverlust-von-541-millionen-dollar-im-zweiten-quartal-100.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kriminalität - Ermittlern gelingt Schlag gegen Schleuser",
+      "excerpt": "Mehrere deutsche Staatsanwaltschaften sind in einer gemeinsamen Aktion gegen internationale Schleuserkriminalität vorgegangen.",
+      "url": "https://www.deutschlandfunk.de/ermittlern-gelingt-schlag-gegen-schleuser-100.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +214,7 @@
       "title": "E-Auto-Prämie - CSU fordert Umbau zugunsten deutscher Hersteller",
       "excerpt": "Von der staatlichen E-Auto-Prämie sollten nach Ansicht von CSU-Landesgruppenchef Hoffmann vor allem heimische Hersteller profitieren.",
       "url": "https://www.deutschlandfunk.de/csu-fordert-umbau-zugunsten-deutscher-hersteller-108.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,47 +222,7 @@
       "title": "Bundestags-Innenausschuss - Politiker nach Sondersitzung zu CSD-Anschlag: \"Viele offene Fragen\"",
       "excerpt": "Bei der Aufklärung des islamistischen Anschlags am Rande des Berliner Christopher Street Days sehen Innenpolitiker noch viele offene Fragen. Dies habe die Sondersitzung des Innenausschusses deutlich gemacht, erklärte der",
       "url": "https://www.deutschlandfunk.de/politiker-nach-sondersitzung-zu-csd-anschlag-viele-offene-fragen-106.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost-Konflikt - Netanjahu knüpft Gaza-Rückzug an Entwaffnung der Hamas",
-      "excerpt": "Israels Ministerpräsident Netanjahu hat einen Truppenrückzug aus dem Gazastreifen erneut ausgeschlossen.",
-      "url": "https://www.deutschlandfunk.de/netanjahu-knuepft-gaza-rueckzug-an-entwaffnung-der-hamas-104.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Naher Osten - Weitere Gespräche zwischen Israel und Libanon in Rom",
-      "excerpt": "In Rom sind israelische und libanesische Regierungsvertreter zu direkten politischen Gesprächen zusammengekommen.",
-      "url": "https://www.deutschlandfunk.de/weitere-gespraeche-zwischen-israel-und-libanon-in-rom-108.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Öffnung der Straße von Hormus - Vermittler Katar meldet Fortschritte bei indirekten Verhandlungen zwischen den USA und dem Iran",
-      "excerpt": "Im Iran-Krieg zeichnet sich nach Angaben des Vermittlers Katar eine Einigung zur Öffnung der Straße von Hormus ab.",
-      "url": "https://www.deutschlandfunk.de/vermittler-katar-meldet-fortschritte-bei-indirekten-verhandlungen-zwischen-den-usa-und-dem-iran-108.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Künstliche Intelligenz - KI-Modell von Anthropic unternimmt Manipulationsversuch",
-      "excerpt": "Erneut gibt es einen Fall ungesteuerter Hacker-Aktivitäten von Künstlicher Intelligenz.",
-      "url": "https://www.deutschlandfunk.de/ki-modell-von-anthropic-unternimmt-manipulationsversuch-104.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niederlande - Waldbrand in Naturschutzgebiet weiterhin nicht unter Kontrolle",
-      "excerpt": "In den Niederlanden kämpfen hunderte Feuerwehrleute weiterhin gegen einen Waldbrand nahe der deutschen Grenze.",
-      "url": "https://www.deutschlandfunk.de/waldbrand-in-naturschutzgebiet-weiterhin-nicht-unter-kontrolle-102.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +230,39 @@
       "title": "Ceuta-Krise - EU-Innenminister geben sich geschlossen - \"Kein Migrant hat Festland erreicht\"",
       "excerpt": "Die EU-Staaten wollen nach ihrem Streit über die Migrationskrise in der spanischen Exklave Ceuta künftig geschlossener auftreten und durch Frühwarnsysteme besser vorbereitet sein. Auch die Beobachtung von Social Media so",
       "url": "https://www.deutschlandfunk.de/eu-innenminister-geben-sich-geschlossen-kein-migrant-hat-festland-erreicht-100.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost-Konflikt - Netanjahu knüpft Gaza-Rückzug an Entwaffnung der Hamas",
+      "excerpt": "Israels Ministerpräsident Netanjahu hat einen Truppenrückzug aus dem Gazastreifen erneut ausgeschlossen.",
+      "url": "https://www.deutschlandfunk.de/netanjahu-knuepft-gaza-rueckzug-an-entwaffnung-der-hamas-104.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Naher Osten - Weitere Gespräche zwischen Israel und Libanon in Rom",
+      "excerpt": "In Rom sind israelische und libanesische Regierungsvertreter zu direkten politischen Gesprächen zusammengekommen.",
+      "url": "https://www.deutschlandfunk.de/weitere-gespraeche-zwischen-israel-und-libanon-in-rom-108.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Öffnung der Straße von Hormus - Vermittler Katar meldet Fortschritte bei indirekten Verhandlungen zwischen den USA und dem Iran",
+      "excerpt": "Im Iran-Krieg zeichnet sich nach Angaben des Vermittlers Katar eine Einigung zur Öffnung der Straße von Hormus ab.",
+      "url": "https://www.deutschlandfunk.de/vermittler-katar-meldet-fortschritte-bei-indirekten-verhandlungen-zwischen-den-usa-und-dem-iran-108.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niederlande - Waldbrand in Naturschutzgebiet weiterhin nicht unter Kontrolle",
+      "excerpt": "In den Niederlanden kämpfen hunderte Feuerwehrleute weiterhin gegen einen Waldbrand nahe der deutschen Grenze.",
+      "url": "https://www.deutschlandfunk.de/waldbrand-in-naturschutzgebiet-weiterhin-nicht-unter-kontrolle-102.html",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +270,7 @@
       "title": "Wirtschaft - DIHK berichtet über steigende Zahl von Firmengründungen",
       "excerpt": "Aus Sorge um den eigenen Arbeitsplatz gründen in Deutschland wieder mehr Menschen ‌eine Firma.",
       "url": "https://www.deutschlandfunk.de/dihk-berichtet-ueber-steigende-zahl-von-firmengruendungen-104.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +278,7 @@
       "title": "USA - Neuer Geheimdienstkoordinator Clayton vereidigt - Trumps früherer Anwalt Blanche kann mit Ernennung zum Justizminister rechnen",
       "excerpt": "In den USA hat der neue Geheimdienstkoordinator Clayton sein Amt angetreten.",
       "url": "https://www.deutschlandfunk.de/neuer-geheimdienstkoordinator-clayton-vereidigt-trumps-frueherer-anwalt-blanche-kann-mit-ernennung-z-106.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,44 +286,84 @@
       "title": "Wirtschaft - Erneuter Dax-Rekord dank Hoffnung auf Iran-Einigung",
       "excerpt": "Der Deutsche Aktienindex hat erneut ein Rekordhoch erreicht.",
       "url": "https://www.deutschlandfunk.de/erneuter-dax-rekord-dank-hoffnung-auf-iran-einigung-110.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Rhein, Elbe und Donau - Das sind die Folgen niedriger Flusspegel",
-      "excerpt": "Den großen deutschen Flüssen Rhein, Elbe und Donau fehlt Wasser, ebenso wie vielen anderen Wasserläufen. Vielerorts werden täglich neue Tiefststände erreicht. Besserung ist wegen der andauernden Trockenheit und Hitze vor",
-      "url": "https://www.deutschlandfunk.de/das-sind-die-folgen-niedriger-flusspegel-102.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "+++Krieg in der Ukraine+++: Mindestens 15 Tote in und um Kyjiw",
+      "excerpt": "Laut ukrainischer Luftwaffe konnte die Ukraine konnte bei einem nächtlichen russischen Angriff keine einzige Rakete abschießen. Mehrere Tote und Verletzte. mehr...",
+      "url": "https://taz.de/Krieg-in-der-Ukraine/!6201837/",
+      "publishedAt": "2026-08-05T06:52:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Karibik - Stromversorgung nach landesweitem Ausfall wiederhergestellt",
-      "excerpt": "In Kuba ist die Stromversorgung nach einem erneuten landesweiten Ausfall wiederhergestellt worden.",
-      "url": "https://www.deutschlandfunk.de/stromversorgung-nach-landesweitem-ausfall-wiederhergestellt-102.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Supermarkt mit Genossenschaftsanteilen: Tante Enso, meine Kasse des Vertrauens",
+      "excerpt": "Im Nordwesten Brandenburgs gibt es jetzt einen genossenschaftlich getragenen, rund um die Uhr zugänglichen Supermarkt. Ich will dran glauben. mehr...",
+      "url": "https://taz.de/24h-Supermarkt-im-Nordwesten-von-Brandenburg-Ich-will-daran-glauben/!6196870/",
+      "publishedAt": "2026-08-05T05:26:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Guatemala - Nach Vulkanausbruch: Höchste Warnstufe \"Rot\" für nahgelegene Ortschaften ausgerufen",
-      "excerpt": "In Guatemala haben die Behörden nach dem erneuten Ausbruch des Vulkans Fuego für drei Verwaltungsbezirke die höchste Alarmstufe ausgerufen.",
-      "url": "https://www.deutschlandfunk.de/nach-vulkanausbruch-hoechste-warnstufe-rot-fuer-nahgelegene-ortschaften-ausgerufen-106.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Bissige Gesellschaftssatire „Sheep“: Die Krone der Schöpfung blökt",
+      "excerpt": "Eine Schafherde träumt vom Paradies, ohne zu ahnen, dass ihr Sehnsuchtsort der Schlachthof ist. „Sheep“ ist eine Satire auf Überlegenheitsdenken und andere menschliche Eigenheiten. mehr...",
+      "url": "https://taz.de/Bissige-Gesellschaftssatire-Sheep/!6200654/",
+      "publishedAt": "2026-08-05T05:25:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Amerika - US-Regierung widerruft Visum des brasilianischen Botschafters",
-      "excerpt": "Zwischen den USA und Brasilien gibt es neue diplomatische Spannungen.",
-      "url": "https://www.deutschlandfunk.de/us-regierung-widerruft-visum-des-brasilianischen-botschafters-102.html",
-      "publishedAt": "2026-08-05T04:17:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
+      "excerpt": "Das Aus der abschlagsfreien Frührente ist ein zentraler Punkt der schwarz-roten Rentenreform. Doch seit Tagen machen Teile der Koalition dagegen mobil. Der Arbeitgeberverband zeigt sich darüber \"fassungslos\".",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html",
+      "publishedAt": "2026-08-05T05:24:36.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Fragen nach Ceuta: Die Grenzen der nächsten WM",
+      "excerpt": "Marokko, Spanien und Portugal tragen die Männerfußball-WM 2030 aus. Werden afrikanische Fans ihre Teams in den europäischen Stadien supporten dürfen? mehr...",
+      "url": "https://taz.de/Fragen-nach-Ceuta/!6201625/",
+      "publishedAt": "2026-08-05T05:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Forstwissenschaftler über Brände: „Der Mythos vom Brandstifter hält sich hartnäckig“",
+      "excerpt": "In Europa brennt es. Menschen müssen fliehen, manche starben. Forstwissenschaftler Alexander Held spricht über das Feuer und was wir dagegen tun können. mehr...",
+      "url": "https://taz.de/Forstwissenschaftler-ueber-Braende/!6201777/",
+      "publishedAt": "2026-08-05T05:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wie Skandinavien mit heißen Tagen umgeht: Auch Rentiere suchen Schutz vor der Hitze",
+      "excerpt": "Eine Hitzewelle überrollte 2025 Norwegen, Schweden und Finnland – mit Folgen für Fauna und Flora. Die Länder haben daraus gelernt. mehr...",
+      "url": "https://taz.de/Wie-Skandinavien-mit-heissen-Tagen-umgeht/!6201650/",
+      "publishedAt": "2026-08-05T05:10:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Enorme Gewinne für Ölkonzerne: Bitte abschöpfen!",
+      "excerpt": "BP und andere Ölkonzerne bereichern sich maßlos an den Folgen des Irankriegs. Diese Profite müssen mit einer Übergewinnsteuer zurückgeholt werden. mehr...",
+      "url": "https://taz.de/Enorme-Gewinne-fuer-Oelkonzerne/!6201594/",
+      "publishedAt": "2026-08-05T05:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: „Da kann ich locker mithalten“",
+      "excerpt": "Das Wahrheit-Interview: Steht der alternde Dichter Thomas Gsella bei der Neuverfilmung von „Conan der Barbar“ vor einem Comeback als Filmstar? mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6201555/",
+      "publishedAt": "2026-08-05T05:09:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "News: Urteil gegen junge Neonazis, Geschlechterdebatte um die Staatsspitze, Schrotteinschlag auf dem Mond",
+      "title": "News: Urteil gegen junge Neonazis, Geschlechterdebatte über die Staatsspitze, Schrotteinschlag auf dem Mond",
       "excerpt": "In Hamburg endet der Prozess gegen mutmaßliche Rechtsterroristen. Die SPD warnt vor einem Männerrückfall in der Präsidentendebatte. Und: Raketenschrott kracht auf den Mond. Das ist die Lage am Mittwochmorgen.",
       "url": "https://www.spiegel.de/politik/deutschland/news-urteil-gegen-junge-neonazis-geschlechterdebatte-um-die-staatsspitze-schrotteinschlag-auf-dem-mond-a-5eb71986-1f01-47df-8e96-c4af027e4d49#ref=rss",
       "publishedAt": "2026-08-05T03:49:00.000Z",
@@ -363,30 +435,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Bundeswehr-Serie „Generation Wehrdienst“: Sehnsucht nach der Unfreiheit",
-      "excerpt": "Mit staatlichem Millionenetat produziert die Bundeswehr eine Propaganda-Serie. Das Ergebnis ist geeignet, junge Menschen vom Militär abzuschrecken. mehr...",
-      "url": "https://taz.de/Bundeswehr-Serie-Generation-Wehrdienst/!6198302/",
-      "publishedAt": "2026-08-04T17:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Rechtsextreme Rockmusik: Schwurbelnde Liederkönige, schweigende Behörden",
-      "excerpt": "Die Bundesregierung hat keine Kenntnisse über AfD-Events mit musikalischer Unterstützung von Rechtsrock-Bands. Die Linke hatte nachgefragt. mehr...",
-      "url": "https://taz.de/Rechtsextreme-Rockmusik/!6201606/",
-      "publishedAt": "2026-08-04T17:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wohnungskrise in Barcelona: Hunde erlaubt, Kinder nicht",
-      "excerpt": "Migrantische Mütter wie Luisa Plazas bekommen in Barcelona kaum noch bezahlbare Wohnungen. Tourismus ist für Vermieter lukrativer. mehr...",
-      "url": "https://taz.de/Wohnungskrise-in-Barcelona/!6201571/",
-      "publishedAt": "2026-08-04T17:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Transphobie im Basketball: Die Sache mit dem Menschenverstand",
       "excerpt": "Basketballerin Sophie Cunningham will trans Athletinnen vom Frauensport fernhalten und holt den Kulturkampf in die WNBA. Donald Trump gefällt das. mehr...",
       "url": "https://taz.de/Transphobie-im-Basketball/!6201579/",
@@ -411,34 +459,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "EU-Sondersitzung nach Ceuta: Erst Brandbrief, dann Versöhnung",
-      "excerpt": "Bei einer Krisensitzung zum Fall Ceuta folgt die EU altbekannten Mustern: vage Formulierungen, Beschwichtigung und verbaler Aktionismus. mehr...",
-      "url": "https://taz.de/EU-Sondersitzung-nach-Ceuta/!6201605/",
-      "publishedAt": "2026-08-04T16:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Pflegereform der Bundesregierung: Vorsorge für alle",
       "excerpt": "Die Regierung will Pflegebedürftigkeit verringern – nutzt dafür aber den falschen Ansatz. Warum Prävention früher beginnen und umfassender sein muss. mehr...",
       "url": "https://taz.de/Pflegereform-der-Bundesregierung/!6201603/",
       "publishedAt": "2026-08-04T16:04:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU-Innenministerkonferenz nach Ceuta: Formal gerade so bestanden",
-      "excerpt": "Hinter der Tragödie von Ceuta könnte ein hybrider Angriff auf die EU stecken. Erstmal hat die EU ihn abgewehrt, auf Kosten der Menschlichkeit. mehr...",
-      "url": "https://taz.de/EU-Innenministerkonferenz-nach-Ceuta/!6201631/",
-      "publishedAt": "2026-08-04T15:53:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Auswirkungen von Russlands Angriffskrieg: Gentrifizierung vs. Geldfluss",
-      "excerpt": "Russische Flüchtlinge, die in Nachbarländern sind, werden dort kritisch beäugt. Dabei bringen sie die Volkswirtschaften auf Trab. mehr...",
-      "url": "https://taz.de/Auswirkungen-von-Russlands-Angriffskrieg/!6201570/",
-      "publishedAt": "2026-08-04T15:47:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -471,14 +495,6 @@
       "excerpt": "Der Rheinpegel könnte die Spritpreise beeinflussen. Die EU ist nach dem Migrationsstreit von Ceuta um Einigkeit bemüht. Und: Die Bundesregierung will nicht sagen, wie viele Reden sie mit KI geschrieben hat. Das ist die L",
       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-rhein-niedrigwasser-ceuta-und-ki-chatbots-a-1c9d140c-2fcf-4c65-9d73-ca00d56e5b4a#ref=rss",
       "publishedAt": "2026-08-04T15:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Eziden in Niedersachsen: Anerkennen, gedenken, abschieben",
-      "excerpt": "In Hannover haben Tausende Eziden des zwölften Jahrestags des Völkermordes gedacht. Doch die Anerkennung des Genozids bringt ihnen wenig. mehr...",
-      "url": "https://taz.de/Eziden-in-Niedersachsen/!6201578/",
-      "publishedAt": "2026-08-04T15:07:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -560,14 +576,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/reflecting-pool-pfusch-100.html",
       "publishedAt": "2026-08-04T11:54:19.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Trauma im Film: Ein unablässiges In-sich-selbst-Herumgraben",
-      "excerpt": "Ständig handeln Hollywoodfilme von Traumata. Aber wer sich nur auf die eigene Psyche konzentriert, verpasst es, die Systemfrage zu stellen. mehr...",
-      "url": "https://taz.de/Trauma-im-Film/!6200304/",
-      "publishedAt": "2026-08-04T11:53:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1063,14 +1071,6 @@
       "excerpt": "Klare Mehrheit für den neuen Chef: Der bisherige Kanzleramtsminister Frei ist mit 91,9 Prozent der Stimmen zum Vorsitzenden der Unionsfraktion im Bundestag gewählt worden. Er folgt auf den zurückgetretenen Spahn.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/frei-wahl-fraktionschef-100.html",
       "publishedAt": "2026-07-29T16:25:35.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach CSD-Anschlag: Prien will Programme gegen Radikalisierung stärken",
-      "excerpt": "Der mutmaßliche Attentäter vom Berliner CSD hatte sich früh radikalisiert. Als Konsequenz aus dem Anschlag will Familienministerin Prien Programme stärken, die solche Jugendliche aus dem Extremismus zurückholen sollen.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-radikalisierung-100.html",
-      "publishedAt": "2026-07-29T14:13:33.000Z",
       "category": "INNENPOLITIK"
     },
     {
