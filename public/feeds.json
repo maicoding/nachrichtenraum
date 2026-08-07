@@ -1,116 +1,84 @@
 {
-  "updatedAt": "2026-08-06T15:00:02.550Z",
+  "updatedAt": "2026-08-07T00:31:47.901Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Vorfall am Flughafen Leipzig - Kreml-Hetzer veröffentlicht Video zum Leipzig-Anschlag",
+      "title": "Minister fordert - Schluss mit dem Mimimi um Merz",
+      "excerpt": "Madsen fordert weniger Kritik an Merz und mehr Fokus auf Lösungen und Wohlstand.",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/minister-fordert-schluss-mit-dem-mimimi-um-merz-6a7512160e3689919ec735e0",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - Dutzende Tote durch Russen-Raketen in Kiew",
+      "excerpt": "Russland greift Kiew erneut mit Raketen und Drohnen an, zahlreiche Menschen sterben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lebenslauf von Cambridge-Prof erlogen - Hochstapler-Skandal erschüttert Elite-Uni",
+      "excerpt": "Ein gefeierter Soziologieprofessor fällt wegen erfundener Meriten und Plagiatsvorwürfen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/england-skandal-um-hochstapler-erschuettert-elite-uni-cambridge-6a749f020695ba8b04105fea",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Washington Post“ berichtet - Raketenzoff im Weißen Haus?",
+      "excerpt": "Trump droht Iran, doch Raketen fehlen: Militärische Engpässe setzen ihn unter Druck.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-fuhr-kriegsminister-pete-hegseth-an-raketenzoff-im-weissen-haus-6a749f2ae04765407d9a1904",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Drohnen-Bombe am Flughafen - Kreml-Hetzer veröffentlicht Video zum Leipzig-Anschlag",
       "excerpt": "Russischer TV-Gast reklamiert Leipziger Drohnen-Anschlag als Aktion Moskaus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/flughafen-leipzig-halle-kreml-propagandist-reklamiert-drohnen-anschlag-fuer-moskau-6a748fd20e3689919ec72fa7",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kreditwürdigkeit leidet - Droht Deutschland jetzt der Rating-Absturz?",
-      "excerpt": "Hohe neue Schulden könnten Deutschlands Top-Bonität und Steuergeld gefährden.",
-      "url": "https://www.bild.de/politik/inland/kreditwuerdigkeit-leidet-unter-hohen-schulden-droht-deutschland-jetzt-der-rating-absturz-6a74526c3013d32d6788220a",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Sprengstoff-Drohne am Flughafen Leipzig - Generalbundesanwalt übernimmt Ermittlungen",
+      "excerpt": "Sprengstoff-Drohne am Flughafen Leipzig: Bundesanwaltschaft übernimmt.",
+      "url": "https://www.bild.de/politik/vorfall-am-flughafen-leipzig-generalsbundesanwalt-uebernimmt-ermittlungen-zu-sprengstoff-drohne-6a74c3590695ba8b041062b1",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Perverse Codes - Wörterbuch des Todes enthüllt das Grauen in Putins Armee",
+      "title": "Perverse Codes - Wörterbuch des Grauens in Putins Armee enthüllt",
       "excerpt": "Ein Kriegslexikon zeigt, wie Putins Armee Soldaten systematisch entmenschlicht.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/woerterbuch-des-todes-diese-verstoerenden-codes-enthuellen-das-grauen-in-putins-armee-6a743ff53013d32d67881f76",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD exklusiv - Kamikaze-Drohne war eine Spezialanfertigung",
-      "excerpt": "Es war eine Spezialanfertigung. Die Ermittler prüfen eine Spionage-Spur.",
-      "url": "https://www.bild.de/politik/inland/terroranschlag-in-leipzig-darum-war-die-drohne-fuer-abwehrsysteme-unsichtbar-6a7462654ed0eddcc11f363a",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Neue Satellitenbilder zeigen - Putins Drohnen-Paranoia im Pazifik",
+      "excerpt": "Russland rüstet Pazifik-U-Boote mit Netzen und Käfigen gegen ukrainische Drohnen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-satellitenbilder-zeigen-neue-netze-zur-abwehr-von-drohnen-ueber-u-booten-6a74947a7c1c4ed3d6ab729a",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Warum sagt Dobrindt nichts zu Russland? - „Geheime Erkenntnisse öffentlich machen!“",
-      "excerpt": "Experte sieht Russland hinter Drohnenangriff und fordert klare Reaktion der NATO.",
-      "url": "https://www.bild.de/politik/warum-sagt-dobrindt-nichts-zu-russland-geheime-erkenntnisse-oeffentlich-machen-6a7439264ed0eddcc11f3136",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Vorstoß von Verkehrsminister - Zoff um Sonntagsfahrverbot für Lkw",
-      "excerpt": "Niedrigwasser gefährdet Lieferketten, Streit um Aus für Sonntagsfahrverbot entbrennt.",
-      "url": "https://www.bild.de/politik/inland/nach-vorstoss-von-verkehrsminister-zoff-um-sonntagsfahrverbot-fuer-lkw-6a744c533013d32d67882148",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Semtex kann sogar Metall sprengen - Sprengstoff-Experte erklärt die Drohnen-Bombe",
-      "excerpt": "Experte erklärt, wie gefährlich der an der Leipziger Drohne gefundene Semtex ist.",
-      "url": "https://www.bild.de/politik/semtex-kann-sogar-metall-sprengen-sprengstoff-experte-erklaert-die-drohnen-bombe-6a7462013013d32d67882431",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Interview mit Sachsen-Anhalt-Regent - Wollen Sie den Kanzler stürzen, Herr Schulze?",
-      "excerpt": "Ministerpräsident Schulze schießt weiter gegen die geplante Abschaffung der Rente mit 63, beteuert aber seine Loyalität zu Friedrich Merz.",
-      "url": "https://www.bild.de/politik/inland/sven-schulze-bleibt-bei-seinem-nein-zur-abschaffung-der-rente-mit-63-6a72fc46203ba6592b088cfb",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bank verdient so viel wie nie zuvor - Trotz Rekord-Gewinns! Commerzbank wird geschluckt",
-      "excerpt": "Trotz Rekordgewinn droht der Commerzbank die Übernahme durch Unicredit.",
-      "url": "https://www.bild.de/politik/commerzbank-wird-trotz-rekordgewinn-von-unicredit-geschluckt-6a7444074ed0eddcc11f3247",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Medienbericht - Flugzeug bei Sprengstoff-Drohne war mit Munition beladen",
-      "excerpt": "Neben der Drohne stand ein Frachtjet, dessen Ladung aus Militärmunition bestand.",
-      "url": "https://www.bild.de/politik/inland/medienbericht-flugzeug-bei-sprengstoff-drohne-war-mit-munition-beladen-6a746759cc46967c04cb0a8c",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kameras sollen zeigen - Dschihadisten mischten sich unter Ceuta-Ansturm",
-      "excerpt": "Spanische Behörden prüfen Migranten in Ceuta auf Islamisten und Schwerverbrecher.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-offenbar-radikale-islamisten-unter-eingereisten-migranten-6a734f3f203ba6592b0895f3",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Chefreporter analysiert Drohnen-Foto - „Das ganze Flugzeug wäre in Flammen aufgegangen“",
-      "excerpt": "Sicherheitsbehörden werten Drohnenbombe in Leipzig intern schon als versuchten Angriff.",
-      "url": "https://www.bild.de/politik/bild-chefreporter-analysiert-drohnen-foto-das-ganze-flugzeug-waere-in-flammen-aufgegangen-6a730fafcc46967c04caf6fe",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Steffen Bilger - „Auf Straße oder Schiene ausweichen“",
-      "excerpt": "Neuer Verkehrsminister beruft Krisengipfel wegen extremem Niedrigwasser im Rhein ein.",
-      "url": "https://www.bild.de/politik/inland/steffen-bilger-zum-niedrigwasser-im-rhein-auf-strasse-oder-schiene-ausweichen-6a7423cf9dc7b2ea7491324f",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Fremde Mächte • Wettrüsten - Die 5 Dobrindt-Worte, die uns Sorgen machen",
-      "excerpt": "Sprengstoffdrohne bei Leipzig enthüllt hybride Bedrohung und gefährliches Wettrüsten.",
-      "url": "https://www.bild.de/politik/inland/drohnenbombe-am-leipziger-flughafen-die-5-dobrindt-worte-die-uns-sorgen-machen-und-was-sie-bedeuten-6a742adbcc46967c04cb0426",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Radikal-Plan für Berlin - Kann die Linke einfach so enteignen?",
+      "excerpt": "Linken-Chefin Schwerdtner knüpft Regierungsbündnis in Berlin an Enteignungen.",
+      "url": "https://www.bild.de/politik/inland/wahl-in-berlin-linke-macht-enteignungen-zur-bedingung-fuer-koalition-geht-das-6a7470938df5ff08dbdd602f",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
@@ -118,200 +86,136 @@
       "title": "Putins Killer in Deutschland unterwegs? - Ermittler verhindern offenbar Attentat auf deutschen Rüstungschef",
       "excerpt": "Russland-nahe Agenten sollen einen Drohnen-Unternehmer aus Bayern ausgespäht haben.",
       "url": "https://www.bild.de/politik/inland/putins-killer-in-deutschland-ermittler-verhindern-offenbar-attentat-auf-ruestungschef-6a74391537343a2e069f96af",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Microsoft warnt vor Angriffswelle - Russische Hacker-Falle im Hotel-WLAN",
-      "excerpt": "Russische Hacker greifen Reisende über manipulierte Hotel-WLANs mit Schadsoftware an.",
-      "url": "https://www.bild.de/politik/microsoft-warnt-vor-weltweiter-angriffswelle-russische-hacker-falle-im-hotel-wlan-6a743da13013d32d67881f10",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Nach Vorstoß von Verkehrsminister - Zoff um Sonntagsfahrverbot für Lkw",
+      "excerpt": "Niedrigwasser gefährdet Lieferketten, Streit um Aus für Sonntagsfahrverbot entbrennt.",
+      "url": "https://www.bild.de/politik/inland/nach-vorstoss-von-verkehrsminister-zoff-um-sonntagsfahrverbot-fuer-lkw-6a744c533013d32d67882148",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "„Vorsätzliches Staatsversagen“ - Köln verhinderte offenbar 500 Abschiebungen",
-      "excerpt": "Köln lehnte Hilfe für Abschiebungen ab und setzte auf Bleibeperspektiven.",
-      "url": "https://www.bild.de/politik/inland/koeln-lehnte-abschiebe-hilfe-fuer-500-faelle-ab-6a743b8737343a2e069f96de",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Nach BILD-Informationen - Doch keine Munition im Ukraine-Flieger!",
+      "excerpt": "Neben der Drohne stand ein Frachtjet, dessen Ladung aus Militärmunition bestand.",
+      "url": "https://www.bild.de/politik/inland/medienbericht-flugzeug-bei-sprengstoff-drohne-war-mit-munition-beladen-6a746759cc46967c04cb0a8c",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ärzte-Chef will höhere Steuern - „Deutsche sind dicker und rauchen mehr“",
-      "excerpt": "Kassenärzte-Chef Gassen verlangt schärfere Vorsorge und höhere Steuern auf Suchtmittel.",
-      "url": "https://www.bild.de/politik/inland/aerztechef-schlaegt-alarm-deutsche-sind-dicker-und-rauchen-mehr-6a7437723013d32d67881e8e",
-      "publishedAt": "2026-08-06T15:00:02.140Z",
+      "title": "Hamsa (34) will von Ceuta nach Deutschland - „Die Menschen da sollen freundlich sein“",
+      "excerpt": "Hamsa sitzt in Ceuta fest, doch er will nach Europa und hofft auf Asyl in Deutschland.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/hamsa-34-will-von-ceuta-nach-deutschland-die-menschen-da-sollen-freundlich-sein-6a7490c5b57992c9965d3182",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
       "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Verband BD - Drohnenabwehr an großen Flughäfen soll rasch modernisiert werden",
-      "excerpt": "Die Ausstattung der deutschen Flughäfen mit neuerster Drohnenabwehrtechnik schreitet nach Angaben des Bundesluftfahrtverbands BDL rasch voran.",
-      "url": "https://www.deutschlandfunk.de/drohnenabwehr-an-grossen-flughaefen-soll-rasch-modernisiert-werden-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "BILD.DE",
+      "title": "Politik-Vodcast - Vertraulich! - „Geheime Erkenntnisse öffentlich machen!“",
+      "excerpt": "Experten vermuten nach Drohnenanschlag auf Flughafen Leipzig Russland als Täter.",
+      "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-geheime-erkenntnisse-oeffentlich-machen-6a7499b40695ba8b04105f3c",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Drohnen-Vorfall in Leipzig/Halle - Medien: Ukrainisches Frachtflugzeug hatte Munition geladen",
-      "excerpt": "Nach dem Fund einer Sprengstoff-Drohne am Flughafen Leipzig/Halle werden die Ermittlungen fortgesetzt. Medienberichten zufolge war das Antonow-Frachtflugzeug, neben dem die Drohne stand, mit militärischer Munition belade",
-      "url": "https://www.deutschlandfunk.de/medien-ukrainisches-frachtflugzeug-hatte-munition-geladen-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "BILD.DE",
+      "title": "Verkauf für 6,7 Milliarden Euro - US-Investor gewinnt Milliarden-Poker um Easyjet",
+      "excerpt": "Apollo bietet Milliarden für Easyjet, doch Behörden und Aktionäre entscheiden mit.",
+      "url": "https://www.bild.de/politik/easyjet-soll-fuer-6-7-milliarden-euro-verkauft-werden-us-investor-gewinnt-milliarden-poker-6a74a0bbb57992c9965d334c",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach Ansturm - Präsident von Ceuta: \"100 Menschen ums Leben gekommen\" - EU-Parlament debattiert über Migration und Grenzsicherung",
-      "excerpt": "Bei dem Andrang auf die spanische Nordafrika-Exklave Ceuta sind nach jüngsten Angaben 100 Menschen ums Leben gekommen.",
-      "url": "https://www.deutschlandfunk.de/praesident-von-ceuta-100-menschen-ums-leben-gekommen-eu-parlament-debattiert-ueber-migration-und-gre-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "BILD.DE",
+      "title": "Wahlversprechen im Check - Was die AfD wirklich umsetzen kann – und was nicht",
+      "excerpt": "Der AfD-Showdown in Sachsen-Anhalt rückt immer näher.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-diese-wahlversprechen-kann-die-afd-umsetzen-und-diese-nicht-6a71973d61ec46f846a26837",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Oberlandesgericht - Attentäter des Auto-Anschlags in München zu lebenslanger Haft verurteilt",
-      "excerpt": "Das Oberlandesgericht München hat einen Mann wegen des Anschlags mit einem Fahrzeug auf eine Verdi-Demonstration zu lebenslanger Haft verurteilt. Das Gericht befand den 25-jährigen Afghanen unter anderem des zweifachen M",
-      "url": "https://www.deutschlandfunk.de/attentaeter-des-auto-anschlags-in-muenchen-zu-lebenslanger-haft-verurteilt-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "BILD.DE",
+      "title": "In einem Monat wird gewählt - Extreme Kontrollen beim Wahlkampf in Sachsen-Anhalt",
+      "excerpt": "Ein Korrespondent erklärt, wie die Wahl in Sachsen-Anhalt vieles verändern kann.",
+      "url": "https://www.bild.de/politik/in-einem-monat-wird-gewaehlt-extreme-kontrollen-beim-wahlkampf-in-sachsen-anhalt-6a7496fc0695ba8b04105ef5",
+      "publishedAt": "2026-08-07T00:31:47.898Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Niedrigwasser - Bundesverkehrsminister Bilger erwägt Aufhebung des Sonntagsfahrverbots für Lkw",
-      "excerpt": "Angesichts des Niedrigwassers auf den Flüssen erwägt Bundesverkehrsminister Bilger eine vorübergehende Aufhebung des Sonntagsfahrverbots für Lastwagen.",
-      "url": "https://www.deutschlandfunk.de/bundesverkehrsminister-bilger-erwaegt-aufhebung-des-sonntagsfahrverbots-fuer-lkw-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Flughafen Leipzig/Halle: Bundesanwaltschaft ermittelt zu Sprengstoff-Drohne",
+      "excerpt": "Die Bundesanwaltschaft hat im Fall der Drohne am Flughafen Leipzig/Halle die Ermittlungen an sich gezogen. Es handele sich um einen \"schwerwiegenden Angriff auf die Transport- und Logistikinfrastruktur in Deutschland\", h",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesanwaltschaft-leipzig-100.html",
+      "publishedAt": "2026-08-06T18:59:08.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Bonn - Vor Niedrigwasser-Krisensitzung: Nordrhein-Westfalens Verkehrsminister Krischer fordert mehr Anstrengungen vom Bund",
-      "excerpt": "Der nordrhein-westfälische Verkehrsminister Krischer hat vor der heutigen Krisensitzung zum Niedrigwasser der deutschen Flüsse mehr Anstrengungen vom Bund gefordert. Das Thema werde in Zukunft regelmäßig auf der Tagesord",
-      "url": "https://www.deutschlandfunk.de/vor-niedrigwasser-krisensitzung-nordrhein-westfalens-verkehrsminister-krischer-fordert-mehr-anstreng-102.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Arzneimittelbehörde lässt neuen mRNA-Impfstoff gegen Grippe zu",
+      "excerpt": "Pünktlich zur Grippesaison soll es in den USA einen neuen mRNA-Impfstoff von Moderna geben. Es ist die weltweit erste Zulassung eines Grippevakzins mit reiner mRNA-Technologie. Im US-Gesundheitsministerium herrscht jedoc",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-mrna-grippe-impfstoff-100.html",
+      "publishedAt": "2026-08-06T17:46:30.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Übernahmekampf - Commerzbank geht mit Rekordergebnis in Gespräche mit Unicredit",
-      "excerpt": "Die Commerzbank hat für das zweite Quartal ein Rekordergebnis verzeichnet.",
-      "url": "https://www.deutschlandfunk.de/commerzbank-geht-mit-rekordergebnis-in-gespraeche-mit-unicredit-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "AfD baut Vorsprung zur Union weiter aus - ARD-»Deutschlandtrend«",
+      "excerpt": "Wenige Wochen vor drei Landtagswahlen führt die AfD bundesweit die Umfragen an: Der ARD-»Deutschlandtrend« sieht die extrem rechte Partei bei 28 Prozent, die Union verliert weiter an Zustimmung.",
+      "url": "https://www.spiegel.de/politik/afd-baut-vorsprung-zur-union-weiter-aus-ard-deutschlandtrend-a-85588d32-79b8-4c95-a287-57d02f985b16#ref=rss",
+      "publishedAt": "2026-08-06T16:38:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Schwarzarbeit im Visier - Zoll führt Razzien in NRW und in Saarbrücken durch",
-      "excerpt": "Der Zoll hat im Zusammenhang mit dem Verdacht der Schwarzarbeit in der Gebäudereinigungsbranche zahlreiche Razzien durchgeführt.",
-      "url": "https://www.deutschlandfunk.de/zoll-fuehrt-razzien-in-nrw-und-in-saarbruecken-durch-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Drohne am Leipziger Flughafen, Wahl-O-Mat für Sachsen-Anhalt, Sommerhit 2026",
+      "excerpt": "Deutsche Politiker fordern mehr Klarheit nach dem Drohnenfund von Leipzig. Der Wahl-O-Mat steht bereit. Und: Der Sommerhit des Jahres kommt von Shakira und Burna Boy. Das ist die Lage am Donnerstagabend.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-drohne-am-leipziger-flughafen-wahl-o-mat-fuer-sachsen-anhalt-sommerhit-2026-a-2842ec9b-5c4d-476f-9a3d-8006c3e438e0#ref=rss",
+      "publishedAt": "2026-08-06T16:03:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Hohe Temperaturen - Bündnisse von Verbänden in Deutschland und Europa verlangen verbindliche Hitzeschutzmaßnahmen",
-      "excerpt": "Ein Zusammenschluss aus 36 Organisationen fordert mehr Einsatz der Bundesregierung für den Klima- und Hitzeschutz.",
-      "url": "https://www.deutschlandfunk.de/buendnisse-von-verbaenden-in-deutschland-und-europa-verlangen-verbindliche-hitzeschutzmassnahmen-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Drohnenvorfall am Leipziger Flughafen: Alexander Dobrindt hält sich auffällig zurück",
+      "excerpt": "Der Drohnenfund in Leipzig soll ein Fall für die Nato werden, das fordern jetzt erste deutsche Politiker. Aber die Bundesregierung tritt defensiv auf und wird dafür auch von Vertretern der Koalition kritisiert.",
+      "url": "https://www.spiegel.de/politik/deutschland/drohnenvorfall-am-leipziger-flughafen-alexander-dobrindt-haelt-sich-auffaellig-zurueck-a-6a320fde-1f59-4b81-b5c0-8d9db62a6c2c#ref=rss",
+      "publishedAt": "2026-08-06T15:30:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Hitze - RKI: Rund 9.600 Tote allein durch extrem heiße Juni-Woche",
-      "excerpt": "Das Robert Koch-Institut geht von deutlich mehr Todesfällen im Zusammenhang mit der Hitzewelle Ende Juni aus als bislang angenommen. Die Woche vom 22. bis 28. Juni habe in Deutschland zu etwa 9.600 hitzebedingten Sterbef",
-      "url": "https://www.deutschlandfunk.de/rki-rund-9-600-tote-allein-durch-extrem-heisse-juni-woche-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Keine Infos zum Netzwerk des Abdul B.: Das Schweigen des BND",
+      "excerpt": "Schon vor dem Anschlag waren Berliner Sicherheitsbehörden höchst besorgt über die Radikalisierung des mutmaßlichen späteren Attentäters. Sie hofften auf Hilfe des Bundesnachrichtendienstes. Vergebens. Von Michael Götsche",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-bnd-100.html",
+      "publishedAt": "2026-08-06T15:19:48.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Krieg - Schweden übergibt beschlagnahmten Frachter der russischen Schattenflotte an Ukraine",
-      "excerpt": "Schweden übergibt der Ukraine einen beschlagnahmten Frachter der sogenannten russischen Schattenflotte.",
-      "url": "https://www.deutschlandfunk.de/schweden-uebergibt-beschlagnahmten-frachter-der-russischen-schattenflotte-an-ukraine-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Extrem-Niedrigwasser: Bilger will Sonntagsfahrverbot für Lkw lockern",
+      "excerpt": "Das Extrem-Niedrigwasser erschwert den Gütertransport auf Rhein und Donau. Verkehrsminister Bilger will deshalb das Sonntagsfahrverbot für Lkw für besonders betroffene Güter aufheben. Zudem sollen mehr Waren über die Sch",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-niedrigwasser-100.html",
+      "publishedAt": "2026-08-06T15:04:22.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "\"Low-Level-Agent\" - Ukrainer in Thüringen festgenommen - Verdacht auf Spionage von bayerischem Rüstungsunternehmen",
-      "excerpt": "In Thüringen ist ein Mann festgenommen worden, der in Bayern das Gelände eines Rüstungsunternehmens ausspioniert haben soll.",
-      "url": "https://www.deutschlandfunk.de/ukrainer-in-thueringen-festgenommen-verdacht-auf-spionage-von-bayerischem-ruestungsunternehmen-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Was Sie jetzt zur Wahl in Sachsen-Anhalt wissen müssen",
+      "excerpt": "In einem Monat wählt Sachsen-Anhalt einen neuen Landtag. Umfragen deuten auf ein starkes Abschneiden der AfD hin - und eine schwierige Regierungsbildung. Die wichtigsten Fragen und Antworten.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-100.html",
+      "publishedAt": "2026-08-06T14:22:49.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Krieg - Ukraine greift wieder russische Raffinerien an - mehrere Tote bei russischen Attacken",
-      "excerpt": "Die ukrainische Armee hat erneut russische Ölanlagen angegriffen.",
-      "url": "https://www.deutschlandfunk.de/ukraine-greift-wieder-russische-raffinerien-an-mehrere-tote-bei-russischen-attacken-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Japan - Hiroshima gedenkt der Opfer des Atombombenabwurfs vor 81 Jahren",
-      "excerpt": "Im japanischen Hiroshima ist der Opfer des amerikansischen Atombombenabwurfs vor 81 Jahren gedacht worden.",
-      "url": "https://www.deutschlandfunk.de/hiroshima-gedenkt-der-opfer-des-atombombenabwurfs-vor-81-jahren-106.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Karlsruhe - Bundesverfassungsgericht fordert Bundestag zu schnellerer Wahlprüfung auf",
-      "excerpt": "Das Bundesverfassungsgericht hat den Bundestag aufgefordert, Einsprüche gegen die Bundestagswahl rascher zu prüfen.",
-      "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-fordert-bundestag-zu-schnellerer-wahlpruefung-auf-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Urteil im Februar - Berichte: US-Regierung hat Großteil rechtswidrig erhaltener Zölle an Unternehmen zurückgezahlt",
-      "excerpt": "Die US-Regierung hat Berichten zufolge einen Großteil der Zölle zurückgezahlt, die der Oberste Gerichtshof für unrechtmäßig erklärt hatte.",
-      "url": "https://www.deutschlandfunk.de/berichte-us-regierung-hat-grossteil-rechtswidrig-erhaltener-zoelle-an-unternehmen-zurueckgezahlt-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Monatsbilanz - Deutsche Industrie verzeichnet im Juni stärkeres Auftragsplus als erwartet",
-      "excerpt": "Die deutsche Industrie hat im Juni mehr Aufträge erhalten.",
-      "url": "https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juni-staerkeres-auftragsplus-als-erwartet-102.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wasserrettung - DLRG meldet 261 Badetote bis Ende Juli",
-      "excerpt": "In diesem Jahr sind bereits 261 Menschen beim Baden ums Leben gekommen.",
-      "url": "https://www.deutschlandfunk.de/dlrg-meldet-261-badetote-bis-ende-juli-100.html",
-      "publishedAt": "2026-08-06T13:50:48.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Interview zu Ausbildungsvergütung: So hoch wie nie - aber kann man davon leben?",
-      "excerpt": "Schulz, Josephine; Schulten, Thorsten www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/interview-zu-ausbildungsverguetung-so-hoch-wie-nie-aber-kann-man-davon-leben-100.html",
-      "publishedAt": "2026-08-06T12:47:10.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Containerschiff statt Schule: Sommerferien auf See",
-      "excerpt": "Samboll, Thomas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/containerschiff-statt-schule-sommerferien-auf-see-100.html",
-      "publishedAt": "2026-08-06T12:42:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Interview DLRG-Bilanz Badetote: Wie Kinder besser aufs Wasser vorbereiten?",
-      "excerpt": "Schulz, Josephine; Vogt, Ute www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/interview-dlrg-bilanz-badetote-wie-kinder-besser-aufs-wasser-vorbereiten-100.html",
-      "publishedAt": "2026-08-06T12:35:54.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundesverfassungsgericht ermahnt Bundestag zu zeitnaher Wahlprüfung",
+      "excerpt": "Wer eine Bundestagswahl überprüfen lassen will, muss sich ans Parlament wenden. Das Bundesverfassungsgericht hat den Bundestag nun an seine Pflicht zur schnelleren Prüfung von Einsprüchen erinnert. Von Michael-Matthias N",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeserfassungsgericht-ermahnt-bundestag-100.html",
+      "publishedAt": "2026-08-06T13:05:14.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -322,6 +226,14 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Holt Meloni die Atomkraft zurück nach Italien?",
+      "excerpt": "Vor fast 40 Jahren beschlossen die Italiener per Volksentscheid den Ausstieg aus der Atomkraft. Nun treibt Regierungschefin Meloni den Wiedereinstieg voran. Doch ob es dazu kommt, ist alles andere als sicher. Von Anna Gi",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-meloni-kernenergie-100.html",
+      "publishedAt": "2026-08-06T12:17:07.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "9000 Hitzetote in einer Woche: Hausärzte rügen Untätigkeit der Regierung beim Hitzeschutz",
       "excerpt": "Fast 12.000 Hitzetote in diesem Jahr, davon mehr als 9000 allein in einer einzigen Juniwoche. Ärztinnen und Ärzte werfen der Bundesregierung Versagen vor. Sie fordern konkrete Maßnahmen und mehr Geld.",
@@ -330,12 +242,28 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Krisentreffen zu Niedrigwasser: Wenn die Wasserstraßen versiegen",
+      "excerpt": "Deutschlands Flüsse führen Rekord-Niedrigwasser. Vor allem Wirtschaft und Schifffahrt sind massiv betroffen. Verkehrsminister Bilger lädt daher heute zum Krisentreffen. Was kann das bringen?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-verkehrsministerkonferenz-bilger-100.html",
+      "publishedAt": "2026-08-06T11:43:54.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "Johann Wadephul: Auswärtiges Amt blockiert Rückkehr von Steinmeier-Vertrauten",
       "excerpt": "Das Auswärtige Amt liegt im Clinch mit dem Bundespräsidialamt. Zwei enge Mitarbeiter des Staatsoberhaupts möchten zurück ins Ministerium, aber das CDU-geführte Haus will die SPD-nahen Beamten nicht.",
       "url": "https://www.spiegel.de/politik/deutschland/johann-wadephul-auswaertiges-amt-blockiert-rueckkehr-von-steinmeier-vertrauten-a-2f77da83-4051-42f4-a9b7-2ff024eac22d#ref=rss",
       "publishedAt": "2026-08-06T11:21:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Sicherheitsdebatte nach Drohnenfund am Flughafen Leipzig/Halle",
+      "excerpt": "Der Drohnenfund auf dem Flughafen Leipzig/Halle zieht eine Debatte über Sicherheit und die richtige Reaktion nach sich. Die Grünen fordern Beratungen auf NATO-Ebene. Die FDP bemängelt ein \"Zuständigkeitsgerangel\".",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohne-flughafen-leipzig-debatte-sicherheit-100.html",
+      "publishedAt": "2026-08-06T11:10:23.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -347,11 +275,19 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Glosse zur Nachfolge von Frank-Walter Steinmeier als Bundespräsident: Na gut, ich mache es",
+      "title": "Nachfolge von Frank-Walter Steinmeier als Bundespräsident: Na gut, ich mache es",
       "excerpt": "Das höchste Amt im Land ist bald vakant. Die Herren sind sich einig, nach fast acht Jahrzehnten könnte die Zeit für eine Frau als Bundespräsident gekommen sein. Diese Qualifikation bringe ich mit. Wie schwer kann der Res",
-      "url": "https://www.spiegel.de/politik/deutschland/glosse-zur-nachfolge-von-frank-walter-steinmeier-als-bundespraesident-na-gut-ich-mache-es-a-339dac89-3c31-4898-9340-0271f18f2166#ref=rss",
+      "url": "https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-na-gut-ich-mache-es-a-339dac89-3c31-4898-9340-0271f18f2166#ref=rss",
       "publishedAt": "2026-08-06T10:05:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Zur Hitzewelle in Italien: Elisabeth Pongratz, BR",
+      "excerpt": "Zur Hitzewelle in Italien: Elisabeth Pongratz, BR",
+      "url": "https://www.tagesschau.de/video/video-1626882.html",
+      "publishedAt": "2026-08-06T09:24:05.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "SPIEGEL.DE",
@@ -370,12 +306,28 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Israel bestätigt Tod zweier Soldaten im Libanon",
+      "excerpt": "Während Israel und der Libanon weiter über die Umsetzung einer Waffenruhe sprechen, verschärft sich der Konflikt im Südlibanon erneut. Bei Gefechten mit der Hisbollah wurden zwei israelische Soldaten getötet.",
+      "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
+      "publishedAt": "2026-08-06T08:40:20.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "AfD: Warum die Fixierung der Parteien auf die Rechten gefährlich ist",
       "excerpt": "Die verfassungstreuen Parteien finden kein Rezept gegen den Rechtsextremismus. Es würde helfen, wenn sie nicht permanent die falsche Frage stellten.",
       "url": "https://www.spiegel.de/politik/afd-warum-die-fixierung-der-parteien-auf-die-rechten-gefaehrlich-ist-a-17ccd2ad-98e6-42c0-a566-da022470b1b6#ref=rss",
       "publishedAt": "2026-08-06T07:27:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Rufe nach einer Bundespräsidentin werden lauter",
+      "excerpt": "Im Herbst wollen Union und SPD klären, wen sie für die Nachfolge von Bundespräsident Steinmeier vorschlagen. Die SPD will, dass es erstmals eine Frau wird. Die CDU äußert sich weniger eindeutig. Auch der Name eines Manne",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-nachfolge-debatte-100.html",
+      "publishedAt": "2026-08-06T05:57:15.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -386,12 +338,44 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Warum Landflucht die Waldbrandgefahr erhöhen kann",
+      "excerpt": "Immer wieder brennen Wälder in Spanien - und in diesem Jahr so früh wie selten. Wie lassen sich die Feuer verhindern - und welche Rolle spielt die Abwanderung aus ländlichen Gebieten? Ein EU-Forschungsprojekt sucht Antwo",
+      "url": "https://www.tagesschau.de/wissen/klima/spanien-waldbraende-forschung-100.html",
+      "publishedAt": "2026-08-06T04:45:32.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "News: Klima-Krise, Ukraine-Russland-Krieg, Ceuta, Mohamed Salah",
       "excerpt": "Die Klimakatastrophe ist keine ferne Dystopie mehr. Der Ukrainekrieg wird zunehmend zu einem Luftkrieg. Ceuta weiß nicht, wohin mit den gestrandeten Minderjährigen. Das ist die Lage am Donnerstagmorgen.",
       "url": "https://www.spiegel.de/politik/deutschland/news-klima-krise-ukraine-russland-krieg-ceuta-mohamed-salah-a-4b802631-b31d-45bf-b95f-8ae173ebc633#ref=rss",
       "publishedAt": "2026-08-06T03:47:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Sondervermögen - wo das Geld verbaut wird",
+      "excerpt": "500 Milliarden Euro Sonderschulden nimmt der Bund auf - für Investitionen in Infrastruktur und Klimaschutz. Aber wohin genau fließt das Geld? Unterwegs zu Sondervermögen-Baustellen. Von Lissy Kaufmann.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-investitionen-umsetzung-100.html",
+      "publishedAt": "2026-08-06T03:04:41.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Unionsfraktionschef Frei fordert von Bas Tempo bei Rentenreform",
+      "excerpt": "\"Rente mit 63\" - abschaffen oder nicht? Innerhalb von Union und SPD gehen die Meinungen auseinander. Unionsfraktionschef Frei beharrt auf der Abschaffung - und drängt bei Arbeitsministerin Bas auf einen Reformentwurf bis",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/frei-rente-reform-tempo-100.html",
+      "publishedAt": "2026-08-06T02:03:31.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Island verweist Walfang-Gegner des Landes",
+      "excerpt": "Nach zwei Jahren Pause wird in Island wieder Jagd auf Finnwale gemacht. Gegner versuchten, die Walfänger daran zu hindern. Die Küstenwache stürmte das Schiff der Aktivisten. Nach tagelanger Festsetzung werden sie nun aus",
+      "url": "https://www.tagesschau.de/ausland/europa/island-walfang-gegner-100.html",
+      "publishedAt": "2026-08-06T00:36:40.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -402,6 +386,22 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
+      "excerpt": "Berichte mehrerer Medien erzürnen die Trump-Regierung. Demnach seien die Raketen-Bestände des US-Militärs drastisch geschrumpft. Dies habe auch die Entscheidung über neue Angriffe auf Iran beeinflusst. Das Pentagon demen",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
+      "publishedAt": "2026-08-05T16:40:46.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
+      "excerpt": "Im US-Bundesstaat Michigan hat sich der linke Gesundheitspolitiker Abdul El-Sayed knapp die Kandidatur der Demokraten für die Senatswahlen im November gesichert. Die Wahl galt auch als Stimmungstest. Von Sandra Ratzow.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html",
+      "publishedAt": "2026-08-05T16:22:10.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "News des Tages: Wassermangel in den Alpen, Lehren aus Ceuta, Gianni Infantino",
       "excerpt": "In den Alpen herrscht Wassermangel. Die EU macht sich mit ihrer Reaktion auf Ceuta angreifbar. Und: Gianni Infantino lädt zur Krisensitzung. Das ist die Lage am Mittwochabend.",
@@ -410,12 +410,28 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "SPD uneins über Abschaffung der \"Rente mit 63\"",
+      "excerpt": "Der Plan der Bundesregierung, die \"Rente mit 63 Jahren\" abzuschaffen, führt auch innerhalb der SPD zu Debatten. So plädiert der Parlamentarische Geschäftsführer Wiese für Härtefall-Ausnahmen, etwa im Straßenbau oder der ",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html",
+      "publishedAt": "2026-08-05T15:55:48.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "Thomas Bareiß: CDU-Abgeordneter kündigt nach Autounfall Auszeit an",
       "excerpt": "Thomas Bareiß hat einen schweren Unfall gehabt. Bei einer Blutanalyse stellte sich heraus: Er hatte wohl synthetische Betäubungsmittel konsumiert. Nun bittet der CDU-Politiker in einer Erklärung um Entschuldigung.",
       "url": "https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-kuendigt-nach-autounfall-auszeit-an-a-c60760bd-9eb4-4271-8a9b-af7193888672#ref=rss",
       "publishedAt": "2026-08-05T13:38:00.000Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Flüsse im Trockenstress - Ökosystem fehlt die Lebensgrundlage",
+      "excerpt": "Wenn Flüsse kaum noch Wasser führen, trocknen Auen aus, Grundwasserreserven schrumpfen und Schadstoffe aus dem Abwasser treten konzentrierter auf. Fachleute fordern ein neues Wassermanagement und mehr Klimaschutz. Von Sa",
+      "url": "https://www.tagesschau.de/wissen/klima/klimawandel-duerre-niedrigwasser-folgen-100.html",
+      "publishedAt": "2026-08-05T13:02:16.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "SPIEGEL.DE",
@@ -434,6 +450,14 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAGESSCHAU.DE",
+      "title": "Erste Dörfer nach Vulkanausbruch in Guatemala evakuiert",
+      "excerpt": "In einigen Regionen Guatemalas gilt die höchste Warnstufe, denn der Feuervulkan ist wieder ausgebrochen. 1.700 Menschen wurden evakuiert. Behörden sperrten den Zugang zu einem Nachbarvulkan - weil sich Schaulustige in Ge",
+      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-vulkan-ausbruch-100.html",
+      "publishedAt": "2026-08-05T09:34:18.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
       "source": "SPIEGEL.DE",
       "title": "Stadtentwicklung: Wie Bauen und Abriss zur größten Dreckschleuder wurden",
       "excerpt": "Das Errichten und Abreißen von Gebäuden ist die größte Dreckschleuder des Planeten. Daran ändert sich wenig, dabei gäbe es Alternativen.",
@@ -442,84 +466,140 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Zivildienst: Sozialverbände stellen Forderungen für mögliche Wiedereinführung",
-      "excerpt": "Eine mögliche Rückkehr der Wehrpflicht rückt auch den Zivildienst wieder in den Fokus. Die Sozialverbände haben klare Vorstellungen davon, wie dessen Wiedereinführung aussehen müsste, und nennen ihre Bedingungen.",
-      "url": "https://www.spiegel.de/politik/deutschland/zivildienst-sozialverbaende-stellen-forderungen-fuer-moegliche-wiedereinfuehrung-a-9e72abdf-a1c9-4940-ad8c-26122727c109#ref=rss",
-      "publishedAt": "2026-08-05T07:31:00.000Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Cyclospora-Parasit: Mehr als 10.000 Durchfall-Infektionen in den USA",
+      "excerpt": "In den USA verursacht der Cyclospora-Parasit landesweit Durchfall-Erkrankungen. Mehr als 10.000 Menschen sind betroffen, es gibt noch mehr Verdachtsfälle. Als mögliche Ursache gilt verunreinigter Eisbergsalat aus Mexiko.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-parasit-durchfall-erkrankungen-100.html",
+      "publishedAt": "2026-08-05T07:25:43.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "News: Urteil gegen junge Neonazis, Geschlechterdebatte über Staatsspitze, Schrotteinschlag auf Mond",
-      "excerpt": "In Hamburg endet der Prozess gegen mutmaßliche Rechtsterroristen. Die SPD warnt vor einem Männerrückfall in der Präsidentendebatte. Und: Raketenschrott kracht auf den Mond. Das ist die Lage am Mittwochmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-urteil-gegen-junge-neonazis-geschlechterdebatte-um-die-staatsspitze-schrotteinschlag-auf-dem-mond-a-5eb71986-1f01-47df-8e96-c4af027e4d49#ref=rss",
-      "publishedAt": "2026-08-05T03:49:00.000Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
+      "excerpt": "Das Aus der abschlagsfreien Frührente ist ein zentraler Punkt der schwarz-roten Rentenreform. Doch seit Tagen machen Teile der Koalition dagegen mobil. Der Arbeitgeberverband zeigt sich darüber \"fassungslos\".",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html",
+      "publishedAt": "2026-08-05T05:24:36.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Russland verstärkt vor Landtagswahlen in Deutschland offenbar Desinformation",
-      "excerpt": "Mit immer mehr gefälschten Social-Media-Posts über CDU, SPD, ​Grüne und FDP versucht Russland offenbar, Wahlen in Deutschland zu beeinflussen. Sicherheitsexperten rätseln allerdings, warum die Desinformationskampagne auf",
-      "url": "https://www.spiegel.de/politik/russland-verstaerkt-vor-landtagswahlen-offenbar-desinformation-a-31aa02d6-3ba4-48c4-9abe-d5393cd56bbb#ref=rss",
-      "publishedAt": "2026-08-05T02:56:00.000Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Welternährungsprogramm: Hungerkrise in Afghanistan spitzt sich zu",
+      "excerpt": "Viele Länder kürzen ihre Gelder für Entwicklungshilfe - mit verheerenden Folgen: Das Welternährungsprogramm warnt vor einer Ernährungskrise in Afghanistan, die \"außer Kontrolle gerät\" - besonders bei Kindern.",
+      "url": "https://www.tagesschau.de/ausland/hunger-afghanistan-kinder-100.html",
+      "publishedAt": "2026-08-05T00:53:10.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Neue Visaregeln für USA-Studierende - Int. Christian Strowa DAAD",
-      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/neue-visaregeln-fuer-usa-studierende-int-christian-strowa-daad-100.html",
-      "publishedAt": "2026-08-04T12:45:00.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
+      "excerpt": "Wieso war der Islamist auf freiem Fuß, obwohl er als extrem gefährlich galt? Hatten die Sicherheitsbehörden das Berliner Gericht ausreichend informiert? Im Innenausschuss zum CSD-Anschlag gab es darauf keine Antworten. V",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
+      "publishedAt": "2026-08-04T17:57:34.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Sind die Kommunen fit für den Ganztag? Marc Elxnat, Städte- u. Gemeindebund",
-      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/sind-die-kommunen-fit-fuer-den-ganztag-marc-elxnat-staedte-u-gemeindebund-100.html",
-      "publishedAt": "2026-08-04T12:40:00.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
+      "excerpt": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von ",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html",
+      "publishedAt": "2026-08-04T16:57:32.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Fehlstart auf Kosten der Kinder? Elke Alsago, Verdi",
-      "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/fehlstart-auf-kosten-der-kinder-elke-alsago-verdi-100.html",
-      "publishedAt": "2026-08-04T12:37:00.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Migration in spanischer Exklave: Was lernen EU und Spanien aus Ceuta?",
+      "excerpt": "Binnen weniger Tage gelangten Zehntausende Migranten nach Ceuta. Die meisten sind zurück in Marokko, doch die Debatte über den Schutz der EU-Außengrenzen bleibt. Die Menschen in Ceuta versuchen derweil, zur Normalität zu",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migranten-eu-100.html",
+      "publishedAt": "2026-08-04T14:23:59.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Endlich in Kraft: Rechtsanspruch auf Ganztagsbetreuung",
-      "excerpt": "Dierks, Petra www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/endlich-in-kraft-rechtsanspruch-auf-ganztagsbetreuung-100.html",
-      "publishedAt": "2026-08-04T12:36:00.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Ceuta-Krise: EU-Innenminister stellen sich geschlossen hinter Spanien",
+      "excerpt": "Bei einer kurzfristig einberufenen Videokonferenz zu den Vorfällen in Ceuta haben die EU-Innenminister Spanien demonstrativ den Rücken gestärkt. Die Außengrenzen lägen in gemeinsamer europäischer Verantwortung. Das klang",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-innenministerrat-100.html",
+      "publishedAt": "2026-08-04T14:22:14.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Fremdsprachen: Digitale Medien in der Lehre",
-      "excerpt": "Brandau, Bastian www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/fremdsprachen-digitale-medien-in-der-lehre-100.html",
-      "publishedAt": "2026-08-03T12:50:35.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundesregierung erarbeitet Pläne für Zivildienst",
+      "excerpt": "Seit Anfang des Jahres gilt ein neuer Wehrdienst. Dieser umfasst keine Wehrpflicht. Sollte die doch wieder eingeführt werden, könnte auch der verpflichtende Zivildienst zurückkehren. Genau dafür plant die Bundesregierung",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html",
+      "publishedAt": "2026-08-04T12:08:56.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Fremdsprachenlernen mit digitalen Medien - ein Selbstversuch",
-      "excerpt": "Hofmann, Livia www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/fremdsprachenlernen-mit-digitalen-medien-ein-selbstversuch-100.html",
-      "publishedAt": "2026-08-03T12:46:42.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
+      "excerpt": "Ist Spanien für die Krise in Ceuta verantwortlich? Der Migrationsexperte Gerald Knaus verneint das. Die Vorwürfe gegen die Regierung seien eine irrationale Reaktion auf verstörende Bilder. Die EU müsse nun schnell eine E",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-eu-ceuta-marokko-100.html",
+      "publishedAt": "2026-08-04T05:18:48.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "PauseAI - Appell deutscher Wissenschaftler",
-      "excerpt": "Brandau, Bastian www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/podcast-pauseai-apell-deutscher-wissenschaftler-100.html",
-      "publishedAt": "2026-08-03T12:39:58.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Ceuta-Krise: EU-Innenminister beraten über Konsequenzen",
+      "excerpt": "Seit Kurzem gilt das gemeinsame EU-Asylsystem, das Situationen wie in Ceuta verhindern soll. Doch stattdessen ist wieder Streit ausgebrochen - die EU-Innenminister wollen heute versuchen, Lehren aus der Krise zu ziehen. ",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-krisentreffen-ceuta-100.html",
+      "publishedAt": "2026-08-04T03:00:08.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundestags-Innenausschuss tagt zu CSD-Anschlag",
+      "excerpt": "Der islamistische Terroranschlag beim Berliner CSD ist heute Thema im Innenausschuss des Bundestags. Die Teilnehmer der Sondersitzung sind hochrangig - und müssen sich auf viele Fragen gefasst machen. Von Markus Sambale.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-100.html",
+      "publishedAt": "2026-08-04T02:47:03.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Debatte um abschlagsfreie Frührente: Frei sieht keinen Spielraum für Verhandlungen",
+      "excerpt": "Die Debatte um die abschlagsfreie Rente nach 45 Beitragsjahren reißt nicht ab. Nach der Kritik der CDU-Ministerpräsidenten aus dem Osten warnt Unionsfraktionschef Frei vor einem Scheitern der Reform - für Verhandlungen g",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentendebatte-106.html",
+      "publishedAt": "2026-08-04T01:25:48.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
+      "excerpt": "Angesichts des Ukraine-Kriegs und der Trump-Drohungen in Bezug auf Grönland gilt in Dänemark von heute an ein längerer Wehrdienst. Zu den Männern und Frauen, die ihren Dienst antreten, gehört auch Prinzessin Isabella. Vo",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
+      "publishedAt": "2026-08-03T16:25:40.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Stromkrise durch Niedrigwasser der Donau - Rumänien sprengt Felsen",
+      "excerpt": "Rumänien greift wegen des niedrigen Wasserstands der Donau zu ungewöhnlichen Mitteln: Mit einer Sprengung im Fluss soll mehr Wasser zum AKW Cernavoda geleitet werden. Dort, in Ungarn und in Serbien wird zum Stromsparen a",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-donau-100.html",
+      "publishedAt": "2026-08-03T15:10:41.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Andrang in Ceuta fordert Von der Leyen stärkeren EU-Grenzschutz",
+      "excerpt": "Vorwürfe, Rechtfertigungen, Erklärungsversuche: Die Ausnahmesituation in Ceuta hat eine weitere Migrationsdebatte entfacht. EU-Kommissionspräsidentin von der Leyen bemüht sich, die Wogen zu glätten - sieht aber Handlungs",
+      "url": "https://www.tagesschau.de/ausland/europa/vonderleyen-eu-ceuta-100.html",
+      "publishedAt": "2026-08-03T15:09:23.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Aufruf in offenem Brief: Mehr als 1.000 Juristen für AfD-Verbot",
+      "excerpt": "Mehr als 1.000 Juristen fordern ein AfD-Verbot. In einem offenen Brief appellieren sie an die Politik, ein Verbotsverfahren einzuleiten. Es drohe ein \"ernsthafter Schaden\" für die Demokratie.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/juristen-afd-verbot-100.html",
+      "publishedAt": "2026-08-03T14:09:01.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Deutsch-französische Kooperation: Wie soll die atomare Abschreckung aussehen?",
+      "excerpt": "Deutschland und Frankreich wollen bei der atomaren Abschreckung enger zusammenarbeiten. Im Herbst nehmen erstmals deutsche Soldaten an einem französischen Nuklearmanöver teil. Was steckt hinter dem Vorstoß? Von C. Nagel.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-frankreich-nuklearkooperation-100.html",
+      "publishedAt": "2026-08-03T13:20:46.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -528,6 +608,14 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-supersparpreis-verbraucherschuetzer-100.html",
       "publishedAt": "2026-08-03T08:45:50.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Diebstahl von Unternehmerdaten in Liechtenstein sorgt für Aufregung",
+      "excerpt": "Ausgerechnet in Liechtenstein, wo Unternehmer auf Diskretion zählen, ist ein riesiger Datensatz gestohlen worden - konkret eine Liste mit wirtschaftlich tätigen Personen. Wer dahinter steckt, ist noch unklar. Von Thomas ",
+      "url": "https://www.tagesschau.de/ausland/europa/liechtenstein-datendiebstahl-100.html",
+      "publishedAt": "2026-08-03T07:02:15.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -546,44 +634,28 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Queere Vielfalt in Schule und Gesellschaft - Was Bildung bewirken kann",
-      "excerpt": "Ensminger, Petra www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/queere-vielfalt-in-schule-und-gesellschaft-was-bildung-bewirken-kann-102.html",
-      "publishedAt": "2026-08-01T12:05:01.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Tricks gegen Hitze in der Stadt: Von A nach B - möglichst im Schatten",
+      "excerpt": "Deutschland ist mittendrin in der Hitzewelle - an die 40 Grad Celsius kann das Thermometer jetzt anzeigen. Für Menschen in der Stadt wird das besonders zur Belastung. Aber es gibt ein paar Tricks. Von Rebecca Reinhard.",
+      "url": "https://www.tagesschau.de/wissen/klima/hitze-schatten-staedtebau-versiegelung-klimawandel-100.html",
+      "publishedAt": "2026-08-01T12:45:42.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
-      "source": "DLF",
-      "title": "Queere Vielfalt in Schule und Gesellschaft - Was Bildung bewirken kann",
-      "excerpt": "Ensminger, Petra www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/queere-vielfalt-in-schule-und-gesellschaft-was-bildung-bewirken-kann-100.html",
-      "publishedAt": "2026-07-31T12:55:56.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
+      "excerpt": "Britische Forschende haben Langzeitdaten früh geborener Menschen analysiert. Viele der Frühchen führten, so die Ergebnisse, ein gutes Leben. Einige hätten aber Probleme in Beruf, Partnerschaft und Freundschaften. Von Sed",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
+      "publishedAt": "2026-07-31T16:55:18.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
     },
     {
-      "source": "DLF",
-      "title": "Was macht eine gute Sprachförderung aus?",
-      "excerpt": "Brinkmann, Regina www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/was-macht-eine-gute-sprachfoerderung-aus-100.html",
-      "publishedAt": "2026-07-31T12:48:53.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "ABC-Klassen: NRW macht vorschulischen Sprachunterricht zur Pflicht",
-      "excerpt": "Panning, Jonas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/abc-klassen-nrw-macht-vorschulischen-sprachunterricht-zur-pflicht-100.html",
-      "publishedAt": "2026-07-31T12:43:06.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Schullaufbahn von Abdul B.: Wo hat das Bildungssystem versagt?",
-      "excerpt": "Brinkmann, Regina www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/schullaufbahn-von-abdul-b-wo-hat-das-bildungssystem-versagt-100.html",
-      "publishedAt": "2026-07-31T12:36:12.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Studie belegt den Einfluss des Klimawandels auf Feuerwetter",
+      "excerpt": "Hunderttausende Hektar sind seit Jahresbeginn in Europa verbrannt - und die Flammen wüten weiter. Eine neue Studie kommt zu dem Schluss: Der Klimawandel erhöht das Risiko für Waldbrände deutlich. Von S. Hübner.",
+      "url": "https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-100.html",
+      "publishedAt": "2026-07-31T03:17:17.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -602,28 +674,20 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Extreme Hitze: Wie Dachdecker sich schützen",
-      "excerpt": "Brauer, Wolfgang www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/extreme-hitze-wie-dachdecker-sich-schuetzen-100.html",
-      "publishedAt": "2026-07-30T12:57:47.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Erdüberlastungstag - wie belastbar sind die Zahlen?",
+      "excerpt": "Das Datum des Erdüberlastungstags wird jährlich vom internationalen Thinktank Global Footprint Network berechnet - und sorgt für Schlagzeilen. Doch wie belastbar ist diese Kennzahl, und wo liegen ihre Grenzen? Von Stefan",
+      "url": "https://www.tagesschau.de/wissen/klima/erdueberlastung-ressourcen-earth-overshoot-100.html",
+      "publishedAt": "2026-07-30T08:39:49.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
-      "source": "DLF",
-      "title": "Wissenschaft für alle: Herausforderungen und Chancen für Citizen-Science",
-      "excerpt": "Schlemper, Tobias www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/wissenschaft-fuer-alle-herausforderungen-und-chancen-fuer-citizen-science-100.html",
-      "publishedAt": "2026-07-30T12:49:30.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Die \"Warnow-Sonde\": Citizen-Science-Projekt in Mecklenburg-Vorpommern",
-      "excerpt": "Opel, Hannes www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/die-warnow-sonde-citizen-science-projekt-in-mecklenburg-vorpommern-100.html",
-      "publishedAt": "2026-07-30T12:44:47.000Z",
-      "category": "KARRIERE & STUDIUM"
+      "source": "TAGESSCHAU.DE",
+      "title": "Ab heute sind die Ressourcen der Erde aufgebraucht",
+      "excerpt": "Der Erdüberlastungstag markiert symbolisch den Tag im Jahr, an dem die Menschheit mehr natürliche Ressourcen verbraucht hat, als die Erde nachproduzieren kann. In diesem Jahr fällt er auf den 30. Juli. Von Frank Bäumer.",
+      "url": "https://www.tagesschau.de/wissen/klima/erdueberlastungstag-ressourcenverbrauch-weltweit-100.html",
+      "publishedAt": "2026-07-30T05:24:51.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -632,6 +696,30 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hund-flugzeug-urlaub-100.html",
       "publishedAt": "2026-07-29T12:23:50.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Welche Folgen die neuen Energiegesetze haben",
+      "excerpt": "Das Kabinett hat sich auf neue Energiegesetze geeinigt. Welche Folgen haben sie für Haushalte mit eigenen Solaranlagen und für den Ausbau der Windenergie? Wie bewerten Experten den nun gefundenen Kompromiss? Von K. Janse",
+      "url": "https://www.tagesschau.de/wissen/klima/faq-eeg-reform-100.html",
+      "publishedAt": "2026-07-29T11:35:05.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Zwei Todesfälle in Deutschland durch Vibrionen-Infektion",
+      "excerpt": "Vibrionen sind natürlicher Bestandteil von Gewässern wie der Ostsee. Sie können schwere Infektionen auslösen. In diesem Jahr vermehren sich die Bakterien stark. Ein Infektion lässt sich aber gut behandeln - wenn sie erka",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/tote-nach-vibrionen-infektion-100.html",
+      "publishedAt": "2026-07-29T10:38:15.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
+      "excerpt": "Extreme Hitze, ausgetrocknete Böden, starker Wind: Im Süden Europas wüten Waldbrände. Forschende warnen, dass solche Ereignisse durch den Klimawandel häufiger werden - und suchen nach Wegen, die Risiken zu minimieren. Vo",
+      "url": "https://www.tagesschau.de/wissen/klima/waldbraende-europa-klima-erderwaermung-100.html",
+      "publishedAt": "2026-07-29T07:17:06.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -659,11 +747,43 @@
     },
     {
       "source": "TAGESSCHAU.DE",
+      "title": "So steht es um die weltweite Aids-Bekämpfung",
+      "excerpt": "In Rio de Janeiro treffen sich von heute an Tausende Menschen zur internationalen Aids-Konferenz - dem größten und wichtigsten Forum zum Thema HIV und Aids. Wie steht es um die Forschung? Ein Überblick von Daniela Remus.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/aids-stand-der-forschung-100.html",
+      "publishedAt": "2026-07-26T06:27:34.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
       "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
       "excerpt": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1.000 Euro. Von Philipp Wundersee.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
       "publishedAt": "2026-07-25T16:10:14.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "So schützen Kleingärten vor Hitze",
+      "excerpt": "Natürliche Klimaanlagen bei Hitze: Kleingärten können die Temperaturen ihrer Umgebung um mehrere Grad senken. Gerade in urbanen Räumen gewinnen sie an Bedeutung - auch als Speicher von Kohlenstoff. Von Rebecca Nordin Men",
+      "url": "https://www.tagesschau.de/wissen/klima/kleingaerten-klimaschutz-100.html",
+      "publishedAt": "2026-07-25T07:47:36.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "PMOS - ein oft unerkanntes Gesundheitsrisiko bei Frauen",
+      "excerpt": "Etwa jede achte Frau ist davon betroffen, trotzdem ist sie bislang kaum bekannt: die Hormonstörung PMOS - ehemals PCOS. Der neue Name und eine Leitlinie für Patientinnen sollen jetzt eine bessere Versorgung ermöglichen. ",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/hormonstoerung-pmos-100.html",
+      "publishedAt": "2026-07-24T08:34:08.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie Wälder sich nach Großbränden selbst erneuern",
+      "excerpt": "Ganz Europa ist zu trocken, in vielen Regionen brennen die Wälder. Was für Menschen, Tiere und Vegetation zur Katastrophe werden kann, ist auch Teil eines Kreislaufes. Von Gerald Perschke.",
+      "url": "https://www.tagesschau.de/wissen/klima/rolle-waldbraende-natur-100.html",
+      "publishedAt": "2026-07-23T15:21:51.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -683,6 +803,22 @@
     },
     {
       "source": "TAGESSCHAU.DE",
+      "title": "Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen",
+      "excerpt": "Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen",
+      "url": "https://www.tagesschau.de/video/video-1619198.html",
+      "publishedAt": "2026-07-23T08:37:03.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Aktuelle Dürre in Europa durch Klimawandel verursacht",
+      "excerpt": "Die aktuelle Dürre ist nicht nur in großen Teilen Deutschlands, sondern in ganz Europa sichtbar. Aktuelle Forschung zeigt: Das ist der Klimawandel. Fehlender Regen spielt eher eine untergeordnete Rolle. Von Florian Zinne",
+      "url": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html",
+      "publishedAt": "2026-07-22T23:01:35.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
       "title": "Wo Tanken besonders teuer ist - und wo sich sparen lässt",
       "excerpt": "Wer mit dem Auto unterwegs ist, kann je nach Land und Region unterschiedlich viel fürs Tanken bezahlen. Wo Sprit in Europa besonders teuer oder günstig ist und worauf Reisende achten sollten. Von Michelle Goddemeier.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-sprit-preise-ausland-100.html",
@@ -696,6 +832,14 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizung-foerderung-kfw-100.html",
       "publishedAt": "2026-07-21T12:42:34.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Klimawandel bedroht lebenswichtige Mikroalgen",
+      "excerpt": "Während Seetang am Strand eher stört, ist die Mikroalge für unser Überleben unabdingbar. Forschende haben herausgefunden, dass schon geringe Temperaturveränderungen Mikroalgen aus dem Gleichgewicht bringen können. Von Fl",
+      "url": "https://www.tagesschau.de/wissen/klima/mikroalgen-klimawandel-100.html",
+      "publishedAt": "2026-07-21T07:59:07.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -720,6 +864,150 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html",
       "publishedAt": "2026-07-20T10:41:31.000Z",
       "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "EU verbietet Vernichtung unverkaufter Kleidung - wie wirksam ist das?",
+      "excerpt": "Ab heute dürfen große Unternehmen unverkaufte Kleidung und Schuhe nicht mehr einfach so vernichten. Die EU will dadurch Ressourcen schonen und Textilmüll reduzieren. Doch es gibt Zweifel, ob das gelingt. Von Aeneas Rooch",
+      "url": "https://www.tagesschau.de/wissen/klima/eu-verbot-kleidung-vernichtung-100.html",
+      "publishedAt": "2026-07-19T08:20:59.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wegovy-Tablette: Was die neue Abnehmpille kann",
+      "excerpt": "Ein Medikament zum Abnehmen gibt es jetzt auch als Tablette. Für Menschen mit Spritzenangst kann das eine Erleichterung sein. Doch die neue Pille ist kein harmloser Lifestyle-Hack. Von Doris Tromballa.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/adipositas-pille-wegovy-zulassung-100.html",
+      "publishedAt": "2026-07-17T04:12:34.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Studie: Wie ein Virus Multiple Sklerose mitauslösen kann",
+      "excerpt": "Das Epstein-Barr-Virus steht seit Jahren im Verdacht, die Autoimmunkrankheit Multiple Sklerose auszulösen. Aber warum? Eine neue Studie findet Hinweise auf überaktive Immunzellen - und weckt Hoffnung auf neue Therapien. ",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/neue-studie-autoimmunkrankheit,multiple-sklerose-virus-100.html",
+      "publishedAt": "2026-07-16T14:08:52.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie Straßen hitzefest werden können",
+      "excerpt": "Die extremen Temperaturen Ende Juni haben vielen Straßen stark zugesetzt. Dabei gäbe es Asphalt, der solchen Belastungen standhält. Er kommt jedoch kaum zum Einsatz - nicht nur wegen höherer Kosten. Von Jan Kerckhoff.",
+      "url": "https://www.tagesschau.de/wissen/klima/hitze-infrastruktur-strassen-100.html",
+      "publishedAt": "2026-07-16T04:25:37.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Gesunder Lebensstil verringert laut WHO auch Demenzrisiko",
+      "excerpt": "Gesundes Essen und Bewegung können einer Demenzerkrankung vorbeugen - aber etwa auch soziale Kontakte, wie die Forschung mittlerweile weiß. Die WHO hat ihre Empfehlungen aktualisiert und benennt auch Risikofaktoren.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/demenz-gesunderlebensstil-studie-100.html",
+      "publishedAt": "2026-07-15T16:23:28.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Mehr Gemüse statt Fleisch - wie das die Landwirtschaft verändern würde",
+      "excerpt": "Das aktuelle Ernährungssystem belastet Klima, Umwelt und Gesundheit. Was würde eine globale Umstellung auf eine gesündere, nachhaltigere Ernährung für die Landwirtschaft bedeuten? Das hat eine Studie untersucht. Von Asya",
+      "url": "https://www.tagesschau.de/wissen/klima/ernaehrungswende-landwirtschaft-100.html",
+      "publishedAt": "2026-07-15T15:12:52.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Fünf Jahre nach der Ahrtal-Flut - welche Rolle spielt der Klimawandel?",
+      "excerpt": "Mitte Juli 2021 kamen in Deutschland infolge von Flutkatastrophen 185 Menschen ums Leben - darunter viele im Ahrtal. Wie konnte es zu solch einem Extremwetterereignis kommen? Von Jennifer Sieglar und Heike Ließmann.",
+      "url": "https://www.tagesschau.de/wissen/klima/flut-ahrtal-klimawandel-100.html",
+      "publishedAt": "2026-07-14T08:09:46.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Brauchen wir bei Hitze mehr Elektrolyte?",
+      "excerpt": "Wenn die Temperaturen steigen, verliert der Körper mit dem Schweiß Wasser und Mineralstoffe. Doch brauchen wir deshalb spezielle Elektrolyt-Getränke? Experten sagen: meist nicht. Ausnahmen gibt es dennoch. Von Inka Zimme",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/elektrolyte-bei-hitze-100.html",
+      "publishedAt": "2026-07-12T03:31:31.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie Hitze auf Zyklus und Menstruation wirken kann",
+      "excerpt": "Das Wochenende bringt in vielen Teilen Deutschlands wieder besonders hohe Temperaturen mit sich. Das kann sich allgemein auf den Körper auswirken - bei Frauen aber auch auf den Zyklus und die Menstruation. Von Laura Gers",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/hitze-menstruation-frauengesundheit-100.html",
+      "publishedAt": "2026-07-11T06:13:02.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Leiden Frauen mehr unter Hitze als Männer?",
+      "excerpt": "Ein aktueller Bericht des Robert Koch-Instituts zeigt: Hitzewellen wie Ende Juni verursachen Tausende zusätzliche Todesfälle. Aber Hitze belastet nicht alle Menschen gleich. Sind Frauen stärker betroffen? Von Laura Gerst",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/frauen-hitze-100.html",
+      "publishedAt": "2026-07-10T08:09:22.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Männer brechen beim Marathon öfter ein als Frauen",
+      "excerpt": "Die sogenannte Marathon-Wand ist berüchtigt: Im letzten Viertel des Laufs verlassen manchen plötzlich die Kräfte. Eine Datenanalyse zeigt: Männer sind häufiger betroffen als Frauen. Von Veronika Simon.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/studie-marathon-100.html",
+      "publishedAt": "2026-07-06T10:03:28.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Können Windräder der Gesundheit schaden? Studie gibt Entwarnung",
+      "excerpt": "Mancherorts befürchten Anwohner, Windräder könnten der Gesundheit schaden. Eine Studie aus den USA unter deutscher Beteiligung gibt Entwarnung. Dennoch raten Forschende, Anwohner mehr in die Planung einzubeziehen. Von Ja",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/windraeder-studie-100.html",
+      "publishedAt": "2026-07-06T08:19:44.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Warum Hitze alle gefährdet - und was künftig schützt",
+      "excerpt": "41,7 Grad in Deutschland - ein Rekord, unter dem längst nicht mehr nur Risikogruppen leiden. Die Gefahr durch Hitze wird oft unterschätzt. Warum selbst Gesunde an ihre Grenzen kommen und wie wir uns besser schützen könne",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/hitze-schutz-104.html",
+      "publishedAt": "2026-07-03T03:25:39.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Studie: HPV-Impfung drückt Krebs-Sterberisiko auf nahezu null",
+      "excerpt": "Eine Impfung gegen Humane Papillomviren (HPV) kann Krebserkrankungen und Todesfälle effektiv verhindern - das zeigt eine aktuelle, englische Studie. Doch in Deutschland wird sie noch zu wenig genutzt. Von Andreas Kegel.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/hp-viren-impfungen-sterberisiko-100.html",
+      "publishedAt": "2026-06-30T14:07:58.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Emotionen beim Sport: Wie Hitze den WM-Fans zu schaffen macht",
+      "excerpt": "Die Hitze setzt auch Fußballfans zu, das zeigen die ersten Ergebnisse von Forschenden der Uni Bielefeld. Mit Smartwatches messen sie, wie emotional die Fans die Spiele der aktuell laufenden WM schauen. Von J. Nestlen und",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/hitze-fussball-fans-100.html",
+      "publishedAt": "2026-06-25T14:06:03.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ist Sonnencreme wirklich schädlich?",
+      "excerpt": "In sozialen Medien kursieren viele Mythen zu Sonnencreme. Immer wieder heißt es, sie sei gesundheitsschädlich oder sogar krebserregend. Natürliche Mittel seien ein besserer Sonnenschutz. Was ist da dran? Von Franziska Eh",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/sonnencreme-mythen-100.html",
+      "publishedAt": "2026-06-25T04:24:25.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Sind Süßstoffe gesundheitsschädlich?",
+      "excerpt": "Süßer Geschmack ohne Kalorien - Süßstoffe machen es möglich. Ihr Nutzen für Diabetiker und zur Gewichtskontrolle ist groß. Aber immer wieder wird über mögliche Gesundheitsgefahren berichtet. Was ist dran? Von Tilman Hass",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/suessstoffe-ernaehrung-100.html",
+      "publishedAt": "2026-06-22T03:15:34.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Studie: Beeinflusst Babynahrung das Risiko für Neurodermitis?",
+      "excerpt": "Juckreiz und schlaflose Nächte - Neurodermitis ist eine enorme Belastung für Babys und deren Eltern. Wie wirkt sich die Ernährung auf das Risiko aus, daran zu erkranken? Das hat nun eine Studie untersucht. Von Constanze ",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/babynahrung-neurodermitis-100.html",
+      "publishedAt": "2026-06-19T10:35:17.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
     }
   ]
 }
