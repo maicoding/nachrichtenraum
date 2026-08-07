@@ -1,100 +1,12 @@
 {
-  "updatedAt": "2026-08-07T05:23:40.829Z",
+  "updatedAt": "2026-08-07T06:52:53.808Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Strack-Zimmermann - Russland steckt hinter der Drohnen-Bombe!",
-      "excerpt": "Sprengstoffdrohne am Flughafen Leipzig/Halle: Strack-Zimmermann sieht Moskau dahinter.",
-      "url": "https://www.bild.de/politik/inland/strack-zimmermann-russland-steckt-hinter-der-drohnen-bombe-6a752846e04765407d9a1e32",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - Dutzende Tote durch Russen-Raketen in Kiew",
-      "excerpt": "Russland greift Kiew erneut mit Raketen und Drohnen an, zahlreiche Menschen sterben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Lebenslauf von Cambridge-Prof erlogen - Hochstapler-Skandal erschüttert Elite-Uni",
-      "excerpt": "Ein gefeierter Soziologieprofessor fällt wegen erfundener Meriten und Plagiatsvorwürfen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/england-skandal-um-hochstapler-erschuettert-elite-uni-cambridge-6a749f020695ba8b04105fea",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Washington Post“ berichtet - Raketenzoff im Weißen Haus?",
-      "excerpt": "Trump droht Iran, doch Raketen fehlen: Militärische Engpässe setzen ihn unter Druck.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-fuhr-kriegsminister-pete-hegseth-an-raketenzoff-im-weissen-haus-6a749f2ae04765407d9a1904",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Drohnen-Bombe am Flughafen - Kreml-Hetzer veröffentlicht Video zum Leipzig-Anschlag",
-      "excerpt": "Russischer TV-Gast reklamiert Leipziger Drohnen-Anschlag als Aktion Moskaus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/flughafen-leipzig-halle-kreml-propagandist-reklamiert-drohnen-anschlag-fuer-moskau-6a748fd20e3689919ec72fa7",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sprengstoff-Drohne am Flughafen Leipzig - Generalbundesanwalt übernimmt Ermittlungen",
-      "excerpt": "Sprengstoff-Drohne am Flughafen Leipzig: Bundesanwaltschaft übernimmt.",
-      "url": "https://www.bild.de/politik/vorfall-am-flughafen-leipzig-generalsbundesanwalt-uebernimmt-ermittlungen-zu-sprengstoff-drohne-6a74c3590695ba8b041062b1",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Perverse Codes - Wörterbuch des Grauens in Putins Armee enthüllt",
-      "excerpt": "Ein Kriegslexikon zeigt, wie Putins Armee Soldaten systematisch entmenschlicht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/woerterbuch-des-todes-diese-verstoerenden-codes-enthuellen-das-grauen-in-putins-armee-6a743ff53013d32d67881f76",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Satellitenbilder zeigen - Putins Drohnen-Paranoia im Pazifik",
-      "excerpt": "Russland rüstet Pazifik-U-Boote mit Netzen und Käfigen gegen ukrainische Drohnen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-satellitenbilder-zeigen-neue-netze-zur-abwehr-von-drohnen-ueber-u-booten-6a74947a7c1c4ed3d6ab729a",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Radikal-Plan für Berlin - Kann die Linke einfach so enteignen?",
-      "excerpt": "Linken-Chefin Schwerdtner knüpft Regierungsbündnis in Berlin an Enteignungen.",
-      "url": "https://www.bild.de/politik/inland/wahl-in-berlin-linke-macht-enteignungen-zur-bedingung-fuer-koalition-geht-das-6a7470938df5ff08dbdd602f",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Putins Killer in Deutschland unterwegs? - Ermittler verhindern offenbar Attentat auf deutschen Rüstungschef",
-      "excerpt": "Russland-nahe Agenten sollen einen Drohnen-Unternehmer aus Bayern ausgespäht haben.",
-      "url": "https://www.bild.de/politik/inland/putins-killer-in-deutschland-ermittler-verhindern-offenbar-attentat-auf-ruestungschef-6a74391537343a2e069f96af",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Vorstoß von Verkehrsminister - Zoff um Sonntagsfahrverbot für Lkw",
-      "excerpt": "Niedrigwasser gefährdet Lieferketten, Streit um Aus für Sonntagsfahrverbot entbrennt.",
-      "url": "https://www.bild.de/politik/inland/nach-vorstoss-von-verkehrsminister-zoff-um-sonntagsfahrverbot-fuer-lkw-6a744c533013d32d67882148",
-      "publishedAt": "2026-08-07T05:23:40.656Z",
+      "title": "Mega-Klatsche für Zuckerberg - Meta muss 567 Millionen Dollar zahlen",
+      "excerpt": "Meta zahlt Millionenstrafe und muss Kinder besser schützen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/klatsche-fuer-zuckerberg-meta-muss-567-millionen-dollar-zahlen-6a75634be04765407d9a1fc7",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
@@ -102,15 +14,15 @@
       "title": "Dax-Konzern - Gewinn bei Daimler Truck um 48 Prozent eingebrochen",
       "excerpt": "Der Gewinn beim Nutzfahrzeughersteller Daimler Truck eingebrochen.",
       "url": "https://www.bild.de/politik/dax-konzern-daimler-truck-gewinn-um-48-prozent-eingebrochen-6a7569e5c07f6c2f080351e3",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Mega-Klatsche für Zuckerberg - Meta muss 567 Millionen Dollar zahlen",
-      "excerpt": "Meta zahlt Millionenstrafe und muss Kinder besser schützen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/klatsche-fuer-zuckerberg-meta-muss-567-millionen-dollar-zahlen-6a75634be04765407d9a1fc7",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "title": "Social-Media-Profile öffnen - Trump will Visa-Vergabe noch strenger machen",
+      "excerpt": "USA planen strengere Visa-Kontrollen und verlangen offene Social-Media-Profile.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bewerber-sollen-profile-von-social-media-oeffnen-trump-will-vergabe-von-visa-noch-strenger-machen-6a7568d20e3689919ec7377f",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +30,7 @@
       "title": "Mail von Martenstein - Lieber Boy George!",
       "excerpt": "Autor vergleicht den Ausschluss von AfD-Kandidaten in Niedersachsen mit DDR-Methoden.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/martenstein-ausschluesse-von-kandidaten-der-afd-wie-orwells-1984-6a74b94b0695ba8b04106211",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +38,7 @@
       "title": "Minister fordert - Schluss mit dem Mimimi um Merz",
       "excerpt": "Madsen fordert weniger Kritik an Merz und mehr Fokus auf Lösungen und Wohlstand.",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/minister-fordert-schluss-mit-dem-mimimi-um-merz-6a7512160e3689919ec735e0",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +46,7 @@
       "title": "Ex-Linken-Politiker - Stadtrat lädt zu Swinger-Party ins Rathaus",
       "excerpt": "Politiker Ferrat plant eine Sex-Party im Rathaus und droht bei Verbot mit Klage.",
       "url": "https://www.bild.de/politik/inland/julien-ferrat-politiker-laedt-zum-swingen-ins-rathaus-von-mannheim-6a74cba4e04765407d9a1b92",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +54,263 @@
       "title": "Wer regiert nach der Wahl? - Die 4 Macht-Szenarien für Sachsen-Anhalt",
       "excerpt": "AfD führt vor Landtagswahl deutlich, Experten sehen mehrere Machtoptionen.",
       "url": "https://www.bild.de/politik/inland/wer-wird-nach-der-wahl-regieren-die-4-macht-szenarien-fuer-sachsen-anhalt-6a7340d0cc46967c04cafbd7",
-      "publishedAt": "2026-08-07T05:23:40.655Z",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Strack-Zimmermann - Russland steckt hinter der Drohnen-Bombe!",
+      "excerpt": "Sprengstoffdrohne am Flughafen Leipzig/Halle: Strack-Zimmermann sieht Moskau dahinter.",
+      "url": "https://www.bild.de/politik/inland/strack-zimmermann-russland-steckt-hinter-der-drohnen-bombe-6a752846e04765407d9a1e32",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker - Dutzende Tote durch Russen-Raketen in Kiew",
+      "excerpt": "Russland greift Kiew erneut mit Raketen und Drohnen an, zahlreiche Menschen sterben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lebenslauf von Cambridge-Prof erlogen - Hochstapler-Skandal erschüttert Elite-Uni",
+      "excerpt": "Ein gefeierter Soziologieprofessor fällt wegen erfundener Meriten und Plagiatsvorwürfen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/england-skandal-um-hochstapler-erschuettert-elite-uni-cambridge-6a749f020695ba8b04105fea",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Washington Post“ berichtet - Raketenzoff im Weißen Haus?",
+      "excerpt": "Trump droht Iran, doch Raketen fehlen: Militärische Engpässe setzen ihn unter Druck.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-fuhr-kriegsminister-pete-hegseth-an-raketenzoff-im-weissen-haus-6a749f2ae04765407d9a1904",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Drohnen-Bombe am Flughafen - Kreml-Hetzer veröffentlicht Video zum Leipzig-Anschlag",
+      "excerpt": "Russischer TV-Gast reklamiert Leipziger Drohnen-Anschlag als Aktion Moskaus.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/flughafen-leipzig-halle-kreml-propagandist-reklamiert-drohnen-anschlag-fuer-moskau-6a748fd20e3689919ec72fa7",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sprengstoff-Drohne am Flughafen Leipzig - Generalbundesanwalt übernimmt Ermittlungen",
+      "excerpt": "Sprengstoff-Drohne am Flughafen Leipzig: Bundesanwaltschaft übernimmt.",
+      "url": "https://www.bild.de/politik/vorfall-am-flughafen-leipzig-generalsbundesanwalt-uebernimmt-ermittlungen-zu-sprengstoff-drohne-6a74c3590695ba8b041062b1",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Perverse Codes - Wörterbuch des Grauens in Putins Armee enthüllt",
+      "excerpt": "Ein Kriegslexikon zeigt, wie Putins Armee Soldaten systematisch entmenschlicht.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/woerterbuch-des-todes-diese-verstoerenden-codes-enthuellen-das-grauen-in-putins-armee-6a743ff53013d32d67881f76",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Satellitenbilder zeigen - Putins Drohnen-Paranoia im Pazifik",
+      "excerpt": "Russland rüstet Pazifik-U-Boote mit Netzen und Käfigen gegen ukrainische Drohnen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-satellitenbilder-zeigen-neue-netze-zur-abwehr-von-drohnen-ueber-u-booten-6a74947a7c1c4ed3d6ab729a",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Radikal-Plan für Berlin - Kann die Linke einfach so enteignen?",
+      "excerpt": "Linken-Chefin Schwerdtner knüpft Regierungsbündnis in Berlin an Enteignungen.",
+      "url": "https://www.bild.de/politik/inland/wahl-in-berlin-linke-macht-enteignungen-zur-bedingung-fuer-koalition-geht-das-6a7470938df5ff08dbdd602f",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Putins Killer in Deutschland unterwegs? - Ermittler verhindern offenbar Attentat auf deutschen Rüstungschef",
+      "excerpt": "Russland-nahe Agenten sollen einen Drohnen-Unternehmer aus Bayern ausgespäht haben.",
+      "url": "https://www.bild.de/politik/inland/putins-killer-in-deutschland-ermittler-verhindern-offenbar-attentat-auf-ruestungschef-6a74391537343a2e069f96af",
+      "publishedAt": "2026-08-07T06:52:53.699Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "+++ Nachrichten im Iran-Krieg +++: 58 Soldaten im Jemen bei Huthi-Angriffen getötet",
+      "excerpt": "Im Jemen werden Angriffe der vom Iran unterstützten Miliz gemeldet. Saudi-Arabien warnt vor einer koordinierten Angriffswelle irakischer Milizen und Huthis. mehr...",
+      "url": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6202471/",
+      "publishedAt": "2026-08-07T06:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Mexiko: Neue Festnahme im Fall der 43 verschleppten Studenten",
+      "excerpt": "2014 wurden 43 Studenten vermutlich von korrupten Polizisten entführt und einem Drogenkartell übergeben. Zwölf Jahre später wurde jetzt der damalige Gouverneur des Bundesstaats Guerrero festgenommen – er soll die Aufklär",
+      "url": "https://www.spiegel.de/politik/mexiko-neue-festnahme-im-fall-der-43-verschleppten-studenten-a-9c0b56a6-f124-46a0-b210-d37c8ffcc2d7#ref=rss",
+      "publishedAt": "2026-08-07T06:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Drohne am Flughafen Leipzig/Halle - CDU-Verteidigungspolitiker Röwekamp: Innenministerium muss zentral für Drohnenabwehr zuständig sein",
+      "excerpt": "Nach dem Fund einer Sprengstoff-Drohne am Flughafen Leipzig/Halle fordert der Verteidigungsausschuss-Vorsitzende Röwekamp eine zentrale Zuständigkeit für die Abwehr solcher Fluggeräte. Statt bei einer Vielzahl föderaler ",
+      "url": "https://www.deutschlandfunk.de/cdu-verteidigungspolitiker-roewekamp-innenministerium-muss-zentral-fuer-drohnenabwehr-zustaendig-sei-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nutzfahrzeughersteller - Quartalsgewinn bei Daimler Truck um fast 50 Prozent eingebrochen",
+      "excerpt": "Der Nutzfahrzeughersteller Daimler Truck meldet für das zweite Quartal einen Gewinneinbruch von 48 Prozent.",
+      "url": "https://www.deutschlandfunk.de/quartalsgewinn-bei-daimler-truck-um-fast-50-prozent-eingebrochen-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Dekrete unterzeichnet - US-Präsident Donald Trump schränkt Staatsbürgerschaftsrecht ein",
+      "excerpt": "US-Präsident Trump hat zwei Dekrete unterzeichnet, um das ‌Recht auf ⁠die Staatsbürgerschaft durch ⁠Geburt in den Vereinigten Staaten einzuschränken.",
+      "url": "https://www.deutschlandfunk.de/us-praesident-donald-trump-schraenkt-staatsbuergerschaftsrecht-ein-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Facebook-Mutterkonzern - Meta zu Millionenstrafe verurteilt, Gericht sieht Kinder gefährdet",
+      "excerpt": "Der Facebook-Mutterkonzern Meta ist in den USA wegen Gefährdung der psychischen Gesundheit ‌von Kindern zu ⁠einer Strafe von ⁠567 Millionen Dollar verurteilt worden. Für das Unternehmen ist das ein weiterer Rückschlag.",
+      "url": "https://www.deutschlandfunk.de/meta-zu-millionenstrafe-verurteilt-gericht-sieht-kinder-gefaehrdet-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Neue russische Angriffe auf landwirtschaftliche Anlagen – Online-Händler Wildberries meldet Brand in Logistikzentrum in Jekaterinburg",
+      "excerpt": "Die russische Armee setzt ihre Drohnenangriffe auf landwirtschaftliche Anlagen in der Ukraine fort.",
+      "url": "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-landwirtschaftliche-anlagen-online-haendler-wildberries-meldet-brand-in--100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schutzmaßnahmen gefordert - Ärzte-Präsident Reinhardt: Viele Todesfälle durch Hitze wären vermeidbar",
+      "excerpt": "In diesem Jahr sind nach Angaben des Robert Koch-Instituts bereits etwa 12.000 Menschen an den Folgen von Hitze gestorben. Der Präsident der Bundesärztekammer, Reinhardt, hält viele Todesfälle für vermeidbar und fordert ",
+      "url": "https://www.deutschlandfunk.de/aerzte-praesident-reinhardt-viele-todesfaelle-durch-hitze-waeren-vermeidbar-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tanker auf Grund gelaufen - Vor der Küste des Oman droht eine Ölkatastrophe",
+      "excerpt": "Vor der Küste des Oman ist ein Tanker auf Grund gelaufen. Satellitenaufnahmen zufolge treten immer größere Mengen Öl aus. Verbände warnen vor einer schweren Umweltkatastrophe.",
+      "url": "https://www.deutschlandfunk.de/vor-der-kueste-des-oman-droht-eine-oelkatastrophe-102.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "US-Vermittlung - Regierung und Opposition in Venezuela beginnen offiziellen Dialog, aber ohne Machado",
+      "excerpt": "In Venezuela hat ein Dialog zwischen der autokratischen Regierung und Teilen der Opposition begonnen.",
+      "url": "https://www.deutschlandfunk.de/regierung-und-opposition-in-venezuela-beginnen-offiziellen-dialog-aber-ohne-machado-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - 58 Soldaten im Jemen bei Huthi-Angriffen getötet, Geschosse erreichen auch saudisches Gebiet und verletzen dort Menschen",
+      "excerpt": "Im Jemen sind bei Angriffen der vom Iran unterstützten Huthi-Miliz auf Regierungskräfte Berichten zufolge mindestens 58 Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/58-soldaten-im-jemen-bei-huthi-angriffen-getoetet-geschosse-erreichen-auch-saudisches-gebiet-und-ver-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Raumfahrt - Satellit fotografiert Einschlagstelle von Raketenteil auf dem Mond",
+      "excerpt": "Nach dem Einschlag eines Raketenteils auf der Mondoberfläche gibt es erste Bilder von dem Ort.",
+      "url": "https://www.deutschlandfunk.de/satellit-fotografiert-einschlagstelle-von-raketenteil-auf-dem-mond-104.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Beweismittel vernichtet? - Ermittlungen zu verschleppten Studenten in Mexiko: Ex-Gouverneur festgenommen",
+      "excerpt": "In Mexiko ist im Zuge der Ermittlungen zu seit den seit dem Jahr 2014 vermissten 43 Studenten ein früherer Gouverneur festgenommen worden.",
+      "url": "https://www.deutschlandfunk.de/ermittlungen-zu-verschleppten-studenten-in-mexiko-ex-gouverneur-festgenommen-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Israel sieht vorerst von weiterem Rückzug aus Libanons Süden ab",
+      "excerpt": "Israel will seine Truppen nach Angaben des Libanon zunächst nicht aus weiteren Gebieten im Süden des Landes zurückziehen.",
+      "url": "https://www.deutschlandfunk.de/israel-sieht-vorerst-von-weiterem-rueckzug-aus-libanons-sueden-ab-102.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Syrien - Zwei Tote bei Explosion in Vorort von Damaskus",
+      "excerpt": "Nahe der syrischen Hauptstadt Damaskus ist ein Sprengsatz explodiert und hat mindestens zwei Menschen getötet.",
+      "url": "https://www.deutschlandfunk.de/zwei-tote-bei-explosion-in-vorort-von-damaskus-106.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sprengstoffdrohne in Leipzig - Sicherheitsexperte: \"Deutschland ist bei Erkennung und Abwehr von Drohnen nicht auf Stand der Dinge\"",
+      "excerpt": "Der Sicherheitsexperte Nico Lange sieht Deutschland unzureichend auf hybride Angriffe mit Drohnen vorbereitet. Im Deutschlandfunk sagte er, niemand habe den Anschlag auf den Leipziger Flughafen abgewehrt - es sei ledigli",
+      "url": "https://www.deutschlandfunk.de/sicherheitsexperte-deutschland-ist-bei-erkennung-und-abwehr-von-drohnen-nicht-auf-stand-der-dinge-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kommunen - Hitze in Deutschland: Städte- und Gemeindebund fordert \"Kraftakt\" für Wasserversorgung und Klimaanpassung\"",
+      "excerpt": "Der Deutsche Städte- und Gemeindebund fordert angesichts der anhaltenden Hitze einen nationalen Kraftakt für Wasserversorgung und Klimaanpassung in den Kommunen.",
+      "url": "https://www.deutschlandfunk.de/hitze-in-deutschland-staedte-und-gemeindebund-fordert-kraftakt-fuer-wasserversorgung-und-klimaanpass-100.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Extremtemperaturen - Wohnungslosenhilfe warnt vor Hitze-Folgen für Obdachlose",
+      "excerpt": "Die Bundesarbeitsgemeinschaft Wohnungslosenhilfe warnt wegen der Sommerhitze vor lebensgefährlichen Folgen für Obdachlose.",
+      "url": "https://www.deutschlandfunk.de/wohnungslosenhilfe-warnt-vor-hitze-folgen-fuer-obdachlose-108.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Spitzentreffen in Bonn - Bundesverkehrsminister Bilger kündigt Sofortmaßnahmen gegen Niedrigwasser-Folgen an",
+      "excerpt": "Bundesverkehrsminister Bilger hat angesichts des anhaltenden Niedrigwassers auf wichtigen Flüssen kurzfristige Hilfsmaßnahmen für die Wirtschaft angekündigt. Ziel sei es, Lieferketten auf Rhein, Donau und Elbe trotz der ",
+      "url": "https://www.deutschlandfunk.de/bundesverkehrsminister-bilger-kuendigt-sofortmassnahmen-gegen-niedrigwasser-folgen-an-102.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtag - Bayern: Dritter AfD-Abgeordnete steht unter Beobachtung des Verfassungsschutzes",
+      "excerpt": "In Bayern steht der stellvertretende Fraktionschef der AfD, Nolte, unter Beobachtung des Landesverfassungsschutzes.",
+      "url": "https://www.deutschlandfunk.de/bayern-dritter-afd-abgeordnete-steht-unter-beobachtung-des-verfassungsschutzes-106.html",
+      "publishedAt": "2026-08-07T06:33:45.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Nahost: Huthi-Angriffe erschweren Friedensbemühungen und verunsichern Riad",
+      "excerpt": "Saudi-Arabien rechnet angeblich mit einer koordinierten Angriffswelle irakischer Milizen und jemenitischer Rebellen – und meldet in der Nacht eine Attacke. US-Präsident Trump gibt sich optimistisch.",
+      "url": "https://www.spiegel.de/politik/nahost-huthi-angriffe-erschweren-friedensbemuehungen-und-verunsichern-riad-a-1702adea-64e4-4b77-9d6a-af12b12eef9e#ref=rss",
+      "publishedAt": "2026-08-07T06:05:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -156,7 +324,7 @@
     {
       "source": "SPIEGEL.DE",
       "title": "USA: Social-Media-Konten von Visa-Antragstellern sollen stärker geprüft werden",
-      "excerpt": "Wer in die USA einreisen will, könnte künftig deutlich mehr von seinem digitalen Leben preisgeben müssen. Die Trump-Regierung will die Überprüfung von Social-Media-Konten auch auf ausländische Medienvertreter ausweisen.",
+      "excerpt": "Wer in die USA einreisen will, könnte künftig deutlich mehr von seinem digitalen Leben preisgeben müssen. Die Trump-Regierung will die Überprüfung von Social-Media-Konten auch auf ausländische Medienvertreter ausweiten.",
       "url": "https://www.spiegel.de/politik/usa-social-media-konten-von-visa-antragstellern-sollen-staerker-geprueft-werden-a-e1330ec4-7ef4-4e1c-990e-ab038ecfcea4#ref=rss",
       "publishedAt": "2026-08-07T05:09:00.000Z",
       "category": "POLITIK"
@@ -179,155 +347,11 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Antifas in Sachsen-Anhalt: Druck gegen rechts",
+      "title": "Antifas in Sachsen-Anhalt: Der Ernstfall",
       "excerpt": "Im September droht mit der AfD in Sachsen-Anhalt erstmals nach 1945 eine rechtsextreme Partei die Macht zu übernehmen. Wie bereiten sich Antifas vor? mehr...",
       "url": "https://taz.de/Antifas-in-Sachsen-Anhalt/!6200627/",
       "publishedAt": "2026-08-07T05:04:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Flughafen Leipzig/Halle - Sprengstoffdrohne: Bundesanwaltschaft übernimmt Ermittlungen - \"Schwerwiegender Angriff auf Logistikinfrastruktur\"",
-      "excerpt": "Nach dem Fund einer Sprengstoff-Drohne am Leipziger Flughafen hat die Bundesanwaltschaft die Ermittlungen wegen der besonderen Bedeutung des Falls übernommen. Es bestehe der Verdacht des versuchten Herbeiführens einer Sp",
-      "url": "https://www.deutschlandfunk.de/sprengstoffdrohne-bundesanwaltschaft-uebernimmt-ermittlungen-schwerwiegender-angriff-auf-logistikinf-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sprengstoffdrohne in Leipzig - Sicherheitsexperte: \"Deutschland ist bei Erkennung und Abwehr von Drohnen nicht auf Stand der Dinge\"",
-      "excerpt": "Der Sicherheitsexperte Nico Lange sieht Deutschland unzureichend auf hybride Angriffe mit Drohnen vorbereitet. Im Deutschlandfunk sagte er, niemand habe den Anschlag auf den Leipziger Flughafen abgewehrt - es sei ledigli",
-      "url": "https://www.deutschlandfunk.de/sicherheitsexperte-deutschland-ist-bei-erkennung-und-abwehr-von-drohnen-nicht-auf-stand-der-dinge-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Meta zu Millionenstrafe verurteilt, Gericht sieht Kinder gefährdet",
-      "excerpt": "Der Facebook-Mutterkonzern Meta ist in den USA wegen Gefährdung der psychischen Gesundheit ‌von Kindern zu ⁠einer Strafe von ⁠567 Millionen Dollar verurteilt worden. Für das Unternehmen ist das ein weiterer Rückschlag.",
-      "url": "https://www.deutschlandfunk.de/meta-zu-millionenstrafe-verurteilt-gericht-sieht-kinder-gefaehrdet-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Erderwärmung - Städte- und Gemeindebund fordert \"Kraftakt\" für Wasserversorgung und Klimaanpassung\"",
-      "excerpt": "Der Deutsche Städte- und Gemeindebund fordert angesichts der anhaltenden Hitze einen nationalen Kraftakt für Wasserversorgung und Klimaanpassung in den Kommunen.",
-      "url": "https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-kraftakt-fuer-wasserversorgung-und-klimaanpassung-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheit - Medienbericht: Millionenverluste von Krankenkassen durch Investments",
-      "excerpt": "Mehrere Krankenkassen und Kassenärztliche Vereinigungen haben nach einer Medienrecherche 220 Millionen Euro durch Investments verloren.",
-      "url": "https://www.deutschlandfunk.de/medienbericht-millionenverluste-von-krankenkassen-durch-investments-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "US-Vermittlung - Regierung und Opposition in Venezuela beginnen offiziellen Dialog, aber ohne Machado",
-      "excerpt": "In Venezuela hat ein Dialog zwischen der autokratischen Regierung und Teilen der Opposition begonnen.",
-      "url": "https://www.deutschlandfunk.de/regierung-und-opposition-in-venezuela-beginnen-offiziellen-dialog-aber-ohne-machado-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Beweismittel vernichtet? - Ermittlungen zu verschleppten Studenten in Mexiko: Ex-Gouverneur festgenommen",
-      "excerpt": "In Mexiko ist im Zuge der Ermittlungen zu seit den Jahr 2014 vermissten 43 Studenten ein früherer Gouverneur festgenommen worden.",
-      "url": "https://www.deutschlandfunk.de/ermittlungen-zu-verschleppten-studenten-in-mexiko-ex-gouverneur-festgenommen-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Raumfahrt - Satellit fotografiert Einschlagstelle von Raketenteil auf dem Mond",
-      "excerpt": "Nach dem Einschlag eines Raketenteils auf der Mondoberfläche gibt es erste Bilder von dem Ort.",
-      "url": "https://www.deutschlandfunk.de/satellit-fotografiert-einschlagstelle-von-raketenteil-auf-dem-mond-104.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Tanker auf Grund gelaufen - Vor der Küste des Oman droht eine Ölkatastrophe",
-      "excerpt": "Vor der Küste des Oman ist ein Tanker auf Grund gelaufen. Satellitenaufnahmen zufolge treten immer größere Mengen Öl aus. Verbände warnen vor einer schweren Umweltkatastrophe.",
-      "url": "https://www.deutschlandfunk.de/vor-der-kueste-des-oman-droht-eine-oelkatastrophe-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - 58 Soldaten im Jemen bei Huthi-Angriffen getötet, Geschosse erreichen auch saudisches Gebiet und verletzen dort Menschen",
-      "excerpt": "Im Jemen sind bei Angriffen der vom Iran unterstützten Huthi-Miliz auf Regierungskräfte Berichten zufolge mindestens 58 Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/58-soldaten-im-jemen-bei-huthi-angriffen-getoetet-geschosse-erreichen-auch-saudisches-gebiet-und-ver-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Israel sieht vorerst von weiterem Rückzug aus Libanons Süden ab",
-      "excerpt": "Israel will seine Truppen nach Angaben des Libanon zunächst nicht aus weiteren Gebieten im Süden des Landes zurückziehen.",
-      "url": "https://www.deutschlandfunk.de/israel-sieht-vorerst-von-weiterem-rueckzug-aus-libanons-sueden-ab-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Syrien - Zwei Tote bei Explosion in Vorort von Damaskus",
-      "excerpt": "Nahe der syrischen Hauptstadt Damaskus ist ein Sprengsatz explodiert und hat mindestens zwei Menschen getötet.",
-      "url": "https://www.deutschlandfunk.de/zwei-tote-bei-explosion-in-vorort-von-damaskus-106.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Extremtemperaturen - Wohnungslosenhilfe warnt vor Hitze-Folgen für Obdachlose",
-      "excerpt": "Die Bundesarbeitsgemeinschaft Wohnungslosenhilfe warnt wegen der Sommerhitze vor lebensgefährlichen Folgen für Obdachlose.",
-      "url": "https://www.deutschlandfunk.de/wohnungslosenhilfe-warnt-vor-hitze-folgen-fuer-obdachlose-108.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Spitzentreffen in Bonn - Bundesverkehrsminister Bilger kündigt Sofortmaßnahmen gegen Niedrigwasser-Folgen an",
-      "excerpt": "Bundesverkehrsminister Bilger hat angesichts des anhaltenden Niedrigwassers auf wichtigen Flüssen kurzfristige Hilfsmaßnahmen für die Wirtschaft angekündigt. Ziel sei es, Lieferketten auf Rhein, Donau und Elbe trotz der ",
-      "url": "https://www.deutschlandfunk.de/bundesverkehrsminister-bilger-kuendigt-sofortmassnahmen-gegen-niedrigwasser-folgen-an-102.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landtag - Bayern: Dritter AfD-Abgeordnete steht unter Beobachtung des Verfassungsschutzes",
-      "excerpt": "In Bayern steht der stellvertretende Fraktionschef der AfD, Nolte, unter Beobachtung des Landesverfassungsschutzes.",
-      "url": "https://www.deutschlandfunk.de/bayern-dritter-afd-abgeordnete-steht-unter-beobachtung-des-verfassungsschutzes-106.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nordrhein-Westfalen - Zwei mutmaßliche IS-Mitglieder festgenommen",
-      "excerpt": "In Nordrhein-Westfalen sind zwei Terrorverdächtige festgenommen worden.",
-      "url": "https://www.deutschlandfunk.de/zwei-mutmassliche-is-mitglieder-festgenommen-106.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Arbeitsbesuch - Erdogan reist zu Gesprächen nach Saudi-Arabien, Berichte über neues Sicherheitsabkommen",
-      "excerpt": "Der türkische Präsident Erdogan reist heute nach Saudi-Arabien.",
-      "url": "https://www.deutschlandfunk.de/erdogan-reist-zu-gespraechen-nach-saudi-arabien-berichte-ueber-neues-sicherheitsabkommen-100.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wettbewerbshüter - Illegale Absprachen bei Straßenreparaturen: Kartellamt verhängt Millionenbußen",
-      "excerpt": "Das Bundeskartellamt hat wegen verbotener Absprachen bei der Reparatur von Straßen Geldbußen von insgesamt 60,3 Millionen Euro verhängt.",
-      "url": "https://www.deutschlandfunk.de/illegale-absprachen-bei-strassenreparaturen-kartellamt-verhaengt-millionenbussen-104.html",
-      "publishedAt": "2026-08-07T05:03:29.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -455,14 +479,6 @@
       "excerpt": "Wenige Wochen vor drei Landtagswahlen führt die AfD bundesweit die Umfragen an: Der ARD-»Deutschlandtrend« sieht die extrem rechte Partei bei 28 Prozent, die Union verliert weiter an Zustimmung.",
       "url": "https://www.spiegel.de/politik/afd-baut-vorsprung-zur-union-weiter-aus-ard-deutschlandtrend-a-85588d32-79b8-4c95-a287-57d02f985b16#ref=rss",
       "publishedAt": "2026-08-06T16:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "NS-Widerstandskämpferin Hilde Coppi: Schnörkellose Sprache, unmittelbare Empathie",
-      "excerpt": "Hans Coppi jr. nähert sich in einem Buch mit erhaltenen Briefen dem Andenken seiner Eltern Hilde und Hans Coppi an. Sie wurden als Mitglieder der Roten Kapelle von den Nazis ermordet. mehr...",
-      "url": "https://taz.de/NS-Widerstandskaempferin-Hilde-Coppi/!6202051/",
-      "publishedAt": "2026-08-06T16:12:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -770,28 +786,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Thomas Bareiß: CDU-Abgeordneter kündigt nach Autounfall Auszeit an",
-      "excerpt": "Thomas Bareiß hat einen schweren Unfall gehabt. Bei einer Blutanalyse stellte sich heraus: Er hatte wohl synthetische Betäubungsmittel konsumiert. Nun bittet der CDU-Politiker in einer Erklärung um Entschuldigung.",
-      "url": "https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-abgeordneter-kuendigt-nach-autounfall-auszeit-an-a-c60760bd-9eb4-4271-8a9b-af7193888672#ref=rss",
-      "publishedAt": "2026-08-05T13:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Flüsse im Trockenstress - Ökosystem fehlt die Lebensgrundlage",
       "excerpt": "Wenn Flüsse kaum noch Wasser führen, trocknen Auen aus, Grundwasserreserven schrumpfen und Schadstoffe aus dem Abwasser treten konzentrierter auf. Fachleute fordern ein neues Wassermanagement und mehr Klimaschutz. Von Sa",
       "url": "https://www.tagesschau.de/wissen/klima/klimawandel-duerre-niedrigwasser-folgen-100.html",
       "publishedAt": "2026-08-05T13:02:16.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Friedrich Merz: Warum manche Kritik an seiner Personalpolitik überzogen ist",
-      "excerpt": "Manche Medienkollegen wittern bereits eine Kanzlerdämmerung und kritisieren vor allem die Personalpolitik von Friedrich Merz. Dabei sind Medienhäuser nicht immer ein Vorbild in Personalfragen.",
-      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-manche-kritik-an-seiner-personalpolitik-ueberzogen-ist-a-978db257-58db-435d-bc49-734e4665938c#ref=rss",
-      "publishedAt": "2026-08-05T12:35:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
