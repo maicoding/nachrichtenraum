@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-07T18:01:54.999Z",
+  "updatedAt": "2026-08-07T19:15:23.604Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
-      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
-      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "title": "Wegen Niedrigwasser - Erste Bundesländer heben Sonntagsfahrverbot für Lkw auf",
+      "excerpt": "Rheinland-Pfalz und Saarland erlauben Lkw-Fahrten sonntags wegen Niedrigwasser.",
+      "url": "https://www.bild.de/politik/wegen-niedrigwasser-rheinland-pfalz-hebt-sonntagsfahrverbot-fuer-lkw-auf-6a75efcbe04765407d9a2e20",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD exklusiv - Uns droht eine doppelte Steuer-Sauerei",
-      "excerpt": "Schwarz-Rot hat eine Steuerentlastung angekündigt. Doch es droht ein Schock!",
-      "url": "https://www.bild.de/politik/inland/bild-exklusiv-uns-droht-eine-doppelte-steuer-sauerei-6a7363953013d32d678817b6",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "title": "Unterirdische Raketen-Werkstatt - Riesen-Drohne über sensiblem Bundeswehr-Bunker!",
+      "excerpt": "Sechs Drohnen spionieren geheime Patriot-Werft aus, der Staatsschutz ermittelt.",
+      "url": "https://www.bild.de/politik/inland/riesen-drohne-kreist-ueber-sensiblen-bundeswehr-bunker-mit-geheimer-raketenwerkstatt-6a7609bee04765407d9a2fee",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +22,47 @@
       "title": "„Mekka-Bündnis“ mit Atom-Macht - Drei Islam-Staaten schmieden Militärpakt",
       "excerpt": "Drei Staaten gründen ein Verteidigungsbündnis, das vor allem Iran schwächen soll.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/mekka-buendnis-mit-atom-macht-drei-islam-staaten-schmieden-militaerpakt-6a75e4d94aef843a3227664f",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Milliarden für Waffen und Soldaten - Kims Kasse klingelt dank Putins Krieg",
+      "excerpt": "Nordkorea verdient Milliarden mit Waffen für Russland und rüstet Atomprogramm auf.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/putins-krieg-macht-nordkorea-reich-kim-jong-un-verdient-an-waffengeschaeften-6a75d6ece04765407d9a2b6f",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump in der Iran-Falle - Jetzt kracht es auch bei der US-Wirtschaft",
+      "excerpt": "Schwache Jobzahlen und hohe Kriegskosten setzen Trumps US-Wirtschaft unter Druck.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-in-der-iran-falle-jetzt-kracht-es-auch-bei-der-us-wirtschaft-6a75fda34aef843a3227681e",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Folgenschwere Fehler bei der Bewertung - 100 Schüler erhalten zu schlechte Abschlüsse",
+      "excerpt": "Fehlerhafte Zeugnisse verbauten mehr als 100 Schülern den erreichten Schulabschluss.",
+      "url": "https://www.bild.de/politik/inland/folgenschwere-fehler-bei-der-bewertung-mehr-als-100-schueler-erhalten-zu-schlechte-abschluesse-oder-gar-keinen-6a75d96dc07f6c2f08035bb5",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Uns droht eine doppelte Steuer-Sauerei",
+      "excerpt": "Schwarz-Rot hat eine Steuerentlastung angekündigt. Doch es droht ein Schock!",
+      "url": "https://www.bild.de/politik/inland/bild-exklusiv-uns-droht-eine-doppelte-steuer-sauerei-6a7363953013d32d678817b6",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
+      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
+      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +70,7 @@
       "title": "Lügen-Kampagne aus Russland? - Behörden warnen vor Fake-Video über Merz-Rücktritt",
       "excerpt": "Sicherheitsbehörden warnen vor einer Beeinflussung der Landtagswahlen durch Russland.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sicherheitsbehoerden-warnen-russland-will-landtagswahl-ueber-die-usa-manipulieren-6a75c5cd4aef843a32276378",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +78,7 @@
       "title": "Ost-Wahlkampf gegen die AfD! - Merkel-Mann soll Merz-CDU retten",
       "excerpt": "Ein früherer engerer Mitstreiter von Angela Merkel mischt als Berater in zwei Schicksalswahlkämpfen mit",
       "url": "https://www.bild.de/politik/inland/ost-wahlkampf-gegen-die-afd-merkel-mann-soll-merz-cdu-retten-6a758a5ae04765407d9a2258",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +86,7 @@
       "title": "Kommentar vom BILD-Politikchef - Ein Steuerplan voll Neid und Gier!",
       "excerpt": "Klingbeils Steuerpläne belasten viele Bürger trotz versprochener Entlastung.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-ein-steuerplan-voll-neid-und-gier-6a75f5e4c07f6c2f08035e4c",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +94,7 @@
       "title": "Deutschland, deine Islamisten - So viele Gefährder haben einen deutschen Pass",
       "excerpt": "Der islamistische Terror ist eine der größten Bedrohungen für Deutschland.",
       "url": "https://www.bild.de/politik/inland/islamisten-alarm-so-viele-gefaehrder-haben-keinen-deutschen-pass-6a749fa60695ba8b04105ff3",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -62,15 +102,7 @@
       "title": "Exklusive Zahlen zeigen - Darum ist die „Rente mit 63“ im Osten so wichtig",
       "excerpt": "Bei geringeren Löhnen gilt die abschlagsfreie Rente mit 63 im Osten als Ausgleich.",
       "url": "https://www.bild.de/politik/inland/rente-mit-63-exklusive-zahlen-zeigen-warum-sie-fuer-den-osten-so-wichtig-ist-6a74692837343a2e069f9b81",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Niedrigwasser - Erste Bundesländer heben Sonntagsfahrverbot für Lkw auf",
-      "excerpt": "Rheinland-Pfalz und Saarland erlauben Lkw-Fahrten sonntags wegen Niedrigwasser.",
-      "url": "https://www.bild.de/politik/wegen-niedrigwasser-rheinland-pfalz-hebt-sonntagsfahrverbot-fuer-lkw-auf-6a75efcbe04765407d9a2e20",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +110,7 @@
       "title": "Politik-Vodcast - Vertraulich! - „An Brennpunkten sofort eingreifen“",
       "excerpt": "Die Zahl der registrierten Gewalttaten an deutschen Schulen ist um 37 Prozent gestiegen. Körperverletzung von Lehrern hat sich fast ...",
       "url": "https://www.bild.de/politik/politik-vodcast-vertraulich-an-brennpunkten-sofort-eingreifen-6a75e350c07f6c2f08035cd4",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +118,7 @@
       "title": "US-Geheimdienste alarmiert - Putin könnte Nato schon im Herbst angreifen",
       "excerpt": "US-Dienste warnen: Russland könnte Nato-Staaten ab Herbst gezielt attackieren.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/putin-koennte-nato-schon-im-herbst-angreifen-geheimdienste-der-usa-alarmiert-6a75838f4aef843a32275d0e",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +126,7 @@
       "title": "Expertin schlägt Alarm - Putin hat einen „schizophrenen“ Plan gegen uns",
       "excerpt": "Russland setzt auf hybride Angriffe und kalkulierte Eskalation gegen Deutschland.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/expertin-schlaegt-alarm-putin-hat-einen-schizophrenen-plan-gegen-uns-6a7597c0e04765407d9a238e",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +134,7 @@
       "title": "BILD exklusiv - Wehrbeauftragter: Armee soll Drohnen an Flughäfen jagen können!",
       "excerpt": "Top-Politiker fordern, dass die Bundeswehr Drohnen an Flughäfen abschießen darf.",
       "url": "https://www.bild.de/politik/inland/bild-exklusiv-wehrbeauftragter-armee-soll-drohnen-an-flughaefen-jagen-koennen-6a75a1a9e04765407d9a252d",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
@@ -110,47 +142,39 @@
       "title": "FDP-Vizechefin Linda Teuteberg - „Die Ostidentität wurde nachträglich erfunden“",
       "excerpt": "FDP-Vize Teuteberg kritisiert Ost-West-Debatte und warnt vor Ressentimentpolitik.",
       "url": "https://www.bild.de/politik/inland/fdp-vizechefin-linda-teuteberg-die-ostidentitaet-wurde-nachtraeglich-erfunden-6a758241e04765407d9a21c6",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "publishedAt": "2026-08-07T19:15:23.493Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Schwulen-Aktivist sagt - „Es gibt kein Grundrecht auf ein Kind“",
-      "excerpt": "Florian Greller (46) verurteilt Leihmutterschaft als ausbeuterisches Geschäftsmodell.",
-      "url": "https://www.bild.de/politik/inland/schwuler-aktivist-sagt-es-gibt-kein-grundrecht-auf-ein-kind-6a7593214aef843a32275e58",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
+      "source": "SPIEGEL.DE",
+      "title": "Flughafen Leipzig: Russland weist Verantwortung für Drohnenvorfall zurück",
+      "excerpt": "Offiziell wurde Russland bisher nichts vorgeworfen, trotzdem reagiert Moskaus Botschaft in Berlin nun auf den Drohnenfund am Flughafen in Leipzig: Der Vorfall sei eine »Provokation« und werde genutzt, um Stimmung zu mach",
+      "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-russland-weist-verantwortung-fuer-drohnenvorfall-zurueck-a-05b9d04b-a5ae-4768-af20-e1433d1e0cc5#ref=rss",
+      "publishedAt": "2026-08-07T18:48:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "BILD-Interview mit Sachsen-Anhalt-Regent - Wollen Sie den Kanzler stürzen, Herr Schulze?",
-      "excerpt": "Ministerpräsident Schulze schießt weiter gegen die geplante Abschaffung der Rente mit 63, beteuert aber seine Loyalität zu Friedrich Merz.",
-      "url": "https://www.bild.de/politik/inland/sven-schulze-bleibt-bei-seinem-nein-zur-abschaffung-der-rente-mit-63-6a72fc46203ba6592b088cfb",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Gericht stoppt vorerst Bau von Trumps Ballsaal",
+      "excerpt": "Ein Ballsaal nach den Wünschen von US-Präsident Trump: Gold, Marmor und Stuck sollen das neue Prunkstück am Weißen Haus prägen. Doch ein US-Gericht hat das Bauprojekt vorerst gestoppt. Trump will Berufung einlegen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-ballsall-100.html",
+      "publishedAt": "2026-08-07T18:42:41.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Lehrerverbands-Chef zu Gewalt an Schulen - „Wir müssen an Brennpunkten sofort eingreifen“",
-      "excerpt": "Die Zahl der registrierten Gewalttaten an deutschen Schulen ist um 37 Prozent gestiegen. Körperverletzung von Lehrern hat sich fast ...",
-      "url": "https://www.bild.de/politik/lehrerverbands-chef-zu-gewalt-an-schulen-wir-muessen-an-brennpunkten-sofort-eingreifen-6a75b1ddc07f6c2f08035810",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auch Puma wurde attackiert - Greift Russland gezielt deutsche Firmen in Kiew an?",
-      "excerpt": "Russlands Angriff zerstört Lager von Liqui Moly und beschädigt Puma-Zentrum.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/auch-puma-wurde-attackiert-greift-russland-gezielt-deutsche-unternehmen-in-kiew-an-6a74b1730e3689919ec7330e",
-      "publishedAt": "2026-08-07T18:01:54.665Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Mehrere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "excerpt": "Das Niedrigwasser erschwert den Gütertransport auf dem Rhein. Nun haben mehrere Bundesländer das Sonntagsfahrverbot für Lkw gelockert. Auf den Autobahnen könnte es schon an diesem Wochenende noch voller werden.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html",
+      "publishedAt": "2026-08-07T18:15:33.000Z",
+      "category": "WIRTSCHAFT & PREISE"
     },
     {
       "source": "DLF",
       "title": "Nach Vorfall am Flughafen Leipzig/Halle - Verdächtige Drohnenflüge über Bundeswehrstandort Mechernich",
       "excerpt": "Über dem Bundeswehrstandort Mechernich sind in der vergangenen Nacht Drohnenüberflüge gesichtet worden. Nach Informationen von WDR, NDR und Süddeutscher Zeitung haben Mitarbeiter einer Sicherheitsfirma insgesamt sechs Üb",
       "url": "https://www.deutschlandfunk.de/verdaechtige-drohnenfluege-ueber-bundeswehrstandort-mechernich-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +182,7 @@
       "title": "Niedrigwasser - Mehrere Bundesländer lockern Lkw-Fahrverbot an Sonn- und Feiertagen",
       "excerpt": "Wegen des Niedrigwassers im Rhein lockern das Saarland, Rheinland-Pfalz und Nordrhein-Westfalen vorübergehend das Sonn- und Feiertagsfahrverbot für bestimmte Lkw-Transporte. Damit könnten Güter, die aufgrund der Pegelstä",
       "url": "https://www.deutschlandfunk.de/mehrere-bundeslaender-lockern-lkw-fahrverbot-an-sonn-und-feiertagen-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +190,7 @@
       "title": "\"Rente mit 63\" - Reformvorhaben: Frei wirbt nach Kritik um Unterstützung",
       "excerpt": "Nach der Kritik am Rentenpaket hat Unionsfraktionschef Frei erneut um Unterstützung geworben.",
       "url": "https://www.deutschlandfunk.de/reformvorhaben-frei-wirbt-nach-kritik-um-unterstuetzung-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,31 +198,15 @@
       "title": "Extreme Hitze und Trockenheit - CDU-Klimapolitiker Gebhart verteidigt Politik der Bundesregierung - Städte- und Gemeindebund fordert nationalen Kraftakt",
       "excerpt": "Die Diskussion über Maßnahmen angesichts von Hitze und Niedrigwasser hält an. Der Obmann der Union im Umwelt- und Klimaausschuss, Gebhart, verteidigte die Klimapolitik der Bundesregierung gegen Kritik. Der Deutsche Städt",
       "url": "https://www.deutschlandfunk.de/cdu-klimapolitiker-gebhart-verteidigt-politik-der-bundesregierung-staedte-und-gemeindebund-fordert-n-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Migration - Einreisekontrollen nach Ceuta: Italien weißt Spaniens Ultimatum zurück",
+      "title": "Migration - Einreisekontrollen nach Ceuta: Italien weist Spaniens Ultimatum zurück",
       "excerpt": "Italien hat Madrids Ultimatum zur Beendigung der nach der Ceuta-Krise eingeführten Kontrollen für Einreisende aus Spanien zurückgewiesen.",
-      "url": "https://www.deutschlandfunk.de/einreisekontrollen-nach-ceuta-italien-weisst-spaniens-ultimatum-zurueck-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - UNICEF: 300 Kinder seit Waffenruhe im Gazastreifen getötet",
-      "excerpt": "Laut dem Kinderhilfswerk der Vereinten Nationen UNICEF wurden im Gazastreifen seit der Verkündung des Waffenstillstands im Oktober vergangenen Jahres 300 Kinder getötet.",
-      "url": "https://www.deutschlandfunk.de/unicef-300-kinder-seit-waffenruhe-im-gazastreifen-getoetet-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russland und Belarus als Drahtzieher vermutet - Lettland: Druck durch Migranten an EU-Außengrenze nimmt zu - Schleuser nutzen vermehrt Tunnel",
-      "excerpt": "Die Lage an der Grenze zwischen Lettland und Belarus hat sich verschärft. Zuletzt wurden deutlich mehr unerlaubte Übertritte registriert. Die lettischen Behörden werfen Russland und Belarus vor, Migranten als Druckmittel",
-      "url": "https://www.deutschlandfunk.de/lettland-druck-durch-migranten-an-eu-aussengrenze-nimmt-zu-schleuser-nutzen-vermehrt-tunnel-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "url": "https://www.deutschlandfunk.de/einreisekontrollen-nach-ceuta-italien-weist-spaniens-ultimatum-zurueck-100.html",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +214,23 @@
       "title": "Schleusernetz im Mittelmeer - Europol: Spanische Polizei nimmt zahlreiche Verdächtige fest",
       "excerpt": "Ein von Spanien geführter internationaler Polizeieinsatz hat ein großes Schleusernetz im westlichen Mittelmeer zerschlagen.",
       "url": "https://www.deutschlandfunk.de/europol-spanische-polizei-nimmt-zahlreiche-verdaechtige-fest-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - UNICEF: 300 Kinder seit Waffenruhe im Gazastreifen getötet",
+      "excerpt": "Laut dem Kinderhilfswerk der Vereinten Nationen UNICEF wurden im Gazastreifen seit der Verkündung des Waffenstillstands im Oktober vergangenen Jahres 300 Kinder getötet.",
+      "url": "https://www.deutschlandfunk.de/unicef-300-kinder-seit-waffenruhe-im-gazastreifen-getoetet-102.html",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland und Belarus als Drahtzieher vermutet - Lettland: Druck durch Migranten an EU-Außengrenze nimmt zu - Schleuser nutzen vermehrt Tunnel",
+      "excerpt": "Die Lage an der Grenze zwischen Lettland und Belarus hat sich verschärft. Zuletzt wurden deutlich mehr unerlaubte Übertritte registriert. Die lettischen Behörden werfen Russland und Belarus vor, Migranten als Druckmittel",
+      "url": "https://www.deutschlandfunk.de/lettland-druck-durch-migranten-an-eu-aussengrenze-nimmt-zu-schleuser-nutzen-vermehrt-tunnel-100.html",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +238,7 @@
       "title": "Verkehr - ICE-Direktverbindung Berlin-Paris unterbrochen",
       "excerpt": "Die Bahnverbindung zwischen Berlin und Paris ist bis auf weiteres unterbrochen.",
       "url": "https://www.deutschlandfunk.de/ice-direktverbindung-berlin-paris-unterbrochen-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +246,7 @@
       "title": "Urteil - Keine Verbeamtung wegen Nähe zu Muslimbruderschaft",
       "excerpt": "Das Verwaltungsgericht Karlsruhe hat die Klage einer Frau auf Übernahme in das Beamtenverhältnis wegen deren Nähe zur islamistischen Muslimbruderschaft abgelehnt.",
       "url": "https://www.deutschlandfunk.de/keine-verbeamtung-wegen-naehe-zu-muslimbruderschaft-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +254,7 @@
       "title": "Diplomatie - Nach Asyl-Streit um Ex-Regierungschefin Chávez: Mexiko und Peru nehmen Beziehungen wieder auf",
       "excerpt": "Nach einem Asyl-Konflikt um die frühere peruanische Regierungschefin Chávez haben Peru und Mexiko ihre diplomatischen Beziehungen wieder aufgenommen.",
       "url": "https://www.deutschlandfunk.de/nach-asyl-streit-um-ex-regierungschefin-ch-vez-mexiko-und-peru-nehmen-beziehungen-wieder-auf-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +262,7 @@
       "title": "Verteidigung - Saudi-Arabien, Türkei und Pakistan schließen Abkommen",
       "excerpt": "Saudi-Arabien, die Türkei und Pakistan haben ein gemeinsames Verteidigungsabkommen unterzeichnet. Wie die Regierungen bekannt gaben, trafen sich dazu der saudi-arabische Kronprinz bin Salman, der türkische Präsident Erdo",
       "url": "https://www.deutschlandfunk.de/saudi-arabien-tuerkei-und-pakistan-schliessen-abkommen-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +270,7 @@
       "title": "Tanker auf Grund gelaufen - Vor der Küste des Oman droht eine Ölkatastrophe",
       "excerpt": "Vor der Küste des Oman ist ein Tanker auf Grund gelaufen. Satellitenaufnahmen zufolge treten immer größere Mengen Öl aus. Verbände warnen vor einer schweren Umweltkatastrophe.",
       "url": "https://www.deutschlandfunk.de/vor-der-kueste-des-oman-droht-eine-oelkatastrophe-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +278,7 @@
       "title": "Schutzmaßnahmen gefordert - Ärzte-Präsident Reinhardt: Viele Todesfälle durch Hitze wären vermeidbar",
       "excerpt": "In diesem Jahr sind nach Angaben des Robert Koch-Instituts bereits etwa 12.000 Menschen an den Folgen von Hitze gestorben. Der Präsident der Bundesärztekammer, Reinhardt, hält viele Todesfälle für vermeidbar und fordert ",
       "url": "https://www.deutschlandfunk.de/aerzte-praesident-reinhardt-viele-todesfaelle-durch-hitze-waeren-vermeidbar-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +286,7 @@
       "title": "Tour de France Femmes - Polnische Radrennfahrerin Niewiadoma gewinnt 7. Etappe",
       "excerpt": "Die polnische Radrennfahrerin Katarzyna Niewiadoma hat die 7. Etappe der Tour de France der Frauen gewonnen. Sie übernahm damit das Gelbe Trikot.",
       "url": "https://www.deutschlandfunk.de/polnische-radrennfahrerin-niewiadoma-gewinnt-7-etappe-104.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +294,7 @@
       "title": "Streit um Ganzkörperbadeanzug - Gericht kippt Burkini-Verbot an Côte d Azur-Strand",
       "excerpt": "In Frankreich hat ein Gericht das Verbot von Burkinis in dem Badeort Mandelieu-la-Napoule an der Côte d Azur gekippt.",
       "url": "https://www.deutschlandfunk.de/gericht-kippt-burkini-verbot-an-c-te-d-azur-strand-100.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,7 +302,7 @@
       "title": "Bundesgerichtshof - Linksextremistin Lina E. muss in Beugehaft",
       "excerpt": "Die wegen Angriffen auf Rechtsextreme verurteilte Linksextremistin Lina E. muss wegen Zeugnisverweigerung in Beugehaft.",
       "url": "https://www.deutschlandfunk.de/linksextremistin-lina-e-muss-in-beugehaft-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -286,7 +310,7 @@
       "title": "Demokratische Republik Kongo - Behörde prüft mögliche Ebola-Virusmutation",
       "excerpt": "In der Demokratischen Republik Kongo will die Afrikanische Gesundheitsbehörde CDC untersuchen, ob möglicherweise eine Mutation des Ebola-Virus vorliegt.",
       "url": "https://www.deutschlandfunk.de/behoerde-prueft-moegliche-ebola-virusmutation-102.html",
-      "publishedAt": "2026-08-07T17:57:39.000Z",
+      "publishedAt": "2026-08-07T18:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -386,19 +410,19 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Erste Bundesländer lockern wegen des Niedrigwassers Lkw-Sonntagsfahrverbot",
-      "excerpt": "Das Extrem-Niedrigwasser erschwert den Gütertransport auf dem Rhein. Nun lockern erste Bundesländer das Sonntagsfahrverbot für Lastwagen. Der Fachverband und ver.di sehen Probleme.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html",
-      "publishedAt": "2026-08-07T15:54:48.000Z",
-      "category": "WIRTSCHAFT & PREISE"
-    },
-    {
       "source": "TAZ.DE",
       "title": "RWE gibt Windkraftprojekte auf: Geld von Trump fürs Nichtbauen",
       "excerpt": "Der deutsche Energiekonzern RWE vereinbart mit der US-Regierung, keine Windräder zu bauen. Dabei könnten die USA sie gut gebrauchen. mehr...",
       "url": "https://taz.de/RWE-gibt-Windkraftprojekte-auf/!6202842/",
       "publishedAt": "2026-08-07T15:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "„Volksbad“ in Berlin: Tauchen vorm Theater",
+      "excerpt": "Seit Freitagmittag ist das „Volksbad“ an der Berliner Volksbühne geöffnet. Es gibt queere Kraulkurse, Fritten und eine Einladung zum Nichtstun. mehr...",
+      "url": "https://taz.de/Volksbad-in-Berlin/!6202849/",
+      "publishedAt": "2026-08-07T15:25:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -438,14 +462,6 @@
       "title": "107 falsche Zeugnisse: Oberschule in Vechta vergibt seit Jahren falsche Abschlüsse",
       "excerpt": "Eine Schülerin moniert, ihre Schule habe sie um ihren Realschulabschluss gebracht. Bei der Überprüfung stellt sich heraus: Sie ist nicht die einzige. mehr...",
       "url": "https://taz.de/107-falsche-Zeugnisse/!6202516/",
-      "publishedAt": "2026-08-07T13:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Linken-Politikerin von Angern zur Rente: „Dem Kanzler ist der Osten egal“",
-      "excerpt": "Die Renten-Pläne der Bundesregierung treffen Ostdeutsche in besonderem Maße, sagt die sachsen-anhaltische Spitzenkandidatin der Linken, Eva von Angern. mehr...",
-      "url": "https://taz.de/Linken-Politikerin-von-Angern-zur-Rente/!6202467/",
       "publishedAt": "2026-08-07T13:39:00.000Z",
       "category": "POLITIK"
     },
@@ -778,14 +794,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "9000 Hitzetote in einer Woche: Hausärzte rügen Untätigkeit der Regierung beim Hitzeschutz",
-      "excerpt": "Fast 12.000 Hitzetote in diesem Jahr, davon mehr als 9000 allein in einer einzigen Juniwoche. Ärztinnen und Ärzte werfen der Bundesregierung Versagen vor. Sie fordern konkrete Maßnahmen und mehr Geld.",
-      "url": "https://www.spiegel.de/politik/deutschland/9000-hitzetote-in-einer-woche-hausaerzte-ruegen-untaetigkeit-der-regierung-beim-hitzeschutz-a-9a6a1a3b-cc28-4bab-a03f-c10b9bc0df1f#ref=rss",
-      "publishedAt": "2026-08-06T11:59:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Krisentreffen zu Niedrigwasser: Wenn die Wasserstraßen versiegen",
       "excerpt": "Deutschlands Flüsse führen Rekord-Niedrigwasser. Vor allem Wirtschaft und Schifffahrt sind massiv betroffen. Verkehrsminister Bilger lädt daher heute zum Krisentreffen. Was kann das bringen?",
@@ -871,14 +879,6 @@
       "excerpt": "Berichte mehrerer Medien erzürnen die Trump-Regierung. Demnach seien die Raketen-Bestände des US-Militärs drastisch geschrumpft. Dies habe auch die Entscheidung über neue Angriffe auf Iran beeinflusst. Das Pentagon demen",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "publishedAt": "2026-08-05T16:40:46.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
-      "excerpt": "Im US-Bundesstaat Michigan hat sich der linke Gesundheitspolitiker Abdul El-Sayed knapp die Kandidatur der Demokraten für die Senatswahlen im November gesichert. Die Wahl galt auch als Stimmungstest. Von Sandra Ratzow.",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html",
-      "publishedAt": "2026-08-05T16:22:10.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
