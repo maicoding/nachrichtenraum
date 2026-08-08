@@ -1,108 +1,12 @@
 {
-  "updatedAt": "2026-08-08T03:57:35.448Z",
+  "updatedAt": "2026-08-08T05:09:32.352Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Doppelte Steuer-Sauerei - CDU fühlt sich von Klingbeil getäuscht",
-      "excerpt": "„Das ist nicht das, was uns zugesagt wurde“, sagt ein CDU-Haushälter.",
-      "url": "https://www.bild.de/politik/inland/doppelte-steuer-sauerei-cdu-fuehlt-sich-von-klingbeil-getaeuscht-6a75fd550e3689919ec74411",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen China - Trump will USA ⁠zur „Mineralien-Supermacht“ machen",
-      "excerpt": "Trump pumpt Milliarden in kritische Rohstoffe, um Abhängigkeit von China zu senken.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-usa-zur-mineralien-supermacht-machen-6a76801035268e50270222ea",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Ceuta-Ansturm - EU knöpft sich Tech-Riesen wegen Fake News vor",
-      "excerpt": "Nach Falschmeldungen zum Ceuta-Ansturm fordert die EU härtere Regeln für TikTok.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-ansturm-eu-knoepft-sich-tiktok-wegen-fake-news-vor-6a765d990e3689919ec7478b",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker - Dutzende Tote durch Russen-Raketen in Kiew",
-      "excerpt": "Russland greift Kiew erneut mit Raketen und Drohnen an, zahlreiche Menschen sterben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
-      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
-      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auf Konzert von Israel-Hasser - Greta mit Sturmhaube aufgetaucht",
-      "excerpt": "Greta Thunberg besucht vermummt ein Konzert israelfeindlicher Rapper in Belfast.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/greta-thunberg-mit-sturmhaube-aufgetaucht-6a76375d0e3689919ec74687",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sicherheitsbedenken! - OpenAI stoppt KI-Entwicklung teilweise",
-      "excerpt": "OpenAI bremst Astra, weil das KI-Modell gefährliche Hackerfähigkeiten zeigen könnte.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/openai-stoppt-entwicklung-von-astra-ki-fuer-cyberangriffe-zu-maechtig-6a76389f35268e50270221b7",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Drohnen-Vorfall sei inszeniert - Irrer Russen-Vorwurf zur Leipzig-Drohne",
-      "excerpt": "Russland bestreitet jede Verantwortung für die Sprengstoff-Drohne in Leipzig.",
-      "url": "https://www.bild.de/politik/inland/angeblich-alles-inszeniert-irrer-russen-vorwurf-zur-drohnenbombe-von-leipzig-6a7620d7e04765407d9a3130",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merz hatte sie zurechtgewiesen - Polizeieinsatz bei TV-bekannter Krebspatientin",
-      "excerpt": "Krebspatientin wartet auf Hilfe, statt Bescheid steht plötzlich die Polizei vor ihr.",
-      "url": "https://www.bild.de/politik/inland/nach-merz-und-spahn-jetzt-steht-bei-krebspatientin-polizei-vor-der-tuer-6a74a5dae04765407d9a195d",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bald auch bei uns? - Anti-Drohnen-Netze sichern ukrainische Straßen",
-      "excerpt": "Die Ukraine spannt Netze über Straßen, um sich vor Kriegsdrohnen zu schützen. Nach dem Drohnenvorfall am Flughafen Leipzig/Halle gew...",
-      "url": "https://www.bild.de/politik/bald-auch-bei-uns-anti-drohnen-netze-sichern-ukrainische-strassen-6a7632ae0e3689919ec7465a",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Niedrigwasser - Erste Bundesländer heben Sonntagsfahrverbot für Lkw auf",
-      "excerpt": "Rheinland-Pfalz und Saarland erlauben Lkw-Fahrten sonntags wegen Niedrigwasser.",
-      "url": "https://www.bild.de/politik/wegen-niedrigwasser-rheinland-pfalz-hebt-sonntagsfahrverbot-fuer-lkw-auf-6a75efcbe04765407d9a2e20",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Unterirdische Raketen-Werkstatt - Riesen-Drohne über sensiblem Bundeswehr-Bunker!",
-      "excerpt": "Sechs Drohnen spionieren geheime Patriot-Werft aus, der Staatsschutz ermittelt.",
-      "url": "https://www.bild.de/politik/inland/riesen-drohne-kreist-ueber-sensiblen-bundeswehr-bunker-mit-geheimer-raketenwerkstatt-6a7609bee04765407d9a2fee",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "„Mekka-Bündnis“ mit Atom-Macht - Drei Islam-Staaten schmieden Militärpakt",
       "excerpt": "Drei Staaten gründen ein Verteidigungsbündnis, das vor allem Iran schwächen soll.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/mekka-buendnis-mit-atom-macht-drei-islam-staaten-schmieden-militaerpakt-6a75e4d94aef843a3227664f",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "publishedAt": "2026-08-08T05:09:32.348Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +14,7 @@
       "title": "Milliarden für Waffen und Soldaten - Kims Kasse klingelt dank Putins Krieg",
       "excerpt": "Nordkorea verdient Milliarden mit Waffen für Russland und rüstet Atomprogramm auf.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/putins-krieg-macht-nordkorea-reich-kim-jong-un-verdient-an-waffengeschaeften-6a75d6ece04765407d9a2b6f",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "publishedAt": "2026-08-08T05:09:32.348Z",
       "category": "POLITIK"
     },
     {
@@ -118,31 +22,135 @@
       "title": "Trump in der Iran-Falle - Jetzt kracht es auch bei der US-Wirtschaft",
       "excerpt": "Schwache Jobzahlen und hohe Kriegskosten setzen Trumps US-Wirtschaft unter Druck.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-in-der-iran-falle-jetzt-kracht-es-auch-bei-der-us-wirtschaft-6a75fda34aef843a3227681e",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "publishedAt": "2026-08-08T05:09:32.348Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Folgenschwere Fehler bei der Bewertung - 100 Schüler erhalten zu schlechte Abschlüsse",
-      "excerpt": "Fehlerhafte Zeugnisse verbauten mehr als 100 Schülern den erreichten Schulabschluss.",
-      "url": "https://www.bild.de/politik/inland/folgenschwere-fehler-bei-der-bewertung-mehr-als-100-schueler-erhalten-zu-schlechte-abschluesse-oder-gar-keinen-6a75d96dc07f6c2f08035bb5",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "title": "Drohnen-Vorfall sei inszeniert - Irrer Russen-Vorwurf zur Leipzig-Drohne",
+      "excerpt": "Russland bestreitet jede Verantwortung für die Sprengstoff-Drohne in Leipzig.",
+      "url": "https://www.bild.de/politik/inland/angeblich-alles-inszeniert-irrer-russen-vorwurf-zur-drohnenbombe-von-leipzig-6a7620d7e04765407d9a3130",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD exklusiv - Uns droht eine doppelte Steuer-Sauerei",
-      "excerpt": "Schwarz-Rot hat eine Steuerentlastung angekündigt. Doch es droht ein Schock!",
-      "url": "https://www.bild.de/politik/inland/bild-exklusiv-uns-droht-eine-doppelte-steuer-sauerei-6a7363953013d32d678817b6",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "title": "Live-Ticker zum Ukraine-Krieg - US-Senat billigt Gesetz zu Russland-Sanktionen",
+      "excerpt": "Neues US-Sanktionspaket soll Russland schwächen und Kiew neue Hoffnung geben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Lügen-Kampagne aus Russland? - Behörden warnen vor Fake-Video über Merz-Rücktritt",
-      "excerpt": "Sicherheitsbehörden warnen vor einer Beeinflussung der Landtagswahlen durch Russland.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/sicherheitsbehoerden-warnen-russland-will-landtagswahl-ueber-die-usa-manipulieren-6a75c5cd4aef843a32276378",
-      "publishedAt": "2026-08-08T03:57:35.184Z",
+      "title": "Nach Ceuta-Chaos - Grenz-Zoff zwischen Spanien und Italien eskaliert",
+      "excerpt": "Spanien führt Kontrollen für Italien-Reisende ein, Rom pocht auf nationale Sicherheit.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-chaos-in-ceuta-grenzzoff-zwischen-spanien-und-italien-eskaliert-6a76adaa35268e50270223b7",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident außer sich - Gericht stoppt Trumps Mega-Ballsaal",
+      "excerpt": "Gericht stoppt Trumps Luxusballsaal am Weißen Haus wegen fehlender Zustimmung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-ausser-sich-gericht-stoppt-trumps-ballsaal-6a76a72d0e3689919ec748b8",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Unions-Fraktionschef Frei - Knallhart-Nein zu AfD-Koalition",
+      "excerpt": "Unions-Chef Frei pocht auf Koalitionsverbot mit der AfD in allen Ländern.",
+      "url": "https://www.bild.de/politik/inland/unions-fraktionschef-frei-knallhart-nein-zu-afd-koalition-6a76a82935268e502702239b",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Doppelte Steuer-Sauerei - CDU fühlt sich von Klingbeil getäuscht",
+      "excerpt": "„Das ist nicht das, was uns zugesagt wurde“, sagt ein CDU-Haushälter.",
+      "url": "https://www.bild.de/politik/inland/doppelte-steuer-sauerei-cdu-fuehlt-sich-von-klingbeil-getaeuscht-6a75fd550e3689919ec74411",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen China - Trump will USA ⁠zur „Mineralien-Supermacht“ machen",
+      "excerpt": "Trump pumpt Milliarden in kritische Rohstoffe, um Abhängigkeit von China zu senken.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-usa-zur-mineralien-supermacht-machen-6a76801035268e50270222ea",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Ceuta-Ansturm - EU knöpft sich Tech-Riesen wegen Fake News vor",
+      "excerpt": "Nach Falschmeldungen zum Ceuta-Ansturm fordert die EU härtere Regeln für TikTok.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-ansturm-eu-knoepft-sich-tiktok-wegen-fake-news-vor-6a765d990e3689919ec7478b",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
+      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
+      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Auf Konzert von Israel-Hasser - Greta mit Sturmhaube aufgetaucht",
+      "excerpt": "Greta Thunberg besucht vermummt ein Konzert israelfeindlicher Rapper in Belfast.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/greta-thunberg-mit-sturmhaube-aufgetaucht-6a76375d0e3689919ec74687",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sicherheitsbedenken! - OpenAI stoppt KI-Entwicklung teilweise",
+      "excerpt": "OpenAI bremst Astra, weil das KI-Modell gefährliche Hackerfähigkeiten zeigen könnte.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/openai-stoppt-entwicklung-von-astra-ki-fuer-cyberangriffe-zu-maechtig-6a76389f35268e50270221b7",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merz hatte sie zurechtgewiesen - Polizeieinsatz bei TV-bekannter Krebspatientin",
+      "excerpt": "Krebspatientin wartet auf Hilfe, statt Bescheid steht plötzlich die Polizei vor ihr.",
+      "url": "https://www.bild.de/politik/inland/nach-merz-und-spahn-jetzt-steht-bei-krebspatientin-polizei-vor-der-tuer-6a74a5dae04765407d9a195d",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bald auch bei uns? - Anti-Drohnen-Netze sichern ukrainische Straßen",
+      "excerpt": "Die Ukraine spannt Netze über Straßen, um sich vor Kriegsdrohnen zu schützen. Nach dem Drohnenvorfall am Flughafen Leipzig/Halle gew...",
+      "url": "https://www.bild.de/politik/bald-auch-bei-uns-anti-drohnen-netze-sichern-ukrainische-strassen-6a7632ae0e3689919ec7465a",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Niedrigwasser - Erste Bundesländer heben Sonntagsfahrverbot für Lkw auf",
+      "excerpt": "Rheinland-Pfalz und Saarland erlauben Lkw-Fahrten sonntags wegen Niedrigwasser.",
+      "url": "https://www.bild.de/politik/wegen-niedrigwasser-rheinland-pfalz-hebt-sonntagsfahrverbot-fuer-lkw-auf-6a75efcbe04765407d9a2e20",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Unterirdische Raketen-Werkstatt - Riesen-Drohne über sensiblem Bundeswehr-Bunker!",
+      "excerpt": "Sechs Drohnen spionieren geheime Patriot-Werft aus, der Staatsschutz ermittelt.",
+      "url": "https://www.bild.de/politik/inland/riesen-drohne-kreist-ueber-sensiblen-bundeswehr-bunker-mit-geheimer-raketenwerkstatt-6a7609bee04765407d9a2fee",
+      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Folgen des Drohnen-Vorfalls, Kanzler Friedrich Merz und die Hitze, Männerproblem der Linken",
+      "excerpt": "Der Kanzler hält sich nach dem Drohnenvorfall von Leipzig im Hintergrund. Die Hitze kehrt zurück. Und: Die Linke hat im Osten ein Männerproblem. Das ist die Lage am Samstagmorgen.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-folgen-des-drohnen-vorfalls-kanzler-friedrich-merz-und-die-hitze-maennerproblem-der-linken-a-2e3dad81-e0dd-4c8a-a27c-8ec3f896192c#ref=rss",
+      "publishedAt": "2026-08-08T04:37:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -156,7 +164,7 @@
     {
       "source": "TAGESSCHAU.DE",
       "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
-      "excerpt": "Im Januar wurde der Mehrwertsteuersatz auf Speisen in der Gastronomie reduziert. Eine neue Befragung zeigt, dass die große Mehrheit der Betriebe ihre Preise daraufhin nicht gesenkt hat. Von David Zajonz.",
+      "excerpt": "Im Januar wurde der Mehrwertsteuersatz auf Speisen in der Gastronomie reduziert. Eine neue Befragung zeigt, dass die große Mehrheit der Betriebe ihre Preise seitdem nicht gesenkt hat. Von David Zajonz.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
       "publishedAt": "2026-08-08T03:37:50.000Z",
       "category": "WIRTSCHAFT & PREISE"
@@ -744,14 +752,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-mrna-grippe-impfstoff-100.html",
       "publishedAt": "2026-08-06T17:46:30.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "AfD baut Vorsprung zur Union weiter aus - ARD-»Deutschlandtrend«",
-      "excerpt": "Wenige Wochen vor drei Landtagswahlen führt die AfD bundesweit die Umfragen an: Der ARD-»Deutschlandtrend« sieht die extrem rechte Partei bei 28 Prozent, die Union verliert weiter an Zustimmung.",
-      "url": "https://www.spiegel.de/politik/afd-baut-vorsprung-zur-union-weiter-aus-ard-deutschlandtrend-a-85588d32-79b8-4c95-a287-57d02f985b16#ref=rss",
-      "publishedAt": "2026-08-06T16:38:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
