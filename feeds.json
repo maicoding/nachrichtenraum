@@ -1,116 +1,12 @@
 {
-  "updatedAt": "2026-08-08T05:09:32.352Z",
+  "updatedAt": "2026-08-08T05:56:32.536Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "„Mekka-Bündnis“ mit Atom-Macht - Drei Islam-Staaten schmieden Militärpakt",
-      "excerpt": "Drei Staaten gründen ein Verteidigungsbündnis, das vor allem Iran schwächen soll.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/mekka-buendnis-mit-atom-macht-drei-islam-staaten-schmieden-militaerpakt-6a75e4d94aef843a3227664f",
-      "publishedAt": "2026-08-08T05:09:32.348Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Milliarden für Waffen und Soldaten - Kims Kasse klingelt dank Putins Krieg",
-      "excerpt": "Nordkorea verdient Milliarden mit Waffen für Russland und rüstet Atomprogramm auf.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/putins-krieg-macht-nordkorea-reich-kim-jong-un-verdient-an-waffengeschaeften-6a75d6ece04765407d9a2b6f",
-      "publishedAt": "2026-08-08T05:09:32.348Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Trump in der Iran-Falle - Jetzt kracht es auch bei der US-Wirtschaft",
-      "excerpt": "Schwache Jobzahlen und hohe Kriegskosten setzen Trumps US-Wirtschaft unter Druck.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-in-der-iran-falle-jetzt-kracht-es-auch-bei-der-us-wirtschaft-6a75fda34aef843a3227681e",
-      "publishedAt": "2026-08-08T05:09:32.348Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Drohnen-Vorfall sei inszeniert - Irrer Russen-Vorwurf zur Leipzig-Drohne",
-      "excerpt": "Russland bestreitet jede Verantwortung für die Sprengstoff-Drohne in Leipzig.",
-      "url": "https://www.bild.de/politik/inland/angeblich-alles-inszeniert-irrer-russen-vorwurf-zur-drohnenbombe-von-leipzig-6a7620d7e04765407d9a3130",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - US-Senat billigt Gesetz zu Russland-Sanktionen",
-      "excerpt": "Neues US-Sanktionspaket soll Russland schwächen und Kiew neue Hoffnung geben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Ceuta-Chaos - Grenz-Zoff zwischen Spanien und Italien eskaliert",
-      "excerpt": "Spanien führt Kontrollen für Italien-Reisende ein, Rom pocht auf nationale Sicherheit.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-chaos-in-ceuta-grenzzoff-zwischen-spanien-und-italien-eskaliert-6a76adaa35268e50270223b7",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Präsident außer sich - Gericht stoppt Trumps Mega-Ballsaal",
-      "excerpt": "Gericht stoppt Trumps Luxusballsaal am Weißen Haus wegen fehlender Zustimmung.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-ausser-sich-gericht-stoppt-trumps-ballsaal-6a76a72d0e3689919ec748b8",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Unions-Fraktionschef Frei - Knallhart-Nein zu AfD-Koalition",
-      "excerpt": "Unions-Chef Frei pocht auf Koalitionsverbot mit der AfD in allen Ländern.",
-      "url": "https://www.bild.de/politik/inland/unions-fraktionschef-frei-knallhart-nein-zu-afd-koalition-6a76a82935268e502702239b",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Doppelte Steuer-Sauerei - CDU fühlt sich von Klingbeil getäuscht",
-      "excerpt": "„Das ist nicht das, was uns zugesagt wurde“, sagt ein CDU-Haushälter.",
-      "url": "https://www.bild.de/politik/inland/doppelte-steuer-sauerei-cdu-fuehlt-sich-von-klingbeil-getaeuscht-6a75fd550e3689919ec74411",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen China - Trump will USA ⁠zur „Mineralien-Supermacht“ machen",
-      "excerpt": "Trump pumpt Milliarden in kritische Rohstoffe, um Abhängigkeit von China zu senken.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-usa-zur-mineralien-supermacht-machen-6a76801035268e50270222ea",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Ceuta-Ansturm - EU knöpft sich Tech-Riesen wegen Fake News vor",
-      "excerpt": "Nach Falschmeldungen zum Ceuta-Ansturm fordert die EU härtere Regeln für TikTok.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-ansturm-eu-knoepft-sich-tiktok-wegen-fake-news-vor-6a765d990e3689919ec7478b",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
-      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
-      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auf Konzert von Israel-Hasser - Greta mit Sturmhaube aufgetaucht",
-      "excerpt": "Greta Thunberg besucht vermummt ein Konzert israelfeindlicher Rapper in Belfast.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/greta-thunberg-mit-sturmhaube-aufgetaucht-6a76375d0e3689919ec74687",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Sicherheitsbedenken! - OpenAI stoppt KI-Entwicklung teilweise",
       "excerpt": "OpenAI bremst Astra, weil das KI-Modell gefährliche Hackerfähigkeiten zeigen könnte.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/openai-stoppt-entwicklung-von-astra-ki-fuer-cyberangriffe-zu-maechtig-6a76389f35268e50270221b7",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +14,7 @@
       "title": "Merz hatte sie zurechtgewiesen - Polizeieinsatz bei TV-bekannter Krebspatientin",
       "excerpt": "Krebspatientin wartet auf Hilfe, statt Bescheid steht plötzlich die Polizei vor ihr.",
       "url": "https://www.bild.de/politik/inland/nach-merz-und-spahn-jetzt-steht-bei-krebspatientin-polizei-vor-der-tuer-6a74a5dae04765407d9a195d",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +22,7 @@
       "title": "Bald auch bei uns? - Anti-Drohnen-Netze sichern ukrainische Straßen",
       "excerpt": "Die Ukraine spannt Netze über Straßen, um sich vor Kriegsdrohnen zu schützen. Nach dem Drohnenvorfall am Flughafen Leipzig/Halle gew...",
       "url": "https://www.bild.de/politik/bald-auch-bei-uns-anti-drohnen-netze-sichern-ukrainische-strassen-6a7632ae0e3689919ec7465a",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +30,7 @@
       "title": "Wegen Niedrigwasser - Erste Bundesländer heben Sonntagsfahrverbot für Lkw auf",
       "excerpt": "Rheinland-Pfalz und Saarland erlauben Lkw-Fahrten sonntags wegen Niedrigwasser.",
       "url": "https://www.bild.de/politik/wegen-niedrigwasser-rheinland-pfalz-hebt-sonntagsfahrverbot-fuer-lkw-auf-6a75efcbe04765407d9a2e20",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +38,263 @@
       "title": "Unterirdische Raketen-Werkstatt - Riesen-Drohne über sensiblem Bundeswehr-Bunker!",
       "excerpt": "Sechs Drohnen spionieren geheime Patriot-Werft aus, der Staatsschutz ermittelt.",
       "url": "https://www.bild.de/politik/inland/riesen-drohne-kreist-ueber-sensiblen-bundeswehr-bunker-mit-geheimer-raketenwerkstatt-6a7609bee04765407d9a2fee",
-      "publishedAt": "2026-08-08T05:09:32.347Z",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Mekka-Bündnis“ mit Atom-Macht - Drei Islam-Staaten schmieden Militärpakt",
+      "excerpt": "Drei Staaten gründen ein Verteidigungsbündnis, das vor allem Iran schwächen soll.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/mekka-buendnis-mit-atom-macht-drei-islam-staaten-schmieden-militaerpakt-6a75e4d94aef843a3227664f",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump in der Iran-Falle - Jetzt kracht es auch bei der US-Wirtschaft",
+      "excerpt": "Schwache Jobzahlen und hohe Kriegskosten setzen Trumps US-Wirtschaft unter Druck.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-in-der-iran-falle-jetzt-kracht-es-auch-bei-der-us-wirtschaft-6a75fda34aef843a3227681e",
+      "publishedAt": "2026-08-08T05:56:32.046Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Milliarden für Waffen und Soldaten - Kims Kasse klingelt dank Putins Krieg",
+      "excerpt": "Nordkorea verdient Milliarden mit Waffen für Russland und rüstet Atomprogramm auf.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/putins-krieg-macht-nordkorea-reich-kim-jong-un-verdient-an-waffengeschaeften-6a75d6ece04765407d9a2b6f",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident außer sich - Plötzlich Baustopp bei Trumps Mega-Ballsaal",
+      "excerpt": "Gericht stoppt Trumps Luxusballsaal am Weißen Haus wegen fehlender Zustimmung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-ausser-sich-gericht-stoppt-trumps-ballsaal-6a76a72d0e3689919ec748b8",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Drohnen-Vorfall sei inszeniert - Irrer Russen-Vorwurf zur Leipzig-Drohne",
+      "excerpt": "Russland bestreitet jede Verantwortung für die Sprengstoff-Drohne in Leipzig.",
+      "url": "https://www.bild.de/politik/inland/angeblich-alles-inszeniert-irrer-russen-vorwurf-zur-drohnenbombe-von-leipzig-6a7620d7e04765407d9a3130",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - US-Senat billigt Gesetz zu Russland-Sanktionen",
+      "excerpt": "Neues US-Sanktionspaket soll Russland schwächen und Kiew neue Hoffnung geben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Ceuta-Chaos - Grenz-Zoff zwischen Spanien und Italien eskaliert",
+      "excerpt": "Spanien führt Kontrollen für Italien-Reisende ein, Rom pocht auf nationale Sicherheit.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-chaos-in-ceuta-grenzzoff-zwischen-spanien-und-italien-eskaliert-6a76adaa35268e50270223b7",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Unions-Fraktionschef Frei - Knallhart-Nein zu AfD-Koalition",
+      "excerpt": "Unions-Chef Frei pocht auf Koalitionsverbot mit der AfD in allen Ländern.",
+      "url": "https://www.bild.de/politik/inland/unions-fraktionschef-frei-knallhart-nein-zu-afd-koalition-6a76a82935268e502702239b",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Doppelte Steuer-Sauerei - CDU fühlt sich von Klingbeil getäuscht",
+      "excerpt": "„Das ist nicht das, was uns zugesagt wurde“, sagt ein CDU-Haushälter.",
+      "url": "https://www.bild.de/politik/inland/doppelte-steuer-sauerei-cdu-fuehlt-sich-von-klingbeil-getaeuscht-6a75fd550e3689919ec74411",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen China - Trump will USA ⁠zur „Mineralien-Supermacht“ machen",
+      "excerpt": "Trump pumpt Milliarden in kritische Rohstoffe, um Abhängigkeit von China zu senken.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-will-usa-zur-mineralien-supermacht-machen-6a76801035268e50270222ea",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Ceuta-Ansturm - EU knöpft sich Tech-Riesen wegen Fake News vor",
+      "excerpt": "Nach Falschmeldungen zum Ceuta-Ansturm fordert die EU härtere Regeln für TikTok.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-ceuta-ansturm-eu-knoepft-sich-tiktok-wegen-fake-news-vor-6a765d990e3689919ec7478b",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merkel-Comeback? - Fast jeder Zweite sieht sie als Bundespräsidentin",
+      "excerpt": "Umfrage zeigt breite Mehrheit für Merkel als mögliche Nachfolgerin Steinmeiers.",
+      "url": "https://www.bild.de/politik/inland/merkel-als-bundespraesidentin-fast-jeder-zweite-traut-ihr-das-amt-zu-6a76076f0e3689919ec74490",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Auf Konzert von Israel-Hasser - Greta mit Sturmhaube aufgetaucht",
+      "excerpt": "Greta Thunberg besucht vermummt ein Konzert israelfeindlicher Rapper in Belfast.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/greta-thunberg-mit-sturmhaube-aufgetaucht-6a76375d0e3689919ec74687",
+      "publishedAt": "2026-08-08T05:56:32.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Trockenheit - Umweltorganisation BUND kritisiert Niedrigwasser-Pläne der Regierung",
+      "excerpt": "Die Umweltorganisation BUND hat die Pläne von Bundesverkehrsminister Bilger für den Umgang mit dem anhaltenden Niedrigwasser kritisiert. Die angekündigten Maßnahmen zeigten, dass die Regierung nicht verstanden habe, dass",
+      "url": "https://www.deutschlandfunk.de/umweltorganisation-bund-kritisiert-niedrigwasser-plaene-der-regierung-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach CSD-Anschlag - Unionsfraktionschef Frei gegen expliziten Schutz sexueller Identität im Grundgesetz",
+      "excerpt": "Unionsfraktionschef Frei hat sich dagegen ausgesprochen, ein Verbot von Diskriminierung wegen der sexuellen Identität im Grundgesetz zu verankern. Nach dem islamistisch motivierten Anschlag auf den Berliner Christopher-S",
+      "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-gegen-expliziten-schutz-sexueller-identitaet-im-grundgesetz-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienbericht - Bundesfinanzminister Klingbeil will Steuerfreibeträge für Vereine senken",
+      "excerpt": "Bundesfinanzminister Klingbeil plant einem Zeitungsbericht ‌zufolge ⁠die Steuerfreibeträge für ⁠Vereine zu senken. Das berichtet die \"Bild\"-Zeitung unter Berufung auf einen entsprechenden Referentenentwurf aus ⁠dem Bunde",
+      "url": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-will-steuerfreibetraege-fuer-vereine-senken-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Interview der Woche\" - FDP-Chef Kubicki: \"Die Frühverrentung gehört weg\"",
+      "excerpt": "Mit Blick auf die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren lehnt die FDP eine Sonderregelung für Ostdeutschland ab. Der FDP-Vorsitzende Kubicki sagte im \"Interview der Woche\" des Deutschlandf",
+      "url": "https://www.deutschlandfunk.de/fdp-chef-kubicki-die-fruehverrentung-gehoert-weg-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Südfrankreich - Ausbreitung von Waldbrand nach 18 Tagen gestoppt",
+      "excerpt": "In Südfrankreich haben Einsatzkräfte nach 18 Tagen die Ausbreitung des Waldbrands gestoppt. Das Feuer im Département Var sei nun offiziell unter Kontrolle, teilte die Präfektur mit. Es habe sich auf rund 63 Quadratkilome",
+      "url": "https://www.deutschlandfunk.de/ausbreitung-von-waldbrand-nach-18-tagen-gestoppt-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Abholzung im Amazonas - Niedrigster Stand seit einem Jahrzehnt",
+      "excerpt": "Die Abholzung im brasilianischen Amazonasgebiet ist auf den niedrigsten Stand seit einem Jahrzehnt gesunken.",
+      "url": "https://www.deutschlandfunk.de/niedrigster-stand-seit-einem-jahrzehnt-102.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kriegslage - Ukraine: Drei Tote bei Luftangriffen auf Vorort von Kiew",
+      "excerpt": "Bei neuen russischen Luftangriffen auf die ukrainische Hauptstadt Kiew und deren Umgebung sind nach Behördenangaben mindestens drei Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/ukraine-drei-tote-bei-luftangriffen-auf-vorort-von-kiew-102.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Washington - US-Senat stimmt für weitreichende Sanktionen gegen Russland",
+      "excerpt": "Der US-Senat hat für weitere Sanktionen gegen Russland gestimmt. Das Paket enthält Strafen gegen Präsident Putin sowie mehrere Beamte, Oligarchen und Banken. Der Gesetzentwurf sieht zudem Sanktionen gegen Länder vor, die",
+      "url": "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-weitreichende-sanktionen-gegen-russland-108.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geplante PKK-Amnestie in Türkei - Bundestagsvizepräsident Ramelow fordert Regelungen auch in Deutschland",
+      "excerpt": "Bundestagsvizepräsident Ramelow hat die Bundesregierung dazu aufgerufen, den Friedensprozesses zwischen der Türkei und der kurdischen Arbeiterpartei PKK zu unterstützen.",
+      "url": "https://www.deutschlandfunk.de/bundestagsvizepraesident-ramelow-fordert-regelungen-auch-in-deutschland-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ceuta - Marokkanische NGOs: Mehr als 140 Menschen bei Andrang auf Ceuta gestorben",
+      "excerpt": "Nach Schätzungen marokkanischer Menschenrechtsorganisationen sind bei dem Massenandrang auf die spanische Exklave Ceuta mehr als 140 Menschen ums Leben gekommen.",
+      "url": "https://www.deutschlandfunk.de/marokkanische-ngos-mehr-als-140-menschen-bei-andrang-auf-ceuta-gestorben-106.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ceuta-Andrang - EU fordert von Meta und Tiktok Vorgehen gegen Falschinformationen",
+      "excerpt": "Nach dem Massenandrang von Migranten auf die spanische Exklave Ceuta hat EU-Digitalkommissarin Virkkunen von den Konzernen Meta und Tiktok ein entschiedeneres Vorgehen gegen Falschinformationen gefordert.",
+      "url": "https://www.deutschlandfunk.de/eu-fordert-von-meta-und-tiktok-vorgehen-gegen-falschinformationen-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schengen-Streit nach Ceuta-Andrang - Spanien antwortet mit Einreisekontrollen für Reisende aus Italien",
+      "excerpt": "Spanien führt als Reaktion auf italienische Einreisekontrollen nun seinerseits Kontrollen für Flüge und Schiffsankünfte aus Italien ein.",
+      "url": "https://www.deutschlandfunk.de/spanien-antwortet-mit-einreisekontrollen-fuer-reisende-aus-italien-106.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Vorfall am Flughafen Leipzig/Halle - Verdächtige Drohnenflüge über Bundeswehrstandort Mechernich",
+      "excerpt": "Über dem Bundeswehrstandort Mechernich sind in der vergangenen Nacht Drohnenüberflüge gesichtet worden. Nach Informationen von WDR, NDR und Süddeutscher Zeitung haben Mitarbeiter einer Sicherheitsfirma insgesamt sechs Üb",
+      "url": "https://www.deutschlandfunk.de/verdaechtige-drohnenfluege-ueber-bundeswehrstandort-mechernich-106.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaftsweiser Werding - \"Merz muss Zerreden der Rentenreform verhindern\"",
+      "excerpt": "Im Streit um die Rente mit 63 appelliert der Wirtschaftsweise Werding an die Bundesregierung, die Rentenreform als Ganzes umzusetzen.",
+      "url": "https://www.deutschlandfunk.de/merz-muss-zerreden-der-rentenreform-verhindern-100.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - UNICEF: 300 Kinder seit Waffenruhe im Gazastreifen getötet",
+      "excerpt": "Laut dem Kinderhilfswerk der Vereinten Nationen UNICEF wurden im Gazastreifen seit der Verkündung des Waffenstillstands im Oktober vergangenen Jahres 300 Kinder getötet.",
+      "url": "https://www.deutschlandfunk.de/unicef-300-kinder-seit-waffenruhe-im-gazastreifen-getoetet-104.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland und Belarus als Drahtzieher vermutet - Lettland: Druck durch Migranten an EU-Außengrenze nimmt zu - Schleuser nutzen vermehrt Tunnel",
+      "excerpt": "Die Lage an der Grenze zwischen Lettland und Belarus hat sich verschärft. Zuletzt wurden deutlich mehr unerlaubte Übertritte registriert. Die lettischen Behörden werfen Russland und Belarus vor, Migranten als Druckmittel",
+      "url": "https://www.deutschlandfunk.de/lettland-druck-durch-migranten-an-eu-aussengrenze-nimmt-zu-schleuser-nutzen-vermehrt-tunnel-102.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Theater - Protest gegen verfallende Infrastruktur: Temporäres Schwimmbad der Berliner Volksbühne eröffnet",
+      "excerpt": "An der Berliner Volksbühne hat ein provisorisches Freibad eröffnet. Der neue Intendant Matthias Lilienthal hatte diesen Schritt bereits vor einigen Wochen angekündigt - auch als Protest gegen den Verfall der Infrastruktu",
+      "url": "https://www.deutschlandfunk.de/protest-gegen-verfallende-infrastruktur-temporaeres-schwimmbad-der-berliner-volksbuehne-eroeffnet-106.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tour de France Femmes - Polnische Radrennfahrerin Niewiadoma gewinnt 7. Etappe",
+      "excerpt": "Die polnische Radrennfahrerin Katarzyna Niewiadoma hat die 7. Etappe der Tour de France der Frauen gewonnen. Sie übernahm damit das Gelbe Trikot.",
+      "url": "https://www.deutschlandfunk.de/polnische-radrennfahrerin-niewiadoma-gewinnt-7-etappe-114.html",
+      "publishedAt": "2026-08-08T05:54:40.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Social Media: Kinderärzteverband sieht »gravierendes Elternversagen«",
+      "excerpt": "Wie kommt es, dass viele Kinder Stunden in sozialen Medien verbringen? Für Kinderärzte-Sprecher Jakob Maske liegt das an der mangelnden Durchsetzungsfähigkeit vieler Eltern. Die Politik fordert er zum Handeln auf.",
+      "url": "https://www.spiegel.de/politik/deutschland/social-media-kinderaerzteverband-sieht-gravierendes-elternversagen-a-81527835-bf50-40f0-9a22-74ef67d70fe2#ref=rss",
+      "publishedAt": "2026-08-08T05:31:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -168,150 +320,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
       "publishedAt": "2026-08-08T03:37:50.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Washington - US-Senat stimmt für weitreichende Sanktionen gegen Russland",
-      "excerpt": "Der US-Senat hat für weitere Sanktionen gegen Russland gestimmt. Das Paket enthält Strafen gegen Präsident Putin sowie mehrere Beamte, Oligarchen und Banken.",
-      "url": "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-weitreichende-sanktionen-gegen-russland-108.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedrigwasser - Umweltorganisation BUND kritisiert Pläne von Bundesverkehrsminister Bilger; Zustimmung vom Industrieverband BDI",
-      "excerpt": "Die Umweltorganisation BUND hat die Pläne von Bundesverkehrsminister Bilger für den Umgang mit dem anhaltenden Niedrigwasser kritisiert.",
-      "url": "https://www.deutschlandfunk.de/umweltorganisation-bund-kritisiert-plaene-von-bundesverkehrsminister-bilger-zustimmung-vom-industrie-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach CSD-Anschlag - Unionsfraktionschef Frei gegen expliziten Schutz sexueller Identität im Grundgesetz",
-      "excerpt": "Unionsfraktionschef Frei hat sich dagegen ausgesprochen, ein Verbot von Diskriminierung wegen der sexuellen Identität im Grundgesetz zu verankern.",
-      "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-gegen-expliziten-schutz-sexueller-identitaet-im-grundgesetz-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - Bundesfinanzminister Klingbeil will Steuerfreibeträge für Vereine senken",
-      "excerpt": "Bundesfinanzminister Klingbeil plant einem Zeitungsbericht ‌zufolge ⁠die Steuerfreibeträge für ⁠Vereine zu senken.",
-      "url": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-will-steuerfreibetraege-fuer-vereine-senken-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Geplante PKK-Amnestie in Türkei - Bundestagsvizepräsident Ramelow fordert Regelungen auch in Deutschland",
-      "excerpt": "Bundestagsvizepräsident Ramelow hat die Bundesregierung dazu aufgerufen, den Friedensprozesses zwischen der Türkei und der kurdischen Arbeiterpartei PKK zu unterstützen.",
-      "url": "https://www.deutschlandfunk.de/bundestagsvizepraesident-ramelow-fordert-regelungen-auch-in-deutschland-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Südfrankreich - Ausbreitung von Waldbrand nach 18 Tagen gestoppt",
-      "excerpt": "In Südfrankreich haben Einsatzkräfte nach 18 Tagen die Ausbreitung des Waldbrands gestoppt.",
-      "url": "https://www.deutschlandfunk.de/ausbreitung-von-waldbrand-nach-18-tagen-gestoppt-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ceuta - Marokkanische NGOs: Mehr als 140 Menschen bei Andrang auf Ceuta gestorben",
-      "excerpt": "Nach Schätzungen marokkanischer Menschenrechtsorganisationen sind bei dem Massenandrang auf die spanische Exklave Ceuta mehr als 140 Menschen ums Leben gekommen.",
-      "url": "https://www.deutschlandfunk.de/marokkanische-ngos-mehr-als-140-menschen-bei-andrang-auf-ceuta-gestorben-106.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schengen-Streit nach Ceuta-Andrang - Spanien antwortet mit Einreisekontrollen für Reisende aus Italien",
-      "excerpt": "Spanien führt als Reaktion auf italienische Einreisekontrollen nun seinerseits Kontrollen für Flüge und Schiffsankünfte aus Italien ein.",
-      "url": "https://www.deutschlandfunk.de/spanien-antwortet-mit-einreisekontrollen-fuer-reisende-aus-italien-106.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ceuta-Andrang - EU fordert von Meta und Tiktok Vorgehen gegen Falschinformationen",
-      "excerpt": "Nach dem Massenandrang von Migranten auf die spanische Exklave Ceuta hat EU-Digitalkommissarin Virkkunen von den Konzernen Meta und Tiktok ein entschiedeneres Vorgehen gegen Falschinformationen gefordert.",
-      "url": "https://www.deutschlandfunk.de/eu-fordert-von-meta-und-tiktok-vorgehen-gegen-falschinformationen-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Vorfall am Flughafen Leipzig/Halle - Verdächtige Drohnenflüge über Bundeswehrstandort Mechernich",
-      "excerpt": "Über dem Bundeswehrstandort Mechernich sind in der vergangenen Nacht Drohnenüberflüge gesichtet worden. Nach Informationen von WDR, NDR und Süddeutscher Zeitung haben Mitarbeiter einer Sicherheitsfirma insgesamt sechs Üb",
-      "url": "https://www.deutschlandfunk.de/verdaechtige-drohnenfluege-ueber-bundeswehrstandort-mechernich-106.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedrigwasser - Mehrere Bundesländer lockern Lkw-Fahrverbot an Sonn- und Feiertagen",
-      "excerpt": "Wegen des Niedrigwassers im Rhein lockern das Saarland, Rheinland-Pfalz, Nordrhein-Westfalen und Niedersachsen vorübergehend das Sonn- und Feiertagsfahrverbot für bestimmte Lkw-Transporte. Damit könnten Güter, die aufgru",
-      "url": "https://www.deutschlandfunk.de/mehrere-bundeslaender-lockern-lkw-fahrverbot-an-sonn-und-feiertagen-104.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Rente mit 63\" - Reformvorhaben: Frei wirbt nach Kritik um Unterstützung",
-      "excerpt": "Nach der Kritik am Rentenpaket hat Unionsfraktionschef Frei erneut um Unterstützung geworben.",
-      "url": "https://www.deutschlandfunk.de/reformvorhaben-frei-wirbt-nach-kritik-um-unterstuetzung-108.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaftsweiser Werding - \"Merz muss Zerreden der Rentenreform verhindern\"",
-      "excerpt": "Im Streit um die Rente mit 63 appelliert der Wirtschaftsweise Werding an die Bundesregierung, die Rentenreform als Ganzes umzusetzen.",
-      "url": "https://www.deutschlandfunk.de/merz-muss-zerreden-der-rentenreform-verhindern-100.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Extreme Hitze und Trockenheit - CDU-Klimapolitiker Gebhart verteidigt Politik der Bundesregierung - Städte- und Gemeindebund fordert nationalen Kraftakt",
-      "excerpt": "Die Diskussion über Maßnahmen angesichts von Hitze und Niedrigwasser hält an. Der Obmann der Union im Umwelt- und Klimaausschuss, Gebhart, verteidigte die Klimapolitik der Bundesregierung gegen Kritik. Der Deutsche Städt",
-      "url": "https://www.deutschlandfunk.de/cdu-klimapolitiker-gebhart-verteidigt-politik-der-bundesregierung-staedte-und-gemeindebund-fordert-n-102.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schleusernetz im Mittelmeer - Europol: Spanische Polizei nimmt zahlreiche Verdächtige fest",
-      "excerpt": "Ein von Spanien geführter internationaler Polizeieinsatz hat ein großes Schleusernetz im westlichen Mittelmeer zerschlagen.",
-      "url": "https://www.deutschlandfunk.de/europol-spanische-polizei-nimmt-zahlreiche-verdaechtige-fest-104.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verkehr - ICE-Direktverbindung Berlin-Paris unterbrochen",
-      "excerpt": "Die Bahnverbindung zwischen Berlin und Paris ist bis auf weiteres unterbrochen.",
-      "url": "https://www.deutschlandfunk.de/ice-direktverbindung-berlin-paris-unterbrochen-110.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - UNICEF: 300 Kinder seit Waffenruhe im Gazastreifen getötet",
-      "excerpt": "Laut dem Kinderhilfswerk der Vereinten Nationen UNICEF wurden im Gazastreifen seit der Verkündung des Waffenstillstands im Oktober vergangenen Jahres 300 Kinder getötet.",
-      "url": "https://www.deutschlandfunk.de/unicef-300-kinder-seit-waffenruhe-im-gazastreifen-getoetet-104.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russland und Belarus als Drahtzieher vermutet - Lettland: Druck durch Migranten an EU-Außengrenze nimmt zu - Schleuser nutzen vermehrt Tunnel",
-      "excerpt": "Die Lage an der Grenze zwischen Lettland und Belarus hat sich verschärft. Zuletzt wurden deutlich mehr unerlaubte Übertritte registriert. Die lettischen Behörden werfen Russland und Belarus vor, Migranten als Druckmittel",
-      "url": "https://www.deutschlandfunk.de/lettland-druck-durch-migranten-an-eu-aussengrenze-nimmt-zu-schleuser-nutzen-vermehrt-tunnel-102.html",
-      "publishedAt": "2026-08-08T02:31:56.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "SPIEGEL.DE",
@@ -611,17 +619,17 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Nachrichtenmüdigkeit: Warum wir auf lösungsorientierten Journalismus setzen",
-      "excerpt": "Die deutsche Gesellschaft steckt im Stimmungstief, die Demokratie gilt als gefährdet. Sind daran auch Journalisten schuld? Wir versuchen etwas Neues.",
-      "url": "https://www.spiegel.de/politik/nachrichtenmuedigkeit-warum-wir-auf-loesungsorientierten-journalismus-setzen-a-7af04f15-b191-4f80-aba9-20e9593b245d#ref=rss",
+      "title": "Luisa Neubauer und Sepp Müller (CDU): Wie können sich Klimaschutz und Wirtschaft vertragen?",
+      "excerpt": "Der CDU-Politiker Sepp Müller sorgt sich um die Wettbewerbsfähigkeit der deutschen Wirtschaft, Aktivistin Luisa Neubauer um das Klima. Hier fechten sie den Streit aus. Und nähern sich an.",
+      "url": "https://www.spiegel.de/politik/deutschland/luisa-neubauer-und-sepp-mueller-cdu-wie-koennen-sich-klimaschutz-und-wirtschaft-vertragen-a-de09de2d-a85e-4f8a-be5c-d008428a9263#ref=rss",
       "publishedAt": "2026-08-07T09:18:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Luisa Neubauer und Sepp Müller (CDU): Wie können sich Klimaschutz und Wirtschaft vertragen?",
-      "excerpt": "Der CDU-Politiker Sepp Müller sorgt sich um die Wettbewerbsfähigkeit der deutschen Wirtschaft, Aktivistin Luisa Neubauer um das Klima. Hier fechten sie den Streit aus. Und nähern sich an.",
-      "url": "https://www.spiegel.de/politik/deutschland/luisa-neubauer-und-sepp-mueller-cdu-wie-koennen-sich-klimaschutz-und-wirtschaft-vertragen-a-de09de2d-a85e-4f8a-be5c-d008428a9263#ref=rss",
+      "title": "Nachrichtenmüdigkeit: Warum wir auf lösungsorientierten Journalismus setzen",
+      "excerpt": "Die deutsche Gesellschaft steckt im Stimmungstief, die Demokratie gilt als gefährdet. Sind daran auch Journalisten schuld? Wir versuchen etwas Neues.",
+      "url": "https://www.spiegel.de/politik/nachrichtenmuedigkeit-warum-wir-auf-loesungsorientierten-journalismus-setzen-a-7af04f15-b191-4f80-aba9-20e9593b245d#ref=rss",
       "publishedAt": "2026-08-07T09:18:00.000Z",
       "category": "POLITIK"
     },
@@ -719,14 +727,6 @@
       "excerpt": "Die erste Nackt-Fahrraddemo Deutschlands findet am Sonntag in Berlin statt. Organisator Ralf Sprenger sagt, wieso es dabei vor allem um Selbstakzeptanz geht. mehr...",
       "url": "https://taz.de/World-Naked-Bike-Ride/!6198201/",
       "publishedAt": "2026-08-07T04:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Flughafen Leipzig-Halle, Niedrigwasser und die Folgen, Kassem Taher Saleh",
-      "excerpt": "Deutschlands Abwehr gegen Drohnen schwächelt. Lkw sollen auch sonntags fahren dürfen. Ein Grünenpolitiker spricht offen über Druck und Depression. Das ist die Lage am Freitagmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-sprengstoffdrohne-auf-flughafen-leipzig-niedrigwasser-und-die-folgen-kassem-taher-saleh-und-depression-klaus-wowereit-im-berliner-wahlkampf-a-2074f20d-5b8a-45ae-a115-28b224ff799c#ref=rss",
-      "publishedAt": "2026-08-07T03:57:00.000Z",
       "category": "POLITIK"
     },
     {
