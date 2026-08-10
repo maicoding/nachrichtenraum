@@ -1,108 +1,12 @@
 {
-  "updatedAt": "2026-08-10T09:51:36.772Z",
+  "updatedAt": "2026-08-10T11:20:37.389Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "ENTHÜLLT - Rentenreform! Das kommt auf Sie zu",
-      "excerpt": "Die Merz-Regierung plant die Kapitalrente, Rentenbremse und schrittweise Rente mit 70.",
-      "url": "https://www.bild.de/politik/inland/grosse-rentenreform-kommission-plant-kapitalrente-und-rente-mit-70-6a36a9fa07aa664384c9d3dc",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Internet außer Rand und Band - Wilde Gerüchte um Trumps tolle Tolle",
-      "excerpt": "Sind seine Haare plötzlich heller, dichter und voluminöser? Seit einem Auftritt in Las Vegas gibt es eine wilde Debatte um die Frisu...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/internet-ausser-rand-und-band-wilde-geruechte-um-trumps-tolle-tolle-6a798c8ae22753e756e9b6c2",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Selenskyj schlägt Alarm - Zehntausende Kim-Krieger für Putin",
-      "excerpt": "Bis zu 50.000 Nordkoreaner sollen für Russland kämpfen, Kims Regime kassiert Milliarden.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-warnt-50-000-nordkoreanische-soldaten-fuer-putins-armee-6a797d7d97ee93b7ce854705",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Norden gegen Süden - Krach um den Start der Sommerferien",
-      "excerpt": "Nord- und Südländer streiten über frühe Sommerferien und ein neues Terminsystem.",
-      "url": "https://www.bild.de/politik/inland/norden-gegen-sueden-krach-um-start-der-sommerferien-nach-dem-1-juli-6a7844900ffb05c5b7b18fb2",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Wirtschaftspolitische Katastrophe“ - Fregatten-Stopp! Bürgermeister geht auf Pistorius los",
-      "excerpt": "Wolgasts Bürgermeister warnt Pistorius nach Fregatten-Stopp vor Job-Kollaps.",
-      "url": "https://www.bild.de/politik/inland/baustopp-fuer-fregatten-in-wolgast-buergermeister-geht-auf-pistorius-los-6a75b3924aef843a322761a8",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "41 Prozent Marktanteil! - Auto-Papst fordert: Stoppt die E-Auto-Prämie!",
-      "excerpt": "Berlin – Er ist Deutschlands Auto-Papst – und seit Jahren propagiert er das E-Auto – jetzt fordert Professor Ferdinand Dudenhöffer (...",
-      "url": "https://www.bild.de/politik/inland/41-prozent-marktanteil-auto-papst-fordert-stoppt-die-e-auto-praemie-6a786e3c35268e50270236a1",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Umfrage-Hammer in Sachsen-Anhalt - Diese Zahlen können alles ändern",
-      "excerpt": "Alarm-Umfrage für die CDU knapp einen Monat vor der Landtagswahl in Sachsen-Anhalt.",
-      "url": "https://www.bild.de/politik/inland/umfrage-zu-sachsen-anhalt-afd-uneinholbar-vorn-6a76eea84d862f0827f01913",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Grundgesetz ändern“ - Günther fordert Bundeswehr im Kampf gegen Drohnen",
-      "excerpt": "Günther fordert mehr Drohnenabwehr, notfalls mit Grundgesetzänderung und Bundeswehr.",
-      "url": "https://www.bild.de/politik/inland/grundgesetz-aendern-guenther-fordert-bundeswehr-gegen-drohnen-in-deutschland-6a7971580e3689919ec763ed",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mehr Arbeit, gleicher Lohn - Top-Boss setzt Kettensäge an 35-Stunden-Woche",
-      "excerpt": "Unternehmer Stihl fordert längere Arbeitszeiten ohne mehr Lohn, um Jobs zu sichern.",
-      "url": "https://www.bild.de/politik/inland/um-jobs-zu-retten-nikolas-stihl-will-ende-der-35-stunden-woche-bei-gleichem-lohn-6a796446054a6bdac20a5e7d",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - US-Senat billigt Gesetz zu Russland-Sanktionen",
-      "excerpt": "Neues US-Sanktionspaket soll Russland schwächen und Kiew neue Hoffnung geben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Top-Ökonom kritisiert Pistorius - Bundeswehr kauft zu viele alte Waffen",
-      "excerpt": "Ökonom Schularick wirft Pistorius vor, Milliarden in veraltete Rüstung zu stecken.",
-      "url": "https://www.bild.de/politik/inland/oekonom-kritisiert-verteidigungsminister-pistorius-milliarden-fuer-veraltete-waffen-6a79502e35268e5027023db7",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weniger netto vom Brutto - Müssen wir mehr blechen für die Arbeitslosen-Kasse?",
-      "excerpt": "Experten warnen vor Milliardenloch in der Arbeitslosenversicherung und Sparzwang.",
-      "url": "https://www.bild.de/politik/inland/weniger-netto-vom-brutto-muessen-wir-mehr-blechen-fuer-die-arbeitslosen-kasse-6a78b27335268e5027023a50",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Internet rätselt wegen seiner Haare - Wilde Gerüchte um Trumps tolle Tolle",
       "excerpt": "Trumps veränderte Frisur löst neue Spekulationen und Spott im Netz aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-internet-raetselt-wegen-seiner-frisur-6a790b350e3689919ec7612b",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "publishedAt": "2026-08-10T11:20:36.889Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +14,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "publishedAt": "2026-08-10T11:20:36.889Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +22,7 @@
       "title": "Bombe von Leipzig - Verdacht auf zweite Drohne erhärtet sich",
       "excerpt": "Ermittler vermuten professionellen Doppel-Drohnenanschlag auf den Flughafen Leipzig.",
       "url": "https://www.bild.de/politik/inland/drohnen-bombe-von-leipzig-verdacht-auf-zweite-drohne-erhaertet-sich-6a78503ee2d77b9140820f16",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "publishedAt": "2026-08-10T11:20:36.889Z",
       "category": "POLITIK"
     },
     {
@@ -126,31 +30,135 @@
       "title": "Kommentar - Goldene Zeiten für Regelbrecher",
       "excerpt": "Die Regierung streicht Sanktionen für verpasste Jobcenter-Termine und löscht Fehlzeiten.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-goldene-zeiten-fuer-regelbrecher-6a78994035268e502702392d",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "publishedAt": "2026-08-10T11:20:36.889Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Der Stütze-Freispruch - Alle Verwarnungen für Faulenzer gestrichen!",
-      "excerpt": "Neue Grundsicherung startet mit Nullrunde: Termin-Verstöße zählen nun wieder ab eins.",
-      "url": "https://www.bild.de/politik/inland/grundsicherung-alte-termin-strafen-zaehlen-ploetzlich-nicht-mehr-6a75dfdcc07f6c2f08035c62",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "title": "Umfrage-Hammer in Sachsen-Anhalt - Diese Zahlen können alles ändern",
+      "excerpt": "Alarm-Umfrage für die CDU knapp einen Monat vor der Landtagswahl in Sachsen-Anhalt.",
+      "url": "https://www.bild.de/politik/inland/umfrage-zu-sachsen-anhalt-afd-uneinholbar-vorn-6a76eea84d862f0827f01913",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kritischer Gesundheitszustand - Steht Irans Oberster Führer vor seinem Tod?",
-      "excerpt": "Ein ARD-Journalist ordnet die Spekulationen um Irans Führung ein.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/kritischer-gesundheitszustand-steht-irans-oberster-fuehrer-vor-seinem-tod-6a7757014c90ae9e2f2b87b1",
-      "publishedAt": "2026-08-10T09:51:35.662Z",
+      "title": "Selenskyj schlägt Alarm - Zehntausende Kim-Krieger für Putin",
+      "excerpt": "Bis zu 50.000 Nordkoreaner sollen für Russland kämpfen, Kims Regime kassiert Milliarden.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-warnt-50-000-nordkoreanische-soldaten-fuer-putins-armee-6a797d7d97ee93b7ce854705",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - US-Senat billigt Gesetz zu Russland-Sanktionen",
+      "excerpt": "Neues US-Sanktionspaket soll Russland schwächen und Kiew neue Hoffnung geben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Innenministerium bestätigt - Deutschland schickt Migranten nach Italien zurück",
+      "excerpt": "Deutschland will Asylbewerber wieder nach Italien und Griechenland zurückschicken.",
+      "url": "https://www.bild.de/politik/inland/deutschland-schiebt-migranten-nach-italien-zurueck-6a787a770e3689919ec75c5d",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Rente mit 70 soll kommen - Wie lange muss ich arbeiten, wenn die Rentenreform kommt?",
+      "excerpt": "Ab 2032 soll das Rentenalter mit der Lebenserwartung steigen – bis auf 70 Jahre.",
+      "url": "https://www.bild.de/politik/inland/rente-mit-70-kommt-ab-diesem-jahr-sollen-sie-kuenftig-in-rente-gehen-6a37c61ee6546062eaa73b9a",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "ENTHÜLLT - Rentenreform! Das kommt auf Sie zu",
+      "excerpt": "Die Merz-Regierung plant die Kapitalrente, Rentenbremse und schrittweise Rente mit 70.",
+      "url": "https://www.bild.de/politik/inland/grosse-rentenreform-kommission-plant-kapitalrente-und-rente-mit-70-6a36a9fa07aa664384c9d3dc",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Internet außer Rand und Band - Wilde Gerüchte um Trumps tolle Tolle",
+      "excerpt": "Sind seine Haare plötzlich heller, dichter und voluminöser? Seit einem Auftritt in Las Vegas gibt es eine wilde Debatte um die Frisu...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/internet-ausser-rand-und-band-wilde-geruechte-um-trumps-tolle-tolle-6a798c8ae22753e756e9b6c2",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Norden gegen Süden - Krach um den Start der Sommerferien",
+      "excerpt": "Nord- und Südländer streiten über frühe Sommerferien und ein neues Terminsystem.",
+      "url": "https://www.bild.de/politik/inland/norden-gegen-sueden-krach-um-start-der-sommerferien-nach-dem-1-juli-6a7844900ffb05c5b7b18fb2",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Wirtschaftspolitische Katastrophe“ - Fregatten-Stopp! Bürgermeister geht auf Pistorius los",
+      "excerpt": "Wolgasts Bürgermeister warnt Pistorius nach Fregatten-Stopp vor Job-Kollaps.",
+      "url": "https://www.bild.de/politik/inland/baustopp-fuer-fregatten-in-wolgast-buergermeister-geht-auf-pistorius-los-6a75b3924aef843a322761a8",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "41 Prozent Marktanteil! - Auto-Papst fordert: Stoppt die E-Auto-Prämie!",
+      "excerpt": "Berlin – Er ist Deutschlands Auto-Papst – und seit Jahren propagiert er das E-Auto – jetzt fordert Professor Ferdinand Dudenhöffer (...",
+      "url": "https://www.bild.de/politik/inland/41-prozent-marktanteil-auto-papst-fordert-stoppt-die-e-auto-praemie-6a786e3c35268e50270236a1",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Grundgesetz ändern“ - Günther fordert Bundeswehr im Kampf gegen Drohnen",
+      "excerpt": "Günther fordert mehr Drohnenabwehr, notfalls mit Grundgesetzänderung und Bundeswehr.",
+      "url": "https://www.bild.de/politik/inland/grundgesetz-aendern-guenther-fordert-bundeswehr-gegen-drohnen-in-deutschland-6a7971580e3689919ec763ed",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehr Arbeit, gleicher Lohn - Top-Boss setzt Kettensäge an 35-Stunden-Woche",
+      "excerpt": "Unternehmer Stihl fordert längere Arbeitszeiten ohne mehr Lohn, um Jobs zu sichern.",
+      "url": "https://www.bild.de/politik/inland/um-jobs-zu-retten-nikolas-stihl-will-ende-der-35-stunden-woche-bei-gleichem-lohn-6a796446054a6bdac20a5e7d",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Top-Ökonom kritisiert Pistorius - Bundeswehr kauft zu viele alte Waffen",
+      "excerpt": "Ökonom Schularick wirft Pistorius vor, Milliarden in veraltete Rüstung zu stecken.",
+      "url": "https://www.bild.de/politik/inland/oekonom-kritisiert-verteidigungsminister-pistorius-milliarden-fuer-veraltete-waffen-6a79502e35268e5027023db7",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weniger netto vom Brutto - Müssen wir mehr blechen für die Arbeitslosen-Kasse?",
+      "excerpt": "Experten warnen vor Milliardenloch in der Arbeitslosenversicherung und Sparzwang.",
+      "url": "https://www.bild.de/politik/inland/weniger-netto-vom-brutto-muessen-wir-mehr-blechen-fuer-die-arbeitslosen-kasse-6a78b27335268e5027023a50",
+      "publishedAt": "2026-08-10T11:20:36.888Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Sprengstoffdrohne in Leipzig - Regierung baut Drohnenabwehr aus - Günther fordert Einsatzmöglichkeit der Bundeswehr",
+      "excerpt": "Nach dem Fund einer Sprengstoff-Drohne am Flughafen Leipzig/Halle ‌will Bundesinnenminister ⁠Dobrindt die ⁠Drohnenabwehr der Bundespolizei ausbauen. Das Ministerium werde dazu eine Weisung erteilen, teilte eine Sprecheri",
+      "url": "https://www.deutschlandfunk.de/regierung-baut-drohnenabwehr-aus-guenther-fordert-einsatzmoeglichkeit-der-bundeswehr-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Drohnen am Leipziger Flughafen - Medienbericht: Videoaufnahmen zeigen offenbar gezielte Attacke auf ukrainische Maschine",
       "excerpt": "Auf dem Flughafen von Leipzig/Halle hat die mit Sprengstoff beladene Drohne neueren Erkenntnissen zufolge offenbar gezielt eine parkende Frachtmaschine der Ukraine attackiert. Wie \"Die Zeit\" unter Berufung auf Videoaufna",
       "url": "https://www.deutschlandfunk.de/medienbericht-videoaufnahmen-zeigen-offenbar-gezielte-attacke-auf-ukrainische-maschine-100.html",
-      "publishedAt": "2026-08-10T09:49:36.000Z",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +166,7 @@
       "title": "Ukraine-Krieg - Mindestens zwölf Tote bei ukrainischem Drohnenangriff in Russland",
       "excerpt": "Bei einem ukrainischen Drohnenangriff auf die zentralrussische Region Tatarstan sind mindestens zwölf Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-ukrainischem-drohnenangriff-in-russland-104.html",
-      "publishedAt": "2026-08-10T09:49:36.000Z",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +174,15 @@
       "title": "EU-Klimadienst - \"Copernicus\" misst den heißesten Sommer der Geschichte in Westeuropa",
       "excerpt": "In Westeuropa waren der Juni und der Juli so heiß wie noch nie seit Beginn der Temperaturaufzeichnungen. Nach Angaben des EU-Klimabeobachtungsprogramm \"Copernicus\" lag die Durchschnittstemperatur in den beiden Monaten be",
       "url": "https://www.deutschlandfunk.de/copernicus-misst-den-heissesten-sommer-der-geschichte-in-westeuropa-100.html",
-      "publishedAt": "2026-08-10T09:49:36.000Z",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Klima - Bank Triodos erwartet deutliche Schwächung der Wirtschaft durch Hitze",
+      "excerpt": "Die Hitze und die Dürre in diesem Jahr schwächen einem Bericht der Bank Triodos zufolge die europäische Wirtschaft.",
+      "url": "https://www.deutschlandfunk.de/bank-triodos-erwartet-deutliche-schwaechung-der-wirtschaft-durch-hitze-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,8 +190,176 @@
       "title": "Feuer - Neue Waldbrände in Spanien und Frankreich - Notstand in West-Kanada",
       "excerpt": "In Spanien und Frankreich sind neue Waldbrände ausgebrochen.",
       "url": "https://www.deutschlandfunk.de/neue-waldbraende-in-spanien-und-frankreich-notstand-in-west-kanada-108.html",
-      "publishedAt": "2026-08-10T09:49:36.000Z",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
       "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berechnungen - DGB: 64 Milliarden Euro Schaden durch Mindestlohn-Betrug seit dessen Einführung",
+      "excerpt": "Die Umgehung des gesetzlichen Mindestlohns hat nach Berechnungen des Deutschen Gewerkschaftsbundes seit dessen Einführung im Jahr 2015 insgesamt rund 64 Milliarden Euro wirtschaftlichen Schaden angerichtet. Ein Großteil ",
+      "url": "https://www.deutschlandfunk.de/dgb-64-milliarden-euro-schaden-durch-mindestlohn-betrug-seit-dessen-einfuehrung-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheit - Innenpolitiker Baldy (SPD): Gesetz für mehr Befugnisse der Geheimdienste zieht bessere Kontrolle nach sich",
+      "excerpt": "Vor den Beratungen des Bundeskabinetts am Mittwoch hat der SPD-Innenpolitiker Baldy die geplante Ausweitung der Befugnisse der Geheimdienste gegen Kritik verteidigt.",
+      "url": "https://www.deutschlandfunk.de/innenpolitiker-baldy-spd-gesetz-fuer-mehr-befugnisse-der-geheimdienste-zieht-bessere-kontrolle-nach--100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesetzentwurf - Zoll soll im Kampf gegen Geldwäsche, Schwarzarbeit und organisierte Kriminalität mehr Befugnisse bekommen",
+      "excerpt": "Der Zoll soll im Kampf gegen Geldwäsche, Schwarzarbeit und organisierte Kriminalität mehr Befugnisse erhalten.",
+      "url": "https://www.deutschlandfunk.de/zoll-soll-im-kampf-gegen-geldwaesche-schwarzarbeit-und-organisierte-kriminalitaet-mehr-befugnisse-be-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Aid Worker Security Database\" - 350 humanitäre Helfer starben im vergangenen Jahr im Einsatz",
+      "excerpt": "Im vergangenen Jahr sind weltweit 350 Helferinnen und Helfer bei humanitären Einsätzen ums Leben gekommen. Diese Zahl wird in der sogenannten \"Aid Worker Security Database\" genannt. Demnach wurden allein im Gaza-Streifen",
+      "url": "https://www.deutschlandfunk.de/350-humanitaere-helfer-starben-im-vergangenen-jahr-im-einsatz-102.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost-Konflikt - Israelisches Militär sperrt palästinensisches Dorf wegen Siedlergewalt",
+      "excerpt": "Die israelische Armee hat ein Dorf im Westjordanland zur geschlossenen militärischen Zone für Nicht-Bewohner erklärt.",
+      "url": "https://www.deutschlandfunk.de/israelisches-militaer-sperrt-palaestinensisches-dorf-wegen-siedlergewalt-102.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gaza-Streifen - Streit über Ernährungslage in dem Palästinersergebiet",
+      "excerpt": "Die Ernährungslage im Gaza-Streifen sorgt wieder für eine Kontroverse.",
+      "url": "https://www.deutschlandfunk.de/streit-ueber-ernaehrungslage-in-dem-palaestinersergebiet-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Oberstes Gericht - Klage: Russlands liberale Partei Jabloko droht Ausschluss von Parlamentswahl",
+      "excerpt": "Das Oberste Gericht Russlands verhandelt heute über einen möglichen Ausschluss der liberalen Oppositionspartei Jabloko von der Parlamentswahl im September.",
+      "url": "https://www.deutschlandfunk.de/klage-russlands-liberale-partei-jabloko-droht-ausschluss-von-parlamentswahl-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niedrigwasser - Binnenschiffer warnen vor Zweiteilung des Transports auf den Flüssen",
+      "excerpt": "Der Bundesverband der Deutschen Binnenschifffahrt warnt angesichts des andauernden Niedrigwassers vor einer Zweiteilung des Transports auf den Flüssen.",
+      "url": "https://www.deutschlandfunk.de/binnenschiffer-warnen-vor-zweiteilung-des-transports-auf-den-fluessen-102.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ungarn - Atomkraftwerk fährt wegen steigendem Wasserstand der Donau langsam wieder hoch",
+      "excerpt": "Nach ​einem Anstieg des Donau-Pegels fährt Ungarn die Stromproduktion in seinem einzigen Atomkraftwerk wieder etwas hoch.",
+      "url": "https://www.deutschlandfunk.de/atomkraftwerk-faehrt-wegen-steigendem-wasserstand-der-donau-langsam-wieder-hoch-102.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Taifun \"Dolphin\" - Behörden in China bringen mehr als eine Million Menschen in Sicherheit",
+      "excerpt": "Angesichts des Taifuns \"Dolphin\" haben die Behörden im Osten Chinas mehr als eine Million Menschen in Sicherheit gebracht.",
+      "url": "https://www.deutschlandfunk.de/behoerden-in-china-bringen-mehr-als-eine-million-menschen-in-sicherheit-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Drohnen - Ministerpräsident Günther: Bundeswehr soll Flughäfen gegen Drohnen schützen",
+      "excerpt": "Der Ministerpräsident von Schleswig-Holstein, Günther, hat sich für einen Einsatz der Bundeswehr zur Sicherung von deutschen Flughäfen gegen Drohnen ausgesprochen. Günther sagte im Deutschlandfunk, es vereinfachte die Ab",
+      "url": "https://www.deutschlandfunk.de/ministerpraesident-guenther-bundeswehr-soll-flughaefen-gegen-drohnen-schuetzen-100.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landgericht Saarbrücken - Urteil im Prozess um getöteten Gerichtsvollzieher im Saarland erwartet",
+      "excerpt": "In Saarbrücken wird heute das Urteil im Prozess um den Tod eines Gerichtsvollziehers erwartet.",
+      "url": "https://www.deutschlandfunk.de/urteil-im-prozess-um-getoeteten-gerichtsvollzieher-im-saarland-erwartet-102.html",
+      "publishedAt": "2026-08-10T11:16:29.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Alois Rainer: Er ist der blasseste Minister unter Merz, jetzt will er punkten",
+      "excerpt": "Um Landwirtschaftsminister Alois Rainer war es lange still. Mit dem CSU-Dauerbrenner Heimat glaubt er, endlich ein Thema gefunden zu haben.",
+      "url": "https://www.spiegel.de/politik/deutschland/alois-rainer-der-landwirtschaftsminister-entdeckt-die-heimat-fuer-sich-a-1859680c-35e0-428e-b229-95186ca38e18#ref=rss",
+      "publishedAt": "2026-08-10T11:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Steffen Bilger: Verkehrsminister startet offenbar mit ICE-Panne in erste Dienstreise",
+      "excerpt": "Tücken bei der Deutschen Bahn machen augenscheinlich auch vor einem Verkehrsminister nicht Halt. Zum Start seiner Sommerreise nach Norddeutschland musste Steffen Bilger laut einem Bericht erst einmal den Wagen wechseln.",
+      "url": "https://www.spiegel.de/politik/deutschland/steffen-bilger-verkehrsminister-startet-offenbar-mit-ice-panne-in-erste-dienstreise-a-8f79d567-35a3-4fae-b9c9-72ad0c0fdf2c#ref=rss",
+      "publishedAt": "2026-08-10T11:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "„Eingelocht“ ist wieder da: Wie der Golfer Donald Trump im Soccermilieu versackte",
+      "excerpt": "Nach dem Fußballsommer ohne Golf-Kolumne müssen wir auf den Finalabend der WM zurückblicken. Und dabei muss es um den golfenden Wüterich gehen. mehr...",
+      "url": "https://taz.de/Eingelocht-ist-wieder-da/!6203138/",
+      "publishedAt": "2026-08-10T10:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Konzerte in Brandenburg und Berlin: Alles für Leib und Seele",
+      "excerpt": "Ein Wochenende voll breit gefasster Klassik lehrt: Auch mit schmerzendem Arm kann man Fischbrötchen und György Ligeti genießen. mehr...",
+      "url": "https://taz.de/Konzerte-in-Brandenburg-und-Berlin/!6203145/",
+      "publishedAt": "2026-08-10T10:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "VdP-Zahlen: Mieten in Deutschland ziehen deutlich an",
+      "excerpt": "Der Mangel an Wohnraum lässt die Mieten in Deutschland deutlich steigen, zeigen Daten der Pfandbriefbanken - am stärksten in Düsseldorf. In Berlin wird weiter über die Enteignung von Wohnungskonzernen diskutiert.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mieten-preise-wohnungsmarkt-100.html",
+      "publishedAt": "2026-08-10T10:36:03.000Z",
+      "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ukraine trifft russische Wirtschaft: Drohnenattacken gegen Russlands Finanzsystem",
+      "excerpt": "Die ukrainischen Angriffe auf den größten russischen Internethändler Wildberries können zu einem Kollaps im Bankensystem führen. mehr...",
+      "url": "https://taz.de/Drohnenattacken-gegen-Russlands-Finanzsystem/!6203147/",
+      "publishedAt": "2026-08-10T10:28:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "SPD: Parteibasis drängt auf Sonderparteitag für neue Führung",
+      "excerpt": "Seit Tagen brodelt es an der SPD-Basis, nun fordern die ersten Genossen Konsequenzen: Die AG Migration und Vielfalt schlägt einen Sonderparteitag vor, um die Spitze neu aufzustellen. Die aktuelle Führung sei gescheitert.",
+      "url": "https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss",
+      "publishedAt": "2026-08-10T10:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Baden-Württemberg will Lkw-Sonntagsfahrverbot auch aussetzen",
+      "excerpt": "Auf wichtigen Wasserstraßen sind die Pegel niedrig, das hat auch Folgen für den Straßenverkehr. Einige Bundesländer haben das Fahrverbot für Lkw an Sonntagen bereits ausgesetzt, Baden-Württemberg zieht nun nach.",
+      "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-will-lkw-sonntagsfahrverbot-auch-aussetzen-a-066faf7b-3ef9-4eac-b7d6-694b5c146517#ref=rss",
+      "publishedAt": "2026-08-10T10:02:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Warum werden in Malta kaum Asylanträge gestellt?",
+      "excerpt": "Migranten bedrängen die Grenzzäune der spanischen Exklave Ceuta, auf der italienischen Insel Lampedusa kommen seit Jahren viele Migranten an, in Griechenland auch. Doch in Malta werden kaum Asylanträge gestellt. Woran li",
+      "url": "https://www.tagesschau.de/ausland/europa/malta-migration-100.html",
+      "publishedAt": "2026-08-10T10:01:02.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -200,118 +384,6 @@
       "url": "https://taz.de/Tour-de-France-Femmes/!6203124/",
       "publishedAt": "2026-08-10T09:43:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Berechnungen - DGB: 64 Milliarden Euro Schaden durch Mindestlohn-Betrug seit dessen Einführung",
-      "excerpt": "Die Umgehung des gesetzlichen Mindestlohns hat nach Berechnungen des Deutschen Gewerkschaftsbundes seit dessen Einführung im Jahr 2015 insgesamt rund 64 Milliarden Euro wirtschaftlichen Schaden angerichtet. Ein Großteil ",
-      "url": "https://www.deutschlandfunk.de/dgb-64-milliarden-euro-schaden-durch-mindestlohn-betrug-seit-dessen-einfuehrung-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Drohnen - Ministerpräsident Günther: Bundeswehr soll Flughäfen gegen Drohen schützen",
-      "excerpt": "Der Ministerpräsident von Schleswig-Holstein, Günther, hat sich für einen Einsatz der Bundeswehr zur Sicherung von deutschen Flughäfen gegen Drohnen ausgesprochen. Günther sagte im Deutschlandfunk, es vereinfachte die Ab",
-      "url": "https://www.deutschlandfunk.de/ministerpraesident-guenther-bundeswehr-soll-flughaefen-gegen-drohen-schuetzen-102.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheit - Innenpolitiker Baldy (SPD): Gesetz für mehr Befugnisse der Geheimdienste zieht bessere Kontrolle nach sich",
-      "excerpt": "Vor den Beratungen des Bundeskabinetts am Mittwoch hat der SPD-Innenpolitiker Baldy die geplante Ausweitung der Befugnisse der Geheimdienste gegen Kritik verteidigt.",
-      "url": "https://www.deutschlandfunk.de/innenpolitiker-baldy-spd-gesetz-fuer-mehr-befugnisse-der-geheimdienste-zieht-bessere-kontrolle-nach--100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Irreguläre Migration - EVP-Fraktionschef Weber fordert rasche Einrichtung von Abschiebezentren in Afrika und Stärkung von EU-Grenzschutzbehörde Frontex",
-      "excerpt": "Als Reaktion auf den Ansturm von Migranten auf die spanische Exklave Ceuta hat der Vorsitzende der EVP-Fraktion im Europäischen Parlament, Weber, die rasche Einrichtung von Abschiebezentren in Afrika gefordert.",
-      "url": "https://www.deutschlandfunk.de/evp-fraktionschef-weber-fordert-rasche-einrichtung-von-abschiebezentren-in-afrika-und-staerkung-von--100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Aid Worker Security Database\" - 350 humanitäre Helfer starben im vergangenen Jahr im Einsatz",
-      "excerpt": "Im vergangenen Jahr sind weltweit 350 Helferinnen und Helfer bei humanitären Einsätzen ums Leben gekommen. Diese Zahl wird in der sogenannten \"Aid Worker Security Database\" genannt. Demnach wurden allein im Gaza-Streifen",
-      "url": "https://www.deutschlandfunk.de/350-humanitaere-helfer-starben-im-vergangenen-jahr-im-einsatz-102.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost-Konflikt - Israelisches Militär sperrt palästinensisches Dorf wegen Siedlergewalt",
-      "excerpt": "Die israelische Armee hat ein Dorf im Westjordanland zur geschlossenen militärischen Zone für Nicht-Bewohner erklärt.",
-      "url": "https://www.deutschlandfunk.de/israelisches-militaer-sperrt-palaestinensisches-dorf-wegen-siedlergewalt-102.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Oberstes Gericht - Klage: Russlands liberale Partei Jabloko droht Ausschluss von Parlamentswahl",
-      "excerpt": "Das Oberste Gericht Russlands verhandelt heute über einen möglichen Ausschluss der liberalen Oppositionspartei Jabloko von der Parlamentswahl im September.",
-      "url": "https://www.deutschlandfunk.de/klage-russlands-liberale-partei-jabloko-droht-ausschluss-von-parlamentswahl-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Taifun \"Dolphin\" - Behörden in China bringen mehr als eine Million Menschen in Sicherheit",
-      "excerpt": "Angesichts des Taifuns \"Dolphin\" haben die Behörden im Osten Chinas mehr als eine Million Menschen in Sicherheit gebracht.",
-      "url": "https://www.deutschlandfunk.de/behoerden-in-china-bringen-mehr-als-eine-million-menschen-in-sicherheit-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedrigwasser - Binnenschiffer warnen vor Zweiteilung des Transports auf den Flüssen",
-      "excerpt": "Der Bundesverband der Deutschen Binnenschifffahrt warnt angesichts des andauernden Niedrigwassers vor einer Zweiteilung des Transports auf den Flüssen.",
-      "url": "https://www.deutschlandfunk.de/binnenschiffer-warnen-vor-zweiteilung-des-transports-auf-den-fluessen-102.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landgericht Saarbrücken - Urteil im Prozess um getöteten Gerichtsvollzieher im Saarland erwartet",
-      "excerpt": "In Saarbrücken wird heute das Urteil im Prozess um den Tod eines Gerichtsvollziehers erwartet.",
-      "url": "https://www.deutschlandfunk.de/urteil-im-prozess-um-getoeteten-gerichtsvollzieher-im-saarland-erwartet-102.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Islamistische Rebellen - Huthi-Miliz greift im Jemen erneut Hafen von Mokka an - sieben Tote",
-      "excerpt": "Aus dem Jemen wird ein weiterer Angriff der Huthi-Rebellen gemeldet.",
-      "url": "https://www.deutschlandfunk.de/huthi-miliz-greift-im-jemen-erneut-hafen-von-mokka-an-sieben-tote-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russischer Luftangriff auf Sumy - fünf Verletzte",
-      "excerpt": "Bei einem russischen Luftangriff auf die nordostukrainische Stadt Sumy sind mindestens fünf Menschen verletzt worden.",
-      "url": "https://www.deutschlandfunk.de/russischer-luftangriff-auf-sumy-fuenf-verletzte-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Drogen- und Waffenschmuggel - Mutmaßlicher Gangster-Boss Daniel Kinahan nach Irland ausgeliefert",
-      "excerpt": "Die Vereinigten Arabischen Emirate haben den mutmaßlichen Anführer einer europaweit tätigen Verbrecherorganisation an Irland ausgeliefert.",
-      "url": "https://www.deutschlandfunk.de/mutmasslicher-gangster-boss-daniel-kinahan-nach-irland-ausgeliefert-106.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Von Bewaffneten verschleppt - Armee in Nigeria befreit 33 Entführungsopfer",
-      "excerpt": "Im Nordwesten Nigerias hat die Armee 33 verschleppte Menschen befreit.",
-      "url": "https://www.deutschlandfunk.de/armee-in-nigeria-befreit-33-entfuehrungsopfer-100.html",
-      "publishedAt": "2026-08-10T09:24:23.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -507,22 +579,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Ukrainischer Autor Andrej Kurkow: „Wir dürfen nicht die sowjetische Methode wiederholen“",
-      "excerpt": "Der ukrainische Schriftsteller Andrej Kurkow im Gespräch über sein neues Kriegstagebuch, seine Familiengeschichte und Boule für Veteranen. mehr...",
-      "url": "https://taz.de/Ukrainischer-Autor-Andrej-Kurkow/!6202126/",
-      "publishedAt": "2026-08-09T18:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Treffen gegen Brasiliens Ölpläne: Die Angst vor dem alles vernichtenden Unfall",
-      "excerpt": "Lula will Brasiliens Energiewende mit Einnahmen aus der Erdölförderung an der Amazonasmündung finanzieren. Dagegen wehren sich die Menschen vor Ort. mehr...",
-      "url": "https://taz.de/Treffen-gegen-Brasiliens-Oelplaene/!6202913/",
-      "publishedAt": "2026-08-09T18:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Anschlag auf den CSD in Berlin: Sonnenallee For Queers",
       "excerpt": "Entlang der Sonnenallee leben viele queere Menschen. Wie wäre es, wenn nach dem CSD-Anschlag dort überall Regenbogenflaggen gehangen hätten? mehr...",
       "url": "https://taz.de/Anschlag-auf-den-CSD-in-Berlin/!6198941/",
@@ -535,14 +591,6 @@
       "excerpt": "Selenskyj besucht erstmals seinen serbischen – und russlandnahen – Amtskollegen in Belgrad. Das zeigt: Die Gemengelage im Ukrainekrieg verändert sich. mehr...",
       "url": "https://taz.de/Zu-Besuch-beim-Putin-Freund-Vucic/!6202940/",
       "publishedAt": "2026-08-09T18:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Elektronische Kriegsführung: Stören, verwirren, verunsichern",
-      "excerpt": "Drohnen von ihrer Route abkommen zu lassen, ist Teil der elektronischen Kriegsführung. Vor allem in den Staaten in der Grenzregion zu Russland. mehr...",
-      "url": "https://taz.de/Elektronische-Kriegsfuehrung/!6202895/",
-      "publishedAt": "2026-08-09T18:05:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -698,22 +746,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Thorsten Frei: CDU-Spitze will in Sachsen-Anhalt auf Kooperationsverbot mit AfD beharren",
-      "excerpt": "Bei der Landtagswahl in Sachsen-Anhalt könnte die AfD eine deutliche Mehrheit einfahren. Für Unionsfraktionschef Thorsten Frei ist eine Koalition mit seiner Partei ausgeschlossen.",
-      "url": "https://www.spiegel.de/politik/thorsten-frei-cdu-spitze-will-in-sachsen-anhalt-auf-kooperationsverbot-mit-afd-beharren-a-09f32bad-ec81-4790-b3f9-36a879d52fde#ref=rss",
-      "publishedAt": "2026-08-08T17:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Plauen: 10.000 Menschen demonstrieren gegen die Regierung",
-      "excerpt": "Bei Protesten in Sachsen haben Tausende Menschen den Rücktritt der Bundesregierung gefordert. Unter den Demonstranten waren auch die rechtsextremen »Freien Sachsen«.",
-      "url": "https://www.spiegel.de/politik/plauen-10-000-menschen-demonstrieren-gegen-die-regierung-a-122c8042-180c-48e4-b77b-22c641dd6099#ref=rss",
-      "publishedAt": "2026-08-08T17:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Sprengstoff-Drohne in Leipzig/Halle: Ein Angriff \"fremder Mächte\" - oder Russlands?",
       "excerpt": "Die Bundesregierung bezeichnet den Drohnen-Vorfall als Angriff \"fremder Mächte\". Eine Schuldzuweisung an Russland vermeidet sie. Verteidigungsexperten sehen Hinweise auf eine russische Urheberschaft. Was spricht für - wa",
@@ -768,22 +800,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/uk-burnham-obdachlosigkeit-100.html",
       "publishedAt": "2026-08-08T13:52:21.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin: Steffen Krach (SPD) will mit Polizeikontrollen gegen Mietwucher vorgehen",
-      "excerpt": "In der Hauptstadt herrscht Wohnungsmangel, manche Vermieter nutzen das für überhöhte Forderungen. SPD-Spitzenkandidat Steffen Krach verspricht nun im Wahlkampf: Es soll 100 »Mietenpolizisten« geben.",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-spitzenkandidat-steffen-krach-will-polizeikontrollen-gegen-mietwucher-a-a97b0b7a-5e56-428a-aef4-5701a2322c83#ref=rss",
-      "publishedAt": "2026-08-08T13:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Winfried Kretschmann: Ruhestand bringt keine Ruhe in den Schlaf",
-      "excerpt": "Das Amt des Ministerpräsidenten hat Winfried Kretschmann ein ständiges Schlafdefizit beschert. Nun könnte er ohne Termindruck schlummern – doch das will ihm nicht recht gelingen.",
-      "url": "https://www.spiegel.de/politik/deutschland/winfried-kretschmann-ruhestand-bringt-keine-ruhe-in-den-schlaf-a-9f127980-5353-4cb7-ba0a-4035a4d58d52#ref=rss",
-      "publishedAt": "2026-08-08T12:25:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
@@ -847,14 +863,6 @@
       "excerpt": "Als Reaktion auf den Ansturm auf die spanische Exklave Ceuta hat Italien das Schengen-Abkommen mit Madrid ausgesetzt. Nun fordert Spanien ultimativ ein Ende der Grenzkontrollen. Doch Rom zeigt sich unbeeindruckt.",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "publishedAt": "2026-08-07T14:53:55.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Iran-Krieg: Ein bulgarisches Dorf gegen US-Flugzeuge",
-      "excerpt": "US-Tankflugzeuge dürfen einen bulgarischen Militärflughafen nutzen, um von dort nach Nahost zu fliegen. Die Menschen vor Ort sind besorgt - denn Irans Regime droht nun Bulgarien. Von Clemens Verenkotte.",
-      "url": "https://www.tagesschau.de/ausland/europa/bulgarien-us-flugzeuge-100.html",
-      "publishedAt": "2026-08-07T13:01:27.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -1288,14 +1296,6 @@
       "url": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html",
       "publishedAt": "2026-07-22T23:01:35.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wo Tanken besonders teuer ist - und wo sich sparen lässt",
-      "excerpt": "Wer mit dem Auto unterwegs ist, kann je nach Land und Region unterschiedlich viel fürs Tanken bezahlen. Wo Sprit in Europa besonders teuer oder günstig ist und worauf Reisende achten sollten. Von Michelle Goddemeier.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-sprit-preise-ausland-100.html",
-      "publishedAt": "2026-07-21T13:03:27.000Z",
-      "category": "WIRTSCHAFT & PREISE"
     },
     {
       "source": "TAGESSCHAU.DE",
