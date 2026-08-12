@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#000108" />
+    <meta name="description" content="Nachrichtenraum V2, eine für Meta Quest optimierte WebXR-Erfahrung." />
+    <title>Nachrichtenraum V2</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="/vendor/aframe-v1.8.0.min.js"></script>
+  </head>
+  <body>
+    <main id="app">
+      <a-scene
+        id="xr-scene"
+        background="color: #000108"
+        fog="type: exponential; color: #000108; density: 0.022"
+        renderer="antialias: false; colorManagement: true; foveationLevel: 1; precision: medium; maxCanvasWidth: 2560; maxCanvasHeight: 1440"
+        webxr="referenceSpaceType: local-floor; optionalFeatures: local-floor, bounded-floor"
+        vr-mode-ui="enabled: false"
+        loading-screen="enabled: false"
+        device-orientation-permission-ui="enabled: false"
+      >
+        <a-entity id="rig">
+          <a-camera
+            id="viewer"
+            position="0 1.62 0"
+            look-controls="pointerLockEnabled: false; magicWindowTrackingEnabled: true"
+            wasd-controls="acceleration: 16"
+          >
+            <a-entity id="vr-hud" visible="false">
+              <a-plane
+                position="-0.67 0.48 -1.4"
+                width="0.62"
+                height="0.11"
+                material="color: #061226; shader: flat; transparent: true; opacity: 0.72; depthTest: false"
+              ></a-plane>
+              <a-text
+                id="vr-phase"
+                value="BEREIT"
+                position="-0.96 0.48 -1.395"
+                width="1.15"
+                color="#d9e7ff"
+                align="left"
+                baseline="center"
+                material="depthTest: false"
+              ></a-text>
+              <a-plane
+                id="vr-pause-button"
+                position="0 -0.52 -1.25"
+                width="0.64"
+                height="0.13"
+                material="color: #0a1b35; shader: flat; opacity: 0.92; depthTest: false"
+              >
+                <a-text
+                  id="vr-pause-label"
+                  value="ALLE ANHALTEN"
+                  position="0 0 0.006"
+                  width="0.78"
+                  color="#ffffff"
+                  align="center"
+                  baseline="center"
+                  material="depthTest: false"
+                ></a-text>
+              </a-plane>
+              <a-text
+                id="vr-help"
+                value="LINKS: LAUFEN  |  RECHTS: DREHEN  |  TRIGGER: AUSWAHL"
+                position="0 -0.72 -1.5"
+                width="1.35"
+                color="#7084a8"
+                align="center"
+                baseline="center"
+                material="depthTest: false"
+              ></a-text>
+            </a-entity>
+          </a-camera>
+
+          <a-entity
+            id="left-controller"
+            meta-touch-controls="hand: left; model: true"
+            raycaster="objects: .interactive; far: 14; showLine: false"
+            cursor="rayOrigin: entity; fuse: false; downEvents: triggerdown; upEvents: triggerup"
+          ></a-entity>
+          <a-entity
+            id="right-controller"
+            meta-touch-controls="hand: right; model: true"
+            raycaster="objects: .interactive; far: 14; showLine: false"
+            cursor="rayOrigin: entity; fuse: false; downEvents: triggerdown; upEvents: triggerup"
+          ></a-entity>
+        </a-entity>
+
+        <a-entity id="data-swarm"></a-entity>
+        <a-entity id="news-root"></a-entity>
+        <a-entity
+          id="left-pointer"
+          visible="false"
+          geometry="primitive: triangle; vertexA: 0 0.022 0; vertexB: -0.016 -0.014 0; vertexC: 0.016 -0.014 0"
+          material="color: #8eb8ff; shader: flat; side: double; depthTest: false"
+        ></a-entity>
+        <a-entity
+          id="right-pointer"
+          visible="false"
+          geometry="primitive: triangle; vertexA: 0 0.022 0; vertexB: -0.016 -0.014 0; vertexC: 0.016 -0.014 0"
+          material="color: #ffffff; shader: flat; side: double; depthTest: false"
+        ></a-entity>
+        <a-entity
+          id="mouse-cursor"
+          cursor="rayOrigin: mouse; fuse: false"
+          raycaster="objects: .interactive; far: 18"
+        ></a-entity>
+      </a-scene>
+
+      <section id="start-screen" aria-labelledby="title">
+        <div class="start-panel">
+          <div class="version">PUNKT E · VERSION 2</div>
+          <h1 id="title">Nachrichtenraum</h1>
+          <p class="intro">WebXR für Meta Quest. Beide Controller können einzelne Nachrichten anvisieren, anhalten und schließen.</p>
+          <div class="actions">
+            <button id="vr-button" class="primary" type="button" disabled>IN VR STARTEN</button>
+            <button id="browser-button" type="button" disabled>IM BROWSER STARTEN</button>
+            <button id="install-button" type="button" hidden>INSTALLIEREN</button>
+          </div>
+          <dl class="controls">
+            <div><dt>Linker Stick</dt><dd>bewegen</dd></div>
+            <div><dt>Rechter Stick</dt><dd>30° drehen</dd></div>
+            <div><dt>Trigger</dt><dd>News anhalten</dd></div>
+            <div><dt>X auf Kachel</dt><dd>schließen</dd></div>
+          </dl>
+          <p class="install-hint">Quest Browser: Seite öffnen und „In VR starten“ wählen. Optional im Browsermenü zum Startbildschirm hinzufügen.</p>
+          <a class="old-version" href="../">Version 1 öffnen</a>
+        </div>
+      </section>
+
+      <section id="hud" aria-live="polite">
+        <div><span id="phase-label">BEREIT</span><span id="timer">00:00</span></div>
+        <div><span id="message-count">0 NEWS</span><span id="feed-status">RSS WIRD GELADEN</span></div>
+      </section>
+
+      <button id="pause-all" type="button">ALLE ANHALTEN</button>
+      <div id="desktop-help">KLICK: NEWS ANHALTEN · X: SCHLIESSEN · WASD: BEWEGEN</div>
+      <div id="toast" role="status" aria-live="polite"></div>
+    </main>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

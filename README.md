@@ -2,7 +2,9 @@
 
 Browserbasierter 360°-Nachrichtenraum mit WebXR-Unterstützung.
 
-Öffentliche Fassung: https://maicoding.github.io/nachrichtenraum/
+Version 1: https://maicoding.github.io/nachrichtenraum/
+
+Version 2 für Meta Quest: https://maicoding.github.io/nachrichtenraum/v2/
 
 ## Start
 
@@ -49,3 +51,18 @@ window.nachrichtenraum.pushMessage({ source: 'WHATSAPP', title: 'Eine freigegebe
 ```
 
 Für den Ausstellungsbetrieb benötigt WebXR HTTPS oder `localhost`.
+
+## Version 2 auf Meta Quest
+
+1. Den Link im Meta Quest Browser öffnen.
+2. `IN VR STARTEN` wählen.
+3. Mit dem linken Stick vorwärts, rückwärts und seitwärts gehen. Physische Bewegung im eingerichteten Guardian-Bereich bleibt aktiv.
+4. Mit dem rechten Stick in 30-Grad-Schritten drehen.
+5. Mit einem Controller auf eine Kachel zeigen. Das weiße oder blaue Dreieck markiert den Trefferpunkt.
+6. Den Trigger auf der Kachel drücken, um diese Nachricht anzuhalten oder fortzusetzen.
+7. Den Trigger auf dem X drücken, um die Nachricht zu schließen. Sofort erscheinen zwei neue Nachrichten.
+8. Mit A, X oder `ALLE ANHALTEN` die gesamte Simulation anhalten und fortsetzen.
+
+Der Ablauf wiederholt drei aktive Phasen. Phase I läuft 20 Sekunden langsam, danach folgen 6 Sekunden Stille. Phase II läuft 20 Sekunden mit mittlerer Dichte, danach folgen 6 Sekunden Stille. Phase III läuft 20 Sekunden mit bis zu 72 Nachrichten, danach folgen 6 Sekunden Stille. Zu Beginn jeder aktiven Phase wird der Kartenbestand neu aufgebaut.
+
+Die Browserfassung verwendet WebXR und A-Frame. Eine APK und das native Meta XR SDK werden für diesen Link nicht benötigt. Über das Browsermenü der Quest kann die Seite zum Startbildschirm hinzugefügt werden.
