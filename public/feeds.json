@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-08-12T12:31:50.110Z",
+  "updatedAt": "2026-08-12T14:06:29.830Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Elektroschock-Handschuh - ICE plant Stromstoß per Handschlag",
-      "excerpt": "Einmal leicht berührt, und schon geht dieser Soldat in die Knie. Möglich macht das ein spezieller Handschuh, der Elektroschocks abge...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/elektroschock-handschuh-ice-plant-stromstoss-per-handschlag-6a7c4c95c99104ecb401a561",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "title": "Regierung kippt „begleitetes Trinken“ - Bier und Wein für unter 16-Jährige künftig tabu",
+      "excerpt": "Unter 16-Jährige sollen künftig auch mit Eltern keinen Alkohol mehr trinken dürfen.",
+      "url": "https://www.bild.de/politik/inland/regierung-kippt-begleitetes-trinken-bier-und-wein-fuer-unter-16-jaehrige-kuenftig-tabu-6a7c694ea87e8142c31cdd8f",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aus Angst vor „Golf“-Krieg - Trump golft nur noch mit Flugabwehr",
+      "excerpt": "Beim Golfen schützt ein Flugabwehrsystem Trump vor Drohnen und Anschlägen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-flugabwehr-schuetzt-ihn-beim-golfen-vor-drohnen-aus-dem-iran-6a7b11eb0e3689919ec77c8e",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,39 @@
       "title": "Sachsen-Anhalt - Polizei-Funktionär wiegelt Ost-Kollegen gegen AfD auf",
       "excerpt": "Gewerkschafter fordert Polizeivorbereitung auf AfD-Regierung, Jurist widerspricht scharf.",
       "url": "https://www.bild.de/politik/inland/sachsen-anhalt-polizei-funktionaer-wiegelt-ost-kollegen-gegen-afd-auf-6a7c25550e3689919ec789d7",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "SPD-Werbung vor Bundeswehr-Kaserne - Pistorius macht Wahlkampf gegen eigenen Soldaten",
+      "excerpt": "Pistorius macht SPD-Werbung vor einer Kaserne – gegen seinen eigenen Soldaten.",
+      "url": "https://www.bild.de/politik/inland/verteidigungsminister-boris-pistorius-macht-spd-wahlkampf-im-umfeld-der-bundeswehr-6a7b012f67ddb2e13c58401f",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wer kann wirklich Probleme lösen? - Umfrage-Desaster für ALLE Parteien",
+      "excerpt": "Umfragen zeigen: Die Parteien verlieren Vertrauen, jeder Dritte will nicht wählen gehen.",
+      "url": "https://www.bild.de/politik/inland/wer-kann-wirklich-probleme-loesen-umfrage-desaster-fuer-alle-parteien-6a7c2c70ce20c44e1d3a9f3b",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Händler stoppen Verkauf ins Ausland - Firmen-Aufstand gegen Verpackungswahnsinn der EU",
+      "excerpt": "Neue EU-Verpackungsregeln treiben kleine Händler dazu, Lieferungen ins Ausland zu kappen.",
+      "url": "https://www.bild.de/politik/inland/neue-verpackungsverordnung-firmen-aufstand-gegen-eu-6a7c1b9867ddb2e13c584dbc",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Elektroschock-Handschuh - ICE plant Stromstoß per Handschlag",
+      "excerpt": "Einmal leicht berührt, und schon geht dieser Soldat in die Knie. Möglich macht das ein spezieller Handschuh, der Elektroschocks abge...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/elektroschock-handschuh-ice-plant-stromstoss-per-handschlag-6a7c4c95c99104ecb401a561",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +62,7 @@
       "title": "Nach Tausenden Unfällen mit E-Scootern - Helm-Zwang bald auch in Deutschland?",
       "excerpt": "Mehr Unfälle mit E-Scootern: Politiker streiten über Helmpflicht in Deutschland.",
       "url": "https://www.bild.de/politik/inland/e-scooter-16-500-unfaelle-entfachen-helmdebatte-6a7c27250e3689919ec789f2",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +70,7 @@
       "title": "Drohnen-Plan - Was die Nato von der Ukraine gelernt hat",
       "excerpt": "NATO plant ein KI-Gefechtsnetz mit Drohnen, doch über Angriffe entscheidet der Mensch.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/drohnen-plan-was-die-nato-von-der-ukraine-gelernt-hat-6a7c3bf0a87e8142c31cd88c",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +78,7 @@
       "title": "Nach spektakulären Zugriffen - Amis verhökern Russen-Tanker als Schrott",
       "excerpt": "USA verkaufen zwei sanktionierte Öltanker an Abwrackfirma in Dubai",
       "url": "https://www.bild.de/politik/ausland-und-internationales/usa-verkaufen-beschlagnahmte-russische-tanker-als-schrott-6a7c47cd169e8e32c0ae53e3",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +86,7 @@
       "title": "BILD-Debatte zur Rente - „Es trifft die, die am meisten gearbeitet haben“",
       "excerpt": "Ist unser Rentensystem gerecht? Darüber haben BILD-User diskutiert. Alle Infos hier.",
       "url": "https://www.bild.de/politik/inland/kritik-an-rente-es-trifft-immer-die-die-am-meisten-gearbeitet-haben-6a79837c35268e50270240d8",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +94,7 @@
       "title": "Berufsanfänger aufgepasst! - Lohn-Killer KI? Umfrage sieht Gefahr für junge Leute",
       "excerpt": "Umfrage: Firmen erwarten durch KI vor allem für Berufsanfänger sinkende Löhne.",
       "url": "https://www.bild.de/politik/inland/lohn-killer-ki-umfrage-sieht-gefahr-fuer-junge-leute-6a7c3f36ce20c44e1d3aa1a9",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +102,7 @@
       "title": "Steuergeld gegen die Krise - Bald nur noch Förderung für deutsche E-Autos?",
       "excerpt": "Kurz nach ihrer Einführung zeigt sich bei der staatlichen Prämie eine große Schwäche.",
       "url": "https://www.bild.de/politik/inland/bald-nur-noch-foerderung-fuer-deutsche-e-autos-6a7c2f3fc99104ecb401a13a",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +110,7 @@
       "title": "Live-Ticker zum Ukraine-Krieg - Putin will europäische Schiffe beschlagnahmen",
       "excerpt": "Putin droht: Russland könnte als Vergeltung europäische Handelsschiffe festsetzen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +118,7 @@
       "title": "Plakat-Panne in Sachsen-Anhalt - CDU-Schulze lässt Rollstuhlfahrerin wieder aufstehen",
       "excerpt": "CDU-Wahlplakate zeigen dieselbe Frau im Rollstuhl und stehend, im Netz hagelt Spott.",
       "url": "https://www.bild.de/politik/inland/sachsen-anhalt-cdu-schulze-laesst-rollstuhlfahrerin-wieder-aufstehen-6a7c1d7f67ddb2e13c584df1",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +126,7 @@
       "title": "Wenn mitten am Tag die Nacht hereinbricht - Wie ich zur Jägerin der Sonnenfinsternis wurde",
       "excerpt": "Wie eine BILD-Reporterin um die Welt reist, weil ihr die wenigen Minuten so viel bedeuten.",
       "url": "https://www.bild.de/politik/inland/bild-reporterin-jagt-sonnenfinsternis-warum-sie-der-sonne-um-die-welt-folgt-6a749ebb0695ba8b04105fdf",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +134,7 @@
       "title": "Ab 12 Uhr live bei BILD - Mit der Lizenz zum Schießen: So 007 wird jetzt der BND",
       "excerpt": "Neues Gesetz gibt dem BND mehr Eingriffsrechte, bis hin zum Schuss im Notfall.",
       "url": "https://www.bild.de/politik/inland/bnd-reform-agenten-duerfen-im-notfall-sogar-schiessen-was-sich-aendert-6a7c2adad507d355aeb2f208",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
@@ -102,47 +142,255 @@
       "title": "Kommentar - Wir sind nicht faul!",
       "excerpt": "Generation Z arbeitet und sucht Jobs so viel wie seit 25 Jahren keine Jugend.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/generation-z-76-8-prozent-erwerbstaetig-oder-auf-jobsuche-6a7b387a630361c899229325",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "publishedAt": "2026-08-12T14:06:29.826Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Regierung tut heute etwas für junge Leute - Mehr Bafög für Studenten, Frühstartrente kommt",
-      "excerpt": "Regierung plant höheren Bafög-Satz und neue staatliche Altersvorsorge für Kinder.",
-      "url": "https://www.bild.de/politik/inland/regierung-plant-mehr-bafoeg-fuer-studenten-fruehstartrente-kommt-6a7c1905f44fb0fe8fd87623",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "source": "TAZ.DE",
+      "title": "Hybride Angriffe in Deutschland: Hunderte Drohnen über Bundeswehreinrichtungen",
+      "excerpt": "Das deutsche Militär registriert fast täglich Vorfälle mit Drohnen unbekannter Herkunft. Auch zum Vorfall in Leipzig vor einer Woche gibt es neue Details. mehr...",
+      "url": "https://taz.de/Hybride-Angriffe-in-Deutschland/!6203833/",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Till Backhaus - Wal-Minister trieb Timmy-Beauftragten ins Krankenbett",
-      "excerpt": "Beamter warnt vor chaotischer Wal-Rettung und lässt sich frustriert krankschreiben.",
-      "url": "https://www.bild.de/politik/inland/till-backhaus-wal-minister-trieb-timmy-beauftragten-ins-krankenbett-6a7c03158c07c6525c768709",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "source": "DLF",
+      "title": "Diskussion wegen Niedrigwasser - Umweltminister Schneider gegen Vertiefung von Flüssen - Verkehrsminister Bilger dafür",
+      "excerpt": "Bundesumweltminister Schneider hat sich gegen eine Vertiefung von Flüssen zur Aufrechterhaltung der Schifffahrt in Zeiten von Niedrigwasser ausgesprochen.",
+      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-gegen-vertiefung-von-fluessen-verkehrsminister-bilger-dafuer-104.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russland - Putin droht mit Beschlagnahmung europäischer Schiffe",
+      "excerpt": "Russlands Präsident Putin hat gedroht, europäische Schiffe zu beschlagnahmen.",
+      "url": "https://www.deutschlandfunk.de/putin-droht-mit-beschlagnahmung-europaeischer-schiffe-102.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Waldbrände - Bereits mehr als 280 Festnahmen in Griechenland wegen mutmaßlicher Brandstiftungen",
+      "excerpt": "In Griechenland sind seit Jahresbeginn mehr als 280 Personen im Zusammenhang mit Brandstiftung festgenommen worden.",
+      "url": "https://www.deutschlandfunk.de/bereits-mehr-als-280-festnahmen-in-griechenland-wegen-mutmasslicher-brandstiftungen-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundeskabinett - Bundeskabinett beschließt Geheimdienstreform - Kritik von der Opposition",
+      "excerpt": "Die Bundesregierung ‌hat die Gesetzentwürfe für eine Reform der ⁠Nachrichtendienste auf den parlamentarischen Weg gebracht. Das Kabinett billigte die Vorlage von Bundesinnenminister Dobrindt. Die Dienste sollen angesicht",
+      "url": "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-geheimdienstreform-kritik-von-der-opposition-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Organisierte Kriminalität: Bundeskabinett beschließt Gesetzentwurf zur Stärkung des Zolls",
+      "excerpt": "Die Bundesregierung hat eine Stärkung des Zolls zur Bekämpfung der Geldwäsche und verdächtiger Vermögen auf den Weg gebracht.",
+      "url": "https://www.deutschlandfunk.de/organisierte-kriminalitaet-bundeskabinett-beschliesst-gesetzentwurf-zur-staerkung-des-zolls-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Befragung - Nach Taliban-Machtübernahme: Afghanische Frauen verlassen kaum noch ihr Zuhause",
+      "excerpt": "Knapp fünf Jahre nach der Machtübernahme der islamistischen Taliban verlassen Frauen in Afghanistan kaum noch ihr Zuhause.",
+      "url": "https://www.deutschlandfunk.de/nach-taliban-machtuebernahme-afghanische-frauen-verlassen-kaum-noch-ihr-zuhause-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Internetsicherheit - Meta muss sich wegen Suchtgefahr von Instagram und Facebook vor Gericht verantworten",
+      "excerpt": "Der Internetkonzern Meta steht wegen möglicher Suchtgefahren bei Instagram und Facebook erstmals vor einem US-Bundesgericht.",
+      "url": "https://www.deutschlandfunk.de/meta-muss-sich-wegen-suchtgefahr-von-instagram-und-facebook-vor-gericht-verantworten-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundeskabinett - Einsparungen bei Assistenzen für Kinder mit Behinderungen: Behindertenbeauftragter und Verbände üben Kritik",
+      "excerpt": "Die vom Bundeskabinett beschlossene Reform der Kinder- und Jugendhilfe stößt auf Kritik.",
+      "url": "https://www.deutschlandfunk.de/einsparungen-bei-assistenzen-fuer-kinder-mit-behinderungen-behindertenbeauftragter-und-verbaende-ueb-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Astronomie - Sonnenfinsternis in Teilen Europas - partielle Verdunklung in Deutschland",
+      "excerpt": "In einigen Teilen Europas ist heute Abend eine Sonnenfinsternis zu sehen. In Spanien wird sich die Sonne komplett verdunkeln, in Deutschland zu einem großen Teil. Dank guter Wetterverhältnisse lässt sich das Ereignis an ",
+      "url": "https://www.deutschlandfunk.de/sonnenfinsternis-in-teilen-europas-partielle-verdunklung-in-deutschland-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Neue Installation - Durchsichtige Mauer am Brandenburger Tor in Berlin",
+      "excerpt": "Vor dem Brandenburger Tor in Berlin erinnert eine große Kunstinstallation an den Mauerbau vor 65 Jahren und die folgende jahrzehntelange Teilung der Stadt. Auf der Westseite des Wahrzeichens, wo einst die Grenze verlief,",
+      "url": "https://www.deutschlandfunk.de/durchsichtige-mauer-am-brandenburger-tor-in-berlin-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitze - Bundesumweltminister Schneider will für Klimaanpassung das Grundgesetz ändern",
+      "excerpt": "Bundesumweltminister Schneider (SPD) will Klimaanpassung als Gemeinschaftsaufgabe des Staates in das Grundgesetz aufnehmen. Schneider sagte nach der Kabinettsitzung in Berlin, der Bund solle Maßnahmen für die Klimaanpass",
+      "url": "https://www.deutschlandfunk.de/bundesumweltminister-schneider-will-fuer-klimaanpassung-das-grundgesetz-aendern-106.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Libanon - Parlament beschließt Ammestie-Gesetz für Häftlinge",
+      "excerpt": "Das libanesische Parlament hat ein umfassendes Amnestie-Gesetz beschlossen, von dem tausende Häftlinge profitieren könnten.",
+      "url": "https://www.deutschlandfunk.de/parlament-beschliesst-ammestie-gesetz-fuer-haeftlinge-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Landtagswahl - BSW will unter Umständen Weg für AfD-Ministerpräsidenten in Sachsen-Anhalt freimachen",
+      "excerpt": "Das Bündnis Sahra Wagenknecht will in Sachsen-Anhalt nach der Landtagswahl unter bestimmten Umständen den Weg für einen AfD-Ministerpräsidenten freimachen. AfD-Spitzenkandidat Siegmund lehnt die Schützenhilfe des BSW all",
+      "url": "https://www.deutschlandfunk.de/bsw-will-unter-umstaenden-weg-fuer-afd-ministerpraesidenten-in-sachsen-anhalt-freimachen-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niedrigwasser - Verkehrsminister von Bund und Ländern beraten über Lage - Bilger will Ausbau von Flüssen",
+      "excerpt": "Bundesverkehrsminister Bilger hat für einen weiteren Ausbau der Wasserstraßen geworben. Vertrauen in die Binnenschifffahrt könne es nur geben, wenn es nicht regelmäßig zu Niedrigwasserproblemen komme, sagte der CDU-Polit",
+      "url": "https://www.deutschlandfunk.de/verkehrsminister-von-bund-und-laendern-beraten-ueber-lage-bilger-will-ausbau-von-fluessen-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Frühstartrente: Bundeskabinett einigt sich auf Altersversorgung für Kinder",
+      "excerpt": "Kinder sollen künftig Geld vom Staat bekommen, um Vermögen fürs Alter aufzubauen.",
+      "url": "https://www.deutschlandfunk.de/fruehstartrente-bundeskabinett-einigt-sich-auf-altersversorgung-fuer-kinder-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Israelischer Militäreinsatz gegen radikale Siedler im Westjordanland",
+      "excerpt": "Israels Streitkräfte gehen gegen radikale israelische Siedler im Westjordanland vor, die seit Tagen die palästinensischen Bewohner eines abgelegenen Hauses bedrängt haben sollen.",
+      "url": "https://www.deutschlandfunk.de/israelischer-militaereinsatz-gegen-radikale-siedler-im-westjordanland-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Drohende Umweltkatastrophe - Tanker vor dem Oman hat deutlich mehr Öl verloren",
+      "excerpt": "Nach der Havarie eines Tankers vor der der Küste des Oman weitet sich die Ölverschmutzung weiter aus. Die Umweltschutzorganisation Greenpeace berichtet dem Deutschlandfunk von aktuellen Satellitenaufnahmen. Danach sind i",
+      "url": "https://www.deutschlandfunk.de/tanker-vor-dem-oman-hat-deutlich-mehr-oel-verloren-102.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Vereinte Nationen - Zahl der Toten nach Erdbeben in Kolumbien steigt weiter",
+      "excerpt": "Die Zahl der Todesopfer des Erdbebens in Kolumbien ist nach UNO-Angaben auf mehr als 220 gestiegen. Etwa 2.600 Menschen seien verletzt worden, teilte das Amt der Vereinten Nationen für die Koordinierung humanitärer Angel",
+      "url": "https://www.deutschlandfunk.de/zahl-der-toten-nach-erdbeben-in-kolumbien-steigt-weiter-100.html",
+      "publishedAt": "2026-08-12T13:59:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Anschlag auf Journalist in Italien: Kein Erzfeind, sondern Busenfreund",
+      "excerpt": "Vor 10 Monaten explodierte eine Bombe vor dem Haus des italienischen Investigativjournalisten Sigfrido Ranucci. Nun wurde ein mutmaßlicher Auftraggeber festgenommen. mehr...",
+      "url": "https://taz.de/Anschlag-auf-Journalist-in-Italien/!6203717/",
+      "publishedAt": "2026-08-12T13:44:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Ramelow über CDU und Linke - „Das ist eine westdeutsche Rumeierei“",
-      "excerpt": "CDU-Chef Schulze braucht wohl Linke-Stimmen, trotz offiziellem Nein zur Partei.",
-      "url": "https://www.bild.de/politik/ramelow-ueber-cdu-und-linke-das-ist-eine-westdeutsche-rumeierei-6a7b4e6867ddb2e13c58463b",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "source": "TAZ.DE",
+      "title": "Kunst im Berliner Mauerpark: Vom Todesstreifen bis zum Erdbeerengel",
+      "excerpt": "Zum 65. Jahrestag des Berliner Mauerbaus werden im Zuge des Projekts „Poller up“ die 40 einstigen Zugangsbegrenzungen zu Sockeln für poppige Kunst. mehr...",
+      "url": "https://taz.de/Kunst-im-Berliner-Mauerpark/!6203359/",
+      "publishedAt": "2026-08-12T13:37:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "BILD-Jugendscore - Wie jung ist mein Bundesland?",
-      "excerpt": "Bremens Jugendscore liegt vorn, Ost-Bundesländer sind besonders überaltert.",
-      "url": "https://www.bild.de/politik/inland/bild-jugendscore-wie-jung-ist-mein-bundesland-6a7b4c7f67ddb2e13c584623",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "source": "TAZ.DE",
+      "title": "Nachtzüge durch Europa: Eingehüllt in fremdes Bettzeug",
+      "excerpt": "Wenn man den Nachtzug inmitten der Dunkelheit wechseln muss, wird das Fremde plötzlich hautnah. mehr...",
+      "url": "https://taz.de/Nachtzuege-durch-Europa/!6203271/",
+      "publishedAt": "2026-08-12T13:35:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Zahl mehr als verdoppelt! - Immer mehr verweigern den Wehrdienst",
-      "excerpt": "Immer mehr junge Menschen in Deutschland sagen NEIN zum Wehrdienst.",
-      "url": "https://www.bild.de/politik/inland/bundeswehr-immer-mehr-verweigern-den-wehrdienst-6a7bec0967ddb2e13c584b02",
-      "publishedAt": "2026-08-12T12:31:49.824Z",
+      "source": "SPIEGEL.DE",
+      "title": "Landwirtschaft: Dürre bringt Bauernhöfe in Not – Rufe nach Hilfe vom Staat",
+      "excerpt": "Ernteausfälle und Engpässe bei Futter: In manchen Regionen Deutschlands bringt die Dürre Bauernhöfe in Nöte. Nun werden Rufe nach staatlicher Unterstützung laut.",
+      "url": "https://www.spiegel.de/politik/deutschland/landwirtschaft-duerre-bringt-bauernhoefe-in-not-rufe-nach-hilfe-vom-staat-a-13351baa-51be-454c-af00-268862a34832#ref=rss",
+      "publishedAt": "2026-08-12T13:26:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sprachprobleme im Landkreis Rotenburg: Mit dem N*-Wort ist kein Necken möglich",
+      "excerpt": "In Kirchwalsede nutzt der Bürgermeister das N*-Wort, aus Spaß, wie er sagt. Der Gemeinte zeigt ihn an – und die Dorfgemeinschaft kann das gut verstehen. mehr...",
+      "url": "https://taz.de/Sprachprobleme-im-Landkreis-Rothenburg/!6203416/",
+      "publishedAt": "2026-08-12T13:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Repression in Äthiopien: Eine unabhängige Stimme aus Addis Abeba",
+      "excerpt": "Die bekannteste äthiopische Zeitung „Addis Standard“ wird zunehmend zum Objekt staatlicher Repressalien. Zuletzt wurde Chefredakteur Yonas Kedir entführt. mehr...",
+      "url": "https://taz.de/Repression-in-Aethiopien/!6203753/",
+      "publishedAt": "2026-08-12T13:02:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
+      "excerpt": "Die Bundesregierung will die Kosten für die Kinder- und Jugendhilfe senken und das System effizienter machen. Die Änderungen hat das Kabinett nun auf den Weg gebracht. Sie betreffen etwa die Schulbegleitung. Kritik kommt",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
+      "publishedAt": "2026-08-12T12:59:19.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Mehr Transparenz bei Spotify: Erster KI-Hype schon wieder vorbei",
+      "excerpt": "Streamingdienst Spotify kennzeichnet bald die Profile von KI-generierten Künstler:innen. Ein Paradigmenwechsel bei der sonst so techvernarrten Plattform. mehr...",
+      "url": "https://taz.de/Mehr-Transparenz-bei-Spotify/!6203740/",
+      "publishedAt": "2026-08-12T12:47:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
+      "excerpt": "Spätestens seit Leipzig ist klar: Deutschland ist nicht zureichend für die Bedrohung durch Drohnen gewappnet. Doch wie sieht es in anderen europäischen Ländern aus? Wie steht es dort um Erkennung und Abwehr von Drohnen? ",
+      "url": "https://www.tagesschau.de/ausland/europa/drohnenabwehr-europa-100.html",
+      "publishedAt": "2026-08-12T12:41:43.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nach Erdbeben in Kolumbien: „Sie werden die Situation ausnutzen“",
+      "excerpt": "Die vom Erdbeben in Kolumbien schwer getroffene Region Chocó leidet unter bewaffneten Gruppen. Das könnte sich nun verschärfen, sagt Menschenrechtsaktivistin Juana Corral. mehr...",
+      "url": "https://taz.de/Nach-Erdbeben-in-Kolumbien/!6203613/",
+      "publishedAt": "2026-08-12T12:40:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "BAföG-Erhöhung - Kabinett beschließt Reform",
+      "excerpt": "Balzer, Vladimir www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/bafoeg-erhoehung-kabinett-beschliesst-reform-100.html",
+      "publishedAt": "2026-08-12T12:36:16.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Landtagswahl in Sachsen-Anhalt: Wagenknecht bietet sich als AfD-Königsmacherin an",
+      "excerpt": "Die Spitzen der Wagenknecht-Partei BSW kündigen an, einer rechtsextremen Landesregierung in Sachsen-Anhalt per Enthaltung zur Macht verhelfen zu wollen. mehr...",
+      "url": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6203744/",
+      "publishedAt": "2026-08-12T12:34:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -162,156 +410,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Bundeskabinett - Bundeskabinett beschließt Geheimdienstreform - Kritik von der Opposition",
-      "excerpt": "Die Bundesregierung ‌hat die Gesetzentwürfe für eine Reform der ⁠Nachrichtendienste auf den parlamentarischen Weg gebracht. Das Kabinett billigte die Vorlage von Bundesinnenminister Dobrindt. Die Dienste sollen angesicht",
-      "url": "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-geheimdienstreform-kritik-von-der-opposition-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Frühstartrente - Bundeskabinett einigt sich auf Altersversorgung für Kinder und Jugendliche",
-      "excerpt": "Kinder sollen künftig Geld vom Staat bekommen, um Vermögen fürs Alter aufzubauen.",
-      "url": "https://www.deutschlandfunk.de/bundeskabinett-einigt-sich-auf-altersversorgung-fuer-kinder-und-jugendliche-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Astronomie - Sonnenfinsternis in Teilen Europas - partielle Verdunklung in Deutschland",
-      "excerpt": "In einigen Teilen Europas ist heute Abend eine Sonnenfinsternis zu sehen. In Spanien wird sich die Sonne komplett verdunkeln, in Deutschland zu einem großen Teil. Dank guter Wetterverhältnisse lässt sich das Ereignis an ",
-      "url": "https://www.deutschlandfunk.de/sonnenfinsternis-in-teilen-europas-partielle-verdunklung-in-deutschland-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitze - Bundesumweltminister Schneider will für Klimaanpassung das Grundgesetz ändern",
-      "excerpt": "Bundesumweltminister Schneider will Klimaanpassung als Gemeinschaftsaufgabe des Staates in das Grundgesetz aufnehmen.",
-      "url": "https://www.deutschlandfunk.de/bundesumweltminister-schneider-will-fuer-klimaanpassung-das-grundgesetz-aendern-106.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedrigwasser - Verkehrsminister von Bund und Ländern beraten über Lage - Bilger will Ausbau von Flüssen",
-      "excerpt": "Bundesverkehrsminister Bilger hat für einen weiteren Ausbau der Wasserstraßen geworben. Vertrauen in die Binnenschifffahrt könne es nur geben, wenn es nicht regelmäßig zu Niedrigwasserproblemen komme, sagte der CDU-Polit",
-      "url": "https://www.deutschlandfunk.de/verkehrsminister-von-bund-und-laendern-beraten-ueber-lage-bilger-will-ausbau-von-fluessen-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Landtagswahl - BSW will unter Umständen Weg für AfD-Ministerpräsidenten in Sachsen-Anhalt freimachen",
-      "excerpt": "Das Bündnis Sahra Wagenknecht will in Sachsen-Anhalt nach der Landtagswahl unter bestimmten Umständen den Weg für einen AfD-Ministerpräsidenten freimachen. AfD-Spitzenkandidat Siegmund lehnt die Schützenhilfe des BSW all",
-      "url": "https://www.deutschlandfunk.de/bsw-will-unter-umstaenden-weg-fuer-afd-ministerpraesidenten-in-sachsen-anhalt-freimachen-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Militäreinsatz gegen israelische Siedler im Westjordanland",
-      "excerpt": "Israels Streitkräfte gehen gegen radikale israelische Siedler im Westjordanland vor, die seit Tagen die palästinensischen Bewohner eines abgelegenen Hauses bedrängt haben sollen.",
-      "url": "https://www.deutschlandfunk.de/militaereinsatz-gegen-israelische-siedler-im-westjordanland-102.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Vereinte Nationen - Zahl der Toten nach Erdbeben in Kolumbien steigt weiter",
-      "excerpt": "Die Zahl der Todesopfer des Erdbebens in Kolumbien ist nach UNO-Angaben auf mehr als 220 gestiegen. Etwa 2.600 Menschen seien verletzt worden, teilte das Amt der Vereinten Nationen für die Koordinierung humanitärer Angel",
-      "url": "https://www.deutschlandfunk.de/zahl-der-toten-nach-erdbeben-in-kolumbien-steigt-weiter-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bildungspolitik - Bafög wird erhöht - aber später als geplant",
-      "excerpt": "Bafög-Empfänger sollen im nächsten Jahr mehr Geld bekommen. Eine entsprechende Reform beschloss das Bundeskabinett. So soll die Wohnkostenpauschale zum Sommersemester 2027 von 380 auf 440 Euro pro Monat steigen.",
-      "url": "https://www.deutschlandfunk.de/bafoeg-wird-erhoeht-aber-spaeter-als-geplant-102.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - Bundeskartellamt hat keine Bedenken gegen 50+1-Regel in der Bundesliga",
-      "excerpt": "Das Bundeskartellamt hat keine grundsätzlichen Bedenken gegen die 50+1-Regel im deutschen Fußball.",
-      "url": "https://www.deutschlandfunk.de/bundeskartellamt-hat-keine-bedenken-gegen-50-1-regel-in-der-bundesliga-104.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Drohende Umweltkatastrophe - Tanker vor dem Oman hat deutlich mehr Öl verloren",
-      "excerpt": "Nach der Havarie eines Tankers vor der der Küste des Oman weitet sich die Ölverschmutzung weiter aus. Die Umweltschutzorganisation Greenpeace berichtet dem Deutschlandfunk von aktuellen Satellitenaufnahmen. Danach sind i",
-      "url": "https://www.deutschlandfunk.de/tanker-vor-dem-oman-hat-deutlich-mehr-oel-verloren-102.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ende der Ausnahmeregelung - Bundesregierung will begleitetes Trinken ab 14 Jahren abschaffen",
-      "excerpt": "Das sogenannte begleitete Trinken von 14- und 15-Jährigen unter Aufsicht von Erwachsenen soll abgeschafft werden.",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-will-begleitetes-trinken-ab-14-jahren-abschaffen-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Um den Eintrittspreis zu entgehen - Rund 1.400 Mitgliedsanträge für Kölner Dombau-Verein noch nicht bearbeitet",
-      "excerpt": "Der Kölner Dombau-Verein sieht sich durch zahlreiche neue Mitgliedsanträge überlastet.",
-      "url": "https://www.deutschlandfunk.de/rund-1-400-mitgliedsantraege-fuer-koelner-dombau-verein-noch-nicht-bearbeitet-102.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Einsätze der Feuerwehr - Mehrere Waldbrände in Deutschland",
-      "excerpt": "Der Waldbrand im Vogtlandkreis nahe der sächsischen Stadt Plauen ist nach Angaben der Feuerwehr unter Kontrolle.",
-      "url": "https://www.deutschlandfunk.de/mehrere-waldbraende-in-deutschland-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ausbruch - Vulkan Ätna auf Sizilien kommt nicht zur Ruhe - Flugverkehr weiter gestört",
-      "excerpt": "Wegen des Ausbruchs des Vulkans Ätna bleibt der Flughafen von Catania auf der italienischen Mittelmeerinsel Sizilien gesperrt.",
-      "url": "https://www.deutschlandfunk.de/vulkan-aetna-auf-sizilien-kommt-nicht-zur-ruhe-flugverkehr-weiter-gestoert-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukrainekrieg - Russland und Ukraine attackieren Ziele an der Schwarzmeerküste",
-      "excerpt": "Die Ukraine hat in der vergangen Nacht den russischen Marinestützpunkt in Noworossijsk an der Schwarzmeerküste mit Drohnen und Raketen angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russland-und-ukraine-attackieren-ziele-an-der-schwarzmeerkueste-102.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Personalkonten - Bundesbank-Beschäftigten werden kostenlose Konten und Depots gekündigt",
-      "excerpt": "Die Bundesbank kündigt ihren Beschäftigten und Pensionären die kostenlosen Girokonten und Depots.",
-      "url": "https://www.deutschlandfunk.de/bundesbank-beschaeftigten-werden-kostenlose-konten-und-depots-gekuendigt-100.html",
-      "publishedAt": "2026-08-12T11:57:12.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
       "excerpt": "In Deutschland muss man mindestens 16 sein, um Alkohol trinken zu dürfen. Bislang gilt aber eine Ausnahme: Sind Erziehungsberechtigte dabei, dürfen auch 14- und 15-Jährige zu Bier oder Wein greifen. Das soll sich ändern.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html",
       "publishedAt": "2026-08-12T11:52:36.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Organisierte Kriminalität - Bundeskabinett beschließt Gesetzentwurf zur Stärkung des Zolls",
-      "excerpt": "Die Bundesregierung hat eine Stärkung des Zolls zur Bekämpfung der Geldwäsche und verdächtiger Vermögen auf den Weg gebracht.",
-      "url": "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-gesetzentwurf-zur-staerkung-des-zolls-102.html",
-      "publishedAt": "2026-08-12T11:46:52.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -370,14 +474,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Sonnenfinsternis und Solarenergie: Wenn die Sonne nicht mehr liefert",
-      "excerpt": "Eine Sonnenfinsternis kann eine gewaltige Herausforderung für die Stromwirtschaft sein. Auch diesmal in Deutschland? mehr...",
-      "url": "https://taz.de/Sonnenfinsternis-und-Strompreise/!6203709/",
-      "publishedAt": "2026-08-12T10:35:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Deutschland: Umfrage zeigt positives, aber machtloses Image in arabischen Ländern",
       "excerpt": "In arabischen Ländern kommt Deutschland laut einer Umfrage gut an, gilt aber kaum als einflussreicher Akteur. Die enge Beziehung zu Israel ist weniger ausschlaggebend – prägend sind andere Interessen.",
@@ -387,9 +483,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Kabinett beschließt Alkoholverbot für unter 16-Jährige",
+      "title": "Alkoholverbot für unter 16-Jährige beschlossen - Aus für betreutes Trinken",
       "excerpt": "Bier und Wein für Minderjährige, solange die Eltern dabei sind? Diese Regel hat das Bundeskabinett nun gekippt. Familienministerin Prien will die Suchtrisiken bei 14- und 15-Jährigen mindern.",
-      "url": "https://www.spiegel.de/politik/deutschland/kabinett-beschliesst-alkoholverbot-fuer-unter-16-jaehrige-a-401d4cac-0b12-4336-8260-3c2bad0fcf4d#ref=rss",
+      "url": "https://www.spiegel.de/politik/deutschland/alkoholverbot-fuer-unter-16-jaehrige-beschlossen-aus-fuer-betreutes-trinken-a-401d4cac-0b12-4336-8260-3c2bad0fcf4d#ref=rss",
       "publishedAt": "2026-08-12T10:22:00.000Z",
       "category": "POLITIK"
     },
@@ -403,9 +499,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "BND: Geheimdienst soll Spione künftig aktiv verfolgen und bekämpfen dürfen",
+      "title": "BND und Verfassungsschutz: Geheimdienste sollen Spione künftig aktiv verfolgen und bekämpfen dürfen",
       "excerpt": "Die deutschen Geheimdienste sollen besser für die hybride Bedrohung aus Moskau gewappnet sein. Der Bundesnachrichtendienst und der Verfassungsschutz erhalten daher künftig Interventionsbefugnisse. Was sich dadurch ändert",
-      "url": "https://www.spiegel.de/politik/deutschland/bnd-geheimdienst-soll-spione-kuenftig-aktiv-verfolgen-und-bekaempfen-duerfen-a-7f831f3e-6717-4b31-90db-d008c91cf49a#ref=rss",
+      "url": "https://www.spiegel.de/politik/deutschland/bnd-und-verfassungsschutz-geheimdienste-sollen-spione-kuenftig-aktiv-verfolgen-und-bekaempfen-duerfen-a-7f831f3e-6717-4b31-90db-d008c91cf49a#ref=rss",
       "publishedAt": "2026-08-12T10:13:00.000Z",
       "category": "POLITIK"
     },
@@ -426,44 +522,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Mitgliederentwicklung: Linke ist größte Partei in Berlin",
-      "excerpt": "Mit mehr als 18.000 Mitgliedern löst die Linke die Grünen als mitgliederstärkste Partei ab. Bei einer großen Partei gibt es Verluste. mehr...",
-      "url": "https://taz.de/Mitgliederentwicklung-der-Parteien/!6203769/",
-      "publishedAt": "2026-08-12T09:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Island erwartet totale Sonnenfinsternis mit vielen Besuchern",
       "excerpt": "Besonders spektakulär wird die Sonnenfinsternis in Island: Die Insel liegt teils im Kernschatten. Für gut eine Minute wird die Sonne verschwinden. Das Naturschauspiel sorgt für eine eigene Eventindustrie. Von Arne Bartra",
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-island-100.html",
       "publishedAt": "2026-08-12T08:17:02.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Geschlechterpolitik in den USA: Trump-Regierung kürzt Unterstützung für trans Kinder",
-      "excerpt": "Der US-Präsident verfolgt eine rigide Geschlechterpolitik. Nun gibt es neue Einschränkungen für junge trans Menschen bei der medizinischen Versorgung. mehr...",
-      "url": "https://taz.de/Trans-Rechte-in-den-USA/!6203723/",
-      "publishedAt": "2026-08-12T07:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Zwischenwahlen in den USA: Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
-      "excerpt": "Trump kommt bei seinen Plänen, für die nächsten Wahlen die Briewahlregeln zugunsten der Republikaner zu verändern, eine Bundesrichterin in die Quere. mehr...",
-      "url": "https://taz.de/Zwischenwahlen-in-den-USA/!6203722/",
-      "publishedAt": "2026-08-12T07:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kriegsprofiteure im Iran-Konflikt: Täglich 31,4 Millionen Euro Übergewinn",
-      "excerpt": "Die Fossilkonzerne bereicherten sich über den hohen Ölpreis hinaus, zeigt Greenpeace. An deutschen Tankstellen kämen so 3,94 Milliarden Euro zusammen. mehr...",
-      "url": "https://taz.de/Kriegsprofiteure-im-Iran-Konflikt/!6203720/",
-      "publishedAt": "2026-08-12T07:21:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -475,7 +539,7 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Libanon schafft Todesstrafe ab: UN-Menschenrechtskommissar begrüßt Ende der Todesstrafe",
+      "title": "Libanon schafft Todesstrafe ab: UN-Kommissar begrüßt Ende der Todesstrafe",
       "excerpt": "Hingerichtet wurde im Libanon seit gut zwei Jahrzehnten niemand mehr. Nun erfolgte die formale Abschaffung. Auch die Europäische Union gratuliert. mehr...",
       "url": "https://taz.de/Libanon-schafft-Todesstrafe-ab/!6203715/",
       "publishedAt": "2026-08-12T07:18:00.000Z",
@@ -514,30 +578,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Amnestiegesetz in der Türkei: Ein gefährliches Spiel",
-      "excerpt": "Das PKK-Gesetz in der Türkei ist ein historischer erster Schritt, dem weitere folgen müssen. Beim Poker mit Erdoğan müssen die Kurden aufpassen. mehr...",
-      "url": "https://taz.de/Amnestiegesetz-in-der-Tuerkei/!6199027/",
-      "publishedAt": "2026-08-12T05:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Zu wenig Wasser im Rhein: Es droht Schaden für die Wirtschaft",
-      "excerpt": "Trockenheit und Hitze beeinträchtigen den Verkehr auf Deutschlands wichtigster Wasserstraße, Öko­no­m*in­nen sorgen sich um das Wirtschaftswachstum. mehr...",
-      "url": "https://taz.de/Zu-wenig-Wasser-im-Rhein/!6203483/",
-      "publishedAt": "2026-08-12T05:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wasservergeudung bei Reit-WM: Wasser marsch!",
-      "excerpt": "Obwohl es für Monate fast nicht regnete, wird die Reit-WM auf saftig grünen Wiesen zelebriert. Möglich macht's eine umstrittene Behörden-Erlaubnis. mehr...",
-      "url": "https://taz.de/Wasservergeudung-bei-Reit-WM/!6203431/",
-      "publishedAt": "2026-08-12T05:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Kolumbien ruft nach Erdbeben Notstand aus",
       "excerpt": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 240 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschüt",
@@ -552,14 +592,6 @@
       "url": "https://www.tagesschau.de/ausland/trump-briefwahl-104.html",
       "publishedAt": "2026-08-12T05:04:19.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Hitze im ÖPNV: 40 Grad? Nicht vorgesehen!",
-      "excerpt": "Für die Fahrgäste im Berliner ÖPNV bleibt Extremhitze noch auf Jahre ein Problem. Bei Infrastruktur und Fahrzeugen ruckelt's, aber vorerst nur ein bisschen. mehr...",
-      "url": "https://taz.de/Hitze-im-OePNV/!6203573/",
-      "publishedAt": "2026-08-12T05:00:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -802,14 +834,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Wahl in Sachsen-Anhalt: Bodo Ramelow für Zusammenarbeit von Linke und CDU, um AfD zu verhindern",
-      "excerpt": "In Thüringen arbeiten Linke und CDU seit Jahren zusammen. Ex-Ministerpräsident Bodo Ramelow empfiehlt dieses Bündnis auch für Sachsen-Anhalt, um dort eine AfD-Regierung zu verhindern. Zugleich stichelt er gegen die Chris",
-      "url": "https://www.spiegel.de/politik/wahl-in-sachsen-anhalt-bodo-ramelow-fuer-zusammenarbeit-von-linke-und-cdu-um-afd-zu-verhindern-a-86672673-7ca9-45de-8cca-8bdf6834b629#ref=rss",
-      "publishedAt": "2026-08-11T00:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Parlament in der Türkei billigt Gesetz für Frieden mit der PKK",
       "excerpt": "Mit großer Mehrheit hat das türkische Parlament ein Gesetz gebilligt, das den Friedensprozess mit der verbotenen kurdischen Arbeiterpartei PKK voranbringen soll. Es sieht Straferleichterungen für viele Mitglieder vor - g",
@@ -931,14 +955,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Warum werden in Malta kaum Asylanträge gestellt?",
-      "excerpt": "Migranten bedrängen die Grenzzäune der spanischen Exklave Ceuta, auf der italienischen Insel Lampedusa kommen seit Jahren viele Migranten an, in Griechenland auch. Doch in Malta werden kaum Asylanträge gestellt. Woran li",
-      "url": "https://www.tagesschau.de/ausland/europa/malta-migration-100.html",
-      "publishedAt": "2026-08-10T10:01:02.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "IfW-Präsident wirft Pistorius falsche Investitionen in Bundeswehr vor",
       "excerpt": "Der Verteidigungsminister muss sich erneut Kritik stellen, er investiere zu sehr in veraltete Technik. Es brauche Waffensysteme der Zukunft statt noch mehr Panzer und Fregatten, fordert IfW-Präsident Schularick.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-schularick-pistorius-waffen-bundeswehr-100.html",
@@ -959,14 +975,6 @@
       "excerpt": "\"Dann sind der Porsche oder die Rolex erstmal weg\": Im Kampf gegen Geldwäsche und dubiose Finanzstrukturen soll der Zoll Vermögenswerte von unklarer Herkunft künftig beschlagnahmen können. Das sieht ein neues Gesetz vor.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/zoll-befugnisse-gesetz-100.html",
       "publishedAt": "2026-08-10T03:00:10.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Linken-Chef Pantisano schließt Unterstützung für CDU in Sachsen-Anhalt nicht aus",
-      "excerpt": "In vier Wochen wird in Sachsen-Anhalt gewählt. CDU-Spitzenkandidat Schulze könnte auf die Linken angewiesen sein, um eine AfD-Regierung zu verhindern. Linken-Chef Pantisano schließt nicht aus, ihn zu unterstützen. Von Di",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pantisano-linke-cdu-100.html",
-      "publishedAt": "2026-08-09T19:24:19.000Z",
       "category": "INNENPOLITIK"
     },
     {
@@ -1111,14 +1119,6 @@
       "excerpt": "Götzke, Manfred www.deutschlandfunk.de, Campus & Karriere",
       "url": "https://www.deutschlandfunk.de/fehlstart-auf-kosten-der-kinder-elke-alsago-verdi-100.html",
       "publishedAt": "2026-08-04T12:37:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Endlich in Kraft: Rechtsanspruch auf Ganztagsbetreuung",
-      "excerpt": "Dierks, Petra www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/endlich-in-kraft-rechtsanspruch-auf-ganztagsbetreuung-100.html",
-      "publishedAt": "2026-08-04T12:36:00.000Z",
       "category": "KARRIERE & STUDIUM"
     },
     {
