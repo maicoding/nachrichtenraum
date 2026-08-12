@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { writeFile, readFile } from 'node:fs/promises';
+import { copyFile, mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const projectRoot = fileURLToPath(new URL('.', import.meta.url));
 
@@ -11,6 +11,17 @@ function injectV2Precache() {
     apply: 'build',
     enforce: 'post',
     async closeBundle() {
+      const v2Output = resolve(projectRoot, 'dist/v2');
+      const vendorOutput = resolve(projectRoot, 'dist/vendor');
+      await mkdir(v2Output, { recursive: true });
+      await mkdir(vendorOutput, { recursive: true });
+      await Promise.all([
+        copyFile(resolve(projectRoot, 'v2/icon.svg'), resolve(v2Output, 'icon.svg')),
+        copyFile(resolve(projectRoot, 'v2/manifest.webmanifest'), resolve(v2Output, 'manifest.webmanifest')),
+        copyFile(resolve(projectRoot, 'v2/sw.js'), resolve(v2Output, 'sw.js')),
+        copyFile(resolve(projectRoot, 'vendor/AFRAME-LICENSE.txt'), resolve(vendorOutput, 'AFRAME-LICENSE.txt')),
+        copyFile(resolve(projectRoot, 'vendor/aframe-v1.8.0.min.js'), resolve(vendorOutput, 'aframe-v1.8.0.min.js'))
+      ]);
       const indexPath = resolve(projectRoot, 'dist/v2/index.html');
       const workerPath = resolve(projectRoot, 'dist/v2/sw.js');
       const html = await readFile(indexPath, 'utf8');
