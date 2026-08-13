@@ -1,92 +1,12 @@
 {
-  "updatedAt": "2026-08-13T00:43:58.144Z",
+  "updatedAt": "2026-08-13T03:15:42.020Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Gold-Jubel bei der WM - Markus Söder feiert den Freund seiner Tochter",
-      "excerpt": "Söder jubelt über Dressur-Gold in Aachen und den Erfolg von Raphaels WM-Debüt.",
-      "url": "https://www.bild.de/unterhaltung/stars-und-leute/gold-jubel-bei-der-wm-markus-soeder-feiert-den-freund-seiner-tochter-6a7cc213c7c972c19fc717e7",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wirbel um Berliner „Volksbad“ - Badetag nur für Schwarze schlägt hohe Wellen",
-      "excerpt": "Berlin – Diese Kunst-Aktion landet als Bauchklatscher! Es gibt deutliche Kritik am geplanten Badetag nur für Schwarze im temporären ...",
-      "url": "https://www.bild.de/politik/inland/wirbel-um-berliner-volksbad-badetag-nur-fuer-schwarze-schlaegt-hohe-wellen-6a7c3f41169e8e32c0ae52c9",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hohe Benzinpreise bis 2029? - Irans Schock-Plan: Krieg bis Trump weg ist",
-      "excerpt": "Ein iranischer Militärberater droht mit einem langen Krieg und teurem Öl bis 2029.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/hohe-benzinpreise-bis-2029-teheran-plant-krieg-bis-trump-weg-ist-6a7c9ac5169e8e32c0ae5c17",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Moskau und die Bomben-Drohne - Was das Datum über die Attentäter verraten könnte",
-      "excerpt": "Putins Regime verknüpft Anschläge und Angriffe immer wieder mit Symbol-Daten.",
-      "url": "https://www.bild.de/politik/inland/moskau-und-die-bomben-drohne-was-das-datum-ueber-die-attentaeter-von-leipzig-verraet-6a7b1a540e3689919ec77dd9",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sachsen-Anhalt - Polizei-Funktionär ruft Kollegen zum AfD-Aufstand auf",
-      "excerpt": "Gewerkschafter fordert Polizeivorbereitung auf AfD-Regierung, Jurist widerspricht scharf.",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-polizei-funktionaer-wiegelt-ost-kollegen-gegen-afd-auf-6a7c25550e3689919ec789d7",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Polizei, Schule, Gerichte - Was passiert, wenn die AfD in Sachsen-Anhalt regiert?",
-      "excerpt": "AfD an der Macht in Sachsen-Anhalt: Das könnte sich im Land grundlegend ändern.",
-      "url": "https://www.bild.de/politik/inland/polizei-schule-gerichte-was-passiert-wenn-die-afd-in-sachsen-anhalt-regiert-6a7c2df0169e8e32c0ae5146",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Fast eine Milliarde Gewinn pro Tag! - Staatsfonds könnte jedem Bürger ein Auto kaufen",
-      "excerpt": "Norwegens Ölfonds verbucht Rekordgewinn, doch ausgerechnet der Chef warnt vor Risiken.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/fast-eine-milliarde-gewinn-pro-tag-staatsfonds-koennte-jedem-buerger-ein-auto-kaufen-6a7c6d2fc99104ecb401a919",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Regeln für Geheim-Agenten - „Dann dürfen sie auch ballern“",
-      "excerpt": "Heute haben Kanzleramtschefin Nina Warken",
-      "url": "https://www.bild.de/politik/neue-regeln-fuer-geheim-agenten-dann-duerfen-sie-auch-ballern-6a7c8455ce20c44e1d3aa8a2",
-      "publishedAt": "2026-08-13T00:43:58.139Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Vieles scheint planlos“ - Tui-Chef Ebel rechnet mit Merz-Regierung ab",
-      "excerpt": "Tui-Chef Ebel wirft der Regierung Planlosigkeit und fehlende Wirtschaftskonzepte vor.",
-      "url": "https://www.bild.de/politik/inland/vieles-scheint-planlos-chef-von-tui-rechnet-mit-der-regierung-von-merz-ab-6a7cdaf13f194e99267401fa",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Waffe für Abschiebungen - Trump-Behörde bekommt Elektroschock-Handschuhe",
-      "excerpt": "US-Abschiebebehörde rüstet Beamte mit teuren Elektroschock-Handschuhen aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-elektroschock-handschuhe-fuer-migrations-behoerde-ice-6a7cf45aa87e8142c31ce4c5",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +14,7 @@
       "title": "In Thüringen - Höcke will Wagenknecht zur Ministerpräsidentin machen",
       "excerpt": "Höcke bietet Wagenknecht die Regierungsführung in Thüringen über Misstrauensvotum an.",
       "url": "https://www.bild.de/politik/inland/thueringen-hoecke-will-wagenknecht-zur-ministerpraesidentin-machen-6a7ce5f7a87e8142c31ce463",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +22,7 @@
       "title": "Nach nicht mal zwei Jahren im Amt - Trump-Sprecherin schmeißt hin!",
       "excerpt": "Trumps Pressesprecherin Leavitt geht, sie berät ihn künftig extern aus familiären Gründen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/nach-nicht-mal-zwei-jahren-im-amt-trump-sprecherin-schmeisst-hin-6a7ccd0f727005802a2ccaaf",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +30,7 @@
       "title": "Viel Zuspruch für Instagram-Video - Star-Trompeter TBrönner bläst Politik den Marsch",
       "excerpt": "Till Brönner kritisiert hohe Steuerlast und warnt vor Abwanderung aus Deutschland.",
       "url": "https://www.bild.de/politik/inland/viel-zuspruch-nach-video-bei-instagram-startrompeter-till-broenner-blaest-politik-den-marsch-6a7c571ac99104ecb401a66f",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +38,7 @@
       "title": "Putins dickster Freund - Wie Kim heimlich immer mehr die Welt aufmischt",
       "excerpt": "Nordkorea stärkt Russlands Krieg und baut mit Putins Hilfe seine Militärmacht aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kim-jong-un-wie-putin-nordkorea-mit-geld-und-militaertechnik-aufruestet-6a7ad0f5630361c899228641",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +46,7 @@
       "title": "Gegen eigenen Soldaten! - Macht Pistorius hier verbotene SPD-Werbung?",
       "excerpt": "Pistorius macht SPD-Werbung vor einer Kaserne – gegen seinen eigenen Soldaten.",
       "url": "https://www.bild.de/politik/inland/verteidigungsminister-boris-pistorius-macht-spd-wahlkampf-im-umfeld-der-bundeswehr-6a7b012f67ddb2e13c58401f",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +54,7 @@
       "title": "Live-Ticker - Schulze: AfD redet Land schlecht",
       "excerpt": "Sieben Spitzenkandidaten stellen sich in Magdeburg live den Fragen der Bürger.",
       "url": "https://www.bild.de/politik/inland/liveticker-zur-wahlarena-in-sachsen-anhalt-showdown-der-spitzenkandidaten-6a7c967ace20c44e1d3aaa35",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +62,87 @@
       "title": "Statistik-Streit - Hat eine Islam-NGO Rassismus-Zahlen gefälscht?",
       "excerpt": "Zoff um die Zahlen von Claim, einer NGO, die antimuslimische Vorfälle erfasst.",
       "url": "https://www.bild.de/politik/inland/hat-eine-islam-ngo-rassismus-zahlen-gefaelscht-6a7c3fdec99104ecb401a34e",
-      "publishedAt": "2026-08-13T00:43:58.138Z",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gold-Jubel bei der WM - Markus Söder feiert den Freund seiner Tochter",
+      "excerpt": "Söder jubelt über Dressur-Gold in Aachen und den Erfolg von Raphaels WM-Debüt.",
+      "url": "https://www.bild.de/unterhaltung/stars-und-leute/gold-jubel-bei-der-wm-markus-soeder-feiert-den-freund-seiner-tochter-6a7cc213c7c972c19fc717e7",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wirbel um Berliner „Volksbad“ - Badetag nur für Schwarze schlägt hohe Wellen",
+      "excerpt": "Berlin – Diese Kunst-Aktion landet als Bauchklatscher! Es gibt deutliche Kritik am geplanten Badetag nur für Schwarze im temporären ...",
+      "url": "https://www.bild.de/politik/inland/wirbel-um-berliner-volksbad-badetag-nur-fuer-schwarze-schlaegt-hohe-wellen-6a7c3f41169e8e32c0ae52c9",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hohe Benzinpreise bis 2029? - Irans Schock-Plan: Krieg bis Trump weg ist",
+      "excerpt": "Ein iranischer Militärberater droht mit einem langen Krieg und teurem Öl bis 2029.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/hohe-benzinpreise-bis-2029-teheran-plant-krieg-bis-trump-weg-ist-6a7c9ac5169e8e32c0ae5c17",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Moskau und die Bomben-Drohne - Was das Datum über die Attentäter verraten könnte",
+      "excerpt": "Putins Regime verknüpft Anschläge und Angriffe immer wieder mit Symbol-Daten.",
+      "url": "https://www.bild.de/politik/inland/moskau-und-die-bomben-drohne-was-das-datum-ueber-die-attentaeter-von-leipzig-verraet-6a7b1a540e3689919ec77dd9",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sachsen-Anhalt - Polizei-Funktionär ruft Kollegen zum AfD-Aufstand auf",
+      "excerpt": "Gewerkschafter fordert Polizeivorbereitung auf AfD-Regierung, Jurist widerspricht scharf.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-polizei-funktionaer-wiegelt-ost-kollegen-gegen-afd-auf-6a7c25550e3689919ec789d7",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Polizei, Schule, Gerichte - Was passiert, wenn die AfD in Sachsen-Anhalt regiert?",
+      "excerpt": "AfD an der Macht in Sachsen-Anhalt: Das könnte sich im Land grundlegend ändern.",
+      "url": "https://www.bild.de/politik/inland/polizei-schule-gerichte-was-passiert-wenn-die-afd-in-sachsen-anhalt-regiert-6a7c2df0169e8e32c0ae5146",
+      "publishedAt": "2026-08-13T03:15:41.847Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lohnnachschlag für Beamte - Wer mit Geldregen rechnen kann, wer leer ausgeht",
+      "excerpt": "Berlin zögert Milliarden-Nachzahlungen für verfassungswidrige Beamtengehälter hinaus.",
+      "url": "https://www.bild.de/politik/inland/fetter-lohnnachschlag-fuer-beamte-wer-mit-geldregen-rechnen-kann-wer-leer-ausgeht-6a79a7d90e3689919ec76874",
+      "publishedAt": "2026-08-13T03:15:41.846Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Laschet warnt bei Maischberger - Nicht den Kanzler stürzen!",
+      "excerpt": "Dramatischer Appell von Armin Laschet an die CDU-Kollegen!",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/talk-bei-maischberger-armin-laschet-warnt-vor-kanzler-sturz-6a7d20cfa87e8142c31ce569",
+      "publishedAt": "2026-08-13T03:15:41.846Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Vieles scheint planlos“ - Tui-Chef Ebel rechnet mit Merz-Regierung ab",
+      "excerpt": "Tui-Chef Ebel wirft der Regierung Planlosigkeit und fehlende Wirtschaftskonzepte vor.",
+      "url": "https://www.bild.de/politik/inland/vieles-scheint-planlos-chef-von-tui-rechnet-mit-der-regierung-von-merz-ab-6a7cdaf13f194e99267401fa",
+      "publishedAt": "2026-08-13T03:15:41.846Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Waffe für Abschiebungen - Trump-Behörde bekommt Elektroschock-Handschuhe",
+      "excerpt": "US-Abschiebebehörde rüstet Beamte mit teuren Elektroschock-Handschuhen aus.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-elektroschock-handschuhe-fuer-migrations-behoerde-ice-6a7cf45aa87e8142c31ce4c5",
+      "publishedAt": "2026-08-13T03:15:41.846Z",
       "category": "POLITIK"
     },
     {
@@ -150,23 +150,7 @@
       "title": "Astronomie - Sonnenfinsternis in Teilen Europas - partielle Verdunklung in Deutschland",
       "excerpt": "In einigen Teilen Europas war am Abend eine Sonnenfinsternis zu sehen. In Spanien wurde die Sonne komplett verdunkelt, in Deutschland zu einem großen Teil. Dank guter Wetterverhältnisse ließ sich das Ereignis an vielen O",
       "url": "https://www.deutschlandfunk.de/sonnenfinsternis-in-teilen-europas-partielle-verdunklung-in-deutschland-102.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Geplante Reform - Warken: Aufgabenbereiche von Nachrichtendiensten und Polizei bleiben getrennt",
-      "excerpt": "Die Aufgabenbereiche von Nachrichtendiensten und Polizei bleiben laut Kanzleramtschefin Warken weiterhin klar getrennt.",
-      "url": "https://www.deutschlandfunk.de/warken-aufgabenbereiche-von-nachrichtendiensten-und-polizei-bleiben-getrennt-102.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedrigwasser - Binnenschifffahrts-Gesellschaft: Brauchen Klarheit bei Flottenerneuerung",
-      "excerpt": "Nach den Beratungen der Verkehrsminister über die angespannte Lage der Binnenschifffahrt wegen niedriger Pegelstände fordert die Branche, Klarheit für eine niedrigwassertaugliche Umrüstung ihrer Schiffe zu schaffen.",
-      "url": "https://www.deutschlandfunk.de/binnenschifffahrts-gesellschaft-brauchen-klarheit-bei-flottenerneuerung-102.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,23 +158,31 @@
       "title": "65 Jahre Mauerbau - Klöckner warnt vor Gefahren für die Demokratie",
       "excerpt": "Anlässlich des 65. Jahrestags des Mauerbaus hat Bundestagspräsidentin Klöckner vor Gefahren für die Demokratie gewarnt.",
       "url": "https://www.deutschlandfunk.de/kloeckner-warnt-vor-gefahren-fuer-die-demokratie-104.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Wegen Niedrigwasser - 15 Bundesländer setzen Lkw-Fahrverbot aus - Sachsen-Anhalt einziges Bundesland ohne Ausnahmeregelung",
-      "excerpt": "Aufgrund des anhaltenden Niedrigwassers haben mittlerweile 15 Bundesländer Lockerungen des Fahrverbots für Lkw an Sonn- und Feiertagen beschlossen.",
-      "url": "https://www.deutschlandfunk.de/15-bundeslaender-setzen-lkw-fahrverbot-aus-sachsen-anhalt-einziges-bundesland-ohne-ausnahmeregelung-108.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "title": "Geplante Reform - Warken: Aufgabenbereiche von Nachrichtendiensten und Polizei bleiben getrennt",
+      "excerpt": "Die Aufgabenbereiche von Nachrichtendiensten und Polizei bleiben laut Kanzleramtschefin Warken weiterhin klar getrennt.",
+      "url": "https://www.deutschlandfunk.de/warken-aufgabenbereiche-von-nachrichtendiensten-und-polizei-bleiben-getrennt-102.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "USA - Präsident Trumps Pressesprecherin Leavitt gibt ihren Posten auf",
-      "excerpt": "Die Pressesprecherin des Weißen Hauses, Karoline Leavitt, gibt ihren Posten auf.",
-      "url": "https://www.deutschlandfunk.de/praesident-trumps-pressesprecherin-leavitt-gibt-ihren-posten-auf-106.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "title": "Niedrigwasser - Binnenschifffahrts-Gesellschaft: Brauchen Klarheit bei Flottenerneuerung",
+      "excerpt": "Nach den Beratungen der Verkehrsminister über die angespannte Lage der Binnenschifffahrt wegen niedriger Pegelstände fordert die Branche, Klarheit für eine niedrigwassertaugliche Umrüstung ihrer Schiffe zu schaffen.",
+      "url": "https://www.deutschlandfunk.de/binnenschifffahrts-gesellschaft-brauchen-klarheit-bei-flottenerneuerung-102.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitzewellen - Kommunen fordern Milliarden für Hitzeschutz in Kliniken und Heimen",
+      "excerpt": "Der Deutsche Städte- und Gemeindebund fordert einen besseren Hitzeschutz für Krankenhäuser und Altenheime.",
+      "url": "https://www.deutschlandfunk.de/kommunen-fordern-milliarden-fuer-hitzeschutz-in-kliniken-und-heimen-100.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +190,39 @@
       "title": "Bundeshaushalt - SPD-Landeschefs fordern Verzicht auf Kürzungen beim Wohngeld",
       "excerpt": "In der SPD regt sich weiterer Widerstand gegen die Kürzung des Wohngelds.",
       "url": "https://www.deutschlandfunk.de/spd-landeschefs-fordern-verzicht-auf-kuerzungen-beim-wohngeld-100.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - ICE-Behörde plant Kauf von Elektroschock-Handschuhen",
+      "excerpt": "Die US-Einwanderungsbehörde ICE plant die Anschaffung von Elektroschock-Handschuhen.",
+      "url": "https://www.deutschlandfunk.de/ice-behoerde-plant-kauf-von-elektroschock-handschuhen-102.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Präsident Trumps Pressesprecherin Leavitt gibt ihren Posten auf",
+      "excerpt": "Die Pressesprecherin des Weißen Hauses, Leavitt, gibt ihren Posten auf.",
+      "url": "https://www.deutschlandfunk.de/praesident-trumps-pressesprecherin-leavitt-gibt-ihren-posten-auf-106.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Erdbeben - Zahl der Toten und Verletzten in Kolumbien steigt immer weiter",
+      "excerpt": "Nach dem schweren Erdbeben in Kolumbien ist die Zahl der Todesopfer auf 265 gestiegen.",
+      "url": "https://www.deutschlandfunk.de/zahl-der-toten-und-verletzten-in-kolumbien-steigt-immer-weiter-100.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russischer Angriffskrieg - Ukraine will keine genauen Angaben mehr zu russischen Raketenangriffen machen",
+      "excerpt": "Die Ukraine will künftig keine detaillierten Angaben mehr zu russischen Raketenangriffen machen.",
+      "url": "https://www.deutschlandfunk.de/ukraine-will-keine-genauen-angaben-mehr-zu-russischen-raketenangriffen-machen-102.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,39 +230,7 @@
       "title": "Angriffe auf Schwarzmeer-Stützpunkt - Ukrainisches Militär trifft laut Geheimdienst russische Kriegsschiffe",
       "excerpt": "Bei ihren jüngsten Angriffen auf den russischen Marinestützpunkt Noworossijsk hat das ukrainische Militär nach Geheimdienstangaben auch drei Kriegsschiffe getroffen.",
       "url": "https://www.deutschlandfunk.de/ukrainisches-militaer-trifft-laut-geheimdienst-russische-kriegsschiffe-108.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Nach Mandatsniederlegung: Farage tritt zur Nachwahl an",
-      "excerpt": "Der britische Rechtspopulist Farage stellt sich heute einer Nachwahl in seinem Wahlkreis Clacton-on-Sea in Südostengland.",
-      "url": "https://www.deutschlandfunk.de/nach-mandatsniederlegung-farage-tritt-zur-nachwahl-an-102.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Vor Ende von 60-Tage-Frist - Pakistan setzt Vermittlungsbemühungen im Iran-Krieg fort",
-      "excerpt": "Pakistan setzt seine Vermittlungsbemühungen im Konflikt zwischen den USA und dem Iran fort.",
-      "url": "https://www.deutschlandfunk.de/pakistan-setzt-vermittlungsbemuehungen-im-iran-krieg-fort-110.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Drohende Umweltkatastrophe - Tanker vor dem Oman hat deutlich mehr Öl verloren",
-      "excerpt": "Nach der Havarie eines Tankers vor der Küste des Oman weitet sich die Ölverschmutzung aus.",
-      "url": "https://www.deutschlandfunk.de/tanker-vor-dem-oman-hat-deutlich-mehr-oel-verloren-114.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bericht - Israelisches Militär sprengt Schulgebäude im Libanon",
-      "excerpt": "Israelische Soldaten haben im Libanon ein vierstöckiges Schulgebäude gesprengt.",
-      "url": "https://www.deutschlandfunk.de/israelisches-militaer-sprengt-schulgebaeude-im-libanon-108.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +238,47 @@
       "title": "Spanische Exklaven - Marokko warnt vor erneutem Ansturm von Migranten auf Ceuta und Melilla",
       "excerpt": "Marokko hat vor einem erneuten Ansturm von Migranten auf die spanischen Exklaven Ceuta und Melilla gewarnt.",
       "url": "https://www.deutschlandfunk.de/marokko-warnt-vor-erneutem-ansturm-von-migranten-auf-ceuta-und-melilla-106.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wegen Niedrigwasser - 15 Bundesländer setzen Lkw-Fahrverbot aus - Sachsen-Anhalt einziges Bundesland ohne Ausnahmeregelung",
+      "excerpt": "Aufgrund des anhaltenden Niedrigwassers haben mittlerweile 15 Bundesländer Lockerungen des Fahrverbots für Lkw an Sonn- und Feiertagen beschlossen.",
+      "url": "https://www.deutschlandfunk.de/15-bundeslaender-setzen-lkw-fahrverbot-aus-sachsen-anhalt-einziges-bundesland-ohne-ausnahmeregelung-108.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Nach Mandatsniederlegung: Farage tritt zur Nachwahl an",
+      "excerpt": "Der britische Rechtspopulist Farage stellt sich heute einer Nachwahl in seinem Wahlkreis Clacton-on-Sea in Südostengland.",
+      "url": "https://www.deutschlandfunk.de/nach-mandatsniederlegung-farage-tritt-zur-nachwahl-an-102.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Vor Ende von 60-Tage-Frist - Pakistan setzt Vermittlungsbemühungen im Iran-Krieg fort",
+      "excerpt": "Pakistan setzt seine Vermittlungsbemühungen im Konflikt zwischen den USA und dem Iran fort.",
+      "url": "https://www.deutschlandfunk.de/pakistan-setzt-vermittlungsbemuehungen-im-iran-krieg-fort-110.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Drohende Umweltkatastrophe - Tanker vor dem Oman hat deutlich mehr Öl verloren",
+      "excerpt": "Nach der Havarie eines Tankers vor der Küste des Oman weitet sich die Ölverschmutzung aus.",
+      "url": "https://www.deutschlandfunk.de/tanker-vor-dem-oman-hat-deutlich-mehr-oel-verloren-114.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bericht - Israelisches Militär sprengt Schulgebäude im Libanon",
+      "excerpt": "Israelische Soldaten haben im Libanon ein vierstöckiges Schulgebäude gesprengt.",
+      "url": "https://www.deutschlandfunk.de/israelisches-militaer-sprengt-schulgebaeude-im-libanon-108.html",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,32 +286,16 @@
       "title": "Pegelstände - Ministerpräsident Magyar: Ungarn will Donau-Wasserstand zur Kühlung von Atomkraftwerk anheben",
       "excerpt": "Der ungarische Ministerpräsident Magyar hat angekündigt, den wegen der Trockenheit niedrigen Donau-Wasserstand künstlich anzuheben.",
       "url": "https://www.deutschlandfunk.de/ministerpraesident-magyar-ungarn-will-donau-wasserstand-zur-kuehlung-von-atomkraftwerk-anheben-104.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
+      "publishedAt": "2026-08-13T02:38:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Schwimm-EM - Gold mit Europarekord für Johannes Liebmann",
-      "excerpt": "Der deutsche Schwimmer Johannes Liebmann hat bei den Europameisterschaften in Paris über 800 Meter Freistil die Goldmedaillie gewonnen.",
-      "url": "https://www.deutschlandfunk.de/gold-mit-europarekord-fuer-johannes-liebmann-110.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - PSG besiegt Aston Villa mit 2:1 und holt sich den UEFA-Supercup",
-      "excerpt": "Paris Saint-Germain hat den UEFA-Supercup gewonnen.",
-      "url": "https://www.deutschlandfunk.de/psg-besiegt-aston-villa-mit-2-1-und-holt-sich-den-uefa-supercup-104.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wetter - Am Donnerstag meist sonnig, 27 bis 37 Grad",
-      "excerpt": "Das Wetter: Nachts gering bewölkt oder klar. Abkühlung auf 18 bis Grad in den Ballungszentren im Westen und Südwesten, sonst bis 7 Grad in den mittleren und östlichen Landesteilen. Am Tage in den meisten Landesteilen wol",
-      "url": "https://www.deutschlandfunk.de/am-donnerstag-meist-sonnig-27-bis-37-grad-102.html",
-      "publishedAt": "2026-08-12T23:04:00.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Darmparasit Cyclospora breitet sich in den USA aus",
+      "excerpt": "Mehr als 20.000 Krankheitsfälle, Hunderte Krankenhausaufenthalte und zwei Todesfälle: Neue Zahlen zeigen, dass der Cyclospora-Parasit in den USA einen außergewöhnlich schweren Ausbruch ausgelöst hat. Gleichzeitig gibt es",
+      "url": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html",
+      "publishedAt": "2026-08-13T01:46:58.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -823,14 +839,6 @@
       "excerpt": "Köln und Düsseldorf möchten einen Modellversuch mit dem sogenannten Drogen-Mikrohandel starten. Vorbild ist Zürich. Dort wird er in \"Drogenkonsumräumen\" geduldet - mit einigem Erfolg. Von T. Wagner",
       "url": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html",
       "publishedAt": "2026-08-11T07:13:37.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Ablenkungsmanöver: Trump im Catering-Wagen statt in der Air Force One?",
-      "excerpt": "US-Präsident Trump ist laut US-Medien nach dem NATO-Gipfel in der Türkei mit einem Täuschungsmanöver ausgeflogen worden. Demnach wurde er in ein kleineres Flugzeug geschleust. Hintergrund soll eine Drohung Irans gewesen ",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-nato-gipfel-catering-wagen-100.html",
-      "publishedAt": "2026-08-11T05:30:55.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
