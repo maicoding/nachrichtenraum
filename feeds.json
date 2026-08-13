@@ -1,12 +1,52 @@
 {
-  "updatedAt": "2026-08-13T17:12:36.967Z",
+  "updatedAt": "2026-08-13T18:07:14.842Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Zwischenruf von Peter Tiede - Sanierungsfall SPD: Verstehen die Genossen jetzt Wirtschaft?",
+      "excerpt": "Die SPD streicht Jobs und Arbeitszeit, während ihre Finanzen massiv einbrechen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-von-peter-tiede-versteht-die-spd-jetzt-wirtschaft-6a7dde90169e8e32c0ae7082",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Länder müssen besser bezahlen - So viel Nachschlag können Beamte jetzt bekommen",
+      "excerpt": "Berlin und mehrere Länder zahlen Beamten hohe Nachschläge, teils mit Auflagen.",
+      "url": "https://www.bild.de/politik/inland/lehrer-und-polizisten-so-viel-nachschlag-koennen-beamte-bekommen-6a7db9a5169e8e32c0ae6ca2",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Brüssel macht den Binnenmarkt kaputt",
+      "excerpt": "Jahrelang hat Brüssel den europäischen Binnenmarkt als Erfolg gefeiert.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-bruessel-macht-den-binnenmarkt-kaputt-6a7dfd54a87e8142c31cf493",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Einmarsch in Sachsen-Anhalt? - Die Skandal-Akte des Aufwiegel-Polizisten",
       "excerpt": "Der einstige DDR-Politoffizier Hüber machte Karriere bei der Bundespolizei.",
       "url": "https://www.bild.de/politik/inland/einmarsch-in-sachsen-anhalt-die-skandal-akte-des-aufwiegel-polizisten-6a7da84a169e8e32c0ae6afd",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mitten in den Steuerberatungen - Zahlen-Zoff? Klingbeil feuert Haushalts-Chefin",
+      "excerpt": "Klingbeil entlässt seine Haushaltschefin, während sein Etatentwurf stark kritisiert wird.",
+      "url": "https://www.bild.de/politik/inland/lars-klingbeil-feuert-haushalts-chefin-mitten-in-steuerberatungen-6a7dccd7dc674b59e6e1d644",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Aufruf zum Aufstand gegen AfD - Wikipedia-Schlacht um Polizei-Funktionär",
+      "excerpt": "Wikipedia-Eintrag zu Sven Hüber sorgt nach AfD-Kritik für Streit.",
+      "url": "https://www.bild.de/politik/inland/sven-hueber-wikipedia-streit-um-ddr-vergangenheit-und-afd-aussagen-6a7dcb44169e8e32c0ae6ec7",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +54,7 @@
       "title": "Wende in Berlin - Volksbühne sagt „Badetag nur für Schwarze“ ab",
       "excerpt": "Nach Drohungen sagen Volksbühne und Eoto ein Schwimmangebot nur für Schwarze ab.",
       "url": "https://www.bild.de/politik/inland/wende-in-berlin-volksbuehne-sagt-badetag-nur-fuer-schwarze-ab-6a7de7a4169e8e32c0ae7164",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +62,7 @@
       "title": "Iran-Gefahr in Ankara - In diesem Catering-Container musste Trump fliehen",
       "excerpt": "Wegen iranischer Bedrohung verlässt Trump den Gipfel versteckt im Catering-Container.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-geheime-abreise-im-catering-container-die-details-6a7d9879dc674b59e6e1d0b6",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +70,7 @@
       "title": "Schätzung des Robert-Koch-Instituts - 12.500 Menschen mehr während Hitzewelle gestorben",
       "excerpt": "Hitze fordert 12.500 Tote, Politik streitet über besseren Schutz vor Extremtemperaturen.",
       "url": "https://www.bild.de/politik/inland/schaetzung-des-robert-koch-instituts-zahl-der-hitzetoten-steigt-auf-12-500-6a7db138169e8e32c0ae6bbf",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +78,7 @@
       "title": "„Und das ist auch gut so“ - SPD kontert CDU mit historischem Wowereit-Spruch",
       "excerpt": "SPD-Mann Krach wirbt mit Wowereit-Zitat gegen konservativen Kurs von CDU-Mann Evers.",
       "url": "https://www.bild.de/politik/inland/wahl-in-berlin-spd-kontert-cdu-mit-historischem-wowereit-spruch-6a7d76730773f8de24672496",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +86,7 @@
       "title": "Drohnen-Plan - Was die Nato von der Ukraine gelernt hat",
       "excerpt": "NATO plant ein KI-Gefechtsnetz mit Drohnen, doch über Angriffe entscheidet der Mensch.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/drohnen-plan-was-die-nato-von-der-ukraine-gelernt-hat-6a7c3bf0a87e8142c31cd88c",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +94,7 @@
       "title": "Umsatzeinbruch wegen 12-Uhr-Regel - Tankstellen verkaufen weniger Kaffee und Snacks",
       "excerpt": "Neue Spritpreis-Regel treibt Kunden vor Mittag an die Zapfsäulen, Shops leiden",
       "url": "https://www.bild.de/politik/inland/tankstellen-umsatz-bricht-ein-wegen-12-uhr-regel-6a7db4d2dc674b59e6e1d3cd",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +102,7 @@
       "title": "Nach Tausenden Unfällen mit E-Scootern - Helm-Zwang bald auch in Deutschland?",
       "excerpt": "Mehr Unfälle mit E-Scootern: Politiker streiten über Helmpflicht in Deutschland.",
       "url": "https://www.bild.de/politik/inland/e-scooter-16-500-unfaelle-entfachen-helmdebatte-6a7c27250e3689919ec789f2",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +110,7 @@
       "title": "Die heißesten Theorien zum Leavitt-Abgang - Was steckt hinter Trumps Sprecherinnen-Knall?",
       "excerpt": "Rätsel um Leavitts Rückzug: Trump verliert Sprecherin mitten im Umfragetief.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trumps-sprecherin-karoline-leavitt-was-hinter-ihrem-abgang-vermutet-wird-6a7d71e40773f8de2467245f",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +118,7 @@
       "title": "65 Jahre Mauerbau - „Das SED-Regime war eine brutale Diktatur“",
       "excerpt": "Politiker erinnern in Berlin an Mauerbau, Opfer und Verbrechen der DDR-Diktatur.",
       "url": "https://www.bild.de/politik/inland/65-jahre-mauerbau-das-sed-regime-war-eine-brutale-diktatur-6a7da0faa87e8142c31ced3b",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +126,7 @@
       "title": "Wir zahlen für „Ökofeminismus“ - Entwicklungshilfe? 612 Mio. Euro gehen an Gender-Projekte",
       "excerpt": "Wir zahlen unter anderem für wokes Theater und „Ökofeminismus“ auf der ganzen Welt.",
       "url": "https://www.bild.de/politik/inland/ist-das-noch-entwicklungshilfe-612-mio-euro-gehen-an-gender-projekte-6a7d87daa87e8142c31cea3c",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +134,7 @@
       "title": "Sie kämpfen um Leavitts Nachfolge - Heiße Kandidaten! Wer wird Trumps neue Stimme?",
       "excerpt": "⁣Heiß gehandelt – drei junge Frauen und zwei ältere Männer.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/deine-mutter-und-linke-schmierfinken-so-hielt-karoline-leavitt-trump-den-ruecken-frei-6a7d623b169e8e32c0ae6294",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
@@ -102,47 +142,223 @@
       "title": "37-Stunden-Woche weg, neue Gehälter - SPD-Mitarbeiter sollen länger arbeiten!",
       "excerpt": "Wegen Geldnot kürzt die SPD Stellen und plant längere Arbeitszeiten im Willy-Brandt-Haus.",
       "url": "https://www.bild.de/politik/inland/spd-unter-spardruck-stellenabbau-und-streichung-der-37-stunden-woche-6a7ae030630361c8992287ea",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "publishedAt": "2026-08-13T18:07:14.486Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Trump-Sprecherin geht - Diese Sprüche machten sie berühmt",
-      "excerpt": "US-Regierungssprecherin Karoline Leavitt tritt Ende August für Familie zurück.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-vertraute-karoline-leavitt-geht-diese-sprueche-machten-sie-beruehmt-6a7db488a87e8142c31ceed4",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
+      "excerpt": "In der Grafschaft East Sussex im Südosten Englands ist am späten Nachmittag ein Zug entgleist, mehrere Waggons sind dabei umgekippt. Nach bisherigen Erkenntnissen gibt es keine Toten oder Schwerverletzten.",
+      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
+      "publishedAt": "2026-08-13T17:57:17.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutsche Teilung - Berlin erinnert an Mauerbau vor 65 Jahren",
+      "excerpt": "Bundeskanzler Merz hat am Jahrestag des Mauerbaus zur Verteidigung von Freiheit und Demokratie aufgerufen. Vor 65 Jahren habe die DDR-Führung die Mauer errichten lassen, schrieb Merz. Heute sei das Land länger vereint, a",
+      "url": "https://www.deutschlandfunk.de/berlin-erinnert-an-mauerbau-vor-65-jahren-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Parteien - Weiter Kritik von SPD-Basis - Lauterbach gegen Personaldebatten",
+      "excerpt": "In der SPD-Basis wird weiterhin Kritik am Kurs der Partei laut. Im Zentrum steht die Führungsstruktur mit den Parteivorsitzenden Bas und Klingbeil, die gleichzeitig Minister sind.",
+      "url": "https://www.deutschlandfunk.de/weiter-kritik-von-spd-basis-lauterbach-gegen-personaldebatten-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Angriffe durch Russland - Juli war tödlichster Monat für Zivilisten in Ukraine seit Jahren",
+      "excerpt": "Im russischen Angriffskrieg gegen die Ukraine sind nach Angaben von Beobachtern der Vereinten Nationen im Juli so viele Zivilisten ums Leben gekommen wie seit Jahren nicht mehr in einem Monat. Es seien mindestens 437 Men",
+      "url": "https://www.deutschlandfunk.de/juli-war-toedlichster-monat-fuer-zivilisten-in-ukraine-seit-jahren-102.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Virus breitet sich aus - Ebola in weiterer Provinz im Kongo festgestellt",
+      "excerpt": "In der Demokratischen Republik Kongo breitet sich die Infektionskrankheit Ebola weiter aus.",
+      "url": "https://www.deutschlandfunk.de/ebola-in-weiterer-provinz-im-kongo-festgestellt-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Polen - Regierung senkt vorübergehend Mehrwertsteuersatz für Treibstoffe",
+      "excerpt": "Die polnische Regierung hat angekündigt, vorübergehend den Mehrwertsteuersatz für Benzin und Diesel zu senken.",
+      "url": "https://www.deutschlandfunk.de/regierung-senkt-voruebergehend-mehrwertsteuersatz-fuer-treibstoffe-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheitspolitik - Innenminister sehen sich bei der Abwehr von gefährlichen Drohnen unter Zeitdruck",
+      "excerpt": "Die Innenminister von Bund und Ländern wollen bei der Fähigkeit zur Abwehr von potenziell gefährlichen Drohnen schneller vorankommen.",
+      "url": "https://www.deutschlandfunk.de/innenminister-sehen-sich-bei-der-abwehr-von-gefaehrlichen-drohnen-unter-zeitdruck-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Folgen der Hitze - Futtermangel auf Bauernhöfen - Tiere werden früher geschlachtet",
+      "excerpt": "In Süddeutschland ist es wegen der anhaltenden Hitze und Trockenheit zu einem Futtermangel für Nutztiere gekommen.",
+      "url": "https://www.deutschlandfunk.de/futtermangel-auf-bauernhoefen-tiere-werden-frueher-geschlachtet-102.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Begrenzte Bargeld-Abhebung - Berlin führt als letztes Bundesland Bezahlkarte für Asylsuchende ein",
+      "excerpt": "Als letztes Bundesland hat auch Berlin eine Bezahlkarte für Asylbewerber eingeführt.",
+      "url": "https://www.deutschlandfunk.de/berlin-fuehrt-als-letztes-bundesland-bezahlkarte-fuer-asylsuchende-ein-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Oman - Havarierter Tanker soll geborgen werden",
+      "excerpt": "Nach der Havarie eines Öltankers vor der Küste des Oman soll das Schiff geborgen werden.",
+      "url": "https://www.deutschlandfunk.de/havarierter-tanker-soll-geborgen-werden-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitze - Zahl der Hitzetoten erneut gestiegen - 2026 das Jahr mit den meisten hitzebedingten Sterbefällen",
+      "excerpt": "Die Zahl der Hitzetoten in diesem Sommer ist erneut gestiegen. Sie liegt inzwischen bei 12.500, wie das Robert Koch-Institut in seinem Wochenbericht mitteilte. Ausgewertet wurden Daten bis zum 2. August.",
+      "url": "https://www.deutschlandfunk.de/zahl-der-hitzetoten-erneut-gestiegen-2026-das-jahr-mit-den-meisten-hitzebedingten-sterbefaellen-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Westjordanland - Palästinenser in Kusra dürfen doch in ihren Häusern bleiben",
+      "excerpt": "Im Westjordanland versucht die israelische Armee weiter, der Gewalt extremistischer Siedler gegen Palästinenser Herr zu werden.",
+      "url": "https://www.deutschlandfunk.de/palaestinenser-in-kusra-duerfen-doch-in-ihren-haeusern-bleiben-102.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ex-Justizministerin - Leutheusser-Schnarrenberger kritisiert Geheimdienst-Reform",
+      "excerpt": "Die frühere Bundesjustizministerin Leutheusser-Schnarrenberger hat die gestern vom Kabinett beschlossene Reform der Nachrichtendienste kritisiert. Die geplanten Maßnahmen seien nicht mit dem Rechtsstaat zu vereinbaren, s",
+      "url": "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-kritisiert-geheimdienst-reform-102.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Statistik - Junge Menschen finden oft nur befristete Jobs",
+      "excerpt": "Junge Menschen bekommen in Deutschland weiterhin vor allem befristete Arbeitsverträge. In der Altersgruppe zwischen 15 und 25 Jahren waren vergangenes Jahr 18,3 Prozent der Erwerbspersonen befristet beschäftigt, wie das ",
+      "url": "https://www.deutschlandfunk.de/junge-menschen-finden-oft-nur-befristete-jobs-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Thüringen - Wagenknecht weist Höckes Idee zurück, mit Stimmen der AfD Ministerpräsidentin zu werden",
+      "excerpt": "BSW-Gründerin Wagenknecht hat die Idee des Thüringer AfD-Landeschefs Höcke zurückgewiesen, sie könne mit den Stimmen seiner Partei Regierungschefin des Freistaats werden.",
+      "url": "https://www.deutschlandfunk.de/wagenknecht-weist-hoeckes-idee-zurueck-mit-stimmen-der-afd-ministerpraesidentin-zu-werden-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sambia - Wahl eines neuen Präsidenten",
+      "excerpt": "Im südafrikanischen Sambia finden Präsidentenwahlen statt.",
+      "url": "https://www.deutschlandfunk.de/wahl-eines-neuen-praesidenten-136.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Statistik - Zahl der Kindeswohlgefährdungen gestiegen",
+      "excerpt": "Die Zahl der Kindeswohlgefährdungen in Deutschland ist auf einen neuen Höchststand gestiegen. Nach Angaben des Statistischen Bundesamts stellten die zuständigen Ämter 2025 bei rund 79.800 Kindern oder Jugendlichen eine G",
+      "url": "https://www.deutschlandfunk.de/zahl-der-kindeswohlgefaehrdungen-gestiegen-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Drohungen - Volksbühne sagt Veranstaltung für Schwarze Kinder im \"Volksbad\" ab",
+      "excerpt": "Eine Veranstaltung im Pop-Up-Bad vor der Berliner Volksbühne, die am Freitag für Schwarze Kinder und Jugendliche gedacht war, wird abgesagt.",
+      "url": "https://www.deutschlandfunk.de/volksbuehne-sagt-veranstaltung-fuer-schwarze-kinder-im-volksbad-ab-106.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gewerkschaft der Polizei - Aufruf zu Widerstand gegen eine etwaige AfD-Landesregierung sorgt für Diskussion",
+      "excerpt": "Der Vizechef der Gewerkschaft der Polizei, Hüber, ruft seine Kollegen in Sachsen-Anhalt dazu auf, sich auf eine etwaige AfD-Landesregierung vorzubereiten.",
+      "url": "https://www.deutschlandfunk.de/aufruf-zu-widerstand-gegen-eine-etwaige-afd-landesregierung-sorgt-fuer-diskussion-100.html",
+      "publishedAt": "2026-08-13T17:39:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Westjordanland: Hügeljugend im Häuserkampf",
+      "excerpt": "Seit mehreren Tagen terrorisieren israelische Siedler den Hauskomplex von Familie Hassan. Das israelische Militär soll die Belagerung räumen – eigentlich. mehr...",
+      "url": "https://taz.de/Westjordanland/!6204157/",
+      "publishedAt": "2026-08-13T17:26:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Ministerpräsidentin in Thüringen? - Wagenknecht gibt Höcke einen Korb",
-      "excerpt": "Wagenknecht lehnt Höckes Machtangebot ab und verlangt ein offenes TV-Duell mit ihm.",
-      "url": "https://www.bild.de/politik/inland/ministerpraesidentin-in-thueringen-wagenknecht-gibt-hoecke-korb-und-fordert-ihn-zum-duell-6a7d9d05169e8e32c0ae69c5",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "source": "TAZ.DE",
+      "title": "Deutscher Urananreicherer: Schleichende Militarisierung von Urenco",
+      "excerpt": "Der Betreiber von Deutschlands einziger Urananreicherungsanlage wird Teil der atomaren Rüstungsindustrie. Kann die Bundesregierung ein Veto einlegen? mehr...",
+      "url": "https://taz.de/Deutscher-Urananreicherer/!6204017/",
+      "publishedAt": "2026-08-13T17:26:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Russen-Angriff auf Ukraine-Zug - Lokführer stirbt, um 340 Passagiere zu retten",
-      "excerpt": "Bei einem russischen Angriff auf einen Passagierzug wird ein ukrainischer Lokführer zum Helden",
-      "url": "https://www.bild.de/politik/odesa-lokfuehrer-stirbt-um-340-passagiere-bei-russen-angriff-zu-retten-6a7dacce169e8e32c0ae6b3e",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "source": "TAZ.DE",
+      "title": "Klimaanpassung in die Verfassung: Eine Grundgesetzänderung reicht nicht",
+      "excerpt": "Der Umweltminister will Klimaanpassung ins Grundgesetz schreiben. Das ist richtig, schützt aber nicht vor Klimafolgen. Es braucht eine radikale Lösung. mehr...",
+      "url": "https://taz.de/Klimaanpassung-in-die-Verfassung/!6204162/",
+      "publishedAt": "2026-08-13T17:25:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Putin kriegt sein Problem nicht in den Griff. Mit Fred Pleitgen",
-      "excerpt": "Paul Ronzheimer spricht mit CNN-Chefkorrespondent Fred Pleitgen, der gerade in Moskau ist. Pleitgen berichtet, wie die Stimmung in R...",
-      "url": "https://www.bild.de/politik/ronzheimer-putin-kriegt-sein-problem-nicht-in-den-griff-mit-fred-pleitgen-6a7db91ca87e8142c31cef6c",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "source": "TAZ.DE",
+      "title": "AfD, BSW und die Ostwahlen: Die Linke als Stabilitätsanker",
+      "excerpt": "Höcke lockt Wagenknecht zur Zusammenarbeit in Thüringen. Beim BSW dürfte das nicht alle erfreuen. Die CDU täte gut daran, sich um die Linke zu bemühen. mehr...",
+      "url": "https://taz.de/AfD-BSW-und-die-Ostwahlen/!6204135/",
+      "publishedAt": "2026-08-13T17:25:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "250 Tage Dauer-Einsatz im Nahen Osten - US-Soldaten wollten von Flugzeugträger springen",
-      "excerpt": "Monatelanger Einsatz im Nahen Osten bringt Besatzung der Abraham Lincoln an die Grenze.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/flugzeugtraeger-uss-abraham-lincoln-soldaten-wollten-von-us-flugzeugtraeger-springen-6a7d6b900773f8de24672409",
-      "publishedAt": "2026-08-13T17:12:36.963Z",
+      "source": "TAZ.DE",
+      "title": "65. Jahrestag des Mauerbaus: Ein Sprung über die Mauer zur Ostalgie",
+      "excerpt": "Vor 65 Jahren wurde Berlin durch den Bau der Mauer geteilt. Bei einer Gedenkveranstaltung zum Jahrestag warnen CDU-Politiker vor einer Verklärung der DDR. mehr...",
+      "url": "https://taz.de/65-Jahrestag-des-Mauerbaus/!6204108/",
+      "publishedAt": "2026-08-13T17:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sommerdepressionen durch Hitze: I got that summertime, summertime sadness",
+      "excerpt": "Wenn es im Sommer heiß ist, wird der Schlaf schlechter. Das kann psychisch krank machen. Wie immer können sich Reiche besser vor der Hitze schützen. mehr...",
+      "url": "https://taz.de/Sommerdepressionen-Was-Hitze-mit-der-Psyche-macht/!6204057/",
+      "publishedAt": "2026-08-13T17:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Projekt der Stanford University: KI für leckere Burger",
+      "excerpt": "Das klassische Fast Food kann ganz unklassisch daherkommen: nämlich nachhaltig, gesund und lecker. Ausgereichnet mit KI, zeigen For­sche­r:in­nen. mehr...",
+      "url": "https://taz.de/Forscher-zeigen-wie-man-mithilfe-von-KI-besseres-Fast-Food-herstellen-kann/!6200288/",
+      "publishedAt": "2026-08-13T17:23:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Amazon-Serie „Sterling Point“: Warum haben die alle Boote?",
+      "excerpt": "Nach „Off Campus“ ist „Sterling Point“ die nächste Hype-Serie. Zwischen Trauer, malerischen Inseln und Love-Triangle verliert sie manchmal den Fokus. mehr...",
+      "url": "https://taz.de/Prime-Video-Serie-Sterling-Point-Warum-haben-die-alle-Boote/!6203432/",
+      "publishedAt": "2026-08-13T17:22:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -152,150 +368,6 @@
       "url": "https://taz.de/Gewalt-im-tuerkischen-Gefaengnis/!6204073/",
       "publishedAt": "2026-08-13T17:03:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutsche Teilung - Berlin erinnert an Mauerbau vor 65 Jahren",
-      "excerpt": "Bundeskanzler Merz hat am Jahrestag des Mauerbaus zur Verteidigung von Freiheit und Demokratie aufgerufen. Vor 65 Jahren habe die DDR-Führung die Mauer errichten lassen, schrieb Merz. Heute sei das Land länger vereint, a",
-      "url": "https://www.deutschlandfunk.de/berlin-erinnert-an-mauerbau-vor-65-jahren-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Parteien - Weiter Kritik von SPD-Basis - Lauterbach gegen Personaldebatten",
-      "excerpt": "In der SPD-Basis wird weiterhin Kritik am Kurs der Partei laut. Im Zentrum steht die Führungsstruktur mit den Parteivorsitzenden Bas und Klingbeil, die gleichzeitig Minister sind.",
-      "url": "https://www.deutschlandfunk.de/weiter-kritik-von-spd-basis-lauterbach-gegen-personaldebatten-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Angriffe durch Russland - Juli war tödlichster Monat für Zivilisten in Ukraine seit Jahren",
-      "excerpt": "Im russischen Angriffskrieg gegen die Ukraine sind nach Angaben von Beobachtern der Vereinten Nationen im Juli so viele Zivilisten ums Leben gekommen wie seit Jahren nicht mehr in einem Monat. Es seien mindestens 437 Men",
-      "url": "https://www.deutschlandfunk.de/juli-war-toedlichster-monat-fuer-zivilisten-in-ukraine-seit-jahren-102.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Virus breitet sich aus - Ebola in weiterer Provinz im Kongo festgestellt",
-      "excerpt": "In der Demokratischen Republik Kongo breitet sich die Infektionskrankheit Ebola weiter aus.",
-      "url": "https://www.deutschlandfunk.de/ebola-in-weiterer-provinz-im-kongo-festgestellt-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Polen - Regierung senkt vorübergehend Mehrwertsteuersatz für Treibstoffe",
-      "excerpt": "Die polnische Regierung hat angekündigt, vorübergehend den Mehrwertsteuersatz für Benzin und Diesel zu senken.",
-      "url": "https://www.deutschlandfunk.de/regierung-senkt-voruebergehend-mehrwertsteuersatz-fuer-treibstoffe-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheitspolitik - Innenminister sehen sich bei der Abwehr von gefährlichen Drohnen unter Zeitdruck",
-      "excerpt": "Die Innenminister von Bund und Ländern wollen bei der Fähigkeit zur Abwehr von potenziell gefährlichen Drohnen schneller vorankommen.",
-      "url": "https://www.deutschlandfunk.de/innenminister-sehen-sich-bei-der-abwehr-von-gefaehrlichen-drohnen-unter-zeitdruck-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Folgen der Hitze - Futtermangel auf Bauernhöfen - Tiere werden früher geschlachtet",
-      "excerpt": "In Süddeutschland ist es wegen der anhaltenden Hitze und Trockenheit zu einem Futtermangel für Nutztiere gekommen.",
-      "url": "https://www.deutschlandfunk.de/futtermangel-auf-bauernhoefen-tiere-werden-frueher-geschlachtet-102.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Begrenzte Bargeld-Abhebung - Berlin führt als letztes Bundesland Bezahlkarte für Asylsuchende ein",
-      "excerpt": "Als letztes Bundesland hat auch Berlin eine Bezahlkarte für Asylbewerber eingeführt.",
-      "url": "https://www.deutschlandfunk.de/berlin-fuehrt-als-letztes-bundesland-bezahlkarte-fuer-asylsuchende-ein-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Oman - Havarierter Tanker soll geborgen werden",
-      "excerpt": "Nach der Havarie eines Öltankers vor der Küste des Oman soll das Schiff geborgen werden.",
-      "url": "https://www.deutschlandfunk.de/havarierter-tanker-soll-geborgen-werden-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitze - Zahl der Hitzetoten erneut gestiegen - 2026 das Jahr mit den meisten hitzebedingten Sterbefällen",
-      "excerpt": "Die Zahl der Hitzetoten in diesem Sommer ist erneut gestiegen. Sie liegt inzwischen bei 12.500, wie das Robert Koch-Institut in seinem Wochenbericht mitteilte. Ausgewertet wurden Daten bis zum 2. August.",
-      "url": "https://www.deutschlandfunk.de/zahl-der-hitzetoten-erneut-gestiegen-2026-das-jahr-mit-den-meisten-hitzebedingten-sterbefaellen-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Westjordanland - Palästinenser in Kusra dürfen doch in ihren Häusern bleiben",
-      "excerpt": "Im Westjordanland versucht die israelische Armee weiter, der Gewalt extremistischer Siedler gegen Palästinenser Herr zu werden.",
-      "url": "https://www.deutschlandfunk.de/palaestinenser-in-kusra-duerfen-doch-in-ihren-haeusern-bleiben-102.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ex-Justizministerin - Leutheusser-Schnarrenberger kritisiert Geheimdienst-Reform",
-      "excerpt": "Die frühere Bundesjustizministerin Leutheusser-Schnarrenberger hat die gestern vom Kabinett beschlossene Reform der Nachrichtendienste kritisiert. Die geplanten Maßnahmen seien nicht mit dem Rechtsstaat zu vereinbaren, s",
-      "url": "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-kritisiert-geheimdienst-reform-102.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Statistik - Junge Menschen finden oft nur befristete Jobs",
-      "excerpt": "Junge Menschen bekommen in Deutschland weiterhin vor allem befristete Arbeitsverträge. In der Altersgruppe zwischen 15 und 25 Jahren waren vergangenes Jahr 18,3 Prozent der Erwerbspersonen befristet beschäftigt, wie das ",
-      "url": "https://www.deutschlandfunk.de/junge-menschen-finden-oft-nur-befristete-jobs-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Thüringen - Wagenknecht weist Höckes Idee zurück, mit Stimmen der AfD Ministerpräsidentin zu werden",
-      "excerpt": "BSW-Gründerin Wagenknecht hat die Idee des Thüringer AfD-Landeschefs Höcke zurückgewiesen, sie könne mit den Stimmen seiner Partei Regierungschefin des Freistaats werden.",
-      "url": "https://www.deutschlandfunk.de/wagenknecht-weist-hoeckes-idee-zurueck-mit-stimmen-der-afd-ministerpraesidentin-zu-werden-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sambia - Wahl eines neuen Präsidenten",
-      "excerpt": "Im südafrikanischen Sambia finden Präsidentenwahlen statt.",
-      "url": "https://www.deutschlandfunk.de/wahl-eines-neuen-praesidenten-136.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Statistik - Zahl der Kindeswohlgefährdungen gestiegen",
-      "excerpt": "Die Zahl der Kindeswohlgefährdungen in Deutschland ist auf einen neuen Höchststand gestiegen. Nach Angaben des Statistischen Bundesamts stellten die zuständigen Ämter 2025 bei rund 79.800 Kindern oder Jugendlichen eine G",
-      "url": "https://www.deutschlandfunk.de/zahl-der-kindeswohlgefaehrdungen-gestiegen-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Drohungen - Volksbühne sagt Veranstaltung für Schwarze Kinder im \"Volksbad\" ab",
-      "excerpt": "Eine Veranstaltung im Pop-Up-Bad vor der Berliner Volksbühne, die am Freitag für Schwarze Kinder und Jugendliche gedacht war, wird abgesagt.",
-      "url": "https://www.deutschlandfunk.de/volksbuehne-sagt-veranstaltung-fuer-schwarze-kinder-im-volksbad-ab-106.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gewerkschaft der Polizei - Aufruf zu Widerstand gegen eine etwaige AfD-Landesregierung sorgt für Diskussion",
-      "excerpt": "Der Vizechef der Gewerkschaft der Polizei, Hüber, ruft seine Kollegen in Sachsen-Anhalt dazu auf, sich auf eine etwaige AfD-Landesregierung vorzubereiten.",
-      "url": "https://www.deutschlandfunk.de/aufruf-zu-widerstand-gegen-eine-etwaige-afd-landesregierung-sorgt-fuer-diskussion-100.html",
-      "publishedAt": "2026-08-13T16:55:09.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -308,7 +380,7 @@
     {
       "source": "SPIEGEL.DE",
       "title": "Sachsen-Anhalt: CDU-Kandidat Sven Schulze, zwei Wahlplakate und ein Fauxpas",
-      "excerpt": "Spott und Häme für Sven Schulze, den Spitzenkandidaten der CDU in Sachsen-Anhalt: Zwei seiner Wahlplakate zeigen dieselbe »Frau aus dem Volk«, allerdings mal mit Behinderung, mal ohne. Peinliche Panne oder gängige Praxis",
+      "excerpt": "Spott und Häme für Sven Schulze, den Spitzenkandidaten der CDU in Sachsen-Anhalt: Zwei seiner Wahlplakate zeigen dieselbe »Frau aus dem Volk«, allerdings mal im Rollstuhl, mal nicht. Peinliche Panne oder gängige Praxis?",
       "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-kandidat-sven-schulze-zwei-wahlplakate-und-ein-fauxpas-a-ba1a07ac-e890-4b5f-9e16-36552038e087#ref=rss",
       "publishedAt": "2026-08-13T16:31:00.000Z",
       "category": "POLITIK"
@@ -331,14 +403,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Kinder fragen, die taz antwortet: Wieso sind Tauben immer noch schmutzig, wenn sie fliegen und es regnet?",
-      "excerpt": "Wir wollen von Kindern wissen, welche Fragen sie beschäftigen. Jede Woche beantworten wir eine. Diese Frage kommt von Yara, 7 Jahre. mehr...",
-      "url": "https://taz.de/Kinder-fragen-die-taz-antwortet/!6198930/",
-      "publishedAt": "2026-08-13T15:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Verfassungsschutz bekommt mehr Rechte: „Das wird Antifas und die Klimabewegung treffen“",
       "excerpt": "Dobrindts „echte Geheimdienste“ werden sich gegen die linke Szene richten, warnt das Netzwerk „Sicherheit ohne Überwachung“. mehr...",
       "url": "https://taz.de/Verfassungsschutz-bekommt-mehr-Rechte/!6204076/",
@@ -351,14 +415,6 @@
       "excerpt": "Mit Rädern in den Regio zu kommen, ist ein vergebliches Unterfangen. Auch die Suche nach einer Unterkunft gestaltet sich für unsere Autorin schwierig. mehr...",
       "url": "https://taz.de/Fahrraeder-im-Regionalexpress/!6203741/",
       "publishedAt": "2026-08-13T15:35:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Arbeitskosten und Managergehälter: Die Eine-Million-Euro-Frage",
-      "excerpt": "Während DAX-Vorstände im Schnitt 3,9 Millionen Euro verdienen, wird laut über Lohnkosten geklagt. Doch diese stiegen zuletzt unterdurchschnittlich. mehr...",
-      "url": "https://taz.de/Arbeitskosten-und-Managergehaelter/!6204089/",
-      "publishedAt": "2026-08-13T15:32:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -402,14 +458,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Neue ESC-Regeln: Unfair und doch verständlich",
-      "excerpt": "Für Israel ist es bitter. Solange das Land in Kriege verwickelt ist, wird es keinen ESC ausrichten dürfen. Zumindest die Teilnahme ist gesichert. mehr...",
-      "url": "https://taz.de/Neue-ESC-Regeln/!6204039/",
-      "publishedAt": "2026-08-13T14:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
       "excerpt": "Weil die Donau zu wenig Wasser führt, muss Rumänien sein einziges Atomkraftwerk ganz herunterfahren. Damit fällt ein Fünftel der Stromproduktion des Landes aus. Wie die Menschen in Rumänien mit der Energiekrise umgehen, ",
@@ -435,14 +483,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Niedrigwasser in Flüssen: Kaum noch Schiffe auf dem Rhein unterwegs",
-      "excerpt": "Der Wasserstand der Donau ist so niedrig, dass Rumänien sein Atomkraftwerk abschalten muss. Im Rhein fahren kaum Schiffe, aber Lkw sind auch keine Lösung, sagt ein Verband. mehr...",
-      "url": "https://taz.de/Niedrigwasser-in-Fluessen/!6204211/",
-      "publishedAt": "2026-08-13T14:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "AfD-Offerte an BSW in Thüringen: Wagenknecht weist Höckes Avancen zurück",
       "excerpt": "AfD-Landeschef Höcke bietet BSW-Gründerin Wagenknecht an, sie zur Ministerpräsidentin von Thüringen zu machen. Die verweist auf ihre innerparteilichen Gegner. mehr...",
       "url": "https://taz.de/AfD-Offerte-an-BSW-in-Thueringen/!6204068/",
@@ -455,22 +495,6 @@
       "excerpt": "AfD-Politiker Björn Höcke will Sahra Wagenknecht zur Ministerpräsidentin Thüringens wählen. Die schlägt das Angebot aus und macht einen Gegenvorschlag.",
       "url": "https://www.spiegel.de/politik/deutschland/thueringen-sahra-wagenknecht-lehnt-bjoern-hoeckes-wahlangebot-ab-und-fordert-tv-duell-a-0f31308b-75ee-4540-8f50-8f23da0b8a76#ref=rss",
       "publishedAt": "2026-08-13T12:59:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Geschichte der Pest: Älter als die Städte",
-      "excerpt": "Die Pest begleitet die Menschheit seit 5.500 Jahren, lange vor der ersten Pandemie. Sie ist bis heute eine aktive Krankheit. mehr...",
-      "url": "https://taz.de/Die-Geschichte-der-Pest-Sie-existiert-seit-5500-Jahren-und-ist-bis-heute-aktiv/!6201702/",
-      "publishedAt": "2026-08-13T12:54:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Album und Tour von Arlo Parks: Diese Spur führt geradewegs zur Euphorie",
-      "excerpt": "Mit „Ambiguous Desire“ findet die Londoner Popkünstlerin Arlo Parks zum elektronischen Dancefloor. Wie weit geht ihre Musik über das Epigonale hinaus? mehr...",
-      "url": "https://taz.de/Album-und-Tour-von-Arlo-Parks/!6203566/",
-      "publishedAt": "2026-08-13T12:52:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -522,14 +546,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Bestellerautor Kristof Magnusson: „Ich glaube halt an Zugänglichkeit“",
-      "excerpt": "Vom Kirchenmusiker zum Schriftsteller: Kristof Magnusson über Bach, das Leipziger Literaturinstitut und das Empowernde an Unterhaltungskultur. mehr...",
-      "url": "https://taz.de/Bestellerautor-Kristof-Magnusson/!6198936/",
-      "publishedAt": "2026-08-13T10:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
       "excerpt": "In Österreich können Arbeitnehmer, die besonders schwere Arbeit verrichten, mit 60 in Rente gehen: unter klaren Voraussetzungen und mit Abschlägen. Doch um die Finanzierbarkeit des Rentensystems wird auch in Österreich g",
@@ -559,14 +575,6 @@
       "excerpt": "Der Leipziger Flughafen entging nur knapp einer Katastrophe. Der versuchte Anschlag mit einer Sprengstoffdrohne zeigt, wie verwundbar Deutschland ist. Die Behörden haben nach SPIEGEL-Informationen inzwischen kaum mehr Zw",
       "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-sprengstoffdrohne-legt-deutsche-verwundbarkeit-offen-a-1c0b9b3c-2e40-4334-84e4-4bea44287013#ref=rss",
       "publishedAt": "2026-08-13T07:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "US-Regierungssprecherin Leavitt geht: Trump braucht ein neues Sprachrohr",
-      "excerpt": "Mit Präsidentensprecherin Karoline Leavitt tritt die bisher jüngste Sprecherin im Weißen Haus zurück. Sie hat den Ton gegenüber den Medien verschärft. mehr...",
-      "url": "https://taz.de/US-Regierungssprecherin-Leavitt-geht/!6204014/",
-      "publishedAt": "2026-08-13T06:41:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -951,14 +959,6 @@
       "excerpt": "Köln und Düsseldorf möchten einen Modellversuch mit dem sogenannten Drogen-Mikrohandel starten. Vorbild ist Zürich. Dort wird er in \"Drogenkonsumräumen\" geduldet - mit einigem Erfolg. Von T. Wagner",
       "url": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html",
       "publishedAt": "2026-08-11T07:13:37.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Volksinitiative: Will die Schweiz noch neutraler werden?",
-      "excerpt": "In internationale Konflikte mischt sich die Schweiz militärisch nicht ein - diese Neutralität ist sogar in der Verfassung festgeschrieben. Einigen im Parlament geht das aber noch nicht weit genug. Von Thomas Wagner.",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
-      "publishedAt": "2026-08-11T05:16:22.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
