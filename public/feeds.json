@@ -1,92 +1,12 @@
 {
-  "updatedAt": "2026-08-14T12:28:13.636Z",
+  "updatedAt": "2026-08-14T14:03:00.039Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Umsatzeinbruch wegen 12-Uhr-Regel - Tankstellen verkaufen weniger Kaffee und Snacks",
-      "excerpt": "Neue Spritpreis-Regel treibt Kunden vor Mittag an die Zapfsäulen, Shops leiden",
-      "url": "https://www.bild.de/politik/inland/tankstellen-umsatz-bricht-ein-wegen-12-uhr-regel-6a7db4d2dc674b59e6e1d3cd",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Job-Schock in der Branche - So schlimm steht es wirklich um die Autoindustrie",
-      "excerpt": "Autoindustrie verliert Zehntausende Jobs, Experte warnt vor bitteren Jahren.",
-      "url": "https://www.bild.de/politik/inland/schock-in-der-branche-so-schlimm-steht-es-wirklich-um-die-autoindustrie-6a7ef051f14aa44f2fd5dd85",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Lohnnachschlag für Beamte - Wer mit Geldregen rechnen kann, wer leer ausgeht",
-      "excerpt": "Berlin zögert Milliarden-Nachzahlungen für verfassungswidrige Beamtengehälter hinaus.",
-      "url": "https://www.bild.de/politik/inland/fetter-lohnnachschlag-fuer-beamte-wer-mit-geldregen-rechnen-kann-wer-leer-ausgeht-6a79a7d90e3689919ec76874",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schleuser wollen Migranten nach Spanien tricksen - Neuer Aufruf zu Ceuta-Ansturm eine Finte?",
-      "excerpt": "In WhatsApp-Gruppen planen junge Afrikaner einen neuen Angriff auf die Exklave Ceuta.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/schleuser-wollen-migranten-nach-spanien-tricksen-neuer-aufruf-zu-ceuta-ansturm-eine-finte-6a7ed163f14aa44f2fd5da3a",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kollegen gegen AfD aufgewiegelt - Polizisten fassungslos über ihren Gewerkschafts-Vize",
-      "excerpt": "Hübers AfD-Text löst Empörung in der GdP aus, Mitglieder denken an Anzeige.",
-      "url": "https://www.bild.de/politik/inland/gdp-nrw-distanziert-sich-von-hueber-afd-aussagen-sorgen-fuer-unruhe-6a7ddb5f169e8e32c0ae7051",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Fall Sven Hüber - So wurde der DDR-Politoffizier Gewerkschaftsboss",
-      "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
-      "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Merz’ Investitionsbooster bringt nichts - Wirtschafts-Turbo kommt kaum auf Touren",
-      "excerpt": "Der Investitionsbooster bleibt schwach, nur Staatsausgaben treiben derzeit die Wirtschaft.",
-      "url": "https://www.bild.de/politik/inland/merz-investitionsbooster-bringt-nichts-wirtschaftsturbo-kommt-kaum-auf-touren-6a7ecb05f14aa44f2fd5d9b4",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wetter-Experte Jörg Kachelmann - Warum die Wälder wirklich brennen",
-      "excerpt": "Kachelmann rechnet mit deutscher Klimapolitik ab und warnt vor tödlicher Hitze.",
-      "url": "https://www.bild.de/politik/inland/joerg-kachelmann-dann-haetten-wir-in-berlin-45-grad-6a7ddbaddc674b59e6e1d7a8",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Brigade muss Ende 2027 stehen - Bundeswehr fehlen 2000 Soldaten für wichtigstes Projekt",
-      "excerpt": "Trotz Werbekampagnen fehlen für den dauerhaften Einsatz in Litauen viele Soldaten.",
-      "url": "https://www.bild.de/politik/inland/brigade-muss-ende-2027-stehen-bundeswehr-fehlen-2000-soldaten-fuer-wichtigstes-projekt-6a7cbfc7a87e8142c31ce304",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach alarmierender Nato-Nachricht - Plötzlich hält Putin seine Kampfjets zurück",
-      "excerpt": "Nach massivem Anstieg von Alarmstarts bleiben russische Jets nun plötzlich fern.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nato-ostflanke-warum-ploetzlich-keine-putin-jets-mehr-auftauchen-6a7e1813169e8e32c0ae73c9",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Sieg gegen „Graf Mülltonnengesicht“ - Nigel Farage wieder ins Briten- Parlament gewählt",
       "excerpt": "Rechtspopulist Nigel Farage gewinnt Nachwahl in Clacton und kehrt ins Parlament zurück.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sieg-gegen-graf-muelltonnengesicht-nigel-farage-wieder-ins-parlament-der-briten-gewaehlt-6a7ea3c7a87e8142c31cf95e",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
+      "publishedAt": "2026-08-14T14:02:59.689Z",
       "category": "POLITIK"
     },
     {
@@ -94,119 +14,183 @@
       "title": "Im Talk bei Tacke - Wirtschafts-Experte macht Kühnert rund",
       "excerpt": "Steuer-Professor zerlegt Kühnerts Forderungen zu Erbschaftsteuer und Vermögen.",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/sarah-tacke-wirtschafts-experte-macht-kevin-kuehnert-rund-6a7e6913a87e8142c31cf74d",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
+      "publishedAt": "2026-08-14T14:02:59.689Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Putin provoziert Japan mit Besuch in Fischfabrik",
-      "excerpt": "Der Kreml-Herrscher suchte mit den Kurilen ein umstrittenes Gebiet im Osten Russlands auf.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Luftalarm in Lettland - Kampfjets schießen Drohne ab",
-      "excerpt": "Nach einer Drohne im Luftraum hebt Lettland den Alarm nach Abschuss auf.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/luftalarm-in-lettland-kampfjets-schiessen-drohne-ab-6a7e824ea87e8142c31cf7c0",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Grüne attackieren Merz - „Die Menschen werden abgezockt“",
-      "excerpt": "Grüne fordern Übergewinnsteuer, um Bürger bei hohen Spritpreisen zu entlasten.",
-      "url": "https://www.bild.de/politik/inland/gruene-attackieren-merz-die-menschen-werden-abgezockt-6a7dddd6dc674b59e6e1d7de",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die heißesten Theorien zum Leavitt-Abgang - Was steckt hinter Trumps Sprecherinnen-Knall?",
-      "excerpt": "Rätsel um Leavitts Rückzug: Trump verliert Sprecherin mitten im Umfragetief.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trumps-sprecherin-karoline-leavitt-was-hinter-ihrem-abgang-vermutet-wird-6a7d71e40773f8de2467245f",
-      "publishedAt": "2026-08-14T12:28:13.438Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Terror-Kandidatur - Hamas will bei Palästinenser-Wahl antreten",
+      "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
       "excerpt": "Hamas kündigt Teilnahme an Palästinenser-Wahl an, trotz Ablehnung der Bedingungen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
-      "publishedAt": "2026-08-14T12:28:13.437Z",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Keine Klimaanlagen - Politik versäumt Hitzeschutz für Alte und Kranke",
+      "excerpt": "Tausende sterben an Hitze, doch Kliniken bleiben meist ohne Klimaschutz.",
+      "url": "https://www.bild.de/politik/inland/keine-klimaanlagen-politik-versaeumt-hitzeschutz-fuer-alte-und-kranke-6a7ee05aa87e8142c31cfde6",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ansage an Landes-Verband - BSW-Spitze fordert Rücktritt von Thüringen-MP Voigt",
+      "excerpt": "Wagenknecht fordert Voigts Rücktritt, der Thüringer Landesverband stellt sich quer.",
+      "url": "https://www.bild.de/politik/inland/ansage-an-verband-in-thueringen-spitze-des-bsw-draengt-voigt-zum-ruecktritt-6a7ef7eca87e8142c31d0079",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Schleuser wollen Migranten nach Spanien tricksen - Neuer Aufruf zu Ceuta-Ansturm eine Finte?",
+      "excerpt": "In WhatsApp-Gruppen planen junge Afrikaner einen neuen Angriff auf die Exklave Ceuta.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/schleuser-wollen-migranten-nach-spanien-tricksen-neuer-aufruf-zu-ceuta-ansturm-eine-finte-6a7ed163f14aa44f2fd5da3a",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Abschiebung gescheitert! - Meloni nimmt Flüchtlinge aus Deutschland nicht zurück",
+      "excerpt": "Streit um Asylregeln: Italien blockiert Überstellungen, Deutschland pocht auf Pakt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/abschiebung-gescheitert-meloni-nimmt-fluechtlinge-aus-deutschland-nicht-zurueck-6a7efe572ea28efdb2791664",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hessisches Familienunternehmen soll Anteile übernehmen - Woher hat Viessmann das Geld für den Bayern-Deal?",
+      "excerpt": "Geldregen für den Rekordmeister? Ein Familienunternehmen aus Hessen will offenbar tief in die Tasche greifen: Die Viessmann Generati...",
+      "url": "https://www.bild.de/politik/viessmann-bei-bayern-wer-hinter-dem-250-millionen-deal-steckt-6a7edb362ea28efdb279129e",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vorbereitung für „Nato 3.0“ - USA überprüfen Verbündete mit Loyalitäts-Check",
+      "excerpt": "USA drängen Nato-Partner mit Fragenkatalog zu Treue zu Trumps Sicherheitspolitik.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/vorbereitung-fuer-nato-3-0-usa-ueberpruefen-verbuendete-mit-loyalitaets-check-6a7ef739a87e8142c31d0068",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umsatzeinbruch wegen 12-Uhr-Regel - Tankstellen verkaufen weniger Kaffee und Snacks",
+      "excerpt": "Neue Spritpreis-Regel treibt Kunden vor Mittag an die Zapfsäulen, Shops leiden",
+      "url": "https://www.bild.de/politik/inland/tankstellen-umsatz-bricht-ein-wegen-12-uhr-regel-6a7db4d2dc674b59e6e1d3cd",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Job-Schock in der Branche - So schlimm steht es wirklich um die Autoindustrie",
+      "excerpt": "Autoindustrie verliert Zehntausende Jobs, Experte warnt vor bitteren Jahren.",
+      "url": "https://www.bild.de/politik/inland/schock-in-der-branche-so-schlimm-steht-es-wirklich-um-die-autoindustrie-6a7ef051f14aa44f2fd5dd85",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Lohnnachschlag für Beamte - Wer mit Geldregen rechnen kann, wer leer ausgeht",
+      "excerpt": "Berlin zögert Milliarden-Nachzahlungen für verfassungswidrige Beamtengehälter hinaus.",
+      "url": "https://www.bild.de/politik/inland/fetter-lohnnachschlag-fuer-beamte-wer-mit-geldregen-rechnen-kann-wer-leer-ausgeht-6a79a7d90e3689919ec76874",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kollegen gegen AfD aufgewiegelt - Polizisten fassungslos über ihren Gewerkschafts-Vize",
+      "excerpt": "Hübers AfD-Text löst Empörung in der GdP aus, Mitglieder denken an Anzeige.",
+      "url": "https://www.bild.de/politik/inland/gdp-nrw-distanziert-sich-von-hueber-afd-aussagen-sorgen-fuer-unruhe-6a7ddb5f169e8e32c0ae7051",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Fall Sven Hüber - So wurde der DDR-Politoffizier Gewerkschaftsboss",
+      "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
+      "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Merz’ Investitionsbooster bringt nichts - Wirtschafts-Turbo kommt kaum auf Touren",
+      "excerpt": "Der Investitionsbooster bleibt schwach, nur Staatsausgaben treiben derzeit die Wirtschaft.",
+      "url": "https://www.bild.de/politik/inland/merz-investitionsbooster-bringt-nichts-wirtschaftsturbo-kommt-kaum-auf-touren-6a7ecb05f14aa44f2fd5d9b4",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wetter-Experte Jörg Kachelmann - Warum die Wälder wirklich brennen",
+      "excerpt": "Kachelmann rechnet mit deutscher Klimapolitik ab und warnt vor tödlicher Hitze.",
+      "url": "https://www.bild.de/politik/inland/joerg-kachelmann-dann-haetten-wir-in-berlin-45-grad-6a7ddbaddc674b59e6e1d7a8",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brigade muss Ende 2027 stehen - Bundeswehr fehlen 2000 Soldaten für wichtigstes Projekt",
+      "excerpt": "Trotz Werbekampagnen fehlen für den dauerhaften Einsatz in Litauen viele Soldaten.",
+      "url": "https://www.bild.de/politik/inland/brigade-muss-ende-2027-stehen-bundeswehr-fehlen-2000-soldaten-fuer-wichtigstes-projekt-6a7cbfc7a87e8142c31ce304",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach alarmierender Nato-Nachricht - Plötzlich hält Putin seine Kampfjets zurück",
+      "excerpt": "Nach massivem Anstieg von Alarmstarts bleiben russische Jets nun plötzlich fern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nato-ostflanke-warum-ploetzlich-keine-putin-jets-mehr-auftauchen-6a7e1813169e8e32c0ae73c9",
+      "publishedAt": "2026-08-14T14:02:59.688Z",
       "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Pasterze am Großglockner: Österreichs größter Gletscher schrumpft",
-      "excerpt": "Pasterze am Großglockner: Österreichs größter Gletscher schrumpft",
-      "url": "https://www.tagesschau.de/video/video-1631312.html",
-      "publishedAt": "2026-08-14T12:13:03.000Z",
+      "title": "Alexander Held, Forstwissenschaftler, zur Waldbrandgefahr in Deutschland",
+      "excerpt": "Alexander Held, Forstwissenschaftler, zur Waldbrandgefahr in Deutschland",
+      "url": "https://www.tagesschau.de/video/video-1631418.html",
+      "publishedAt": "2026-08-14T13:56:09.000Z",
       "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "DLF",
+      "title": "Ernteausfälle - Landwirtschaftsminister Rainer: Entscheidung über Hilfen Ende August",
+      "excerpt": "Bundesagrarminister Rainer hat sich besorgt über die momentan schwierige Situation für Landwirte gezeigt. Die anhaltende Trockenheit setze viele Betriebe bereits erheblich unter Druck, sagte der CSU-Politiker. Hinter ver",
+      "url": "https://www.deutschlandfunk.de/landwirtschaftsminister-rainer-entscheidung-ueber-hilfen-ende-august-100.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Verfassungsrat kippt Social-Media-Verbot für unter 15-Jährige",
+      "excerpt": "Der französische Verfassungsrat hat das vom Parlament beschlossene Social-Media-Verbot für Kinder und Jugendliche unter 15 Jahren gekippt.",
+      "url": "https://www.deutschlandfunk.de/verfassungsrat-kippt-social-media-verbot-fuer-unter-15-jaehrige-100.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Westjordanland - Aktivisten bringen eingeschlossenen Palästinensern Lebensmittel",
+      "excerpt": "Im Westjordanland haben Aktivisten seit Tagen eingeschlossenen palästinensischen Familien Lebensmittel gebracht.",
+      "url": "https://www.deutschlandfunk.de/aktivisten-bringen-eingeschlossenen-palaestinensern-lebensmittel-100.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Trockenheit - Waldbrände in mehreren Bundesländern - Evakuierung in der Eifel",
       "excerpt": "Der Waldbrand im nordrhein-westfälischen Kreis Düren bedroht weiter ein Wohngebiet. Nach jüngsten Berichten ist das Feuer nahe dem Ort Hürtgenwald bis auf weniger als 200 Meter an den Ortsteil Gey herangerückt. Dessen 1.",
       "url": "https://www.deutschlandfunk.de/waldbraende-in-mehreren-bundeslaendern-evakuierung-in-der-eifel-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Trockenheit - Bauernverband befürchtet schwerwiegende Ernteeinbußen - Landwirtschaftsminister Rainer will Erntebericht abwarten",
-      "excerpt": "Der Deutsche Bauernverband rechnet aufgrund der anhaltenden Trockenheit in diesem Jahr mit erheblichen Ernteeinbußen. Verbandspräsident Rukwied sagte dem Redaktionsnetzwerk Deutschland, man gehe von einer unterdurchschni",
-      "url": "https://www.deutschlandfunk.de/bauernverband-befuerchtet-schwerwiegende-ernteeinbussen-landwirtschaftsminister-rainer-will-ernteber-102.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bodensee - Wasserstand auf Jahrestief - Pegel Konstanz meldet 275 Zentimeter",
-      "excerpt": "Das Wasser des Bodensees ist in Folge der anhaltenden Trockenheit und Hitze auf dem niedrigsten Stand des Jahres gesunken.",
-      "url": "https://www.deutschlandfunk.de/wasserstand-auf-jahrestief-pegel-konstanz-meldet-275-zentimeter-102.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landtagswahlen in Ostdeutschland - BSW-Vorsitzende Mohamed Ali schließt Koalition mit AfD aus",
-      "excerpt": "Die BSW-Vorsitzende Mohamed Ali hat vor den Landtagswahlen in Ostdeutschland eine Koalition mit der AfD ausgeschlossen. Die Partei sei programmatisch sehr weit weg vom BSW, sagte Mohamed Ali im Deutschlandfunk. Zudem geb",
-      "url": "https://www.deutschlandfunk.de/bsw-vorsitzende-mohamed-ali-schliesst-koalition-mit-afd-aus-102.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "5 Jahre nach Machtübernahme - Pro Asyl kritisiert Bruch von Aufnahmezusagen für Menschen aus Afghanistan",
-      "excerpt": "Anlässlich des fünften Jahrestages der Machtübernahme der Taliban in Afghanistan wird wieder Kritik an der Bundesregierung laut. Pro Asyl kritisierte den Bruch deutscher Aufnahmezusagen für zuvor als gefährdet eingestuft",
-      "url": "https://www.deutschlandfunk.de/pro-asyl-kritisiert-bruch-von-aufnahmezusagen-fuer-menschen-aus-afghanistan-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Erneuerbare Energie - Energieunternehmen Wacker wünscht sich mehr Planungssicherheit",
-      "excerpt": "Das Chemieunternehmen Wacker wünscht sich für den Einsatz klimafreundlicherer Technologien mehr langfristige Planungssicherheit durch die Politik.",
-      "url": "https://www.deutschlandfunk.de/energieunternehmen-wacker-wuenscht-sich-mehr-planungssicherheit-102.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Konjunktur - Wirtschaft im Euroraum wächst im Frühjahr um 0,4 Prozent - Spanien als Motor",
-      "excerpt": "​Die Wirtschaft der Euro-Zone ist im Frühjahr trotz der Belastungen ‌durch den ⁠Iran-Krieg gewachsen.",
-      "url": "https://www.deutschlandfunk.de/wirtschaft-im-euroraum-waechst-im-fruehjahr-um-0-4-prozent-spanien-als-motor-102.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "title": "Trockenheit - Rheinpegel bei Kaub auf historischem Tiefstand, Bodensee-Wasserstand auf Jahrestief",
+      "excerpt": "Der Rhein hat am Pegel bei Kaub in Rheinland-Pfalz einen historischen Tiefstand erreicht.",
+      "url": "https://www.deutschlandfunk.de/rheinpegel-bei-kaub-auf-historischem-tiefstand-bodensee-wasserstand-auf-jahrestief-100.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +198,39 @@
       "title": "Statistisches Bundesamt - Insolvenzen bei Firmen sinken erstmals seit Februar",
       "excerpt": "In Deuschland ist die Zahl der Firmeninsolvenzen erstmals seit Februar gesunken.",
       "url": "https://www.deutschlandfunk.de/insolvenzen-bei-firmen-sinken-erstmals-seit-februar-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtagswahlen in Ostdeutschland - BSW-Vorsitzende Mohamed Ali schließt Koalition mit AfD aus",
+      "excerpt": "Die BSW-Vorsitzende Mohamed Ali hat vor den Landtagswahlen in Ostdeutschland eine Koalition mit der AfD ausgeschlossen. Die Partei sei programmatisch sehr weit weg vom BSW, sagte Mohamed Ali im Deutschlandfunk. Zudem geb",
+      "url": "https://www.deutschlandfunk.de/bsw-vorsitzende-mohamed-ali-schliesst-koalition-mit-afd-aus-102.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Erneuerbare Energie - Energieunternehmen Wacker wünscht sich mehr Planungssicherheit",
+      "excerpt": "Das Chemieunternehmen Wacker wünscht sich für den Einsatz klimafreundlicherer Technologien mehr langfristige Planungssicherheit durch die Politik.",
+      "url": "https://www.deutschlandfunk.de/energieunternehmen-wacker-wuenscht-sich-mehr-planungssicherheit-102.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Konjunktur - Wirtschaft im Euroraum wächst im Frühjahr um 0,4 Prozent - Spanien als Motor",
+      "excerpt": "​Die Wirtschaft der Euro-Zone ist im Frühjahr trotz der Belastungen ‌durch den ⁠Iran-Krieg gewachsen.",
+      "url": "https://www.deutschlandfunk.de/wirtschaft-im-euroraum-waechst-im-fruehjahr-um-0-4-prozent-spanien-als-motor-102.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "5 Jahre nach Machtübernahme - Pro Asyl kritisiert Bruch von Aufnahmezusagen für Menschen aus Afghanistan",
+      "excerpt": "Anlässlich des fünften Jahrestages der Machtübernahme der Taliban in Afghanistan wird wieder Kritik an der Bundesregierung laut. Pro Asyl kritisierte den Bruch deutscher Aufnahmezusagen für zuvor als gefährdet eingestuft",
+      "url": "https://www.deutschlandfunk.de/pro-asyl-kritisiert-bruch-von-aufnahmezusagen-fuer-menschen-aus-afghanistan-100.html",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +238,7 @@
       "title": "Wirtschaft - Jobabbau in der Autoindustrie verschärft sich",
       "excerpt": "In der deutschen Autoindustrie schwinden die Arbeitsplätze derzeit schneller als in jeder anderen Industriebranche.",
       "url": "https://www.deutschlandfunk.de/jobabbau-in-der-autoindustrie-verschaerft-sich-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +246,7 @@
       "title": "Wettbewerb im Fernverkehr - Bahn klagt gegen Beschluss der Bundesnetzagentur",
       "excerpt": "Die Deutsche Bahn will einem Bericht zufolge gegen einen Beschluss der Bundesnetzagentur klagen, wonach sie im Fernverkehr mehr Kapazitäten für Wettbewerber freiräumen muss.",
       "url": "https://www.deutschlandfunk.de/bahn-klagt-gegen-beschluss-der-bundesnetzagentur-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,7 @@
       "title": "Bundestag - Fast 250 Abgeordnete unterstützen Gesetzentwurf zur Widerspruchslösung bei der Organspende",
       "excerpt": "Die geplante Reform der Organspende hin zu einer Widerspruchslösung hat offenbar fast 250 Unterstützer im Bundestag.",
       "url": "https://www.deutschlandfunk.de/fast-250-abgeordnete-unterstuetzen-gesetzentwurf-zur-widerspruchsloesung-bei-der-organspende-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +262,7 @@
       "title": "Sicherheit - Zwei mutmaßliche IS-Mitglieder in Sachsen festgenommen",
       "excerpt": "In Sachsen sind zwei mutmaßliche Mitglieder der Dschihadistenmiliz IS festgenommen worden.",
       "url": "https://www.deutschlandfunk.de/zwei-mutmassliche-is-mitglieder-in-sachsen-festgenommen-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +270,7 @@
       "title": "Großbritannien - Farage gewinnt durch Nachwahl in Clacton Sitz im Parlament zurück",
       "excerpt": "Der britische Rechtspopulist Farage hat sich erneut einen Sitz im Parlament gesichert. Der Chef der Partei Reform UK gewann die Nachwahl im Wahlkreis Clacton in der englischen Grafschaft Essex, wie die Wahlbehörde bekann",
       "url": "https://www.deutschlandfunk.de/farage-gewinnt-durch-nachwahl-in-clacton-sitz-im-parlament-zurueck-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +278,7 @@
       "title": "Wegen Gewalt - Auszählung von Präsidenten- und Parlamenstwahl in Sambia ausgesetzt",
       "excerpt": "Sambias Wahlkommission hat aufgrund von Gewalt gegen ihre Mitarbeiter die Auszählung der Ergebnisse der Präsidenten- und Parlamentswahl ausgesetzt.",
       "url": "https://www.deutschlandfunk.de/auszaehlung-von-praesidenten-und-parlamenstwahl-in-sambia-ausgesetzt-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +286,7 @@
       "title": "Iran-Konflikt - US-Regierung verstärkt wirtschaftlichen Druck",
       "excerpt": "Im Konflikt mit dem Iran setzt die US-Regierung zunehmend auf wirtschaftlichen Druck.",
       "url": "https://www.deutschlandfunk.de/us-regierung-verstaerkt-wirtschaftlichen-druck-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,24 +294,112 @@
       "title": "Altersgelder - SPD-Politikerin Klose will Übergangszeit bei Aus für \"Rente mit 63\"",
       "excerpt": "Die SPD-Rentenexpertin Klose hat mit Blick auf die empfohlene Abschaffung der abschlagsfreien Rente für Menschen mit mindestens 45 Versicherungsjahren eine Übergangszeit gefordert.",
       "url": "https://www.deutschlandfunk.de/spd-politikerin-klose-will-uebergangszeit-bei-aus-fuer-rente-mit-63-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
+      "publishedAt": "2026-08-14T13:50:35.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Kindeswohlgefährdungen - Präsidentin des Deutschen Kinderschutzbundes: \"Wachsamkeit in der Gesellschaft gestiegen\"",
-      "excerpt": "Die Präsidentin des Deutschen Kinderschutzbundes, Andresen, sieht mehrere Ursachen für den Anstieg der Fallzahlen bei den Kindeswohlgefährdungen.",
-      "url": "https://www.deutschlandfunk.de/praesidentin-des-deutschen-kinderschutzbundes-wachsamkeit-in-der-gesellschaft-gestiegen-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Virtuelle Realität macht Klimawandel spürbar",
+      "excerpt": "Virtuelle Realität macht Klimawandel spürbar",
+      "url": "https://www.tagesschau.de/video/video-1631356.html",
+      "publishedAt": "2026-08-14T13:33:04.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Iranische Künstlerin Aynaz Najafi: „Die Mullahs traten an die Stelle von Holofernes“",
+      "excerpt": "Die iranische Malerin Aynaz Najafi wird im Kunstverein Ruhr ausgestellt. Sie spricht über die Entwicklung ihrer Bildsprache und die Bedrohung im Exil. mehr...",
+      "url": "https://taz.de/Iranische-Kuenstlerin-Aynaz-Najafi/!6203668/",
+      "publishedAt": "2026-08-14T13:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ensemble Kaleidoskop und Maya Dunietz: Das Klang-Raum-Ambiente ist faszinierend",
+      "excerpt": "Im Dialog: Das Ensemble Kaleidoskop in Berlin und die israelische Solistin Maya Dunietz laden immer wieder internationale MusikerInnen für Kollaborationen ein. mehr...",
+      "url": "https://taz.de/Ensemble-Kaleidoskop-und-Maya-Dunietz/!6204119/",
+      "publishedAt": "2026-08-14T13:03:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
+      "excerpt": "Nach dem schweren Zwischenfall an Bord einer Ryanair-Maschine liegen erste Untersuchungsergebnisse vor. Demnach beschädigte ein abgebrochenes Triebwerksteil den Flugzeugrumpf. Ein Passagier wäre beinahe aus dem Flugzeug ",
+      "url": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html",
+      "publishedAt": "2026-08-14T13:02:02.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
+      "excerpt": "Etwa 350 Menschen haben vergangenes Jahr pro Tag in Deutschland außerhalb einer Klinik einen Herz-Kreislauf-Stillstand erlitten. Passieren kann das überall. In jedem zweiten Fall schritten Ersthelfer ein und begannen zu ",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
+      "publishedAt": "2026-08-14T12:58:53.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Queere HBO-Serie „Tip Toe“: Eine TV-Show als Mahnung",
+      "excerpt": "Russell T Davis, bekannt von „Queer as Folk“, hat eine neue Serie gedreht. „Tip Toe“ zeigt, wie Hetze gegen Queers wieder zugenommen hat. mehr...",
+      "url": "https://taz.de/Queere-HBO-Serie-Tip-Toe/!6204064/",
+      "publishedAt": "2026-08-14T12:56:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "„Volksbad“ in Berlin: „Für die gesamte Stadt beschämend“",
+      "excerpt": "Nach der Absage einer Veranstaltung für Schwarze Menschen wegen rechter Hetze betonen die Berliner Spitzenkandidaten von Grünen und SPD die Bedeutung sicherer Orte. mehr...",
+      "url": "https://taz.de/Volksbad-in-Berlin/!6204395/",
+      "publishedAt": "2026-08-14T12:51:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Leichtathletikdisziplin Gehen: Einer geht noch",
+      "excerpt": "Christopher Linkes Leidenschaft gilt seit über 20 Jahren dem Gehen. Bei der Leichtathletik-EM am Samstag hat er ein klares Ziel: eine Medaille. mehr...",
+      "url": "https://taz.de/Leichtathletikdisziplin-Gehen/!6204071/",
+      "publishedAt": "2026-08-14T12:47:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "excerpt": "Wegen schwerer Vegetationsbrände mussten in mehreren europäischen Ländern Hunderte Menschen ihre Häuser verlassen. Betroffen waren neben Frankreich und England auch Kroatien und Griechenland.",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "publishedAt": "2026-08-14T12:43:52.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Buch über den Sturz Orbáns in Ungarn: Ein Meisterstück politischer Kommunikation",
+      "excerpt": "In seinem Buch „Der Sturz Orbáns“ rekonstruiert der ungarische Politikberater Gergő Papp minutiös, wie es zu Péter Magyars Wahltriumph im April 2026 kam. mehr...",
+      "url": "https://taz.de/Buch-ueber-den-Sturz-Orbans-in-Ungarn/!6203295/",
+      "publishedAt": "2026-08-14T12:40:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Hybride Angriffe: Drohnen, Spione, Aufrüstung – wie sicher ist Deutschland?",
+      "excerpt": "Nach dem Drohnenvorfall in Leipzig kocht die Sicherheitsdebatte hoch. Wie steht Deutschland da und ist die Neugestaltung der Geheimdienste eine gute Idee? mehr...",
+      "url": "https://taz.de/Hybride-Angriffe/!6204384/",
+      "publishedAt": "2026-08-14T12:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "UV-Strahlen und Hautkrebs: Sonnenbrand als Statement",
+      "excerpt": "Auf Social Media trenden gebräunte Haut und Mythen um Sonnencreme. Dabei bleibt sie der wichtigste Schutz vor Hautkrebs – solange man sie richtig anwendet. mehr...",
+      "url": "https://taz.de/UV-Strahlen-und-Hautkrebs/!6204008/",
+      "publishedAt": "2026-08-14T12:37:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Trockenheit - Evakuierungen wegen Waldbränden in Griechenland und Kroatien",
-      "excerpt": "Im Norden Griechenlands sind wegen eines Waldbrands mehr als 250 Urlauber über das Meer in Sicherheit gebracht worden.",
-      "url": "https://www.deutschlandfunk.de/evakuierungen-wegen-waldbraenden-in-griechenland-und-kroatien-100.html",
-      "publishedAt": "2026-08-14T12:10:36.000Z",
-      "category": "NACHRICHTEN"
+      "title": "Neutralität im Klassenzimmer: Der Fall Max Heckel in Sachsen-Anhalt",
+      "excerpt": "Ottersbach, Niklas www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/neutralitaet-im-klassenzimmer-der-fall-max-heckel-in-sachsen-anhalt-100.html",
+      "publishedAt": "2026-08-14T12:36:49.000Z",
+      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -304,14 +408,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "publishedAt": "2026-08-14T11:26:49.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Dissident Lukaschewski über Russland: „Die Jugend bereitet dem Kreml Kopfzerbrechen“",
-      "excerpt": "Im September wird die Duma gewählt. Sergej Lukaschewski über den Ausschluss der Oppositionspartei Jabloko und das Risiko, gegen den Krieg zu reden. mehr...",
-      "url": "https://taz.de/Dissident-Lukaschewski-ueber-Russland/!6204126/",
-      "publishedAt": "2026-08-14T10:40:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -327,14 +423,6 @@
       "excerpt": "Im Bundestag fällt die AfD ständig negativ auf. Könnte das auch im Bundesrat geschehen? Der Chef der Ländervertretung bleibt gelassen. mehr...",
       "url": "https://taz.de/Schutz-von-Institutionen/!6204361/",
       "publishedAt": "2026-08-14T10:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Humanitäre Lage im Gazastreifen: Ein getötetes Kind pro Tag",
-      "excerpt": "Gab es im Gazastreifen nie eine Hungersnot? Israels Regierung führt einen UNICEF-Bericht an, um das zu behaupten. Das Kinderhilfswerk widerspricht. mehr...",
-      "url": "https://taz.de/Humanitaere-Lage-im-Gazastreifen/!6204341/",
-      "publishedAt": "2026-08-14T10:30:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -378,16 +466,8 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Nachwahl in England: Nigel Farage kehrt ins Parlament zurück",
-      "excerpt": "Der Chef der rechten Partei Reform UK gewinnt die Nachwahl in Clacton-on-Sea. Doch das beste Ergebnis aller Zeiten erzielt ein anderer Kandidat. mehr...",
-      "url": "https://taz.de/Nachwahl-in-England/!6204334/",
-      "publishedAt": "2026-08-14T09:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
-      "title": "Thüringen: BSW-Spitze fordert Rücktritt von Voigt und Ende der Koalition",
+      "title": "Thüringen: BSW-Spitze fordert Rücktritt von Mario Voigt und Ende der Koalition",
       "excerpt": "Mario Voigt soll gehen und die Brombeerkoalition auseinanderbrechen: Die BSW-Bundesspitze verschärft den Ton gegenüber Thüringen erheblich. Als Anlass nimmt der Parteivorstand den aberkannten Doktortitel des Ministerpräs",
       "url": "https://www.spiegel.de/politik/deutschland/thueringen-bsw-spitze-fordert-ruecktritt-von-voigt-und-ende-der-koalition-a-84c2a413-0945-4e3a-b38d-e723516bc156#ref=rss",
       "publishedAt": "2026-08-14T09:05:00.000Z",
@@ -442,14 +522,6 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Luftalarm in Lettland: Nato-Kampfjets schießen Drohne ab",
-      "excerpt": "Erneut dringt eine Drohne in den lettischen Luftraum ein – mutmaßlich infolge der elektronischen Kriegsführung Russlands. Die Letten sind alarmiert. mehr...",
-      "url": "https://taz.de/Luftalarm-in-Lettland/!6204339/",
-      "publishedAt": "2026-08-14T07:33:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Bundespräsidentenwahl: Boris Rhein als »heißer Favorit« – was hinter dem Gerücht steckt",
       "excerpt": "Boris Rhein sei »heißer Favorit« auf das Amt des Bundespräsidenten? In Berlin fragt man sich, wer das Gerücht in die Welt gesetzt haben könnte.",
@@ -491,8 +563,8 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Waldbrand in der Eifel bedroht Gemeinde: 1.800 Menschen in NRW evakuiert",
-      "excerpt": "Waldbrand außer Kontrolle: Laut WDR sollen die Flammen nur noch 200 Meter von der Gemeinde Hürtgenwald entfernt sein. Die Lage vor Ort sei chaotisch. mehr...",
+      "title": "Waldbrände in Deutschland: Flammen in der Eifel breiten sich aus",
+      "excerpt": "Waldbrand außer Kontrolle: In der Eifel werden fast 2.000 Menschen evakuiert. Auch in anderen Teilen Deutschlands kämpfen Einsatzkräfte gegen die Flammen. mehr...",
       "url": "https://taz.de/Waldbrand-in-der-Eifel/!6204331/",
       "publishedAt": "2026-08-14T06:24:00.000Z",
       "category": "POLITIK"
@@ -503,30 +575,6 @@
       "excerpt": "MV-Umweltminister Till Backhaus (SPD) steht wegen der verunglückten Timmy-Rettung in der Kritik. Nun soll eine Sondersitzung des Landtags für Aufklärung sorgen. mehr...",
       "url": "https://taz.de/Timmy-und-die-SPD-Mecklenburg-Vorpommern/!6204329/",
       "publishedAt": "2026-08-14T05:54:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Expertin für Jugendkriminalität: „Jugendstrafrecht für alle bis 21“",
-      "excerpt": "Auch nach dem CSD-Anschlag sollte es eher mehr als weniger Jugendstrafrecht für junge Erwachsene geben, sagt Jugendrechtsprofessorin Theresia Höynck. mehr...",
-      "url": "https://taz.de/Expertin-fuer-Jugendkriminalitaet/!6204077/",
-      "publishedAt": "2026-08-14T05:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Tagebuch aus Armenien: Was Moskaus Krieg in Jerewan anrichtet",
-      "excerpt": "Ukrainische Angriffe auf Lager des russischen Onlinehändlers Wildberries sollen militärische Strukturen treffen. Aber auch Firmen in Armenien leiden. mehr...",
-      "url": "https://taz.de/Tagebuch-aus-Armenien/!6203486/",
-      "publishedAt": "2026-08-14T05:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Die Wahrheit: Insel ist Insel",
-      "excerpt": "Warum sind Kreuzfahrten eigentlich so beliebt? Weil du fast bis Afrika kucken kannst. mehr...",
-      "url": "https://taz.de/Die-Wahrheit/!6204026/",
-      "publishedAt": "2026-08-14T05:13:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -584,14 +632,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
       "publishedAt": "2026-08-13T19:55:03.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Volksbad in Berlin: Veranstaltung wegen Sicherheitsbedenken abgesagt",
-      "excerpt": "Das Freibad vor der Volksbühne sollte Schwarzen Kindern und Jugendlichen für einige Stunden exklusiv zur Verfügung stehen. Nach Gewaltandrohungen wurde das Event abgesagt. mehr...",
-      "url": "https://taz.de/Volksbad-in-Berlin/!6204324/",
-      "publishedAt": "2026-08-13T16:49:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -786,14 +826,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Darmparasit Cyclospora breitet sich in den USA aus",
-      "excerpt": "Mehr als 20.000 Krankheitsfälle, Hunderte Krankenhausaufenthalte und zwei Todesfälle: Neue Zahlen zeigen, dass der Cyclospora-Parasit in den USA einen außergewöhnlich schweren Ausbruch ausgelöst hat. Gleichzeitig gibt es",
-      "url": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html",
-      "publishedAt": "2026-08-13T01:46:58.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Sachsen-Anhalt: Bündnispläne bei AfD-Sieg - Was wirklich hinter Sahra Wagenknechts Taktik steckt",
       "excerpt": "Bei der Landtagswahl in Sachsen-Anhalt droht nach dem möglichen Erfolg der AfD Koalitionschaos: Sahra Wagenknecht wittert ihre Chance und will als Königsmacherin auftreten. Kann das gelingen?",
@@ -907,14 +939,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
-      "excerpt": "Anders als Deutschland hat Österreich die Wehrpflicht nicht ausgesetzt. Doch auch in Wien sieht man Reformbedarf und verlängert den Wehrdienst. Der Zivildienst könnte unattraktiver werden. Doch hier gibt es heftige Debat",
-      "url": "https://www.tagesschau.de/ausland/europa/oesterreich-reform-wehrpflicht-100.html",
-      "publishedAt": "2026-08-12T10:51:20.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Schutz queerer Menschen im Grundgesetz - Ataman für Abstimmung im Bundestag",
       "excerpt": "Sollte das Grundgesetz ergänzt werden, damit queere Personen in Deutschland besser geschützt sind? Unionsfraktionschef Frei meint: nein. Jetzt reagierte die Antidiskriminierungsbeauftragte Ataman mit einer klaren Forderu",
       "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-rechte-queerer-menschen-bundestag-100.html",
@@ -992,14 +1016,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/meta-ueberwachung-klage-100.html",
       "publishedAt": "2026-08-11T04:59:57.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Hitzerekorde, trockene Flüsse, Waldbrände",
-      "excerpt": "Die Monate Juni und Juli waren in Westeuropa so heiß wie noch nie seit Beginn der Wetteraufzeichnungen. Die Folgen für Mensch und Natur, Schifffahrt, Landwirtschaft und Wirtschaft sind dramatisch.",
-      "url": "https://www.tagesschau.de/video/video-1629192.html",
-      "publishedAt": "2026-08-10T18:49:49.000Z",
-      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1120,14 +1136,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/auto-pkw-kennzeichen-heimatkennzeichen-100.html",
       "publishedAt": "2026-08-07T11:47:33.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Interview zu Ausbildungsvergütung: So hoch wie nie - aber kann man davon leben?",
-      "excerpt": "Schulz, Josephine; Schulten, Thorsten www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/interview-zu-ausbildungsverguetung-so-hoch-wie-nie-aber-kann-man-davon-leben-100.html",
-      "publishedAt": "2026-08-06T12:47:10.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1431,14 +1439,6 @@
       "excerpt": "In sozialen Medien kursieren viele Mythen zu Sonnencreme. Immer wieder heißt es, sie sei gesundheitsschädlich oder sogar krebserregend. Natürliche Mittel seien ein besserer Sonnenschutz. Was ist da dran? Von Franziska Eh",
       "url": "https://www.tagesschau.de/wissen/gesundheit/sonnencreme-mythen-100.html",
       "publishedAt": "2026-06-25T04:24:25.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Sind Süßstoffe gesundheitsschädlich?",
-      "excerpt": "Süßer Geschmack ohne Kalorien - Süßstoffe machen es möglich. Ihr Nutzen für Diabetiker und zur Gewichtskontrolle ist groß. Aber immer wieder wird über mögliche Gesundheitsgefahren berichtet. Was ist dran? Von Tilman Hass",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/suessstoffe-ernaehrung-100.html",
-      "publishedAt": "2026-06-22T03:15:34.000Z",
       "category": "GESUNDHEIT & PSYCHE"
     }
   ]
