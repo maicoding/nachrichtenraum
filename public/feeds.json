@@ -1,60 +1,12 @@
 {
-  "updatedAt": "2026-08-14T18:06:35.128Z",
+  "updatedAt": "2026-08-14T19:14:03.414Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
-      "excerpt": "NATO-Desaster 2021 in Afghanistan: Truppenabzug sorgt für Flüchtlingsdrama",
-      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Brisanter „Handelsblatt“-Bericht - Stimmte die Union Steuererhöhungen zu?",
-      "excerpt": "Interne Mails zeigen: Die Union billigte umstrittene Steuererhöhungen der SPD.",
-      "url": "https://www.bild.de/politik/inland/steuererhoehungen-union-stimmte-offenbar-zweimal-zu-6a7f212d169e8e32c0ae8415",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar zu neuen Steuerplänen - Wann spart IHR endlich?",
-      "excerpt": "Klingbeil plant Streichung von Steuerrabatten für Mitarbeiterkäufe im eigenen Betrieb.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zu-klingbeils-neuen-steuerplaenen-wann-spart-ihr-endlich-6a7f227cf14aa44f2fd5e243",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Günstiger tanken dank Steuersenkung - Polen macht Liter Sprit bis zu 23 Cent billiger!",
-      "excerpt": "Polen senkt die Spritsteuer stark, Tusk verspricht deutlich billigere Tankpreise.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/polen-macht-liter-sprit-bis-zu-23-cent-billiger-guenstiger-tanken-dank-steuersenkung-6a7ee879a87e8142c31cff18",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Gut für Deutschland - KI-Boom macht Taiwan plötzlich reich",
       "excerpt": "Taiwan erlebt dank KI-Chips ein Rekordwachstum, von dem auch Deutschland profitiert.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/taiwan-boom-von-kuenstlicher-intelligenz-treibt-wirtschaft-auf-ueber-elf-prozent-wachstum-6a7f1774169e8e32c0ae82cd",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Regierungskrach geht weiter - SPD-Expertin will lange Frist für Ende von Rente mit 63",
-      "excerpt": "SPD-Rentenfachfrau fordert fünf Jahre Übergangsfrist für die Frührente-Reform.",
-      "url": "https://www.bild.de/politik/inland/regierungskrach-geht-weiter-spd-expertin-will-lange-frist-fuer-ende-von-rente-mit-63-6a7f17b6169e8e32c0ae82d8",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
-      "excerpt": "Hamas kündigt Teilnahme an Palästinenser-Wahl an, trotz Ablehnung der Bedingungen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +14,23 @@
       "title": "Keine Klimaanlagen - Politik versäumt Hitzeschutz für Alte und Kranke",
       "excerpt": "Tausende sterben an Hitze, doch Kliniken bleiben meist ohne Klimaschutz.",
       "url": "https://www.bild.de/politik/inland/keine-klimaanlagen-politik-versaeumt-hitzeschutz-fuer-alte-und-kranke-6a7ee05aa87e8142c31cfde6",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Regierungskrach geht weiter - SPD-Expertin will lange Frist für Ende von Rente mit 63",
+      "excerpt": "SPD-Rentenfachfrau fordert fünf Jahre Übergangsfrist für die Frührente-Reform.",
+      "url": "https://www.bild.de/politik/inland/regierungskrach-geht-weiter-spd-expertin-will-lange-frist-fuer-ende-von-rente-mit-63-6a7f17b6169e8e32c0ae82d8",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
+      "excerpt": "Hamas kündigt Teilnahme an Palästinenser-Wahl an, trotz Ablehnung der Bedingungen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +38,7 @@
       "title": "Ansage an Landes-Verband - BSW-Spitze fordert Rücktritt von Thüringen-MP Voigt",
       "excerpt": "Wagenknecht fordert Voigts Rücktritt, der Thüringer Landesverband stellt sich quer.",
       "url": "https://www.bild.de/politik/inland/ansage-an-verband-in-thueringen-spitze-des-bsw-draengt-voigt-zum-ruecktritt-6a7ef7eca87e8142c31d0079",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +46,7 @@
       "title": "Schleuser wollen Migranten nach Spanien tricksen - Neuer Aufruf zu Ceuta-Ansturm eine Finte?",
       "excerpt": "In WhatsApp-Gruppen planen junge Afrikaner einen neuen Angriff auf die Exklave Ceuta.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/schleuser-wollen-migranten-nach-spanien-tricksen-neuer-aufruf-zu-ceuta-ansturm-eine-finte-6a7ed163f14aa44f2fd5da3a",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +54,7 @@
       "title": "Abschiebung gescheitert! - Meloni nimmt Flüchtlinge aus Deutschland nicht zurück",
       "excerpt": "Streit um Asylregeln: Italien blockiert Überstellungen, Deutschland pocht auf Pakt.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/abschiebung-gescheitert-meloni-nimmt-fluechtlinge-aus-deutschland-nicht-zurueck-6a7efe572ea28efdb2791664",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +62,7 @@
       "title": "Hessisches Familienunternehmen soll Anteile übernehmen - Woher hat Viessmann das Geld für den Bayern-Deal?",
       "excerpt": "Geldregen für den Rekordmeister? Ein Familienunternehmen aus Hessen will offenbar tief in die Tasche greifen: Die Viessmann Generati...",
       "url": "https://www.bild.de/politik/viessmann-bei-bayern-wer-hinter-dem-250-millionen-deal-steckt-6a7edb362ea28efdb279129e",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +70,7 @@
       "title": "Vorbereitung für „Nato 3.0“ - USA überprüfen Verbündete mit Loyalitäts-Check",
       "excerpt": "USA drängen Nato-Partner mit Fragenkatalog zu Treue zu Trumps Sicherheitspolitik.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/vorbereitung-fuer-nato-3-0-usa-ueberpruefen-verbuendete-mit-loyalitaets-check-6a7ef739a87e8142c31d0068",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +78,7 @@
       "title": "Umsatzeinbruch wegen 12-Uhr-Regel - Tankstellen verkaufen weniger Kaffee und Snacks",
       "excerpt": "Neue Spritpreis-Regel treibt Kunden vor Mittag an die Zapfsäulen, Shops leiden",
       "url": "https://www.bild.de/politik/inland/tankstellen-umsatz-bricht-ein-wegen-12-uhr-regel-6a7db4d2dc674b59e6e1d3cd",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
@@ -118,15 +86,15 @@
       "title": "Job-Schock in der Branche - So schlimm steht es wirklich um die Autoindustrie",
       "excerpt": "Autoindustrie verliert Zehntausende Jobs, Experte warnt vor bitteren Jahren.",
       "url": "https://www.bild.de/politik/inland/schock-in-der-branche-so-schlimm-steht-es-wirklich-um-die-autoindustrie-6a7ef051f14aa44f2fd5dd85",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "publishedAt": "2026-08-14T19:14:03.036Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Lohnnachschlag für Beamte - Wer mit Geldregen rechnen kann, wer leer ausgeht",
-      "excerpt": "Berlin zögert Milliarden-Nachzahlungen für verfassungswidrige Beamtengehälter hinaus.",
-      "url": "https://www.bild.de/politik/inland/fetter-lohnnachschlag-fuer-beamte-wer-mit-geldregen-rechnen-kann-wer-leer-ausgeht-6a79a7d90e3689919ec76874",
-      "publishedAt": "2026-08-14T18:06:35.123Z",
+      "title": "Mit Baseballschläger attackiert? - AfD-Politiker verletzt Plakat-Abreißer (14)",
+      "excerpt": "AfD-Mann soll 14-Jährige mit Baseballschläger angegriffen haben, die Polizei ermittelt.",
+      "url": "https://www.bild.de/politik/inland/mit-baseballschlaeger-afd-politiker-geht-auf-plakat-abreisser-los-6a7f556b9a14467298b8e282",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +102,7 @@
       "title": "UN: „Weltweit schwerste Frauenrechtskrise“ - Taliban feiern fünf Jahre Macht",
       "excerpt": "Fünf Jahre Taliban-Herrschaft bedeuten für Afghaninnen Verbote und verlorene Chancen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/taliban-feiern-fuenf-jahre-macht-un-verurteilt-entrechtung-von-frauen-6a7f2fc82ea28efdb2791b18",
-      "publishedAt": "2026-08-14T18:06:35.122Z",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
       "category": "POLITIK"
     },
     {
@@ -142,15 +110,55 @@
       "title": "Sven Hüber war DDR-Politoffizier - Wie der Aufwiegel-Polizist Karriere in Deutschland machen konnte",
       "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
       "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
-      "publishedAt": "2026-08-14T18:06:35.122Z",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
+      "excerpt": "NATO-Desaster 2021 in Afghanistan: Truppenabzug sorgt für Flüchtlingsdrama",
+      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisanter „Handelsblatt“-Bericht - Stimmte die Union Steuererhöhungen zu?",
+      "excerpt": "Interne Mails zeigen: Die Union billigte umstrittene Steuererhöhungen der SPD.",
+      "url": "https://www.bild.de/politik/inland/steuererhoehungen-union-stimmte-offenbar-zweimal-zu-6a7f212d169e8e32c0ae8415",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar zu neuen Steuerplänen - Wann spart IHR endlich?",
+      "excerpt": "Klingbeil plant Streichung von Steuerrabatten für Mitarbeiterkäufe im eigenen Betrieb.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zu-klingbeils-neuen-steuerplaenen-wann-spart-ihr-endlich-6a7f227cf14aa44f2fd5e243",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Günstiger tanken dank Steuersenkung - Polen macht Liter Sprit bis zu 23 Cent billiger!",
+      "excerpt": "Polen senkt die Spritsteuer stark, Tusk verspricht deutlich billigere Tankpreise.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/polen-macht-liter-sprit-bis-zu-23-cent-billiger-guenstiger-tanken-dank-steuersenkung-6a7ee879a87e8142c31cff18",
+      "publishedAt": "2026-08-14T19:14:03.035Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
+      "excerpt": "Luigi M. wird vorgeworfen, den Chef eines US-Krankenversicherers auf offener Straße erschossen zu haben. Nun hat er die tödlichen Schüsse gestanden. Er ist seit seiner Verhaftung auch zu einer Symbolfigur geworden.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
+      "publishedAt": "2026-08-14T18:28:38.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "DLF",
       "title": "Waldbrandursache - Experte: \"Wälder entzünden sich nicht selbst\"",
       "excerpt": "In Deutschland brennen in vielen Bundesländern Wälder. In einem Großteil der Fälle sind offenbar Menschen direkt oder indirekt verantwortlich. Denn Wälder entzündeten sich nicht selbst - darauf weist ein Fachmann für Wal",
       "url": "https://www.deutschlandfunk.de/experte-waelder-entzuenden-sich-nicht-selbst-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +166,7 @@
       "title": "Ernteausfälle - Landwirtschaftsminister Rainer: Entscheidung über Hilfen Ende August",
       "excerpt": "Bundesagrarminister Rainer hat sich besorgt über die momentan schwierige Situation für Landwirte gezeigt. Die anhaltende Trockenheit setze viele Betriebe bereits erheblich unter Druck, sagte der CSU-Politiker. Hinter ver",
       "url": "https://www.deutschlandfunk.de/landwirtschaftsminister-rainer-entscheidung-ueber-hilfen-ende-august-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,15 +174,15 @@
       "title": "Hitzeschutz im Grundgesetz - CDU-Generalsekretärin lehnt Vorstoß des Bundesumweltministers ab",
       "excerpt": "Die CDU hat Forderungen abgelehnt, Klimaanpassung und Hitzeschutz als Gemeinschaftsaufgabe von Bund und Ländern im Grundgesetz zu verankern.",
       "url": "https://www.deutschlandfunk.de/cdu-generalsekretaerin-lehnt-vorstoss-des-bundesumweltministers-ab-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Waldbrände in Deutschland - Etwa 1.800 Menschen in Nordrhein-Westfalen evakuiert, Großbrand auch in Rheinland-Pfalz",
-      "excerpt": "In Deutschland kämpfen die Feuerwehren weiter gegen mehrere Waldbrände.",
+      "excerpt": "In Deutschland kämpfen die Feuerwehren weiter gegen mehrere Waldbrände. Bei Hürtgenwald in Nordrhein-Westfalen versuchen immer noch hunderte Einsatzkräfte, ein Übergreifen der Flammen auf den Ortsteil Gey zu verhindern, ",
       "url": "https://www.deutschlandfunk.de/etwa-1-800-menschen-in-nordrhein-westfalen-evakuiert-grossbrand-auch-in-rheinland-pfalz-104.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +190,15 @@
       "title": "Gera - Ostdeutsche Verkehrsminister fordern Finanzierung des Bahnverkehrs auf dem Land",
       "excerpt": "Die Verkehrsminister und -ministerinnen der ostdeutschen Bundesländer haben den Bund dazu aufgefordert, den Bahnverkehr jenseits der Ballungsräume nachhaltig zu finanzieren.",
       "url": "https://www.deutschlandfunk.de/ostdeutsche-verkehrsminister-fordern-finanzierung-des-bahnverkehrs-auf-dem-land-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jemen - Schwere Angriffe auf Huthi-Miliz durch Regierungstruppen",
+      "excerpt": "Im Jemen haben Regierungstruppen die Huthi-Miliz angegriffen.",
+      "url": "https://www.deutschlandfunk.de/schwere-angriffe-auf-huthi-miliz-durch-regierungstruppen-100.html",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +206,15 @@
       "title": "Westjordanland - Aktivisten bringen eingeschlossenen Palästinensern Lebensmittel",
       "excerpt": "Im Westjordanland haben israelische und internationale Aktivisten palästinensischen Familien Lebensmittel gebracht, die seit Tagen von israelischen Siedlern belagert werden.",
       "url": "https://www.deutschlandfunk.de/aktivisten-bringen-eingeschlossenen-palaestinensern-lebensmittel-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Trockenheit - Waldbrände in mehreren europäischen Ländern",
+      "excerpt": "In mehreren europäischen Ländern kämpfen Feuerwehrleute gegen Waldbrände.",
+      "url": "https://www.deutschlandfunk.de/waldbraende-in-mehreren-europaeischen-laendern-108.html",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,15 +222,15 @@
       "title": "Washington - US-Regierung trägt Streit um Ballsaal zum Supreme Court",
       "excerpt": "Die US-Regierung hat im Streit um den Baustopp für einen neuen Ballsaal und einen Bunker am Weißen Haus den Obersten Gerichtshof angerufen.",
       "url": "https://www.deutschlandfunk.de/us-regierung-traegt-streit-um-ballsaal-zum-supreme-court-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Krieg - Russland lehnt Waffenruhe im Schwarzen Meer ab",
-      "excerpt": "Die russische Regierung lehnt den türkischen Vorschlag über eine Waffenruhe für das Schwarze Meer ab.",
+      "excerpt": "Die russische Regierung lehnt den türkischen Vorschlag einer Waffenruhe für das Schwarze Meer ab.",
       "url": "https://www.deutschlandfunk.de/russland-lehnt-waffenruhe-im-schwarzen-meer-ab-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +238,7 @@
       "title": "Rechtsstaatlichkeit - Liberale Jabloko-Partei reicht Berufung gegen Ausschluss von Parlamentswahl in Russland ein",
       "excerpt": "In Russland hat die liberale Jabloko-Partei Berufung gegen ihren Ausschluss von der Parlamentswahl im kommenden Monat eingelegt.",
       "url": "https://www.deutschlandfunk.de/liberale-jabloko-partei-reicht-berufung-gegen-ausschluss-von-parlamentswahl-in-russland-ein-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +246,7 @@
       "title": "Frankreich - Verfassungsrat kippt Social-Media-Verbot für unter 15-Jährige",
       "excerpt": "Der französische Verfassungsrat hat das vom Parlament beschlossene Social-Media-Verbot für Kinder und Jugendliche unter 15 Jahren gekippt.",
       "url": "https://www.deutschlandfunk.de/verfassungsrat-kippt-social-media-verbot-fuer-unter-15-jaehrige-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +254,7 @@
       "title": "Bei Siegburg - Mann nach Anschlag in ICE wegen versuchten Mordes angeklagt",
       "excerpt": "Nach dem Anschlag in einem ICE bei Siegburg im April mit zehn Verletzten ist ein 20-Jähriger wegen versuchten Mordes angeklagt.",
       "url": "https://www.deutschlandfunk.de/mann-nach-anschlag-in-ice-wegen-versuchten-mordes-angeklagt-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +262,7 @@
       "title": "Trockenheit - Waldbrände in mehreren europäischen Ländern",
       "excerpt": "In mehreren europäischen Ländern kämpfen Feuerwehrleute gegen Waldbrände.",
       "url": "https://www.deutschlandfunk.de/waldbraende-in-mehreren-europaeischen-laendern-104.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +270,7 @@
       "title": "Trockenheit - Rheinpegel bei Kaub auf historischem Tiefstand, Bodensee-Wasserstand auf Jahrestief",
       "excerpt": "Der Rhein hat am Pegel bei Kaub in Rheinland-Pfalz einen historischen Tiefstand erreicht. Mit nur noch sechs Zentimetern unterschreitet dieser nach Angaben des Wasserstraßen- und Schifffahrtsamtes Rhein in Bingen alle bi",
       "url": "https://www.deutschlandfunk.de/rheinpegel-bei-kaub-auf-historischem-tiefstand-bodensee-wasserstand-auf-jahrestief-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +278,7 @@
       "title": "Ukraine - Selenskyj: Russische Gleitbombe zerstört mehrere Stockwerke eines Hochhauses in Donezk",
       "excerpt": "In der ostukrainischen Region Donezk hat eine russische Gleitbombe mehrere Stockwerke eines zehnstöckigen Wohnhauses zerstört.",
       "url": "https://www.deutschlandfunk.de/selenskyj-russische-gleitbombe-zerstoert-mehrere-stockwerke-eines-hochhauses-in-donezk-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +286,7 @@
       "title": "Statistisches Bundesamt - Insolvenzen bei Firmen sinken erstmals seit Februar",
       "excerpt": "In Deuschland ist die Zahl der Firmeninsolvenzen erstmals seit Februar gesunken.",
       "url": "https://www.deutschlandfunk.de/insolvenzen-bei-firmen-sinken-erstmals-seit-februar-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,23 +294,7 @@
       "title": "Landtagswahlen in Ostdeutschland - BSW-Vorsitzende Mohamed Ali schließt Koalition mit AfD aus",
       "excerpt": "Die BSW-Vorsitzende Mohamed Ali hat vor den Landtagswahlen in Ostdeutschland eine Koalition mit der AfD ausgeschlossen. Die Partei sei programmatisch sehr weit weg vom BSW, sagte Mohamed Ali im Deutschlandfunk. Zudem geb",
       "url": "https://www.deutschlandfunk.de/bsw-vorsitzende-mohamed-ali-schliesst-koalition-mit-afd-aus-102.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Erneuerbare Energie - Chemieunternehmen Wacker wünscht sich mehr Planungssicherheit",
-      "excerpt": "Das Chemieunternehmen Wacker wünscht sich für den Einsatz klimafreundlicherer Technologien mehr langfristige Planungssicherheit durch die Politik.",
-      "url": "https://www.deutschlandfunk.de/chemieunternehmen-wacker-wuenscht-sich-mehr-planungssicherheit-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Öffentlich-rechtlicher Rundfunk - Florian Hager als HR-Intendant bestätigt",
-      "excerpt": "Der Intendant des Hessischen Rundfunks, Hager, ist im Amt bestätigt worden.",
-      "url": "https://www.deutschlandfunk.de/florian-hager-als-hr-intendant-bestaetigt-100.html",
-      "publishedAt": "2026-08-14T17:39:15.000Z",
+      "publishedAt": "2026-08-14T18:27:26.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -823,14 +831,6 @@
       "excerpt": "Kubas Revolutionsführer Fidel Castro gehörte zu den schillerndsten Persönlichkeiten Lateinamerikas. Heute wäre er 100 Jahre alt geworden. Vielen in Kuba ist die Feierlaune allerdings vergangen. Von C. F. Moebus.",
       "url": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html",
       "publishedAt": "2026-08-13T06:35:34.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
-      "excerpt": "Karoline Leavitt hat immer Zugang zu Präsident Trump. Ihre Rolle als Sprecherin interpretierte sie neu - mit einem \"Mundwerk wie ein Maschinengewehr\". Ihr plötzlicher Abschied aus dem Weißen Haus nährt Spekulationen. Von",
-      "url": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
-      "publishedAt": "2026-08-13T06:05:33.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
