@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-08-15T11:33:33.954Z",
+  "updatedAt": "2026-08-15T11:56:52.151Z",
   "messages": [
     {
       "source": "BILD.DE",
       "title": "Mega-Prozess um Jugendschutz - Bringt diese Frau Zuckerbergs Imperium zu Fall?",
       "excerpt": "Whistleblowerin Haugen belastet Meta im Prozess um Jugendschutz und Sucht-Vorwürfe.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/meta-prozess-frances-haugen-enttarnte-risiken-fuer-jugendliche-6a7f3382169e8e32c0ae8612",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Einsatz „nicht annähernd lange genug“ - Trump spielt Notlage auf US-Schiff herunter",
+      "excerpt": "Trump spielt Probleme auf Flugzeugträger herunter, trotz Berichten über Notlage.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-ignoriert-hilferufe-von-flugzeugtraeger-uss-abraham-lincoln-6a7feb8f169e8e32c0ae8c4c",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,7 @@
       "title": "Milliardenschäden für die Wirtschaft - Russen-Amazon brennt! Putin droht Pleite-Welle",
       "excerpt": "Drohnenangriffe auf Wildberries ruinieren Händler und könnten Russlands Inflation treiben.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wildberries-russen-amazon-brennt-putin-droht-pleite-welle-6a7c768ea87e8142c31cded1",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +30,7 @@
       "title": "Experten klären auf - So gefährlich wird Putins Flotten-Drohung für deutsche Schiffe",
       "excerpt": "Putin droht mit Angriffen auf Handelsschiffe, Reeder fürchten teure Risiken.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/putin-droht-europa-mit-vergeltung-sind-handelsschiffe-in-gefahr-6a7c58dec99104ecb401a6bf",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +38,7 @@
       "title": "Exklusiv-Umfrage - Union so schwach wie seit fünf Jahren nicht!",
       "excerpt": "Nur wenige Wochen bis zu den Landtagswahlen – und die Regierung ist im Umfragetief",
       "url": "https://www.bild.de/politik/inland/exklusiv-umfrage-union-so-schwach-wie-seit-fuenf-jahren-nicht-6a7f37e5169e8e32c0ae8654",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +46,7 @@
       "title": "Trotz Kritik in eigenen Reihen - GdP-Chef stellt sich hinter Aufwiegel-Polizist Hüber",
       "excerpt": "GdP-Chef verteidigt Hüber trotz Kritik aus Polizei und eigener Gewerkschaft.",
       "url": "https://www.bild.de/politik/inland/gdp-chef-kopelke-rueckendeckung-fuer-umstrittenen-vize-hueber-6a801345169e8e32c0ae8e05",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -46,15 +54,7 @@
       "title": "Abkühlung für den Präsidenten - Frankreichs Wälder brennen, Macron macht Jetski-Urlaub",
       "excerpt": "Macron urlaubt mit Jetski an der Küste, während Frankreich gegen Waldbrände kämpft.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/frankreich-brennt-aber-emmanuel-macron-macht-jetski-urlaub-6a7ff5e3a87e8142c31d0b32",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Einsatz „nicht annähernd lange genug“ - Selbstmordgedanken an Bord! Trump ignoriert Notlage auf US-Schiff",
-      "excerpt": "Trump spielt Probleme auf Flugzeugträger herunter, trotz Berichten über Notlage.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-ignoriert-hilferufe-von-flugzeugtraeger-uss-abraham-lincoln-6a7feb8f169e8e32c0ae8c4c",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +62,7 @@
       "title": "Nach Lügen- und Plagiatsvorwürfen - Umstrittener Ex-Professor Arday tot aufgefunden",
       "excerpt": "Jason Arday stirbt kurz nach Rücktritt, Polizei schließt ein Verbrechen aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/jason-arday-gestuerzter-ehemaliger-cambridge-professor-tot-aufgefunden-6a7f66fba87e8142c31d07b5",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +70,7 @@
       "title": "Hessisches Familienunternehmen soll Anteile übernehmen - Woher hat Viessmann das Geld für den Bayern-Deal?",
       "excerpt": "Geldregen für den Rekordmeister? Ein Familienunternehmen aus Hessen will offenbar tief in die Tasche greifen: Die Viessmann Generati...",
       "url": "https://www.bild.de/politik/viessmann-bei-bayern-wer-hinter-dem-250-millionen-deal-steckt-6a7edb362ea28efdb279129e",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +78,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +86,7 @@
       "title": "„Sie gehört uns“ - Trump: Straße von Hormus bald US-Territorium",
       "excerpt": "Trump erklärt die Straße von Hormus zur US-Zone und droht dem Iran weiter.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-strasse-von-hormus-gehoert-bald-zu-den-usa-nicht-zum-iran-6a7f7674169e8e32c0ae89de",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Trump-Sprecherin geht - Diese Sprüche machten sie berühmt",
       "excerpt": "US-Regierungssprecherin Karoline Leavitt tritt Ende August für Familie zurück.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-vertraute-karoline-leavitt-geht-diese-sprueche-machten-sie-beruehmt-6a7db488a87e8142c31ceed4",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +102,7 @@
       "title": "Berlin-Wahl - Neue Umfrage wirbelt alles durcheinander",
       "excerpt": "CDU zieht in neuer Berlin-Umfrage knapp vorbei, Linksbündnis bleibt mehrheitsfähig.",
       "url": "https://www.bild.de/politik/inland/wahl-in-berlin-neue-umfrage-wirbelt-alles-durcheinander-6a7ed8f0a87e8142c31cfd1f",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +110,7 @@
       "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
       "excerpt": "NATO-Desaster 2021 in Afghanistan: Truppenabzug sorgt für Flüchtlingsdrama",
       "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +118,7 @@
       "title": "Mit Baseballschläger attackiert? - AfD-Politiker verletzt Plakat-Abreißer (14)",
       "excerpt": "AfD-Mann soll 14-Jährige mit Baseballschläger angegriffen haben, die Polizei ermittelt.",
       "url": "https://www.bild.de/politik/inland/mit-baseballschlaeger-afd-politiker-geht-auf-plakat-abreisser-los-6a7f556b9a14467298b8e282",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +126,7 @@
       "title": "UN: „Weltweit schwerste Frauenrechtskrise“ - Taliban feiern fünf Jahre Macht",
       "excerpt": "Fünf Jahre Taliban-Herrschaft bedeuten für Afghaninnen Verbote und verlorene Chancen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/taliban-feiern-fuenf-jahre-macht-un-verurteilt-entrechtung-von-frauen-6a7f2fc82ea28efdb2791b18",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +134,7 @@
       "title": "Sven Hüber war DDR-Politoffizier - Wie der Aufwiegel-Polizist Karriere in Deutschland machen konnte",
       "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
       "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +142,7 @@
       "title": "Brisanter „Handelsblatt“-Bericht - Stimmte die Union Steuererhöhungen zu?",
       "excerpt": "Interne Mails zeigen: Die Union billigte umstrittene Steuererhöhungen der SPD.",
       "url": "https://www.bild.de/politik/inland/steuererhoehungen-union-stimmte-offenbar-zweimal-zu-6a7f212d169e8e32c0ae8415",
-      "publishedAt": "2026-08-15T11:33:33.949Z",
+      "publishedAt": "2026-08-15T11:56:51.917Z",
       "category": "POLITIK"
     },
     {
@@ -150,7 +150,7 @@
       "title": "Waldbrand bei Hürtgenwald - NRW-Agrarministerin Gorißen: \"Bleiben Sie aus den Wäldern raus!\"",
       "excerpt": "Die nordrhein-westfälische Landwirtschaftsministerin Gorißen hat an die Bevölkerung appelliert, die Wälder wegen der derzeitigen Trockenheit nicht zu betreten. Nahezu alle Waldbrände entstünden durch menschliches Fehlver",
       "url": "https://www.deutschlandfunk.de/nrw-agrarministerin-gorissen-bleiben-sie-aus-den-waeldern-raus-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +158,7 @@
       "title": "Unterdrückung von Frauen - Taliban feiern Machtübernahme in Afghanistan vor fünf Jahren",
       "excerpt": "In Afghanistan haben die militant-islamistischen Taliban ihre Machtübernahme vor fünf Jahren gefeiert.",
       "url": "https://www.deutschlandfunk.de/taliban-feiern-machtuebernahme-in-afghanistan-vor-fuenf-jahren-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +166,7 @@
       "title": "Fünf Jahre nach Machtübernahme - Neumann (Grüne): Bundesregierung lässt sich von Taliban erpressen",
       "excerpt": "Die Grünen-Europaabgeordnete Neumann hat den Umgang der schwarz-roten Koalition mit den in Afghanistan herrschenden Taliban kritisiert. Die Bundesregierung lasse sich in der Migrationsdebatte erpressen, sagte Neumann im ",
       "url": "https://www.deutschlandfunk.de/neumann-gruene-bundesregierung-laesst-sich-von-taliban-erpressen-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +174,7 @@
       "title": "Nordafrika-Exklave - Spanien und Marokko verstärken Sicherheitsvorkehrungen an der Grenze zu Ceuta",
       "excerpt": "Spanien und Marokko haben ihre Sicherheitsvorkehrungen an der Grenze zur spanischen Nordafrika-Exklave Ceuta verstärkt.",
       "url": "https://www.deutschlandfunk.de/spanien-und-marokko-verstaerken-sicherheitsvorkehrungen-an-der-grenze-zu-ceuta-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +182,7 @@
       "title": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns",
       "excerpt": "Der Iran hat die durch US-Präsident Trump angemeldeten Ansprüche der Vereinigten Staaten auf die Straße von Hormus zurückgewiesen. Trump hatte bei einem Auftritt im Bundesstaat New York gesagt, er wolle die Meerenge nach",
       "url": "https://www.deutschlandfunk.de/iran-nach-trump-vorstoss-strasse-von-hormus-gehoert-uns-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +190,7 @@
       "title": "Straße von Hormus - Satellitenbilder zeigen neue Ölverschmutzung",
       "excerpt": "Greenpeace weist auf die andauernde Gefahr einer Ölpest in der Straße von Hormus hin.",
       "url": "https://www.deutschlandfunk.de/satellitenbilder-zeigen-neue-oelverschmutzung-106.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +198,7 @@
       "title": "Nahost - Libanesische Staatsmedien: Sieben Tote bei israelischem Angriff im Südlibanon",
       "excerpt": "Bei einem israelischen Angriff im Süden des Libanon sind libanesischen Staatsmedien zufolge sieben Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/libanesische-staatsmedien-sieben-tote-bei-israelischem-angriff-im-suedlibanon-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +206,7 @@
       "title": "Jemen - Weitere gegenseitige Angriffe von Huthi-Miliz und Regierungstruppen",
       "excerpt": "Im Jemen sind bei weiteren schweren Kämpfen zwischen Regierungstruppen und der aufständischen Huthi-Miliz mindestens vier Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/weitere-gegenseitige-angriffe-von-huthi-miliz-und-regierungstruppen-110.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +214,7 @@
       "title": "Mecklenburg-Vorpommern und Schleswig-Holstein - Warnung vor Blaualgen in der Ostsee sowie in Flüssen und Seen",
       "excerpt": "Das Gesundheitsministerium in Mecklenburg-Vorpommern warnt vor dem Kontakt mit Blaualgen in der Ostsee sowie in Flüssen und Seen. Badenden wird geraten, Bereiche mit sichtbaren Algen-Ansammlungen zu meiden. Betroffen sin",
       "url": "https://www.deutschlandfunk.de/warnung-vor-blaualgen-in-der-ostsee-sowie-in-fluessen-und-seen-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +222,7 @@
       "title": "Vor der Wahl in Berlin - SPD-Spitzenkandidat Krach bekräftigt Forderung nach Rücknahme der Kürzungen beim Wohngeld",
       "excerpt": "Der SPD-Spitzenkandidat für die Wahl zum Berliner Abgeordnetenhaus, Krach, hat erneut einen Verzicht auf Kürzungen beim Wohngeld gefordert.",
       "url": "https://www.deutschlandfunk.de/spd-spitzenkandidat-krach-bekraeftigt-forderung-nach-ruecknahme-der-kuerzungen-beim-wohngeld-104.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +230,7 @@
       "title": "Interview der Woche - BA-Vorstandsvorsitzende Nahles: Noch 162.000 freie Ausbildungsstellen für dieses Jahr",
       "excerpt": "In Deutschland sind kurz vor Beginn des neuen Ausbildungsjahres im September noch 162.000 Stellen unbesetzt. Darauf hat die Vorstandsvorsitzende der Bundesagentur für Arbeit, Nahles, im \"Interview der Woche\" des Deutschl",
       "url": "https://www.deutschlandfunk.de/ba-vorstandsvorsitzende-nahles-noch-162-000-freie-ausbildungsstellen-fuer-dieses-jahr-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +238,7 @@
       "title": "Soziales - Bis zu 45 Grad: Verdi-Befragung zeigt extreme Hitzebelastung in Pflegeheimen",
       "excerpt": "Viele Pflegekräfte und Heimbewohner erleben nach Gewerkschaftsangaben in diesem Sommer Temperaturen, die gegen Arbeitsschutzgesetze verstoßen und gesundheitsgefährdend sind.",
       "url": "https://www.deutschlandfunk.de/bis-zu-45-grad-verdi-befragung-zeigt-extreme-hitzebelastung-in-pflegeheimen-100.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +246,7 @@
       "title": "Koalition - SPD zum Steuerstreit: Union muss Kritik unterbinden",
       "excerpt": "Die SPD-Fraktion ruft die Union dazu auf, die Kritik an den Plänen von Finanzminister Klingbeil für eine Steuerreform zu unterbinden.",
       "url": "https://www.deutschlandfunk.de/spd-zum-steuerstreit-union-muss-kritik-unterbinden-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +254,7 @@
       "title": "Jahrestag der Kapitulation - Japans Ministerpräsidentin Takaichi verzichtet auf Besuch von umstrittenen Schrein",
       "excerpt": "Am Jahrestag der Kapitulation Japans im Zweiten Weltkrieg hat dessen Regierungschefin Takaichi auf einen Besuch des umstrittenen Yasukuni-Schreins verzichtet.",
       "url": "https://www.deutschlandfunk.de/japans-ministerpraesidentin-takaichi-verzichtet-auf-besuch-von-umstrittenen-schrein-100.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +262,7 @@
       "title": "Gesundheit - Intensivmediziner gehen von mehr Hitzetoten aus",
       "excerpt": "Die Zahl der Hitzetoten in Deutschland könnte höher sein als bisher angenommen. Der medizinische Geschäftsführer der Vereinigung für Intensiv- und Notfallmedizin, Uwe Janssens, sagte, er halte die Schätzung des Robert-Ko",
       "url": "https://www.deutschlandfunk.de/intensivmediziner-gehen-von-mehr-hitzetoten-aus-100.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +270,7 @@
       "title": "Nach Plagiatsvorwürfen - Medienberichte: Cambridge-Professor Jason Arday tot aufgefunden",
       "excerpt": "Der nach Plagiatsvorwürfen zurückgetretene Professor der Universität Cambridge, Jason Arday, ist nach Angaben von Medien tot aufgefunden worden.",
       "url": "https://www.deutschlandfunk.de/medienberichte-cambridge-professor-jason-arday-tot-aufgefunden-112.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,7 +278,7 @@
       "title": "Indonesien - Mindestens 38 Tote bei Erdbeben auf der Insel Flores",
       "excerpt": "Nach dem schweren Erdbeben auf der indonesischen Insel Flores suchen Rettungskräfte in den Trümmern weiter nach Verschütteten.",
       "url": "https://www.deutschlandfunk.de/mindestens-38-tote-bei-erdbeben-auf-der-insel-flores-102.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -286,8 +286,48 @@
       "title": "Brasilien und Italien - Gestohlene Gemälde von Renoir, Cézanne und Matisse wiedergefunden",
       "excerpt": "In Italien, Brasilien und den USA sind gestohlene Gemälde bedeutender Künstler wiedergefunden worden.",
       "url": "https://www.deutschlandfunk.de/gestohlene-gemaelde-von-renoir-c-zanne-und-matisse-wiedergefunden-104.html",
-      "publishedAt": "2026-08-15T11:21:53.000Z",
+      "publishedAt": "2026-08-15T11:46:50.000Z",
       "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "„Theaternatur Festival“ im Harz: Wo Zwerge friedlich streiten",
+      "excerpt": "Das Festival „Theaternatur“ im Harz übt, kurz vor der Landtagswahl in Sachsen-Anhalt, Dialog über Meinungsgrenzen hinweg. Plädoyer für eine Streitkultur. mehr...",
+      "url": "https://taz.de/Theaternatur-Festival-im-Harz/!6196570/",
+      "publishedAt": "2026-08-15T11:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Manuela Schwesig: Senderchef deutet in Chatnachricht Einmischung Schwesigs bei TV-Duell an",
+      "excerpt": "Hat Mecklenburg-Vorpommerns Ministerpräsidentin zwei Herausforderer aus einer TV-Debatte zur Landtagswahl gedrängt? Die Chatnachricht eines Verantwortlichen, die dem SPIEGEL vorliegt, nährt diesen Verdacht.",
+      "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-senderchef-deutet-in-chatnachricht-einmischung-schwesigs-bei-tv-duell-an-a-32925663-4575-496f-b391-cf92558ae597#ref=rss",
+      "publishedAt": "2026-08-15T11:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Waldbrände in Europa: Wo es gerade brennt",
+      "excerpt": "Europaweit kämpfen Feuerwehrleute gegen Waldbrände. Tausende Hektar Fläche sind verbrannt, viele Menschen mussten sich in Sicherheit bringen. Ein Überblick über die Lage von Großbritannien bis Griechenland.",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "publishedAt": "2026-08-15T11:37:58.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Abfindung statt Tarifvertrag: Amerikanisches Ende für schwedischen Tesla-Streik",
+      "excerpt": "Nach fast drei Jahren ist der Arbeitskampf bei Tesla in Schweden eingestellt worden. Die in den Ausstand getretenen Mitarbeitenden verlassen gegen hohe Abfindungen den Konzern. mehr...",
+      "url": "https://taz.de/Abfindung-statt-Tarifvertrag/!6204463/",
+      "publishedAt": "2026-08-15T11:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt: BSW-Vorsitzende Amira Mohamed Ali schließt Koalition mit AfD aus",
+      "excerpt": "Die AfD könnte bei der Landtagswahl in Sachsen-Anhalt stärkste Kraft werden. Das BSW kämpft um den Einzug in den Landtag. Nun hat sich Parteichefin Amira Mohamed Ali gegen eine mögliche Regierungszusammenarbeit ausgespro",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bsw-vorsitzende-amira-mohamed-ali-schliesst-koalition-mit-afd-aus-a-90eac111-c8ca-4a69-b86f-0c15c6fcd915#ref=rss",
+      "publishedAt": "2026-08-15T11:33:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -439,22 +479,6 @@
       "excerpt": "Das „Volksbad“ vor der Berliner Volksbühne sorgte schon vor seiner Eröffnung für Debatten. Nun musste eine Veranstaltung für Schwarze Jugendliche abgesagt werden. Ein Ortsbesuch. mehr...",
       "url": "https://taz.de/Volksbad-der-Berliner-Volksbuehne/!6203116/",
       "publishedAt": "2026-08-14T17:29:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Zu hohe Einkommen in Polen: Wenn Ärzte viel zu viel verdienen",
-      "excerpt": "Die polnische Bevölkerung ist schockiert über die Millionengehälter von Krankenhausärzten. Nun deckelt Ministerpräsident Donald Tusk die Bezüge. mehr...",
-      "url": "https://taz.de/Zu-hohe-Einkommen-in-Polen/!6200829/",
-      "publishedAt": "2026-08-14T17:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Saisonstart der deutschen Fußballerinnen: Aderlass auf allen Ebenen",
-      "excerpt": "Vor dem Supercup spricht wenig für eine spannende Bundesligasaison. Die Konkurrentinnen vom Meister FC Bayern leiden unter Qualitätsverlust. mehr...",
-      "url": "https://taz.de/Saisonstart-der-deutschen-Fussballerinnen/!6204094/",
-      "publishedAt": "2026-08-14T17:25:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -786,14 +810,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
-      "excerpt": "Weil die Donau zu wenig Wasser führt, muss Rumänien sein einziges Atomkraftwerk ganz herunterfahren. Damit fällt ein Fünftel der Stromproduktion des Landes aus. Wie die Menschen in Rumänien mit der Energiekrise umgehen, ",
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
-      "publishedAt": "2026-08-13T14:32:46.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "News des Tages: Dürre in der Landwirtschaft, Ebola in Afrika, Zhu Rongji",
       "excerpt": "In Deutschland wird das Heu knapp, in der Demokratischen Republik Kongo wütet Ebola, und in Peking wird der Mann betrauert, der Chinas Wirtschaftskraft entfesselt hat. Das ist die Lage am Donnerstagabend.",
@@ -882,28 +898,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Maximilian Krah: Haftbefehl gegen AfD-Politiker wegen Jan Böhmermann",
-      "excerpt": "Der AfD-Bundestagsabgeordnete wollte dem Satiriker bestimmte Aussagen gerichtlich untersagen. Doch er verlor und muss die Kosten tragen. Weil er diese nicht komplett zahlt, hat das Amtsgericht Chemnitz nach SPIEGEL-Infor",
-      "url": "https://www.spiegel.de/politik/maximilian-krah-haftbefehl-gegen-afd-politiker-im-streit-mit-jan-boehmermann-a-6f408c3e-ff83-4e16-aacd-4213f84fbb0b#ref=rss",
-      "publishedAt": "2026-08-13T04:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
       "excerpt": "Die Pegelstände des Rheins sinken weiter - was die Logistik massiv stört. Gleichzeitig leidet die Landwirtschaft stark unter der anhaltenden Trockenheit. Woran sind die Folgen im Alltag bereits zu merken? Von Jens Eberl.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
       "publishedAt": "2026-08-13T04:00:09.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Mehr Rechte für Geheimdienste, AfD-Wahlkampf in Sachsen-Anhalt, Nigel Farage gegen das Mülleimergesicht",
-      "excerpt": "Deutschland soll »echte Geheimdienste« bekommen. AfD-Spitzenkandidat Siegmund versucht sich als netter Kerl zu inszenieren. Und: Mr Brexit muss gegen einen Mülleimer gewinnen. Das ist die Lage am Donnerstagmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-mehr-rechte-fuer-geheimdienste-afd-wahlkampf-in-sachsen-anhalt-nigel-farage-gegen-das-muelleimergesicht-a-8c5d5085-51ad-4457-b695-b2d5a3cb94bd#ref=rss",
-      "publishedAt": "2026-08-13T03:47:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
