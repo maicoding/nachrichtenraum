@@ -1,116 +1,12 @@
 {
-  "updatedAt": "2026-08-15T04:47:17.855Z",
+  "updatedAt": "2026-08-15T05:41:49.350Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Trump-Sprecherin geht - Diese Sprüche machten sie berühmt",
-      "excerpt": "US-Regierungssprecherin Karoline Leavitt tritt Ende August für Familie zurück.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-vertraute-karoline-leavitt-geht-diese-sprueche-machten-sie-beruehmt-6a7db488a87e8142c31ceed4",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Berlin-Wahl - Neue Umfrage wirbelt alles durcheinander",
-      "excerpt": "CDU zieht in neuer Berlin-Umfrage knapp vorbei, Linksbündnis bleibt mehrheitsfähig.",
-      "url": "https://www.bild.de/politik/inland/wahl-in-berlin-neue-umfrage-wirbelt-alles-durcheinander-6a7ed8f0a87e8142c31cfd1f",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
-      "excerpt": "NATO-Desaster 2021 in Afghanistan: Truppenabzug sorgt für Flüchtlingsdrama",
-      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mit Baseballschläger attackiert? - AfD-Politiker verletzt Plakat-Abreißer (14)",
-      "excerpt": "AfD-Mann soll 14-Jährige mit Baseballschläger angegriffen haben, die Polizei ermittelt.",
-      "url": "https://www.bild.de/politik/inland/mit-baseballschlaeger-afd-politiker-geht-auf-plakat-abreisser-los-6a7f556b9a14467298b8e282",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "UN: „Weltweit schwerste Frauenrechtskrise“ - Taliban feiern fünf Jahre Macht",
-      "excerpt": "Fünf Jahre Taliban-Herrschaft bedeuten für Afghaninnen Verbote und verlorene Chancen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/taliban-feiern-fuenf-jahre-macht-un-verurteilt-entrechtung-von-frauen-6a7f2fc82ea28efdb2791b18",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sven Hüber war DDR-Politoffizier - Wie der Aufwiegel-Polizist Karriere in Deutschland machen konnte",
-      "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
-      "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Brisanter „Handelsblatt“-Bericht - Stimmte die Union Steuererhöhungen zu?",
-      "excerpt": "Interne Mails zeigen: Die Union billigte umstrittene Steuererhöhungen der SPD.",
-      "url": "https://www.bild.de/politik/inland/steuererhoehungen-union-stimmte-offenbar-zweimal-zu-6a7f212d169e8e32c0ae8415",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar zu neuen Steuerplänen - Wann spart IHR endlich?",
-      "excerpt": "Klingbeil plant Streichung von Steuerrabatten für Mitarbeiterkäufe im eigenen Betrieb.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zu-klingbeils-neuen-steuerplaenen-wann-spart-ihr-endlich-6a7f227cf14aa44f2fd5e243",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Günstiger tanken dank Steuersenkung - Polen macht Liter Sprit bis zu 23 Cent billiger!",
-      "excerpt": "Polen senkt die Spritsteuer stark, Tusk verspricht deutlich billigere Tankpreise.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/polen-macht-liter-sprit-bis-zu-23-cent-billiger-guenstiger-tanken-dank-steuersenkung-6a7ee879a87e8142c31cff18",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gut für Deutschland - KI-Boom macht Taiwan plötzlich reich",
-      "excerpt": "Taiwan erlebt dank KI-Chips ein Rekordwachstum, von dem auch Deutschland profitiert.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/taiwan-boom-von-kuenstlicher-intelligenz-treibt-wirtschaft-auf-ueber-elf-prozent-wachstum-6a7f1774169e8e32c0ae82cd",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Keine Klimaanlagen - Politik versäumt Hitzeschutz für Alte und Kranke",
-      "excerpt": "Tausende sterben an Hitze, doch Kliniken bleiben meist ohne Klimaschutz.",
-      "url": "https://www.bild.de/politik/inland/keine-klimaanlagen-politik-versaeumt-hitzeschutz-fuer-alte-und-kranke-6a7ee05aa87e8142c31cfde6",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Regierungskrach geht weiter - SPD-Expertin will lange Frist für Ende von Rente mit 63",
-      "excerpt": "SPD-Rentenfachfrau fordert fünf Jahre Übergangsfrist für die Frührente-Reform.",
-      "url": "https://www.bild.de/politik/inland/regierungskrach-geht-weiter-spd-expertin-will-lange-frist-fuer-ende-von-rente-mit-63-6a7f17b6169e8e32c0ae82d8",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
-      "excerpt": "Hamas kündigt Teilnahme an Palästinenser-Wahl an, trotz Ablehnung der Bedingungen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
-      "publishedAt": "2026-08-15T04:47:17.407Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Nach Lügen- und Plagiatsvorwürfen - Umstrittener Ex-Professor Arday tot aufgefunden",
       "excerpt": "Jason Arday stirbt kurz nach Rücktritt, Polizei schließt ein Verbrechen aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/jason-arday-gestuerzter-ehemaliger-cambridge-professor-tot-aufgefunden-6a7f66fba87e8142c31d07b5",
-      "publishedAt": "2026-08-15T04:47:17.406Z",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +14,7 @@
       "title": "Hessisches Familienunternehmen soll Anteile übernehmen - Woher hat Viessmann das Geld für den Bayern-Deal?",
       "excerpt": "Geldregen für den Rekordmeister? Ein Familienunternehmen aus Hessen will offenbar tief in die Tasche greifen: Die Viessmann Generati...",
       "url": "https://www.bild.de/politik/viessmann-bei-bayern-wer-hinter-dem-250-millionen-deal-steckt-6a7edb362ea28efdb279129e",
-      "publishedAt": "2026-08-15T04:47:17.406Z",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +22,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-15T04:47:17.406Z",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +30,7 @@
       "title": "„Sie gehört uns“ - Trump: Straße von Hormus bald US-Territorium",
       "excerpt": "Trump erklärt die Straße von Hormus zur US-Zone und droht dem Iran weiter.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-strasse-von-hormus-gehoert-bald-zu-den-usa-nicht-zum-iran-6a7f7674169e8e32c0ae89de",
-      "publishedAt": "2026-08-15T04:47:17.406Z",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +38,111 @@
       "title": "Experten klären auf - So gefährlich wird Putins Flotten-Drohung für deutsche Schiffe",
       "excerpt": "Putin droht mit Angriffen auf Handelsschiffe, Reeder fürchten teure Risiken.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/putin-droht-europa-mit-vergeltung-sind-handelsschiffe-in-gefahr-6a7c58dec99104ecb401a6bf",
-      "publishedAt": "2026-08-15T04:47:17.406Z",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump-Sprecherin geht - Diese Sprüche machten sie berühmt",
+      "excerpt": "US-Regierungssprecherin Karoline Leavitt tritt Ende August für Familie zurück.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-vertraute-karoline-leavitt-geht-diese-sprueche-machten-sie-beruehmt-6a7db488a87e8142c31ceed4",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Berlin-Wahl - Neue Umfrage wirbelt alles durcheinander",
+      "excerpt": "CDU zieht in neuer Berlin-Umfrage knapp vorbei, Linksbündnis bleibt mehrheitsfähig.",
+      "url": "https://www.bild.de/politik/inland/wahl-in-berlin-neue-umfrage-wirbelt-alles-durcheinander-6a7ed8f0a87e8142c31cfd1f",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Truppenabzug Afghanistan 2021 - Bilder, die die Welt nie vergisst",
+      "excerpt": "NATO-Desaster 2021 in Afghanistan: Truppenabzug sorgt für Flüchtlingsdrama",
+      "url": "https://www.bild.de/politik/truppenabzug-afghanistan-2021-bilder-die-die-welt-nie-vergisst-6a635ec0166bc12eb54f4cfe",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mit Baseballschläger attackiert? - AfD-Politiker verletzt Plakat-Abreißer (14)",
+      "excerpt": "AfD-Mann soll 14-Jährige mit Baseballschläger angegriffen haben, die Polizei ermittelt.",
+      "url": "https://www.bild.de/politik/inland/mit-baseballschlaeger-afd-politiker-geht-auf-plakat-abreisser-los-6a7f556b9a14467298b8e282",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "UN: „Weltweit schwerste Frauenrechtskrise“ - Taliban feiern fünf Jahre Macht",
+      "excerpt": "Fünf Jahre Taliban-Herrschaft bedeuten für Afghaninnen Verbote und verlorene Chancen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/taliban-feiern-fuenf-jahre-macht-un-verurteilt-entrechtung-von-frauen-6a7f2fc82ea28efdb2791b18",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sven Hüber war DDR-Politoffizier - Wie der Aufwiegel-Polizist Karriere in Deutschland machen konnte",
+      "excerpt": "Der frühere DDR-Politoffizier Sven Hüber stieg zum führenden Polizeigewerkschafter auf.",
+      "url": "https://www.bild.de/politik/inland/sven-hueber-wie-ein-ddr-politoffizier-polizeigewerkschafter-wurde-6a7edbe5a87e8142c31cfd78",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisanter „Handelsblatt“-Bericht - Stimmte die Union Steuererhöhungen zu?",
+      "excerpt": "Interne Mails zeigen: Die Union billigte umstrittene Steuererhöhungen der SPD.",
+      "url": "https://www.bild.de/politik/inland/steuererhoehungen-union-stimmte-offenbar-zweimal-zu-6a7f212d169e8e32c0ae8415",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar zu neuen Steuerplänen - Wann spart IHR endlich?",
+      "excerpt": "Klingbeil plant Streichung von Steuerrabatten für Mitarbeiterkäufe im eigenen Betrieb.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zu-klingbeils-neuen-steuerplaenen-wann-spart-ihr-endlich-6a7f227cf14aa44f2fd5e243",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Günstiger tanken dank Steuersenkung - Polen macht Liter Sprit bis zu 23 Cent billiger!",
+      "excerpt": "Polen senkt die Spritsteuer stark, Tusk verspricht deutlich billigere Tankpreise.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/polen-macht-liter-sprit-bis-zu-23-cent-billiger-guenstiger-tanken-dank-steuersenkung-6a7ee879a87e8142c31cff18",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gut für Deutschland - KI-Boom macht Taiwan plötzlich reich",
+      "excerpt": "Taiwan erlebt dank KI-Chips ein Rekordwachstum, von dem auch Deutschland profitiert.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/taiwan-boom-von-kuenstlicher-intelligenz-treibt-wirtschaft-auf-ueber-elf-prozent-wachstum-6a7f1774169e8e32c0ae82cd",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Keine Klimaanlagen - Politik versäumt Hitzeschutz für Alte und Kranke",
+      "excerpt": "Tausende sterben an Hitze, doch Kliniken bleiben meist ohne Klimaschutz.",
+      "url": "https://www.bild.de/politik/inland/keine-klimaanlagen-politik-versaeumt-hitzeschutz-fuer-alte-und-kranke-6a7ee05aa87e8142c31cfde6",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Regierungskrach geht weiter - SPD-Expertin will lange Frist für Ende von Rente mit 63",
+      "excerpt": "SPD-Rentenfachfrau fordert fünf Jahre Übergangsfrist für die Frührente-Reform.",
+      "url": "https://www.bild.de/politik/inland/regierungskrach-geht-weiter-spd-expertin-will-lange-frist-fuer-ende-von-rente-mit-63-6a7f17b6169e8e32c0ae82d8",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Terroristen kandidieren - Hamas will bei Palästinenser-Wahl antreten",
+      "excerpt": "Hamas kündigt Teilnahme an Palästinenser-Wahl an, trotz Ablehnung der Bedingungen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/terror-kandidatur-hamas-will-bei-palaestinenser-wahl-antreten-6a7ee57d169e8e32c0ae7da3",
+      "publishedAt": "2026-08-15T05:41:49.002Z",
       "category": "POLITIK"
     },
     {
