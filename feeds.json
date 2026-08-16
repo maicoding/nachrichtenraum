@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-08-16T06:02:07.644Z",
+  "updatedAt": "2026-08-16T06:59:30.725Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Ulrich Siegmund (35, AfD) - Wer hat Angst vor diesem Mann?",
+      "excerpt": "Er könnte der erste AfD-Regierungschef werden.",
+      "url": "https://www.bild.de/politik/inland/ulrich-siegmund-35-afd-wer-hat-angst-vor-diesem-mann-6a8092c2169e8e32c0ae96c3",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von BILD-Chef Robert Schneider - Warum ich keine Angst vor den Wahlen habe",
+      "excerpt": "Die Demokratie hält Wahlergebnisse aus, denn jedes Votum ist später korrigierbar.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/bild-chefredakteur-robert-schneider-warum-ich-keine-angst-vor-den-wahlen-habe-6a8076c628e0c1c407f03fc1",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Spanische Exklave - Schon wieder! Illegale Migranten stürmen auf Ceuta",
       "excerpt": "Marokko stoppt 300 Migranten vor Ceuta, doch in der Enklave bleibt Chaos.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wieder-ansturm-auf-ceuta-illegale-migranten-stuermen-auf-grenze-6a814796a87e8142c31d1786",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "XXL-Logistikzentrum - 200.000 Quadratmeter! Russen-Amazon vor Moskau in Flammen",
+      "excerpt": "Drohnen treffen Wildberries-Lager bei Moskau, Milliardenverluste und höhere Preise.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wildberries-lager-bei-moskau-brennt-nach-ukrainischem-drohnenangriff-6a8145e1a87e8142c31d1771",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Comeback von Manuela Schwesig - Der letzte Trumpf der SPD?",
+      "excerpt": "Schwesig kämpft in Schwerin um Macht, während sie als SPD-Spitze gehandelt wird.",
+      "url": "https://www.bild.de/politik/inland/comeback-von-manuela-schwesig-das-letzte-laecheln-der-spd-6a75884ec07f6c2f080353ba",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +46,7 @@
       "title": "Live-Ticker zum Ukraine-Krieg - Nato-Jet schießt Drohne über Rumänien ab",
       "excerpt": "Russland attackiert die Ukraine weiter mit Raketen und Drohnen in der Nacht.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -22,15 +54,7 @@
       "title": "Kommentar von BILD Chefredakteurin - Die Politik und die Gerechtigkeit",
       "excerpt": "Warum Politik mit \"Gerechtigkeit\" wirbt, obwohl oft nur \"anständig\" möglich ist.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/gerechtigkeit-als-floskel-warum-die-politik-umdenken-muss-6a806d5bfff1ccc44dd68eb6",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Comeback von Manuela Schwesig - Das letzte Lächeln der SPD",
-      "excerpt": "Schwesig kämpft in Schwerin um Macht, während sie als SPD-Spitze gehandelt wird.",
-      "url": "https://www.bild.de/politik/inland/comeback-von-manuela-schwesig-das-letzte-laecheln-der-spd-6a75884ec07f6c2f080353ba",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +62,7 @@
       "title": "Sonntagsfrage - Union so schwach wie seit 5 Jahren nicht",
       "excerpt": "Wenn am Sonntag Bundestagswahl wäre, wen würden Sie wählen?",
       "url": "https://www.bild.de/politik/sonntagsfrage-union-so-schwach-wie-seit-5-jahren-nicht-6a802d7728e0c1c407f03b63",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +70,7 @@
       "title": "Bei der nächsten Bundestagswahl - AfD winkt Geldregen!",
       "excerpt": "In den Parteizentralen von CDU, CSU und SPD beginnt wegen der Umfragen das große Rechnen.",
       "url": "https://www.bild.de/politik/inland/mit-den-waehlern-kommt-die-kohle-afd-winkt-millionen-geldregen-6a806eb3fff1ccc44dd68ec1",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +78,7 @@
       "title": "„Feine Sahne Fischfilet“-Sänger Monchi - Wenn alle Nazis sind, dann ist nachher keiner mehr Nazi",
       "excerpt": "Sänger Monchi berichtet, warum die AfD in seiner Heimat so stark geworden ist.",
       "url": "https://www.bild.de/politik/inland/jan-gorkow-im-podcast-wenn-alle-nazis-sind-dann-ist-nachher-keiner-mehr-nazi-6a806a5aa87e8142c31d1154",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +86,7 @@
       "title": "BILD auf Nachtwache - Vorsicht, Saboteure! So läuft der Schutz vor Putin",
       "excerpt": "Nachts in Deutschland: drei Personen in Schutzanzügen und mit Sturmhauben …",
       "url": "https://www.bild.de/politik/ausland-und-internationales/bild-im-ueberwachungszentrum-so-schuetzen-wir-unsere-infrastruktur-6a7ecb4ff14aa44f2fd5d9bb",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +94,7 @@
       "title": "Gedenken mit UN-Chef - Baerbock ehrte getöteten Hamas-Terroristen",
       "excerpt": "Gedenkfeier der UNO ehrte auch einen Hamas-Kämpfer als gefallenen UN-Mitarbeiter.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/baerbock-ehrte-getoeteten-hamas-kaempfer-6a8062f0fff1ccc44dd68e0d",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +102,7 @@
       "title": "BILD im Büro der neuen Amtschefin - Frau Warken zieht beim Kanzler ein",
       "excerpt": "Es ist nur ein Schreibtisch, aber einer der wichtigsten in der Republik.",
       "url": "https://www.bild.de/politik/inland/bild-im-buero-der-neuen-amtschefin-frau-warken-zieht-beim-kanzler-ein-6a8052ea28e0c1c407f03d7a",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +110,7 @@
       "title": "Analyse von Siegmund-Podcast - „Wir werden regieren, so oder so!“",
       "excerpt": "AfD-Mann Siegmund inszeniert sich im Podcast bereits als künftiger Regierungschef. BILD analysiert seinen Auftritt bei „Ungeskriptet“.",
       "url": "https://www.bild.de/politik/inland/wir-werden-regieren-so-oder-so-afd-siegmunds-werbung-fuer-die-macht-6a803f1ea87e8142c31d0eb3",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +118,7 @@
       "title": "Verdächtige Chatnachricht! - Hat sich Schwesig ins TV-Programm eingemischt?",
       "excerpt": "CDU und Linke ausgeladen – Meck-Pomm-Chefin bekommt Duell gegen AfD allein.",
       "url": "https://www.bild.de/politik/inland/chatnachricht-deutet-dies-an-hat-sich-schwesig-ins-tv-programm-eingemischt-6a806445a87e8142c31d10fa",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Debatte über Wahlplakat - „Der Garant“: Linke klaut CDU-Slogan",
       "excerpt": "Unternehmer wirbt mit „Der Gigant“ für Linken-Politikerin und sendet Signal an die CDU.",
       "url": "https://www.bild.de/politik/inland/der-gigant-unternehmer-werben-fuer-spitzenkandidatin-der-linken-6a7d8e3ea87e8142c31ceb13",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "Neue Enthüllungen! - Beeinflusste Bidens Top-Virologe unsere Corona-Politik?",
       "excerpt": "Faucis interne Impfzweifel und Lauterbachs Kurs bei Schwangeren sorgen für Streit.",
       "url": "https://www.bild.de/politik/inland/aufarbeitung-der-corona-zeit-fauci-lauterbach-und-die-impf-frage-6a7f1099169e8e32c0ae822c",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
@@ -118,32 +142,152 @@
       "title": "Experten klären auf - So gefährlich wird Putins Flotten-Drohung für deutsche Schiffe",
       "excerpt": "Putin droht mit Angriffen auf Handelsschiffe, Reeder fürchten teure Risiken.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/putin-droht-europa-mit-vergeltung-sind-handelsschiffe-in-gefahr-6a7c58dec99104ecb401a6bf",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
+      "publishedAt": "2026-08-16T06:59:30.030Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Trotz Plagiatsaffäre und Rücktrittsrufen - Voigt auf Schaukelpferd! Sein Leben ist ein Ponyhof",
-      "excerpt": "Nach Aberkennung des Doktortitels wächst der Druck auf Thüringens Regierungschef Voigt.",
-      "url": "https://www.bild.de/politik/inland/mario-voigt-auf-schaukelpferd-sein-leben-ist-ein-ponyhof-6a801924169e8e32c0ae8e7b",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Brand im Hohen Venn - Lage bei Monschau spitzt sich zu - Flammen nur noch drei Kilometer von deutscher Grenze entfernt",
+      "excerpt": "Wegen des Waldbrandes im belgischen Naturschutzgebiet Hohes Venn spitzt sich die Lage für die grenznahe Stadt Monschau in Nordrhein-Westfalen weiter zu. Die Flammen seine nur noch drei Kilometer von der deutschen Grenze ",
+      "url": "https://www.deutschlandfunk.de/lage-bei-monschau-spitzt-sich-zu-flammen-nur-noch-drei-kilometer-von-deutscher-grenze-entfernt-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Mega-Prozess um Jugendschutz - Bringt diese Frau Zuckerbergs Imperium zu Fall?",
-      "excerpt": "Whistleblowerin Haugen belastet Meta im Prozess um Jugendschutz und Sucht-Vorwürfe.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/meta-prozess-frances-haugen-enttarnte-risiken-fuer-jugendliche-6a7f3382169e8e32c0ae8612",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Nach Assad-Sturz - Immer mehr Syrer in Deutschland verlieren Schutzstatus",
+      "excerpt": "In Deutschland wird immer mehr Syrern der Status als Flüchtling aberkannt.",
+      "url": "https://www.deutschlandfunk.de/immer-mehr-syrer-in-deutschland-verlieren-schutzstatus-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Einsatz „nicht annähernd lange genug“ - Trump spielt Notlage auf US-Schiff herunter",
-      "excerpt": "Trump spielt Probleme auf Flugzeugträger herunter, trotz Berichten über Notlage.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-ignoriert-hilferufe-von-flugzeugtraeger-uss-abraham-lincoln-6a7feb8f169e8e32c0ae8c4c",
-      "publishedAt": "2026-08-16T06:02:07.384Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Kiew - Russland greift ukrainische Hauptstadt erneut mit ballistischen Raketen an",
+      "excerpt": "Russland hat erneut die ukrainische Hauptstadt Kiew aus der Luft angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russland-greift-ukrainische-hauptstadt-erneut-mit-ballistischen-raketen-an-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Debatte über Immobilienkonzerne - Ökonomin Grimm warnt vor Berlin-Wahl vor \"Enteignungsfantasien\"",
+      "excerpt": "Angesichts von Forderungen nach der Enteignung von Immobilienkonzernen hat die Wirtschaftsweise Grimm vor negativen Folgen gewarnt.",
+      "url": "https://www.deutschlandfunk.de/oekonomin-grimm-warnt-vor-berlin-wahl-vor-enteignungsfantasien-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Kanzleramtsministerin Warken will Geheimdienst-Reform schnell voranbringen",
+      "excerpt": "Die neue Kanzleramtsministerin Warken will das Gesetzgebungsverfahren für die geplante Reform des Verfassungsschutzes und des Bundesnachrichtendienstes bis Ende des Jahres abschließen.",
+      "url": "https://www.deutschlandfunk.de/kanzleramtsministerin-warken-will-geheimdienst-reform-schnell-voranbringen-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Erdbeben - Zahl der Toten in Kolumbien bei fast 300",
+      "excerpt": "Nach dem Erdbeben in Kolumbien ist die Zahl der Todesopfer inzwischen auf mehr als 290 gestiegen.",
+      "url": "https://www.deutschlandfunk.de/zahl-der-toten-in-kolumbien-bei-fast-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet",
+      "excerpt": "In der Straße von Hormus versucht der Iran nach eigenen Angaben, die Ölverschmutzung nahe der Insel Keshm einzudämmen.",
+      "url": "https://www.deutschlandfunk.de/iran-kaempft-gegen-oelverschmutzung-im-kuestengebiet-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
+      "excerpt": "Der Tropensturm \"Lala\" hat sich vor Hawaii zu einem Hurrikan verstärkt.",
+      "url": "https://www.deutschlandfunk.de/hurrikan-lala-bringt-starkregen-und-stromausfaelle-nach-hawaii-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nordafrika-Exklave - Marokko nimmt mehr als 100 Migranten vor Ceuta fest",
+      "excerpt": "Marokkanische ​Sicherheitskräfte haben mehr als 100 Migranten bei dem Versuch festgenommen, in die spanische Exklave Ceuta ‌zu gelangen. ⁠Zuvor hatte es in ⁠den sozialen Medien Aufrufe zu einem erneuten massenhaften Gren",
+      "url": "https://www.deutschlandfunk.de/marokko-nimmt-mehr-als-100-migranten-vor-ceuta-fest-106.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Haiti - Bundeswehr unterstützt UNO-Einsatz mit Lufttransport",
+      "excerpt": "Die Bundeswehr will den UNO-Einsatz in Haiti unterstützen.",
+      "url": "https://www.deutschlandfunk.de/bundeswehr-unterstuetzt-uno-einsatz-mit-lufttransport-100.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "CSD-Paraden - Steinmeier fordert Solidariät und Sicherheit für queere Menschen",
+      "excerpt": "Bundespräsident Steinmeier hat dazu aufgerufen, für die Selbstbestimmung und Sicherheit queerer Menschen einzutreten.",
+      "url": "https://www.deutschlandfunk.de/steinmeier-fordert-solidariaet-und-sicherheit-fuer-queere-menschen-104.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Verfassungsrat billigt Neuregelung der Sterbehilfe - mit Vorbehalten",
+      "excerpt": "Ein Gesetzentwurf zum Recht auf Sterbehilfe hat in Frankreich die letzte Hürde passiert.",
+      "url": "https://www.deutschlandfunk.de/verfassungsrat-billigt-neuregelung-der-sterbehilfe-mit-vorbehalten-110.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Indonesien - Zweites Erdbeben in Indonesien innerhalb weniger Stunden",
+      "excerpt": "Indonesien ist zum zweiten Mal innerhalb weniger Stunden von einem starken Erdbeben erschüttert worden.",
+      "url": "https://www.deutschlandfunk.de/zweites-erdbeben-in-indonesien-innerhalb-weniger-stunden-112.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Australien - Nach Anschlag am Bondi Beach: Programm für Schusswaffen-Rückkauf eingeleitet",
+      "excerpt": "Acht Monate nach dem antisemitischen Schusswaffenangriff am Bondi Beach in Australien ist in dem Land ein erstes Rückkaufprogramm für Schusswaffen eingeleitet worden.",
+      "url": "https://www.deutschlandfunk.de/nach-anschlag-am-bondi-beach-programm-fuer-schusswaffen-rueckkauf-eingeleitet-102.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Polen - \"Tag der Armee\" mit großer Militärparade begangen",
+      "excerpt": "Polen hat den \"Tag der Armee\" mit einer großen Militärparade begangen.",
+      "url": "https://www.deutschlandfunk.de/tag-der-armee-mit-grosser-militaerparade-begangen-102.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Liechtenstein - Fürstentum führt weibliche Thronfolge ein",
+      "excerpt": "Das Fürstentum Liechtenstein kann künftig auch von Frauen regiert werden.",
+      "url": "https://www.deutschlandfunk.de/fuerstentum-fuehrt-weibliche-thronfolge-ein-104.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Techno-Parade \"Rave the Planet\" zu Ende gegangen",
+      "excerpt": "In Berlin hat die Techno-Parade \"Rave the Planet\" stattgefunden.",
+      "url": "https://www.deutschlandfunk.de/techno-parade-rave-the-planet-zu-ende-gegangen-108.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Filmfestival - Goldener Leopard für Film aus Rumänien",
+      "excerpt": "In Locarno ist der rumänische Film \"Du gehörst nicht hierher\" von Florin Șerban mit dem Goldenen Leoparden ausgezeichnet worden.",
+      "url": "https://www.deutschlandfunk.de/goldener-leopard-fuer-film-aus-rumaenien-108.html",
+      "publishedAt": "2026-08-16T06:32:32.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -152,150 +296,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
       "publishedAt": "2026-08-16T05:46:13.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Brand im Hohen Venn - Lage bei Monschau spitzt sich zu - Flammen nur noch drei Kilometer von deutscher Grenze entfernt",
-      "excerpt": "Wegen des Waldbrandes im belgischen Naturschutzgebiet Hohes Venn spitzt sich die Lage für die grenznahe Stadt Monschau in Nordrhein-Westfalen weiter zu. Die Flammen seine nur noch drei Kilometer von der deutschen Grenze ",
-      "url": "https://www.deutschlandfunk.de/lage-bei-monschau-spitzt-sich-zu-flammen-nur-noch-drei-kilometer-von-deutscher-grenze-entfernt-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Assad-Sturz - Immer mehr Syrer in Deutschland verlieren Schutzstatus",
-      "excerpt": "In Deutschland wird immer mehr Syrern der Status als Flüchtling aberkannt.",
-      "url": "https://www.deutschlandfunk.de/immer-mehr-syrer-in-deutschland-verlieren-schutzstatus-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kiew - Russland greift ukrainische Hauptstadt erneut mit ballistischen Raketen an",
-      "excerpt": "Russland hat erneut die ukrainische Hauptstadt Kiew aus der Luft angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russland-greift-ukrainische-hauptstadt-erneut-mit-ballistischen-raketen-an-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Debatte über Immobilienkonzerne - Ökonomin Grimm warnt vor Berlin-Wahl vor \"Enteignungsfantasien\"",
-      "excerpt": "Angesichts von Forderungen nach der Enteignung von Immobilienkonzernen hat die Wirtschaftsweise Grimm vor negativen Folgen gewarnt.",
-      "url": "https://www.deutschlandfunk.de/oekonomin-grimm-warnt-vor-berlin-wahl-vor-enteignungsfantasien-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berlin - Kanzleramtsministerin Warken will Geheimdienst-Reform schnell voranbringen",
-      "excerpt": "Die neue Kanzleramtsministerin Warken will das Gesetzgebungsverfahren für die geplante Reform des Verfassungsschutzes und des Bundesnachrichtendienstes bis Ende des Jahres abschließen.",
-      "url": "https://www.deutschlandfunk.de/kanzleramtsministerin-warken-will-geheimdienst-reform-schnell-voranbringen-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Erdbeben - Zahl der Toten in Kolumbien bei fast 300",
-      "excerpt": "Nach dem Erdbeben in Kolumbien ist die Zahl der Todesopfer inzwischen auf mehr als 290 gestiegen.",
-      "url": "https://www.deutschlandfunk.de/zahl-der-toten-in-kolumbien-bei-fast-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet",
-      "excerpt": "Nach Monaten der Gefechte in der Straße von Hormus versucht der Iran nach eigenen Angaben die Ölverschmutzung nahe der Insel Keshm einzudämmen.",
-      "url": "https://www.deutschlandfunk.de/iran-kaempft-gegen-oelverschmutzung-im-kuestengebiet-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
-      "excerpt": "Der Tropensturm \"Lala\" hat sich unmittelbar vor Hawaii zu einem Hurrikan verstärkt.",
-      "url": "https://www.deutschlandfunk.de/hurrikan-lala-bringt-starkregen-und-stromausfaelle-nach-hawaii-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nordafrika-Exklave - Marokko nimmt mehr als 100 Migranten vor Ceuta fest",
-      "excerpt": "Marokkanische ​Sicherheitskräfte haben mehr als 100 Migranten bei dem Versuch festgenommen, in die spanische Exklave Ceuta ‌zu gelangen. ⁠Zuvor hatte es in ⁠den sozialen Medien Aufrufe zu einem erneuten massenhaften Gren",
-      "url": "https://www.deutschlandfunk.de/marokko-nimmt-mehr-als-100-migranten-vor-ceuta-fest-106.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Haiti - Bundeswehr unterstützt UNO-Einsatz mit Lufttransport",
-      "excerpt": "Die Bundeswehr will den UNO-Einsatz in Haiti unterstützen.",
-      "url": "https://www.deutschlandfunk.de/bundeswehr-unterstuetzt-uno-einsatz-mit-lufttransport-100.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "CSD-Paraden - Steinmeier fordert Solidariät und Sicherheit für queere Menschen",
-      "excerpt": "Bundespräsident Steinmeier hat dazu aufgerufen, für die Selbstbestimmung und Sicherheit queerer Menschen einzutreten.",
-      "url": "https://www.deutschlandfunk.de/steinmeier-fordert-solidariaet-und-sicherheit-fuer-queere-menschen-104.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Frankreich - Verfassungsrat billigt Neuregelung der Sterbehilfe - mit Vorbehalten",
-      "excerpt": "Ein Gesetzentwurf zum Recht auf Sterbehilfe hat in Frankreich die letzte Hürde passiert.",
-      "url": "https://www.deutschlandfunk.de/verfassungsrat-billigt-neuregelung-der-sterbehilfe-mit-vorbehalten-110.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Ein Todesopfer bei russischem Angriff in der Region Dnipropetrowsk",
-      "excerpt": "Bei russischen Angriffen in der Südostukraine hat es nach Angaben der örtlichen Behörden ein Todesopfer und elf Verletzte gegeben.",
-      "url": "https://www.deutschlandfunk.de/ein-todesopfer-bei-russischem-angriff-in-der-region-dnipropetrowsk-106.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Indonesien - Zweites Erdbeben in Indonesien innerhalb weniger Stunden",
-      "excerpt": "Indonesien ist zum zweiten Mal innerhalb weniger Stunden von einem starken Erdbeben erschüttert worden.",
-      "url": "https://www.deutschlandfunk.de/zweites-erdbeben-in-indonesien-innerhalb-weniger-stunden-112.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Australien - Nach Anschlag am Bondi Beach: Programm für Schusswaffen-Rückkauf eingeleitet",
-      "excerpt": "Acht Monate nach dem antisemitischen Schusswaffenangriff am Bondi Beach in Australien ist in dem Land ein erstes Rückkaufprogramm für Schusswaffen eingeleitet worden.",
-      "url": "https://www.deutschlandfunk.de/nach-anschlag-am-bondi-beach-programm-fuer-schusswaffen-rueckkauf-eingeleitet-102.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Polen - \"Tag der Armee\" mit großer Militärparade begangen",
-      "excerpt": "Polen hat den \"Tag der Armee\" mit einer großen Militärparade begangen.",
-      "url": "https://www.deutschlandfunk.de/tag-der-armee-mit-grosser-militaerparade-begangen-102.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Liechtenstein - Fürstentum führt weibliche Thronfolge ein",
-      "excerpt": "Das Fürstentum Liechtenstein kann künftig auch von Frauen regiert werden.",
-      "url": "https://www.deutschlandfunk.de/fuerstentum-fuehrt-weibliche-thronfolge-ein-104.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berlin - Techno-Parade \"Rave the Planet\" zu Ende gegangen",
-      "excerpt": "In Berlin hat die Techno-Parade \"Rave the Planet\" stattgefunden.",
-      "url": "https://www.deutschlandfunk.de/techno-parade-rave-the-planet-zu-ende-gegangen-108.html",
-      "publishedAt": "2026-08-16T05:26:10.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "SPIEGEL.DE",
