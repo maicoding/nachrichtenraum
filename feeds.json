@@ -1,100 +1,12 @@
 {
-  "updatedAt": "2026-08-17T17:11:36.207Z",
+  "updatedAt": "2026-08-17T17:45:04.412Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "„Wir sind praktisch arbeitsunfähig“ - Alles down! Hackerangriff auf Berlin-Verwaltung",
-      "excerpt": "Hacker haben Teile der Berliner Senatsverwaltung angegriffen.",
-      "url": "https://www.bild.de/politik/inland/hackerangriff-auf-berliner-senatsverwaltung-behoerden-praktisch-arbeitsunfaehig-6a8329b7bbfd6aa29d3f8848",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
-      "excerpt": "Video",
-      "url": "https://www.bild.de/politik/aufnahmen-von-1949-zeigen-krasse-duerre-schon-damals-kein-wasser-im-rhein-6a82d9a9a87e8142c31d29f0",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - Wirbel auf dem Mars",
-      "excerpt": "Experten erklären rätselhaftes Mars-Foto, ein krankes, mutiges Kind und Niedrigwasser am Rhein.",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-wirbel-auf-dem-mars-6a8329979c4b6838990482b8",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Dramatische Experten-Warnung - Deutschland steht am Steuer-Kipppunkt!",
-      "excerpt": "Experten warnen: Höhere Steuern für Millionen Arbeitnehmer schaden Staat und Sozialkassen.",
-      "url": "https://www.bild.de/politik/inland/dramatische-experten-warnung-deutschland-steht-am-steuer-kipppunkt-6a82eb7c9fcb5798aae3942d",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kurz vor Landtagswahl - Belästigungs-Vorwürfe – Spitzen-Grüne tritt zurück",
-      "excerpt": "Sie betont: „Keine Bestätigung der gegen mich erhobenen Vorwürfe“.",
-      "url": "https://www.bild.de/politik/inland/vorwuerfe-der-belaestigung-spitzen-gruene-tritt-kurz-vor-landtagswahl-zurueck-6a8314eaa87e8142c31d2f86",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weil er Kriegs-Gegner ist - Elf Jahre Straflager für russischen Politiker",
-      "excerpt": "Oppositioneller Schlosberg muss lange ins Straflager, seine Partei droht zu scheitern.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/lew-schlosberg-11-jahre-und-ein-monat-im-straflager-fuer-gegner-von-putin-6a830f1ea87e8142c31d2ede",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Für unseren Wohlstand – weg mit den Tabus!",
-      "excerpt": "Studie warnt: Ohne Reformen droht Deutschland ein schleichender Absturz beim Wohlstand.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/deutschland-vor-dem-abstieg-iw-fordert-mut-zu-reformen-6a832ac3bbfd6aa29d3f885e",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mädchen mit Lunge auf Rädern - „Ihr Wille ist größer als ihr Koffer“",
-      "excerpt": "Die vierjährige Zoe lebt fröhlich mit ihrer künstlichen Lunge im Koffer und macht Hoffnung.",
-      "url": "https://www.bild.de/politik/maedchen-mit-lunge-auf-raedern-ihr-wille-ist-groesser-als-ihr-koffer-6a830edf9c4b683899048067",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sonntagsfrage - Union so schwach wie seit 5 Jahren nicht",
-      "excerpt": "Wenn am Sonntag Bundestagswahl wäre, wen würden Sie wählen?",
-      "url": "https://www.bild.de/politik/sonntagsfrage-union-so-schwach-wie-seit-5-jahren-nicht-6a802d7728e0c1c407f03b63",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Anti-Kriegs-Politiker zu Straflager verurteilt",
-      "excerpt": "Russland attackiert die Ukraine weiter mit Raketen und Drohnen in der Nacht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wirbel auf dem Mars - „Triggert Science-Fiction-Fans“",
-      "excerpt": "NASA-Fotos vom Mars zeigen rätselhafte Form – Experte ordnet die Funde ein.",
-      "url": "https://www.bild.de/politik/wirbel-auf-dem-mars-triggert-science-fiction-fans-6a82fcd99fcb5798aae395da",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Steuer runter, Preis runter - SO günstig tankt man jetzt in Polen",
       "excerpt": "Warschau - Polen macht's vor: Seit diesem Montag tanken Autofahrer dort deutlich günstiger. Die Regierung hat die Mehrwertsteuer auf...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/steuer-runter-preis-runter-polens-tankrabatt-laesst-deutsche-autofahrer-traeumen-6a830704a87e8142c31d2df5",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "publishedAt": "2026-08-17T17:45:04.303Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +14,7 @@
       "title": "186.700 Soldaten schützen uns - Truppenzuwachs bei der Bundeswehr!",
       "excerpt": "Bundeswehr wächst deutlich: mehr Soldaten, Bewerber und Neueinstellungen als 2016.",
       "url": "https://www.bild.de/politik/inland/armee-waechst-so-stark-wie-seit-jahren-nicht-mehr-rekord-bei-der-bundeswehr-6a82dbd1a87e8142c31d2a2d",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "publishedAt": "2026-08-17T17:45:04.303Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +22,7 @@
       "title": "Bilder zeigen Aufrüstung - Putins geheime Drohnen-Stützpunkte bedrohen Nato",
       "excerpt": "Russland baut neue Drohnenbasen an der Grenze und gefährdet so Nato-Staaten.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/russland-putins-geheime-stuetzpunkte-fuer-drohnen-bedrohen-die-nato-6a82a6d0ae5982a49ab415ec",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "publishedAt": "2026-08-17T17:45:04.303Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +30,7 @@
       "title": "Pleite für Wagenknecht - Thüringer BSW stimmt gegen Regierungs-Aus",
       "excerpt": "BSW in Thüringen hält vorerst zu Voigt, doch die Basis erzwingt einen Sonderparteitag.",
       "url": "https://www.bild.de/politik/inland/thueringen-bsw-haelt-an-voigt-fest-wagenknecht-macht-weiter-druck-6a82be289fcb5798aae38fb7",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "publishedAt": "2026-08-17T17:45:04.303Z",
       "category": "POLITIK"
     },
     {
@@ -126,71 +38,119 @@
       "title": "„Sie sind nicht einmal Menschen“ - Ultrarechter Israel-Minister fordert gezielte Tötungen in Gaza",
       "excerpt": "Israels Sicherheitsminister Ben-Gvir verlangt nächtliche Massenhinrichtungen in Gaza.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sie-sind-nicht-einmal-menschen-ultrarechter-israel-minister-fordert-gezielte-toetungen-in-gaza-6a82d494a87e8142c31d296a",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "publishedAt": "2026-08-17T17:45:04.303Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "RONZHEIMER - Wenn die AFD die Mehrheit hat. Mit Jan „Monchi“ Gorkow (1/2)",
-      "excerpt": "Paul Ronzheimer spricht mit Jan Gorkow alias Monchi, Sänger der Punkband Feine Sahne Fischfilet, über sein Leben in der ostdeutschen...",
-      "url": "https://www.bild.de/politik/ronzheimer-wenn-die-afd-die-mehrheit-hat-mit-jan-monchi-gorkow-1-2-6a7f889ba87e8142c31d091b",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "title": "Eklat vor Niedersachsen-Wahl - AfD-Kandidat scheitert mit Klage gegen Ausschluss",
+      "excerpt": "Eilantrag abgelehnt! Gericht bestätigt Ausschluss von Martin Sichert von der Landratswahl.",
+      "url": "https://www.bild.de/politik/inland/eklat-vor-niedersachsen-wahl-afd-kandidat-scheitert-mit-klage-gegen-ausschluss-6a833d6b6ea5074f5dd87f7c",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "RONZHEIMER - Wie konnte es mit Deutschland so weit kommen? Mit Jan „Monchi“ Gorkow (2/2)",
-      "excerpt": "Im zweiten Teil des Gesprächs spricht Paul Ronzheimer mit Jan Gorkow alias Monchi, Sänger von Feine Sahne Fischfilet, über den weite...",
-      "url": "https://www.bild.de/politik/ronzheimer-wie-konnte-es-mit-deutschland-so-weit-kommen-mit-jan-monchi-gorkow-2-2-6a810a4e169e8e32c0ae9abc",
-      "publishedAt": "2026-08-17T17:11:36.202Z",
+      "title": "Ein Thema entscheidend - Studie entlarvt Mythos vom abgehängten AfD-Wähler",
+      "excerpt": "Studie zeigt: Die These vom „Modernisierungsverlierer“ hat keinen Bestand.",
+      "url": "https://www.bild.de/politik/inland/xxl-studie-entlarvt-mythos-vom-abgehaengten-afd-waehler-6a82ca1d9c4b6838990478dc",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Wir sind praktisch arbeitsunfähig“ - Alles down! Hackerangriff auf Berlin-Verwaltung",
+      "excerpt": "Hacker haben Teile der Berliner Senatsverwaltung angegriffen.",
+      "url": "https://www.bild.de/politik/inland/hackerangriff-auf-berliner-senatsverwaltung-behoerden-praktisch-arbeitsunfaehig-6a8329b7bbfd6aa29d3f8848",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
+      "excerpt": "Video",
+      "url": "https://www.bild.de/politik/aufnahmen-von-1949-zeigen-krasse-duerre-schon-damals-kein-wasser-im-rhein-6a82d9a9a87e8142c31d29f0",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Politik-Vodcast - Vertraulich! - Wirbel auf dem Mars",
+      "excerpt": "Experten erklären rätselhaftes Mars-Foto, ein krankes, mutiges Kind und Niedrigwasser am Rhein.",
+      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-wirbel-auf-dem-mars-6a8329979c4b6838990482b8",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Dramatische Experten-Warnung - Deutschland steht am Steuer-Kipppunkt!",
+      "excerpt": "Experten warnen: Höhere Steuern für Millionen Arbeitnehmer schaden Staat und Sozialkassen.",
+      "url": "https://www.bild.de/politik/inland/dramatische-experten-warnung-deutschland-steht-am-steuer-kipppunkt-6a82eb7c9fcb5798aae3942d",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kurz vor Landtagswahl - Belästigungs-Vorwürfe – Spitzen-Grüne tritt zurück",
+      "excerpt": "Sie betont: „Keine Bestätigung der gegen mich erhobenen Vorwürfe“.",
+      "url": "https://www.bild.de/politik/inland/vorwuerfe-der-belaestigung-spitzen-gruene-tritt-kurz-vor-landtagswahl-zurueck-6a8314eaa87e8142c31d2f86",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weil er Kriegs-Gegner ist - Elf Jahre Straflager für russischen Politiker",
+      "excerpt": "Oppositioneller Schlosberg muss lange ins Straflager, seine Partei droht zu scheitern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/lew-schlosberg-11-jahre-und-ein-monat-im-straflager-fuer-gegner-von-putin-6a830f1ea87e8142c31d2ede",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Für unseren Wohlstand – weg mit den Tabus!",
+      "excerpt": "Studie warnt: Ohne Reformen droht Deutschland ein schleichender Absturz beim Wohlstand.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/deutschland-vor-dem-abstieg-iw-fordert-mut-zu-reformen-6a832ac3bbfd6aa29d3f885e",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mädchen mit Lunge auf Rädern - „Ihr Wille ist größer als ihr Koffer“",
+      "excerpt": "Die vierjährige Zoe lebt fröhlich mit ihrer künstlichen Lunge im Koffer und macht Hoffnung.",
+      "url": "https://www.bild.de/politik/maedchen-mit-lunge-auf-raedern-ihr-wille-ist-groesser-als-ihr-koffer-6a830edf9c4b683899048067",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sonntagsfrage - Union so schwach wie seit 5 Jahren nicht",
+      "excerpt": "Wenn am Sonntag Bundestagswahl wäre, wen würden Sie wählen?",
+      "url": "https://www.bild.de/politik/sonntagsfrage-union-so-schwach-wie-seit-5-jahren-nicht-6a802d7728e0c1c407f03b63",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Anti-Kriegs-Politiker zu Straflager verurteilt",
+      "excerpt": "Russland attackiert die Ukraine weiter mit Raketen und Drohnen in der Nacht.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wirbel auf dem Mars - „Triggert Science-Fiction-Fans“",
+      "excerpt": "NASA-Fotos vom Mars zeigen rätselhafte Form – Experte ordnet die Funde ein.",
+      "url": "https://www.bild.de/politik/wirbel-auf-dem-mars-triggert-science-fiction-fans-6a82fcd99fcb5798aae395da",
+      "publishedAt": "2026-08-17T17:45:04.302Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Iran-Krieg - \"In Grund und Boden bombardieren\": US-Präsident Trump droht dem Oman wegen Straße von Hormus",
-      "excerpt": "US-Präsident Trump hat dem Oman mit Angriffen gedroht, sollte das Land eine Freigabe der Straße von Hormus blockieren.",
-      "url": "https://www.deutschlandfunk.de/in-grund-und-boden-bombardieren-us-praesident-trump-droht-dem-oman-wegen-strasse-von-hormus-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gazastreifen - US-Sondergesandter Kushner trifft Israels Ministerpräsidenten Netanjahu zu Gesprächen über Friedensplan",
-      "excerpt": "Der US-Sondergesandte Kushner hat sich für Gespräche zum Friedensplan über den Gazastreifen mit dem israelischen Ministerpräsidenten Netanjahu getroffen.",
-      "url": "https://www.deutschlandfunk.de/us-sondergesandter-kushner-trifft-israels-ministerpraesidenten-netanjahu-zu-gespraechen-ueber-friede-104.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russland meldet Einnahme von zwei weiteren Ortschaften",
-      "excerpt": "Russland setzt seinen Vormarsch in der Ukraine nach eigenen Angaben weiter fort und meldet die Einnahme von zwei Ortschaften.",
-      "url": "https://www.deutschlandfunk.de/russland-meldet-einnahme-von-zwei-weiteren-ortschaften-108.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Opposition - Jabloko-Politiker Schlosberg in Russland zu elf Jahren Straflager verurteilt",
-      "excerpt": "Der stellvertretende Vorsitzende der liberalen russischen Partei Jabloko, Schlosberg, ist wegen seiner Kritik am Krieg gegen die Ukraine zu elf Jahren und einem Monat Straflager verurteilt worden. Das Gericht in Pskow sp",
-      "url": "https://www.deutschlandfunk.de/jabloko-politiker-schlosberg-in-russland-zu-elf-jahren-straflager-verurteilt-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Landtagswahl in Mecklenburg-Vorpommern - NDR und SPD weisen Einflussnahme-Vorwurf auf TV-Debatten zurück",
-      "excerpt": "Der Norddeutsche Rundfunk und die SPD in Mecklenburg-Vorpommern weisen den Vorwurf politischer Einflussnahme auf Fernsehdebatten vor der Landtagswahl zurück.",
-      "url": "https://www.deutschlandfunk.de/ndr-und-spd-weisen-einflussnahme-vorwurf-auf-tv-debatten-zurueck-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Migra-Streik\" - Aktion gegen Rassismus und Ausgrenzung vor Landtagswahl in Sachsen-Anhalt geplant",
-      "excerpt": "Vor der Landtagswahl in Sachsen-Anhalt wollen Gewerbetreibende mit Migrationsgeschichte in Magdeburg und anderen Städten ein Zeichen gegen Rassismus, Ausgrenzung und für eine demokratische Gesellschaft setzen.",
-      "url": "https://www.deutschlandfunk.de/aktion-gegen-rassismus-und-ausgrenzung-vor-landtagswahl-in-sachsen-anhalt-geplant-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "title": "Grundgesetzänderung - Viel Zustimmung für Hitzeschutz-Vorschläge der SPD - Union weiterhin skeptisch",
+      "excerpt": "Der Vorstoß der sozialdemokratischen Bundesminister zu einem Hitzeaktionsplan ist bei einigen Fraktionen und Verbänden auf Zustimmung gestoßen - der Koalitionspartner aber reagiert zögernd. Zu den Maßnahmen gehört die Ve",
+      "url": "https://www.deutschlandfunk.de/viel-zustimmung-fuer-hitzeschutz-vorschlaege-der-spd-union-weiterhin-skeptisch-102.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +158,7 @@
       "title": "Hitze und Dürre - Leichte Entspannung bei Waldbrand im Hohen Venn - Entwarnung im Hürtgenwald und bei weiteren Bränden",
       "excerpt": "Einsatzkräfte bei dem Brand im belgischen Naturschutzgebiet Hohes Venn gehen davon aus, dass das Feuer in den nächsten Tagen unter Kontrolle gebracht werden kann. Die Flammen haben inzwischen eine Fläche von rund 30 Quad",
       "url": "https://www.deutschlandfunk.de/leichte-entspannung-bei-waldbrand-im-hohen-venn-entwarnung-im-huertgenwald-und-bei-weiteren-braenden-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,15 +166,71 @@
       "title": "Hohes Venn - \"Zombiefeuer\" - warum Moorbrände so schwer zu löschen sind",
       "excerpt": "Immer wieder brennen in Deutschland und anderen Ländern Moore mit Torfschichten. Solche Brände sind schwer zu löschen und stellen Feuerwehrleute vor große Herausforderungen. Einsatzkräfte sprechen auch von \"Zombiefeuern\"",
       "url": "https://www.deutschlandfunk.de/zombiefeuer-warum-moorbraende-so-schwer-zu-loeschen-sind-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Grundgesetzänderung - Viel Zustimmung für Hitzeschutz-Vorschläge der SPD - Union weiterhin skeptisch",
-      "excerpt": "Der Vorstoß der sozialdemokratischen Bundesminister zu einem Hitzeaktionsplan ist bei einigen Fraktionen und Verbänden auf Zustimmung gestoßen - der Koalitionspartner aber reagiert zögernd.",
-      "url": "https://www.deutschlandfunk.de/viel-zustimmung-fuer-hitzeschutz-vorschlaege-der-spd-union-weiterhin-skeptisch-102.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "title": "\"Migra-Streik\" - Aktion gegen Rassismus und Ausgrenzung vor Landtagswahl in Sachsen-Anhalt geplant",
+      "excerpt": "Vor der Landtagswahl in Sachsen-Anhalt wollen Gewerbetreibende mit Migrationsgeschichte in Magdeburg und anderen Städten ein Zeichen gegen Rassismus, Ausgrenzung und für eine demokratische Gesellschaft setzen.",
+      "url": "https://www.deutschlandfunk.de/aktion-gegen-rassismus-und-ausgrenzung-vor-landtagswahl-in-sachsen-anhalt-geplant-100.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtagswahl in Mecklenburg-Vorpommern - NDR und SPD weisen Einflussnahme-Vorwurf auf TV-Debatten zurück",
+      "excerpt": "Der Norddeutsche Rundfunk und die SPD in Mecklenburg-Vorpommern weisen den Vorwurf politischer Einflussnahme auf Fernsehdebatten vor der Landtagswahl zurück.",
+      "url": "https://www.deutschlandfunk.de/ndr-und-spd-weisen-einflussnahme-vorwurf-auf-tv-debatten-zurueck-100.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Brombeer-Koalition\" - Zwei BSW-Abgeordnete entziehen Regierung in Thüringen Unterstützung",
+      "excerpt": "Zwei Abgeordnete des BSW in Thüringen haben angekündigt, die Regierung von Ministerpräsident Voigt nicht mehr zu unterstützen.",
+      "url": "https://www.deutschlandfunk.de/zwei-bsw-abgeordnete-entziehen-regierung-in-thueringen-unterstuetzung-102.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iran-Krieg - \"In Grund und Boden bombardieren\": US-Präsident Trump droht dem Oman wegen Straße von Hormus",
+      "excerpt": "US-Präsident Trump hat dem Oman mit Angriffen gedroht, sollte das Land eine Freigabe der Straße von Hormus blockieren.",
+      "url": "https://www.deutschlandfunk.de/in-grund-und-boden-bombardieren-us-praesident-trump-droht-dem-oman-wegen-strasse-von-hormus-100.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gazastreifen - US-Sondergesandter Kushner trifft Israels Ministerpräsidenten Netanjahu zu Gesprächen über Friedensplan",
+      "excerpt": "Der US-Sondergesandte Kushner hat sich für Gespräche zum Friedensplan über den Gazastreifen mit dem israelischen Ministerpräsidenten Netanjahu getroffen.",
+      "url": "https://www.deutschlandfunk.de/us-sondergesandter-kushner-trifft-israels-ministerpraesidenten-netanjahu-zu-gespraechen-ueber-friede-104.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gazastreifen - Unionspolitiker Hardt fordert Sanktionen nach \"menschenverachtenden\" Aussagen von Israels Minister Ben-Gvir",
+      "excerpt": "Der außenpolitische Sprecher der Unionsfraktion, Hardt, fordert EU-Sanktionen",
+      "url": "https://www.deutschlandfunk.de/unionspolitiker-hardt-fordert-sanktionen-nach-menschenverachtenden-aussagen-von-israels-minister-ben-104.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Opposition - Jabloko-Politiker Schlosberg in Russland zu elf Jahren Straflager verurteilt",
+      "excerpt": "Der stellvertretende Vorsitzende der liberalen russischen Partei Jabloko, Schlosberg, ist wegen seiner Kritik am Krieg gegen die Ukraine zu elf Jahren und einem Monat Straflager verurteilt worden. Das Gericht in Pskow sp",
+      "url": "https://www.deutschlandfunk.de/jabloko-politiker-schlosberg-in-russland-zu-elf-jahren-straflager-verurteilt-100.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Russland meldet Einnahme von zwei weiteren Ortschaften",
+      "excerpt": "Russland setzt seinen Vormarsch in der Ukraine nach eigenen Angaben weiter fort und meldet die Einnahme von zwei Ortschaften.",
+      "url": "https://www.deutschlandfunk.de/russland-meldet-einnahme-von-zwei-weiteren-ortschaften-108.html",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +238,7 @@
       "title": "Wirtschaft - Regierung will \"neue Gründerzeit\" in Ostdeutschland",
       "excerpt": "Die Bundesregierung will die Rahmenbedingungen für Firmengründungen in Ostdeutschland verbessern.",
       "url": "https://www.deutschlandfunk.de/regierung-will-neue-gruenderzeit-in-ostdeutschland-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +246,7 @@
       "title": "Verteidigung - Bundeswehr wächst auf höchsten Personalstand seit 13 Jahren",
       "excerpt": "Die Bundeswehr ist nach Angaben des Verteidigungsministeriums auf die größte Personalstärke seit rund 13 Jahren angewachsen. ‌Ende Juli ⁠habe die aktive ⁠Truppe aus rund 186.700 Soldaten bestanden, teilte das Ministerium",
       "url": "https://www.deutschlandfunk.de/bundeswehr-waechst-auf-hoechsten-personalstand-seit-13-jahren-102.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,15 +254,7 @@
       "title": "Berliner Senatsverwaltung - Hackerangriff auf Berliner Landesnetz - Ausmaß unbekannt",
       "excerpt": "Auf Teile der Berliner Senatsverwaltung ist ein Hackerangriff erfolgt.",
       "url": "https://www.deutschlandfunk.de/hackerangriff-auf-berliner-landesnetz-ausmass-unbekannt-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ben-Gvir - Israels Sicherheitsminister: Jede Nacht 30 bis 40 Menschen in Gaza töten",
-      "excerpt": "Israels Sicherheitsminister Ben-Gvir hat sich für fortdauernde gezielte Tötungen von Menschen in Gaza ausgesprochen.",
-      "url": "https://www.deutschlandfunk.de/israels-sicherheitsminister-jede-nacht-30-bis-40-menschen-in-gaza-toeten-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +262,7 @@
       "title": "UNO-Büro OCHA - 350 humanitäre Helfer bei internationalen Einsätzen getötet",
       "excerpt": "Im vergangenen Jahr sind 350 humanitäre Helfer bei internationalen Einsätzen getötet worden.",
       "url": "https://www.deutschlandfunk.de/350-humanitaere-helfer-bei-internationalen-einsaetzen-getoetet-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +270,7 @@
       "title": "Energie - Suedlink quert die Elbe: 700 Kilometer Kabel in den Süden",
       "excerpt": "Die Stromtrasse \"Südlink\" von Nord- nach Süddeutschland, eines der wichtigsten Infrastrukturprojekte in Deutschland, ist einen Schritt weiter.",
       "url": "https://www.deutschlandfunk.de/suedlink-quert-die-elbe-700-kilometer-kabel-in-den-sueden-104.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +278,7 @@
       "title": "Treibstoffmangel - Russische Behörden verschärfen Kontrollen an Tankstellen",
       "excerpt": "In einigen russischen Regionen gibt es erneut Engpässe bei der Treibstoffversorgung.",
       "url": "https://www.deutschlandfunk.de/russische-behoerden-verschaerfen-kontrollen-an-tankstellen-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,16 +286,64 @@
       "title": "Ukraine-Krieg - \"Wir lassen uns nicht einschüchtern\": Bundesregierung reagiert auf Lawrow-Drohung",
       "excerpt": "Die Bundesregierung hat Drohungen aus Russland gegen Unterstützer der Ukraine zurückgewiesen.",
       "url": "https://www.deutschlandfunk.de/wir-lassen-uns-nicht-einschuechtern-bundesregierung-reagiert-auf-lawrow-drohung-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
+      "publishedAt": "2026-08-17T17:42:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Großbritannien - Britischer Premier chattete laut Medienberichten mit Trumps falscher Stabschefin",
-      "excerpt": "Der neue britische Premierminister Burnham soll laut Medienberichten Nachrichten mit einer Person ausgetauscht haben, die sich als die Stabschefin von US-Präsident Trump ausgab.",
-      "url": "https://www.deutschlandfunk.de/britischer-premier-chattete-laut-medienberichten-mit-trumps-falscher-stabschefin-100.html",
-      "publishedAt": "2026-08-17T17:09:06.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Käärijä-Konzert in Schweden: Ein skurriler Mix aus Techno, Metal und Elektro",
+      "excerpt": "Der finnische Rapper, Sänger und Songwriter Käärijä präsentiert eine Musik, die sich nicht zu ernst nimmt. So auch beim jüngsten Konzert in Schweden. mehr...",
+      "url": "https://taz.de/Kaeaerijae-Konzert-in-Schweden/!6204975/",
+      "publishedAt": "2026-08-17T17:32:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Waldbrände in Europa: Und nach der Hitze?",
+      "excerpt": "Spektakuläre Brände liefern dankbare Bilder für Medien. Doch das Interesse sollte nicht aufhören, wenn es mal nicht brennt. mehr...",
+      "url": "https://taz.de/Waldbraende-in-Europa/!6200891/",
+      "publishedAt": "2026-08-17T17:30:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ebola in der DR Kongo: „Der schlimmste Ausbruch der Geschichte“",
+      "excerpt": "In drei Monaten hat das Virus in der DR Kongo mehr Tote gefordert als beim letzten großen Ausbruch in zwei Jahren. Und die Sterblichkeitsrate steigt weiter. mehr...",
+      "url": "https://taz.de/Ebola-in-der-DR-Kongo/!6205004/",
+      "publishedAt": "2026-08-17T17:30:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wachsende Aggressionen im Straßenverkehr: Alles Pisser außer mir",
+      "excerpt": "Die Menschen im Straßenverkehr werden immer aggressiver. Wie auch nicht, denke ich mir. Das einzige, was uns retten wird, sind härtere Strafen. mehr...",
+      "url": "https://taz.de/Studie-zur-Stimmung-im-Strassenverkehr-Alles-Pisser-ausser-mir/!6204958/",
+      "publishedAt": "2026-08-17T17:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Autorin Valeria Luiselli: „Auf Sizilien spürt man den Ursprung des Planeten“",
+      "excerpt": "Die mexikanische Autorin Valeria Luiselli erzählt in ihrem Roman „Anfang Mitte Ende“ über antike Halbgötter. Wie ihr die Götter beim Schreiben halfen. mehr...",
+      "url": "https://taz.de/Autorin-Valeria-Luiselli/!6204358/",
+      "publishedAt": "2026-08-17T17:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Experte über Dürre: „Das Ausmaß der Schäden wird sich im Frühjahr zeigen“",
+      "excerpt": "Süddeutschland ist von extremer Dürre betroffen, die zunehmend den Wäldern zusetzt. Fortwissenschaftler Ulrich Schraml warnt vor häufigeren Waldbränden. mehr...",
+      "url": "https://taz.de/Experte-ueber-Duerre/!6204956/",
+      "publishedAt": "2026-08-17T17:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Opposition in Russland: Jablokos nächste Niederlage vor Gericht",
+      "excerpt": "Die Beschwerde gegen den Jabloko-Ausschluss wurde von Russlands Oberstem Gericht abgelehnt. Der Vizevorsitzende Schlosberg muss für viele Jahre in Haft. mehr...",
+      "url": "https://taz.de/Opposition-in-Russland/!6205137/",
+      "publishedAt": "2026-08-17T17:26:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -331,17 +387,17 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Militärmanöver zwischen USA und Südkorea: Trumpsche Besserwisserei",
-      "excerpt": "Der US-Präsident kündigt an, das US-Manöver mit Südkorea zu verringern. Es geht ihm offenbar nicht um Friedenssicherung, sondern wieder nur um ihn. mehr...",
-      "url": "https://taz.de/Militaermanoever-zwischen-USA-und-Suedkorea/!6204996/",
+      "title": "Zehn Jahre Haft für „Ras Bath“ in Mali: Wie ein Rastafari zum Staatsfeind wurde",
+      "excerpt": "Ein langjähriger Demokratieaktivist aus Mali muss zehn Jahre ins Gefängnis. Die Militärdiktatur warf ihm Verunglimpfung des Staates vor. mehr...",
+      "url": "https://taz.de/Zehn-Jahre-Haft-fuer-Ras-Bath-in-Mali/!6205091/",
       "publishedAt": "2026-08-17T16:22:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
-      "title": "Zehn Jahre Haft für „Ras Bath“ in Mali: Wie ein Rastafari zum Staatsfeind wurde",
-      "excerpt": "Ein langjähriger Demokratieaktivist aus Mali muss zehn Jahre ins Gefängnis. Die Militärdiktatur warf ihm Verunglimpfung des Staates vor. mehr...",
-      "url": "https://taz.de/Zehn-Jahre-Haft-fuer-Ras-Bath-in-Mali/!6205091/",
+      "title": "Militärmanöver zwischen USA und Südkorea: Trumpsche Besserwisserei",
+      "excerpt": "Der US-Präsident kündigt an, das US-Manöver mit Südkorea zu verringern. Es geht ihm offenbar nicht um Friedenssicherung, sondern wieder nur um ihn. mehr...",
+      "url": "https://taz.de/Militaermanoever-zwischen-USA-und-Suedkorea/!6204996/",
       "publishedAt": "2026-08-17T16:22:00.000Z",
       "category": "POLITIK"
     },
@@ -386,14 +442,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Kushner bei Netanjahu: Gazas Zukunft steht auf dem Spiel",
-      "excerpt": "Trump-Schwiegersohn und US-Gesandter Jared Kushner trifft erst Hamas-Vertreter in Kairo, dann Netanjahu in Israel. Auf dem Spiel steht Gazas Zukunft. mehr...",
-      "url": "https://taz.de/Kushner-bei-Netanjahu/!6205024/",
-      "publishedAt": "2026-08-17T14:58:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
       "excerpt": "Münchner Forschende haben ein 3D-Gewebemodell aus menschlichen Hirnzellen entwickelt. Es soll helfen, Alzheimer besser zu verstehen und neue Wirkstoffe zu testen. Von Jan Kerckhoff.",
@@ -423,14 +471,6 @@
       "excerpt": "Das Klima im Straßenverkehr wird rauer, immer mehr Menschen verhalten sich aggressiv. Helfen können nicht nur schärfere Kontrollen. mehr...",
       "url": "https://taz.de/Unfallforschung-der-Versicherer/!6205058/",
       "publishedAt": "2026-08-17T14:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Trump will weniger Militär in Südkorea: Schockwellen in Seoul",
-      "excerpt": "Bei US-Präsident Donald Trump ist längst nicht mehr klar, welches der beiden Koreas Verbündeter ist und welches ein Schurkenstaat. Das hat auch für Europa Folgen. mehr...",
-      "url": "https://taz.de/Trump-will-weniger-Militaer-in-Suedkorea/!6204979/",
-      "publishedAt": "2026-08-17T13:43:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -498,14 +538,6 @@
       "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Deutschland bei Leichtathletik-EM: Goldene Woche",
-      "excerpt": "Nach der tristen WM 2023 ist die Medaillenbilanz der deutschen Leichtathletik bei der EM in Birmingham prächtig. Die Reformen scheinen zu fruchten. mehr...",
-      "url": "https://taz.de/Deutschland-bei-Leichtathletik-EM/!6204988/",
-      "publishedAt": "2026-08-17T12:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Die politischen Risse hinter der Militärparade in Warschau",
       "excerpt": "Mit einer großen Parade wollte Polen am vergangenen Wochenende Stärke demonstrieren. Doch innenpolitische Konflikte trüben die Wirkung: Premier und Präsident streiten - ausgerechnet über ein EU-Rüstungsprogramm. Von Pete",
@@ -520,14 +552,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
       "publishedAt": "2026-08-17T12:14:08.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Bilderbuch über Haare und Zugehörigkeit: Locken, wie sie mir gefallen",
-      "excerpt": "Catherine Adufe Folawiyos Bilderbuch „Der Haarkunstshop – Einmal glatte Haare, bitte!“ erzählt von Zugehörigkeit und der Geschichte der Haare. mehr...",
-      "url": "https://taz.de/Bilderbuch-ueber-Haare-und-Zugehoerigkeit/!6204955/",
-      "publishedAt": "2026-08-17T11:19:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -546,27 +570,11 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Festivals in der Krise: Endlich wieder Bauzäune schleppen",
-      "excerpt": "Kleine Festivals sind vielleicht das bizarrste Kulturgut, das urbane und ländliche Lebenswelt miteinander verbindet. Deshalb müssen wir sie erhalten. mehr...",
-      "url": "https://taz.de/Kleine-Festivals-Das-bizarrste-Kulturgut-das-urbane-und-laendliche-Lebenswelten-verbindet/!6200797/",
-      "publishedAt": "2026-08-17T09:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Südkorea: Regierung setzt trotz Kritik von Donald Trump auf enge Kooperation mit den USA",
       "excerpt": "Donald Trump hat angekündigt, US-südkoreanische Militärübungen einzuschränken. Doch Seoul hält an der engen Zusammenarbeit mit Washington fest. Währenddessen setzt Nordkorea seine Raketentests fort.",
       "url": "https://www.spiegel.de/politik/suedkorea-regierung-setzt-trotz-kritik-von-donald-trump-auf-enge-kooperation-mit-den-usa-a-7d654fb2-4394-42af-acc6-9d160a0352b3#ref=rss",
       "publishedAt": "2026-08-17T09:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Unternehmen in Sachsen-Anhalt: Heißes Eisen",
-      "excerpt": "Würde die AfD in Sachsen-Anhalt an die Macht kommen, könnte das der Wirtschaft vor Ort nachhaltig schaden. Wie positionieren sich die Unternehmen? Eine Spurensuche. mehr...",
-      "url": "https://taz.de/Wirtschaftlicher-Schaden-durch-die-AfD-in-Sachsen-Anhalt-Wie-positionieren-sich-die-Unternehmen/!6200842/",
-      "publishedAt": "2026-08-17T09:10:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -584,14 +592,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
       "publishedAt": "2026-08-17T07:25:30.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Jugend auf dem Land: Viel Platz für Frust",
-      "excerpt": "Unter Jugendlichen in Sachsen-Anhalt steht neben den Linken auch die AfD hoch im Kurs. Viele So­zi­al­ar­bei­te­r:in­nen setzen erst mal aufs Zuhören. mehr...",
-      "url": "https://taz.de/Jugend-auf-dem-Land/!6197818/",
-      "publishedAt": "2026-08-17T07:16:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
