@@ -1,124 +1,12 @@
 {
-  "updatedAt": "2026-08-17T13:05:32.239Z",
+  "updatedAt": "2026-08-17T13:52:52.052Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "186.700 Soldaten schützen uns - Truppenzuwachs bei der Bundeswehr!",
-      "excerpt": "Bundeswehr wächst deutlich: mehr Soldaten, Bewerber und Neueinstellungen als 2016.",
-      "url": "https://www.bild.de/politik/inland/armee-waechst-so-stark-wie-seit-jahren-nicht-mehr-rekord-bei-der-bundeswehr-6a82dbd1a87e8142c31d2a2d",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bilder zeigen Aufrüstung - Putins geheime Drohnen-Stützpunkte bedrohen Nato",
-      "excerpt": "Russland baut neue Drohnenbasen an der Grenze und gefährdet so Nato-Staaten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-putins-geheime-stuetzpunkte-fuer-drohnen-bedrohen-die-nato-6a82a6d0ae5982a49ab415ec",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Pleite für Wagenknecht - Thüringer BSW stimmt gegen Regierungs-Aus",
-      "excerpt": "BSW in Thüringen hält vorerst zu Voigt, doch die Basis erzwingt einen Sonderparteitag.",
-      "url": "https://www.bild.de/politik/inland/thueringen-bsw-haelt-an-voigt-fest-wagenknecht-macht-weiter-druck-6a82be289fcb5798aae38fb7",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Sie sind nicht einmal Menschen“ - Ultrarechter Israel-Minister fordert gezielte Tötungen in Gaza",
-      "excerpt": "Israels Sicherheitsminister Ben-Gvir verlangt nächtliche Massenhinrichtungen in Gaza.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/sie-sind-nicht-einmal-menschen-ultrarechter-israel-minister-fordert-gezielte-toetungen-in-gaza-6a82d494a87e8142c31d296a",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Wenn die AFD die Mehrheit hat. Mit Jan „Monchi“ Gorkow (1/2)",
-      "excerpt": "Paul Ronzheimer spricht mit Jan Gorkow alias Monchi, Sänger der Punkband Feine Sahne Fischfilet, über sein Leben in der ostdeutschen...",
-      "url": "https://www.bild.de/politik/ronzheimer-wenn-die-afd-die-mehrheit-hat-mit-jan-monchi-gorkow-1-2-6a7f889ba87e8142c31d091b",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Wie konnte es mit Deutschland so weit kommen? Mit Jan „Monchi“ Gorkow (2/2)",
-      "excerpt": "Im zweiten Teil des Gesprächs spricht Paul Ronzheimer mit Jan Gorkow alias Monchi, Sänger von Feine Sahne Fischfilet, über den weite...",
-      "url": "https://www.bild.de/politik/ronzheimer-wie-konnte-es-mit-deutschland-so-weit-kommen-mit-jan-monchi-gorkow-2-2-6a810a4e169e8e32c0ae9abc",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Große Nervositätbei Parteien - Die geheimen Pläne gegen eine AfD-Regierung",
-      "excerpt": "Berlin – Deutschland vor dem AfD-Schock: In Sachsen-Anhalt könnte die Partei mit Ulrich Siegmund (35) am 6. September erstmals genug...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/sachsen-anhalt-vier-gegenmittel-gegen-eine-afd-regierung-69c916de80d7a94f32d322d4",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ex-Parteichef Sigmar Gabriel - Die SPD hat den AfD-Aufstieg begünstigt",
-      "excerpt": "Gabriel gibt SPD Mitschuld am Aufstieg der AfD und kritisiert den Sozialstaat.",
-      "url": "https://www.bild.de/politik/inland/sigmar-gabriel-greift-eigene-partei-an-spd-verlor-waehler-durch-sozialhilfestaat-6a82ca9a9fcb5798aae390c9",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Peinliche Panne in London - Briten-Premier schrieb mit falscher Trump-Vertrauter",
-      "excerpt": "Premier Burnham ließ sich von falscher Trump-Vertrauter täuschen, Regierung alarmiert.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/london-briten-premier-schrieb-mit-falscher-trump-vertrauter-6a82a24fa87e8142c31d2608",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Job-Albtraum! - Unser Wohlstandsverlust ist kaum noch zu stoppen",
-      "excerpt": "Studie warnt: Ohne starkes Produktivitätswachstum droht der Abstieg!",
-      "url": "https://www.bild.de/politik/inland/wohlstand-in-gefahr-produktivitaet-muesste-fuenfmal-staerker-wachsen-6a82b12aa87e8142c31d26f1",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "WENN PUTIN ANGREIFT - Mit diesen 3 Strategien würde die Nato zurückschlagen",
-      "excerpt": "Die Nato plant detailliert, wie sie einen möglichen Angriff Russlands abwehrt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nato-drei-strategien-gegen-putins-angriff-im-baltikum-6a7dc5d00773f8de24672c4f",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "75 Prozent weniger wert als vor 4 Jahren - China-Modekonzern Shein droht ein Börsen-Debakel",
-      "excerpt": "Vor dem Börsengang in Hongkong stürzt Sheins Bewertung massiv ab.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/shein-droht-debakel-an-der-boerse-75-prozent-wertverlust-in-nur-4-jahren-6a82c4b1a87e8142c31d2825",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Arbeitszeit, Rente, Überstunden - So viel arbeiten wir wirklich",
-      "excerpt": "40-Stunden-Woche und Rente mit 63 auf dem Prüfstand. Nur jede 2. Überstunde wird bezahlt!",
-      "url": "https://www.bild.de/politik/inland/arbeitszeit-in-deutschland-so-viel-arbeiten-wir-wirklich-6a7c7a3f169e8e32c0ae5937",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Darüber wird sich Putin freuen - Digitalministerium zieht neben Kreml-Propagandahaus",
-      "excerpt": "Deutsche Cybersicherheit sitzt jetzt direkt neben Putins möglichen Spionagenest in Berlin.",
-      "url": "https://www.bild.de/politik/inland/darueber-wird-sich-putin-freuen-digitalministerium-zieht-neben-kreml-propagandazentrale-6a82a87ea87e8142c31d2674",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Mail von Martenstein - Lieber Matthias Lilienthal!",
       "excerpt": "Autor vergleicht den Ausschluss von AfD-Kandidaten in Niedersachsen mit DDR-Methoden.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/martenstein-ausschluesse-von-kandidaten-der-afd-wie-orwells-1984-6a81e6b5a87e8142c31d2058",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
+      "publishedAt": "2026-08-17T13:52:51.512Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +14,7 @@
       "title": "Ex-Kanzlerin reingelegt - Russen-Trolle fragten Merkel nach ihrer Rente",
       "excerpt": "Die beiden Kreml-Trolle Wowan und Lexus haben auch die Ex-Kanzlerin reingelegt.",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/angela-merkel-russen-trolle-fragten-ex-kanzlerin-nach-ihrer-rente-82961444.bild.html",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
+      "publishedAt": "2026-08-17T13:52:51.512Z",
       "category": "POLITIK"
     },
     {
@@ -134,23 +22,167 @@
       "title": "Kommentar - Das kann’s bei der Stütze noch nicht gewesen sein!",
       "excerpt": "Die Koalition braucht für die Grundsicherung endlich eine echte, umfassende Reform.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-das-kanns-bei-der-stuetze-noch-nicht-gewesen-sein-6a82b5979c4b683899047787",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
+      "publishedAt": "2026-08-17T13:52:51.512Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Showdown in Erfurt - Zerbricht heute Thüringens „Brombeer-Koalition“?",
-      "excerpt": "BSW entscheidet über Rückhalt für Voigt, die Koalition steht vor dem Bruch.",
-      "url": "https://www.bild.de/politik/inland/showdown-in-erfurt-zerbricht-heute-thueringens-brombeer-koalition-6a81b988169e8e32c0aea401",
-      "publishedAt": "2026-08-17T13:05:32.234Z",
+      "title": "Steuer runter, Preis runter - SO günstig tankt man jetzt in Polen",
+      "excerpt": "Warschau - Polen macht's vor: Seit diesem Montag tanken Autofahrer dort deutlich günstiger. Die Regierung hat die Mehrwertsteuer auf...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/steuer-runter-preis-runter-polens-tankrabatt-laesst-deutsche-autofahrer-traeumen-6a830704a87e8142c31d2df5",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "186.700 Soldaten schützen uns - Truppenzuwachs bei der Bundeswehr!",
+      "excerpt": "Bundeswehr wächst deutlich: mehr Soldaten, Bewerber und Neueinstellungen als 2016.",
+      "url": "https://www.bild.de/politik/inland/armee-waechst-so-stark-wie-seit-jahren-nicht-mehr-rekord-bei-der-bundeswehr-6a82dbd1a87e8142c31d2a2d",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bilder zeigen Aufrüstung - Putins geheime Drohnen-Stützpunkte bedrohen Nato",
+      "excerpt": "Russland baut neue Drohnenbasen an der Grenze und gefährdet so Nato-Staaten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-putins-geheime-stuetzpunkte-fuer-drohnen-bedrohen-die-nato-6a82a6d0ae5982a49ab415ec",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Pleite für Wagenknecht - Thüringer BSW stimmt gegen Regierungs-Aus",
+      "excerpt": "BSW in Thüringen hält vorerst zu Voigt, doch die Basis erzwingt einen Sonderparteitag.",
+      "url": "https://www.bild.de/politik/inland/thueringen-bsw-haelt-an-voigt-fest-wagenknecht-macht-weiter-druck-6a82be289fcb5798aae38fb7",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Sie sind nicht einmal Menschen“ - Ultrarechter Israel-Minister fordert gezielte Tötungen in Gaza",
+      "excerpt": "Israels Sicherheitsminister Ben-Gvir verlangt nächtliche Massenhinrichtungen in Gaza.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/sie-sind-nicht-einmal-menschen-ultrarechter-israel-minister-fordert-gezielte-toetungen-in-gaza-6a82d494a87e8142c31d296a",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "RONZHEIMER - Wenn die AFD die Mehrheit hat. Mit Jan „Monchi“ Gorkow (1/2)",
+      "excerpt": "Paul Ronzheimer spricht mit Jan Gorkow alias Monchi, Sänger der Punkband Feine Sahne Fischfilet, über sein Leben in der ostdeutschen...",
+      "url": "https://www.bild.de/politik/ronzheimer-wenn-die-afd-die-mehrheit-hat-mit-jan-monchi-gorkow-1-2-6a7f889ba87e8142c31d091b",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "RONZHEIMER - Wie konnte es mit Deutschland so weit kommen? Mit Jan „Monchi“ Gorkow (2/2)",
+      "excerpt": "Im zweiten Teil des Gesprächs spricht Paul Ronzheimer mit Jan Gorkow alias Monchi, Sänger von Feine Sahne Fischfilet, über den weite...",
+      "url": "https://www.bild.de/politik/ronzheimer-wie-konnte-es-mit-deutschland-so-weit-kommen-mit-jan-monchi-gorkow-2-2-6a810a4e169e8e32c0ae9abc",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Große Nervositätbei Parteien - Die geheimen Pläne gegen eine AfD-Regierung",
+      "excerpt": "Berlin – Deutschland vor dem AfD-Schock: In Sachsen-Anhalt könnte die Partei mit Ulrich Siegmund (35) am 6. September erstmals genug...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/sachsen-anhalt-vier-gegenmittel-gegen-eine-afd-regierung-69c916de80d7a94f32d322d4",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ex-Parteichef Sigmar Gabriel - Die SPD hat den AfD-Aufstieg begünstigt",
+      "excerpt": "Gabriel gibt SPD Mitschuld am Aufstieg der AfD und kritisiert den Sozialstaat.",
+      "url": "https://www.bild.de/politik/inland/sigmar-gabriel-greift-eigene-partei-an-spd-verlor-waehler-durch-sozialhilfestaat-6a82ca9a9fcb5798aae390c9",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Peinliche Panne in London - Briten-Premier schrieb mit falscher Trump-Vertrauter",
+      "excerpt": "Premier Burnham ließ sich von falscher Trump-Vertrauter täuschen, Regierung alarmiert.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/london-briten-premier-schrieb-mit-falscher-trump-vertrauter-6a82a24fa87e8142c31d2608",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Job-Albtraum! - Unser Wohlstandsverlust ist kaum noch zu stoppen",
+      "excerpt": "Studie warnt: Ohne starkes Produktivitätswachstum droht der Abstieg!",
+      "url": "https://www.bild.de/politik/inland/wohlstand-in-gefahr-produktivitaet-muesste-fuenfmal-staerker-wachsen-6a82b12aa87e8142c31d26f1",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "WENN PUTIN ANGREIFT - Mit diesen 3 Strategien würde die Nato zurückschlagen",
+      "excerpt": "Die Nato plant detailliert, wie sie einen möglichen Angriff Russlands abwehrt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nato-drei-strategien-gegen-putins-angriff-im-baltikum-6a7dc5d00773f8de24672c4f",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "75 Prozent weniger wert als vor 4 Jahren - China-Modekonzern Shein droht ein Börsen-Debakel",
+      "excerpt": "Vor dem Börsengang in Hongkong stürzt Sheins Bewertung massiv ab.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/shein-droht-debakel-an-der-boerse-75-prozent-wertverlust-in-nur-4-jahren-6a82c4b1a87e8142c31d2825",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Arbeitszeit, Rente, Überstunden - So viel arbeiten wir wirklich",
+      "excerpt": "40-Stunden-Woche und Rente mit 63 auf dem Prüfstand. Nur jede 2. Überstunde wird bezahlt!",
+      "url": "https://www.bild.de/politik/inland/arbeitszeit-in-deutschland-so-viel-arbeiten-wir-wirklich-6a7c7a3f169e8e32c0ae5937",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Darüber wird sich Putin freuen - Digitalministerium zieht neben Kreml-Propagandahaus",
+      "excerpt": "Deutsche Cybersicherheit sitzt jetzt direkt neben Putins möglichen Spionagenest in Berlin.",
+      "url": "https://www.bild.de/politik/inland/darueber-wird-sich-putin-freuen-digitalministerium-zieht-neben-kreml-propagandazentrale-6a82a87ea87e8142c31d2674",
+      "publishedAt": "2026-08-17T13:52:51.511Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Weniger US-Militär in Südkorea: Schockwelle in Seoul",
+      "excerpt": "Bei US-Präsident Donald Trump ist längst nicht mehr klar, welches der beiden Koreas Verbündeter ist und welches ein Schurkenstaat. Das hat auch für Europa Folgen. mehr...",
+      "url": "https://taz.de/Trump-will-weniger-Militaer-in-Suedkorea/!6204979/",
+      "publishedAt": "2026-08-17T13:43:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Thüringen: BSW hält an Brombeerkoalition fest",
+      "excerpt": "Im Streit mit der Bundesspitze hält die Thüringer BSW-Fraktion weiter an CDU-Ministerpräsident Voigt fest. Parteigründerin Wagenknecht reagiert prompt und fordert einen Sonderparteitag, um den weiteren Kurs zu diskutiere",
+      "url": "https://www.spiegel.de/politik/thueringen-bsw-haelt-an-brombeerkoalition-fest-a-1abb5df5-0901-46b2-b13b-e45600768aea#ref=rss",
+      "publishedAt": "2026-08-17T13:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
+      "excerpt": "Staatsminister Amthor von der CDU hat sich gegen \"abstrakte Diskussionen über eine Verfassungsänderung\" ausgesprochen. Zuvor hatten verschiedene SPD-Ministerien dafür plädiert, Klima- und Hitzeschutz im Grundgesetz festz",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
+      "publishedAt": "2026-08-17T13:16:24.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundeswehr erreicht Personalziel für das Jahr 2026",
+      "excerpt": "Die Bundeswehr soll wachsen - und bisher scheint das auf freiwilliger Basis zu gelingen: Das Personalziel für 2026 ist erreicht. Auf geringe Resonanz stößt weiterhin die direkte Ansprache junger Frauen durch die Bundeswe",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
+      "publishedAt": "2026-08-17T13:12:15.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "DLF",
       "title": "Verteidigung - Bundeswehr wächst auf höchsten Personalstand seit 13 Jahren",
       "excerpt": "Die Bundeswehr ist nach Angaben des Verteidigungsministeriums auf die größte Personalstärke seit rund 13 Jahren angewachsen. ‌Ende Juli ⁠habe die aktive ⁠Truppe aus rund 186.700 Soldaten bestanden, teilte das Ministerium",
       "url": "https://www.deutschlandfunk.de/bundeswehr-waechst-auf-hoechsten-personalstand-seit-13-jahren-102.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +190,7 @@
       "title": "Wirtschaft - Bundesfinanzminister Klingbeil will Startups mit besseren steuerlichen Bedingungen unterstützen",
       "excerpt": "Bundesfinanzminister Klingbeil will Startups in Deutschland mit besseren steuerlichen Bedingungen unterstützen. Die schwarz-rote Koalition werde dafür sorgen, dass deutlich mehr privates Kapital in junge, innovative Unte",
       "url": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-will-startups-mit-besseren-steuerlichen-bedingungen-unterstuetzen-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +198,7 @@
       "title": "Hitze und Dürre - Waldbrände in Belgien und Deutschland dauern an, Evakuierungen in Monschau in Nordrhein-Westfalen",
       "excerpt": "In Belgien kämpfen die Einsatzkräfte weiter gegen den großen Waldbrand im Naturschutzgebiet Hohes Venn im Osten des Landes. Unweit der Grenze zu Deutschland haben die Flammen inzwischen eine Fläche von rund 30 Quadratkil",
       "url": "https://www.deutschlandfunk.de/waldbraende-in-belgien-und-deutschland-dauern-an-evakuierungen-in-monschau-in-nordrhein-westfalen-102.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,15 +206,15 @@
       "title": "Hohes Venn - \"Zombiefeuer\" - warum Moorbrände so schwer zu löschen sind",
       "excerpt": "Immer wieder brennen in Deutschland und anderen Ländern Moore mit Torfschichten. Solche Brände sind schwer zu löschen und stellen Feuerwehrleute vor große Herausforderungen. Einsatzkräfte sprechen auch von \"Zombiefeuern\"",
       "url": "https://www.deutschlandfunk.de/zombiefeuer-warum-moorbraende-so-schwer-zu-loeschen-sind-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Klima - Umweltverbände begrüßen Hitzeschutzplan-Vorhaben der SPD",
+      "title": "Klima - Umweltverbände begrüßen Hitzeschutz-Vorhaben der SPD",
       "excerpt": "Umwelt- und Klimaschutzverbände haben den Vorstoß der SPD für einen Hitzeschutzplan befürwortet.",
-      "url": "https://www.deutschlandfunk.de/umweltverbaende-begruessen-hitzeschutzplan-vorhaben-der-spd-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "url": "https://www.deutschlandfunk.de/umweltverbaende-begruessen-hitzeschutz-vorhaben-der-spd-100.html",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +222,7 @@
       "title": "Ben-Gvir - Israels Sicherheitsminister: Jede Nacht 30 bis 40 Menschen in Gaza töten",
       "excerpt": "Israels Sicherheitsminister Ben-Gvir hat sich für fortdauernde gezielte Tötungen von Menschen in Gaza ausgesprochen.",
       "url": "https://www.deutschlandfunk.de/israels-sicherheitsminister-jede-nacht-30-bis-40-menschen-in-gaza-toeten-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +230,7 @@
       "title": "Ukraine-Krieg - \"Wir lassen uns nicht einschüchtern\": Bundesregierung reagiert auf Lawrow-Drohung",
       "excerpt": "Die Bundesregierung hat Drohungen aus Russland gegen Unterstützer der Ukraine zurückgewiesen.",
       "url": "https://www.deutschlandfunk.de/wir-lassen-uns-nicht-einschuechtern-bundesregierung-reagiert-auf-lawrow-drohung-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +238,7 @@
       "title": "Großbritannien - Britischer Premier chattete laut Medienberichten mit Trumps falscher Stabschefin",
       "excerpt": "Der neue britische Premierminister Burnham soll laut Medienberichten Nachrichten mit einer Person ausgetauscht haben, die sich als die Stabschefin von US-Präsident Trump ausgab.",
       "url": "https://www.deutschlandfunk.de/britischer-premier-chattete-laut-medienberichten-mit-trumps-falscher-stabschefin-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,15 +246,7 @@
       "title": "Medienbericht - Operation Puppet Master: US-Heimatschutz spionierte linke Organisationen aus",
       "excerpt": "In den USA hat das Heimatschutzministerium einem Medienbericht zufolge linksgerichtete Organisationen ausspioniert.",
       "url": "https://www.deutschlandfunk.de/operation-puppet-master-us-heimatschutz-spionierte-linke-organisationen-aus-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ex-Verlobte von Klitschko - US-Schauspielerin Hayden Panettiere im Alter von 36 Jahren gestorben",
-      "excerpt": "Die US-amerikanische Schauspielerin Hayden Panettiere, bekannt für ihre Rollen in Fernsehserien wie \"Nashville\" und \"Heroes\", ist im Alter von 36 Jahren gestorben.",
-      "url": "https://www.deutschlandfunk.de/us-schauspielerin-hayden-panettiere-im-alter-von-36-jahren-gestorben-104.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +254,7 @@
       "title": "Aggressionen - Stimmung im Straßenverkehr wird rauer",
       "excerpt": "Drängeln, Lichthupe, auf der Autobahn rechts überholen - Aggressionen haben im deutschen Straßenverkehr in den vergangenen Jahren deutlich zugenommen.",
       "url": "https://www.deutschlandfunk.de/stimmung-im-strassenverkehr-wird-rauer-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +262,7 @@
       "title": "Wirtschaft - Arbeitgeberverband Gesamtmetall spricht von größter Krise der Nachkriegszeit",
       "excerpt": "Der Arbeitgeberverband Gesamtmetall hat die gegenwärtige Wirtschaftskrise als größte seit dem Zweiten Weltkrieg bezeichnet.",
       "url": "https://www.deutschlandfunk.de/arbeitgeberverband-gesamtmetall-spricht-von-groesster-krise-der-nachkriegszeit-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +270,7 @@
       "title": "Medienbericht - Zahl freiwilliger Ausreisen aus Deutschland nimmt zu",
       "excerpt": "Deutlich mehr Migranten und abgelehnte Asylbewerber verlassen nach Presseinformationen freiwillig Deutschland.",
       "url": "https://www.deutschlandfunk.de/zahl-freiwilliger-ausreisen-aus-deutschland-nimmt-zu-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +278,7 @@
       "title": "Thüringen - BSW-Chef De Masi drängt weiter auf neue Regierung nach Entzug des Doktortitels von Ministerpräsident Voigt (CDU)",
       "excerpt": "Der BSW-Vorsitzende De Masi hat die Forderung des Bundesvorstands der Partei nach einer Beendigung der Koalition in Thüringen verteidigt.",
       "url": "https://www.deutschlandfunk.de/bsw-chef-de-masi-draengt-weiter-auf-neue-regierung-nach-entzug-des-doktortitels-von-ministerpraeside-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +286,7 @@
       "title": "Parteien - Wagenknecht ruft Höcke erneut zu Gespräch auf",
       "excerpt": "BSW-Gründerin Wagenknecht hat den thüringischen AfD-Chef Höcke erneut zu einem öffentlichen Streitgespräch aufgefordert.",
       "url": "https://www.deutschlandfunk.de/wagenknecht-ruft-hoecke-erneut-zu-gespraech-auf-106.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +294,7 @@
       "title": "Grünen-Chef - Vor Ost-Landtagswahlen: Banaszak fordert Gesprächsbereitschaft von CDU und Linken",
       "excerpt": "Mit Blick auf die Landtagswahlen im September hat Grünen-Chef Banaszak an die CDU appelliert, auch mit der Linkspartei über eine mögliche Regierungsbildung zu sprechen.",
       "url": "https://www.deutschlandfunk.de/vor-ost-landtagswahlen-banaszak-fordert-gespraechsbereitschaft-von-cdu-und-linken-108.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,7 +302,7 @@
       "title": "Wahlkampf Sachsen-Anhalt - AfD-Chefin Weidel: Verfassungsschutz in seiner jetzigen Form abschaffen",
       "excerpt": "Die AfD-Vorsitzende Weidel hat die Forderung nach einer Abschaffung des Verfassungsschutzes bekräftigt.",
       "url": "https://www.deutschlandfunk.de/afd-chefin-weidel-verfassungsschutz-in-seiner-jetzigen-form-abschaffen-102.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -286,7 +310,15 @@
       "title": "Sachsen-Anhalt - \"Spiegel\" verteidigt Cover mit Ulrich Siegmund (AfD) als \"gefährlichsten Mann Deutschlands\"",
       "excerpt": "\"Der Spiegel\" hat den AfD-Politiker Ulrich Siegmund zum gefährlichsten Mann Deutschlands erklärt. Der Spitzenkandidat in Sachsen-Anhalt nimmt es als Werbung für sich. Das Nachrichtenmagazin verteidigt sich gegen Kritik.",
       "url": "https://www.deutschlandfunk.de/spiegel-verteidigt-cover-mit-ulrich-siegmund-afd-als-gefaehrlichsten-mann-deutschlands-100.html",
-      "publishedAt": "2026-08-17T13:03:27.000Z",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Polio-Virus - Viele Kinder in Deutschland laut Impfkommission schlecht vor Kinderlähmung geschützt",
+      "excerpt": "Der Vorsitzende der Ständigen Impfkommission, Berner, warnt vor Lücken beim Impfschutz von Vorschulkindern.",
+      "url": "https://www.deutschlandfunk.de/viele-kinder-in-deutschland-laut-impfkommission-schlecht-vor-kinderlaehmung-geschuetzt-100.html",
+      "publishedAt": "2026-08-17T13:04:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -299,9 +331,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Nach Tod von Professor verurteilt Cambridge-Rektor »rassistischen Wahn«",
-      "excerpt": "Die Vorwürfe gegen den verstorbenen Jason Arday hatten zuletzt eine heftige Debatte über Rassismus, akademische Standards und den Umgang mit Plagiatsvorwürfen ausgelöst. Seine Familie spricht von einer »Mobbing-Kampagne«",
-      "url": "https://www.spiegel.de/politik/nach-tod-von-professor-verurteilt-cambridge-rektor-rassistischen-wahn-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
+      "title": "Jason Arday: Cambridge-Rektor verurteilt »rassistischen Wahn« nach Tod",
+      "excerpt": "Die Vorwürfe gegen den verstorbenen Jason Arday hatten zuletzt eine heftige Debatte über Rassismus, akademische Standards und den Umgang mit Plagiatsvorwürfen ausgelöst. Seine Familie spricht von einer »Mobbingkampagne«.",
+      "url": "https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
       "publishedAt": "2026-08-17T12:53:00.000Z",
       "category": "POLITIK"
     },
@@ -323,7 +355,7 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Die politische Risse hinter der Militärparade in Warschau",
+      "title": "Die politischen Risse hinter der Militärparade in Warschau",
       "excerpt": "Mit einer großen Parade wollte Polen am vergangenen Wochenende Stärke demonstrieren. Doch innenpolitische Konflikte trüben die Wirkung: Premier und Präsident streiten - ausgerechnet über ein EU-Rüstungsprogramm. Von Pete",
       "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "publishedAt": "2026-08-17T12:19:02.000Z",
@@ -363,17 +395,17 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Solidarität mit Karikaturisten: Den Stift nicht verbieten lassen",
-      "excerpt": "Ein berühmter ugandischer Karikaturist wird zu einer hohen Geldstrafe verurteilt. In kürzester Zeit sammelt eine weltweite Spendenkampagne die Summe ein. mehr...",
-      "url": "https://taz.de/Solidaritaet-mit-Karikaturisten/!6204942/",
+      "title": "Bilderbuch über Haare und Zugehörigkeit: Locken, wie sie mir gefallen",
+      "excerpt": "Catherine Adufe Folawiyos Bilderbuch „Der Haarkunstshop – Einmal glatte Haare, bitte!“ erzählt von Zugehörigkeit und der Geschichte der Haare. mehr...",
+      "url": "https://taz.de/Bilderbuch-ueber-Haare-und-Zugehoerigkeit/!6204955/",
       "publishedAt": "2026-08-17T11:19:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
-      "title": "Bilderbuch über Haare und Zugehörigkeit: Locken, wie sie mir gefallen",
-      "excerpt": "Catherine Adufe Folawiyos Bilderbuch „Der Haarkunstshop – Einmal glatte Haare, bitte!“ erzählt von Zugehörigkeit und der Geschichte der Haare. mehr...",
-      "url": "https://taz.de/Bilderbuch-ueber-Haare-und-Zugehoerigkeit/!6204955/",
+      "title": "Solidarität mit Karikaturisten: Den Stift nicht verbieten lassen",
+      "excerpt": "Ein berühmter ugandischer Karikaturist wird zu einer hohen Geldstrafe verurteilt. In kürzester Zeit sammelt eine weltweite Spendenkampagne die Summe ein. mehr...",
+      "url": "https://taz.de/Solidaritaet-mit-Karikaturisten/!6204942/",
       "publishedAt": "2026-08-17T11:19:00.000Z",
       "category": "POLITIK"
     },
@@ -435,9 +467,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Südkorea: Regierung setzt trotz Trump-Kritik auf enge Kooperation mit USA",
+      "title": "Südkorea: Regierung setzt trotz Kritik von Donald Trump auf enge Kooperation mit den USA",
       "excerpt": "Donald Trump hat angekündigt, US-südkoreanische Militärübungen einzuschränken. Doch Seoul hält an der engen Zusammenarbeit mit Washington fest. Währenddessen setzt Nordkorea seine Raketentests fort.",
-      "url": "https://www.spiegel.de/politik/suedkorea-regierung-setzt-trotz-trump-kritik-auf-enge-kooperation-mit-usa-a-7d654fb2-4394-42af-acc6-9d160a0352b3#ref=rss",
+      "url": "https://www.spiegel.de/politik/suedkorea-regierung-setzt-trotz-kritik-von-donald-trump-auf-enge-kooperation-mit-den-usa-a-7d654fb2-4394-42af-acc6-9d160a0352b3#ref=rss",
       "publishedAt": "2026-08-17T09:12:00.000Z",
       "category": "POLITIK"
     },
@@ -447,14 +479,6 @@
       "excerpt": "Würde die AfD in Sachsen-Anhalt an die Macht kommen, könnte das der Wirtschaft vor Ort nachhaltig schaden. Wie positionieren sich die Unternehmen? Eine Spurensuche. mehr...",
       "url": "https://taz.de/Wirtschaftlicher-Schaden-durch-die-AfD-in-Sachsen-Anhalt-Wie-positionieren-sich-die-Unternehmen/!6200842/",
       "publishedAt": "2026-08-17T09:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reisen in Mexiko: Wir sollten die Welt als Teppich erzählen",
-      "excerpt": "Nationale Narrative sind wirkmächtig. Viel akkurater bei der Erzählung der Welt aber sind Kulturregionen. Ein paar Gedanken aus Monterrey. mehr...",
-      "url": "https://taz.de/Reisen-in-Mexiko/!6200792/",
-      "publishedAt": "2026-08-17T08:31:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -515,9 +539,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Israel: Itamar Ben-Gvir ruft zu deutlich mehr Gewalt im Gazastreifen auf",
+      "title": "Israel: Itamar Ben-Gvir fordert die Tötung von 30 bis 40 Menschen in Gaza – jede Nacht",
       "excerpt": "Israels rechtsextremer Sicherheitsminister Itamar Ben-Gvir fordert deutlich mehr Gewalt im Gazastreifen. In einem Podcast sagt er, dort gebe es Menschen, die »nicht einmal Menschen« seien.",
-      "url": "https://www.spiegel.de/politik/israel-itamar-ben-gvir-ruft-zu-deutlich-mehr-gewalt-im-gazastreifen-auf-a-2c691f79-2dba-4e0b-9c09-7467e0b2adb8#ref=rss",
+      "url": "https://www.spiegel.de/politik/israel-itamar-ben-gvir-fordert-die-toetung-von-30-bis-40-menschen-in-gaza-jede-nacht-a-2c691f79-2dba-4e0b-9c09-7467e0b2adb8#ref=rss",
       "publishedAt": "2026-08-17T05:17:00.000Z",
       "category": "POLITIK"
     },
@@ -786,14 +810,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "News: Waldbrände in Deutschland, Machtübernahme der Taliban, Russlands Krieg gegen ukrainische Zivilisten",
-      "excerpt": "Hunderte Feuerwehrkräfte kämpfen gegen den Waldbrand in der Eifel. Die Taliban sind seit fünf Jahren an der Macht. Und Russland zielt auf ukrainische Tankstellen. Das ist die Lage am Samstagmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
-      "publishedAt": "2026-08-15T04:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
       "excerpt": "Im Iran-Krieg ist ein Frieden immer noch nicht absehbar. Nun hat US-Präsident Trump angedroht: Bald schon wolle er die Straße von Hormus zu US-Territorium erklären. Iran reagierte umgehend.",
@@ -986,14 +1002,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
-      "excerpt": "Die Bundesregierung will die Kosten für die Kinder- und Jugendhilfe senken und das System effizienter machen. Die Änderungen hat das Kabinett nun auf den Weg gebracht. Sie betreffen etwa die Schulbegleitung. Kritik kommt",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
-      "publishedAt": "2026-08-12T12:59:19.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Jugend auf dem Arbeitsmarkt: Wie ist ihre Situation? Int. mit Nina Krüger",
       "excerpt": "Schlemper, Tobias www.deutschlandfunk.de, Campus & Karriere",
@@ -1016,14 +1024,6 @@
       "url": "https://www.deutschlandfunk.de/bafoeg-erhoehung-kabinett-beschliesst-reform-100.html",
       "publishedAt": "2026-08-12T12:36:16.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
-      "excerpt": "In Deutschland muss man mindestens 16 sein, um Alkohol trinken zu dürfen. Bislang gilt aber eine Ausnahme: Sind Erziehungsberechtigte dabei, dürfen auch 14- und 15-Jährige zu Bier oder Wein greifen. Das soll sich ändern.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html",
-      "publishedAt": "2026-08-12T11:52:36.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
