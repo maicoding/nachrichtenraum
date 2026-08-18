@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-08-18T16:49:00.084Z",
+  "updatedAt": "2026-08-18T17:43:25.206Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "„Politische Vernunft“ - Linken-Kandidat sagt: Wählt mich nicht!",
-      "excerpt": "Linken-Kandidat ruft zur Erststimme für Schwesig auf, um AfD-Erfolg zu verhindern.",
-      "url": "https://www.bild.de/politik/inland/wahl-in-mv-linken-kandidat-sagt-waehlt-mich-nicht-6a8464023f3b2550f6df3960",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "title": "Bundesnetzagentur-Chef warnt Verbraucher - Jetzt droht der nächste Heizkosten-Schock",
+      "excerpt": "Steigende Gaspreise und leere Speicher: Viele Haushalte zahlen im Winter deutlich mehr.",
+      "url": "https://www.bild.de/politik/inland/gaspreise-steigen-so-schuetzen-sich-verbraucher-vor-hoeheren-heizkosten-6a84516fd537b08639dcbfdf",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident postet Karte - Trump: Straße von Hormus „neues US-Territorium“",
+      "excerpt": "Trump markiert Straße von Hormus auf Karte als „Neues US-Gebiet“ der USA.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-strasse-von-hormus-auf-karte-als-neues-us-gebiet-markiert-6a847db261327bbf26cfb429",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Lagezentrum - Jetzt herrscht Drohnenkrieg an allen Fronten",
+      "excerpt": "Lagezentrum 260818",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-lagezentrum-jetzt-herrscht-drohnenkrieg-an-allen-fronten-6a846b1a3f3b2550f6df3a22",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +30,15 @@
       "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
       "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
       "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Politische Vernunft“ - Linken-Kandidat sagt: Wählt mich nicht!",
+      "excerpt": "Linken-Kandidat ruft zur Erststimme für Schwesig auf, um AfD-Erfolg zu verhindern.",
+      "url": "https://www.bild.de/politik/inland/wahl-in-mv-linken-kandidat-sagt-waehlt-mich-nicht-6a8464023f3b2550f6df3960",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +46,7 @@
       "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
       "excerpt": "Donaustahl-Chef Stefan Thumann lebt seit mehreren Monaten im Untergrund.",
       "url": "https://www.bild.de/politik/inland/er-liefert-drohnen-an-die-ukraine-nowitschok-sollte-deutschen-waffenboss-toeten-6a84748461327bbf26cfb375",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +54,7 @@
       "title": "Flüchtlinge kämpfen gegen Langeweile - Wrestling-Duelle am Strand von Ceuta",
       "excerpt": "Video-Beschreibung: Im Migrantenlager von Ceuta organisieren junge Männer Wrestling-Duelle als Zeitvertreib. Die Aufnahmen lösen in ...",
       "url": "https://www.bild.de/politik/fluechtlinge-kaempfen-gegen-langeweile-wrestling-duelle-am-strand-von-ceuta-6a833cdb6ea5074f5dd87f65",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +62,7 @@
       "title": "BILD liegen neue Asyl-Zahlen vor - Abschiebe-Desaster!",
       "excerpt": "Tausende geplante Abschiebungen scheitern, weil Ausreisepflichtige untertauchen.",
       "url": "https://www.bild.de/politik/inland/bild-liegen-neue-asyl-zahlen-vor-abschiebe-desaster-6a843f8fd54f65372fb0cf36",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +70,7 @@
       "title": "BILD-Redakteur vom AFD-Wahlkampf - „Sie feiern ihn wie einen Popstar“",
       "excerpt": "Ein BILD-Reporter zeigt, wie der Wahlkampf in Sachsen-Anhalt anläuft.",
       "url": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +78,7 @@
       "title": "Felix Banaszak - Grünen-Chef räumt Mitschuld am AfD-Aufstieg ein",
       "excerpt": "Grünen-Chef Banaszak räumt Fehler im Umgang mit der AfD ein.",
       "url": "https://www.bild.de/politik/inland/felix-banaszak-gruenen-chef-raeumt-mitschuld-am-afd-aufstieg-ein-6a8336ab9fcb5798aae39a7f",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +86,7 @@
       "title": "BILD-Politikchef zu Steuerplänen - „Regierung taumelt von einer Panne zur nächsten“",
       "excerpt": "Experten warnen: Die Steuerpläne der Regierung könnten Staat und Bürger belasten.",
       "url": "https://www.bild.de/politik/bild-politikchef-zu-steuerplaenen-regierung-taumelt-von-einer-panne-zur-naechsten-6a8479bf61327bbf26cfb3e1",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +94,7 @@
       "title": "Klima-Expertin über Wetter-Wahnsinn - Machen wir uns bald unser eigenes Wetter?",
       "excerpt": "Klimaforscherin Ulrike Lohmann erklärt, wie Menschen das Wetter bereits beeinflussen und was möglich ist.",
       "url": "https://www.bild.de/politik/klima-expertin-ueber-wetter-wahnsinn-machen-wir-uns-bald-unser-eigenes-wetter-6a840d989fcb5798aae3a27b",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +102,7 @@
       "title": "TV-Sender droht Lizenzentzug - Klage! Trumps Disney-Zoff geht in nächste Runde",
       "excerpt": "ABC verklagt US-Medienaufsicht und spricht von Trumps politischer Rache.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-disney-zoff-geht-in-die-naechste-runde-tv-sender-droht-lizenzentzug-6a84644961327bbf26cfb236",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +110,7 @@
       "title": "Der Politik-Vodcast - Vertraulich - „Gefeiert wie ein Popstar“",
       "excerpt": "AfD-Anhänger in Sachsen-Anhalt feiern Spitzenkandidat Siegmund wie einen Star.",
       "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-gefeiert-wie-ein-popstar-6a845d8561327bbf26cfb196",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +118,7 @@
       "title": "Teenie mit Baseballschläger verprügelt? - Jetzt wird’s für den AfD-Mann ernst",
       "excerpt": "Staatsanwaltschaft prüft Gewaltvorwurf und Alkoholfahrt gegen Arno Bausemer.",
       "url": "https://www.bild.de/politik/inland/arno-bausemer-ermittlungen-wegen-gefaehrlicher-koerperverletzung-6a845c52e6cb5d22726511b2",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Nach Ceuta-Ansturm - Dobrindt verlängert Grenzkontrollen",
       "excerpt": "Dobrindt lässt Grenzkontrollen sechs Monate länger laufen, um Migration zu bremsen.",
       "url": "https://www.bild.de/politik/inland/dobrindt-grenzkontrollen-werden-um-sechs-monate-verlaengert-6a84618cd537b08639dcc13c",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "Wegen Kriegsende - Immer mehr Syrer müssen Deutschland verlassen",
       "excerpt": "Mehr Syrer verlieren nach neuen Prüfungen Asylschutz, Polizei fordert mehr Abschiebehaft.",
       "url": "https://www.bild.de/politik/inland/syrer-in-deutschland-23-prozent-verlieren-schutzstatus-6a8422239fcb5798aae3a457",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
@@ -118,31 +142,63 @@
       "title": "Muss Hitzeschutz ins Grundgesetz? - „Pflegeheime müssen aufgerüstet werden“",
       "excerpt": "Sollten Krankenkassen Sie über höhere Beiträge informieren? Diskutieren Sie mit!",
       "url": "https://www.bild.de/politik/inland/hitzeschutz-im-grundgesetz-konkrete-massnahmen-statt-mehr-buerokratie-6a845d4a3f3b2550f6df38b8",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "publishedAt": "2026-08-18T17:43:24.585Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Parteichef Banaszak im BILD-Interview - „Die Grünen waren Teil eines Kulturkampfes“",
-      "excerpt": "Während die Grünen sich im Bund zur stärksten linken Kraft aufgeschwungen haben, drohen bei den Ost-Wahlen im Herbst heftige Klatsch...",
-      "url": "https://www.bild.de/politik/parteichef-banaszak-im-bild-interview-die-gruenen-waren-teil-eines-kulturkampfes-6a84550f61327bbf26cfb0a4",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "source": "TAZ.DE",
+      "title": "Sahra Wagenknecht: Die Zerstörerin",
+      "excerpt": "Das BSW zerlegt sich, weil die Thüringer Landtagsfraktion der Parteispitze nicht gehorchen will. Schuld am Untergang ist allein die Gründerin selbst. mehr...",
+      "url": "https://taz.de/Thueringen-Wie-Sahra-Wagenknecht-das-BSW-zerlegt/!6205275/",
+      "publishedAt": "2026-08-18T17:38:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
-      "excerpt": "Video",
-      "url": "https://www.bild.de/politik/aufnahmen-von-1949-zeigen-krasse-duerre-schon-damals-kein-wasser-im-rhein-6a82d9a9a87e8142c31d29f0",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "source": "TAZ.DE",
+      "title": "1.637 Tage Krieg in der Ukraine: Zwischen Feriencamp und Luftalarm",
+      "excerpt": "Sommerferien gibt es auch im Krieg. Aber was tun mit den Kindern, wenn sie die freien Tage nicht nur im Keller verbringen sollen? Mütter aus Odessa berichten. mehr...",
+      "url": "https://taz.de/1637-Tage-Krieg-in-der-Ukraine/!6200695/",
+      "publishedAt": "2026-08-18T17:36:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Prügel, Erniedrigungen, Folter - Die Funksprüche des Grauens von Putins Armee",
-      "excerpt": "Abgehörte Funksprüche zeigen Gewalt, Zwang und Verzweiflung in Putins Armee.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russische-soldaten-wenn-kameraden-umdrehen-werden-sie-erschossen-6a834b8ea87e8142c31d32b7",
-      "publishedAt": "2026-08-18T16:48:59.981Z",
+      "source": "TAZ.DE",
+      "title": "„Spiegel“-Titel zu Sachsen-Anhalt: Feigheit vor dem Feind",
+      "excerpt": "Der „Spiegel“ bezeichnet den AfD-Kandidaten für Sachsen-Anhalt als „gefährlichsten Mann Deutschlands“. Werbung für die AfD oder wichtiges Statement? mehr...",
+      "url": "https://taz.de/Spiegel-Titelseite-mit-Ulrich-Siegmund-AfD-Werbung-oder-wichtiges-Statement/!6205299/",
+      "publishedAt": "2026-08-18T17:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Regisseurin Jane Schoenbrun: „Diese Filme kosten Gewalt aus“",
+      "excerpt": "Jane Schoenbrun hat die Horror-Slasher-Liebes-Komödie „Teenage Sex and Death at Camp Miasma“ gedreht. Ein Gespräch über Gilian Anderson und Transfeindlichkeit im Horrorgenre. mehr...",
+      "url": "https://taz.de/Jane-Schoenbrun-ueber-Teenage-Sex-and-Death-at-Camp-Miasma-Diese-Filme-kosten-die-Gewalt-aus/!6205260/",
+      "publishedAt": "2026-08-18T17:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Grüne in Mecklenburg-Vorpommern: Landesverband als Selbstbeschäftigungsgruppe",
+      "excerpt": "In MV tritt Grünen-Fraktionschefin Constanze Oehlrich wenige Wochen vor der Landtagswahl zurück. Zuvor waren erneut Belästigungsvorwürfe gegen sie laut geworden. mehr...",
+      "url": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6205253/",
+      "publishedAt": "2026-08-18T17:33:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Deutsche Reaktionen auf Ben Gvir: Die taktische Empörung der chronisch Unterempörten",
+      "excerpt": "Über die Aussagen des israelischen Ministers sind deutsche Politiker plötzlich entrüstet. Israels permanente Gewalt interessiert sie dagegen kaum. Das folgt einer Logik. mehr...",
+      "url": "https://taz.de/Deutsche-Reaktionen-auf-Ben-Gvir/!6200929/",
+      "publishedAt": "2026-08-18T17:32:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Plötzlich Filme aus Mediathek gelöscht: Kauft Blu-Rays!",
+      "excerpt": "Wenn Anbieter die Lizenz für Filme verlieren, können die aus der Mediathek verschwinden – auch wenn man sie gekauft hatte. Physische Medien können die Lösung sein. mehr...",
+      "url": "https://taz.de/Gekaufte-Filme-aus-Streaming-Mediatheken-geloescht-Holt-euch-Blu-Rays/!6205084/",
+      "publishedAt": "2026-08-18T17:31:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -150,7 +206,7 @@
       "title": "Trockenheit - Bauernverband: Schlechte Getreideernte in diesem Jahr",
       "excerpt": "Der Deutsche Bauernverband hat seine Erntebilanz vorgestellt. Sie fällt angesichts geringer Niederschläge wie erwartet schlecht aus. Beim Getreide wird mit einem bundesweiten Ertrag von 41,9 Millionen Tonnen gerechnet. D",
       "url": "https://www.deutschlandfunk.de/bauernverband-schlechte-getreideernte-in-diesem-jahr-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +214,7 @@
       "title": "\"Tötungen\" im Gazastreifen - Zentralrat der Juden distanziert sich von Ben-Gvir - \"Beschämend und verantwortungslos\"",
       "excerpt": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, hat die Äußerungen des israelischen Sicherheitsministers Ben-Gvir über gezielte Tötungen von Palästinensern verurteilt. Das Verhalten des Ministers sei zu",
       "url": "https://www.deutschlandfunk.de/zentralrat-der-juden-distanziert-sich-von-ben-gvir-beschaemend-und-verantwortungslos-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +222,7 @@
       "title": "Israel - Itamar Ben-Gvir: Welche Bedeutung der radikale Minister für Netanjahu hat",
       "excerpt": "Mit seinen Aussagen über gezielte Tötungen von Palästinensern im Gazastreifen steht Israels rechtsextremer Minister für die Nationale Sicherheit erneut international in der Kritik. Doch wer ist eigentlich Itamar Ben-Gvir",
       "url": "https://www.deutschlandfunk.de/itamar-ben-gvir-welche-bedeutung-der-radikale-minister-fuer-netanjahu-hat-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +230,15 @@
       "title": "Syrien - Internationale Atomenergiebehörde entdeckt mehrere Tonnen Nuklearmaterial",
       "excerpt": "Bei einem Inspektionsbesuch in Syrien haben Mitarbeiter der Internationalen Atomenergiebehörde IAEA mehrere Tonnen Nuklearmaterial entdeckt.",
       "url": "https://www.deutschlandfunk.de/internationale-atomenergiebehoerde-entdeckt-mehrere-tonnen-nuklearmaterial-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Epidemie - Bereits mehr als 5.000 bestätigte Ebola-Fälle im Kongo",
+      "excerpt": "In der Demokratischen Republik Kongo ist die Zahl der registrierten Ebola-Fälle auf mehr als 5.000 gestiegen.",
+      "url": "https://www.deutschlandfunk.de/bereits-mehr-als-5-000-bestaetigte-ebola-faelle-im-kongo-100.html",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +246,15 @@
       "title": "Migration - Innenminister Dobrindt will Grenzkontrollen noch bis mindestens Mitte März",
       "excerpt": "Bundesinnenminister Dobrindt will die Kontrollen an den deutschen Grenzen zu den Nachbarstaaten um ein weiteres halbes Jahr verlängern.",
       "url": "https://www.deutschlandfunk.de/innenminister-dobrindt-will-grenzkontrollen-noch-bis-mindestens-mitte-maerz-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Experte warnt - Moorbrände können bedenkliche Menge an Schadstoffen freisetzen",
+      "excerpt": "Durch Brände in Mooren wie jetzt im Hohen Venn in Belgien werden zahlreiche Schadstoffe freigesetzt. Darauf weist der Umweltforscher Dominik Henrik Zak von der Universität Aarhus hin.",
+      "url": "https://www.deutschlandfunk.de/moorbraende-koennen-bedenkliche-menge-an-schadstoffen-freisetzen-102.html",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +262,7 @@
       "title": "Waldbrände - Richterbund mahnt bessere Strafverfolgung statt Strafverschärfung an",
       "excerpt": "Mit Blick auf die Waldbrände hat der Deutsche Richterbund Forderungen nach höheren Strafen für Brandstiftung zurückgewiesen.",
       "url": "https://www.deutschlandfunk.de/richterbund-mahnt-bessere-strafverfolgung-statt-strafverschaerfung-an-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +270,15 @@
       "title": "Belgien - Feuer im Hohen Venn führt zu Brandgeruch bis Köln und Frankfurt",
       "excerpt": "Das Großfeuer im Hohen Venn in Belgien führt in Teilen Westdeutschlands zu Geruchsbelästigungen. Bis nach Köln und Frankfurt sind die Brände nahe der deutsch-belgischen Grenze wahrnehmbar. Stellenweise kommt es auch zu S",
       "url": "https://www.deutschlandfunk.de/feuer-im-hohen-venn-fuehrt-zu-brandgeruch-bis-koeln-und-frankfurt-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kriminalität - Gefängnis-Deal: Erste schwedische Häftlinge in Estland eingetroffen",
+      "excerpt": "In Estland sind erste vier schwedische Gefangene eingetroffen, um ihre Haftstrafen in dem baltischen EU-Land zu verbüßen.",
+      "url": "https://www.deutschlandfunk.de/gefaengnis-deal-erste-schwedische-haeftlinge-in-estland-eingetroffen-100.html",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +286,7 @@
       "title": "Thüringen - Voigt setzt weiter auf Brombeer-Koalition - Richtungsstreit im BSW",
       "excerpt": "Thüringens Ministerpräsident Voigt hält seine Regierungskoalition trotz des Richtungsstreits im BSW für nicht gefährdet. Der CDU-Politiker sagte der Deutschen Presse-Agentur, man lasse sich nicht auseinandertreiben und T",
       "url": "https://www.deutschlandfunk.de/voigt-setzt-weiter-auf-brombeer-koalition-richtungsstreit-im-bsw-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +294,7 @@
       "title": "Sachsen - Aktionsplan gegen Extremismus an Schulen",
       "excerpt": "Sachsen will mit einem Aktionsplan gegen Extremismus an Schulen vorgehen. Bei der Vorstellung in Dresden begründete Kultusminister Clemens die geplanten Maßnahmen mit einem starken Anstieg entsprechender Fälle. Man wolle",
       "url": "https://www.deutschlandfunk.de/aktionsplan-gegen-extremismus-an-schulen-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +302,7 @@
       "title": "Luftfahrt - Erneuter Zwischenfall am Flughafen München: Lufthansa-Airbus setzt bei Landung zu früh auf",
       "excerpt": "Am Flughafen München hat es wenige Tage nach dem knapp vermiedenen Unfall eines Boeing-Flugzeugs einen weiteren Zwischenfall gegeben.",
       "url": "https://www.deutschlandfunk.de/erneuter-zwischenfall-am-flughafen-muenchen-lufthansa-airbus-setzt-bei-landung-zu-frueh-auf-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +310,7 @@
       "title": "Zeitz in Sachsen-Anhalt - Gedenken an Selbstverbrennung von Pfarrer Brüsewitz in DDR vor 50 Jahren",
       "excerpt": "In Sachsen-Anhalt ist mit einer Kranzniederlegung und einem Requiem an die Selbstverbrennung des Pfarrers Oskar Brüsewitz vor 50 Jahren erinnert worden.",
       "url": "https://www.deutschlandfunk.de/gedenken-an-selbstverbrennung-von-pfarrer-bruesewitz-in-ddr-vor-50-jahren-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +318,7 @@
       "title": "Konjunktur - Volks- und Raiffeisenbanken erwarten deutliche Erholung der deutschen Wirtschaft",
       "excerpt": "Der Bundesverband der Deutschen Volks- und Raiffeisenbanken hat seine Wachstumsprognose für die deutsche Wirtschaft verdoppelt.",
       "url": "https://www.deutschlandfunk.de/volks-und-raiffeisenbanken-erwarten-deutliche-erholung-der-deutschen-wirtschaft-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +326,7 @@
       "title": "Magdeburg-Cochstedt - Neues Zentrum für Drohnen-Sicherheit an Testflughafen in Sachsen-Anhalt eröffnet",
       "excerpt": "Die Bundesregierung hat in Sachsen-Anhalt ein neues Forschungszentrum eröffnet, das gezielte Abwehrmöglichkeiten gegen Drohnen entwickeln soll. Bundesinnenminister Dobrindt sagte am Flughafen Magdeburg-Cochstedt, das dor",
       "url": "https://www.deutschlandfunk.de/neues-zentrum-fuer-drohnen-sicherheit-an-testflughafen-in-sachsen-anhalt-eroeffnet-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +334,7 @@
       "title": "Russischer Angriffskrieg - Ukraine meldet zehn Tote nach russischem Raketenangriff - ein Toter im Gebiet Saporischschja",
       "excerpt": "Bei einem russischen Raketenangriff sind im Nordosten der Ukraine zehn Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/ukraine-meldet-zehn-tote-nach-russischem-raketenangriff-ein-toter-im-gebiet-saporischschja-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,31 +342,7 @@
       "title": "Ukraine-Krieg - Großbritannien will die Ukraine trotz Drohungen aus Moskau weiter unterstützen",
       "excerpt": "Großbritannien hat der Ukraine trotz der Warnungen aus Moskau auch weiter seine Unterstützung zugesichert.",
       "url": "https://www.deutschlandfunk.de/grossbritannien-will-die-ukraine-trotz-drohungen-aus-moskau-weiter-unterstuetzen-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - USA und Türkei verurteilen israelischen Luftangriff auf verlassenen syrischen Militärflughafen in Provinz Idlib",
-      "excerpt": "Syrien hat der israelischen Armee vorgeworfen, einen verlassenen Militärflughafen im Nordwesten des Landes angegriffen zu haben.",
-      "url": "https://www.deutschlandfunk.de/usa-und-tuerkei-verurteilen-israelischen-luftangriff-auf-verlassenen-syrischen-militaerflughafen-in--100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Moscheebau und Archiveinsturz - Kölns Altoberbürgermeister Fritz Schramma ist tot",
-      "excerpt": "Der frühere Kölner Oberbürgermeister Fritz Schramma ist tot.",
-      "url": "https://www.deutschlandfunk.de/koelns-altoberbuergermeister-fritz-schramma-ist-tot-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Neue Jobstudie - Von wegen Generation \"Lifestyle-Teilzeit\": Umfrage widerlegt Vorurteile gegen junge Menschen",
-      "excerpt": "Der oft pauschal unterstellte Fokus der jungen Generation auf \"Lifestyle-Teilzeit\" lässt sich einer Befragung im Auftrag des WDR zufolge empirisch nicht bestätigen.",
-      "url": "https://www.deutschlandfunk.de/von-wegen-generation-lifestyle-teilzeit-umfrage-widerlegt-vorurteile-gegen-junge-menschen-100.html",
-      "publishedAt": "2026-08-18T16:39:30.000Z",
+      "publishedAt": "2026-08-18T17:26:37.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -354,27 +410,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Israel im Südlibanon: Neue Panik und Tausende auf der Flucht",
-      "excerpt": "Israel hat die Angriffe in Libanon verstärkt, 11 Menschen wurden getötet. Es ist die schärfste Eskalation seit dem im Juni verkündeten Waffenstillstand. mehr...",
-      "url": "https://taz.de/Israel-im-Suedlibanon/!6205284/",
-      "publishedAt": "2026-08-18T14:35:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "BSW: Was hat die offene Rebellion gegen Sahra Wagenknecht zu bedeuten?",
       "excerpt": "Thüringens BSW-Fraktion trotzt der Parteiführung und bleibt in der Regierung mit der CDU – eine offene Rebellion gegen Sahra Wagenknecht.",
       "url": "https://www.spiegel.de/politik/deutschland/bsw-was-hat-die-offene-rebellion-gegen-sahra-wagenknecht-zu-bedeuten-a-7f25be05-ab5d-41d5-90a7-c0fc266881a2#ref=rss",
       "publishedAt": "2026-08-18T14:26:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ernteausfälle durch Dürre: Bauern pochen auf Staatshilfe",
-      "excerpt": "Die Hitze belastet die deutsche Landwirtschaft, die Ernte fällt bei Getreide und Äpfeln niedrig aus. Aber wie sollte man den Betrieben helfen? mehr...",
-      "url": "https://taz.de/Ernteausfaelle-durch-Duerre/!6205227/",
-      "publishedAt": "2026-08-18T14:23:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -474,22 +514,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Niemand kann einfach so verschwinden: Feeling all the feels",
-      "excerpt": "Bei einer Geburtstagsfeier im Freien gibt es viele Umarmungen. Unter das Lachen mischen sich auch Tränen. mehr...",
-      "url": "https://taz.de/Niemand-kann-einfach-so-verschwinden/!6204943/",
-      "publishedAt": "2026-08-18T12:03:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Jahrmarkttheater Bostelwiebeck: Lieber lachen als abstürzen",
-      "excerpt": "Thomas Matschoss’ „Das größte Lachen oder die Mathematik der Komik“ am Jahrmarkttheater Bostelwiebeck oszilliert zwischen Slapstick und Galgenhumor. mehr...",
-      "url": "https://taz.de/Jahrmarkttheater-Bostelwiebeck/!6196579/",
-      "publishedAt": "2026-08-18T11:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
       "excerpt": "Online-Shops mit deutschsprachigen Namen und Webadressen, die aber gar nicht in Deutschland sitzen, nehmen zu. Für Verbraucher kann das problematisch werden, denn Qualität und Versandbedingungen sind selten gut. Woran er",
@@ -498,35 +522,11 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Gemischtes Fitnessstudio: Sie sind keine Muskelprotze",
-      "excerpt": "Der Wechsel ins gemischte Fitnessstudio ist ein Gewinn und alle Vorurteile erweisen sich als haltlos. Beim Zuschauen kann man sogar etwas lernen. mehr...",
-      "url": "https://taz.de/Training-mit-Maennern-Stimmen-die-Voruteile-ueber-gemischte-Fitnessstudios/!6205167/",
-      "publishedAt": "2026-08-18T11:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Jelinek bei den Salzburger Festspielen: Das Unendspiel vom Kapitalismus",
-      "excerpt": "Elfriede Jelineks „Unter Tieren“ wird bei den Salzburger Festspielen uraufgeführt. Molières „Menschenfeind“ mutiert dort zum Battle-Rap in Alexandrinern. mehr...",
-      "url": "https://taz.de/Jelinek-bei-den-Salzburger-Festspielen/!6204973/",
-      "publishedAt": "2026-08-18T10:58:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Drohnenabwehr in Deutschland: Forschungszentrum in Sachsen-Anhalt nimmt Arbeit auf",
       "excerpt": "Innenminister Dobrindt hat ein Forschungszentrum eröffnet, das Möglichkeiten für die Drohnenabwehr entwickeln soll. Erst vor zwei Wochen entging der Flughafen Leipzig bei einem Vorfall knapp einer Katastrophe.",
       "url": "https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss",
       "publishedAt": "2026-08-18T10:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach dem Tod von Jason Arday: Respekt für Jason Arday, Misstrauen gegen die Presse",
-      "excerpt": "Tausende Menschen kritisieren bei einer Trauerkundgebung für Jason Arday in London, Rassismus der Medien habe den Akademiker in den Suizid getrieben. mehr...",
-      "url": "https://taz.de/Nach-dem-Tod-von-Jason-Arday/!6205212/",
-      "publishedAt": "2026-08-18T08:39:00.000Z",
       "category": "POLITIK"
     },
     {
