@@ -1,84 +1,12 @@
 {
-  "updatedAt": "2026-08-19T03:11:17.299Z",
+  "updatedAt": "2026-08-19T03:58:43.580Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Bundesnetzagentur-Chef warnt Verbraucher - Jetzt droht der nächste Heizkosten-Schock",
-      "excerpt": "Steigende Gaspreise und leere Speicher: Viele Haushalte zahlen im Winter deutlich mehr.",
-      "url": "https://www.bild.de/politik/inland/gaspreise-steigen-so-schuetzen-sich-verbraucher-vor-hoeheren-heizkosten-6a84516fd537b08639dcbfdf",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Präsident postet Karte - Trump: Straße von Hormus „neues US-Territorium“",
-      "excerpt": "Trump markiert Straße von Hormus auf Karte als „Neues US-Gebiet“ der USA.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-strasse-von-hormus-auf-karte-als-neues-us-gebiet-markiert-6a847db261327bbf26cfb429",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Lagezentrum - Jetzt herrscht Drohnenkrieg an allen Fronten",
-      "excerpt": "Lagezentrum 260818",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-lagezentrum-jetzt-herrscht-drohnenkrieg-an-allen-fronten-6a846b1a3f3b2550f6df3a22",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
-      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
-      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Politische Vernunft“ - Linken-Kandidat sagt: Wählt mich nicht!",
-      "excerpt": "Linken-Kandidat ruft zur Erststimme für Schwesig auf, um AfD-Erfolg zu verhindern.",
-      "url": "https://www.bild.de/politik/inland/wahl-in-mv-linken-kandidat-sagt-waehlt-mich-nicht-6a8464023f3b2550f6df3960",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
-      "excerpt": "Donaustahl-Chef Stefan Thumann lebt seit mehreren Monaten im Untergrund.",
-      "url": "https://www.bild.de/politik/inland/er-liefert-drohnen-an-die-ukraine-nowitschok-sollte-deutschen-waffenboss-toeten-6a84748461327bbf26cfb375",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Flüchtlinge kämpfen gegen Langeweile - Wrestling-Duelle am Strand von Ceuta",
-      "excerpt": "Video-Beschreibung: Im Migrantenlager von Ceuta organisieren junge Männer Wrestling-Duelle als Zeitvertreib. Die Aufnahmen lösen in ...",
-      "url": "https://www.bild.de/politik/fluechtlinge-kaempfen-gegen-langeweile-wrestling-duelle-am-strand-von-ceuta-6a833cdb6ea5074f5dd87f65",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD liegen neue Asyl-Zahlen vor - Abschiebe-Desaster!",
-      "excerpt": "Tausende geplante Abschiebungen scheitern, weil Ausreisepflichtige untertauchen.",
-      "url": "https://www.bild.de/politik/inland/bild-liegen-neue-asyl-zahlen-vor-abschiebe-desaster-6a843f8fd54f65372fb0cf36",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Redakteur vom AFD-Wahlkampf - „Sie feiern ihn wie einen Popstar“",
-      "excerpt": "Ein BILD-Reporter zeigt, wie der Wahlkampf in Sachsen-Anhalt anläuft.",
-      "url": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
-      "publishedAt": "2026-08-19T03:11:17.294Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Union fordert - Stütze weg bei Abschiebe-Weigerung!",
       "excerpt": "Union will abgetauchten Ausreisepflichtigen Sozialleistungen komplett streichen.",
       "url": "https://www.bild.de/politik/inland/abschiebungen-krings-fordert-sozialhilfe-stopp-fuer-untergetauchte-6a84823fe6cb5d2272651484",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +14,7 @@
       "title": "Gratis-Unterkunft gestrichen - Wer Heimat-Urlaub machen kann, ist nicht obdachlos!",
       "excerpt": "CDU-Stadtrat verweigert rumänischer Familie Notunterkunft nach Heimaturlaub.",
       "url": "https://www.bild.de/politik/inland/unterkunft-gestrichen-wer-heimat-urlaub-machen-kann-ist-nicht-obdachlos-6a83ce77a87e8142c31d35d8",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +22,7 @@
       "title": "Bei Lanz - Experte spricht von Vergeltung gegen Russland",
       "excerpt": "Experte fordert Vergeltung für russische Angriffe und warnt vor deutscher Schwäche.",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/lanz-experte-peter-neumann-spricht-von-vergeltung-gegen-russland-6a84f224d537b08639dcc74f",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +30,7 @@
       "title": "Dobrindt-Basta - Merz ist der Richtige!",
       "excerpt": "Dobrindt stellt sich hinter Kanzler Merz und kündigt schärfere Abschiebungen an.",
       "url": "https://www.bild.de/politik/inland/dobrindt-basta-merz-ist-der-richtige-6a84dadc3f3b2550f6df4088",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +38,7 @@
       "title": "Holocaust-Überlebende Charlotte Knobloch - AfD und NSDAP ähneln sich „in vielen Bereichen“",
       "excerpt": "Charlotte Knobloch warnt vor der AfD und fordert härtere Mittel gegen sie.",
       "url": "https://www.bild.de/politik/inland/afd-und-nsdap-aehneln-sich-in-vielen-bereichen-sagt-charlotte-knobloch-6a84d6b93f3b2550f6df405d",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +46,7 @@
       "title": "Staatsanwältin erhebt schweren Vorwurf - Anklage: Meta hat Kinder-Gehirne „ausgenutzt“",
       "excerpt": "Auch Facebook-Gründer Mark Zuckerberg soll bald vor Gericht aussagen müssen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/schwerer-vorwurf-von-staatsanwaeltin-hat-meta-kindergehirne-ausgenutzt-6a84b4aed537b08639dcc617",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +54,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +62,7 @@
       "title": "Ministerpräsident Schulze - AfD will „Frauen zurück an den Herd“ schicken",
       "excerpt": "Kurz vor der Wahl geht CDU-Ministerpräsident Sven Schulze in die Offensive!",
       "url": "https://www.bild.de/politik/inland/ministerpraesident-kaempft-um-amt-schulze-afd-will-frauen-zurueck-an-den-herd-schicken-6a8491713f3b2550f6df3d12",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +70,95 @@
       "title": "Experten-Klartext - „Wir können uns so viele Beamte nicht mehr leisten“",
       "excerpt": "Experten warnen: Rekord-Nachzahlungen und zu viele Beamte belasten den Staat.",
       "url": "https://www.bild.de/politik/inland/experten-klartext-wir-koennen-uns-so-viele-beamte-nicht-mehr-leisten-6a8425ee07b9f9f1de127c5f",
-      "publishedAt": "2026-08-19T03:11:17.293Z",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bundesnetzagentur-Chef warnt Verbraucher - Jetzt droht der nächste Heizkosten-Schock",
+      "excerpt": "Steigende Gaspreise und leere Speicher: Viele Haushalte zahlen im Winter deutlich mehr.",
+      "url": "https://www.bild.de/politik/inland/gaspreise-steigen-so-schuetzen-sich-verbraucher-vor-hoeheren-heizkosten-6a84516fd537b08639dcbfdf",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident postet Karte - Trump: Straße von Hormus „neues US-Territorium“",
+      "excerpt": "Trump markiert Straße von Hormus auf Karte als „Neues US-Gebiet“ der USA.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-strasse-von-hormus-auf-karte-als-neues-us-gebiet-markiert-6a847db261327bbf26cfb429",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Lagezentrum - Jetzt herrscht Drohnenkrieg an allen Fronten",
+      "excerpt": "Lagezentrum 260818",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-lagezentrum-jetzt-herrscht-drohnenkrieg-an-allen-fronten-6a846b1a3f3b2550f6df3a22",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
+      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
+      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Politische Vernunft“ - Linken-Kandidat sagt: Wählt mich nicht!",
+      "excerpt": "Linken-Kandidat ruft zur Erststimme für Schwesig auf, um AfD-Erfolg zu verhindern.",
+      "url": "https://www.bild.de/politik/inland/wahl-in-mv-linken-kandidat-sagt-waehlt-mich-nicht-6a8464023f3b2550f6df3960",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Duell um mein Leben“ - Nowitschok sollte deutschen Waffenboss töten",
+      "excerpt": "Donaustahl-Chef Stefan Thumann lebt seit mehreren Monaten im Untergrund.",
+      "url": "https://www.bild.de/politik/inland/er-liefert-drohnen-an-die-ukraine-nowitschok-sollte-deutschen-waffenboss-toeten-6a84748461327bbf26cfb375",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Flüchtlinge kämpfen gegen Langeweile - Wrestling-Duelle am Strand von Ceuta",
+      "excerpt": "Video-Beschreibung: Im Migrantenlager von Ceuta organisieren junge Männer Wrestling-Duelle als Zeitvertreib. Die Aufnahmen lösen in ...",
+      "url": "https://www.bild.de/politik/fluechtlinge-kaempfen-gegen-langeweile-wrestling-duelle-am-strand-von-ceuta-6a833cdb6ea5074f5dd87f65",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD liegen neue Asyl-Zahlen vor - Abschiebe-Desaster!",
+      "excerpt": "Tausende geplante Abschiebungen scheitern, weil Ausreisepflichtige untertauchen.",
+      "url": "https://www.bild.de/politik/inland/bild-liegen-neue-asyl-zahlen-vor-abschiebe-desaster-6a843f8fd54f65372fb0cf36",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Redakteur vom AFD-Wahlkampf - „Sie feiern ihn wie einen Popstar“",
+      "excerpt": "Ein BILD-Reporter zeigt, wie der Wahlkampf in Sachsen-Anhalt anläuft.",
+      "url": "https://www.bild.de/politik/bild-redakteur-vom-afd-wahlkampf-gefeiert-wie-ein-popstar-6a843b7aa87e8142c31d3d83",
+      "publishedAt": "2026-08-19T03:58:42.522Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundesjustizministerin Hubig will Mietern Einbau von Klimaanlagen erleichtern",
+      "excerpt": "Bislang haben Mieter keinen gesetzlichen Anspruch darauf, eine Klimaanlage in der Wohnung einbauen zu dürfen. Bundesjustizministerin Hubig sprach sich dafür aus, das zu ändern. Es brauche \"praktikable Regelungen\" für bei",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-mieter-klimaanlagen-100.html",
+      "publishedAt": "2026-08-19T03:35:51.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Roboter, China, Gasspeicher, Sahra Wagenknecht, Sachsen-Anhalt",
+      "excerpt": "Der chinesische Roboterhersteller Unitree debütiert an der Börse. Die Gasspeicher sind erstaunlich leer. Und BSW-Gründerin Sahra Wagenknecht versucht sich im Wahlkampf in Sachsen-Anhalt. Das ist die Lage am Mittwochmorge",
+      "url": "https://www.spiegel.de/politik/deutschland/news-roboter-china-gasspeicher-sahra-wagenknecht-sachsen-anhalt-a-42b95818-58d2-4ef5-bff7-dc09cee498f8#ref=rss",
+      "publishedAt": "2026-08-19T03:27:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -706,14 +722,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Jason Arday: Cambridge-Rektor verurteilt »rassistischen Wahn« nach Tod",
-      "excerpt": "Die Vorwürfe gegen den verstorbenen Jason Arday hatten zuletzt eine heftige Debatte über Rassismus, akademische Standards und den Umgang mit Plagiatsvorwürfen ausgelöst. Seine Familie spricht von einer »Mobbingkampagne«.",
-      "url": "https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
-      "publishedAt": "2026-08-17T12:53:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Archäologische Sommerakademie: Studierende machen erste Ausgrabungen",
       "excerpt": "Lueg, Andrea www.deutschlandfunk.de, Campus & Karriere",
@@ -1040,14 +1048,6 @@
       "url": "https://www.deutschlandfunk.de/pilotprojekt-arbeitszeiterfassung-fuer-lehrkraefte-startet-in-bremen-100.html",
       "publishedAt": "2026-08-13T12:40:19.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
-      "excerpt": "Könnten bald Raketen von Deutschland aus starten? Die Bundesregierung prüft den Aufbau einer eigenen Startbasis für Trägerraketen der Bundeswehr, um militärische Satelliten unabhängig ins All zu befördern. Von Bianca Sch",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/raketen-bundeswehr-startbasis-100.html",
-      "publishedAt": "2026-08-13T12:40:16.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "DLF",
