@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-08-20T19:45:43.997Z",
+  "updatedAt": "2026-08-20T20:10:17.807Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von Chef-Autor Peter Tiede - In der CDU herrscht Abstiegsangst",
+      "excerpt": "Man sollte einfach aus der CDU austreten, wenn einem Chef und Richtung nicht passen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-chef-autor-peter-tiede-in-der-cdu-herrscht-abstiegsangst-6a874f761c4720d4165463ce",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Wegen Frage bei Pressekonferenz - Putin erlässt Haftbefehl gegen „FAZ“-Reporter",
       "excerpt": "In Russland wurde ein Haftbefehl gegen einen FAZ-Reporter erlassen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-einer-frage-bei-einer-pressekonferenz-putin-erlaesst-haftbefehl-gegen-faz-reporter-6a874d4e1c4720d4165463a3",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,7 @@
       "title": "Beben vor der Sachsen-Anhalt-Wahl - CDU-Mann nennt AfD-Spender „Kameradenschwein“",
       "excerpt": "CDU-Politiker verurteilen AfD-Spende ihres Bürgermeisters.",
       "url": "https://www.bild.de/politik/inland/cdu-buergermeister-spendet-an-afd-folgen-ihm-weitere-cdu-politiker-6a87015fc3692834ff6d766e",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +30,7 @@
       "title": "Gemeinsame Forderung aus Europa - Israel soll Siedlungspläne zurücknehmen",
       "excerpt": "Europa hat Israel zur Beendigung eines Siedlungsprojektes im Westjordanland aufgefordert.",
       "url": "https://www.bild.de/politik/gemeinsame-forderung-aus-europa-israel-soll-siedlungsplaene-zuruecknehmen-6a8732082073297bd594c54d",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +38,7 @@
       "title": "US-Militär lotst Tanker durch die Meerenge - USA öffne „Hormus“- Geheimroute",
       "excerpt": "USA sichern geheime Ölroute bei Hormus und schwächen so Irans Erpressungsversuch.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/us-militaer-lotst-tanker-duch-meerenge-usa-oeffnet-hormus-geheimroute-6a872f052073297bd594c535",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +46,7 @@
       "title": "Darum findet die Bundeswehr kein Personal - Soldatenmangel an der NATO-Ostflanke",
       "excerpt": "Moritz Müller erklärt die Probleme beim Aufbau der Bundeswehr-Brigade in Litauen.",
       "url": "https://www.bild.de/politik/darum-findet-die-bundeswehr-kein-personal-soldatenmangel-an-der-nato-ostflanke-6a870fe3260b7d1d2f795ad6",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +54,7 @@
       "title": "Neue Abgabe geplant - Jetzt sollen Gaskunden tiefer in die Tasche greifen",
       "excerpt": "Der Bund plant eine Gasreserve mit Umlage, Experten fordern die Finanzierung aus Steuern.",
       "url": "https://www.bild.de/politik/nach-energieschock-und-spritfrust-jetzt-droht-der-naechste-abgaben-hammer-6a4f9633a6db83ce8f1242be",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +62,7 @@
       "title": "Die Hälfte ist psychisch überfordert - Immer mehr Azubis sind unglücklich in ihrem Job",
       "excerpt": "DGB-Report zeigt: Viele Azubis fühlen sich überlastet, schlecht bezahlt und unzufrieden.",
       "url": "https://www.bild.de/politik/inland/immer-mehr-auszubildende-sind-ungluecklich-in-ihrem-job-6a86fb131c4720d416545cd5",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +70,7 @@
       "title": "Nach Bomben-Attentat in Monaco - Ukraine-Oligarch spricht von „Auftragsmord“",
       "excerpt": "Milliardär Jermolajew überlebte ein Bomben-Attentat, er spricht von Auftragsmord.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukrainischer-milliardaer-jermolajew-ueberlebte-bombenattentat-er-spricht-von-auftragsmord-6a86cc04260b7d1d2f7952fb",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +78,7 @@
       "title": "Nach Scharia-Recht in Indonesien - Sex außerhalb der Ehe? Frauen ausgepeitscht",
       "excerpt": "In Aceh werden Menschen für Sex, Alkohol oder zu viel Nähe öffentlich ausgepeitscht.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/100-schlaege-fuer-sex-ausserhalb-der-ehe-frauen-und-maenner-in-indonesien-oeffentlich-ausgepeitscht-6a8728f91c4720d416546193",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +86,7 @@
       "title": "Der Politik-Vodcast - Vertraulich! - „Es war ein Schock für Charles und William“",
       "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
       "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-es-war-ein-schock-fuer-charles-und-william-6a8710eb1c4720d416545f99",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +94,7 @@
       "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
       "excerpt": "Video",
       "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +102,7 @@
       "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
       "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
       "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +110,7 @@
       "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
       "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
       "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +118,7 @@
       "title": "Überraschende Milde des Königs - Hat Meghan sich bei Charles entschuldigt?",
       "excerpt": "Harry und Meghan kehren nach England zurück, auch wegen Charles’ Gesundheit.",
       "url": "https://www.bild.de/politik/ueberraschende-milde-des-koenigs-hat-meghan-sich-bei-charles-entschuldigt-6a8705e31c4720d416545e77",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +126,7 @@
       "title": "BILD-Lagezentrum - Das kann Ukraines Kamikaze-Drohne FP-1",
       "excerpt": "Lagezentrum 260818",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-setzt-ihren-drohnenkrieg-gegen-russland-fort-das-kann-die-drohne-fp-1-6a846b1a3f3b2550f6df3a22",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +134,7 @@
       "title": "Präsident macht Russen verantwortlich - Rumänischer Kampfjet schießt Sprengstoff-Drohne ab",
       "excerpt": "Gleich mehr bei BILD.",
       "url": "https://www.bild.de/politik/eilmeldung-rumaenischer-kampfjet-schiesst-sprengstoff-drohne-ab-6a86d8f81c4720d4165458cf",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
@@ -134,15 +142,15 @@
       "title": "Präsident macht Russland verantwortlich - Rumänischer Kampfjet schießt Sprengstoff-Drohne ab",
       "excerpt": "Eine rumänische Militärmaschine stoppt eine Sprengstoffdrohne über dem Schwarzen Meer.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/rumaenien-kampfjet-schiesst-sprengstoff-drohne-ueber-schwarzem-meer-ab-6a87186dc3692834ff6d7898",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "publishedAt": "2026-08-20T20:10:17.529Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Bei Ausbildung in Sachsen-Anhalt - Bericht: 80 ukrainische Soldaten desertiert!",
-      "excerpt": "Ukrainische Soldaten bleiben nach der Bundeswehr-Ausbildung in Deutschland.",
-      "url": "https://www.bild.de/politik/inland/laut-bericht-80-ukrainische-soldaten-in-sachsen-anhalt-desertiert-6a86f1732073297bd594bff8",
-      "publishedAt": "2026-08-20T19:45:43.938Z",
+      "source": "SPIEGEL.DE",
+      "title": "Baden-Württemberg: Innenminister leistet Erste Hilfe nach Unfall auf A8",
+      "excerpt": "Er rief den Notarzt und reichte Wasser: Weil sich ein Auto überschlagen hatte, wurde CDU-Politiker Manuel Hagel auf der A8 spontan zum Ersthelfer. Seine Personenschützer schlugen eine Scheibe ein, um die Fahrerin zu berg",
+      "url": "https://www.spiegel.de/politik/baden-wuerttemberg-innenminister-leistet-erste-hilfe-nach-unfall-auf-a8-a-2144943c-160a-4c41-bf09-208ac1cc0737#ref=rss",
+      "publishedAt": "2026-08-20T20:00:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -752,14 +760,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
       "publishedAt": "2026-08-19T16:40:30.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "AfD in Friesland: Hospiz-Mitarbeiterin verliert Job wegen Kandidatur in Niedersachsen",
-      "excerpt": "Ein Gericht beschreibt die AfD in Niedersachsen als verfassungsfeindlich geprägt. Aber dürfen Arbeitgeber Angestellte entlassen, wenn sie für die Partei kandidieren? Ein Verein, der Hospize betreibt, ist davon überzeugt.",
-      "url": "https://www.spiegel.de/politik/deutschland/afd-friesland-hospizmitarbeiterin-verliert-job-wegen-afd-kandidatur-in-niedersachsen-a-31c2ea0e-1955-4129-825b-e475eb216c8b#ref=rss",
-      "publishedAt": "2026-08-19T16:34:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
