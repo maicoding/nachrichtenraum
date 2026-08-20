@@ -1,132 +1,12 @@
 {
-  "updatedAt": "2026-08-20T21:12:40.843Z",
+  "updatedAt": "2026-08-20T21:44:23.295Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Kommentar von Chef-Autor Peter Tiede - In der CDU herrscht Abstiegsangst",
-      "excerpt": "Man sollte einfach aus der CDU austreten, wenn einem Chef und Richtung nicht passen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-chef-autor-peter-tiede-in-der-cdu-herrscht-abstiegsangst-6a874f761c4720d4165463ce",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Frage bei Pressekonferenz - Putin erlässt Haftbefehl gegen „FAZ“-Reporter",
-      "excerpt": "In Russland wurde ein Haftbefehl gegen einen FAZ-Reporter erlassen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-einer-frage-bei-einer-pressekonferenz-putin-erlaesst-haftbefehl-gegen-faz-reporter-6a874d4e1c4720d4165463a3",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Beben vor der Sachsen-Anhalt-Wahl - CDU-Mann nennt AfD-Spender „Kameradenschwein“",
-      "excerpt": "CDU-Politiker verurteilen AfD-Spende ihres Bürgermeisters.",
-      "url": "https://www.bild.de/politik/inland/cdu-buergermeister-spendet-an-afd-folgen-ihm-weitere-cdu-politiker-6a87015fc3692834ff6d766e",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gemeinsame Forderung aus Europa - Israel soll Siedlungspläne zurücknehmen",
-      "excerpt": "Europa hat Israel zur Beendigung eines Siedlungsprojektes im Westjordanland aufgefordert.",
-      "url": "https://www.bild.de/politik/gemeinsame-forderung-aus-europa-israel-soll-siedlungsplaene-zuruecknehmen-6a8732082073297bd594c54d",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Militär lotst Tanker durch die Meerenge - USA öffne „Hormus“- Geheimroute",
+      "title": "US-Militär lotst Tanker durch die Meerenge - USA öffnen „Hormus“- Geheimroute",
       "excerpt": "USA sichern geheime Ölroute bei Hormus und schwächen so Irans Erpressungsversuch.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/us-militaer-lotst-tanker-duch-meerenge-usa-oeffnet-hormus-geheimroute-6a872f052073297bd594c535",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Darum findet die Bundeswehr kein Personal - Soldatenmangel an der NATO-Ostflanke",
-      "excerpt": "Moritz Müller erklärt die Probleme beim Aufbau der Bundeswehr-Brigade in Litauen.",
-      "url": "https://www.bild.de/politik/darum-findet-die-bundeswehr-kein-personal-soldatenmangel-an-der-nato-ostflanke-6a870fe3260b7d1d2f795ad6",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Abgabe geplant - Jetzt sollen Gaskunden tiefer in die Tasche greifen",
-      "excerpt": "Der Bund plant eine Gasreserve mit Umlage, Experten fordern die Finanzierung aus Steuern.",
-      "url": "https://www.bild.de/politik/nach-energieschock-und-spritfrust-jetzt-droht-der-naechste-abgaben-hammer-6a4f9633a6db83ce8f1242be",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die Hälfte ist psychisch überfordert - Immer mehr Azubis sind unglücklich in ihrem Job",
-      "excerpt": "DGB-Report zeigt: Viele Azubis fühlen sich überlastet, schlecht bezahlt und unzufrieden.",
-      "url": "https://www.bild.de/politik/inland/immer-mehr-auszubildende-sind-ungluecklich-in-ihrem-job-6a86fb131c4720d416545cd5",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Bomben-Attentat in Monaco - Ukraine-Oligarch spricht von „Auftragsmord“",
-      "excerpt": "Milliardär Jermolajew überlebte ein Bomben-Attentat, er spricht von Auftragsmord.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukrainischer-milliardaer-jermolajew-ueberlebte-bombenattentat-er-spricht-von-auftragsmord-6a86cc04260b7d1d2f7952fb",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Scharia-Recht in Indonesien - Sex außerhalb der Ehe? Frauen ausgepeitscht",
-      "excerpt": "In Aceh werden Menschen für Sex, Alkohol oder zu viel Nähe öffentlich ausgepeitscht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/100-schlaege-fuer-sex-ausserhalb-der-ehe-frauen-und-maenner-in-indonesien-oeffentlich-ausgepeitscht-6a8728f91c4720d416546193",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - „Es war ein Schock für Charles und William“",
-      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-es-war-ein-schock-fuer-charles-und-william-6a8710eb1c4720d416545f99",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
-      "excerpt": "Video",
-      "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
-      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
-      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
-      "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
-      "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Überraschende Milde des Königs - Hat Meghan sich bei Charles entschuldigt?",
-      "excerpt": "Harry und Meghan kehren nach England zurück, auch wegen Charles’ Gesundheit.",
-      "url": "https://www.bild.de/politik/ueberraschende-milde-des-koenigs-hat-meghan-sich-bei-charles-entschuldigt-6a8705e31c4720d416545e77",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Lagezentrum - Das kann Ukraines Kamikaze-Drohne FP-1",
-      "excerpt": "Lagezentrum 260818",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-setzt-ihren-drohnenkrieg-gegen-russland-fort-das-kann-die-drohne-fp-1-6a846b1a3f3b2550f6df3a22",
-      "publishedAt": "2026-08-20T21:12:40.672Z",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +14,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-20T21:12:40.671Z",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +22,135 @@
       "title": "Frau nach Unfall auf A8 gerettet - BW-Innenminister Hagel musste als Ersthelfer ran",
       "excerpt": "Hagel und seine Personenschützer retteten eine verletzte Autofahrerin auf der A8.",
       "url": "https://www.bild.de/politik/inland/frau-nach-unfall-auf-a8-gerettet-bw-innenminister-hagel-musste-als-ersthelfer-ran-6a875c271c4720d41654644b",
-      "publishedAt": "2026-08-20T21:12:40.671Z",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von Chef-Autor Peter Tiede - In der CDU herrscht Abstiegsangst",
+      "excerpt": "Man sollte einfach aus der CDU austreten, wenn einem Chef und Richtung nicht passen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-chef-autor-peter-tiede-in-der-cdu-herrscht-abstiegsangst-6a874f761c4720d4165463ce",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Frage bei Pressekonferenz - Putin erlässt Haftbefehl gegen „FAZ“-Reporter",
+      "excerpt": "In Russland wurde ein Haftbefehl gegen einen FAZ-Reporter erlassen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-einer-frage-bei-einer-pressekonferenz-putin-erlaesst-haftbefehl-gegen-faz-reporter-6a874d4e1c4720d4165463a3",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Beben vor der Sachsen-Anhalt-Wahl - CDU-Mann nennt AfD-Spender „Kameradenschwein“",
+      "excerpt": "CDU-Politiker verurteilen AfD-Spende ihres Bürgermeisters.",
+      "url": "https://www.bild.de/politik/inland/cdu-buergermeister-spendet-an-afd-folgen-ihm-weitere-cdu-politiker-6a87015fc3692834ff6d766e",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gemeinsame Forderung aus Europa - Israel soll Siedlungspläne zurücknehmen",
+      "excerpt": "Europa hat Israel zur Beendigung eines Siedlungsprojektes im Westjordanland aufgefordert.",
+      "url": "https://www.bild.de/politik/gemeinsame-forderung-aus-europa-israel-soll-siedlungsplaene-zuruecknehmen-6a8732082073297bd594c54d",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Darum findet die Bundeswehr kein Personal - Soldatenmangel an der NATO-Ostflanke",
+      "excerpt": "Moritz Müller erklärt die Probleme beim Aufbau der Bundeswehr-Brigade in Litauen.",
+      "url": "https://www.bild.de/politik/darum-findet-die-bundeswehr-kein-personal-soldatenmangel-an-der-nato-ostflanke-6a870fe3260b7d1d2f795ad6",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Abgabe geplant - Jetzt sollen Gaskunden tiefer in die Tasche greifen",
+      "excerpt": "Der Bund plant eine Gasreserve mit Umlage, Experten fordern die Finanzierung aus Steuern.",
+      "url": "https://www.bild.de/politik/nach-energieschock-und-spritfrust-jetzt-droht-der-naechste-abgaben-hammer-6a4f9633a6db83ce8f1242be",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Die Hälfte ist psychisch überfordert - Immer mehr Azubis sind unglücklich in ihrem Job",
+      "excerpt": "DGB-Report zeigt: Viele Azubis fühlen sich überlastet, schlecht bezahlt und unzufrieden.",
+      "url": "https://www.bild.de/politik/inland/immer-mehr-auszubildende-sind-ungluecklich-in-ihrem-job-6a86fb131c4720d416545cd5",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Bomben-Attentat in Monaco - Ukraine-Oligarch spricht von „Auftragsmord“",
+      "excerpt": "Milliardär Jermolajew überlebte ein Bomben-Attentat, er spricht von Auftragsmord.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukrainischer-milliardaer-jermolajew-ueberlebte-bombenattentat-er-spricht-von-auftragsmord-6a86cc04260b7d1d2f7952fb",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Scharia-Recht in Indonesien - Sex außerhalb der Ehe? Frauen ausgepeitscht",
+      "excerpt": "In Aceh werden Menschen für Sex, Alkohol oder zu viel Nähe öffentlich ausgepeitscht.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/100-schlaege-fuer-sex-ausserhalb-der-ehe-frauen-und-maenner-in-indonesien-oeffentlich-ausgepeitscht-6a8728f91c4720d416546193",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Politik-Vodcast - Vertraulich! - „Es war ein Schock für Charles und William“",
+      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
+      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-es-war-ein-schock-fuer-charles-und-william-6a8710eb1c4720d416545f99",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
+      "excerpt": "Video",
+      "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
+      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
+      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
+      "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
+      "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschende Milde des Königs - Hat Meghan sich bei Charles entschuldigt?",
+      "excerpt": "Harry und Meghan kehren nach England zurück, auch wegen Charles’ Gesundheit.",
+      "url": "https://www.bild.de/politik/ueberraschende-milde-des-koenigs-hat-meghan-sich-bei-charles-entschuldigt-6a8705e31c4720d416545e77",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Lagezentrum - Das kann Ukraines Kamikaze-Drohne FP-1",
+      "excerpt": "Lagezentrum 260818",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-setzt-ihren-drohnenkrieg-gegen-russland-fort-das-kann-die-drohne-fp-1-6a846b1a3f3b2550f6df3a22",
+      "publishedAt": "2026-08-20T21:44:22.792Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
+      "excerpt": "Der CDU-Bürgermeister Bernd Prange aus Sachsen-Anhalt hat die AfD mit 10.000 Euro finanziell unterstützt und zur Wahl der Partei aufgerufen. Die CDU kritisiert das Verhalten – und droht mit dem Parteiausschluss.",
+      "url": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
+      "publishedAt": "2026-08-20T21:08:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -487,14 +495,6 @@
       "excerpt": "Ein Jugendlicher aus Rheinland-Pfalz soll Kinder zu schwersten Gewalttaten angestachelt haben, bis hin zum Mord. Nun ermittelt die Bundesanwaltschaft. mehr...",
       "url": "https://taz.de/Bundesanwaltschaft-ermittelt/!6205991/",
       "publishedAt": "2026-08-20T15:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
-      "excerpt": "Der CDU-Bürgermeister Bernd Prange aus Sachsen-Anhalt hat die AfD mit 10.000 Euro finanziell unterstützt und zur Wahl der Partei aufgerufen. Die CDU kritisiert das Verhalten – und droht mit dem Parteiausschluss.",
-      "url": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
-      "publishedAt": "2026-08-20T15:40:00.000Z",
       "category": "POLITIK"
     },
     {
