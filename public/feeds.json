@@ -1,132 +1,12 @@
 {
-  "updatedAt": "2026-08-20T13:59:45.168Z",
+  "updatedAt": "2026-08-20T14:54:46.495Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
-      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
-      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
-      "publishedAt": "2026-08-20T13:59:44.583Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wahlkampf-Panne - SPD wirbt in Sachsen-Anhalt mit Nazi-Zeile",
-      "excerpt": "SPD gerät im Wahlkampf unter Druck wegen Slogan aus einem NS-Lied von 1936.",
-      "url": "https://www.bild.de/politik/inland/spd-wahlkampf-in-sachsen-anhalt-wir-sind-der-deich-aus-ns-lied-6a86b05be532e82cc4f2b555",
-      "publishedAt": "2026-08-20T13:59:44.583Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "4 von 5 Migranten dürfen bleiben - Abschiebe-Desaster: CDU will an die Duldungen ran",
-      "excerpt": "CDU und Länder streiten, wie weniger geduldete Ausreisepflichtige bleiben sollen.",
-      "url": "https://www.bild.de/politik/inland/duldungen-cdu-experte-nennt-vier-von-fuenf-faellen-skandal-6a85b37357e16470ca3ac572",
-      "publishedAt": "2026-08-20T13:59:44.583Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Korn-Krieg gegen Deutschland - So greift Putin unsere Bauern an",
-      "excerpt": "Bauernpräsident Rukwied warnt: Putin drückt mit Weizenpreisen deutsche Bauern.",
-      "url": "https://www.bild.de/politik/inland/korn-krieg-gegen-deutschland-so-greift-putin-unsere-bauern-an-6a856cced537b08639dccc5e",
-      "publishedAt": "2026-08-20T13:59:44.583Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
-      "excerpt": "Video",
-      "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
-      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
-      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
-      "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
-      "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Grünen-Chef Banaszak - „Die Energiewende sichert uns den Wohlstand“",
-      "excerpt": "Grünen-Chef Banaszak sieht mehr Klimaschutz als Schlüssel aus der Wirtschaftskrise.",
-      "url": "https://www.bild.de/politik/inland/felix-banaszak-warum-er-enteignungen-nicht-ausschliesst-6a847c4bd537b08639dcc361",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Das war’s jetzt!“ - AfD-Politiker bricht Amann-Podcast ab",
-      "excerpt": "AfD-Mann Tillschneider bricht Interview nach Fragen zu Partei und Höcke ab.",
-      "url": "https://www.bild.de/politik/inland/afd-tillschneider-verlaesst-amann-podcast-nach-hoecke-frage-6a86e63d260b7d1d2f79560f",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sonn- und Feiertagsarbeit - Klingbeil muss Steuer-Entwurf nachbessern",
-      "excerpt": "Pflegekräfte und andere Sonntagsarbeiter sollen ab 2027 mehr Netto erhalten.",
-      "url": "https://www.bild.de/politik/inland/sonntags-und-feiertagszuschlaege-klingbeil-bessert-steuerentwurf-nach-6a86c00bea1ca890d9e2fc43",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Präsident macht Russen verantwortlich - Rumänischer Kampfjet schießt Sprengstoff-Drohne ab",
-      "excerpt": "Gleich mehr bei BILD.",
-      "url": "https://www.bild.de/politik/eilmeldung-rumaenischer-kampfjet-schiesst-sprengstoff-drohne-ab-6a86d8f81c4720d4165458cf",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Eklat bei AfD-Veranstaltung - Steimle knickt im Fall Stauffenberg ein",
-      "excerpt": "Berlin – Nach seinem umstrittenen Auftritt bei einer AfD-Veranstaltung in Dessau-Roßlau lenkt Kabarettist Uwe Steimle (63) ein – abe...",
-      "url": "https://www.bild.de/politik/inland/uwe-steimle-unterlassungserklaerung-nach-stauffenberg-spruch-keine-reue-6a859d03e532e82cc4f2a780",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Politische Gräben vertiefen sich - Immer mehr Hass auf Andersdenkenke",
-      "excerpt": "Studie zeigt: Emotionale Feindbilder zwischen politischen Lagern wachsen stark.",
-      "url": "https://www.bild.de/politik/inland/politische-spaltung-immer-mehr-hass-auf-andersdenkende-6a86b8dbe532e82cc4f2b667",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die Royals in Aufruhr - „Es war ein Schock für Charles und William“",
-      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
-      "url": "https://www.bild.de/politik/das-britische-koenigshaus-wurde-von-der-royalen-rueckkehr-von-harry-und-meghan-ueberrascht-es-war-ein-schock-fuer-charles-und-william-6a86b391e532e82cc4f2b5be",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Wagenknechts riskantes AfD-Manöver. Mit Andrea Maurer",
-      "excerpt": "Paul Ronzheimer spricht mit Andrea Maurer, Journalistin und Wagenknecht-Biografin, über die überraschende Strategie des BSW vor der ...",
-      "url": "https://www.bild.de/politik/ronzheimer-wagenknechts-riskantes-afd-manoever-mit-andrea-maurer-6a860381e532e82cc4f2afc7",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Justizsenatorin Badenberg unter Druck - CDU vermutet AfD hinter Plagiats-Affäre in Berlin",
       "excerpt": "CDU sieht politische Motive hinter Plagiatsvorwürfen gegen Justizsenatorin Badenberg.",
       "url": "https://www.bild.de/politik/inland/felor-badenberg-plagiatsvorwuerfe-vor-berlin-wahl-cdu-verdaechtigt-afd-6a86cd381c4720d4165456e6",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +14,7 @@
       "title": "Am Set mit Sean Penn - Nord-Stream‑Verdächtiger bei Hollywood-Dreh geschnappt",
       "excerpt": "Ein gesuchter Nord-Stream-Saboteur wurde bei Dreharbeiten in Kroatien festgenommen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/vladimir-z-nord-stream-verdaechtiger-am-filmset-festgenommen-6a86b5e5e532e82cc4f2b5f2",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
       "category": "POLITIK"
     },
     {
@@ -142,8 +22,328 @@
       "title": "Schwerer Angriff auf Kiew - Russen-Raketen treffen Kinderkrankenhaus",
       "excerpt": "Russland greift Kiew mit Raketen und Drohnen an, viele Tote und Zerstörung.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kiew-massiver-russischer-luftangriff-toetet-mindestens-13-menschen-6a86a350ea1ca890d9e2fa04",
-      "publishedAt": "2026-08-20T13:59:44.582Z",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
+      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
+      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlkampf-Panne - SPD wirbt in Sachsen-Anhalt mit Nazi-Zeile",
+      "excerpt": "SPD gerät im Wahlkampf unter Druck wegen Slogan aus einem NS-Lied von 1936.",
+      "url": "https://www.bild.de/politik/inland/spd-wahlkampf-in-sachsen-anhalt-wir-sind-der-deich-aus-ns-lied-6a86b05be532e82cc4f2b555",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "4 von 5 Migranten dürfen bleiben - Abschiebe-Desaster: CDU will an die Duldungen ran",
+      "excerpt": "CDU und Länder streiten, wie weniger geduldete Ausreisepflichtige bleiben sollen.",
+      "url": "https://www.bild.de/politik/inland/duldungen-cdu-experte-nennt-vier-von-fuenf-faellen-skandal-6a85b37357e16470ca3ac572",
+      "publishedAt": "2026-08-20T14:54:46.326Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bei Ausbildung in Sachsen-Anhalt - Bericht: 80 ukrainische Soldaten desertiert!",
+      "excerpt": "Ukrainische Soldaten bleiben nach der Bundeswehr-Ausbildung in Deutschland.",
+      "url": "https://www.bild.de/politik/inland/laut-bericht-80-ukrainische-soldaten-in-sachsen-anhalt-desertiert-6a86f1732073297bd594bff8",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
+      "excerpt": "Video",
+      "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
+      "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
+      "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
+      "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
+      "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Grünen-Chef Banaszak - „Die Energiewende sichert uns den Wohlstand“",
+      "excerpt": "Grünen-Chef Banaszak sieht mehr Klimaschutz als Schlüssel aus der Wirtschaftskrise.",
+      "url": "https://www.bild.de/politik/inland/felix-banaszak-warum-er-enteignungen-nicht-ausschliesst-6a847c4bd537b08639dcc361",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Das war’s jetzt!“ - AfD-Politiker bricht Amann-Podcast ab",
+      "excerpt": "AfD-Mann Tillschneider bricht Interview nach Fragen zu Partei und Höcke ab.",
+      "url": "https://www.bild.de/politik/inland/afd-tillschneider-verlaesst-amann-podcast-nach-hoecke-frage-6a86e63d260b7d1d2f79560f",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sonn- und Feiertagsarbeit - Klingbeil muss Steuer-Entwurf nachbessern",
+      "excerpt": "Pflegekräfte und andere Sonntagsarbeiter sollen ab 2027 mehr Netto erhalten.",
+      "url": "https://www.bild.de/politik/inland/sonntags-und-feiertagszuschlaege-klingbeil-bessert-steuerentwurf-nach-6a86c00bea1ca890d9e2fc43",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Präsident macht Russen verantwortlich - Rumänischer Kampfjet schießt Sprengstoff-Drohne ab",
+      "excerpt": "Gleich mehr bei BILD.",
+      "url": "https://www.bild.de/politik/eilmeldung-rumaenischer-kampfjet-schiesst-sprengstoff-drohne-ab-6a86d8f81c4720d4165458cf",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Eklat bei AfD-Veranstaltung - Steimle knickt im Fall Stauffenberg ein",
+      "excerpt": "Berlin – Nach seinem umstrittenen Auftritt bei einer AfD-Veranstaltung in Dessau-Roßlau lenkt Kabarettist Uwe Steimle (63) ein – abe...",
+      "url": "https://www.bild.de/politik/inland/uwe-steimle-unterlassungserklaerung-nach-stauffenberg-spruch-keine-reue-6a859d03e532e82cc4f2a780",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Politische Gräben vertiefen sich - Immer mehr Hass auf Andersdenkenke",
+      "excerpt": "Studie zeigt: Emotionale Feindbilder zwischen politischen Lagern wachsen stark.",
+      "url": "https://www.bild.de/politik/inland/politische-spaltung-immer-mehr-hass-auf-andersdenkende-6a86b8dbe532e82cc4f2b667",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Die Royals in Aufruhr - „Es war ein Schock für Charles und William“",
+      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
+      "url": "https://www.bild.de/politik/das-britische-koenigshaus-wurde-von-der-royalen-rueckkehr-von-harry-und-meghan-ueberrascht-es-war-ein-schock-fuer-charles-und-william-6a86b391e532e82cc4f2b5be",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "RONZHEIMER - Wagenknechts riskantes AfD-Manöver. Mit Andrea Maurer",
+      "excerpt": "Paul Ronzheimer spricht mit Andrea Maurer, Journalistin und Wagenknecht-Biografin, über die überraschende Strategie des BSW vor der ...",
+      "url": "https://www.bild.de/politik/ronzheimer-wagenknechts-riskantes-afd-manoever-mit-andrea-maurer-6a860381e532e82cc4f2afc7",
+      "publishedAt": "2026-08-20T14:54:46.325Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Vor Landtagswahl in Sachsen-Anhalt - Landeswahlleiterin besorgt über Umgang im Wahlkampf",
+      "excerpt": "Gut zwei Wochen vor der Landtagswahl in Sachsen-Anhalt hat Landeswahlleiterin Dieckmann einen respektvollen und fairen Wahlkampf angemahnt.",
+      "url": "https://www.deutschlandfunk.de/landeswahlleiterin-besorgt-ueber-umgang-im-wahlkampf-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mögliche Mangellage - Gering gefüllte Gasspeicher sorgen für Kritik",
+      "excerpt": "Der niedrige Füllstand der Gasspeicher in Deutschland sorgt weiter für Kritik. Die Bundesvorsitzende der Linkspartei, Schwerdtner, rief Bundeswirtschaftsministerin Reiche auf, zu handeln. Die Speicher sind derzeit rund z",
+      "url": "https://www.deutschlandfunk.de/gering-gefuellte-gasspeicher-sorgen-fuer-kritik-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Holocaust Überlebende Knobloch - \"Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern\"",
+      "excerpt": "Die Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern, Charlotte Knobloch, rechnet im Falle einer AfD-Regierung in Sachsen-Anhalt mit einer Auswanderung von Juden. Sie würde das zwar nicht befürworten,",
+      "url": "https://www.deutschlandfunk.de/bei-afd-regierungsuebernahme-in-sachsen-anhalt-werden-juden-auswandern-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Konferenz in Rostock - Norddeutsche Länder pochen auf mehr Bundeshilfen für Häfen",
+      "excerpt": "Die norddeutschen Bundesländer verlangen eine massive Aufstockung der Bundeshilfen für die Häfen auf jährlich mindestens 500 Millionen Euro.",
+      "url": "https://www.deutschlandfunk.de/norddeutsche-laender-pochen-auf-mehr-bundeshilfen-fuer-haefen-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Bundesbank befürchtet durch Niedrigwasser Konjunkturdämpfer",
+      "excerpt": "Die Bundesbank rechnet infolge des Niedrigwassers mit einer vorübergehenden Abschwächung der Konjunktur.",
+      "url": "https://www.deutschlandfunk.de/bundesbank-befuerchtet-durch-niedrigwasser-konjunkturdaempfer-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bukarest - Rumänischer Kampfjet zerstört mit Sprengstoff beladene Drohne",
+      "excerpt": "Ein rumänisches Kampfflugzeug hat nach Angaben der Regierung in Bukarest eine mit Sprengstoff beladene Drohne zerstört. Das Flugobjekt sei mehrere hundert Meter vom Gasfeld Neptun Deep im Schwarzen Meer entfernt getroffe",
+      "url": "https://www.deutschlandfunk.de/rumaenischer-kampfjet-zerstoert-mit-sprengstoff-beladene-drohne-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jahrestag - Estland feiert seine Unabhängigkeitserklärung von der Sowjetunion",
+      "excerpt": "In Estland ist heute die Erklärung der Unabhängigkeit von der Sowjetunion vor 35 Jahren gefeiert worden.",
+      "url": "https://www.deutschlandfunk.de/estland-feiert-seine-unabhaengigkeitserklaerung-von-der-sowjetunion-102.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russischer Angriffskrieg - Mindestens 16 Tote bei neuer Raketenattacke auf Kiew",
+      "excerpt": "Russland hat in der Nacht erneut die ukrainische Hauptstadt Kiew angegriffen.",
+      "url": "https://www.deutschlandfunk.de/mindestens-16-tote-bei-neuer-raketenattacke-auf-kiew-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienfreiheit - Ungarischer öffentlich-rechtlicher Fernsehsender sendet erstmals seit mehreren Wochen wieder Nachrichten",
+      "excerpt": "In Ungarn hat der öffentlich-rechtliche Fernsehsender M1 nach einer mehrwöchigen Pause wieder Nachrichten gesendet.",
+      "url": "https://www.deutschlandfunk.de/ungarischer-oeffentlich-rechtlicher-fernsehsender-sendet-erstmals-seit-mehreren-wochen-wieder-nachri-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medizinischer Dienst - Rund 3.100 medizinische Behandlungsfehler im vergangenen Jahr nachgewiesen",
+      "excerpt": "In Deutschland sind im vergangenen Jahr rund 3.100 medizinische Behandlungsfehler nachgewiesen worden. Wie der Medizinische Dienst Bund mitteilte, waren davon 2.700 Fälle ursächlich für Schäden.",
+      "url": "https://www.deutschlandfunk.de/rund-3-100-medizinische-behandlungsfehler-im-vergangenen-jahr-nachgewiesen-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitze - RKI: Auch während heißer Wochen Anfang August höhere Sterblichkeit in Deutschland",
+      "excerpt": "Die Zahl der Sterbefälle lag auch während der heißen Tage Anfang August deutlich über dem Durchschnitt. Aus Angaben des Robert-Koch-Instituts geht hervor, dass es zu dieser Zeit eine Übersterblichkeit in Deutschland gab.",
+      "url": "https://www.deutschlandfunk.de/rki-auch-waehrend-heisser-wochen-anfang-august-hoehere-sterblichkeit-in-deutschland-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - Kultur, Handwerk und Kirchen setzen sich in Manifest für Schutz von Bauhaus ein",
+      "excerpt": "Vertreter aus Kultur, Handwerk und Kirchen sprechen sich in einem \"Bauhaus-Manifest\" für die Freiheit der Kunst und für eine offene Gesellschaft aus. Das Papier verlangt 100 Jahre nach der Eröffnung des Bauhaus-Standorte",
+      "url": "https://www.deutschlandfunk.de/kultur-handwerk-und-kirchen-setzen-sich-in-manifest-fuer-schutz-von-bauhaus-ein-102.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sicherheit - Bundesamt für Verfassungsschutz weist auf autoritären Druck auf Exilanten hin",
+      "excerpt": "Das Bundesamt für Verfassungsschutz warnt vor dem Druck autoritärer Regime auf ihre Staatsbürger in Deutschland.",
+      "url": "https://www.deutschlandfunk.de/bundesamt-fuer-verfassungsschutz-weist-auf-autoritaeren-druck-auf-exilanten-hin-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verstoß gegen UNO-Resolution - Südkorea: Nordkorea feuert über zehn Kurzstreckenraketen ab",
+      "excerpt": "Nordkorea hat südkoreanischen Angaben zufolge mindestens zehn Kurzstreckenraketen abgefeuert.",
+      "url": "https://www.deutschlandfunk.de/suedkorea-nordkorea-feuert-ueber-zehn-kurzstreckenraketen-ab-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar",
+      "excerpt": "Im Iran ist erneut ein Mann im Zusammenhang mit den Protesten im Januar hingerichtet worden.",
+      "url": "https://www.deutschlandfunk.de/erneute-hinrichtung-im-iran-wegen-der-proteste-im-januar-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schmuggel von Handys und Drogen - Staatsanwaltschaft ermittelt gegen Mitarbeiter und Insassen der JVA Bremen",
+      "excerpt": "Die Staatsanwaltschaft Bremen ermittelt gegen Mitarbeiter und Häftlinge der dortigen Justizvollzugsanstalt wegen des Vorwurfs der Bestechlichkeit und Bestechung.",
+      "url": "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-mitarbeiter-und-insassen-der-jva-bremen-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheit - Neue Früherkennungsuntersuchung U10 für Kinder kommt",
+      "excerpt": "Für Kinder soll eine neue Früherkennungs-Untersuchung eingeführt werden. Der Gemeinsame Bundesausschuss von Ärzten, Krankenhäusern und Krankenkassen beschloss die sogenannte \"U10\" für Kinder im Alter von neun bis zehn Ja",
+      "url": "https://www.deutschlandfunk.de/neue-frueherkennungsuntersuchung-u10-fuer-kinder-kommt-100.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Arbeitswelt - DGB-Ausbildungsreport: Zufriedenheit der Azubis sinkt auf neues Tief",
+      "excerpt": "Die Zufriedenheit der Auszubildenden ist laut dem neuen Ausbildungsreport des Deutschen Gewerkschaftsbundes auf den niedrigsten Stand seit Beginn der Erhebungen gesunken.",
+      "url": "https://www.deutschlandfunk.de/dgb-ausbildungsreport-zufriedenheit-der-azubis-sinkt-auf-neues-tief-102.html",
+      "publishedAt": "2026-08-20T14:47:27.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Kinderärzte: Neue U-Untersuchung für Neun- bis Zehnjährige kommt",
+      "excerpt": "Bei der Geburt eines Kindes erhalten Eltern ein gelbes Heft, das alle Vorsorgeuntersuchungen auflistet. Jetzt kommt noch die U10 hinzu, ein Check-up für Neun- bis Zehnjährige, der eine Lücke schließen soll. Von A. Braun ",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html",
+      "publishedAt": "2026-08-20T14:45:23.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Halbvolle Gasspeicher: Deutschlands Abhängigkeit vom Erdgas",
+      "excerpt": "Gaskraftwerke liefern einen so großen Teil des deutschen Stroms wie nie zuvor – obwohl Erneuerbare wachsen. So bestimmen sie oft auch den Strompreis. mehr...",
+      "url": "https://taz.de/Halbvolle-Gasspeicher/!6205789/",
+      "publishedAt": "2026-08-20T14:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Spannungen zwischen Türkei und Israel: Bomben, Drohungen und der Kampf um Einfluss",
+      "excerpt": "Israel unterstellt der Türkei, Truppen nach Syrien schicken zu wollen und bombardiert einen Militärflughafen. Die Türkei lässt die Drohung abtropfen. mehr...",
+      "url": "https://taz.de/Spannungen-zwischen-Tuerkei-und-Israel/!6205825/",
+      "publishedAt": "2026-08-20T14:21:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Vorwurf der Urheberrechtsverletzung: Autor Marc-Uwe Kling und Carlsen Verlag verklagen OpenAI",
+      "excerpt": "Astrid Henn und Marc-Uwe Kling, Illustratorin und Autor der Kinderbuchreihe „Das NEINhorn“, haben mit dem Carlsen-Verlag Klage gegen den Betreiber von ChatGPT eingereicht. mehr...",
+      "url": "https://taz.de/Vorwurf-der-Urheberrechtsverletzung/!6205842/",
+      "publishedAt": "2026-08-20T14:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
+      "excerpt": "Der US-Regierung ist der Internationale Strafgerichtshof in Den Haag ein Dorn im Auge. Jüngst verhängte sie sogar Sanktionen gegen Gerichtsmitglieder. Aber welche Aufgaben hat der Gerichtshof eigentlich? Von A. Stephany ",
+      "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "publishedAt": "2026-08-20T14:08:49.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Handelskonflikt mit EU: China eskaliert im Streit um Mediamarkt",
+      "excerpt": "Nachdem Brüssel eine Untersuchung gegen den Onlinehändler JD.com einleitet, reagiert Chinas Regierung scharf. Der Fall offenbart die gestiegenen Spannungen. mehr...",
+      "url": "https://taz.de/Handelskonflikt-mit-EU/!6205768/",
+      "publishedAt": "2026-08-20T14:08:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Urlaub in Dänemark boomt - vor allem bei Deutschen",
+      "excerpt": "Dänemark ist als Reiseziel beliebt wie noch nie. Zwischen Januar und Juni kamen mehr Übernachtungsgäste als jemals zuvor in das Land. Die Urlauber kamen zu einem großen Teil aus Deutschland - doch nicht nur.",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-tourismus-100.html",
+      "publishedAt": "2026-08-20T14:03:48.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -160,150 +360,6 @@
       "url": "https://taz.de/Raketen-auf-Kyjiw-Drohnen-auf-Moskau/!6205763/",
       "publishedAt": "2026-08-20T13:35:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Mögliche Mangellage - Gering gefüllte Gasspeicher sorgen für Kritik",
-      "excerpt": "Der niedrige Füllstand der Gasspeicher in Deutschland sorgt weiter für Kritik. Die Bundesvorsitzende der Linkspartei, Schwerdtner, rief Bundeswirtschaftsministerin Reiche auf, zu handeln.",
-      "url": "https://www.deutschlandfunk.de/gering-gefuellte-gasspeicher-sorgen-fuer-kritik-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Holocaust Überlebende Knobloch - \"Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern\"",
-      "excerpt": "Die Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern, Charlotte Knobloch, rechnet im Falle einer AfD-Regierung in Sachsen-Anhalt mit einer Auswanderung von Juden. Sie würde das zwar nicht befürworten,",
-      "url": "https://www.deutschlandfunk.de/bei-afd-regierungsuebernahme-in-sachsen-anhalt-werden-juden-auswandern-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Konferenz in Rostock - Norddeutsche Länder pochen auf mehr Bundeshilfen für Häfen",
-      "excerpt": "Die norddeutschen Bundesländer verlangen eine massive Aufstockung der Bundeshilfen für die Häfen auf jährlich mindestens 500 Millionen Euro.",
-      "url": "https://www.deutschlandfunk.de/norddeutsche-laender-pochen-auf-mehr-bundeshilfen-fuer-haefen-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Bundesbank befürchtet durch Niedrigwasser Konjunkturdämpfer",
-      "excerpt": "Die Bundesbank rechnet infolge des Niedrigwassers mit einer vorübergehenden Abschwächung der Konjunktur.",
-      "url": "https://www.deutschlandfunk.de/bundesbank-befuerchtet-durch-niedrigwasser-konjunkturdaempfer-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medizinischer Dienst - Rund 3.100 medizinische Behandlungsfehler im vergangenen Jahr nachgewiesen",
-      "excerpt": "In Deutschland sind im vergangenen Jahr rund 3.100 medizinische Behandlungsfehler nachgewiesen worden.",
-      "url": "https://www.deutschlandfunk.de/rund-3-100-medizinische-behandlungsfehler-im-vergangenen-jahr-nachgewiesen-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bukarest - Rumänischer Kampfjet zerstört mit Sprengstoff beladene Drohne",
-      "excerpt": "Ein rumänisches Kampfflugzeug hat nach Angaben der Regierung in Bukarest eine mit Sprengstoff beladene Drohne zerstört. Das Flugobjekt sei mehrere hundert Meter vom Gasfeld Neptun Deep im Schwarzen Meer entfernt getroffe",
-      "url": "https://www.deutschlandfunk.de/rumaenischer-kampfjet-zerstoert-mit-sprengstoff-beladene-drohne-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russischer Angriffskrieg - Mindestens 16 Tote bei neuer Raketenattacke auf Kiew",
-      "excerpt": "Russland hat in der Nacht erneut die ukrainische Hauptstadt Kiew angegriffen.",
-      "url": "https://www.deutschlandfunk.de/mindestens-16-tote-bei-neuer-raketenattacke-auf-kiew-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sachsen-Anhalt - Kultur, Handwerk und Kirchen setzen sich in Manifest für Schutz von Bauhaus ein",
-      "excerpt": "Vertreter aus Kultur, Handwerk und Kirchen sprechen sich in einem \"Bauhaus-Manifest\" für die Freiheit der Kunst und für eine offene Gesellschaft aus. Das Papier verlangt 100 Jahre nach der Eröffnung des Bauhaus-Standorte",
-      "url": "https://www.deutschlandfunk.de/kultur-handwerk-und-kirchen-setzen-sich-in-manifest-fuer-schutz-von-bauhaus-ein-102.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheit - Bundesamt für Verfassungsschutz weist auf autoritären Druck auf Exilanten hin",
-      "excerpt": "Das Bundesamt für Verfassungsschutz warnt vor dem Druck autoritärer Regime auf ihre Staatsbürger in Deutschland.",
-      "url": "https://www.deutschlandfunk.de/bundesamt-fuer-verfassungsschutz-weist-auf-autoritaeren-druck-auf-exilanten-hin-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verstoß gegen UNO-Resolution - Südkorea: Nordkorea feuert über zehn Kurzstreckenraketen ab",
-      "excerpt": "Nordkorea hat südkoreanischen Angaben zufolge mindestens zehn Kurzstreckenraketen abgefeuert.",
-      "url": "https://www.deutschlandfunk.de/suedkorea-nordkorea-feuert-ueber-zehn-kurzstreckenraketen-ab-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar",
-      "excerpt": "Im Iran ist erneut ein Mann im Zusammenhang mit den Protesten im Januar hingerichtet worden.",
-      "url": "https://www.deutschlandfunk.de/erneute-hinrichtung-im-iran-wegen-der-proteste-im-januar-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schmuggel von Handys und Drogen - Staatsanwaltschaft ermittelt gegen Mitarbeiter und Insassen der JVA Bremen",
-      "excerpt": "Die Staatsanwaltschaft Bremen ermittelt gegen Mitarbeiter und Häftlinge der dortigen Justizvollzugsanstalt wegen des Vorwurfs der Bestechlichkeit und Bestechung.",
-      "url": "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-mitarbeiter-und-insassen-der-jva-bremen-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheit - Neue Früherkennungsuntersuchung U10 für Kinder kommt",
-      "excerpt": "Für Kinder soll eine neue Früherkennungs-Untersuchung eingeführt werden. Der Gemeinsame Bundesausschuss von Ärzten, Krankenhäusern und Krankenkassen beschloss die sogenannte \"U10\" für Kinder im Alter von neun bis zehn Ja",
-      "url": "https://www.deutschlandfunk.de/neue-frueherkennungsuntersuchung-u10-fuer-kinder-kommt-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitze - RKI: Auch während heißer Wochen Anfang August höhere Sterblichkeit in Deutschland",
-      "excerpt": "Die Zahl der Sterbefälle lag auch während der heißen Tage Anfang August deutlich über dem Durchschnitt. Aus Angaben des Robert-Koch-Instituts geht hervor, dass es zu dieser Zeit eine Übersterblichkeit in Deutschland gab.",
-      "url": "https://www.deutschlandfunk.de/rki-auch-waehrend-heisser-wochen-anfang-august-hoehere-sterblichkeit-in-deutschland-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Arbeitswelt - DGB-Ausbildungsreport: Zufriedenheit der Azubis sinkt auf neues Tief",
-      "excerpt": "Die Zufriedenheit der Auszubildenden ist laut dem neuen Ausbildungsreport des Deutschen Gewerkschaftsbundes auf den niedrigsten Stand seit Beginn der Erhebungen gesunken.",
-      "url": "https://www.deutschlandfunk.de/dgb-ausbildungsreport-zufriedenheit-der-azubis-sinkt-auf-neues-tief-102.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Belastung für Logistik\" - IHK Ostbrandenburg reagiert enttäuscht auf erneute Verlängerung der Grenzkontrollen zu Polen",
-      "excerpt": "Die Industrie- und Handelskammer Ostbrandenburg hat enttäuscht auf die Ankündigung von Bundesinnenminister Dobrindt reagiert, die Grenzkontrollen erneut zu verlängern. Die IHK teilte mit, man hätte sich einen Wegfall der",
-      "url": "https://www.deutschlandfunk.de/ihk-ostbrandenburg-reagiert-enttaeuscht-auf-erneute-verlaengerung-der-grenzkontrollen-zu-polen-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Belgien - Großbrand im Hohen Venn vollständig eingekreist - deutsche Feuerwehrleute ziehen ab",
-      "excerpt": "Der Großbrand im belgischen Naturschutzgebiet Hohes Venn ist inzwischen eingekreist, und die Einsatzkräfte hoffen, ihn vollständig löschen zu können.",
-      "url": "https://www.deutschlandfunk.de/grossbrand-im-hohen-venn-vollstaendig-eingekreist-deutsche-feuerwehrleute-ziehen-ab-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Unwetter - Frau wird in Rheinland-Pfalz von umstürzendem Baum erschlagen - Tornados in Brandenburg und Hessen",
-      "excerpt": "Unwetter haben in der Nacht Schäden in mehreren Bundesländern verursacht.",
-      "url": "https://www.deutschlandfunk.de/frau-wird-in-rheinland-pfalz-von-umstuerzendem-baum-erschlagen-tornados-in-brandenburg-und-hessen-100.html",
-      "publishedAt": "2026-08-20T13:31:26.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -370,14 +426,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Nach dem Erdbeben in Kolumbien: Wiederaufbau, Kritik am Staat und mittendrin Shakira",
-      "excerpt": "Nach dem Erdbeben in Kolumbien geht es an den Wiederaufbau und die Regierung steht unter Druck. Wie reagiert die Bevölkerung und warum helfen Promis? mehr...",
-      "url": "https://taz.de/Nach-dem-Erdbeben-in-Kolumbien/!6205791/",
-      "publishedAt": "2026-08-20T11:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Viele Babyboomer übergeben in den kommenden Jahren ihr Eigenheim",
       "excerpt": "In den kommenden Jahrzehnten dürften zunehmend Häuser der Babyboomer-Generation auf den Markt kommen. Das zusätzliche Angebot könnte Immobilienpreise sinken lassen. Wo vor allem? Von Bianca von der Au.",
@@ -412,7 +460,7 @@
     {
       "source": "SPIEGEL.DE",
       "title": "Katja Wolf: BSW-Chefin in Thüringen distanziert sich weiter von Sahra Wagenknecht",
-      "excerpt": "Thüringens Landeschefin Katja Wolf grenzt sich weiter von BSW-Parteigründerin Sahra Wagenknecht ab. Mit ihrer Annäherung an die AfD habe sie »eine Grenze überschritten«, sagt Wolf in einem Interview mit der »Zeit«.",
+      "excerpt": "Thüringens Landeschefin Katja Wolf grenzt sich weiter von BSW-Parteigründerin Sahra Wagenknecht ab. Mit deren Annäherung an die AfD habe diese »eine Grenze überschritten«, sagt Wolf in einem Interview mit der »Zeit«.",
       "url": "https://www.spiegel.de/politik/deutschland/katja-wolf-thueringer-bsw-chefin-distanziert-sich-weiter-von-sahra-wagenknecht-a-35716d26-791e-42a0-a5a5-e75d4059a48e#ref=rss",
       "publishedAt": "2026-08-20T10:21:00.000Z",
       "category": "POLITIK"
@@ -442,28 +490,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Dokus „Hiddensee“ und „Salz und Wasser“: Ostseestrand und Südpolgletscher",
-      "excerpt": "Mit „Hiddensee“ von Annekatrin Hendel sowie „Salz und Wasser“ von Ines Reinisch kommen gleich zwei Dokumentarfilme mit maritimen Themen in die Kinos. mehr...",
-      "url": "https://taz.de/Dokus-Hiddensee-und-Salz-und-Wasser/!6203310/",
-      "publishedAt": "2026-08-20T09:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Studie warnt vor deutlich mehr Waldbränden in Europa",
       "excerpt": "In Europa könnten künftig deutlich mehr Flächen brennen als bislang. Das zeigt eine Studie des Potsdam-Instituts für Klimafolgenforschung. Wie sehr das Risiko mit der Erderwärmung steigt - und was Brandmanagement leisten",
       "url": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
       "publishedAt": "2026-08-20T09:01:46.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ausländerfeindlichkeit in Südafrika: Herkunftsländer sollen Südafrika für Deportationen bezahlen",
-      "excerpt": "Länder, in die Südafrika Migranten deportiert, sollen die Kosten dafür tragen, sagt Südafrikas Regierung. Neue Aktionen gegen Migranten sind geplant. mehr...",
-      "url": "https://taz.de/Auslaenderfeindlichkeit-in-Suedafrika/!6205738/",
-      "publishedAt": "2026-08-20T08:59:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -500,7 +532,7 @@
     {
       "source": "TAZ.DE",
       "title": "Rückzug von Jens Spahn: Auch Münsterland muss ohne ihn auskommen",
-      "excerpt": "Der ehemalige Unions-Fraktionsvorsitzende Jens Spahn tritt schon wieder von einem Amt zurück. Die CDU Münsterland muss sich neue Vorsitzende suchen. mehr...",
+      "excerpt": "Der ehemalige Unionsfraktionsvorsitzende Jens Spahn tritt schon wieder von einem Amt zurück. Die CDU Münsterland muss sich neue Vorsitzende suchen. mehr...",
       "url": "https://taz.de/Rueckzug-von-Jens-Spahn/!6205773/",
       "publishedAt": "2026-08-20T08:17:00.000Z",
       "category": "POLITIK"
@@ -551,14 +583,6 @@
       "excerpt": "Seit dem versuchten Drohnenanschlag am Leipziger Flughafen trommelt Innenminister Dobrindt verstärkt für die Verteidigung gegen die Fluggeräte. Doch den Grünen gehen die Maßnahmen nicht weit genug.",
       "url": "https://www.spiegel.de/politik/deutschland/versuchter-anschlag-am-leipziger-flughafen-gruene-fordern-drohnen-gipfel-im-kanzleramt-a-224357b2-4664-4365-944d-e411ca2b75d2#ref=rss",
       "publishedAt": "2026-08-20T05:23:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kultur im Osten: Mehltau des Verdachts",
-      "excerpt": "Künstler gelten in Ostdeutschland als Systemlinge, denen nicht zu trauen ist. Waren die Ziele partizipativer Kunst zu ambitioniert? mehr...",
-      "url": "https://taz.de/Kultur-im-Osten/!6205556/",
-      "publishedAt": "2026-08-20T05:01:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -931,14 +955,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Die politischen Risse hinter der Militärparade in Warschau",
-      "excerpt": "Mit einer großen Parade wollte Polen am vergangenen Wochenende Stärke demonstrieren. Doch innenpolitische Konflikte trüben die Wirkung: Premier und Präsident streiten - ausgerechnet über ein EU-Rüstungsprogramm. Von Pete",
-      "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
-      "publishedAt": "2026-08-17T12:19:02.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Wie gerecht ist die deutsche Klimapolitik?",
       "excerpt": "Hitzewelle, Dürre, Brände: Klimaschutz wird immer dringlicher. Doch die Kosten treffen nicht alle gleich - wer wenig verdient, kann sich E-Auto oder Wärmepumpe nicht leisten. Tut die Regierung genug für den sozialen Ausg",
       "url": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
@@ -952,14 +968,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-privat-geschaeftlich-deutschland-ausland-100.html",
       "publishedAt": "2026-08-17T10:46:23.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
-      "excerpt": "Zehntausende Kameras einer privaten Firma in fast allen US-Bundesstaaten ziehen das Misstrauen vieler Bürger auf sich. Der teils vehemente Protest gegen die Kameras der Firma Flock eint die politischen Lager. Von R. Buck",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
-      "publishedAt": "2026-08-17T07:58:19.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1431,14 +1439,6 @@
       "excerpt": "41,7 Grad in Deutschland - ein Rekord, unter dem längst nicht mehr nur Risikogruppen leiden. Die Gefahr durch Hitze wird oft unterschätzt. Warum selbst Gesunde an ihre Grenzen kommen und wie wir uns besser schützen könne",
       "url": "https://www.tagesschau.de/wissen/gesundheit/hitze-schutz-104.html",
       "publishedAt": "2026-07-03T03:25:39.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Studie: HPV-Impfung drückt Krebs-Sterberisiko auf nahezu null",
-      "excerpt": "Eine Impfung gegen Humane Papillomviren (HPV) kann Krebserkrankungen und Todesfälle effektiv verhindern - das zeigt eine aktuelle, englische Studie. Doch in Deutschland wird sie noch zu wenig genutzt. Von Andreas Kegel.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/hp-viren-impfungen-sterberisiko-100.html",
-      "publishedAt": "2026-06-30T14:07:58.000Z",
       "category": "GESUNDHEIT & PSYCHE"
     }
   ]
