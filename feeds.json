@@ -1,100 +1,20 @@
 {
-  "updatedAt": "2026-08-20T11:43:04.001Z",
+  "updatedAt": "2026-08-20T12:02:40.607Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Politische Gräben vertiefen sich - Immer mehr Hass auf Andersdenkenke",
-      "excerpt": "Studie zeigt: Emotionale Feindbilder zwischen politischen Lagern wachsen stark.",
-      "url": "https://www.bild.de/politik/inland/politische-spaltung-immer-mehr-hass-auf-andersdenkende-6a86b8dbe532e82cc4f2b667",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die Royals in Aufruhr - „Es war ein Schock für Charles und William“",
-      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
-      "url": "https://www.bild.de/politik/das-britische-koenigshaus-wurde-von-der-royalen-rueckkehr-von-harry-und-meghan-ueberrascht-es-war-ein-schock-fuer-charles-und-william-6a86b391e532e82cc4f2b5be",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Wagenknechts riskantes AfD-Manöver. Mit Andrea Maurer",
-      "excerpt": "Paul Ronzheimer spricht mit Andrea Maurer, Journalistin und Wagenknecht-Biografin, über die überraschende Strategie des BSW vor der ...",
-      "url": "https://www.bild.de/politik/ronzheimer-wagenknechts-riskantes-afd-manoever-mit-andrea-maurer-6a860381e532e82cc4f2afc7",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Grünen-Chef Banaszak - „Die Energiewende sichert uns den Wohlstand“",
-      "excerpt": "Grünen-Chef Banaszak sieht mehr Klimaschutz als Schlüssel aus der Wirtschaftskrise.",
-      "url": "https://www.bild.de/politik/inland/felix-banaszak-warum-er-enteignungen-nicht-ausschliesst-6a847c4bd537b08639dcc361",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Präsident macht Russen verantwortlich - Rumänischer Kampfjet schießt Sprengstoff-Drohne ab",
       "excerpt": "Gleich mehr bei BILD.",
       "url": "https://www.bild.de/politik/eilmeldung-rumaenischer-kampfjet-schiesst-sprengstoff-drohne-ab-6a86d8f81c4720d4165458cf",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Justizsenatorin Badenberg unter Druck - CDU vermutet AfD hinter Plagiats-Affäre in Berlin",
-      "excerpt": "CDU sieht politische Motive hinter Plagiatsvorwürfen gegen Justizsenatorin Badenberg.",
-      "url": "https://www.bild.de/politik/inland/felor-badenberg-plagiatsvorwuerfe-vor-berlin-wahl-cdu-verdaechtigt-afd-6a86cd381c4720d4165456e6",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Am Set mit Sean Penn - Nord-Stream‑Verdächtiger bei Hollywood-Dreh geschnappt",
-      "excerpt": "Ein gesuchter Nord-Stream-Saboteur wurde bei Dreharbeiten in Kroatien festgenommen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/vladimir-z-nord-stream-verdaechtiger-am-filmset-festgenommen-6a86b5e5e532e82cc4f2b5f2",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Schwerer Angriff auf Kiew - Russen-Raketen treffen Kinderkrankenhaus",
-      "excerpt": "Russland greift Kiew mit Raketen und Drohnen an, viele Tote und Zerstörung.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/kiew-massiver-russischer-luftangriff-toetet-mindestens-13-menschen-6a86a350ea1ca890d9e2fa04",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
-      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
-      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wahlkampf-Panne - SPD wirbt in Sachsen-Anhalt mit Nazi-Zeile",
-      "excerpt": "SPD gerät im Wahlkampf unter Druck wegen Slogan aus einem NS-Lied von 1936.",
-      "url": "https://www.bild.de/politik/inland/spd-wahlkampf-in-sachsen-anhalt-wir-sind-der-deich-aus-ns-lied-6a86b05be532e82cc4f2b555",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "4 von 5 Migranten dürfen bleiben - Abschiebe-Desaster: CDU will an die Duldungen ran",
-      "excerpt": "CDU und Länder streiten, wie weniger geduldete Ausreisepflichtige bleiben sollen.",
-      "url": "https://www.bild.de/politik/inland/duldungen-cdu-experte-nennt-vier-von-fuenf-faellen-skandal-6a85b37357e16470ca3ac572",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Korn-Krieg gegen Deutschland - So greift Putin unsere Bauern an",
-      "excerpt": "Bauernpräsident Rukwied warnt: Putin drückt mit Weizenpreisen deutsche Bauern.",
-      "url": "https://www.bild.de/politik/inland/korn-krieg-gegen-deutschland-so-greift-putin-unsere-bauern-an-6a856cced537b08639dccc5e",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "title": "Clankriminalität in Berlin - „Es fallen Schüsse, weil jemand falsch grüßt“",
+      "excerpt": "Schüsse und Bandenkrieg in Kreuzberg: Reporter schildert die Lage im Kiez.",
+      "url": "https://www.bild.de/politik/clankriminalitaet-in-berlin-es-fallen-schuesse-weil-jemand-falsch-gruesst-6a8585c63f3b2550f6df48fc",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +22,103 @@
       "title": "Überraschender TV-Fund - Ehefrau von AfD-Politiker Siegmund bei Hochzeits-Soap",
       "excerpt": "Julia Siegmund sucht im TV-Format „Zwischen Tüll & Tränen“ ihr Brautkleid.",
       "url": "https://www.bild.de/politik/ehefrau-von-afd-politiker-siegmund-bei-zwischen-tuell-traenen-6a8453973f3b2550f6df37bb",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aufnahmen von 1949 zeigen krasse Dürre - Schon damals kein Wasser im Rhein",
+      "excerpt": "Video",
+      "url": "https://www.bild.de/politik/schon-damals-kein-wasser-im-rhein-aufnahmen-von-1949-zeigen-krasse-duerre-6a82d9a9a87e8142c31d29f0",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Politische Gräben vertiefen sich - Immer mehr Hass auf Andersdenkenke",
+      "excerpt": "Studie zeigt: Emotionale Feindbilder zwischen politischen Lagern wachsen stark.",
+      "url": "https://www.bild.de/politik/inland/politische-spaltung-immer-mehr-hass-auf-andersdenkende-6a86b8dbe532e82cc4f2b667",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Die Royals in Aufruhr - „Es war ein Schock für Charles und William“",
+      "excerpt": "Harry und Meghan ziehen zurück nach England, eine Reporterin enthüllt Hintergründe.",
+      "url": "https://www.bild.de/politik/das-britische-koenigshaus-wurde-von-der-royalen-rueckkehr-von-harry-und-meghan-ueberrascht-es-war-ein-schock-fuer-charles-und-william-6a86b391e532e82cc4f2b5be",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "RONZHEIMER - Wagenknechts riskantes AfD-Manöver. Mit Andrea Maurer",
+      "excerpt": "Paul Ronzheimer spricht mit Andrea Maurer, Journalistin und Wagenknecht-Biografin, über die überraschende Strategie des BSW vor der ...",
+      "url": "https://www.bild.de/politik/ronzheimer-wagenknechts-riskantes-afd-manoever-mit-andrea-maurer-6a860381e532e82cc4f2afc7",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Grünen-Chef Banaszak - „Die Energiewende sichert uns den Wohlstand“",
+      "excerpt": "Grünen-Chef Banaszak sieht mehr Klimaschutz als Schlüssel aus der Wirtschaftskrise.",
+      "url": "https://www.bild.de/politik/inland/felix-banaszak-warum-er-enteignungen-nicht-ausschliesst-6a847c4bd537b08639dcc361",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Justizsenatorin Badenberg unter Druck - CDU vermutet AfD hinter Plagiats-Affäre in Berlin",
+      "excerpt": "CDU sieht politische Motive hinter Plagiatsvorwürfen gegen Justizsenatorin Badenberg.",
+      "url": "https://www.bild.de/politik/inland/felor-badenberg-plagiatsvorwuerfe-vor-berlin-wahl-cdu-verdaechtigt-afd-6a86cd381c4720d4165456e6",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Am Set mit Sean Penn - Nord-Stream‑Verdächtiger bei Hollywood-Dreh geschnappt",
+      "excerpt": "Ein gesuchter Nord-Stream-Saboteur wurde bei Dreharbeiten in Kroatien festgenommen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/vladimir-z-nord-stream-verdaechtiger-am-filmset-festgenommen-6a86b5e5e532e82cc4f2b5f2",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Schwerer Angriff auf Kiew - Russen-Raketen treffen Kinderkrankenhaus",
+      "excerpt": "Russland greift Kiew mit Raketen und Drohnen an, viele Tote und Zerstörung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/kiew-massiver-russischer-luftangriff-toetet-mindestens-13-menschen-6a86a350ea1ca890d9e2fa04",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
+      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
+      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlkampf-Panne - SPD wirbt in Sachsen-Anhalt mit Nazi-Zeile",
+      "excerpt": "SPD gerät im Wahlkampf unter Druck wegen Slogan aus einem NS-Lied von 1936.",
+      "url": "https://www.bild.de/politik/inland/spd-wahlkampf-in-sachsen-anhalt-wir-sind-der-deich-aus-ns-lied-6a86b05be532e82cc4f2b555",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "4 von 5 Migranten dürfen bleiben - Abschiebe-Desaster: CDU will an die Duldungen ran",
+      "excerpt": "CDU und Länder streiten, wie weniger geduldete Ausreisepflichtige bleiben sollen.",
+      "url": "https://www.bild.de/politik/inland/duldungen-cdu-experte-nennt-vier-von-fuenf-faellen-skandal-6a85b37357e16470ca3ac572",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Korn-Krieg gegen Deutschland - So greift Putin unsere Bauern an",
+      "excerpt": "Bauernpräsident Rukwied warnt: Putin drückt mit Weizenpreisen deutsche Bauern.",
+      "url": "https://www.bild.de/politik/inland/korn-krieg-gegen-deutschland-so-greift-putin-unsere-bauern-an-6a856cced537b08639dccc5e",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +126,7 @@
       "title": "Hohe Spritkosten treiben Teuerung an - So stark belastet Inflation Familien und Singles",
       "excerpt": "Steigende Spritpreise treiben die Inflation an und treffen Haushalte sehr unterschiedlich.",
       "url": "https://www.bild.de/politik/inland/inflation-belastet-familien-alleinerziehende-und-singles-immer-staerker-6a85b1d757e16470ca3ac533",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +134,7 @@
       "title": "„Schwerster Fall seit Guttenberg“ - 83 Stellen! Plagiats-Verdacht gegen Berlins Justizsenatorin",
       "excerpt": "Justizsenatorin Badenberg steht wegen mutmaßlicher Plagiate im Wahlkampf unter Druck.",
       "url": "https://www.bild.de/politik/inland/felor-badenberg-83-plagiatsfragmente-laut-pruefer-vor-berlin-wahl-6a869358b87d62f4a345ea96",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
@@ -126,168 +142,24 @@
       "title": "Premiere bei Maischberger - Neuer Verkehrsminister macht Maut-Ansage",
       "excerpt": "Klartext von Verkehrsminister Steffen Bilger zu einer möglichen Maut in Deutschland.",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/maischberger-verkehrsminister-bilger-macht-maut-ansage-6a8662a0e532e82cc4f2b149",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "publishedAt": "2026-08-20T12:02:40.452Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Für geplante Swinger-Party im Rathaus - Stadtrat lädt zum Gruppensex-Training",
-      "excerpt": "Mannheimer Stadtrat plant FKK-Swinger-Paradies und lädt Interessenten zum Training.",
-      "url": "https://www.bild.de/politik/inland/julien-ferrat-50-interessenten-fuer-swingerparty-im-rathaus-6a869de43e2ba7edf221f5a2",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "source": "TAZ.DE",
+      "title": "Landtagswahl in Sachsen-Anhalt: CDU-Politiker wünscht AfD-Regierung herbei",
+      "excerpt": "Ein Stendaler CDUler spendete 10.000 Euro an die AfD. Er wettert gegen die eigene Partei – und hofft auf eine absolute Mehrheit für die Rechtsextremen. mehr...",
+      "url": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6205804/",
+      "publishedAt": "2026-08-20T11:51:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zum Ukraine-Krieg - Raketen, Tod, Zerstörung! Russen greifen Kiew an",
-      "excerpt": "Ukrainische Medien berichten bereits von mindestens einem Dutzend Toten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-08-20T11:43:03.244Z",
+      "source": "TAZ.DE",
+      "title": "USA unter Trump: US-Staatsschulden steigen auf 40 Billionen Dollar",
+      "excerpt": "Die Finanzpolitik von Donald Trump treibt den Schuldenstand der USA auf einen neuen Rekord. In den kommenden Jahren droht das Minus weiter zu steigen. mehr...",
+      "url": "https://taz.de/USA-unter-Trump/!6205790/",
+      "publishedAt": "2026-08-20T11:49:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Holocaust Überlebende Knobloch - \"Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern\"",
-      "excerpt": "Die Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern, Charlotte Knobloch, rechnet im Falle einer AfD-Regierung in Sachsen-Anhalt mit einer Auswanderung von Juden.",
-      "url": "https://www.deutschlandfunk.de/bei-afd-regierungsuebernahme-in-sachsen-anhalt-werden-juden-auswandern-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mögliche Mangellage - Gering gefüllte Gasspeicher sorgen für Kritik",
-      "excerpt": "Der niedrige Füllstand der Gasspeicher in Deutschland sorgt weiter für Kritik. Die Bundesvorsitzende der Linkspartei, Schwerdtner, rief Bundeswirtschaftsministerin Reiche auf, zu handeln.",
-      "url": "https://www.deutschlandfunk.de/gering-gefuellte-gasspeicher-sorgen-fuer-kritik-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russischer Angriffskrieg - Mindestens 16 Tote bei neuer Raketenattacke auf Kiew",
-      "excerpt": "Russland hat in der Nacht erneut die ukrainische Hauptstadt Kiew angegriffen.",
-      "url": "https://www.deutschlandfunk.de/mindestens-16-tote-bei-neuer-raketenattacke-auf-kiew-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bukarest - Rumänischer Kampfjet zerstört mit Sprengstoff beladene Drohne",
-      "excerpt": "Ein rumänisches Kampfflugzeug hat nach Angaben der Regierung in Bukarest eine mit Sprengstoff beladene Drohne zerstört.",
-      "url": "https://www.deutschlandfunk.de/rumaenischer-kampfjet-zerstoert-mit-sprengstoff-beladene-drohne-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verstoß gegen UNO-Resolution - Südkorea: Nordkorea feuert über zehn Kurzstreckenraketen ab",
-      "excerpt": "Nordkorea hat südkoreanischen Angaben zufolge mindestens zehn Kurzstreckenraketen abgefeuert.",
-      "url": "https://www.deutschlandfunk.de/suedkorea-nordkorea-feuert-ueber-zehn-kurzstreckenraketen-ab-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar",
-      "excerpt": "Im Iran ist erneut ein Mann im Zusammenhang mit den Protesten im Januar hingerichtet worden.",
-      "url": "https://www.deutschlandfunk.de/erneute-hinrichtung-im-iran-wegen-der-proteste-im-januar-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Bundesbank befürchtet durch Niedrigwasser Konjunkturdämpfer",
-      "excerpt": "Die Bundesbank rechnet infolge des Niedrigwassers mit einer vorübergehenden Abschwächung der Konjunktur.",
-      "url": "https://www.deutschlandfunk.de/bundesbank-befuerchtet-durch-niedrigwasser-konjunkturdaempfer-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheit - Bundesamt für Verfassungsschutz weist auf autoritären Druck auf Exilanten hin",
-      "excerpt": "Das Bundesamt für Verfassungsschutz warnt vor dem Druck autoritärer Regime auf ihre Staatsbürger in Deutschland.",
-      "url": "https://www.deutschlandfunk.de/bundesamt-fuer-verfassungsschutz-weist-auf-autoritaeren-druck-auf-exilanten-hin-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schmuggel von Handys und Drogen - Staatsanwaltschaft ermittelt gegen Mitarbeiter und Insassen der JVA Bremen",
-      "excerpt": "Die Staatsanwaltschaft Bremen ermittelt gegen Mitarbeiter und Häftlinge der dortigen Justizvollzugsanstalt wegen des Vorwurfs der Bestechlichkeit und Bestechung.",
-      "url": "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-mitarbeiter-und-insassen-der-jva-bremen-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medizinischer Dienst - Rund 3.100 medizinische Behandlungsfehler im vergangenen Jahr nachgewiesen",
-      "excerpt": "In Deutschland sind im vergangenen Jahr rund 3.100 medizinische Behandlungsfehler nachgewiesen worden.",
-      "url": "https://www.deutschlandfunk.de/rund-3-100-medizinische-behandlungsfehler-im-vergangenen-jahr-nachgewiesen-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheit - Neue Früherkennungsuntersuchung U10 für Kinder kommt",
-      "excerpt": "Für Kinder soll eine neue Früherkennungs-Untersuchung eingeführt werden. Der Gemeinsame Bundesausschuss von Ärzten, Krankenhäusern und Krankenkassen beschloss die sogenannte \"U10\" für Kinder im Alter von neun bis zehn Ja",
-      "url": "https://www.deutschlandfunk.de/neue-frueherkennungsuntersuchung-u10-fuer-kinder-kommt-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitze - RKI: Auch während heißer Wochen Anfang August höhere Sterblichkeit in Deutschland",
-      "excerpt": "Die Zahl der Sterbefälle lag auch während der heißen Tage Anfang August deutlich über dem Durchschnitt. Aus Angaben des Robert-Koch-Instituts geht hervor, dass es zu dieser Zeit eine Übersterblichkeit in Deutschland gab.",
-      "url": "https://www.deutschlandfunk.de/rki-auch-waehrend-heisser-wochen-anfang-august-hoehere-sterblichkeit-in-deutschland-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Arbeitswelt - DGB-Ausbildungsreport: Zufriedenheit der Azubis sinkt auf neues Tief",
-      "excerpt": "Die Zufriedenheit der Auszubildenden ist laut dem neuen Ausbildungsreport des Deutschen Gewerkschaftsbundes auf den niedrigsten Stand seit Beginn der Erhebungen gesunken.",
-      "url": "https://www.deutschlandfunk.de/dgb-ausbildungsreport-zufriedenheit-der-azubis-sinkt-auf-neues-tief-102.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Belastung für Logistik\" - IHK Ostbrandenburg reagiert enttäuscht auf erneute Verlängerung der Grenzkontrollen zu Polen",
-      "excerpt": "Die Industrie- und Handelskammer Ostbrandenburg hat enttäuscht auf die Ankündigung von Bundesinnenminister Dobrindt reagiert, die Grenzkontrollen erneut zu verlängern. Die IHK teilte mit, man hätte sich einen Wegfall der",
-      "url": "https://www.deutschlandfunk.de/ihk-ostbrandenburg-reagiert-enttaeuscht-auf-erneute-verlaengerung-der-grenzkontrollen-zu-polen-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Belgien - Großbrand im Hohen Venn vollständig eingekreist - deutsche Feuerwehrleute ziehen ab",
-      "excerpt": "Der Großbrand im belgischen Naturschutzgebiet Hohes Venn ist inzwischen eingekreist, und die Einsatzkräfte hoffen, ihn vollständig löschen zu können.",
-      "url": "https://www.deutschlandfunk.de/grossbrand-im-hohen-venn-vollstaendig-eingekreist-deutsche-feuerwehrleute-ziehen-ab-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Unwetter - Frau wird in Rheinland-Pfalz von umstürzendem Baum erschlagen - Tornados in Brandenburg und Hessen",
-      "excerpt": "Unwetter haben in der Nacht Schäden in mehreren Bundesländern verursacht.",
-      "url": "https://www.deutschlandfunk.de/frau-wird-in-rheinland-pfalz-von-umstuerzendem-baum-erschlagen-tornados-in-brandenburg-und-hessen-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Energiewirtschaft - Niedrige Füllstände in Gasspeichern: Verbraucherzentrale warnt vor steigenden Preisen",
-      "excerpt": "Mit Blick auf die niedrigen Gasspeicherstände warnt der Verbraucherzentrale Bundesverband vor steigenden Preisen. Die Verbandsvorsitzende Pop sagte der \"Rheinischen Post\", Privathaushalte sollten prüfen, ob der eigene Ga",
-      "url": "https://www.deutschlandfunk.de/niedrige-fuellstaende-in-gasspeichern-verbraucherzentrale-warnt-vor-steigenden-preisen-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Offener Brief - CDU-Bürgermeister in Sachsen-Anhalt spendet 10.000 Euro an AfD",
-      "excerpt": "In Sachsen-Anhalt hat der CDU-Kommunalpolitiker Prange, der auch Ortsbürgermeister von Altmärkische Höhe ist, insgesamt 10.000 Euro an die AfD gespendet. Prange will die AfD bei der Landtagswahl am 6. September auch wähl",
-      "url": "https://www.deutschlandfunk.de/cdu-buergermeister-in-sachsen-anhalt-spendet-10-000-euro-an-afd-100.html",
-      "publishedAt": "2026-08-20T11:39:52.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "SPIEGEL.DE",
@@ -332,7 +204,7 @@
     {
       "source": "TAZ.DE",
       "title": "Vor den Landtagswahlen im Osten: Der affektive Furor der Gekränkten",
-      "excerpt": "Rechte Weltbilder und Narrative bilden sich so rasch wie Infektionen aus und kolonisieren den Alltag. Bald werden sie als normal angesehen. mehr...",
+      "excerpt": "Rechte Weltbilder und Narrative breiten sich so rasch wie Infektionen aus und kolonisieren den Alltag. Bald werden sie als normal angesehen. mehr...",
       "url": "https://taz.de/Vor-den-Landtagswahlen-im-Osten/!6200773/",
       "publishedAt": "2026-08-20T10:36:00.000Z",
       "category": "POLITIK"
@@ -475,14 +347,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Krieg in der Ukraine: Mehrere Tote und viele Verletzte nach Angriff auf Kyjiw",
-      "excerpt": "In der Nacht zu Donnerstag haben russische Raketen mindestens sechs Menschen getötet. Die Ukraine hat ihre Angriffe ebenfalls verstärkt. mehr...",
-      "url": "https://taz.de/-Krieg-in-der-Ukraine-/!6205746/",
-      "publishedAt": "2026-08-20T06:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Viele Stellen unbesetzt: Hamburg verschenkt Steuereinnahmen",
       "excerpt": "Die Hamburger Steuerbehörden tun sich schwer, ihre offenen Stellen zu besetzen. So bleibt manche Steuererklärung ungeprüft, die geprüft werden sollte. mehr...",
       "url": "https://taz.de/Viele-Stellen-unbesetzt/!6205241/",
@@ -551,14 +415,6 @@
       "excerpt": "Seinen Posten als Fraktionschef ist er bereits los. Nun gibt Jens Spahn bekannt, dass er auch nicht mehr für den CDU-Bezirksvorsitz in seiner Heimatregion kandidiert. Parteifreunde fordern unterdessen Konsequenzen aus de",
       "url": "https://www.spiegel.de/politik/jens-spahn-kandidiert-nach-leihmutterschafts-debatte-nicht-mehr-fuer-cdu-bezirksvorsitz-im-muensterland-a-356899ef-c989-49e3-869f-137eba31ff42#ref=rss",
       "publishedAt": "2026-08-19T19:35:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Burn-out in der Politik: Ausgebrannt aus dem Amt",
-      "excerpt": "Jens Marco Scherf war der erste grüne Landrat Deutschlands. Sein Amt machte ihn am Ende krank. Mit den Folgen hat er nach wie vor zu kämpfen. mehr...",
-      "url": "https://taz.de/Burn-out-in-der-Politik/!6205162/",
-      "publishedAt": "2026-08-19T18:11:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -786,30 +642,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Außerschulische Lernorte: Welche Rollen haben sie? Interview mit Prof. Plessow",
-      "excerpt": "Schlemper, Tobias www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/ausserschulische-lernorte-welche-rollen-haben-sie-interview-mit-prof-plessow-100.html",
-      "publishedAt": "2026-08-18T12:46:02.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Living History im Freilichtmuseum: Neue Konzepte für Geschichtsvermittlung",
-      "excerpt": "Neubig, Magdalena www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/living-history-im-freilichtmuseum-neue-konzepte-fuer-geschichtsvermittlung-100.html",
-      "publishedAt": "2026-08-18T12:42:45.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Frust gegen Landarztquote: Absolvierende in NRW klagen",
-      "excerpt": "Panning, Jonas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/frust-gegen-landarztquote-absolvierende-in-nrw-klagen-100.html",
-      "publishedAt": "2026-08-18T12:36:49.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
       "excerpt": "Online-Shops mit deutschsprachigen Namen und Webadressen, die aber gar nicht in Deutschland sitzen, nehmen zu. Für Verbraucher kann das problematisch werden, denn Qualität und Versandbedingungen sind selten gut. Woran er",
@@ -890,28 +722,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Archäologische Sommerakademie: Studierende machen erste Ausgrabungen",
-      "excerpt": "Lueg, Andrea www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/archaeologische-sommerakademie-studierende-machen-erste-ausgrabungen-100.html",
-      "publishedAt": "2026-08-17T12:43:17.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "100 Tagen Magyar - Wo Ungarn mit seinem neuen Regierungschef steht",
       "excerpt": "Seit 100 Tagen ist Ungarns neuer Ministerpräsident Magyar im Amt. Versprochen hat er die Wiederherstellung von Rechtsstaat und Demokratie. Was hat er bereits geschafft? Welche Vorhaben sind heikel? Von Silke Hahne.",
       "url": "https://www.tagesschau.de/ausland/europa/ungarn-ministerpraesident-magyar-100.html",
       "publishedAt": "2026-08-17T12:40:50.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Schwierigkeiten bei der Jobsuche: Speed-Dating für Geflüchtete und Arbeitgeber",
-      "excerpt": "Sammann, Luise www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/schwierigkeiten-bei-der-jobsuche-speed-dating-fuer-gefluechtete-und-arbeitgeber-100.html",
-      "publishedAt": "2026-08-17T12:37:37.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1002,14 +818,6 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Mauerbau 1961: Bekanntes Datum, unbekannte Geschichte?",
-      "excerpt": "Hinrichs, Dörte www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/mauerbau-1961-bekanntes-datum-unbekannte-geschichte-102.html",
-      "publishedAt": "2026-08-15T12:05:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
       "excerpt": "Die Grünen haben in Sachsen-Anhalt einen schweren Stand. Parteichef Banaszak tourt durch das Bundesland, um seine Partei in den Landtag zu bringen. Davon könnte abhängen, ob die AfD alleine regieren kann. Von Demian von ",
@@ -1032,30 +840,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
       "publishedAt": "2026-08-14T12:58:53.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "DLF",
-      "title": "Plagiatsvorwürfe gegen Jason Arday: Uni Cambridge überprüft Berufungsverfahren",
-      "excerpt": "Heuer, Christine www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/plagiatsvorwuerfe-gegen-jason-arday-uni-cambridge-ueberprueft-berufungsverfahren-100.html",
-      "publishedAt": "2026-08-14T12:53:03.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Der Fall Max Heckel - Was Lehrkräfte im Unterricht sagen dürfen, ist umstritten",
-      "excerpt": "Ein Lehrer aus Stendal kämpft gegen eine Abmahnung, die er für negative Äußerungen über die AfD gegenüber einem Schüler erhielt. Der Fall wird zum Politikum. Wie \"neutral\" müssen Lehrkräfte sein - und wo ist politische H",
-      "url": "https://www.deutschlandfunk.de/der-fall-max-heckel-was-duerfen-lehrkraefte-sagen-100.html",
-      "publishedAt": "2026-08-14T12:41:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Neutralität im Klassenzimmer: Der Fall Max Heckel in Sachsen-Anhalt",
-      "excerpt": "Ottersbach, Niklas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/neutralitaet-im-klassenzimmer-der-fall-max-heckel-in-sachsen-anhalt-100.html",
-      "publishedAt": "2026-08-14T12:36:49.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1082,30 +866,6 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Linkshänder: Welche Hürden gibt es noch in Schule und Arbeitswelt?",
-      "excerpt": "Stang, Michael www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/linkshaender-welche-huerden-gibt-es-noch-in-schule-und-arbeitswelt-100.html",
-      "publishedAt": "2026-08-13T12:50:16.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Pilotprojekt: Arbeitszeiterfassung für Lehrkräfte startet in Bremen",
-      "excerpt": "Golsch, Nikolas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/pilotprojekt-arbeitszeiterfassung-fuer-lehrkraefte-startet-in-bremen-100.html",
-      "publishedAt": "2026-08-13T12:40:19.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Bildungsprojekte zum Mauerbau vor 65 Jahren: Interview Axel Klausmeier",
-      "excerpt": "Brinkmann, Regina www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/bildungsprojekte-zum-mauerbau-vor-65-jahren-interview-axel-klausmeier-100.html",
-      "publishedAt": "2026-08-13T12:35:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
       "excerpt": "Die Pegelstände des Rheins sinken weiter - was die Logistik massiv stört. Gleichzeitig leidet die Landwirtschaft stark unter der anhaltenden Trockenheit. Woran sind die Folgen im Alltag bereits zu merken? Von Jens Eberl.",
@@ -1114,60 +874,12 @@
       "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Jugend auf dem Arbeitsmarkt: Wie ist ihre Situation? Int. mit Nina Krüger",
-      "excerpt": "Schlemper, Tobias www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/jugend-auf-dem-arbeitsmarkt-wie-ist-ihre-situation-int-mit-nina-krueger-100.html",
-      "publishedAt": "2026-08-12T12:48:59.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Wunsch nach Sinn und Sicherheit - Microtrend bei Jobwahl junger Menschen",
-      "excerpt": "Putsche, Natalie www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/wunsch-nach-sinn-und-sicherheit-microtrend-bei-jobwahl-junger-menschen-100.html",
-      "publishedAt": "2026-08-12T12:42:41.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "BAföG-Erhöhung - Kabinett beschließt Reform",
-      "excerpt": "Balzer, Vladimir www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/bafoeg-erhoehung-kabinett-beschliesst-reform-100.html",
-      "publishedAt": "2026-08-12T12:36:16.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
       "excerpt": "Ab heute gelten in der EU schärfere Regeln für Verpackungen. Das Ziel: die Menge an Müll deutlich reduzieren. Nach dem Aus für Plastik-Trinkhalme heißt es für Verbraucher bald Abschied nehmen von bestimmten Verpackungen.",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html",
       "publishedAt": "2026-08-12T03:47:15.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Japan: Demenztraining in der Schule",
-      "excerpt": "Lill, Felix www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/japan-demenztraining-in-der-schule-100.html",
-      "publishedAt": "2026-08-11T12:50:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "TU Chemnitz bleibt bei Aberkennung des Doktortitels von Mario Voigt",
-      "excerpt": "Bernhard, Henry www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/tu-chemnitz-bleibt-bei-aberkennung-des-doktortitels-von-mario-voigt-100.html",
-      "publishedAt": "2026-08-11T12:40:01.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Was ist los bei der Bundeszentrale für politische Bildung?",
-      "excerpt": "Engelbrecht, Sebastian www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/was-ist-los-bei-der-bundeszentrale-fuer-politische-bildung-100.html",
-      "publishedAt": "2026-08-11T12:36:25.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
