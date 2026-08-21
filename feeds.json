@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-08-21T18:13:50.044Z",
+  "updatedAt": "2026-08-21T18:57:35.166Z",
   "messages": [
     {
       "source": "BILD.DE",
       "title": "Mehr als 120 Verletzte und 14 Tote - Mitten am Tag! Russen greifen Supermarkt an",
       "excerpt": "Russland attackiert Einkaufszentrum in Krywyj Rih, mindestens sechs Tote.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/russische-drohnen-treffen-einkaufszentrum-mindestens-5-tote-91-verletzte-6a886ddc1c4720d416547735",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Glaubwürdigkeit nicht mehr gegeben“ - Spahns CDU-Heimat fordert seinen kompletten Abgang",
+      "excerpt": "CDU-Basis im Münsterland drängt Spahn zum Mandatsverzicht.",
+      "url": "https://www.bild.de/politik/eindruck-von-doppelmoral-cdu-heimat-fordert-spahns-totalen-rueckzug-6a5f5afefb6c4ab717fc943a",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,7 @@
       "title": "Mehrere Tote - Russen greifen Supermarkt an",
       "excerpt": "Russischer Angriff auf ein Einkaufszentrum in Krywyj Rih: Während des Feierabend-Einkaufs schlagen Drohnen ein. Mehrere Menschen wer...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/mitten-am-tag-russen-greifen-supermarkt-an-6a888951b24f9237ede78c76",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +30,7 @@
       "title": "Kritik am langen Kanzler-Urlaub - „Lassen wir Merz doch die Füße in den Tegernsee halten“",
       "excerpt": "Video",
       "url": "https://www.bild.de/politik/bundeskanzler-im-urlaub-am-tegernsee-lassen-wir-merz-doch-die-fuesse-in-den-tegernsee-halten-6a881472c3692834ff6d81e9",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +38,7 @@
       "title": "Vertraulich - Der Politik-Vodcast - „Lassen wir Merz doch die Füße in den Tegernsee halten”",
       "excerpt": "Am 29. Juli ist der Bundeskanzler zum letzten Mal öffentlich aufgetreten. Seitdem ist er im Urlaub am Tegernsee - trotz Dürre, Niedr...",
       "url": "https://www.bild.de/politik/vertraulich-der-politik-vodcast-lassen-wir-merz-doch-die-fuesse-in-den-tegernsee-halten-6a883f971c4720d4165471f4",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +46,7 @@
       "title": "Trump und seine Assistentinnen - „Auffallend viele hübsche junge Frauen in seinem Umfeld“",
       "excerpt": "Trumps 35-jährige Assistentin Natalie Harp ist in den Fokus gerückt, weil sie permanent an seiner Seite ist, während Melania über Wo...",
       "url": "https://www.bild.de/politik/trump-und-seine-assistentinen-auffallend-viele-huebsche-junge-frauen-in-seinem-umfeld-6a883e41b24f9237ede78641",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +54,7 @@
       "title": "Wegen Streit um Partei-Job - Bürgermeister hatte privaten Grund für AfD-Spende",
       "excerpt": "CDU-Bürgermeister Prange gesteht: Hinter seiner AfD-Spende steckt Jobsuche.",
       "url": "https://www.bild.de/politik/inland/buergermeister-von-der-cdu-bestaetigt-privaten-grund-fuer-spende-fuer-afd-6a884f13c3692834ff6d87c8",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +62,7 @@
       "title": "Machtkampf um UN-Chefposten - Hat Trump Baerbock auf dem Kieker?",
       "excerpt": "Baerbock gerät im UN-Machtkampf mit USA und Russland um den Generalsekretär unter Druck.",
       "url": "https://www.bild.de/politik/inland/annalena-baerbock-machtkampf-um-den-un-chefposten-6a87ed5d7b97809e93f3f963",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +70,7 @@
       "title": "Geheime Bundeswehr-Pläne - Diese Waffen sollen uns vor Putin schützen",
       "excerpt": "Deutschland plant neue Langstreckenwaffen, um Russland abzuschrecken.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/bundeswehr-langstreckenwaffen-fuer-fast-12-milliarden-euro-geplant-6a8879da89ff002330aa29fa",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +78,7 @@
       "title": "Erneut Spekulationen um Insiderhandel - Verdächtige Krypto-Käufe vor Trump-Gipfel im Weißen Haus",
       "excerpt": "Auffällige Bewegungen am Kryptomarkt vor einem politischen Event sorgen für Aufsehen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/spekulationen-um-insiderhandel-verdaechtige-krypto-kaeufe-vor-trump-gipfel-im-weissen-haus-6a885756b24f9237ede788d5",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +86,7 @@
       "title": "Shitstorm wegen „MILF“-Kette - „Ich sehe nicht unbedingt wie CDU aus“",
       "excerpt": "CDU-Kandidat mit MILF-Kette polarisiert im Netz, hält aber an Stadtratsplänen fest.",
       "url": "https://www.bild.de/politik/inland/kette-mit-milf-anhaenger-auf-wahlplakat-sie-will-fuer-die-cdu-in-den-stadtrat-von-wildeshausen-6a885229c3692834ff6d8827",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +94,7 @@
       "title": "Lettland startet „Operation Werwolf“ - Neuer Migranten-Tunnel in die EU entdeckt",
       "excerpt": "Lettland entdeckt erneut einen geheimen Tunnel für illegale Einreisen aus Belarus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/lettland-zweiter-geheim-tunnel-an-grenze-zu-belarus-entdeckt-6a8820d5c3692834ff6d838b",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +102,7 @@
       "title": "Waffenlager in Berlin entdeckt - Dobrindt spricht von „Beteiligung fremder Mächte“",
       "excerpt": "Generalbundesanwalt ermittelt nach Fund von Waffenlager.",
       "url": "https://www.bild.de/politik/inland/waffenlager-in-berlin-entdeckt-dobrindt-spricht-wieder-von-beteiligung-fremder-maechte-6a883f2789ff002330aa255a",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +110,7 @@
       "title": "Waffenlager in Berlin entdeckt - Dobrindt spricht wieder von „Beteiligung fremder Mächte“",
       "excerpt": "Verfassungsschutz und Polizei entdecken ein Waffenversteck am Berliner Stadtrand. Zwei Handfeuerwaffen und Munition sollen laut Inne...",
       "url": "https://www.bild.de/politik/inland/waffenlager-in-berlin-entdeckt-dobrindt-spricht-wieder-von-beteiligung-fremder-maechte-6a885f8e1c4720d4165475f4",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +118,7 @@
       "title": "Vom Islamisten-Jäger bis zum Agenten - Bis zu 4849 Euro! Geheimdienst sucht Sie",
       "excerpt": "Geheimdienste suchen Personal von IT-Hacker bis Analytiker, oft auch ohne Studium.",
       "url": "https://www.bild.de/politik/inland/neues-bnd-gesetzt-diese-jobs-warten-bei-unseren-geheimdiensten-6a7c4f07169e8e32c0ae5498",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +126,7 @@
       "title": "Fünf Masten in fünf Jahren - Der 130-Millionen-Funkloch-Flop",
       "excerpt": "Trotz hoher Kosten sind nur fünf von 5000 geplanten Masten am Netz.",
       "url": "https://www.bild.de/politik/inland/funkloch-behoerde-baute-seit-2021-nur-fuenf-von-5000-handymasten-6a8833fc1c4720d4165470d2",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +134,7 @@
       "title": "Einfach ehrlich oder eine Kapitulation? - CDU-Politiker: Werden Stadtbild kaum noch ändern können",
       "excerpt": "Bei Markus Lanz streiten CDU-Mann Radtke und der Moderator über Migration und Abschiebung.",
       "url": "https://www.bild.de/politik/inland/dennis-radtke-bei-lanz-werden-stadtbild-kaum-noch-aendern-koennen-6a882ae11c4720d416546fec",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
@@ -134,16 +142,160 @@
       "title": "Russen-Geheimdienst unter Verdacht - Waffenversteck in Berliner Wald gefunden",
       "excerpt": "Geheimes Depot bei Berlin entdeckt: Behörden vermuten russischen Terrorplan.",
       "url": "https://www.bild.de/politik/inland/waffenlager-brandenburg-verdacht-auf-russische-attentatsplaene-6a88075ec3692834ff6d808b",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
+      "publishedAt": "2026-08-21T18:57:35.134Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "BILD exklusiv - Merz-Favoritin sagt für Spitzenposition ab",
-      "excerpt": "Der Kanzler wollte Ex-Fußballstar in ein Regierungsamt bringen.",
-      "url": "https://www.bild.de/politik/inland/bild-exklusiv-merz-favoritin-sagt-fuer-posten-als-staatsministerin-ab-6a87fe4889ff002330aa1f07",
-      "publishedAt": "2026-08-21T18:13:49.937Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Volkswagen - Konzernchef Blume vor Betriebsversammlungen: \"Lage ist mehr als kritisch\"",
+      "excerpt": "Volkswagen-Chef Blume hat die Lage bei Europas größtem Autobauer als mehr als kritisch bezeichnet. VW sei zwar handlungsfähig, sagte Blume in einem Interview, das im Intranet des Unternehmens veröffentlicht wurde und der",
+      "url": "https://www.deutschlandfunk.de/konzernchef-blume-vor-betriebsversammlungen-lage-ist-mehr-als-kritisch-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Energieversorgung - Bundesnetzagentur will Vorgaben zur Gaspeicher-Füllständen abschaffen",
+      "excerpt": "In der Diskussion über die Füllstände der Gasspeicher in Deutschland regt die Bundesnetzagentur an, die staatlichen Vorgaben abzuschaffen. Netzagentur-Chef Müller sagte der \"Zeit\", diese hätten sich zwar in der Krise bew",
+      "url": "https://www.deutschlandfunk.de/bundesnetzagentur-will-vorgaben-zur-gaspeicher-fuellstaenden-abschaffen-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Waffenfund bei Berlin - Dobrindt geht von geplantem Anschlag aus",
+      "excerpt": "Bundesinnenminister Dobrindt hat den Fund eines geheimen Waffendepots in der Nähe von Berlin bestätigt. In dem Versteck in einem Waldstück seien zwei Handfeuerwaffen und Munition hinterlegt worden, sagte Dobrindt in Berl",
+      "url": "https://www.deutschlandfunk.de/dobrindt-geht-von-geplantem-anschlag-aus-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Cyber-Attacke - Berliner Behörden nach Hackerangriff weiterhin vom Netz getrennt",
+      "excerpt": "In Berlin sind mehrere Behörden auch eine Woche nach einem Hackerangriff weiter nur eingeschränkt arbeitsfähig. Es sei unklar, wann die Senatsverwaltung für Wohnen sowie die Senatsverwaltung für Verkehr wieder voll funkt",
+      "url": "https://www.deutschlandfunk.de/berliner-behoerden-nach-hackerangriff-weiterhin-vom-netz-getrennt-102.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Gerichtsurteil - Deutsche Konzerne erhalten hunderte Millionen Euro durch zu viel gezahlte US-Zölle zurück",
+      "excerpt": "​Deutsche Firmen haben in den vergangenen ‌Wochen offenbar hunderte Millionen Euro wegen zu viel gezahlter US-Zölle erhalten. Das Magazin \"Wirtschaftswoche\" berichtet, dass nach der gerichtlich erzwungenen Rücknahme der ",
+      "url": "https://www.deutschlandfunk.de/deutsche-konzerne-erhalten-hunderte-millionen-euro-durch-zu-viel-gezahlte-us-zoelle-zurueck-104.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Luftverkehrssicherheit - Bundesverkehrsminister will Drohnenerkennung an Flughäfen schnell ausbauen",
+      "excerpt": "An Deutschlands Flughäfen sollen Drohnen künftig schneller und früher entdeckt werden.",
+      "url": "https://www.deutschlandfunk.de/bundesverkehrsminister-will-drohnenerkennung-an-flughaefen-schnell-ausbauen-104.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Waldbrände - Weitere Evakuierungen in Spanien und Griechenland",
+      "excerpt": "In Spanien sind in der Region Valencia wegen eines Waldbrandes Hunderte Menschen in Sicherheit gebracht worden.",
+      "url": "https://www.deutschlandfunk.de/weitere-evakuierungen-in-spanien-und-griechenland-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Datenschutz-Verstoß - Uber soll in den Niederlanden 825 Millionen Euro Buße zahlen",
+      "excerpt": "Die niederländische Datenschutzbehörde hat eine hohe Strafe gegen den Fahrdienstleister Uber verhängt.",
+      "url": "https://www.deutschlandfunk.de/uber-soll-in-den-niederlanden-825-millionen-euro-busse-zahlen-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Myanmar - Zahlreiche Tote bei Luftangriff auf buddhistisches Kloster",
+      "excerpt": "In Myanmar sind bei einem Luftangriff auf ein buddhistisches Kloster mindestens 14 Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/zahlreiche-tote-bei-luftangriff-auf-buddhistisches-kloster-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russischer Angriffskrieg - Tote und Verletzte bei Attacke auf ukrainische Stadt Krywyj Rih",
+      "excerpt": "Bei einem russischen Luftangriff auf die ukrainische Stadt Krywyj Rih sind nach jüngsten Angaben mindestens 14 Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-attacke-auf-ukrainische-stadt-krywyj-rih-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutschland - Vize-Direktor des Instituts für Zeitgeschichte, Brechtken: \"Viele Westdeutsche haben mittlerweile die Nase voll\"",
+      "excerpt": "Der stellvertretende Direktor des Instituts für Zeitgeschichte, Magnus Brechtken, sieht den Beginn einer neuen Ost-West-Debatte. Viele Westdeutsche hätten mittlerweile die Nase voll angesichts der ständigen Klagen aus de",
+      "url": "https://www.deutschlandfunk.de/vize-direktor-des-instituts-fuer-zeitgeschichte-brechtken-viele-westdeutsche-haben-mittlerweile-die--102.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Merkur-Gründer Gauselmann ist tot",
+      "excerpt": "Der Gründer von Deutschlands größtem Glücksspielkonzern Merkur, Paul Gauselmann, ist tot.",
+      "url": "https://www.deutschlandfunk.de/merkur-gruender-gauselmann-ist-tot-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Großbritannien - Prozess verloren - Millionenrechnung für Prinz Harry und Co.",
+      "excerpt": "Mehrere Promiente müssen in Großbritannien wegen eines verlorenen Zivilprozess gegen den Verlag der Boulevardzeitung \"Daily Mail\" eine Millionensumme zahlen.",
+      "url": "https://www.deutschlandfunk.de/prozess-verloren-millionenrechnung-fuer-prinz-harry-und-co-102.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Studie von Wirtschaftsexperten - Erwerbstätigenzahl im Osten wäre ohne Zuwanderung deutlich geringer",
+      "excerpt": "Ohne Zuwanderung aus dem Ausland würde sich laut einer Studie von Wirtschaftsexperten die demographische Krise in ostdeutschen Flächenländern deutlich zuspitzen.",
+      "url": "https://www.deutschlandfunk.de/erwerbstaetigenzahl-im-osten-waere-ohne-zuwanderung-deutlich-geringer-102.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schweden - Mehrere Verletzte bei Angriff mit Schwert in Schule",
+      "excerpt": "Bei einem Angriff in einer Schule in Schweden sind mehrere Menschen verletzt worden.",
+      "url": "https://www.deutschlandfunk.de/mehrere-verletzte-bei-angriff-mit-schwert-in-schule-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Illegale Zuwanderung - Weiterer Tunnel unter Grenzzaun zwischen Lettland und Belarus entdeckt",
+      "excerpt": "In Lettland haben die Behörden einen weiteren Tunnel unter dem Grenzzaun zu Belarus entdeckt, durch den Migranten illegal aus dem Nachbarland in das EU-Land gelangen konnten.",
+      "url": "https://www.deutschlandfunk.de/weiterer-tunnel-unter-grenzzaun-zwischen-lettland-und-belarus-entdeckt-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Virus-Krankheit - Mehr als 2.500 Todesfälle bei Ebola-Epidemie in DR Kongo",
+      "excerpt": "Bei der aktuellen Ebola-Epidemie in der Demokratischen Republik Kongo sind nach Angaben der UNO bereits mehr als 2.500 Menschen ums Leben gekommen.",
+      "url": "https://www.deutschlandfunk.de/mehr-als-2-500-todesfaelle-bei-ebola-epidemie-in-dr-kongo-102.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gedenken an 1989 - Tiananmen-Mahnwachen: Zwei Organisatoren in Hongkong schuldig gesprochen",
+      "excerpt": "In Hongkong sind zwei Organisatoren von Mahnwachen zum Gedenken an die Niederschlagung der Proteste auf dem Pekinger Tiananmen-Platz 1989 schuldig gesprochen worden.",
+      "url": "https://www.deutschlandfunk.de/tiananmen-mahnwachen-zwei-organisatoren-in-hongkong-schuldig-gesprochen-100.html",
+      "publishedAt": "2026-08-21T18:50:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Verletzte bei Schwert-Angriff an schwedischer Schule",
+      "excerpt": "In Schweden hat ein Mann mit einem Schwert mehrere Menschen in einer Schule angegriffen. Es gibt mehrere Verletzte in der Stadt Fagersta in der Provinz Västmanland. Der mutmaßliche Täter ist in Gewahrsam.",
+      "url": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "publishedAt": "2026-08-21T18:17:45.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -202,150 +354,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Volkswagen - Konzernchef Blume vor Betriebsversammlungen: \"Lage ist mehr als kritisch\"",
-      "excerpt": "Volkswagen-Chef Blume hat die Lage bei Europas größtem Autobauer als mehr als kritisch bezeichnet. VW sei zwar handlungsfähig, sagte Blume in einem Interview, das im Intranet des Unternehmens veröffentlicht wurde und der",
-      "url": "https://www.deutschlandfunk.de/konzernchef-blume-vor-betriebsversammlungen-lage-ist-mehr-als-kritisch-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Energieversorgung - Bundesnetzagentur will Vorgaben zur Gaspeicher-Füllständen abschaffen",
-      "excerpt": "In der Diskussion über die Füllstände der Gasspeicher in Deutschland regt die Bundesnetzagentur an, die staatlichen Vorgaben abzuschaffen. Netzagentur-Chef Müller sagte der \"Zeit\", diese hätten sich zwar in der Krise bew",
-      "url": "https://www.deutschlandfunk.de/bundesnetzagentur-will-vorgaben-zur-gaspeicher-fuellstaenden-abschaffen-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Waffenfund bei Berlin - Dobrindt geht von geplantem Anschlag aus",
-      "excerpt": "Bundesinnenminister Dobrindt hat den Fund eines geheimen Waffendepots in der Nähe von Berlin bestätigt. In dem Versteck in einem Waldstück seien zwei Handfeuerwaffen und Munition hinterlegt worden, sagte Dobrindt in Berl",
-      "url": "https://www.deutschlandfunk.de/dobrindt-geht-von-geplantem-anschlag-aus-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Cyber-Attacke - Berliner Behörden nach Hackerangriff weiterhin vom Netz getrennt",
-      "excerpt": "In Berlin sind mehrere Behörden auch eine Woche nach einem Hackerangriff weiter nur eingeschränkt arbeitsfähig. Es sei unklar, wann die Senatsverwaltung für Wohnen sowie die Senatsverwaltung für Verkehr wieder voll funkt",
-      "url": "https://www.deutschlandfunk.de/berliner-behoerden-nach-hackerangriff-weiterhin-vom-netz-getrennt-102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Gerichtsurteil - Deutsche Konzerne erhalten hunderte Millionen Euro durch zu viel gezahlte US-Zölle zurück",
-      "excerpt": "​Deutsche Firmen haben in den vergangenen ‌Wochen offenbar hunderte Millionen Euro wegen zu viel gezahlter US-Zölle erhalten. Das Magazin \"Wirtschaftswoche\" berichtet, dass nach der gerichtlich erzwungenen Rücknahme der ",
-      "url": "https://www.deutschlandfunk.de/deutsche-konzerne-erhalten-hunderte-millionen-euro-durch-zu-viel-gezahlte-us-zoelle-zurueck-104.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Luftverkehrssicherheit - Bundesverkehrsminister will Drohnenerkennung an Flughäfen schnell ausbauen",
-      "excerpt": "An Deutschlands Flughäfen sollen Drohnen künftig schneller und früher entdeckt werden.",
-      "url": "https://www.deutschlandfunk.de/bundesverkehrsminister-will-drohnenerkennung-an-flughaefen-schnell-ausbauen-104.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Datenschutz-Verstoß - Uber soll in den Niederlanden 825 Millionen Euro Buße zahlen",
-      "excerpt": "Die niederländische Datenschutzbehörde hat eine hohe Strafe gegen den Fahrdienstleister Uber verhängt.",
-      "url": "https://www.deutschlandfunk.de/uber-soll-in-den-niederlanden-825-millionen-euro-busse-zahlen-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Myanmar - Zahlreiche Tote bei Luftangriff auf buddhistisches Kloster",
-      "excerpt": "In Myanmar sind bei einem Luftangriff auf ein buddhistisches Kloster mindestens 14 Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/zahlreiche-tote-bei-luftangriff-auf-buddhistisches-kloster-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russischer Angriffskrieg - Tote und Verletzte bei Attacke auf ukrainische Stadt Krywyj Rih",
-      "excerpt": "Bei einem russischen Luftangriff auf die ukrainische Stadt Krywyj Rih sind nach jüngsten Angaben mindestens 14 Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-attacke-auf-ukrainische-stadt-krywyj-rih-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutschland - Vize-Direktor des Instituts für Zeitgeschichte, Brechtken: \"Viele Westdeutsche haben mittlerweile die Nase voll\"",
-      "excerpt": "Der stellvertretende Direktor des Instituts für Zeitgeschichte, Magnus Brechtken, sieht den Beginn einer neuen Ost-West-Debatte. Viele Westdeutsche hätten mittlerweile die Nase voll angesichts der ständigen Klagen aus de",
-      "url": "https://www.deutschlandfunk.de/vize-direktor-des-instituts-fuer-zeitgeschichte-brechtken-viele-westdeutsche-haben-mittlerweile-die--102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Großbritannien - Prozess verloren - Millionenrechnung für Prinz Harry und Co.",
-      "excerpt": "Mehrere Promiente müssen in Großbritannien wegen eines verlorenen Zivilprozess gegen den Verlag der Boulevardzeitung \"Daily Mail\" eine Millionensumme zahlen.",
-      "url": "https://www.deutschlandfunk.de/prozess-verloren-millionenrechnung-fuer-prinz-harry-und-co-102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Studie von Wirtschaftsexperten - Erwerbstätigenzahl im Osten wäre ohne Zuwanderung deutlich geringer",
-      "excerpt": "Ohne Zuwanderung aus dem Ausland würde sich laut einer Studie von Wirtschaftsexperten die demographische Krise in ostdeutschen Flächenländern deutlich zuspitzen.",
-      "url": "https://www.deutschlandfunk.de/erwerbstaetigenzahl-im-osten-waere-ohne-zuwanderung-deutlich-geringer-102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schweden - Mehrere Verletzte bei Angriff mit Schwert in Schule",
-      "excerpt": "Bei einem Angriff in einer Schule in Schweden sind mehrere Personen verletzt worden.",
-      "url": "https://www.deutschlandfunk.de/mehrere-verletzte-bei-angriff-mit-schwert-in-schule-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Illegale Zuwanderung - Weiterer Tunnel unter Grenzzaun zwischen Lettland und Belarus entdeckt",
-      "excerpt": "In Lettland haben die Behörden einen weiteren Tunnel unter dem Grenzzaun zu Belarus entdeckt, durch den Migranten illegal aus dem Nachbarland in das EU-Land gelangen konnten.",
-      "url": "https://www.deutschlandfunk.de/weiterer-tunnel-unter-grenzzaun-zwischen-lettland-und-belarus-entdeckt-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Virus-Krankheit - Mehr als 2.500 Todesfälle bei Ebola-Epidemie in DR Kongo",
-      "excerpt": "Bei der aktuellen Ebola-Epidemie in der Demokratischen Republik Kongo sind nach Angaben der UNO bereits mehr als 2.500 Menschen ums Leben gekommen.",
-      "url": "https://www.deutschlandfunk.de/mehr-als-2-500-todesfaelle-bei-ebola-epidemie-in-dr-kongo-102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gedenken an 1989 - Tiananmen-Mahnwachen: Zwei Organisatoren in Hongkong schuldig gesprochen",
-      "excerpt": "In Hongkong sind zwei Organisatoren von Mahnwachen zum Gedenken an die Niederschlagung der Proteste auf dem Pekinger Tiananmen-Platz 1989 schuldig gesprochen worden.",
-      "url": "https://www.deutschlandfunk.de/tiananmen-mahnwachen-zwei-organisatoren-in-hongkong-schuldig-gesprochen-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Südkorea - Hyundai-Beschäftigte streiken für Anhebung des Rentenalters",
-      "excerpt": "Beim südkoreanischen Autobauer Hyundai haben Beschäftigte erstmals seit mehr als zehn Jahren einen ganzen Tag die Arbeit niedergelegt.",
-      "url": "https://www.deutschlandfunk.de/hyundai-beschaeftigte-streiken-fuer-anhebung-des-rentenalters-102.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "NATO - Staats- und Regierungschefs der Ukraine-Koalition beraten am Montag",
-      "excerpt": "Bundeskanzler Merz und weitere Staats- und Regierungschefs wollen am Montag über die weitere Unterstützung der Ukraine beraten.",
-      "url": "https://www.deutschlandfunk.de/staats-und-regierungschefs-der-ukraine-koalition-beraten-am-montag-100.html",
-      "publishedAt": "2026-08-21T17:51:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Heizungsgesetz: Gutachter halten Gebäudemodernisierungsgesetz weiter für potenziell verfassungswidrig",
       "excerpt": "Scheitert das neue Heizungsgesetz der Bundesregierung in Karlsruhe? Juristen des Bundestags sehen diese Gefahr weiterhin, trotz aller Nachbesserungen.",
@@ -368,14 +376,6 @@
       "url": "https://taz.de/Plakataktion-in-MV/!6202513/",
       "publishedAt": "2026-08-21T16:17:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mehrere Verletzte bei Angriff an schwedischer Schule",
-      "excerpt": "Ein Mann hat am Nachmittag an einer schwedischen Schule Menschen mit einer Waffe angegriffen. Es gibt mehrere Verletzte in der Stadt Fagersta in der Provinz Västmanland. Der mutmaßliche Täter soll sich in Gewahrsam befin",
-      "url": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
-      "publishedAt": "2026-08-21T16:12:38.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
