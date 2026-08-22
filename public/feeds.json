@@ -1,92 +1,12 @@
 {
-  "updatedAt": "2026-08-22T14:00:05.050Z",
+  "updatedAt": "2026-08-22T14:38:25.402Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
-      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
-      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue ADAC-Studie - 16 Billig-Neuwagen und keiner kommt aus Deutschland!",
-      "excerpt": "Unter 20.000 Euro gibt es noch Neuwagen, aber kein Modell eines deutschen Herstellers.",
-      "url": "https://www.bild.de/politik/inland/neuwagen-unter-20-000-euro-kein-deutsches-modell-dabei-6a845559d537b08639dcc057",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Droht Spritpreiszoff mit dem Kanzler? - Klingbeil will Ölkonzerne zur Kasse bitten",
-      "excerpt": "Klingbeil fordert eine EU-Steuer auf Krisenprofite der Ölkonzerne – CDU blockt ab.",
-      "url": "https://www.bild.de/politik/inland/droht-spritpreiszoff-mit-dem-kanzler-klingbeil-will-oelkonzerne-zur-kasse-bitten-6a898095c3692834ff6d940f",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Waffen oder Wirtschaft? - Drei Wege, wie Trump den Iran besiegen kann",
-      "excerpt": "Trumps neue Taktik schwächt Irans Öl-Exporte und erhöht den Druck auf das Regime.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/mullahs-unter-druck-drei-wege-wie-trump-den-iran-doch-noch-besiegt-6a87545ac3692834ff6d7b40",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Präsident setzt auf Billig-Hack - Trump hat Beef mit seinen Bauern",
-      "excerpt": "Trumps geplante Billig-Importe von Rindfleisch bringen ihn bei eigenen Verbündeten in Not.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/praesident-setzt-auf-import-hack-trump-hat-beef-mit-seinen-bauern-6a894104511d4fd3bc4e00fa",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wadephul in der Ukraine - Per Schlafwagen ins Kriegsgebiet",
-      "excerpt": "Überraschungsbesuch von Außenminister Johann Wadephul in der Ukraine! Der CDU-Politiker kam am Samstagmorgen mit dem Zug in Kiew an.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wadephul-in-der-ukraine-per-schlafwagen-ins-kriegsgebiet-6a8944071c4720d416547ed8",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geheime Bundeswehr-Pläne - Diese Waffen sollen uns vor Putin schützen",
-      "excerpt": "Deutschland plant neue Langstreckenwaffen, um Russland abzuschrecken.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bundeswehr-langstreckenwaffen-fuer-fast-12-milliarden-euro-geplant-6a8879da89ff002330aa29fa",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wadephul-Ansage in Kiew - Die Ukraine wird gewinnen!",
-      "excerpt": "Außenminister macht Putin eine Ansage und spricht über Russlands Schwäche.",
-      "url": "https://www.bild.de/politik/inland/zwei-tage-nach-russen-angriff-wadephul-ueberraschend-in-kiew-6a88c16d1c4720d416547bb5",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mitglieder-Schwund - CDU und SPD sterben langsam aus",
-      "excerpt": "Mitgliederzahlen brechen bei CDU und SPD ein, während AfD, Linke und Grüne wachsen.",
-      "url": "https://www.bild.de/politik/inland/massiver-mitglieder-schwund-cdu-und-spd-sterben-langsam-aus-6a8837d6b24f9237ede785a1",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Machtkampf um UN-Chefposten - Hat Trump Baerbock auf dem Kieker?",
-      "excerpt": "Baerbock gerät im UN-Machtkampf mit USA und Russland um den Generalsekretär unter Druck.",
-      "url": "https://www.bild.de/politik/inland/annalena-baerbock-machtkampf-um-den-un-chefposten-6a87ed5d7b97809e93f3f963",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "US-Regierung teilt mit - Keine Einigung im Zollstreit zwischen USA und Kanada",
       "excerpt": "Im Zollstreit zwischen den USA und Kanada haben beide Seiten keine Einigung finden können.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/usa-keine-einigung-im-zollstreit-mit-kanada-6a891bb21c4720d416547d11",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
+      "publishedAt": "2026-08-22T14:38:24.717Z",
       "category": "POLITIK"
     },
     {
@@ -94,31 +14,31 @@
       "title": "Russislands Agenten-Netz - Putins langer Arm in Deutschland",
       "excerpt": "Behörden finden Waffenlager nahe Berlin und warnen vor russischen Agentennetzen.",
       "url": "https://www.bild.de/politik/inland/waffenlager-sprengdrohne-sabotage-russische-geheimagenten-in-deutschland-6a884f31b24f9237ede787e5",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
+      "publishedAt": "2026-08-22T14:38:24.717Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "In der Partei kursieren drei Szenarien - Überlebt die SPD-Spitze diesen Herbst?",
-      "excerpt": "SPD bangt vor Sachsen-Anhalt-Wahl, intern wächst der Druck auf Bas und Klingbeil.",
-      "url": "https://www.bild.de/politik/inland/spd-vor-dem-machtkampf-wer-bas-und-klingbeil-beerben-koennte-6a8590b5e532e82cc4f2a659",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
+      "title": "Buh-Rufe bei Merz-Auftritt - „Lasse mich von denen, die rumschreien, nicht beeindrucken!“",
+      "excerpt": "Im Waldbrandgebiet verteidigt Friedrich Merz seinen späten Besuch und dankt Einsatzkräften und Ehrenamtlichen.",
+      "url": "https://www.bild.de/politik/inland/buh-rufe-bei-merz-auftritt-lasse-mich-von-denen-die-rumschreien-nicht-beeindrucken-6a89af25511d4fd3bc4e059f",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wagenknecht über Siegmund - „Neuer Hitler ist er nicht“",
-      "excerpt": "Vor der Wahl in Sachsen-Anhalt spricht Sahra Wagenknecht über AfD-Mann Ulrich Siegmund.",
-      "url": "https://www.bild.de/politik/inland/wagenknecht-ueber-siegmund-neuer-hitler-ist-er-nicht-6a88df671c4720d416547c30",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
+      "title": "Bei Kanzler-Besuch - Waldbrand-Landrat hält Anpack-Rede",
+      "excerpt": "Im Waldbrandgebiet erklärt Landrat Ralf Nolten, weshalb ein früherer Besuch des Kanzlers problematisch gewesen wäre.",
+      "url": "https://www.bild.de/politik/inland/bei-kanzler-besuch-waldbrand-landrat-haelt-anpack-rede-6a89acf1c3692834ff6d9618",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-22T14:00:03.843Z",
+      "title": "Schul-Minister schlägt Alarm - Bekommen Schüler bald ein AfD-Problem?",
+      "excerpt": "CDU-Minister warnt: AfD-Schulpläne könnten Abschlüsse in anderen Ländern gefährden.",
+      "url": "https://www.bild.de/politik/inland/schul-minister-schlaegt-alarm-bekommen-schueler-bald-ein-afd-problem-6a89547e511d4fd3bc4e01e8",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +46,7 @@
       "title": "Raketen-Alarm, Gedenken! - Und dann spricht Wadephul vom Ukraine-Sieg",
       "excerpt": "Außenminister Wadephul verspricht in Kiew weitere deutsche Hilfe und Patriot-Schutz.",
       "url": "https://www.bild.de/politik/inland/bild-beim-wadephul-besuch-und-ploetzlich-schrillt-in-kiew-der-raketen-alarm-6a897d07511d4fd3bc4e0351",
-      "publishedAt": "2026-08-22T14:00:03.842Z",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +54,7 @@
       "title": "Alle Fragen zu den Kanzler-Ferien - Was hat Merz in drei Wochen Urlaub gemacht?",
       "excerpt": "Bundeskanzler Friedrich Merz ist wieder zurück aus dem Sommerurlaub.",
       "url": "https://www.bild.de/politik/inland/das-hat-bundeskanzler-merz-in-drei-wochen-sommerurlaub-gemacht-6a89554b1c4720d416547fb4",
-      "publishedAt": "2026-08-22T14:00:03.842Z",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
     },
     {
@@ -142,8 +62,256 @@
       "title": "Neues Renten-Geschenk für Kinder - Wer sich jetzt 53.000 Euro sichern kann",
       "excerpt": "Staat zahlt Kindern ab Jahrgang 2020 monatlich fürs Alter, Eltern können aufstocken.",
       "url": "https://www.bild.de/politik/inland/staat-zahlt-kindern-beitrag-fuer-die-rente-wer-sich-jetzt-53-000-euro-sichern-kann-6a60d63d51897532dc73a40a",
-      "publishedAt": "2026-08-22T14:00:03.842Z",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mehr als 7000 Euro im Monat - Wie wär’s mit einem ganz neuen Job?",
+      "excerpt": "Fachkräftemangel eröffnet Quereinsteigern neue Karrierechancen mit Top-Gehältern.",
+      "url": "https://www.bild.de/politik/inland/quereinsteiger-mehr-als-7000-euro-in-diesen-zukunftsjobs-6a85663fd537b08639dccbab",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue ADAC-Studie - 16 Billig-Neuwagen und keiner kommt aus Deutschland!",
+      "excerpt": "Unter 20.000 Euro gibt es noch Neuwagen, aber kein Modell eines deutschen Herstellers.",
+      "url": "https://www.bild.de/politik/inland/neuwagen-unter-20-000-euro-kein-deutsches-modell-dabei-6a845559d537b08639dcc057",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Droht Spritpreiszoff mit dem Kanzler? - Klingbeil will Ölkonzerne zur Kasse bitten",
+      "excerpt": "Klingbeil fordert eine EU-Steuer auf Krisenprofite der Ölkonzerne – CDU blockt ab.",
+      "url": "https://www.bild.de/politik/inland/droht-spritpreiszoff-mit-dem-kanzler-klingbeil-will-oelkonzerne-zur-kasse-bitten-6a898095c3692834ff6d940f",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Waffen oder Wirtschaft? - Drei Wege, wie Trump den Iran besiegen kann",
+      "excerpt": "Trumps neue Taktik schwächt Irans Öl-Exporte und erhöht den Druck auf das Regime.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/mullahs-unter-druck-drei-wege-wie-trump-den-iran-doch-noch-besiegt-6a87545ac3692834ff6d7b40",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident setzt auf Billig-Hack - Trump hat Beef mit seinen Bauern",
+      "excerpt": "Trumps geplante Billig-Importe von Rindfleisch bringen ihn bei eigenen Verbündeten in Not.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/praesident-setzt-auf-import-hack-trump-hat-beef-mit-seinen-bauern-6a894104511d4fd3bc4e00fa",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wadephul in der Ukraine - Per Schlafwagen ins Kriegsgebiet",
+      "excerpt": "Überraschungsbesuch von Außenminister Johann Wadephul in der Ukraine! Der CDU-Politiker kam am Samstagmorgen mit dem Zug in Kiew an.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wadephul-in-der-ukraine-per-schlafwagen-ins-kriegsgebiet-6a8944071c4720d416547ed8",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geheime Bundeswehr-Pläne - Diese Waffen sollen uns vor Putin schützen",
+      "excerpt": "Deutschland plant neue Langstreckenwaffen, um Russland abzuschrecken.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bundeswehr-langstreckenwaffen-fuer-fast-12-milliarden-euro-geplant-6a8879da89ff002330aa29fa",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wadephul-Ansage in Kiew - Die Ukraine wird gewinnen!",
+      "excerpt": "Außenminister macht Putin eine Ansage und spricht über Russlands Schwäche.",
+      "url": "https://www.bild.de/politik/inland/zwei-tage-nach-russen-angriff-wadephul-ueberraschend-in-kiew-6a88c16d1c4720d416547bb5",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mitglieder-Schwund - CDU und SPD sterben langsam aus",
+      "excerpt": "Mitgliederzahlen brechen bei CDU und SPD ein, während AfD, Linke und Grüne wachsen.",
+      "url": "https://www.bild.de/politik/inland/massiver-mitglieder-schwund-cdu-und-spd-sterben-langsam-aus-6a8837d6b24f9237ede785a1",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Machtkampf um UN-Chefposten - Hat Trump Baerbock auf dem Kieker?",
+      "excerpt": "Baerbock gerät im UN-Machtkampf mit USA und Russland um den Generalsekretär unter Druck.",
+      "url": "https://www.bild.de/politik/inland/annalena-baerbock-machtkampf-um-den-un-chefposten-6a87ed5d7b97809e93f3f963",
+      "publishedAt": "2026-08-22T14:38:24.716Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ostbeauftragte Kaiser im Gespräch: „Wir bekommen derzeit enormen Gegenwind“",
+      "excerpt": "Elisabeth Kaiser wurde in der Platte in Gera groß, heute ist sie Ostbeauftragte der Bundesregierung. Ein Gespräch vor den Wahlen im Osten. mehr...",
+      "url": "https://taz.de/Ostbeauftragte-Kaiser-im-Gespraech/!6202679/",
+      "publishedAt": "2026-08-22T14:28:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Schwert-Angriff in Schweden: 17-Jährige stirbt bei Schul-Attacke",
+      "excerpt": "Ein 18-Jähriger tötet ein Mädchen und verletzt drei Jungen schwer. Es gibt Hinweise auf eine Radikalisierung des Täters in sozialen Medien. mehr...",
+      "url": "https://taz.de/Schwert-Angriff-in-Schweden/!6206222/",
+      "publishedAt": "2026-08-22T14:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Pierre Dyckmans, WDR, über den Besuch von Bundeskanzler Merz in der Eifel",
+      "excerpt": "Pierre Dyckmans, WDR, über den Besuch von Bundeskanzler Merz in der Eifel",
+      "url": "https://www.tagesschau.de/video/video-1635594.html",
+      "publishedAt": "2026-08-22T14:24:29.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Wadephul zu politischen Gesprächen in Kiew - Russland beschießt Vorort",
+      "excerpt": "Während des Aufenthalts von Bundesaußenminister Wadephul in der ukrainischen Hauptstadt Kiew hat Russland seine Angriffe fortgesetzt. Der Vorort Boryspil wurde mit ballistischen Raketen beschossen. Mindestens zwei Mensch",
+      "url": "https://www.deutschlandfunk.de/wadephul-zu-politischen-gespraechen-in-kiew-russland-beschiesst-vorort-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Frankreichs Präsident Macron kündigt Lieferung weiterer Abwehrsysteme an",
+      "excerpt": "Der französische Präsident Macron hat mit Bestürzung auf die jüngsten russischen Luftangriffe auf die Ukraine reagiert.",
+      "url": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-kuendigt-lieferung-weiterer-abwehrsysteme-an-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Brief an die EU-Ratspräsidentschaft - Klingbeil und weitere Finanzminister machen Vorstoß für Übergewinnsteuer bei Ölkonzernen",
+      "excerpt": "Bundesfinanzminister Klingbeil und fünf weitere EU-Ressortkollegen haben für eine stärkere Besteuerung von Mineralölfirmen geworben. In einem gemeinsamen Brief an die irische EU-Ratspräsidentschaft plädieren Portugal, Sp",
+      "url": "https://www.deutschlandfunk.de/klingbeil-und-weitere-finanzminister-machen-vorstoss-fuer-uebergewinnsteuer-bei-oelkonzernen-102.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Parteitag - Vor Misstrauensvotum: Voigt als CDU-Landeschef in Thüringen wiedergewählt",
+      "excerpt": "Thüringens Ministerpräsident Voigt steht weiterhin an der Spitze der CDU in dem ostdeutschen Bundesland.",
+      "url": "https://www.deutschlandfunk.de/vor-misstrauensvotum-voigt-als-cdu-landeschef-in-thueringen-wiedergewaehlt-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Demonstrationen - Zehntausende feiern CSD in Bremen und Magdeburg",
+      "excerpt": "In Bremen haben rund 33.000 Teilnehmer den Christopher Street Day gefeiert.",
+      "url": "https://www.deutschlandfunk.de/zehntausende-feiern-csd-in-bremen-und-magdeburg-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Klimawandel - Hitzeschutz: Städtetag-Präsident fordert Umdenken bei der Verkehrsplanung",
+      "excerpt": "In der Debatte über einen besseren Hitzeschutz mahnt der Präsident des Deutschen Städtetages, Jung, ein Umdenken in der Verkehrsplanung an.",
+      "url": "https://www.deutschlandfunk.de/hitzeschutz-staedtetag-praesident-fordert-umdenken-bei-der-verkehrsplanung-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wetter - Regenfälle lassen Flusspegel langsam wieder steigen - aber noch lange kein Normalzustand",
+      "excerpt": "Die zum Teil kräftigen Regenfälle der vergangenen Tage haben die Pegelstände des Rheins und anderer Flüsse wieder leicht steigen lassen.",
+      "url": "https://www.deutschlandfunk.de/regenfaelle-lassen-flusspegel-langsam-wieder-steigen-aber-noch-lange-kein-normalzustand-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Handelskonflikt - Neue US-Strafzölle gegen Kanada in Kraft getreten",
+      "excerpt": "Die USA haben Strafzölle in Höhe von 50 Prozent auf bestimmte Importe aus Kanada verhängt.",
+      "url": "https://www.deutschlandfunk.de/neue-us-strafzoelle-gegen-kanada-in-kraft-getreten-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fingierte Straftaten - Karlsruher Staatsanwaltschaft ermittelt zu Prank-Videos",
+      "excerpt": "In der Region Karlsruhe ermittelt die Staatsanwaltschaft gegen Personen, die sogenannte Prank-Videos ins Netz stellen.",
+      "url": "https://www.deutschlandfunk.de/karlsruher-staatsanwaltschaft-ermittelt-zu-prank-videos-102.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Energiemarkt - CSU-Wirtschaftspolitiker Lenz spricht sich gegen staatliche Eingriffe aus",
+      "excerpt": "Der wirtschafts- und energiepolitische Sprecher der Unionsfraktion, Lenz, lehnt trotz der hohen Energiepreise einen Eingriff des Staates in den Energiemarkt ab.",
+      "url": "https://www.deutschlandfunk.de/csu-wirtschaftspolitiker-lenz-spricht-sich-gegen-staatliche-eingriffe-aus-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Höchstes Staatsamt - SPD besteht bei Nachfolge von Bundespräsident Steinmeier auf Nominierung einer Frau",
+      "excerpt": "Die SPD besteht darauf, dass die Koalition eine Frau als Kandidatin für die Nachfolge von Bundespräsident Steinmeier nominiert.",
+      "url": "https://www.deutschlandfunk.de/spd-besteht-bei-nachfolge-von-bundespraesident-steinmeier-auf-nominierung-einer-frau-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Einwanderung - US-Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern",
+      "excerpt": "In den USA hat eine Bundesrichterin den von der Regierung verhängten Visa-Stopp für Staatsangehörige aus 75 Ländern gekippt. Die Richterin im New Yorker Stadtteil Manhattan entschied, die im Januar eingeführte Regelung s",
+      "url": "https://www.deutschlandfunk.de/us-bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - Mannheim und Kaiserslautern drohen nach Ausschreitungen im DFB-Pokal Konsequenzen",
+      "excerpt": "Nach den Ausschreitungen beim DFB-Pokalspiel zwischen dem SV Waldhof Mannheim und dem 1. FC Kaiserslautern mit zahlreichen Verletzten müssen beide Vereine mit Konsequenzen rechnen.",
+      "url": "https://www.deutschlandfunk.de/mannheim-und-kaiserslautern-drohen-nach-ausschreitungen-im-dfb-pokal-konsequenzen-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "DFB-Pokal - Energie Cottbus scheidet mit 0:2 gegen FC Augsburg aus",
+      "excerpt": "Beim DFB-Pokal ist Energie Cottbus in der ersten Runde gegen den FC Augsburg ausgeschieden. 0:2 stand es am Ende in der Lausitz.",
+      "url": "https://www.deutschlandfunk.de/energie-cottbus-scheidet-mit-0-2-gegen-fc-augsburg-aus-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nordspanien - Mindestens sieben Verletzte bei schweren Unwettern",
+      "excerpt": "Im Nordosten Spaniens sind bei schweren Unwettern mindestens sieben Menschen verletzt worden.",
+      "url": "https://www.deutschlandfunk.de/mindestens-sieben-verletzte-bei-schweren-unwettern-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medien - Pentagon entlässt Leitung der US-Militärzeitung \"Stars and Stripes\" - Chefredakteur pocht auf redaktionelle Unabhängigkeit",
+      "excerpt": "Das US-Verteidigungsministerium hat die Leitung der Militärzeitung \"Stars and Stripes\" entlassen. Auf der Internetseite der Zeitung heißt es, das Pentagon habe sich von Chefredakteur Slavin, Herausgeber Lederer und der N",
+      "url": "https://www.deutschlandfunk.de/pentagon-entlaesst-leitung-der-us-militaerzeitung-stars-and-stripes-chefredakteur-pocht-auf-redaktio-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Epidemie - Erste 16.000 Ebola-Impfdosen von der WHO im Kongo eingetroffen",
+      "excerpt": "Im Kampf gegen die Ebola-Epidemie hat die Weltgesundheitsorganisation der Demokratischen Republik Kongo erste 16.000 Dosen des Impfstoffs Ervebo geliefert.",
+      "url": "https://www.deutschlandfunk.de/erste-16-000-ebola-impfdosen-von-der-who-im-kongo-eingetroffen-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Accounts für 13-Jährige ohne Eltern-Zustimmung - Tiktok zahlt wegen Datenschutz-Verstößen 400 Millionen Dollar",
+      "excerpt": "In den USA haben sich die Kurzvideo-Plattform Tiktok und ihr chinesischer Betreiber Bytedance mit dem Justizministerium in einem Verfahren wegen des Vorwurfs von Datenschutz-Verstößen auf einen Vergleich geeinigt. Wie da",
+      "url": "https://www.deutschlandfunk.de/tiktok-zahlt-wegen-datenschutz-verstoessen-400-millionen-dollar-100.html",
+      "publishedAt": "2026-08-22T14:21:26.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -160,150 +328,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss",
       "publishedAt": "2026-08-22T13:55:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Brief an die EU-Ratspräsidentschaft - Klingbeil und weitere Finanzminister machen Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-      "excerpt": "Bundesfinanzminister Klingbeil und fünf weitere EU-Ressortkollegen haben für eine stärkere Besteuerung von Mineralölfirmen geworben. In einem gemeinsamen Brief an die irische EU-Ratspräsidentschaft plädieren Portugal, Sp",
-      "url": "https://www.deutschlandfunk.de/klingbeil-und-weitere-finanzminister-machen-vorstoss-fuer-uebergewinnsteuer-bei-oelkonzernen-102.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Parteitag - Vor Misstrauensvotum: Voigt als CDU-Landeschef in Thüringen wiedergewählt",
-      "excerpt": "Thüringens Ministerpräsident Voigt steht weiterhin an der Spitze der CDU in dem ostdeutschen Bundesland.",
-      "url": "https://www.deutschlandfunk.de/vor-misstrauensvotum-voigt-als-cdu-landeschef-in-thueringen-wiedergewaehlt-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Demonstrationen - Zehntausende feiern CSD in Bremen und Magdeburg",
-      "excerpt": "In Bremen haben rund 33.000 Teilnehmer den Christopher Street Day gefeiert.",
-      "url": "https://www.deutschlandfunk.de/zehntausende-feiern-csd-in-bremen-und-magdeburg-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Wadephul zu politischen Gesprächen in Kiew - Russland beschießt Vorort",
-      "excerpt": "Während des Aufenthalts von Bundesaußenminister Wadephul in der ukrainischen Hauptstadt Kiew hat Russland seine Angriffe fortgesetzt. Der Vorort Boryspil wurde mit ballistischen Raketen beschossen.",
-      "url": "https://www.deutschlandfunk.de/wadephul-zu-politischen-gespraechen-in-kiew-russland-beschiesst-vorort-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Nach russischen Luftangriffen: Frankreichs Präsident Macron kündigt Lieferung weiterer Abwehrsysteme an",
-      "excerpt": "Der französische Präsident Macron hat mit Bestürzung auf die jüngsten russischen Luftangriffe auf die Ukraine reagiert.",
-      "url": "https://www.deutschlandfunk.de/nach-russischen-luftangriffen-frankreichs-praesident-macron-kuendigt-lieferung-weiterer-abwehrsystem-102.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Klimawandel - Hitzeschutz: Städtetag-Präsident fordert Umdenken bei der Verkehrsplanung",
-      "excerpt": "In der Debatte über einen besseren Hitzeschutz mahnt der Präsident des Deutschen Städtetages, Jung, ein Umdenken in der Verkehrsplanung an.",
-      "url": "https://www.deutschlandfunk.de/hitzeschutz-staedtetag-praesident-fordert-umdenken-bei-der-verkehrsplanung-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wetter - Regenfälle lassen Flusspegel langsam wieder steigen - aber noch lange kein Normalzustand",
-      "excerpt": "Die zum Teil kräftigen Regenfälle der vergangenen Tage haben die Pegelstände des Rheins und anderer Flüsse wieder leicht steigen lassen.",
-      "url": "https://www.deutschlandfunk.de/regenfaelle-lassen-flusspegel-langsam-wieder-steigen-aber-noch-lange-kein-normalzustand-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Handelskonflikt - Neue US-Strafzölle gegen Kanada in Kraft getreten",
-      "excerpt": "Die USA haben Strafzölle in Höhe von 50 Prozent auf bestimmte Importe aus Kanada verhängt.",
-      "url": "https://www.deutschlandfunk.de/neue-us-strafzoelle-gegen-kanada-in-kraft-getreten-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fingierte Straftaten - Karlsruher Staatsanwaltschaft ermittelt zu Prank-Videos",
-      "excerpt": "In der Region Karlsruhe ermittelt die Staatsanwaltschaft gegen Personen, die sogenannte Prank-Videos ins Netz stellen.",
-      "url": "https://www.deutschlandfunk.de/karlsruher-staatsanwaltschaft-ermittelt-zu-prank-videos-102.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Energiemarkt - CSU-Wirtschaftspolitiker Lenz spricht sich gegen staatliche Eingriffe aus",
-      "excerpt": "Der wirtschafts- und energiepolitische Sprecher der Unionsfraktion, Lenz, lehnt trotz der hohen Energiepreise einen Eingriff des Staates in den Energiemarkt ab.",
-      "url": "https://www.deutschlandfunk.de/csu-wirtschaftspolitiker-lenz-spricht-sich-gegen-staatliche-eingriffe-aus-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Höchstes Staatsamt - SPD besteht bei Nachfolge von Bundespräsident Steinmeier auf Nominierung einer Frau",
-      "excerpt": "Die SPD besteht darauf, dass die Koalition eine Frau als Kandidatin für die Nachfolge von Bundespräsident Steinmeier nominiert.",
-      "url": "https://www.deutschlandfunk.de/spd-besteht-bei-nachfolge-von-bundespraesident-steinmeier-auf-nominierung-einer-frau-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Einwanderung - US-Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern",
-      "excerpt": "In den USA hat eine Bundesrichterin den von der Regierung verhängten Visa-Stopp für Staatsangehörige aus 75 Ländern gekippt. Die Richterin im New Yorker Stadtteil Manhattan entschied, die im Januar eingeführte Regelung s",
-      "url": "https://www.deutschlandfunk.de/us-bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - Mannheim und Kaiserslautern drohen nach Ausschreitungen im DFB-Pokal Konsequenzen",
-      "excerpt": "Nach den Ausschreitungen beim DFB-Pokalspiel zwischen dem SV Waldhof Mannheim und dem 1. FC Kaiserslautern mit zahlreichen Verletzten müssen beide Vereine mit Konsequenzen rechnen.",
-      "url": "https://www.deutschlandfunk.de/mannheim-und-kaiserslautern-drohen-nach-ausschreitungen-im-dfb-pokal-konsequenzen-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "DFB-Pokal - Energie Cottbus scheidet mit 0:2 gegen FC Augsburg aus",
-      "excerpt": "Beim DFB-Pokal ist Energie Cottbus in der ersten Runde gegen den FC Augsburg ausgeschieden. 0:2 stand es am Ende in der Lausitz.",
-      "url": "https://www.deutschlandfunk.de/energie-cottbus-scheidet-mit-0-2-gegen-fc-augsburg-aus-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nordspanien - Mindestens sieben Verletzte bei schweren Unwettern",
-      "excerpt": "Im Nordosten Spaniens sind bei schweren Unwettern mindestens sieben Menschen verletzt worden.",
-      "url": "https://www.deutschlandfunk.de/mindestens-sieben-verletzte-bei-schweren-unwettern-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medien - Pentagon entlässt Leitung der US-Militärzeitung \"Stars and Stripes\" - Chefredakteur pocht auf redaktionelle Unabhängigkeit",
-      "excerpt": "Das US-Verteidigungsministerium hat die Leitung der Militärzeitung \"Stars and Stripes\" entlassen. Auf der Internetseite der Zeitung heißt es, das Pentagon habe sich von Chefredakteur Slavin, Herausgeber Lederer und der N",
-      "url": "https://www.deutschlandfunk.de/pentagon-entlaesst-leitung-der-us-militaerzeitung-stars-and-stripes-chefredakteur-pocht-auf-redaktio-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Epidemie - Erste 16.000 Ebola-Impfdosen von der WHO im Kongo eingetroffen",
-      "excerpt": "Im Kampf gegen die Ebola-Epidemie hat die Weltgesundheitsorganisation der Demokratischen Republik Kongo erste 16.000 Dosen des Impfstoffs Ervebo geliefert.",
-      "url": "https://www.deutschlandfunk.de/erste-16-000-ebola-impfdosen-von-der-who-im-kongo-eingetroffen-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Accounts für 13-Jährige ohne Eltern-Zustimmung - Tiktok zahlt wegen Datenschutz-Verstößen 400 Millionen Dollar",
-      "excerpt": "In den USA haben sich die Kurzvideo-Plattform Tiktok und ihr chinesischer Betreiber Bytedance mit dem Justizministerium in einem Verfahren wegen des Vorwurfs von Datenschutz-Verstößen auf einen Vergleich geeinigt. Wie da",
-      "url": "https://www.deutschlandfunk.de/tiktok-zahlt-wegen-datenschutz-verstoessen-400-millionen-dollar-100.html",
-      "publishedAt": "2026-08-22T13:50:05.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -467,14 +491,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Wochentaz-Podcast: Wer bleibt in Sachsen-Anhalt, wenn die AfD gewinnt?",
-      "excerpt": "In Sachsen-Anhalt sitzen Menschen auf gepackten Koffern, weil sie einen Sieg der AfD fürchten. Andere zeigen sich kämpferisch. mehr...",
-      "url": "https://taz.de/Wochentaz-Podcast/!6205836/",
-      "publishedAt": "2026-08-22T07:29:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Handelsabkommen USA und Kanada: Keine Einigung möglich",
       "excerpt": "US-Präsident Trump hat im Handelsstreit mit Kanada neue Strafzölle von 50 Prozent angekündigt. Bis zum letzten Moment versuchte Kanada, die Zölle abzuwenden. mehr...",
       "url": "https://taz.de/Handelsabkommen-USA-und-Kanada/!6206211/",
@@ -495,14 +511,6 @@
       "excerpt": "Die politische Sommerpause neigt sich dem Ende zu und die Spitzen beider Regierungsparteien wackeln. Nur noch ein Wunder könnte die Koalition retten. mehr...",
       "url": "https://taz.de/Schwarz-rote-Koalition/!6202576/",
       "publishedAt": "2026-08-22T07:05:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Genderperformance und Nagellack: Wild Boys always shine",
-      "excerpt": "Männer lackieren sich die Fingernägel, neu ist das nicht. Es bleibt dabei: Das Weibliche entmannt vermeintlich den Mann, das Männliche variiert die Frau. mehr...",
-      "url": "https://taz.de/Genderperformance-und-Nagellack/!6205731/",
-      "publishedAt": "2026-08-22T06:00:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -592,14 +600,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss",
       "publishedAt": "2026-08-21T14:17:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Zementwerk testet neue Technik gegen klimaschädliches CO2",
-      "excerpt": "Zementwerk testet neue Technik gegen klimaschädliches CO2",
-      "url": "https://www.tagesschau.de/video/video-1635174.html",
-      "publishedAt": "2026-08-21T14:11:04.000Z",
-      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
