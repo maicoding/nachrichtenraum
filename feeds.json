@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-08-23T20:39:14.277Z",
+  "updatedAt": "2026-08-23T20:58:38.995Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Weiterer Angriff auf Zivilisten? - Russen-Drohne attackiert Radfahrer",
       "excerpt": "Ein Video zeigt einen russischen Drohnen-Angriff auf einen Radfahrer in der Ostukraine.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-spricht-von-gezielter-jagd-auf-menschen-russen-drohne-attackiert-radfahrer-6a8b099cc3692834ff6da384",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,7 @@
       "title": "Wirbel um Podcast-Einladungen - Schulze sagt Interview mit Tilo Jung ab",
       "excerpt": "CDU-Spitenkandidat Schulze bläst Podcast-Auftritt bei dem streitbaren Tilo Jung ab.",
       "url": "https://www.bild.de/politik/inland/sven-schulze-podcast-interview-mit-tilo-jung-abgesagt-6a8aec14c3692834ff6da1a6",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +30,7 @@
       "title": "Weiterer Angriff auf Zivilisten? - Russen-Drohne attackiert Radfahrer",
       "excerpt": "Erneut wird ein Zivilist in der Ukraine von russischen Drohnen attackiert. Dieses Mal ein Radfahrer in Kramatorsk. Die Russen sprech...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/weiterer-angriff-auf-zivilisten-russen-drohne-attackiert-radfahrer-6a8af649eefcff79c24011a0",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +38,7 @@
       "title": "Schlagabtausch - Weidel spricht von „Flachzangen“",
       "excerpt": "Sommerinterviews mit Weidel und Chrupalla liefern viel Streit, aber kaum Lösungen.",
       "url": "https://www.bild.de/politik/inland/schlagabtausch-im-sommerinterview-weidel-spricht-von-flachzangen-6a8b1849511d4fd3bc4e1496",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +46,7 @@
       "title": "Bei Sommerinterview - Schlagabtausch zwischen AfD-Chefin und ZDF-Moderator",
       "excerpt": "Die AfD-Chefin muss erklären, warum „Alice Merkel“ zum Parteifall wird, während sie selbst Gegner scharf beschimpft.",
       "url": "https://www.bild.de/politik/inland/bei-sommerinterview-schlagabtausch-zwischen-afd-chefin-und-zdf-moderator-6a8b2acbc3692834ff6da50b",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +54,7 @@
       "title": "Chrupalla über Klimawandel - „Ich sehe da Panikmache“",
       "excerpt": "Tino Chrupalla spricht im ZDF über Klimawandel, bezahlbare Energie und seine Vorschläge für Klimaanpassung.",
       "url": "https://www.bild.de/politik/inland/chrupalla-ueber-klimawandel-ich-sehe-da-panikmache-6a8b209dc3692834ff6da493",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +62,7 @@
       "title": "Nach den Ferien endlich Reformen? - „Ich werde das Team auf diese Aufgabe einschwören“",
       "excerpt": "Merz kehrt aus dem Urlaub zurück und drängt sein Kabinett zu schnellen Reformen.",
       "url": "https://www.bild.de/politik/inland/friedrich-merz-volle-konzentration-auf-wachstum-und-beschaeftigung-6a89de3bed70dab209b66838",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +70,7 @@
       "title": "Immer mehr Schulden, aber kaum Wachstum - Rating-Agentur warnt: Deutschland droht Herabstufung",
       "excerpt": "Rekordschulden, explodierende Zinsen und Firmensterben treiben Deutschland in die Krise.",
       "url": "https://www.bild.de/politik/inland/deutschlands-schulden-droht-die-herabstufung-6a88061e1c4720d4165469d9",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +78,7 @@
       "title": "Kanadas Premier kündigt Vergeltung an - Macht dieser Mann vor, wie man Trump bändigt?",
       "excerpt": "Der Handelskonflikt zwischen den USA und Kanada eskaliert. Premier Carney bleibt standhaft",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kanadas-premierminister-carney-macht-dieser-mann-vor-wie-man-mit-trump-umgehen-sollte-6a8aae1c511d4fd3bc4e0d89",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +86,7 @@
       "title": "Wirbel um „Stadtbild“-Äußerungen - CDU-Politiker Radtke fühlt sich missverstanden",
       "excerpt": "Radtke verteidigt umstrittene Lanz-Aussagen und räumt Fehler ein.",
       "url": "https://www.bild.de/politik/inland/wirbel-um-stadtbild-aeusserungen-cdu-politiker-radtke-fuehlt-sich-missverstanden-6a8ad3953d529c023499225e",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +94,7 @@
       "title": "AfD in Sommerinterviews - Weidel über „Flachzangen“ und Auto-Krise",
       "excerpt": "Weidel polarisiert im ZDF-Sommerinterview mit harten Thesen und wenig Lösungen.",
       "url": "https://www.bild.de/politik/inland/weidel-im-zdf-sommerinterview-flachzangen-euro-aus-und-auto-krise-6a8af192511d4fd3bc4e122a",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +102,7 @@
       "title": "Kommentar - In der Kirche zählt nicht nur die Liebe",
       "excerpt": "Priester verliert nach Beziehung zu Frau sein Amt, Kritik am Zölibat wird lauter.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-in-der-kirche-zaehlt-nicht-nur-die-liebe-6a8b1260dbc9c8326aba3bc8",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +110,7 @@
       "title": "Nach BILD-Bericht - Bund-Länder-Zoff um Abschiebe-Pleiten",
       "excerpt": "Streit um Abschiebungen: Länder schieben jetzt dem Bund den Schwarzen Peter zu.",
       "url": "https://www.bild.de/politik/inland/nach-bild-bericht-bund-laender-zoff-um-abschiebe-pleiten-6a86e3b8c3692834ff6d7395",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +118,7 @@
       "title": "Außenminister Wadephul in der Drohnen-Todeszone - Wir können uns von den Ukrainern eine Scheibe abschneiden!",
       "excerpt": "Außenminister Wadephul erlebt in Charkiw Krieg, Drohnenalarm und Alltag zugleich.",
       "url": "https://www.bild.de/politik/inland/aussenminister-wadephul-in-der-drohnen-todeszone-wir-koennen-uns-von-den-ukrainern-eine-scheibe-abschneiden-6a8aeebbc3692834ff6da1e3",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +126,7 @@
       "title": "Schock für Elon Musk - Todesrisiko Tesla-Tür! Jetzt 3 Millionen Rückrufe",
       "excerpt": "Die versenkbaren Türgriffe werden bei Unfällen zur potenziellen Todesfalle!",
       "url": "https://www.bild.de/politik/ausland-und-internationales/todesrisiko-tesla-tuer-jetzt-3-millionen-rueckrufe-6a8ac89aeefcff79c2400edb",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +134,7 @@
       "title": "Er hört nach 37 Jahren auf - Gemeinde weint um ihren verliebten Pfarrer",
       "excerpt": "Eine Gemeinde in Schock! Die Gläubigen wussten nichts vom Doppelleben ihres Pfarrers.",
       "url": "https://www.bild.de/politik/inland/gemeinde-ahnte-nichts-priester-liess-liebesbombe-bei-kirchentreff-platzen-6a8ad25deefcff79c2400f6b",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -134,15 +142,7 @@
       "title": "Am Comer See (Italien) - Bürgermeister angefahren! Jetzt verbietet er Fahrräder",
       "excerpt": "Nach einem Unfall lässt Comos Bürgermeister Räder in der Innenstadt nur noch schieben.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/buermeister-spricht-von-e-bike-bestien-stadt-am-comer-see-verbietet-das-fahrradfahren-6a8aa22d0e5ea956d6e4f295",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weidel-Interview eskaliert - Jetzt rechtfertigt sich die ARD",
-      "excerpt": "Trillerpfeifen statt Antworten – das Sommerinterview mit Alice Weidel endet im Protestchaos. Die ARD gerät in die Kritik, verteidigt...",
-      "url": "https://www.bild.de/politik/alice-weidel-sommerinterview-2025-jetzt-rechtfertigt-sich-die-ard-687de3a66696f36098c31d9d",
-      "publishedAt": "2026-08-23T20:39:13.110Z",
+      "publishedAt": "2026-08-23T20:58:38.224Z",
       "category": "POLITIK"
     },
     {
@@ -150,7 +150,7 @@
       "title": "Ukraine - Wadephul würdigt Widerstandswillen der Menschen in Charkiw",
       "excerpt": "Bundesaußenminister Wadephul hat am zweiten Tag seiner Ukraine-Reise die Großstadt Charkiw nahe der Frontlinie im Osten besucht. Der CDU-Politiker traf sich dabei mit Studenten der Universität.",
       "url": "https://www.deutschlandfunk.de/wadephul-wuerdigt-widerstandswillen-der-menschen-in-charkiw-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,15 +158,15 @@
       "title": "Klimapolitik - Grüne fordern von Bundeskanzler Merz nach Äußerungen zu Waldbränden \"fundamentalen Kurswechsel\"",
       "excerpt": "Die Grünen rufen Bundeskanzler Merz nach seinen Äußerungen zum Waldbrand in Nordrhein-Westfalen zu einer Kehrtwende in der Klimapolitik auf. Die Fraktionsvorsitzende Dröge forderte von der Bundesregierung einen Klima-Not",
       "url": "https://www.deutschlandfunk.de/gruene-fordern-von-bundeskanzler-merz-nach-aeusserungen-zu-waldbraenden-fundamentalen-kurswechsel-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Nordrhein-Westfalen - Solingen hat an Terroranschlag vor zwei Jahren erinnert",
-      "excerpt": "Die nordrhein-westfälische Stadt Solingen hat heute der Opfer des Terroranschlags vor zwei Jahren gedacht.",
+      "excerpt": "Die nordrhein-westfälische Stadt Solingen hat der Opfer des Terroranschlags vor zwei Jahren gedacht.",
       "url": "https://www.deutschlandfunk.de/solingen-hat-an-terroranschlag-vor-zwei-jahren-erinnert-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +174,7 @@
       "title": "ZDF-Interview - AfD-Chefin Weidel will aus Euro aussteigen und Deutschlands Grenzen \"zumachen\"",
       "excerpt": "Die AfD-Vorsitzende Weidel hat das Ziel ihrer Partei bekräftigt, im Fall einer Regierungsverantwortung den Ausstieg aus dem Euro und dem Schengen-Abkommen durchzusetzen.",
       "url": "https://www.deutschlandfunk.de/afd-chefin-weidel-will-aus-euro-aussteigen-und-deutschlands-grenzen-zumachen-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +182,7 @@
       "title": "Nach Hackerangriff - Berliner Senatsverwaltungen wieder online",
       "excerpt": "Gut eine Woche nach einem Hackerangriff auf Berliner Landesbehörden sind die beiden betroffenen Senatsverwaltungen wieder online.",
       "url": "https://www.deutschlandfunk.de/berliner-senatsverwaltungen-wieder-online-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +190,7 @@
       "title": "Zollstreit - Wirtschaftsvertreter Kanadas und der USA fordern neue Verhandlungen",
       "excerpt": "Nach der jüngsten Eskalation im Zollstreit zwischen den USA und Kanada warnen Wirtschaftsvertreter beider Länder vor den Folgen. Sie befürchten höhere Kosten und verlangen eine Rückkehr an den Verhandlungstisch.",
       "url": "https://www.deutschlandfunk.de/wirtschaftsvertreter-kanadas-und-der-usa-fordern-neue-verhandlungen-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +198,7 @@
       "title": "Conakry - Häuser von Müllkippe verschüttet - 30 Tote in Guinea",
       "excerpt": "Im westafrikanischen Guinea sind mindestens 30 Menschen bei einem Erdrutsch an einer Müllkippe ums Leben gekommen.",
       "url": "https://www.deutschlandfunk.de/haeuser-von-muellkippe-verschuettet-30-tote-in-guinea-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +206,7 @@
       "title": "Raumfahrt - China verschiebt Start unbemannter Mondmission",
       "excerpt": "Die chinesische Raumfahrtbehörde hat den geplanten Start einer unbemannten Forschungsmission zum Mond verschoben.",
       "url": "https://www.deutschlandfunk.de/china-verschiebt-start-unbemannter-mondmission-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +214,7 @@
       "title": "Vor Kabinetts-Klausur - Merz: \"Reform-Beschlüsse so schnell wie möglich umsetzen\"",
       "excerpt": "Bundeskanzler Merz dringt auf eine zügige Umsetzung der von der schwarz-roten Koalition beschlossenen Reformvorhaben. Er sei sehr zuversichtlich, dass man das hinbekomme, sagte der CDU-Vorsitzende der \"Bild am Sonntag\".",
       "url": "https://www.deutschlandfunk.de/merz-reform-beschluesse-so-schnell-wie-moeglich-umsetzen-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +222,15 @@
       "title": "Angriffe auf Zugbegleiter - EVG droht mit bundesweiten Ausfällen im Regionalverkehr",
       "excerpt": "Um besseren Schutz für Zugbegleiter durchzusetzen, droht die Eisenbahn- und Verkehrsgewerkschaft mit deutschlandweiten Ausfällen im Regionalverkehr. Das versprochene Gesetz für härtere Strafen bei Angriffen auf Zugperson",
       "url": "https://www.deutschlandfunk.de/evg-droht-mit-bundesweiten-ausfaellen-im-regionalverkehr-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - 42.000 Menschen müssen wegen Waldbränden im US-Bundestaat ihre Häuser verlassen",
+      "excerpt": "Angesichts schwerer Waldbrände im US-Bundestaat Nevada sind zehntausende Menschen aufgefordert worden, sich in Sicherheit zu bringen.",
+      "url": "https://www.deutschlandfunk.de/42-000-menschen-muessen-wegen-waldbraenden-im-us-bundestaat-ihre-haeuser-verlassen-100.html",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +238,7 @@
       "title": "Kiew - Selenskyj lehnt Neuwahlen ab",
       "excerpt": "Der ukrainische Präsident Selenskyj hat die Forderung nach Neuwahlen zurückgewiesen. Diese stellten in einem Krieg wie diesem ein großes Risiko dar, wird Selenskyj von der Nachrichtenagentur AFP zitiert. Er warnte vor ei",
       "url": "https://www.deutschlandfunk.de/selenskyj-lehnt-neuwahlen-ab-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +246,7 @@
       "title": "Neue Debatte in der Ukraine - Warum Wahlen während des Ukraine-Krieges so schwierig wären",
       "excerpt": "Die letzte Präsidentschaftswahl in der Ukraine liegt inzwischen mehr als sieben Jahre zurück, denn das 2022 verhängte Kriegsrecht schließt Wahlen aus. Aktuell gibt es wieder Diskussionen darüber - und eine klare Haltung ",
       "url": "https://www.deutschlandfunk.de/warum-wahlen-waehrend-des-ukraine-krieges-so-schwierig-waeren-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +254,7 @@
       "title": "Fußball - DFB-Pokal: Unter anderem Mainz, Union Berlin, Gladbach sowie Regionalligist Jeddeloh in 2. Runde",
       "excerpt": "Fußball-Regionalligist SSV Jeddeloh II hat mit einem 5:2-Sieg gegen den Zweitligisten FC Heidenheim überraschend den Einzug in die zweite Runde des DFB-Pokals geschafft. Mit dem FSV Mainz, Union Berlin und Borussia Mönch",
       "url": "https://www.deutschlandfunk.de/dfb-pokal-unter-anderem-mainz-union-berlin-gladbach-sowie-regionalligist-jeddeloh-in-2-runde-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +262,7 @@
       "title": "Krise der Automobilindustrie - VW-Chef Blume appelliert an Belegschaft: \"Alle müssen mitziehen\"",
       "excerpt": "Volkswagen-Vorstandschef Blume hat an die Belegschaft appelliert, einen nötigen Umbau des Konzerns mitzutragen.",
       "url": "https://www.deutschlandfunk.de/vw-chef-blume-appelliert-an-belegschaft-alle-muessen-mitziehen-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +270,7 @@
       "title": "Formel Eins - Lando Norris im McLaren gewinnt Großen Preis der Niederlande",
       "excerpt": "Der britische Formel-Eins-Fahrer Lando Norris hat den Großen Preis der Niederlande gewonnen.",
       "url": "https://www.deutschlandfunk.de/lando-norris-im-mclaren-gewinnt-grossen-preis-der-niederlande-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +278,7 @@
       "title": "Radsport - Mexikaner del Toro gewinnt Gesamtwertung der Deutschland-Tour",
       "excerpt": "Der mexikanische Radprofi Isaac del Toro hat die 40. Auflage der Deutschland Tour gewonnen.",
       "url": "https://www.deutschlandfunk.de/mexikaner-del-toro-gewinnt-gesamtwertung-der-deutschland-tour-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,15 +286,7 @@
       "title": "Weltmeisterschaft - Hockey-Männer im Halbfinale",
       "excerpt": "Bei der Hockey-Weltmeisterschaft hat die deutsche Nationalmannschaft der Männer das Halbfinale erreicht.",
       "url": "https://www.deutschlandfunk.de/hockey-maenner-im-halbfinale-102.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Stralsund - Monate nach \"Timmy\"-Fund: Deutsches Meeresmuseum erhält weiter Hassnachrichten",
-      "excerpt": "Das Deutsche Meeresmuseum in Stralsund hat wegen andauernder Hassnachrichten im Zusammenhang mit dem Walfund im Frühjahr Sicherheitsmaßnahmen für das Personal ergriffen.",
-      "url": "https://www.deutschlandfunk.de/monate-nach-timmy-fund-deutsches-meeresmuseum-erhaelt-weiter-hassnachrichten-100.html",
-      "publishedAt": "2026-08-23T20:28:07.000Z",
+      "publishedAt": "2026-08-23T20:48:04.000Z",
       "category": "NACHRICHTEN"
     },
     {
