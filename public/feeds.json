@@ -1,28 +1,12 @@
 {
-  "updatedAt": "2026-08-24T19:44:59.651Z",
+  "updatedAt": "2026-08-24T20:04:17.573Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Gehalt bis 100.000 Euro - Wie wär’s mit einem Top-Job in der Rüstung?",
-      "excerpt": "Deutsche Rüstungsindustrie boomt, sie bietet Fachkräften viele neue Karrierechancen.",
-      "url": "https://www.bild.de/politik/inland/gehalt-bis-zu-100-000-euro-im-jahr-wie-waers-mit-einem-top-job-in-der-ruestung-6a1d9462411d40cd4c74e78d",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker vor den Wahl-Krimis - WAHLKAMPF-ENDSPURT!",
-      "excerpt": "AfD dominiert in Ost-Ländern, Merz und Klingbeil droht ein Wahl-Desaster.",
-      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-wahlkampf-endspurt-fuer-merz-und-klingbeil-6a8bed59c3692834ff6dab50",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weidel-Statistik im BILD-Check - „306.000 arbeitslose Flüchtlinge eingebürgert“ – stimmt das?",
-      "excerpt": "Weidels Zahl zu 306.000 Eingebürgerten stimmt, sagt aber nichts nur über Flüchtlinge.",
-      "url": "https://www.bild.de/politik/inland/weidel-306-000-arbeitslose-fluechtlinge-eingebuergert-stimmt-das-6a8c0ef3c08bf8a3201883d5",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
+      "title": "Ihre Amtszeit als UN-Präsidentin endet - Neuer Job für Baerbock!",
+      "excerpt": "Baerbock wird Professorin an der Columbia University und lehrt globale Führung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ihr-praesidentin-job-bei-der-un-endet-im-september-neuer-job-fuer-baerbock-6a8c9535511d4fd3bc4e2a72",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -30,79 +14,7 @@
       "title": "Milliarden, HSV und große Träume - So tickte Klaus-Michael Kühne (†89)",
       "excerpt": "Wie Logistik-Pionier Klaus-Michael Kühne sein Milliardenvermögen formte und verteilte",
       "url": "https://www.bild.de/politik/milliarden-hsv-und-grosse-traeume-so-tickte-klaus-michael-kuehne-89-6a6745f18405ab7d4b71637b",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wildberries droht Zwangsverwaltung - Jetzt greift Putin nach Russlands Amazon",
-      "excerpt": "Putin erlaubt Zwangsverwaltung von Firmen nach ukrainischen Drohnenangriffen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/jetzt-greift-putin-nach-russlands-amazon-droht-wildberries-die-enteignung-6a8c59633819050268320e3e",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Brief an Weidel - AfDler kritisiert „Brandmauer“ innerhalb der AfD",
-      "excerpt": "AfD-Abgeordneter erhebt schwere Vorwürfe zu Lagerkampf und mutmaßlichen Kassen",
-      "url": "https://www.bild.de/politik/inland/afd-nrw-krauthausen-beklagt-interne-brandmauern-6a8bcaa5511d4fd3bc4e1a0a",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - „Es geht nicht um die Gesundheit, es geht um die Kohle.“",
-      "excerpt": "Geplante Zuckersteuer könnte viele Getränke verteuern und Verbraucher belasten.",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-es-geht-nicht-um-die-gesundheit-es-geht-um-die-kohle-6a8c579ec3692834ff6db50f",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mullahs drohen mit Propaganda-Video - 10 Millionen Dollar Kopfgeld auf Trumps Sohn",
-      "excerpt": "Iranischer Sender droht Barron Trump in KI-Video und setzt Kopfgeld aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-mullahs-drohen-trump-sohn-im-staatsfernsehen-mit-dem-tod-6a8c0143c3692834ff6dacf2",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Umstrittene Zuckersteuer - „Merz ist doch nicht mein Ernährungsberater“",
-      "excerpt": "Geplante Zuckersteuer auf Süßgetränke: Geht es um Gesundheit oder nur ums Geld?",
-      "url": "https://www.bild.de/politik/neue-zuckersteuer-in-der-kritik-merz-ist-doch-nicht-mein-ernaehrungsberater-6a8c4bdc437c391dae0a15a0",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Er hatte keine Kinder - Das wird jetzt aus Kühnes Milliarden",
-      "excerpt": "Kühnes Milliarden gehen an eine Stiftung, Vertraute kontrollieren das Firmenreich.",
-      "url": "https://www.bild.de/politik/klaus-michael-kuehne-wer-jetzt-ueber-seine-milliarden-entscheidet-6a8c31df511d4fd3bc4e236b",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Deutscher Forscher in Taiwan verfolgt - Eine China-Spionin hat mich bespitzelt",
-      "excerpt": "Ein deutscher China-Experte wird in Taiwan verfolgt, doch Berlin reagiert kaum.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/deutscher-forscher-in-taiwan-verfolgt-eine-china-spionin-hat-mich-bespitzelt-6a88171f1c4720d416546c24",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nur Berlin-CDU macht nicht mit - Top-Kandidaten treffen sich bei Skandal-Moschee",
-      "excerpt": "CDU boykottiert Wahlrunde in Moschee, andere Parteien halten am Dialog fest.",
-      "url": "https://www.bild.de/politik/inland/berlins-spitzenkandidaten-treffen-sich-bei-skandal-moschee-nur-cdu-macht-nicht-mit-6a8c0c7b511d4fd3bc4e1f9d",
-      "publishedAt": "2026-08-24T19:44:59.456Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ihr Präsidentin-Job bei der UN endet - Neue Aufgabe für Baerbock",
-      "excerpt": "Baerbock wird Professorin an der Columbia University und lehrt globale Führung.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ihr-praesidentin-job-bei-der-un-endet-im-september-neuer-job-fuer-baerbock-6a8c9535511d4fd3bc4e2a72",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +22,7 @@
       "title": "Brisante Netanjahu-Aussage - Iran versuchte einen meiner Söhne „zu töten“",
       "excerpt": "Netanjahu wirft Iran vor, einen seiner Söhne ins Visier genommen zu haben.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/benjamin-netanjahu-iran-hat-einen-meiner-soehne-ins-visier-genommen-6a8c8561381905026832107e",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +30,7 @@
       "title": "„Streitbarer Konservativer“ - Wird ER der Steinmeier-Nachfolger?",
       "excerpt": "CDU bringt Verfassungsjurist Udo Di Fabio als möglichen Bundespräsidenten ins Spiel.",
       "url": "https://www.bild.de/politik/inland/udo-di-fabio-merz-vertrauter-als-moeglicher-steinmeier-nachfolger-6a8c4db9437c391dae0a15cb",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +38,7 @@
       "title": "Medienbericht - EU plant Auto-Allianz gegen China",
       "excerpt": "EU-Kommission schmiedet Auto-Bündnis mit Asienstaaten gegen Chinas Exportdruck.",
       "url": "https://www.bild.de/politik/inland/eu-gegen-china-auto-allianz-mit-japan-suedkorea-und-grossbritannien-6a8c6c113819050268320f96",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +46,7 @@
       "title": "Kommentar - Zuckersteuer ist eine Mogelpackung",
       "excerpt": "Süße Getränke werden bald ­teurer. Der Grund: Die Zuckersteuer kommt!",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zuckersteuer-ist-eine-mogelpackung-6a8c83c2bb01c56009b7544c",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
@@ -142,7 +54,95 @@
       "title": "Andrea Orcel (63) - Der Mann, der die Commerzbank schlucken will",
       "excerpt": "Wer ist der Italiener, der Chef der UniCredit ist und jetzt die Commerzbank übernehmen will?",
       "url": "https://www.bild.de/politik/andrea-orcel-der-hai-will-deutschlands-commerzbank-uebernehmen-6a748ea68df5ff08dbdd6375",
-      "publishedAt": "2026-08-24T19:44:59.455Z",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gehalt bis 100.000 Euro - Wie wär’s mit einem Top-Job in der Rüstung?",
+      "excerpt": "Deutsche Rüstungsindustrie boomt, sie bietet Fachkräften viele neue Karrierechancen.",
+      "url": "https://www.bild.de/politik/inland/gehalt-bis-zu-100-000-euro-im-jahr-wie-waers-mit-einem-top-job-in-der-ruestung-6a1d9462411d40cd4c74e78d",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker vor den Wahl-Krimis - WAHLKAMPF-ENDSPURT!",
+      "excerpt": "AfD dominiert in Ost-Ländern, Merz und Klingbeil droht ein Wahl-Desaster.",
+      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-wahlkampf-endspurt-fuer-merz-und-klingbeil-6a8bed59c3692834ff6dab50",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weidel-Statistik im BILD-Check - „306.000 arbeitslose Flüchtlinge eingebürgert“ – stimmt das?",
+      "excerpt": "Weidels Zahl zu 306.000 Eingebürgerten stimmt, sagt aber nichts nur über Flüchtlinge.",
+      "url": "https://www.bild.de/politik/inland/weidel-306-000-arbeitslose-fluechtlinge-eingebuergert-stimmt-das-6a8c0ef3c08bf8a3201883d5",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wildberries droht Zwangsverwaltung - Jetzt greift Putin nach Russlands Amazon",
+      "excerpt": "Putin erlaubt Zwangsverwaltung von Firmen nach ukrainischen Drohnenangriffen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/jetzt-greift-putin-nach-russlands-amazon-droht-wildberries-die-enteignung-6a8c59633819050268320e3e",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brief an Weidel - AfDler kritisiert „Brandmauer“ innerhalb der AfD",
+      "excerpt": "AfD-Abgeordneter erhebt schwere Vorwürfe zu Lagerkampf und mutmaßlichen Kassen",
+      "url": "https://www.bild.de/politik/inland/afd-nrw-krauthausen-beklagt-interne-brandmauern-6a8bcaa5511d4fd3bc4e1a0a",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Politik-Vodcast - Vertraulich! - „Es geht nicht um die Gesundheit, es geht um die Kohle.“",
+      "excerpt": "Geplante Zuckersteuer könnte viele Getränke verteuern und Verbraucher belasten.",
+      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-es-geht-nicht-um-die-gesundheit-es-geht-um-die-kohle-6a8c579ec3692834ff6db50f",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mullahs drohen mit Propaganda-Video - 10 Millionen Dollar Kopfgeld auf Trumps Sohn",
+      "excerpt": "Iranischer Sender droht Barron Trump in KI-Video und setzt Kopfgeld aus.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-mullahs-drohen-trump-sohn-im-staatsfernsehen-mit-dem-tod-6a8c0143c3692834ff6dacf2",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umstrittene Zuckersteuer - „Merz ist doch nicht mein Ernährungsberater“",
+      "excerpt": "Geplante Zuckersteuer auf Süßgetränke: Geht es um Gesundheit oder nur ums Geld?",
+      "url": "https://www.bild.de/politik/neue-zuckersteuer-in-der-kritik-merz-ist-doch-nicht-mein-ernaehrungsberater-6a8c4bdc437c391dae0a15a0",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Er hatte keine Kinder - Das wird jetzt aus Kühnes Milliarden",
+      "excerpt": "Kühnes Milliarden gehen an eine Stiftung, Vertraute kontrollieren das Firmenreich.",
+      "url": "https://www.bild.de/politik/klaus-michael-kuehne-wer-jetzt-ueber-seine-milliarden-entscheidet-6a8c31df511d4fd3bc4e236b",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Deutscher Forscher in Taiwan verfolgt - Eine China-Spionin hat mich bespitzelt",
+      "excerpt": "Ein deutscher China-Experte wird in Taiwan verfolgt, doch Berlin reagiert kaum.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/deutscher-forscher-in-taiwan-verfolgt-eine-china-spionin-hat-mich-bespitzelt-6a88171f1c4720d416546c24",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nur Berlin-CDU macht nicht mit - Top-Kandidaten treffen sich bei Skandal-Moschee",
+      "excerpt": "CDU boykottiert Wahlrunde in Moschee, andere Parteien halten am Dialog fest.",
+      "url": "https://www.bild.de/politik/inland/berlins-spitzenkandidaten-treffen-sich-bei-skandal-moschee-nur-cdu-macht-nicht-mit-6a8c0c7b511d4fd3bc4e1f9d",
+      "publishedAt": "2026-08-24T20:04:16.990Z",
       "category": "POLITIK"
     },
     {
