@@ -1,20 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:13:29.077Z",
+  "updatedAt": "2026-08-25T14:05:24.550Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Horror am Urlaubsstrand - Flüchtlingsboot überfährt Schwimmerin (17)",
-      "excerpt": "Algerischer Schleuser steuert sein Boot in eine Gruppe von Badegästen auf Sardinien.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/beim-urlaub-in-italien-fluechtlingsboot-ueberfaehrt-schwimmerin-17-klinik-6a8d5562511d4fd3bc4e31a7",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Exklusiver *innen-Atlas - Das ist Deutschlands Gender-Hauptstadt",
-      "excerpt": "Freiburg gendern am stärksten, doch die meisten Firmen verzichten weiterhin darauf.",
-      "url": "https://www.bild.de/politik/inland/gendern-in-deutschland-freiburg-ist-die-hauptstadt-6a79afd835268e50270244b0",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "title": "Live-Ticker vor den Wahl-Krimis - Merz-Ansage gegen Leipzig-Hintermänner",
+      "excerpt": "Merz kündigt schnelle Reformen an und droht den Drahtziehern des Drohnenangriffs",
+      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-wahlkampf-endspurt-fuer-merz-und-klingbeil-6a8bed59c3692834ff6dab50",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -22,15 +14,23 @@
       "title": "Sven Hüber - Misshandelte Polizei-Funktionär einen DDR-Flüchtling?",
       "excerpt": "Zeitzeuge wirft GdP-Vize Hüber brutale Übergriffe auf einen DDR-Flüchtling vor.",
       "url": "https://www.bild.de/politik/inland/von-ex-ddr-grenzsoldat-neue-schwere-vorwuerfe-gegen-gdp-vize-hueber-6a8c944801344fc8f3c80352",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker vor den Wahl-Krimis - Merz-Ansage gegen Leipzig-Hintermänner",
-      "excerpt": "Merz kündigt schnelle Reformen an und droht den Drahtziehern des Drohnenangriffs",
-      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-wahlkampf-endspurt-fuer-merz-und-klingbeil-6a8bed59c3692834ff6dab50",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "title": "Horror am Urlaubsstrand - Flüchtlingsboot überfährt Schwimmerin (17)",
+      "excerpt": "Algerischer Schleuser steuert sein Boot in eine Gruppe von Badegästen auf Sardinien.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/beim-urlaub-in-italien-fluechtlingsboot-ueberfaehrt-schwimmerin-17-klinik-6a8d5562511d4fd3bc4e31a7",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiver *innen-Atlas - Das ist Deutschlands Gender-Hauptstadt",
+      "excerpt": "Freiburg gendern am stärksten, doch die meisten Firmen verzichten weiterhin darauf.",
+      "url": "https://www.bild.de/politik/inland/gendern-in-deutschland-freiburg-ist-die-hauptstadt-6a79afd835268e50270244b0",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +38,7 @@
       "title": "Vor Wahl in Sachsen-Anhalt - MDR unterbricht Programm für Warnung vor AfD",
       "excerpt": "MDR warnt mit Sendestopp vor möglichen Folgen einer AfD-Regierung im Land.",
       "url": "https://www.bild.de/politik/inland/sachsen-anhalt-mdr-unterbricht-programm-fuer-warnung-vor-afd-unter-ulrich-siegmund-6a8d6acd511d4fd3bc4e336e",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +46,7 @@
       "title": "Agrarminister dagegen, Union auch - Regierungskrach um Klingbeils Zuckersteuer",
       "excerpt": "Mehrere Minister attackieren Klingbeils Zucker-Plan, auch die Unionsfraktion murrt!",
       "url": "https://www.bild.de/politik/inland/zuckersteuer-von-klingbeil-faellt-bei-zwei-ministern-der-union-durch-6a8d73acc3692834ff6dc175",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +54,7 @@
       "title": "Mit Albumcover von „Nirvana“ - Mullahs verhöhnen Trump als ertrinkenden Verlierer",
       "excerpt": "Iran verspottet Trump mit Nirvana-Plakat, während USA neue Sanktionen verhängen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/iran-verhoehnt-donald-trump-mit-legendaerem-plakat-der-band-nirvana-6a8d4f77e998204a5d80b271",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +62,7 @@
       "title": "Vom Gefängnis in den Flieger - Deutschland schiebt 23 Straftäter nach Kabul ab",
       "excerpt": "Deutschland schiebt 23 verurteilte Afghanen nach Kabul ab und hält am Kurs fest.",
       "url": "https://www.bild.de/politik/inland/recht-auf-asyl-verwirkt-deutschland-schiebt-23-schwere-straftaeter-nach-kabul-ab-6a8d38c7e998204a5d80b09b",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +70,7 @@
       "title": "RONZHEIMER - Ist eine riesige AfD-Überraschung möglich? Mit Janina Mütze",
       "excerpt": "Paul Ronzheimer spricht mit Janina Mütze, Gründerin des Meinungsforschungsinstituts Civey, über die aktuellen Umfragewerte vor der L...",
       "url": "https://www.bild.de/politik/ronzheimer-ist-eine-riesige-afd-ueberraschung-moeglich-mit-janina-muetze-6a8cc535c3692834ff6db9bf",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +78,7 @@
       "title": "VW-Boss bei Betriebsversammlung - Viele Worte, aber kaum Antworten",
       "excerpt": "VW-Chef Blume hat sich vor der Belegschaft zum Sparkurs geäußert.",
       "url": "https://www.bild.de/politik/inland/betriebsversammlung-in-wolfsburg-tag-der-wahrheit-bei-volkswagen-6a8d3525c3692834ff6dbc9b",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +86,7 @@
       "title": "Schock-Umfrage für Friedrich Merz - Deutsche trauen Regierung kaum noch etwas zu",
       "excerpt": "Umfragen zeigen: Viele Deutsche erwarten von der Regierung kaum bessere Politik.",
       "url": "https://www.bild.de/politik/inland/schock-umfrage-fuer-friedrich-merz-deutsche-trauen-regierung-kaum-noch-etwas-zu-6a8c76c23819050268320fe9",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Merz mit knallhart Ansage - „Sie werden dafür bezahlen“",
       "excerpt": "Bemerkenswert scharf richtete sich der Kanzler gegen die Drohnen-Attacke vom Leipziger Flughafen auf der schwarz roten Klausurtagung.",
       "url": "https://www.bild.de/politik/inland/merz-mit-knallhart-ansage-sie-werden-dafuer-bezahlen-6a8d6a54d8b561d61897121c",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +102,7 @@
       "title": "Exklusive Details zu Leipzig-Vorfall - Dritte Drohne blieb zurück – und 50 Gramm Sprengstoff",
       "excerpt": "Dritte Drohne bei Leipzig ohne Sprengstoff, 50 Gramm lagen separat im Feld.",
       "url": "https://www.bild.de/politik/inland/dritte-drohne-nahe-flughafen-leipzig-halle-entdeckt-haben-die-ermittler-den-tatort-6a8d3b53d8b561d618970ca4",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +110,7 @@
       "title": "Landrat redet Klartext - „Migrationspolitik zeigt den Grad des Wahnsinns“",
       "excerpt": "Landrat Kerth attackiert Migrationskurs und warnt vor Spaltung der Wähler.",
       "url": "https://www.bild.de/politik/inland/mutiger-landrat-zaehlt-friedrich-merz-an-keiner-waehlt-die-afd-aus-zufall-6a8d3275511d4fd3bc4e2f25",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +118,7 @@
       "title": "Neue Nein-danke-Zahlen der Bahn - Jeder 12. Fernzug ausgefallen",
       "excerpt": "Im ersten Halbjahr 2026 fällt fast jeder zwölfte Fernzug ganz oder teilweise aus.",
       "url": "https://www.bild.de/politik/inland/deusche-bahn-jeder-12-fernzug-ausgefallen-6a8d00afc3692834ff6dba83",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +126,7 @@
       "title": "BILD exklusiv - In CDU-Sitzung! Merz spricht über Drohnen-Anschlag",
       "excerpt": "Merz will die Hintermänner des Drohnen-Anschlags nennen und Konsequenzen ziehen.",
       "url": "https://www.bild.de/politik/inland/bild-exklusiv-in-geheim-sitzung-merz-spricht-ueber-drohnen-anschlag-6a8d3bdad8b561d618970cb3",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +134,7 @@
       "title": "Umstrittene Zuckersteuer - „Merz ist doch nicht mein Ernährungsberater“",
       "excerpt": "Geplante Zuckersteuer auf Süßgetränke: Geht es um Gesundheit oder nur ums Geld?",
       "url": "https://www.bild.de/politik/zuckersteuer-in-der-kritik-merz-ist-doch-nicht-mein-ernaehrungsberater-6a8c4bdc437c391dae0a15a0",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
@@ -142,23 +142,23 @@
       "title": "Viel mehr Produkte - Zuckersteuer sogar auf Cola Zero!",
       "excerpt": "Neue Abgabe verteuert viele Softdrinks, Light-Getränke und Milchmischungen deutlich.",
       "url": "https://www.bild.de/politik/inland/zuckersteuer-sogar-auf-cola-zero-viel-mehr-produkte-betroffen-als-bekannt-6a8c15786d71b45dbda0f609",
-      "publishedAt": "2026-08-25T13:13:28.702Z",
+      "publishedAt": "2026-08-25T14:05:24.227Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Eckpunkte - Finanzministerium plant umfangreichere Zuckersteuer als bekannt",
-      "excerpt": "Die von der Regierung geplante Zuckersteuer könnte nach Informationen des ARD-Hauptstadtstudios umfangreicher ausfallen als bisher bekannt.",
-      "url": "https://www.deutschlandfunk.de/finanzministerium-plant-umfangreichere-zuckersteuer-als-bekannt-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "title": "Belgien - EU-Krisenkommissarin: Brand im Hohen Venn menschlichen Ursprungs",
+      "excerpt": "Die EU-Kommissarin für Krisenvorsorge und Krisenmanagement, Lahbib, schließt aus, dass der Brand im belgischen Naturschutzgebiet Hohes Venn eine natürliche Ursache hatte.",
+      "url": "https://www.deutschlandfunk.de/eu-krisenkommissarin-brand-im-hohen-venn-menschlichen-ursprungs-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Wolfsburg - VW-Chef Blume: Müssen Kosten senken - Betriebsratschefin Cavallo kritisiert Konzernvorstand",
-      "excerpt": "Der Vorstandsvorsitzende von Volkswagen, Blume, hat bei einer Betriebsversammlung im Stammwerk Wolfsburg weitere Sparmaßnahmen als notwendig bezeichnet. Der Konzern müsse seine Strukturen konsequent verschlanken, die Kos",
-      "url": "https://www.deutschlandfunk.de/vw-chef-blume-muessen-kosten-senken-betriebsratschefin-cavallo-kritisiert-konzernvorstand-102.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "title": "Eckpunkte - Finanzministerium plant umfangreichere Zuckersteuer als bekannt",
+      "excerpt": "Die von der Regierung geplante Zuckersteuer könnte nach Informationen des ARD-Hauptstadtstudios umfangreicher ausfallen als bisher bekannt. Laut einem Eckpunktepapier soll die Steuer nicht nur für zuckerhaltige Getränke ",
+      "url": "https://www.deutschlandfunk.de/finanzministerium-plant-umfangreichere-zuckersteuer-als-bekannt-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,7 +166,47 @@
       "title": "Appell - Bundespräsident Steinmeier wirbt für weitere Zuwanderung - Warnung vor Nationalismus",
       "excerpt": "Bundespräsident Steinmeier hat sich für weitere Zuwanderung nach Deutschland ausgesprochen.",
       "url": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wirbt-fuer-weitere-zuwanderung-warnung-vor-nationalismus-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geheimes Waffenversteck im Wald - SPIEGEL-Recherche: Waffenkurier soll im Auftrag Russlands gehandelt haben",
+      "excerpt": "Im Zusammenhang mit dem in einem Wald bei Berlin entdeckten Waffenversteck gibt es neue Erkenntnisse zu einem mutmaßlichen Agenten für Russland.",
+      "url": "https://www.deutschlandfunk.de/spiegel-recherche-waffenkurier-soll-im-auftrag-russlands-gehandelt-haben-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wolfsburg - VW-Chef Blume: \"Etwa die Hälfte\" der Stellenstreichungen in Deutschland",
+      "excerpt": "Der Volkswagen-Konzern will die Hälfte von möglicherweise rund 50.000 zu streichenden Stellen in Deutschland abbauen. Das sagte der Vorstandsvorsitzende Blume auf einer Betriebsversammlung in Wolfsburg. Der Vorstand werd",
+      "url": "https://www.deutschlandfunk.de/vw-chef-blume-etwa-die-haelfte-der-stellenstreichungen-in-deutschland-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Handelskonflikt USA zwischen Kanada - Autoindustrie besorgt wegen US-Zolldrohungen",
+      "excerpt": "Die deutsche Automobilindustrie befürchtet Auswirkungen des jüngsten Zollstreits zwischen den USA und Kanada.",
+      "url": "https://www.deutschlandfunk.de/autoindustrie-besorgt-wegen-us-zolldrohungen-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Angriff auf Mitarbeiter von russisch besetztem Atomkraftwerk Saporischschja gemeldet",
+      "excerpt": "Bei einem ukrainischen Drohnenangriff auf das von Russland kontrollierte Atomkraftwerk Saporischschja sind nach Angaben der dortigen Werksleitung zwei Mitarbeiter verletzt worden.",
+      "url": "https://www.deutschlandfunk.de/angriff-auf-mitarbeiter-von-russisch-besetztem-atomkraftwerk-saporischschja-gemeldet-102.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Handelsstreit - Trump: US-Regierung könnte Ontariosee in \"Lake America\" umbenennen",
+      "excerpt": "US-Präsident Trump erwägt im Zuge des Handelskonflikts mit Kanada nach eigenen Angaben eine Umbenennung des Ontario-Sees.",
+      "url": "https://www.deutschlandfunk.de/trump-us-regierung-koennte-ontariosee-in-lake-america-umbenennen-100.html",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +214,7 @@
       "title": "Brandenburg - Klausurtagung der Bundesregierung - Merz: \"Industrielle Basis Deutschlands stärken\"",
       "excerpt": "Zum Auftakt der zweitägigen Kabinettsklausur auf Schloss Neuhardenberg hat Bundeskanzler Merz auf die zu bewältigenden wirtschaftlichen Herausforderungen für Deutschland hingewiesen. Es gelte, die industrielle Basis des ",
       "url": "https://www.deutschlandfunk.de/klausurtagung-der-bundesregierung-merz-industrielle-basis-deutschlands-staerken-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +222,7 @@
       "title": "Flughafen Halle/Leipzig - Neue Sammelabschiebung nach Afghanistan vollzogen",
       "excerpt": "Aus Deutschland sind erneut mehrere Afghanen abgeschoben worden.",
       "url": "https://www.deutschlandfunk.de/neue-sammelabschiebung-nach-afghanistan-vollzogen-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +230,7 @@
       "title": "Umfrage - Freizeitverhalten der Deutschen ändert sich - immer mehr Zeit mit Medien",
       "excerpt": "Die Menschen in Deutschland verbringen immer mehr Freizeit mit Medien.",
       "url": "https://www.deutschlandfunk.de/freizeitverhalten-der-deutschen-aendert-sich-immer-mehr-zeit-mit-medien-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +238,7 @@
       "title": "Statistisches Bundesamt - Deutsche Wirtschaft im zweiten Quartal um 0,3 Prozent gewachsen",
       "excerpt": "Die deutsche Wirtschaft ist im zweiten Quartal um 0,3 Prozent gewachsen und damit etwas mehr als erwartet. Das ist das dritte Quartal mit Wachstum in Folge. Grund sei vor allem die gute Entwicklung der Exporte, teilte da",
       "url": "https://www.deutschlandfunk.de/deutsche-wirtschaft-im-zweiten-quartal-um-0-3-prozent-gewachsen-112.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +246,7 @@
       "title": "Ifo-Index - Wirtschaft trotz Unsicherheit weniger pessimistisch",
       "excerpt": "Die Stimmung in den deutschen Unternehmen hat sich weiter verbessert.",
       "url": "https://www.deutschlandfunk.de/wirtschaft-trotz-unsicherheit-weniger-pessimistisch-106.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +254,7 @@
       "title": "Baden-Württemberg - Polizei geht von neuem Anschlag auf Bahnstrecke aus - Kabel bei Backnang durchtrennt",
       "excerpt": "Die Polizei geht von einem neuen Anschlag auf eine deutsche Bahnstrecke aus.",
       "url": "https://www.deutschlandfunk.de/polizei-geht-von-neuem-anschlag-auf-bahnstrecke-aus-kabel-bei-backnang-durchtrennt-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +262,7 @@
       "title": "Verkehr - Etwa jeder zwölfte Fernzug ganz oder teilweise ausgefallen",
       "excerpt": "Im ersten Halbjahr 2026 ist fast jeder zwölfte Fernzug der Deutschen Bahn ganz oder zumindest auf einem Teil der Strecke ausgefallen.",
       "url": "https://www.deutschlandfunk.de/etwa-jeder-zwoelfte-fernzug-ganz-oder-teilweise-ausgefallen-102.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +270,7 @@
       "title": "Mittelmeer - Griechische Küstenwache rettet 85 Migranten",
       "excerpt": "Vor der Südküste der griechischen Insel Kreta sind zahlreiche Flüchtlinge aus zwei Schlauchbooten gerettet worden.",
       "url": "https://www.deutschlandfunk.de/griechische-kuestenwache-rettet-85-migranten-102.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +278,7 @@
       "title": "Waffentechnik - UNO und Rotes Kreuz fordern Verbote für \"Killerroboter\"",
       "excerpt": "Die Vereinten Nationen und das Rote Kreuz haben Verbote und Beschränkungen für autonome Waffensysteme verlangt.",
       "url": "https://www.deutschlandfunk.de/uno-und-rotes-kreuz-fordern-verbote-fuer-killerroboter-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,48 +286,56 @@
       "title": "Nahost - Vier Tote bei israelischen Angriffen im Gazastreifen",
       "excerpt": "Bei Angriffen der israelischen Armee im Gazastreifen sind mindestens vier Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/vier-tote-bei-israelischen-angriffen-im-gazastreifen-102.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
+      "publishedAt": "2026-08-25T13:58:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Verteidigung gegen Russland - Ukraine greift Erdgas-Anlage in russischer Region Krasnodar an",
-      "excerpt": "Die ukrainischen Streitkräfte haben erneut Einrichtungen der russischen Energiewirtschaft aus der Luft angegriffen.",
-      "url": "https://www.deutschlandfunk.de/ukraine-greift-erdgas-anlage-in-russischer-region-krasnodar-an-102.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Eckpunkte für Zuckersteuer: Zuckersteuer auch für Light-Getränke",
+      "excerpt": "Das Finanzministerium will die Abgabe auf mehr Getränke und auf Süßungsmittel ausweiten. Das Landwirtschaftsministerium ist aber vehement dagegen. mehr...",
+      "url": "https://taz.de/Eckpunkte-fuer-Zuckersteuer/!6207092/",
+      "publishedAt": "2026-08-25T13:48:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Ukraine-Hilfe - Wadephul: Zusage von Partnerländern für Patriots fehlt bislang",
-      "excerpt": "Außenminister Wadephul ⁠hat nach eigenem Bekunden in Gesprächen mit Partnerländern über weitere Patriot-Luftabwehrraketen für die Ukraine bislang keinerlei Zusicherungen erhalten.",
-      "url": "https://www.deutschlandfunk.de/wadephul-zusage-von-partnerlaendern-fuer-patriots-fehlt-bislang-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Umfrage von Aktion Mensch: Menschen mit Behinderung fühlen sich oft diskriminiert",
+      "excerpt": "Sehr viele behinderte Menschen erleben Diskriminierung im Alltag, trauen sich aber nicht, sich zu beschweren. Viele glauben auch, dass es nichts bringt. mehr...",
+      "url": "https://taz.de/Umfrage-von-Aktion-Mensch/!6207113/",
+      "publishedAt": "2026-08-25T13:44:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach Drohnen-Vorfall - Bundesregierung äußert sich laut Merz \"in Kürze\" zu Urheberschaft von Leipziger Drohnenangriff",
-      "excerpt": "Die Bundesregierung wird laut Kanzler Merz demnächst Angaben zu den Urhebern des Anschlagsversuchs mit einer Sprengstoffdrohne am Flughafen Leipzig/Halle machen.",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-aeussert-sich-laut-merz-in-kuerze-zu-urheberschaft-von-leipziger-drohnenangriff-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Repression in der Türkei: Hohe Haftstrafen für Oppositions-Bürgermeister",
+      "excerpt": "Ein türkisches Gericht verurteilt mehrere CHP-Bürgermeister zu hohen Haftstrafen. Für KritikerInnen ist klar: Das war nicht Erdoğans letzter Streich. mehr...",
+      "url": "https://taz.de/Repression-in-der-Tuerkei/!6207010/",
+      "publishedAt": "2026-08-25T13:38:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach Drohnen-Vorfall - Medienbericht: Ermittler finden in Leipzig weitere Drohne und Sprengstoff",
-      "excerpt": "Nach dem Vorfall mit einer Sprengstoffdrohne am Flughafen Leipzig Anfang August gehen die Ermittler Medienberichten zufolge davon aus, dass mehrere Drohnen eingesetzt wurden. Insgesamt ist jetzt von drei Drohnen die Rede",
-      "url": "https://www.deutschlandfunk.de/medienbericht-ermittler-finden-in-leipzig-weitere-drohne-und-sprengstoff-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Mittelmeerspiele in Süditalien: Nur wenig Familienglück",
+      "excerpt": "Die Mittelmeerspiele in Taranto versprechen mehr, als sie halten können. Und die mediterrane Einheit ist doch recht brüchig. mehr...",
+      "url": "https://taz.de/Mittelmeerspiele-in-Sueditalien/!6207039/",
+      "publishedAt": "2026-08-25T13:36:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Rundfunkstaatsvertrag - Schwarze Bildschirme und Stille im Radio: MDR warnt vor Kündigungsplänen der AfD in Sachsen-Anhalt",
-      "excerpt": "Der Mitteldeutsche Rundfunk warnt mit einer Aktion im Radio, Fernsehen und Online vor dem Vorhaben der AfD in Sachsen-Anhalt, die Rundfunkstaatsverträge für das Bundesland zu kündigen. Die Partei will diesen Schritt im F",
-      "url": "https://www.deutschlandfunk.de/schwarze-bildschirme-und-stille-im-radio-mdr-warnt-vor-kuendigungsplaenen-der-afd-in-sachsen-anhalt-100.html",
-      "publishedAt": "2026-08-25T13:09:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Krieg zwischen USA und Iran: Trump probiert's mit schärferen Sanktionen",
+      "excerpt": "Die USA rufen einen „ökonomischen D-Day“ gegen die Islamische Republik aus. Die Sanktionen fallen dann allerdings weniger hart aus als von manchen erwartet. mehr...",
+      "url": "https://taz.de/Krieg-zwischen-USA-und-Iran/!6207009/",
+      "publishedAt": "2026-08-25T13:32:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Lobbyranking 2026: Transparenz scheitert oft an der Umsetzung",
+      "excerpt": "Laut Transparency International Deutschland haben sich die Bundesländer leicht darin verbessert, politischer Einflussnahme vorzubeugen – Lücken bleiben. mehr...",
+      "url": "https://taz.de/Lobbyranking-2026/!6206996/",
+      "publishedAt": "2026-08-25T13:14:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -308,7 +356,7 @@
     {
       "source": "TAZ.DE",
       "title": "Sinus-Jugendstudie: Mädchen sind von der Schule gestresster als Jungen",
-      "excerpt": "Jeder dritte Jugendliche in Deutschland fühlt sich durch die Schule unter Druck. Vor allem Mädchen leider darunter – und nicht nur bei diesem Thema. mehr...",
+      "excerpt": "Jeder dritte Jugendliche in Deutschland fühlt sich durch die Schule unter Druck. Vor allem Mädchen leiden darunter – und nicht nur bei diesem Thema. mehr...",
       "url": "https://taz.de/Sinus-Jugendstudie/!6207102/",
       "publishedAt": "2026-08-25T12:46:00.000Z",
       "category": "POLITIK"
@@ -410,14 +458,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Sprengungen im Berliner Grunewald: Keine Panik",
-      "excerpt": "Wer Explosionen im Grunewald hört, soll dahinter keinen Anschlag vermuten: Die Polizei erklärt das mit einer Fortbildung auf dem Sprengplatz. mehr...",
-      "url": "https://taz.de/Sprengungen-im-Grunewald/!6206938/",
-      "publishedAt": "2026-08-25T09:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Friedrich Merz: Regierung kommt zu zweitägiger Kabinettsklausur in Brandenburg zusammen",
       "excerpt": "Vom Tegernsee aufs Schloss Neuhardenberg: Kanzler Merz lädt sein Kabinett nach der Sommerpause zur Arbeitssitzung nach Brandenburg. Auf der To-do-Liste steht ein Reformherbst – und ein wenig Klimaschutz.",
@@ -468,7 +508,7 @@
     {
       "source": "TAGESSCHAU.DE",
       "title": "Baerbock wechselt an die Columbia-Universität",
-      "excerpt": "Baerbock wird auch nach ihrem Amt bei der UN-Generalversammlung in New York bleiben. Die Grünen-Politikerin soll laut Medienberichten im Herbst an die Columbia-Universität wechseln - und dort zu internationaler politisch",
+      "excerpt": "Ex-Außenministerin Baerbock wird auch nach ihrem Amt bei der UN-Generalversammlung in New York bleiben. Die Grünen-Politikerin soll laut Medienberichten im Herbst an die Columbia-Universität wechseln - und dort zu intern",
       "url": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html",
       "publishedAt": "2026-08-25T05:30:03.000Z",
       "category": "AUSLANDSPOLITIK"
@@ -479,22 +519,6 @@
       "excerpt": "Zum gescheiterten Anschlag am Leipziger Flughafen gibt es nach SPIEGEL-Informationen neue Erkenntnisse. Demnach wurden eine weitere Drohne und Spuren militärischen Sprengstoffs gefunden.",
       "url": "https://www.spiegel.de/politik/deutschland/leipzig-ermittler-finden-weitere-drohne-und-sprengstoff-am-flughafen-leipzig-halle-a-a986f699-9891-46d9-9bee-704549cbc6f2#ref=rss",
       "publishedAt": "2026-08-25T05:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Neofluxus-Kunst in Bochum: Glanz und Elend des Verfalls",
-      "excerpt": "Mit Witz widmen sich Yuko Mohri und Ei Arakawa-Nash der Gegenwart. Der Ausstellung „How We Meet“ gelingt ein Brückenschlag zur Geschichte des Hauses. mehr...",
-      "url": "https://taz.de/Neofluxus-Kunst-in-Bochum/!6206440/",
-      "publishedAt": "2026-08-25T05:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Die Wahrheit: So ein niedlicher Kleiner",
-      "excerpt": "Die aktuelle Wahrheit-Filmkritik: Der furiose Reißer „Aus dem Weg! Der letzte E-Roller“ jetzt im Kino. mehr...",
-      "url": "https://taz.de/Die-Wahrheit/!6206428/",
-      "publishedAt": "2026-08-25T05:09:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -562,22 +586,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Milliardenschäden durch Hitzesommer: Wieder kein Wendepunkt",
-      "excerpt": "Laut Greenpeace hat der heiße Sommer die Wirtschaft mindestens 36 Milliarden Euro gekostet. Zum Umdenken in der Klimapolitik führt das wohl nicht. mehr...",
-      "url": "https://taz.de/Der-heisse-Sommer-2026-kostet-die-Wirtschaft-zweistellige-Milliarden---gibt-es-jetzt-ein-Umdenken-in-der-Klimapolitik/!6206743/",
-      "publishedAt": "2026-08-24T18:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Linkspartei in Sachsen-Anhalt: Mit einem „Zukunftsfonds“ gegen die AfD",
-      "excerpt": "Zwei Wochen vor der Landtagswahl stellt die Linke einen Neun-Punkte-Plan für Sachsen-Anhalt vor. Damit unterstreicht sie ihren Gestaltungsanspruch. mehr...",
-      "url": "https://taz.de/Linkspartei-in-Sachsen-Anhalt/!6206733/",
-      "publishedAt": "2026-08-24T18:05:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "AfD: Der feine Herr Ulrich Siegmund und seine üble Truppe",
       "excerpt": "SPIEGEL-Reporter werden angepöbelt, es gibt Pläne für eine »Bürgerwacht«: Vor der Wahl in Sachsen-Anhalt zeigt sich erneut, dass Ignorieren, Verharmlosen und Relativieren im Umgang mit Parteien wie der AfD in die Irre fü",
@@ -608,14 +616,6 @@
       "url": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
       "publishedAt": "2026-08-24T14:43:53.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Abschiebeflug nach Afghanistan: „Angst brauchen sie noch nicht zu haben“",
-      "excerpt": "Am Dienstag soll es erneut einen Abschiebeflug nach Afghanistan geben. Voraussichtlich nicht mit am Bord: der strafrechtlich unauffällige Faridoon Tofan. mehr...",
-      "url": "https://taz.de/Abschiebeflug-nach-Afghanistan/!6206429/",
-      "publishedAt": "2026-08-24T12:54:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
