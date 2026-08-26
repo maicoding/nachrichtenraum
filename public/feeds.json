@@ -1,124 +1,12 @@
 {
-  "updatedAt": "2026-08-26T16:05:13.789Z",
+  "updatedAt": "2026-08-26T16:59:33.081Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Neue Umfrage für Sachsen-Anhalt - AfD vorn, aber neue Hoffnung für Wackel-Parteien",
-      "excerpt": "Vor der Landtagswahl in Sachsen-Anhalt können zwei Parteien wieder Hoffnung schöpfen.",
-      "url": "https://www.bild.de/politik/inland/umfrage-sachsen-anhalt-afd-weit-vorn-aber-neue-hoffnung-fuer-zwei-andere-parteien-6a8ef27e198bb9fbdfaffe08",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "AFD-Wahlkampf in Sachsen-Anhalt - „Von hart rechts bis normal ist alles dabei“",
-      "excerpt": "Ein BILD-Reporter sieht sich in einer AFD-Hochburg in Sachsen-Anhalt um.",
-      "url": "https://www.bild.de/politik/afd-macht-wahlkampf-in-sachsen-anhalt-von-hart-rechts-bis-normal-ist-alles-dabei-6a8efa9b692b2e9e3efcbe46",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Das wollte der CIA-Chef bei der Geheim-Mission in Moskau - „Die Gefahr von Russland war seit dem Kalten Krieg noch nie so groß wie jetzt“",
-      "excerpt": "Was hinter dem kurzen Moskau-Besuch von CIA-Chef Ratcliffe stecken könnte.",
-      "url": "https://www.bild.de/politik/das-wollte-der-cia-chef-bei-der-geheim-mission-in-moskau-die-gefahr-von-russland-war-seit-dem-kalten-krieg-noch-nie-so-gross-wie-jetzt-6a8ee09e0030825e3e9ccf56",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geheimes Doppelleben - Pussy-Riot-Aktivistin spionierte für Putin",
-      "excerpt": "Rita Flores berichtet, wie der russische Geheimdienst sie zur Spitzelin machte.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/geheimes-doppelleben-aktivistin-von-pussy-riot-spionierte-fuer-putin-6a8ea5110797e27ac1de0615",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Beamte fühlen sich ungerecht behandelt - Kai Wegner fürchtet AfD-Schock",
-      "excerpt": "Nachzahlungen verärgern Beamte, Wegner (CDU) warnt vor Stimmenverlust an die AfD.",
-      "url": "https://www.bild.de/politik/inland/kai-wegner-wir-verlieren-polizei-und-feuerwehr-gerade-massiv-an-die-afd-6a8e8d55511d4fd3bc4e4189",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nvidia legt heute Zahlen vor - Schicksalsnacht an der Börse für Anleger",
-      "excerpt": "Nvidia-Zahlen entscheiden, ob der KI-Boom trägt oder Billionen wackeln.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nvidia-legt-heute-zahlen-vor-das-bedeutet-die-schicksalsnacht-an-der-boerse-fuer-anleger-6a8ea14f511d4fd3bc4e4348",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gefährliche Landtagswahlen - Der Wahlkrampf der SPD",
-      "excerpt": "Die Landes-SPD setzt auf Distanz zu Berlin und will die AfD so doch noch stoppen.",
-      "url": "https://www.bild.de/politik/inland/spd-im-wahlkampf-maximale-distanz-zu-berlin-6a8dc8f2511d4fd3bc4e3b0b",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker vor den Wahl-Krimis - Kommt jetzt der Reform-Sprint?",
-      "excerpt": "Merz kündigt schnelle Reformen an und droht den Drahtziehern des Drohnenangriffs.",
-      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-was-jetzt-im-wahlkampf-endspurt-passiert-6a8bed59c3692834ff6dab50",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Kabinettsklausur - Kanzler macht Basta-Ansage zur Rente mit 63!",
-      "excerpt": "Merz kündigt nach Kabinettsklausur Reformtempo bei Rente, Steuern und Digitales an.",
-      "url": "https://www.bild.de/politik/merz-macht-deutschland-mut-raus-aus-diesem-missmut-und-misstrauen-6a8eb720518a586e18558c06",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Prozess um Jugendschutz - Meta zahlt 14,3 Milliarden Euro an US-Staaten",
-      "excerpt": "Meta einigt sich im Streit um Kinderschutz auf milliardenschweren Vergleich.",
-      "url": "https://www.bild.de/politik/social-media-prozess-meta-und-us-staaten-einigen-sich-auf-vergleich-6a8ee45d198bb9fbdfaffca8",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Es geht um das Vermögen von Reichen - Ministerin Bas gibt brisante Studie in Auftrag",
-      "excerpt": "Studie soll Einstellungen zu Vermögensungleichheit und höherer Besteuerung klären.",
-      "url": "https://www.bild.de/politik/inland/arbeitsministerin-bas-gibt-studie-zu-vermoegen-und-reichtum-in-auftrag-6a8db4aec3692834ff6dc76d",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wirtschaft hellt sich auf - 3 Signale machen Hoffnung für Deutschland",
-      "excerpt": "Wirtschaft und Exporte ziehen wieder an, auch die Weltkonjunktur stabilisiert sich.",
-      "url": "https://www.bild.de/politik/wirtschaft-hellt-sich-auf-3-signale-machen-hoffnung-fuer-deutschland-6a8eb159692b2e9e3efcb55d",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "VW-Boss hält Hoffnungsrede in Emden - Blume: „Der Weg ist noch nicht zu Ende“",
-      "excerpt": "VW-Chef Blume verspricht bei Werksbesuch neue industrielle Perspektiven.",
-      "url": "https://www.bild.de/politik/inland/hoffnung-fuer-volkswagen-in-emden-chef-zeigt-perspektiven-fuer-werk-auf-6a8eb9a0198bb9fbdfaff828",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geldsegen für Finanzminister - Zuckersteuer bringt dem Staat vier Milliarden Euro",
-      "excerpt": "Zuckersteuer könnte Einnahmen verzehnfachen und Limo für Verbraucher stark verteuern.",
-      "url": "https://www.bild.de/politik/inland/zuckersteuer-bringt-dem-staat-vier-milliarden-euro-mehr-ein-6a8ea8c40a3e8cd36757c780",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "CIA-Direktor John Ratcliffe - Was macht Trumps Top-Agent in Moskau?",
       "excerpt": "Trumps CIA-Chef reist heimlich nach Moskau, um mit russischen Diensten zu sprechen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/cia-direktor-john-ratcliffe-was-macht-trumps-top-agent-in-moskau-6a8e7a1e0797e27ac1de032b",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
+      "publishedAt": "2026-08-26T16:59:32.198Z",
       "category": "POLITIK"
     },
     {
@@ -126,24 +14,312 @@
       "title": "Kein Sitz für die AfD - So würde die KI in Sachsen-Anhalt wählen",
       "excerpt": "Analyse zeigt: Viele KI-Modelle liegen klar näher bei Grünen, SPD und Linken.",
       "url": "https://www.bild.de/politik/inland/kein-sitz-fuer-die-afd-so-wuerde-die-ki-in-sachsen-anhalt-waehlen-6a8e9554511d4fd3bc4e421c",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
+      "publishedAt": "2026-08-26T16:59:32.198Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Rolle rückwärts - Klingbeil stoppt Zuckersteuer auf Cola Zero",
-      "excerpt": "Klingbeil kippt die Steuer auf zuckerfreie Limos, besteuert Zuckergetränke weiter.",
-      "url": "https://www.bild.de/politik/vorschlag-kam-aus-seinem-ministerium-klingbeil-stoppt-zuckersteuer-auf-cola-zero-6a8eaae4c3692834ff6dd19c",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
+      "title": "Live-Ticker vor den Wahl-Krimis - Kommt jetzt der Reform-Sprint?",
+      "excerpt": "Merz kündigt schnelle Reformen an und droht den Drahtziehern des Drohnenangriffs.",
+      "url": "https://www.bild.de/politik/inland/live-ticker-vor-den-landtagswahlen-was-jetzt-im-wahlkampf-endspurt-passiert-6a8bed59c3692834ff6dab50",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "USA sprechen von „Endphase“ - Gewinnt Trump den Iran-Krieg jetzt doch?",
-      "excerpt": "Einige Anzeichen sprechen dafür, dass die USA die Oberhand gegen die Mullahs gewinnen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-sprechen-von-endphase-gewinnt-trump-den-iran-krieg-jetzt-doch-6a8d58a7d8b561d618970f00",
-      "publishedAt": "2026-08-26T16:05:13.784Z",
+      "title": "Rassismus-Skandal an Uniklinik - Oberarzt gefeuert!",
+      "excerpt": "Rostocker Oberarzt hetzt im Netz mutmaßlich gegen Migranten, Klinik zieht Konsequenzen.",
+      "url": "https://www.bild.de/politik/inland/rassismus-an-klinik-oberarzt-will-migranten-verbrennen-und-erschiessen-6a8eb8c6692b2e9e3efcb6c1",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Prinz Harry und Meghan zurück in England - „Geldmangel auf hohem Niveau“",
+      "excerpt": "Harry und Meghan landen in Birmingham und schmieden neue Pläne für Großbritannien.",
+      "url": "https://www.bild.de/politik/prinz-harry-und-meghan-zurueck-in-england-geldmangel-auf-hohem-niveau-6a8efbda518a586e18559361",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Umfrage für Sachsen-Anhalt - AfD vorn, aber neue Hoffnung für Wackel-Parteien",
+      "excerpt": "Vor der Landtagswahl in Sachsen-Anhalt können zwei Parteien wieder Hoffnung schöpfen.",
+      "url": "https://www.bild.de/politik/inland/umfrage-sachsen-anhalt-afd-weit-vorn-aber-neue-hoffnung-fuer-zwei-andere-parteien-6a8ef27e198bb9fbdfaffe08",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "AFD-Wahlkampf in Sachsen-Anhalt - „Von hart rechts bis normal ist alles dabei“",
+      "excerpt": "Ein BILD-Reporter sieht sich in einer AFD-Hochburg in Sachsen-Anhalt um.",
+      "url": "https://www.bild.de/politik/afd-macht-wahlkampf-in-sachsen-anhalt-von-hart-rechts-bis-normal-ist-alles-dabei-6a8efa9b692b2e9e3efcbe46",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Das wollte der CIA-Chef bei der Geheim-Mission in Moskau - „Die Gefahr von Russland war seit dem Kalten Krieg noch nie so groß wie jetzt“",
+      "excerpt": "Was hinter dem kurzen Moskau-Besuch von CIA-Chef Ratcliffe stecken könnte.",
+      "url": "https://www.bild.de/politik/das-wollte-der-cia-chef-bei-der-geheim-mission-in-moskau-die-gefahr-von-russland-war-seit-dem-kalten-krieg-noch-nie-so-gross-wie-jetzt-6a8ee09e0030825e3e9ccf56",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geheimes Doppelleben - Pussy-Riot-Aktivistin spionierte für Putin",
+      "excerpt": "Rita Flores berichtet, wie der russische Geheimdienst sie zur Spitzelin machte.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/geheimes-doppelleben-aktivistin-von-pussy-riot-spionierte-fuer-putin-6a8ea5110797e27ac1de0615",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Beamte fühlen sich ungerecht behandelt - Kai Wegner fürchtet AfD-Schock",
+      "excerpt": "Nachzahlungen verärgern Beamte, Wegner (CDU) warnt vor Stimmenverlust an die AfD.",
+      "url": "https://www.bild.de/politik/inland/kai-wegner-wir-verlieren-polizei-und-feuerwehr-gerade-massiv-an-die-afd-6a8e8d55511d4fd3bc4e4189",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nvidia legt heute Zahlen vor - Schicksalsnacht an der Börse für Anleger",
+      "excerpt": "Nvidia-Zahlen entscheiden, ob der KI-Boom trägt oder Billionen wackeln.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nvidia-legt-heute-zahlen-vor-das-bedeutet-die-schicksalsnacht-an-der-boerse-fuer-anleger-6a8ea14f511d4fd3bc4e4348",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gefährliche Landtagswahlen - Der Wahlkrampf der SPD",
+      "excerpt": "Die Landes-SPD setzt auf Distanz zu Berlin und will die AfD so doch noch stoppen.",
+      "url": "https://www.bild.de/politik/inland/spd-im-wahlkampf-maximale-distanz-zu-berlin-6a8dc8f2511d4fd3bc4e3b0b",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Kabinettsklausur - Kanzler macht Basta-Ansage zur Rente mit 63!",
+      "excerpt": "Merz kündigt nach Kabinettsklausur Reformtempo bei Rente, Steuern und Digitales an.",
+      "url": "https://www.bild.de/politik/merz-macht-deutschland-mut-raus-aus-diesem-missmut-und-misstrauen-6a8eb720518a586e18558c06",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Prozess um Jugendschutz - Meta zahlt 14,3 Milliarden Euro an US-Staaten",
+      "excerpt": "Meta einigt sich im Streit um Kinderschutz auf milliardenschweren Vergleich.",
+      "url": "https://www.bild.de/politik/social-media-prozess-meta-und-us-staaten-einigen-sich-auf-vergleich-6a8ee45d198bb9fbdfaffca8",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Es geht um das Vermögen von Reichen - Ministerin Bas gibt brisante Studie in Auftrag",
+      "excerpt": "Studie soll Einstellungen zu Vermögensungleichheit und höherer Besteuerung klären.",
+      "url": "https://www.bild.de/politik/inland/arbeitsministerin-bas-gibt-studie-zu-vermoegen-und-reichtum-in-auftrag-6a8db4aec3692834ff6dc76d",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wirtschaft hellt sich auf - 3 Signale machen Hoffnung für Deutschland",
+      "excerpt": "Wirtschaft und Exporte ziehen wieder an, auch die Weltkonjunktur stabilisiert sich.",
+      "url": "https://www.bild.de/politik/wirtschaft-hellt-sich-auf-3-signale-machen-hoffnung-fuer-deutschland-6a8eb159692b2e9e3efcb55d",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "VW-Boss hält Hoffnungsrede in Emden - Blume: „Der Weg ist noch nicht zu Ende“",
+      "excerpt": "VW-Chef Blume verspricht bei Werksbesuch neue industrielle Perspektiven.",
+      "url": "https://www.bild.de/politik/inland/hoffnung-fuer-volkswagen-in-emden-chef-zeigt-perspektiven-fuer-werk-auf-6a8eb9a0198bb9fbdfaff828",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geldsegen für Finanzminister - Zuckersteuer bringt dem Staat vier Milliarden Euro",
+      "excerpt": "Zuckersteuer könnte Einnahmen verzehnfachen und Limo für Verbraucher stark verteuern.",
+      "url": "https://www.bild.de/politik/inland/zuckersteuer-bringt-dem-staat-vier-milliarden-euro-mehr-ein-6a8ea8c40a3e8cd36757c780",
+      "publishedAt": "2026-08-26T16:59:32.197Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Migrantenstreik in Sachsen-Anhalt: Land ohne Läden als Warnung gegen die AfD",
+      "excerpt": "Beim „Migrantenstreik“ bleiben an die 160 Läden in Magdeburg geschlossen. Die Geschäftsleute wollen auf die Gefahr durch die AfD aufmerksam machen. mehr...",
+      "url": "https://taz.de/Migrantenstreik-in-Sachsen-Anhalt/!6207343/",
+      "publishedAt": "2026-08-26T16:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Flughafen-Malaria\" - Zwei Mitarbeiter sterben nach Malaria-Infektion am Frankfurter Flughafen",
+      "excerpt": "Zwei Beschäftigte des Frankfurter Flughafens sind an einer Malaria-Erkrankung gestorben.",
+      "url": "https://www.deutschlandfunk.de/zwei-mitarbeiter-sterben-nach-malaria-infektion-am-frankfurter-flughafen-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Social Media Sucht in den USA - Meta stimmt täglichen Zeitlimits für Jugendliche zu",
+      "excerpt": "Meta hat im Streit über die Gefahren sozialer Medien ‌für Kinder ⁠und Jugendliche ⁠mit zahlreichen US-Bundesstaaten einen Vergleich geschlossen. Wie aus Gerichtsunterlagen hervorgeht, verpflichtet sich Meta zu Änderungen",
+      "url": "https://www.deutschlandfunk.de/meta-stimmt-taeglichen-zeitlimits-fuer-jugendliche-zu-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Automobilkrise - VW-Chef Blume würdigt bei Betriebsversammlung Sparanstrengungen am Standort Zwickau",
+      "excerpt": "VW-Vorstandschef Blume hat bei einer Betriebsversammlung am Standort Zwickau die bisherigen Anstrengungen der Beschäftigten zur Kostensenkung gewürdigt.",
+      "url": "https://www.deutschlandfunk.de/vw-chef-blume-wuerdigt-bei-betriebsversammlung-sparanstrengungen-am-standort-zwickau-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Protestaktion - Migranten schließen in Magdeburg ihre Läden vor Wahl in Sachsen-Anhalt",
+      "excerpt": "Aus Protest gegen die AfD haben in Magdeburg Geschäftsinhaber mit Migrationshintergrund ihre Läden für einige Stunden geschlossen. Die Aktion sollte auf die in anderthalb Wochen anstehende Landtagswahl in Sachsen-Anhalt ",
+      "url": "https://www.deutschlandfunk.de/migranten-schliessen-in-magdeburg-ihre-laeden-vor-wahl-in-sachsen-anhalt-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Kanada stellt sich auf zwei Jahre Zollstreit mit USA ein",
+      "excerpt": "Im Handelsstreit mit den USA rechnet Kanada nicht mit einer schnellen Beilegung des Konflikts.",
+      "url": "https://www.deutschlandfunk.de/kanada-stellt-sich-auf-zwei-jahre-zollstreit-mit-usa-ein-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sturzflut - Zahl der Toten in Nepal steigt auf 95 - Zahlreiche Menschen vermisst",
+      "excerpt": "Nach der Sturzflut in Nepal ist die Zahl der Toten auf mindestens 95 gestiegen. Das teilte die örtliche Polizei mit. Etwa 400 Menschen gelten als vermisst, darunter auch zahlreiche Touristen, unter anderem aus Deutschlan",
+      "url": "https://www.deutschlandfunk.de/zahl-der-toten-in-nepal-steigt-auf-95-zahlreiche-menschen-vermisst-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Vorwürfen aus Zeit als DDR-Grenzoffizier - Stellvertretender GdP-Vorsitzender Hüber tritt zurück",
+      "excerpt": "Der stellvertretende Vorsitzende der Gewerkschaft der Polizei, Hüber, ist zurückgetreten.",
+      "url": "https://www.deutschlandfunk.de/stellvertretender-gdp-vorsitzender-hueber-tritt-zurueck-108.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsklausur - Kanzler Merz will an Abschaffung von \"Rente mit 63\" festhalten",
+      "excerpt": "Bundeskanzler Merz hat Forderungen auch aus der eigenen Partei nach einer Beibehaltung der abschlagsfreien Rente nach 45 Beitragsjahren zurückgewiesen. Merz sagte nach der Kabinettsklausur in Brandenburg, die Koalition h",
+      "url": "https://www.deutschlandfunk.de/kanzler-merz-will-an-abschaffung-von-rente-mit-63-festhalten-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheitsschutz - Finanzminister Klingbeil schließt Zuckersteuer auf Getränke mit Süßstoff aus",
+      "excerpt": "Finanzminister Klingbeil hat eine Ausdehnung der geplanten Zuckersteuer auf Getränke mit Süßstoff ausgeschlossen. Klingbeil erklärte in einem Instagram-Beitrag, eine solche Regelung ergebe keinen Sinn und werde nicht kom",
+      "url": "https://www.deutschlandfunk.de/finanzminister-klingbeil-schliesst-zuckersteuer-auf-getraenke-mit-suessstoff-aus-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Frage an Selenskyj - Russland fahndet international nach deutschem F.A.Z.-Journalisten",
+      "excerpt": "Russland hat einen Journalisten der Frankfurter Allgemeinen Zeitung international zur Fahndung ausschreiben lassen.",
+      "url": "https://www.deutschlandfunk.de/russland-fahndet-international-nach-deutschem-f-a-z-journalisten-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Streit um FIFA-Chef Infantino - UEFA zieht Boykott-Drohung für FIFA-Turniere offenbar zurück",
+      "excerpt": "Die Europäische Fußball-Verband UEFA hält seine Boykott-Drohung gegen Turniere des Weltverbands FIFA offenbar nicht mehr aufrecht.",
+      "url": "https://www.deutschlandfunk.de/uefa-zieht-boykott-drohung-fuer-fifa-turniere-offenbar-zurueck-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Rocky Horror Picture Show\" - Britischer Schauspieler Tim Curry gestorben",
+      "excerpt": "Der britische Schauspieler und Sänger Tim Curry ist im Alter von 80 Jahren gestorben.",
+      "url": "https://www.deutschlandfunk.de/britischer-schauspieler-tim-curry-gestorben-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hitzeschutz-Debatte - Grüne Umweltminister sprechen sich für Klimaanpassung als Gemeinschaftsaufgabe aus",
+      "excerpt": "Umweltminister aus sechs Bundesländern haben sich in einem Brief an das Kabinett dafür ausgesprochen, Klimaanpassung als Gemeinschaftsaufgabe im Grundgesetz aufzunehmen. Alle Unterzeichner sind Mitglieder der Grünen.",
+      "url": "https://www.deutschlandfunk.de/gruene-umweltminister-sprechen-sich-fuer-klimaanpassung-als-gemeinschaftsaufgabe-aus-104.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Helmut Kohl als \"Birne\" - Karikaturist Hans Traxler gestorben",
+      "excerpt": "Der Zeichner, Maler und Autor Hans Traxler ist tot.",
+      "url": "https://www.deutschlandfunk.de/karikaturist-hans-traxler-gestorben-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russischer Angriffskrieg - Russland und Ukraine tauschen jeweils zehn Kriegsgefangene aus - Angriffe auf russische Infrastruktur",
+      "excerpt": "Russland und die Ukraine haben jeweils zehn Kriegsgefangene ausgetauscht.",
+      "url": "https://www.deutschlandfunk.de/russland-und-ukraine-tauschen-jeweils-zehn-kriegsgefangene-aus-angriffe-auf-russische-infrastruktur-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Bau-Monitor\" - 85.000 Wohnungen weniger gebaut – Studie sieht Milliardenverluste für den Staat",
+      "excerpt": "Der Einbruch im Wohnungsbau bremst das Wirtschaftswachstum in Deutschland und kostet den Staat Milliarden.",
+      "url": "https://www.deutschlandfunk.de/85-000-wohnungen-weniger-gebaut-studie-sieht-milliardenverluste-fuer-den-staat-102.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Interpol - \"Liebesbetrug\": Schlag gegen internationale Netzwerke",
+      "excerpt": "Internationalen Ermittlern ist ein Schlag gegen kriminelle Netzwerke gelungen, die durch sogenannten Liebesbetrug Millionenbeträge erbeutet haben sollen.",
+      "url": "https://www.deutschlandfunk.de/liebesbetrug-schlag-gegen-internationale-netzwerke-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bitkom-Studie - Jeder dritte Cyber-Angriff auf Firmen in Deutschland geht auf Geheimdienste zurück",
+      "excerpt": "Die deutsche Wirtschaft gerät bei Cyberangriffen immer stärker ins Visier ausländischer Geheimdienste.",
+      "url": "https://www.deutschlandfunk.de/jeder-dritte-cyber-angriff-auf-firmen-in-deutschland-geht-auf-geheimdienste-zurueck-100.html",
+      "publishedAt": "2026-08-26T16:26:37.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Landtagswahl in Sachsen-Anhalt: AfD baut Vorsprung aus, auch SPD und Grüne legen laut Umfrage zu",
+      "excerpt": "In einer neuen Wahlumfrage von Infratest dimap kommt die AfD in Sachsen-Anhalt auf 42 Prozent. Doch auch andere Parteien gewinnen dazu. Eine AfD-Alleinregierung wäre bei einem solchen Szenario nicht möglich.",
+      "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss",
+      "publishedAt": "2026-08-26T16:22:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Kabinettsklausur, Ungarns Haltung zu Russland, Streik gegen die AfD",
+      "excerpt": "Nach der Kabinettsklausur wirbt Bundeskanzler Merz für ein Ende der »Verdrießlichkeit«. Ungarn stuft Russland als Bedrohung ein. Und in Sachsen-Anhalt streiken Migranten gegen die AfD. Das ist die Lage am Mittwochabend.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss",
+      "publishedAt": "2026-08-26T16:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "excerpt": "Kurz vor der Wahl in Sachsen-Anhalt führt die AfD die Umfragen klar an. Parteienforscher Höhne sieht darin keinen ostdeutschen Sonderfall, benennt aber eine historische Spur und ein Szenario für den Fall der Regierungsüb",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
+      "publishedAt": "2026-08-26T16:07:35.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -152,150 +328,6 @@
       "url": "https://taz.de/Diversitaet-im-Profifussball-Zwischen-Fortschritt-und-Traegheit-in-den-Fuehrungsetagen/!6207279/",
       "publishedAt": "2026-08-26T16:01:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Streit um FIFA-Chef Infantino - UEFA zieht Boykott-Drohung für FIFA-Turniere offenbar zurück",
-      "excerpt": "Die Europäische Fußball-Verband UEFA hält seine Boykott-Drohung gegen Turniere des Weltverbands FIFA offenbar nicht mehr aufrecht.",
-      "url": "https://www.deutschlandfunk.de/uefa-zieht-boykott-drohung-fuer-fifa-turniere-offenbar-zurueck-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Flughafen-Malaria\" - Zwei Mitarbeiter sterben nach Malaria-Infektion am Frankfurter Flughafen",
-      "excerpt": "Zwei Beschäftigte des Frankfurter Flughafens sind an einer Malaria-Erkrankung gestorben.",
-      "url": "https://www.deutschlandfunk.de/zwei-mitarbeiter-sterben-nach-malaria-infektion-am-frankfurter-flughafen-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Social Media Sucht in den USA - Meta stimmt täglichen Zeitlimits für Jugendliche zu",
-      "excerpt": "Meta hat im Streit über die Gefahren sozialer Medien ‌für Kinder ⁠und Jugendliche ⁠mit zahlreichen US-Bundesstaaten einen Vergleich geschlossen. Wie aus Gerichtsunterlagen hervorgeht, verpflichtet sich Meta zu Änderungen",
-      "url": "https://www.deutschlandfunk.de/meta-stimmt-taeglichen-zeitlimits-fuer-jugendliche-zu-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Protestaktion - Migranten schließen in Magdeburg ihre Läden vor Wahl in Sachsen-Anhalt",
-      "excerpt": "Aus Protest gegen die AfD haben in Magdeburg Geschäftsinhaber mit Migrationshintergrund ihre Läden für einige Stunden geschlossen. Die Aktion sollte auf die in anderthalb Wochen anstehende Landtagswahl in Sachsen-Anhalt ",
-      "url": "https://www.deutschlandfunk.de/migranten-schliessen-in-magdeburg-ihre-laeden-vor-wahl-in-sachsen-anhalt-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Kanada stellt sich auf zwei Jahre Zollstreit mit USA ein",
-      "excerpt": "Im Handelsstreit mit den USA rechnet Kanada nicht mit einer schnellen Beilegung des Konflikts.",
-      "url": "https://www.deutschlandfunk.de/kanada-stellt-sich-auf-zwei-jahre-zollstreit-mit-usa-ein-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sturzflut - Zahl der Toten in Nepal steigt auf 95 - Zahlreiche Menschen vermisst",
-      "excerpt": "Nach der Sturzflut in Nepal ist die Zahl der Toten auf mindestens 95 gestiegen. Das teilte die örtliche Polizei mit. Etwa 400 Menschen gelten als vermisst, darunter auch zahlreiche Touristen, unter anderem aus Deutschlan",
-      "url": "https://www.deutschlandfunk.de/zahl-der-toten-in-nepal-steigt-auf-95-zahlreiche-menschen-vermisst-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Vorwürfen aus Zeit als DDR-Grenzoffizier - Stellvertretender GdP-Vorsitzender Hüber tritt zurück",
-      "excerpt": "Der stellvertretende Vorsitzende der Gewerkschaft der Polizei, Hüber, ist zurückgetreten.",
-      "url": "https://www.deutschlandfunk.de/stellvertretender-gdp-vorsitzender-hueber-tritt-zurueck-108.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Rocky Horror Picture Show\" - Britischer Schauspieler Tim Curry gestorben",
-      "excerpt": "Der britische Schauspieler und Sänger Tim Curry ist tot.",
-      "url": "https://www.deutschlandfunk.de/britischer-schauspieler-tim-curry-gestorben-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsklausur - Kanzler Merz will an Abschaffung von \"Rente mit 63\" festhalten",
-      "excerpt": "Bundeskanzler Merz hat Forderungen auch aus der eigenen Partei nach einer Beibehaltung der abschlagsfreien Rente nach 45 Beitragsjahren zurückgewiesen. Merz sagte nach der Kabinettsklausur in Brandenburg, die Koalition h",
-      "url": "https://www.deutschlandfunk.de/kanzler-merz-will-an-abschaffung-von-rente-mit-63-festhalten-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheitsschutz - Finanzminister Klingbeil schließt Zuckersteuer auf Getränke mit Süßstoff aus",
-      "excerpt": "Finanzminister Klingbeil hat eine Ausdehnung der geplanten Zuckersteuer auf Getränke mit Süßstoff ausgeschlossen. Klingbeil erklärte in einem Instagram-Beitrag, eine solche Regelung ergebe keinen Sinn und werde nicht kom",
-      "url": "https://www.deutschlandfunk.de/finanzminister-klingbeil-schliesst-zuckersteuer-auf-getraenke-mit-suessstoff-aus-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Frage an Selenskyj - Russland fahndet international nach deutschem F.A.Z.-Journalisten",
-      "excerpt": "Russland hat einen Journalisten der Frankfurter Allgemeinen Zeitung international zur Fahndung ausschreiben lassen.",
-      "url": "https://www.deutschlandfunk.de/russland-fahndet-international-nach-deutschem-f-a-z-journalisten-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hitzeschutz-Debatte - Grüne Umweltminister sprechen sich für Klimaanpassung als Gemeinschaftsaufgabe aus",
-      "excerpt": "Umweltminister aus sechs Bundesländern haben sich in einem Brief an das Kabinett dafür ausgesprochen, Klimaanpassung als Gemeinschaftsaufgabe im Grundgesetz aufzunehmen. Alle Unterzeichner sind Mitglieder der Grünen.",
-      "url": "https://www.deutschlandfunk.de/gruene-umweltminister-sprechen-sich-fuer-klimaanpassung-als-gemeinschaftsaufgabe-aus-104.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Helmut Kohl als \"Birne\" - Karikaturist Hans Traxler gestorben",
-      "excerpt": "Der Zeichner, Maler und Autor Hans Traxler ist tot.",
-      "url": "https://www.deutschlandfunk.de/karikaturist-hans-traxler-gestorben-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russischer Angriffskrieg - Russland und Ukraine tauschen jeweils zehn Kriegsgefangene aus - Angriffe auf russische Infrastruktur",
-      "excerpt": "Russland und die Ukraine haben jeweils zehn Kriegsgefangene ausgetauscht.",
-      "url": "https://www.deutschlandfunk.de/russland-und-ukraine-tauschen-jeweils-zehn-kriegsgefangene-aus-angriffe-auf-russische-infrastruktur-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Bau-Monitor\" - 85.000 Wohnungen weniger gebaut – Studie sieht Milliardenverluste für den Staat",
-      "excerpt": "Der Einbruch im Wohnungsbau bremst das Wirtschaftswachstum in Deutschland und kostet den Staat Milliarden.",
-      "url": "https://www.deutschlandfunk.de/85-000-wohnungen-weniger-gebaut-studie-sieht-milliardenverluste-fuer-den-staat-102.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Interpol - \"Liebesbetrug\": Schlag gegen internationale Netzwerke",
-      "excerpt": "Internationalen Ermittlern ist ein Schlag gegen kriminelle Netzwerke gelungen, die durch sogenannten Liebesbetrug Millionenbeträge erbeutet haben sollen.",
-      "url": "https://www.deutschlandfunk.de/liebesbetrug-schlag-gegen-internationale-netzwerke-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bitkom-Studie - Jeder dritte Cyber-Angriff auf Firmen in Deutschland geht auf Geheimdienste zurück",
-      "excerpt": "Die deutsche Wirtschaft gerät bei Cyberangriffen immer stärker ins Visier ausländischer Geheimdienste.",
-      "url": "https://www.deutschlandfunk.de/jeder-dritte-cyber-angriff-auf-firmen-in-deutschland-geht-auf-geheimdienste-zurueck-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Datenschutz - Schufa droht Sammelklage wegen umfangreicher Datenspeicherung",
-      "excerpt": "Der Wirtschaftsauskunftei Schufa droht im Streit um die sogenannte Schattendatenbank ein Rechtsstreit. Die europäische Datenschutzorganisation NOYB in Wien mahnte das Unternehmen formell ab und gab die Vorbereitung einer",
-      "url": "https://www.deutschlandfunk.de/schufa-droht-sammelklage-wegen-umfangreicher-datenspeicherung-100.html",
-      "publishedAt": "2026-08-26T16:00:43.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAZ.DE",
@@ -338,6 +370,14 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Bei der Kabinettsklausur gibt der Kanzler den Motivationsguru",
+      "excerpt": "Kanzler Merz verbreitet bei der Kabinettsklausur in Neuhardenberg Optimismus, er sieht das Land in der Wirtschaftswende. Für das kommende Jahr kündigt er deutliches Wachstum an. Weckt er wieder einmal zu große Erwartunge",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-kabinettsklausur-gibt-der-kanzler-den-motivationsguru-a-67fbc925-227b-4589-a6f4-1ee3ee77e9cb#ref=rss",
+      "publishedAt": "2026-08-26T15:31:00.000Z",
+      "category": "POLITIK"
+    },
+    {
       "source": "TAZ.DE",
       "title": "Streit um Steuergerechtigkeit: Mehr Erbschaftsteuer, aber auch mehr Ausnahmen",
       "excerpt": "Die Einnahmen des Staates durch Erbschaften wuchsen 2025 um 60 Prozent. Wer eine Firma erbt, kommt aber oft erstaunlich günstig weg. mehr...",
@@ -355,18 +395,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Koalitionsstreit um Zuckersteuer: Klingbeil kassiert Steuer für zuckerfreie Getränke",
+      "title": "Streit um Zuckersteuer: Klingbeil kassiert Steuer für zuckerfreie Getränke",
       "excerpt": "Nach Kritik von allen Seiten ruft der Finanzminister die Abgabe auf Light-Getränke zurück. Ver­brau­cher­schüt­ze­r:in­nen fordern Zuckersteuer. mehr...",
-      "url": "https://taz.de/Koalitionsstreit-um-Zuckersteuer/!6207265/",
+      "url": "https://taz.de/Nach-Kritik-von-allen-Sieten-Klingbeil-nimmt-Steuer-fuer-zuckerfreie-Getraenke-zurueck/!6207265/",
       "publishedAt": "2026-08-26T14:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wohnungsbau und Migration: Wohnungsnot bedroht die Wirtschaft",
-      "excerpt": "Ohne Neubau fehlt Platz für Migrant:innen. So wird der Wohnungsmangel laut einer Branchen-Studie zu einem doppelten Negativfaktor für die Konjunktur. mehr...",
-      "url": "https://taz.de/Wohnungsbau-und-Migration/!6207347/",
-      "publishedAt": "2026-08-26T14:29:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -388,7 +420,7 @@
     {
       "source": "TAZ.DE",
       "title": "Katastrophe im Himalaya: Hunderte Touristen nach Sturzflut in Nepal vermisst",
-      "excerpt": "Unter den bisher 384 Vermissten im Grenzgebiet zu Tibet sind auch viele Ausländer. Bisher wurden im Katastrophengebiet 22 Tote geborgen. mehr...",
+      "excerpt": "Unter den bisher 384 Vermissten im Grenzgebiet zu Tibet sind auch viele Ausländer. Bisher wurden im Katastrophengebiet 95 Tote geborgen. mehr...",
       "url": "https://taz.de/Katastrophe-im-Himalaya/!6207407/",
       "publishedAt": "2026-08-26T13:39:00.000Z",
       "category": "POLITIK"
@@ -666,36 +698,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "AfD in Sachsen-Anhalt: Ulrich Siegmund und sein Streamer-Problem",
-      "excerpt": "Ein selbst ernannter »Gonzojournalist« begleitet die AfD, tritt aggressiv auf und war auch am Sturm auf den Reichstag 2020 in Berlin beteiligt. Was verbindet ihn mit Ulrich Siegmund?",
-      "url": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss",
-      "publishedAt": "2026-08-25T16:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
       "excerpt": "Improvisiertes Napalm und ein handschriftlicher Plan: In der Slowakei haben Ermittler nach eigenen Angaben einen Anschlag auf eine Drohnenfabrik verhindert. Drei Männer wurden festgenommen - einer von ihnen in Deutschlan",
       "url": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
       "publishedAt": "2026-08-25T15:42:47.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News des Tages: Volkswagen, Oliver Blume, Zuckersteuer, ChatGPT",
-      "excerpt": "Der VW-Vorstand schwört die Belegschaft auf düstere Zeiten ein. Lars Klingbeil will auch alkoholfreie Biergetränke mit der Zuckersteuer belegen. Und OpenAI stoppt eine russlandfreundliche KI-Operation. Das ist die Lage a",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss",
-      "publishedAt": "2026-08-25T15:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "CDU: Dennis Radtke wehrt sich gegen rechten Shitstorm nach Migrationsaussagen",
-      "excerpt": "Aussagen des CDU-Europaabgeordneten Dennis Radtke zur Migration im ZDF lösen in den sozialen Medien heftige Reaktionen von rechts aus. Was hat er daraus gelernt?",
-      "url": "https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss",
-      "publishedAt": "2026-08-25T14:18:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
@@ -999,14 +1007,6 @@
       "excerpt": "In Sachsen-Anhalt hat die SPD vor der Landtagswahl einen schweren Stand. Auch für Parteichef Klingbeil steht bei der Wahl viel auf dem Spiel. Beim Wahlkampf vor Ort spürt er die Unzufriedenheit. Von Nicole Kohnert.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-sachsen-anhalt-100.html",
       "publishedAt": "2026-08-21T03:31:37.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
-      "excerpt": "Mindestens 14.000 Menschen sind in diesem Jahr hitzebedingt zu Tode gekommen - mehr als in jedem einzelnen Gesamtjahr zuvor. Prävention hätte helfen können. Wie reagiert die Politik? Von Isabell Karras.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
-      "publishedAt": "2026-08-20T15:12:43.000Z",
       "category": "INNENPOLITIK"
     },
     {
