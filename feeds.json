@@ -1,60 +1,44 @@
 {
-  "updatedAt": "2026-08-29T10:25:49.569Z",
+  "updatedAt": "2026-08-29T15:19:49.392Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Jeder kennt dieses Spielzeug - Neue Hoffnung für gefährdete Kult-Firma",
-      "excerpt": "Gläubiger wollen Spielzeugfirma übernehmen und Schulden in Firmenanteile tauschen.",
-      "url": "https://www.bild.de/politik/jeder-kennt-dieses-spielzeug-neue-hoffnung-fuer-gefaehrdete-kult-firma-6a901a0a8a7786c19f335f64",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ronzheimer unterwegs in Sachsen-Anhalt - So einen Wahlkampf habe ich noch nie erlebt",
-      "excerpt": "Vor der Wahl in Sachsen-Anhalt wächst der AfD-Zuspruch – und die Angst vor ihr.",
-      "url": "https://www.bild.de/politik/inland/eine-woche-vor-der-wahl-jetzt-reicht-es-uns-6a928980518a586e1855c2f5",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Paul Ronzheimer zur anstehenden Wahl in Sachsen-Anhalt - Das war meine AfD-Überraschung",
-      "excerpt": "Ronzheimer schildert im Gespräch seine Eindrücke vor der Wahl in Sachsen-Anhalt.",
-      "url": "https://www.bild.de/politik/paul-ronzheimer-zur-anstehenden-wahl-in-sachsen-anhalt-das-war-meine-afd-ueberraschung-6a921e11d88567044d848b13",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geheimdienst-Angriffe aus Russland - „Die deutsche Wirtschaft ist unter Dauerfeuer“",
-      "excerpt": "Geheimdienste aus Russland und China schaden der deutschen Wirtschaft massiv.",
-      "url": "https://www.bild.de/politik/geheimdienst-angriffe-aus-russland-die-deutsche-wirtschaft-ist-unter-dauerfeuer-6a90189e0c649aabd971582a",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Das mächtigste Versprechen der Nato - Greift Putin an, muss uns dieser Paragraf retten",
-      "excerpt": "Im Gründungsdokument der Nato ist ein Artikel enthalten, der Gegner abschrecken soll.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/das-maechtigste-versprechen-der-nato-was-bedeutet-artikel-5-6a918d50518a586e1855b908",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Präsident verkündet Giga-Deal - Trump kauft 10.335.000.000.000 Liter Öl",
       "excerpt": "Trump verkündet Mega-Öl-Deal mit Venezuela und verspricht deutlich billigeren Sprit.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-kauft-10-335-000-000-000-liter-oel-6a921359518a586e1855bfb4",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "publishedAt": "2026-08-29T15:19:49.046Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Zweites Treffen nach TV-Streit - Wut-Ärztin: „Der Kanzler lachte mich aus“",
-      "excerpt": "Nach der RTL-Sendung gerieten sie und der saure Kanzler nochmal aneinander!",
-      "url": "https://www.bild.de/politik/inland/wut-aerztin-was-nach-dem-tv-zoff-mit-merz-noch-passierte-6a91cbeb9f41cbf61146cf4b",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Die Auto-Lüge der EU - Wissenschaftler weisen gefährliche Strategie nach",
+      "excerpt": "TUM-Studie zeigt: E-Autos sind nicht klimaneutral, EU-Strategie greift zu kurz.",
+      "url": "https://www.bild.de/politik/inland/wissenschaftler-weisen-gefaehrliche-strategie-der-eu-nach-e-autos-sind-nicht-co2-frei-6a92e96527cdbc5135d06f05",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trotz 3 Millionen Arbeitslosen - Diese Jobs warten auf Sie!",
+      "excerpt": "Trotz hoher Arbeitslosigkeit bieten viele Branchen Quereinsteigern gute Jobchancen.",
+      "url": "https://www.bild.de/politik/inland/jobs-mit-schnellem-einstieg-verkauf-logistik-bau-6a8d64c1d8b561d618971116",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kubicki tippt die Wahl - „Wir liegen bei 5 bis 6 Prozent“",
+      "excerpt": "Trotz schlechter Umfragen zeigt sich FDP-Chef Kubicki in Sachsen-Anhalt kämpferisch.",
+      "url": "https://www.bild.de/politik/inland/kubicki-tippt-die-wahl-wir-liegen-bei-5-bis-6-prozent-trotz-umfragetief-6a919589518a586e1855b9dc",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Raketen, Tod, Zerstörung! Russen greifen Kiew an",
+      "excerpt": "Ukrainische Medien berichten bereits von mindestens einem Dutzend Toten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
@@ -62,103 +46,215 @@
       "title": "AfD-Ministerliste für Sachsen-Anhalt - Siegmunds Männer für die Macht",
       "excerpt": "Ein Männernetzwerk der AfD bereitet in Sachsen-Anhalt die Regierungsübernahme vor.",
       "url": "https://www.bild.de/politik/inland/afd-sachsen-anhalt-die-pokerrunde-hinter-dem-machtwechsel-6a8acada754ef96576a7318a",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Spitzenkandidat macht Muslime wütend - Foto-Eklat in Neuköllner Skandal-Moschee!",
-      "excerpt": "Eklat bei der Islam-Gesprächsrunde der Spitzenkandidaten für die Berlin-Wahl!",
-      "url": "https://www.bild.de/politik/inland/nur-ein-kandidat-wollte-ueber-terror-reden-islamismus-zoff-bei-moschee-gespraech-6a8e97db0a3e8cd36757c59d",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Liebe Isländer, hier sind … - Fünf Gründe, warum ihr heute „Já“ sagen solltet",
+      "excerpt": "Island stimmt über EU-Beitrittsgespräche ab. Ihr wärt sehr willkommen bei uns!",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/liebe-islaender-hier-sind-fuenf-gruende-warum-ihr-heute-ja-sagen-solltet-6a927e6c27cdbc5135d069b1",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Trotz Koalitions-Plan - Bas rückt von Attestpflicht ab Tag 1 ab",
-      "excerpt": "Arbeitsministerin Bas stellt die neue Attestpflicht ab dem ersten Krankheitstag infrage.",
-      "url": "https://www.bild.de/politik/inland/bas-rueckt-von-attestpflicht-ab-tag-1-ab-6a9213ed518a586e1855bfb8",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "10-Millionen-Kopfgeld auf Trump-Sohn! - Barron lebt im Sicherheits-Kokon",
+      "excerpt": "Drohungen und Kopfgeld zwingen Barron Trump zu einem Leben hinter Panzerglas.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/10-millionen-kopfgeld-auf-trump-sohn-barron-lebt-im-sicherheitskokon-6a929f39d88567044d848fb4",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Nach Ansturm auf Exklave - EU soll Spanien bei Ceuta-Asylanträgen helfen",
-      "excerpt": "Spanien bittet EU-Behörden nach Migranten-Ansturm in Ceuta um Asylhilfe.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ceuta-eu-soll-spanien-bei-asylantraegen-helfen-6a9201b5518a586e1855bf55",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Nach Drohnen-Attacke in Leipzig - Regierung bereitet Maßnahmen gegen Russland vor",
+      "excerpt": "Die Regierung plant neue Schritte, um härter gegen Russland vorzugehen.",
+      "url": "https://www.bild.de/politik/nach-drohnen-attacke-in-leipzig-regierung-bereitet-umfangreiche-massnahmen-gegen-russland-vor-6a92c045d88567044d8491f3",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Höchster je gemessener Vorsprung - AfD jetzt 9 Prozentpunkte vor der Union",
+      "excerpt": "Die AfD baut den Vorsprung vor der Union aus, eine Koalitionsbildung würde schwieriger.",
+      "url": "https://www.bild.de/politik/inland/hoechster-je-gemessener-vorsprung-afd-haengt-die-union-immer-weiter-ab-6a919cdf2ed18bbd042e764e",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Extremisten in Behörden - Stimmt es, dass Polizisten oft AfD‑Anhänger sind?",
-      "excerpt": "Berlin – Immer wieder kursiert das Gerücht, dass bei der Polizei der Anteil an AfD-Anhängern überdurchschnittlich hoch ist. Berlins ...",
-      "url": "https://www.bild.de/politik/inland/extremisten-in-behoerden-stimmt-es-dass-polizisten-oft-afdanhaenger-sind-6a8fffc414f40f555e0a34db",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Kein Bier mehr von der Tanke? - SPD will Alkohol-Verkauf in der Nacht verbieten",
+      "excerpt": "Im Kampf gegen Alkoholmissbrauch fordern Politiker ein nächtliches Verkaufsverbot.",
+      "url": "https://www.bild.de/politik/inland/kein-bier-mehr-von-der-tanke-spd-will-alkohol-verkauf-in-der-nacht-verbieten-6a916453d88567044d847e56",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Amerikas neue Weltraum-Helden - Trump ehrt Artemis-II-Crew",
-      "excerpt": "Nach ihrem historischen Rekordflug um den Mond zeichnet Präsident Donald Trump die vier Artemis-II-Astronauten mit der höchsten US-R...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/amerikas-neue-weltraum-helden-trump-ehrt-artemis-ii-crew-6a91aacd2ed18bbd042e7795",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Paul Ronzheimer zur Wahl in Sachsen-Anhalt - Das war meine AfD-Überraschung",
+      "excerpt": "Ronzheimer schildert im Gespräch seine Eindrücke vor der Wahl in Sachsen-Anhalt.",
+      "url": "https://www.bild.de/politik/paul-ronzheimer-zur-anstehenden-wahl-in-sachsen-anhalt-das-war-meine-afd-ueberraschung-6a921e11d88567044d848b13",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kommentar - Herbst der Wahrheit für Kanzler Merz",
-      "excerpt": "Merz setzt im Reform-Herbst alles aufs Spiel, doch Bürger wollen Taten beim Geld",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-herbst-der-wahrheit-fuer-kanzler-friedrich-merz-6a91a923518a586e1855bb6d",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Es geht um ihren Ehemann - Neonazi-Ärger für Grünen-Spitzenkandidatin",
+      "excerpt": "Grünen-Politikerin muss die Neonazi-Vergangenheit ihres Ehemanns erklären.",
+      "url": "https://www.bild.de/politik/inland/es-geht-um-ihren-ehemann-neonazi-aerger-fuer-gruenen-spitzenkandidatin-6a92ac224ef9cff73678b33a",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "EU-Beitritt spaltet Land - Historisches Referendum in Island",
-      "excerpt": "Die Insel-Nation stimmt darüber ab, ob die Gespräche über einen EU-Beitritt wieder aufgenommen werden sollen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-beitritt-spaltet-land-historisches-referendum-in-island-6a91f24e518a586e1855bec4",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Auch Seniorenheim getroffen - Russen jagen Munitionslager in die Luft – 37 Tote",
+      "excerpt": "Ein Drohnenangriff bei Kiew trifft ein Munitionslager, 37 Menschen sterben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russen-jagen-munitionslager-in-die-luft-27-tote-in-kiew-6a92a0f327cdbc5135d06b4d",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wahlkampfhilfe für die Grünen - Polit-Rentner Habeck füllt Biergarten",
-      "excerpt": "Habeck wirbt in Magdeburg für die Grünen, damit die den Einzug in den Landtag schaffen.",
-      "url": "https://www.bild.de/politik/inland/robert-habeck-in-sachsen-anhalt-polit-rentner-fuellt-biergarten-6a9184a4b3df30a61552912c",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Jeder kennt dieses Spielzeug - Neue Hoffnung für gefährdete Kult-Firma",
+      "excerpt": "Gläubiger wollen Spielzeugfirma übernehmen und Schulden in Firmenanteile tauschen.",
+      "url": "https://www.bild.de/politik/jeder-kennt-dieses-spielzeug-neue-hoffnung-fuer-gefaehrdete-kult-firma-6a901a0a8a7786c19f335f64",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Sabotage, „grüne Männchen“, Blitz-Vorstoß - So bedroht uns Russland",
-      "excerpt": "Experten warnen: Russland könnte die Nato mit verdeckten Angriffen testen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/so-koennte-russland-die-nato-angreifen-die-gefaehrlichsten-szenarien-6a918d25518a586e1855b900",
-      "publishedAt": "2026-08-29T10:25:49.564Z",
+      "title": "Ronzheimer unterwegs in Sachsen-Anhalt - So einen Wahlkampf habe ich noch nie erlebt",
+      "excerpt": "Vor der Wahl in Sachsen-Anhalt wächst der AfD-Zuspruch – und die Angst vor ihr.",
+      "url": "https://www.bild.de/politik/inland/eine-woche-vor-der-wahl-jetzt-reicht-es-uns-6a928980518a586e1855c2f5",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geheimdienst-Angriffe aus Russland - „Die deutsche Wirtschaft ist unter Dauerfeuer“",
+      "excerpt": "Geheimdienste aus Russland und China schaden der deutschen Wirtschaft massiv.",
+      "url": "https://www.bild.de/politik/geheimdienst-angriffe-aus-russland-die-deutsche-wirtschaft-ist-unter-dauerfeuer-6a90189e0c649aabd971582a",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Das mächtigste Versprechen der Nato - Greift Putin an, muss uns dieser Paragraf retten",
+      "excerpt": "Im Gründungsdokument der Nato ist ein Artikel enthalten, der Gegner abschrecken soll.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/das-maechtigste-versprechen-der-nato-was-bedeutet-artikel-5-6a918d50518a586e1855b908",
+      "publishedAt": "2026-08-29T15:19:49.045Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Proteste von „Rheinmetall entwaffnen“: Kampfansage an den „deutschen Imperialismus“",
+      "excerpt": "In Köln und Hamburg wollen sich Ak­ti­vis­t:in­nen Aufrüstung und Krieg widersetzen. Letztes Jahr ging die Polizei rechtswidrig gegen die Proteste vor. mehr...",
+      "url": "https://taz.de/Proteste-von-Rheinmetall-entwaffnen/!6206379/",
+      "publishedAt": "2026-08-29T15:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Landtagswahlen im Osten: Aus der Schockstarre",
+      "excerpt": "Der Siegeszug der AfD scheint insbesondere in Ostdeutschland kaum noch aufhaltbar zu sein. Aber es gibt auch die anderen – die nicht rechts wählen. mehr...",
+      "url": "https://taz.de/Landtagswahlen-im-Osten/!6204801/",
+      "publishedAt": "2026-08-29T15:11:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Russischer Angriffskrieg - Mindestens 27 Tote nach Drohnenattacken auf ukrainische Region Kiew",
-      "excerpt": "Bei russischen Angriffen auf die ukrainische Region Kiew sind nach Angaben der Behörden mindestens 27 Menschen getötet worden. Die Drohnenattacke galt demnach einem Munitionslager. Zahlreiche Menschen wurden verletzt.",
-      "url": "https://www.deutschlandfunk.de/mindestens-27-tote-nach-drohnenattacken-auf-ukrainische-region-kiew-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "title": "Drohnenvorfall in Leipzig - Medienbericht: Bundesregierung plant Maßnahmenpaket gegen Russland",
+      "excerpt": "Die Bundesregierung sieht einem Medienbericht zufolge Russland hinter dem Drohnenvorfall in Leipzig und bereitet Strafmaßnahmen vor. Berlin plant demnach, in den kommenden Tagen Moskau offiziell für den versuchten Spreng",
+      "url": "https://www.deutschlandfunk.de/medienbericht-bundesregierung-plant-massnahmenpaket-gegen-russland-102.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach der Sturzflut - Mehr als 600 Tote in Nepal bestätigt - \"Save the Children\" verteilt Hilfsgüter in Katastrophengebiet",
-      "excerpt": "Nach der Sturzflut in Nepal dauern die Rettungseinsätze vor Ort an. Nach Angaben der Polizei sind bei dem Unglück mindestens 630 Menschen gestorben. Mehr als 2.000 Menschen werden noch vermisst, darunter auch einige Deut",
-      "url": "https://www.deutschlandfunk.de/mehr-als-600-tote-in-nepal-bestaetigt-save-the-children-verteilt-hilfsgueter-in-katastrophengebiet-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "title": "\"Unterstützer-Team\" - Abschiebungen: Taliban entsenden Team nach Deutschland",
+      "excerpt": "Die Taliban haben vorübergehend weiteres Personal nach Deutschland geschickt.",
+      "url": "https://www.deutschlandfunk.de/abschiebungen-taliban-entsenden-team-nach-deutschland-100.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sturzflut im Himalaya - Hilfe aus dem Ausland erreicht Katastrophengebiet in Nepal für Rettungseinsätze an Tunneln",
+      "excerpt": "Nach der Sturzflut im Himalaya treffen Helfer aus dem Ausland in Nepal ein, um bei komplizierten Rettungsmaßnahmen an Wasserkraftwerken zu helfen. Außenminister Khanal teilte mit, eine Rettungsmannschaft aus dem Nachbarl",
+      "url": "https://www.deutschlandfunk.de/hilfe-aus-dem-ausland-erreicht-katastrophengebiet-in-nepal-fuer-rettungseinsaetze-an-tunneln-102.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Russischer Angriffskrieg - Mindestens 37 Tote nach Drohnenattacken auf ukrainische Region Kiew",
+      "excerpt": "Bei russischen Angriffen auf die ukrainische Region Kiew sind nach Angaben der Behörden mindestens 37 Menschen getötet worden. Die Drohnenattacke galt demnach einem Munitionslager. Zahlreiche Menschen wurden verletzt.",
+      "url": "https://www.deutschlandfunk.de/mindestens-37-tote-nach-drohnenattacken-auf-ukrainische-region-kiew-100.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\"",
+      "excerpt": "Der iranische Präsident Peseschkian hat eingeräumt, dass die gegen sein Land verhängten US-Sanktionen der Wirtschaft schaden.",
+      "url": "https://www.deutschlandfunk.de/praesident-peseschkian-us-sanktionen-schaden-unserer-wirtschaft-100.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niederlande - Ruder-WM: Silber für deutschen Männer-Doppelvierer",
+      "excerpt": "Der deutsche Doppelvierer der Männer hat bei der Ruder-WM in den Niederlanden Silber gewonnen. Auf der Bosbaan im Amsterdam sicherten sich Marc Weber, Felix Heinrich, Jonas Gelsen und Ole Hohensee Platz zwei.",
+      "url": "https://www.deutschlandfunk.de/ruder-wm-silber-fuer-deutschen-maenner-doppelvierer-102.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Koalitionspläne - Bas stellt Krankschreibung ab erstem Tag infrage und ist für Übergangsfrist bei Rentenplänen",
+      "excerpt": "Bundesarbeitsministerin Bas stellt die Pläne der schwarz-roten Koalition zur Einführung einer verpflichtenden Krankschreibung ab dem ersten Tag infrage. Sie sei koalitionstreu, sagte die SPD-Kovorsitzende, aber man solle",
+      "url": "https://www.deutschlandfunk.de/bas-stellt-krankschreibung-ab-erstem-tag-infrage-und-ist-fuer-uebergangsfrist-bei-rentenplaenen-104.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Abkommen - USA sichern sich riesige Ölvorkommen in Venezuela - was steckt dahinter?",
+      "excerpt": "Die USA und Venezuela haben ein umfangreiches Erdöl-Abkommen bekannt gegeben. Präsident Trump feiert den \"größten Öl-Deal in der Weltgeschichte\". Venezuelas Interims-Staatschefin Rodríguez sprach in Caracas von einem his",
+      "url": "https://www.deutschlandfunk.de/usa-sichern-sich-riesige-oelvorkommen-in-venezuela-was-steckt-dahinter-100.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Tod von König Harald V. - Norweger tragen sich in Kondolenzbücher ein",
+      "excerpt": "Einen Tag nach dem Tod des norwegischen Königs Harald sind zahlreiche Norweger in Rathäuser im ganzen Land gekommen, um sich in dort ausgelegte Kondolenzbücher einzutragen.",
+      "url": "https://www.deutschlandfunk.de/norweger-tragen-sich-in-kondolenzbuecher-ein-102.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - Bundeskongress der AfD-Nachwuchsorganisation \"Generation Deutschland\"",
+      "excerpt": "Der Vorsitzende der AfD-Nachwuchsorganisation \"Generation Deutschland\", Hohm, hat die Rückführung von zugewanderten Menschen aus Deutschland gefordert.",
+      "url": "https://www.deutschlandfunk.de/bundeskongress-der-afd-nachwuchsorganisation-generation-deutschland-102.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niger - Sicherheitskreise: Aufständische Soldaten greifen Präsidentenpalast und Flughafen an",
+      "excerpt": "In Niamey, der Hauptstadt des Niger, ist es zu schweren Kämpfen und Explosionen gekommen.",
+      "url": "https://www.deutschlandfunk.de/sicherheitskreise-aufstaendische-soldaten-greifen-praesidentenpalast-und-flughafen-an-104.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Referendum - Isländer stimmen über Wiederaufnahme von EU-Beitrittsgesprächen ab",
+      "excerpt": "Die Isländer entscheiden heute, ob ihr Land die Gespräche für einen Beitritt in die Europäische Union wieder aufnehmen soll.",
+      "url": "https://www.deutschlandfunk.de/islaender-stimmen-ueber-wiederaufnahme-von-eu-beitrittsgespraechen-ab-100.html",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,15 +262,7 @@
       "title": "Wüstenbildung - UNO-Konferenz endet ohne gemeinsames Abkommen",
       "excerpt": "In der Mongolei ist eine UNO-Konferenz über die Wüstenbildung ohne gemeinsames Abkommen zu Ende gegangen.",
       "url": "https://www.deutschlandfunk.de/uno-konferenz-endet-ohne-gemeinsames-abkommen-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niamey - Schüsse und Explosionen in Hauptstadt von Niger",
-      "excerpt": "Aus Niamey, der Hauptstadt des Niger, werden Schüsse und Explosionen gemeldet.",
-      "url": "https://www.deutschlandfunk.de/schuesse-und-explosionen-in-hauptstadt-von-niger-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +270,7 @@
       "title": "Meerenge - Seeschiffahrtsorganisation IMO: In der Straße von Hormus stecken noch immer 400 Schiffe fest - 6.000 Seeleute betroffen",
       "excerpt": "In der Straße von Hormus stecken nach Angaben der Vereinten Nationen noch immer 400 Schiffe mit rund 6.000 Seeleuten an Bord fest.",
       "url": "https://www.deutschlandfunk.de/seeschiffahrtsorganisation-imo-in-der-strasse-von-hormus-stecken-noch-immer-400-schiffe-fest-6-000-s-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,15 +278,7 @@
       "title": "\"Rheinische Post\" - Umweltminister Schneider will Wiedervernässung von Mooren weiter beschleunigen",
       "excerpt": "Vor dem Hintergrund des Großbrandes im Naturschutzgebiet Hohes Venn will Bundesumweltminister Schneider die Wiedervernässung von Mooren weiter vorantreiben.",
       "url": "https://www.deutschlandfunk.de/umweltminister-schneider-will-wiedervernaessung-von-mooren-weiter-beschleunigen-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Abkommen - USA sichern sich riesige Ölvorkommen in Venezuela",
-      "excerpt": "Die USA und Venezuela haben ein umfangreiches Erdöl-Abkommen bekannt gegeben. Präsident Trump schrieb auf seiner hauseigenen Online-Plattform, mit der Vereinbarung brächten die Vereinigten Staaten über 65 Milliarden Barr",
-      "url": "https://www.deutschlandfunk.de/usa-sichern-sich-riesige-oelvorkommen-in-venezuela-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +286,7 @@
       "title": "Interview der Woche - EVP-Fraktionsvorsitzender Weber fordert mehr Frontex-Beamte für EU-Außengrenzschutz",
       "excerpt": "Der EVP-Fraktionsvorsitzende im Europäischen Parlament, Weber, hat seine Forderung nach einer Stärkung der EU-Grenzschutzpolizei Frontex bekräftigt. Weber sagte im Interview der Woche des Deutschlandfunks, für die Zukunf",
       "url": "https://www.deutschlandfunk.de/evp-fraktionsvorsitzender-weber-fordert-mehr-frontex-beamte-fuer-eu-aussengrenzschutz-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +294,7 @@
       "title": "Iran-Krieg - Iranische Künstlerin Forouhar bezweifelt Krieg als Mittel zum Umsturz des Regimes",
       "excerpt": "Die iranischstämmige Künstlerin Parastou Forouhar hat vor einer Spaltung der iranischen Gesellschaft bei der Einstellung zum Irankrieg gewarnt. Forouhar sagte im Deutschlandfunk, die Frage, ob der Krieg die Menschen vor ",
       "url": "https://www.deutschlandfunk.de/iranische-kuenstlerin-forouhar-bezweifelt-krieg-als-mittel-zum-umsturz-des-regimes-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,72 +302,104 @@
       "title": "USA - Bundesgericht erklärt Visa-Entzug für pro-palästinensische Studenten für verfassungswidrig",
       "excerpt": "Bei der Reglementierung von Visa hat die US-Regierung vor einem Bundesgericht eine Niederlage erlitten.",
       "url": "https://www.deutschlandfunk.de/bundesgericht-erklaert-visa-entzug-fuer-pro-palaestinensische-studenten-fuer-verfassungswidrig-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
+      "publishedAt": "2026-08-29T15:07:22.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Koalitionspläne - Bas stellt Krankschreibung ab erstem Tag infrage und ist für Übergangsfrist bei Rentenplänen",
-      "excerpt": "Bundesarbeitsministerin Bas stellt die Pläne der schwarz-roten Koalition zur Einführung einer verpflichtenden Krankschreibung ab dem ersten Tag infrage.",
-      "url": "https://www.deutschlandfunk.de/bas-stellt-krankschreibung-ab-erstem-tag-infrage-und-ist-fuer-uebergangsfrist-bei-rentenplaenen-104.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Exklave an der Nordseeküste: Hamburg liegt hier eben doch am Meer",
+      "excerpt": "Neuwerk ist den Hamburgern lieb und teuer: 40 Millionen Euro will der Stadtstaat in seine Wattenmeerinsel investieren. Er setzt dabei auf Tourismus. mehr...",
+      "url": "https://taz.de/Exklave-an-der-Nordseekueste/!6204680/",
+      "publishedAt": "2026-08-29T14:42:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Bilanz nach 6 Monaten Krieg: Krise! Krise? Das unterschiedliche Leiden am Golf",
+      "excerpt": "Ein halbes Jahr Krieg hat Irans Wirtschaft hart getroffen. Aber auch ein kleines Land am Persischen Golf. Ein Profiteur ist der weltgrößte Ölkonzern. mehr...",
+      "url": "https://taz.de/Bilanz-nach-6-Monaten-Krieg-im-Iran-Das-unterschiedliche-Leiden-am-Golf/!6207116/",
+      "publishedAt": "2026-08-29T14:36:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Spätsommer: Der dumme August",
+      "excerpt": "Was soll bloß dieser Trubel um die Sonnenfinsternis? Die Sonne geht doch jeden Abend unter. mehr...",
+      "url": "https://taz.de/Spaetsommer/!6204799/",
+      "publishedAt": "2026-08-29T14:30:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
+      "excerpt": "Es geht um Sicherheit, Souveränität und Fischereirechte: Heute stimmt Island darüber ab, ob die Beitrittsgespräche mit der EU wieder aufgenommen werden. Bei dem Referendum ist Island gespalten wie nie. Von Jana Sinram.",
+      "url": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
+      "publishedAt": "2026-08-29T13:02:55.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Bauhaus-Direktorin über rechte Ideologie: „Patriotische Kultur engt ein“",
+      "excerpt": "Die Direktorin der Stiftung Bauhaus Dessau, Barbara Steiner, warnt im Gespräch eindringlich vor der AfD. Sie plädiert für eine offene Gesellschaft. mehr...",
+      "url": "https://taz.de/Bauhaus-Direktorin-ueber-rechte-Ideologie/!6204755/",
+      "publishedAt": "2026-08-29T13:02:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Krankschreibung ab dem ersten Tag: Bas bezweifelt Sinn und stellt Bedingungen",
+      "excerpt": "Die geplante Pflicht zur Krankschreibung ab dem ersten Tag geht auf den Wunsch der Union zurück. Arbeitsministerin Bärbel Bas rüttelt jetzt an dem entsprechenden Koalitionsbeschluss. mehr...",
+      "url": "https://taz.de/Krankschreibung-ab-dem-ersten-Tag/!6208469/",
+      "publishedAt": "2026-08-29T12:58:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Digitale Gewalt: CDU-Politikerinnen verlangen schärferes Gesetz",
+      "excerpt": "Bundesjustizministerin Hubig hat im April einen Gesetzentwurf zur Verschärfung des Rechts gegen digitale Gewalt vorgelegt. Schon vor der Debatte im Parlament kommen nun Forderungen nach umfassenderem, härter durchgesetzt",
+      "url": "https://www.spiegel.de/politik/deutschland/digitale-gewalt-cdu-politikerinnen-verlangen-schaerferes-gesetz-a-99bf9ca9-9f84-4579-aadd-01ca3eb3a7ba#ref=rss",
+      "publishedAt": "2026-08-29T12:19:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Außenpolitik - NATO-Experte Overhaus: Widersprüchliche US-Außenpolitik mit Blick auf Ukraine-Konflikt",
-      "excerpt": "Aus Sicht des NATO-Experten der Stiftung Wissenschaft und Politik, Overhaus, sendet die US-Regierung widersprüchliche außenpolitische Signale mit Blick auf eine Strategie gegenüber Russland und der Ukraine.",
-      "url": "https://www.deutschlandfunk.de/nato-experte-overhaus-widerspruechliche-us-aussenpolitik-mit-blick-auf-ukraine-konflikt-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
+      "title": "Mike D: Zurück zur Musik - 14 Jahre nach dem Ende der Beastie Boys",
+      "excerpt": "Groß, Torsten www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/mike-d-zurueck-zur-musik-14-jahre-nach-dem-ende-der-beastie-boys-100.html",
+      "publishedAt": "2026-08-29T12:10:31.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Schiefer als der in Pisa - der Turm von Michalovice",
+      "excerpt": "Der Schiefe Turm von Pisa ist nicht der schiefste Glockenturm der Welt. Der Wehrturm der Burgruine von Michalovice nahe Prag ist noch stärker geneigt. Die Gemeinde überlegt, ob es ihr einen Guinness-Rekord-Eintrag wert i",
+      "url": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
+      "publishedAt": "2026-08-29T12:09:11.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "DLF",
-      "title": "Washington - US-Regierung legt Berufung gegen Urteil zu neuen Regeln für Briefwahl ein",
-      "excerpt": "Die US-Regierung hat Berufung gegen ein Gerichtsurteil eingelegt, das die von Präsident Trump angestrebte Änderung der Briefwahlregeln vorerst blockiert hatte.",
-      "url": "https://www.deutschlandfunk.de/us-regierung-legt-berufung-gegen-urteil-zu-neuen-regeln-fuer-briefwahl-ein-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
+      "title": "Mehr als ein Spiel - Was Gaming-Communities für die Demokratie bedeuten",
+      "excerpt": "Hinrichs, Dörte www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/mehr-als-ein-spiel-was-gaming-communities-fuer-die-demokratie-bedeuten-100.html",
+      "publishedAt": "2026-08-29T12:05:00.000Z",
+      "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "DLF",
-      "title": "Arbeitsunfähigkeitsbescheinigungen - Unternehmen zahlen Rekordsumme für Lohnfortzahlung im Krankheitsfall",
-      "excerpt": "Deutsche Unternehmen haben im vergangenen Jahr einer Erhebung zufolge 85,6 Milliarden Euro für die Lohnfortzahlung im Krankheitsfall an ihre Mitarbeiter ausgezahlt.",
-      "url": "https://www.deutschlandfunk.de/unternehmen-zahlen-rekordsumme-fuer-lohnfortzahlung-im-krankheitsfall-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Roman von Ingo Schulze: Die Hoffnung und ihre Verlustgeschichte",
+      "excerpt": "Ein Sommer in der DDR und ein skurriles Lesungswochenende in einem mecklenburgischen Gasthof: Ingo Schulze sucht in seinem Roman nach den Lehren der Geschichte. mehr...",
+      "url": "https://taz.de/Roman-von-Ingo-Schulze/!6207372/",
+      "publishedAt": "2026-08-29T11:38:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Halbleere Speicherstände - Wirtschaftsweise Grimm bei Gasversorgung für neue, längerfristige Vertragsstruktur",
-      "excerpt": "In der Debatte über derzeit noch halbleere Speicher-Füllstände rät die Wirtschaftsweise Grimm zu einer Neuordnung der deutschen Gasversorgung.",
-      "url": "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-bei-gasversorgung-fuer-neue-laengerfristige-vertragsstruktur-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - ICE-Behörde plant Kauf von Roboter-Hunden",
-      "excerpt": "Die umstrittene US-Einwanderungsbehörde ICE plant die Anschaffung von hundeähnlichen Robotern.",
-      "url": "https://www.deutschlandfunk.de/ice-behoerde-plant-kauf-von-roboter-hunden-102.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sicherheitspolitik - Ostsee-Staaten gründen Taskforce gegen Drohnen-Angriffe",
-      "excerpt": "Die Anrainerstaaten der Ostsee gründen eine gemeinsame Taskforce, um ‌ihre Reaktionen auf hybride Angriffe zu ⁠beschleunigen und besser zu koordinieren. Das teilte Bundesinnenminister Dobrindt mit. Er äußerte sich nach e",
-      "url": "https://www.deutschlandfunk.de/ostsee-staaten-gruenden-taskforce-gegen-drohnen-angriffe-108.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Migration - Spanien bittet Frontex um Hilfe bei Migrationskrise in Ceuta, Kritik von Weber (CSU)",
-      "excerpt": "Spanien hat die EU-Grenzschutzagentur Frontex um Hilfe bei der Bewältigung der Migrationskrise in der Exklave Ceuta gebeten.",
-      "url": "https://www.deutschlandfunk.de/spanien-bittet-frontex-um-hilfe-bei-migrationskrise-in-ceuta-kritik-von-weber-csu-100.html",
-      "publishedAt": "2026-08-29T09:45:09.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Politische Intrigen in Italien: Aus dem Sender gebombt",
+      "excerpt": "Bei Melonis Partei war er besonders unbeliebt: Star-Journalist Sigfrido Ranucci wird nach einem Anschlag, der ein „Freundschaftsdienst“ sein sollte, und politischem Druck vom Staatssender RAI entlassen. mehr...",
+      "url": "https://taz.de/Politische-Intrigen-in-Italien/!6208468/",
+      "publishedAt": "2026-08-29T11:17:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -296,22 +408,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html",
       "publishedAt": "2026-08-29T09:37:08.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wochentaz-Podcast: Stoned in Stonehenge",
-      "excerpt": "In dieser Folge geht es um Roadtrips – zu den Druidensteinen im Süden Englands und ins Baltikum, wo sich die Menschen auf den Ernstfall vorbereiten. mehr...",
-      "url": "https://taz.de/Wochentaz-Podcast/!6208001/",
-      "publishedAt": "2026-08-29T08:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Baustelle an der Hamburger Sternbrücke: Vier Spuren Freiheit",
-      "excerpt": "Wochenlang schon ist die Stresemannstraße mitten durch Hamburg gesperrt. Nach und nach holen sich die Leute zurück, was sonst allein den Autos gehört. mehr...",
-      "url": "https://taz.de/Baustelle-an-der-Hamburger-Sternbruecke/!6207227/",
-      "publishedAt": "2026-08-29T08:00:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -336,14 +432,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/venezuela-oel-faq-100.html",
       "publishedAt": "2026-08-29T07:54:08.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Deal zwischen USA und Venezuela: Trump kauft 65 Milliarden Barrel Öl",
-      "excerpt": "Anfang des Jahres nahmen US-Spezialkräfte Venezuelas langjährigen Staatschef Nicolás Maduro fest. Nun soll es eine Vereinbarung über Ölvorkommen des Landes geben. mehr...",
-      "url": "https://taz.de/Deal-zwischen-USA-und-Venezuela/!6208461/",
-      "publishedAt": "2026-08-29T07:46:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -395,14 +483,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
-      "excerpt": "Es geht um Sicherheit, Souveränität und Fischereirechte: Heute stimmt Island darüber ab, ob die Beitrittsgespräche mit der EU wieder aufgenommen werden. Kurz vor dem Referendum ist Island gespalten wie nie. Von Jana Sinr",
-      "url": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
-      "publishedAt": "2026-08-29T03:43:40.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
       "excerpt": "Immer mehr Republikaner äußern ihre Kritik an Trumps Vorgehen in Iran. Nach sechs Monaten ist kein Ende in Sicht. Und das könnte zu einem Problem für die Zwischenwahlen werden. Von S. Jackisch.",
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
@@ -435,42 +515,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Haare sind politisch: Soll ich mir einen Bixie schneiden?",
-      "excerpt": "Der Bixiecut ist die Frisur des Jahres. Unsere Autorin findet ihn schön, aber zögert noch mit einem Friseurtermin. Was das mit dem Male Gaze zu tun hat. mehr...",
-      "url": "https://taz.de/Haare-sind-politisch/!6204748/",
-      "publishedAt": "2026-08-28T18:10:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Betriebsversammlungen bei VW: Der große Showdown steht noch bevor",
-      "excerpt": "VW-Konzernchef Oliver Blume tourte durch Deutschland, um die Mit­ar­bei­te­r:in­nen zu beruhigen. Die haben verstanden, dass es keinen Zukunftsplan gibt. mehr...",
-      "url": "https://taz.de/Betriebsversammlungen-bei-VW/!6204802/",
-      "publishedAt": "2026-08-28T18:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "FAQ zu Smart Glasses: Heimlich filmen leicht gemacht",
       "excerpt": "In Deutschland sind immer mehr Brillen mit eingebauter Kamera in Umlauf. Was der Trend bedeutet und wie man sich gegen heimliche Aufnahmen wehren kann. mehr...",
       "url": "https://taz.de/FAQ-zu-Smart-Glasses/!6204695/",
       "publishedAt": "2026-08-28T18:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Sturzflut in Nepal: Zahl der Toten steigt auf über 600",
-      "excerpt": "Nach den verheerenden Sturzfluten laufen die Such- und Bergungsarbeiten weiter. Retter kämpfen sich durch Schlamm und suchen nach über 2000 Vermissten. mehr...",
-      "url": "https://taz.de/Sturzflut-in-Nepal/!6207953/",
-      "publishedAt": "2026-08-28T18:03:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Vergleich für Meta: Kein Ersatz für ein Verbot von Social Media für Kinder",
-      "excerpt": "Meta zahlt eine hohe Summe, mutmaßlich um einem Prozess zu entgehen. Das entbindet die Politik in Deutschland nicht davon, selbst Verbote zu regeln. mehr...",
-      "url": "https://taz.de/Vergleich-fuer-Meta/!6204784/",
-      "publishedAt": "2026-08-28T17:52:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -503,14 +551,6 @@
       "excerpt": "Die Bundesliga startet in eine neue Spielzeit, der Meister steht praktisch schon fest. Norwegen hat einen neuen König. Und »Crashout«, »Peak« oder »Ragebait« konkurrieren um den Titel »Jugendwort des Jahres«. Das ist die",
       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-koenig-harald-von-norwegen-jugendwort-des-jahres-fussball-bundesliga-a-39b3f380-d7b4-48ac-8b95-6242166b7abd#ref=rss",
       "publishedAt": "2026-08-28T16:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU-Haushalt: Bei den Agrarsubventionen könnte die EU wirklich sparen",
-      "excerpt": "Kanzler Merz sollte den Rotstift in der EU zuallererst bei den Agrarsubventionen ansetzen. Auch ohne sie würden genügend Lebensmittel produziert. mehr...",
-      "url": "https://taz.de/EU-Haushalt/!6207934/",
-      "publishedAt": "2026-08-28T16:01:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -552,14 +592,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html",
       "publishedAt": "2026-08-28T15:05:06.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wahlkampf nach dem Hitzesommer: Die Grünen wollen baden gehen",
-      "excerpt": "Die Berliner Grünen werden im Wahlkampf von der Linken abgehängt. Am Freitag kommt die Bundesspitze zur Hilfe. Sie wirbt mit Klima und Hitzeschutz. mehr...",
-      "url": "https://taz.de/Wahlkampf-nach-dem-Hitzesommer/!6207978/",
-      "publishedAt": "2026-08-28T14:48:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -731,14 +763,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
-      "excerpt": "Nach einem Besuch von CIA-Chef Ratcliffe in Moskau wird über den Zweck der Reise spekuliert. In US-Medien hieß es, Ratcliffe habe Russland vor einem Angriff auf die NATO gewarnt. Der Kreml spricht von \"Schauergeschichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
-      "publishedAt": "2026-08-27T18:22:07.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
       "excerpt": "Die Regierung will die abschlagsfreie Rente nach 45 Beitragsjahren abschaffen - aber Kanzler Merz kann sich Übergangszeiten vorstellen. Die Fraktionschefs von Union und SPD erklären, Änderungen am Reformkonzept seien nic",
       "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
@@ -791,14 +815,6 @@
       "excerpt": "Dem US-Militär in Europa gehen offenbar die Raketenabwehrsysteme aus. Das meldet die Nachrichtenagentur AP und beruft sich auf Insider. Die Folgen für die Nato-Staaten könnten verheerend sein.",
       "url": "https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss",
       "publishedAt": "2026-08-27T16:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Lobbyismus: Profitiert CSU-Spender von neuer Cannabis-Regelung?",
-      "excerpt": "Der Bundestag hat eine neue Regelung zu Cannabis-Medikamenten beschlossen. Der wohl größte Profiteur ist ein Münchner Hersteller. SPIEGEL-Recherchen legen nahe, dass es bei der Zulassung seines Schmerzmittels Druck von o",
-      "url": "https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f#ref=rss",
-      "publishedAt": "2026-08-27T16:33:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -1151,22 +1167,6 @@
       "excerpt": "Schlemper, Tobias www.deutschlandfunk.de, Campus & Karriere",
       "url": "https://www.deutschlandfunk.de/ausserschulische-lernorte-welche-rollen-haben-sie-interview-mit-prof-plessow-100.html",
       "publishedAt": "2026-08-18T12:46:02.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Living History im Freilichtmuseum: Neue Konzepte für Geschichtsvermittlung",
-      "excerpt": "Neubig, Magdalena www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/living-history-im-freilichtmuseum-neue-konzepte-fuer-geschichtsvermittlung-100.html",
-      "publishedAt": "2026-08-18T12:42:45.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Frust gegen Landarztquote: Absolvierende in NRW klagen",
-      "excerpt": "Panning, Jonas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/frust-gegen-landarztquote-absolvierende-in-nrw-klagen-100.html",
-      "publishedAt": "2026-08-18T12:36:49.000Z",
       "category": "KARRIERE & STUDIUM"
     },
     {
