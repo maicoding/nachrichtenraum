@@ -1,68 +1,20 @@
 {
-  "updatedAt": "2026-09-05T17:39:53.022Z",
+  "updatedAt": "2026-09-05T19:31:40.900Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Comeback-Gerüchte bei den Grünen - Tanzt Habeck wieder an?",
-      "excerpt": "Ex-Wirtschaftsminister Robert Habeck hat einen Lauf. Kehrt er zurück in die Politik?",
-      "url": "https://www.bild.de/politik/inland/geruechte-ueber-comeback-bei-den-gruenen-tanzt-habeck-wieder-an-6a97dfbcc53a6557d48dce6e",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "title": "Ein Zwischenruf von Peter Tiede - Berlins Daten-Gau: Der Staat bricht sein Ur-Versprechen",
+      "excerpt": "Eine der Grundaufgaben des Staates ist es, Sicherheit zu garantieren. Neben der körperlichen Unversehrtheit gehört zum – im Grundges...",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/ein-zwischenruf-von-peter-tiede-berlins-daten-gau-der-staat-bricht-sein-ur-versprechen-6a9c1919181cb962d48849e8",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "US-Gesandte in Moskau - Trumps Verhandler bei Putin im Kreml",
+      "title": "Putin empfängt Trumps Unterhändler - Kushner und Witkoff zu Gesprächen im Kreml",
       "excerpt": "Putin stoppt für US-Unterhändler Luftangriffe, doch seine Forderungen bleiben hart.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/neue-ukraine-gespraeche-trumps-gesandte-in-moskau-gelandet-6a9be66b181cb962d4884726",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hackerangriff auf die Hauptstadt - Die Chronologie des Versagens",
-      "excerpt": "Cyberangriff legt Berlins Verwaltung lahm, Millionen Daten landen bei Erpressern.",
-      "url": "https://www.bild.de/politik/inland/hackerangriff-auf-die-hauptstadt-die-chronologie-des-versagens-6a9becc7181cb962d48847af",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Angriffe vor der Küste Irans - Hier fliegt ein Mullah-Tanker in die Luft",
-      "excerpt": "US-Militär meldet Angriff auf drei Tanker, Iran droht mit harter Reaktion.",
-      "url": "https://www.bild.de/politik/in-der-strasse-von-hormus-usa-greifen-drei-iranische-oeltanker-an-6a9c1e218353bf8643b57685",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Anschlägen - Hessens Innenminister will Drittklässler auf Krisen vorbereiten",
-      "excerpt": "Hessens Innenminister will Grundschüler mit Unterricht besser auf Krisen einstellen.",
-      "url": "https://www.bild.de/politik/nach-anschlaegen-hessens-innenminister-will-drittklaessler-auf-krisen-vorbereiten-6a9a9c2fdde98c92361817bc",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gefühls-Bekenntnis von Merz - „Natürlich beschwert mich diese massive Kritik“",
-      "excerpt": "Vor dem Auftakt zum Wahl-September spricht der Kanzler offen über seine Unzufriedenheit.",
-      "url": "https://www.bild.de/politik/inland/friedrich-merz-natuerlich-beschwert-mich-diese-massive-kritik-6a9c2116181cb962d4884a4e",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Regierung in Sachsen-Anhalt - Kommt nach der Wahl die Endlos-Qual?",
-      "excerpt": "AfD könnte stärkste Kraft werden, doch die Regierungsbildung bleibt offen.",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-nach-der-wahl-regierungsbildung-kann-sich-ziehen-6a9bbd05181cb962d4884534",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bei „Demokratie-Fest“ in Magdeburg - Weggeputzt? Deutschlandflagge noch da!",
-      "excerpt": "Wer ließ die bemalte Flagge entfernen? AfD-Vorwurf gegen CDU hält nicht stand.",
-      "url": "https://www.bild.de/politik/inland/magdeburg-von-wegen-weggeputzt-deutschlandflagge-noch-da-6a9c0348fd8102779ee49fa9",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/putin-empfaengt-trumps-unterhaendler-kushner-und-witkoff-zu-gespraechen-im-kreml-6a9be66b181cb962d4884726",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -70,15 +22,23 @@
       "title": "Videos zeigen Explosionen - USA greifen drei iranische Öltanker an",
       "excerpt": "Die USA haben drei iranische Tanker im Golf von Oman beschossen. Nach Angaben des US-Zentralkommandos (CENTCOM) wurden die Schiffe v...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/videos-zeigen-explosionen-usa-greifen-drei-iranische-oeltanker-an-6a9c2ab2240b302c8a83a461",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Neue INSA-Umfrage - Regierung weiter mega-unbeliebt, auch AfD verliert",
-      "excerpt": "AfD verliert auf hohem Niveau, die Zustimmung zur Regierung bleibt gering.",
-      "url": "https://www.bild.de/politik/inland/afd-bleibt-in-umfrage-vorn-77-prozent-unzufrieden-mit-merz-und-regierung-6a9ad952b3e0470a1975be90",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "title": "Anschläge und Drohungen gegen Deutschland - Im Nebel des Bösen",
+      "excerpt": "Deutschland steht im hybriden Krieg, die Regierung reagiert mit harten Maßnahmen.",
+      "url": "https://www.bild.de/politik/inland/hybrider-krieg-deutschlands-kampf-gegen-unsichtbare-feinde-6a9c507d240b302c8a83a67e",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hackerangriff auf die Hauptstadt - Die Chronologie des Versagens",
+      "excerpt": "Cyberangriff legt Berlins Verwaltung lahm, Millionen Daten landen bei Erpressern.",
+      "url": "https://www.bild.de/politik/inland/hackerangriff-auf-die-hauptstadt-die-chronologie-des-versagens-6a9becc7181cb962d48847af",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +46,63 @@
       "title": "Nach TV-Zoff mit Merz - Wut-Ärztin mobilisiert zur Großdemo",
       "excerpt": "Kinderarztin Bea Merscher protestiert in Berlin gegen Merz’ Sparpläne im Gesundheitswesen.",
       "url": "https://www.bild.de/politik/inland/bea-merscher-es-reicht-demo-gegen-merz-sparpolitik-6a9c113e240b302c8a83a2ea",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Comeback-Gerüchte bei den Grünen - Tanzt Habeck wieder an?",
+      "excerpt": "Ex-Wirtschaftsminister Robert Habeck hat einen Lauf. Kehrt er zurück in die Politik?",
+      "url": "https://www.bild.de/politik/inland/geruechte-ueber-comeback-bei-den-gruenen-tanzt-habeck-wieder-an-6a97dfbcc53a6557d48dce6e",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Angriffe vor der Küste Irans - Hier fliegt ein Mullah-Tanker in die Luft",
+      "excerpt": "US-Militär meldet Angriff auf drei Tanker, Iran droht mit harter Reaktion.",
+      "url": "https://www.bild.de/politik/in-der-strasse-von-hormus-usa-greifen-drei-iranische-oeltanker-an-6a9c1e218353bf8643b57685",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Anschlägen - Hessens Innenminister will Drittklässler auf Krisen vorbereiten",
+      "excerpt": "Hessens Innenminister will Grundschüler mit Unterricht besser auf Krisen einstellen.",
+      "url": "https://www.bild.de/politik/nach-anschlaegen-hessens-innenminister-will-drittklaessler-auf-krisen-vorbereiten-6a9a9c2fdde98c92361817bc",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gefühls-Bekenntnis von Merz - „Natürlich beschwert mich diese massive Kritik“",
+      "excerpt": "Vor dem Auftakt zum Wahl-September spricht der Kanzler offen über seine Unzufriedenheit.",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-natuerlich-beschwert-mich-diese-massive-kritik-6a9c2116181cb962d4884a4e",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Regierung in Sachsen-Anhalt - Kommt nach der Wahl die Endlos-Qual?",
+      "excerpt": "AfD könnte stärkste Kraft werden, doch die Regierungsbildung bleibt offen.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-nach-der-wahl-regierungsbildung-kann-sich-ziehen-6a9bbd05181cb962d4884534",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bei „Demokratie-Fest“ in Magdeburg - Weggeputzt? Deutschlandflagge noch da!",
+      "excerpt": "Wer ließ die bemalte Flagge entfernen? AfD-Vorwurf gegen CDU hält nicht stand.",
+      "url": "https://www.bild.de/politik/inland/magdeburg-von-wegen-weggeputzt-deutschlandflagge-noch-da-6a9c0348fd8102779ee49fa9",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue INSA-Umfrage - Regierung weiter mega-unbeliebt, auch AfD verliert",
+      "excerpt": "AfD verliert auf hohem Niveau, die Zustimmung zur Regierung bleibt gering.",
+      "url": "https://www.bild.de/politik/inland/afd-bleibt-in-umfrage-vorn-77-prozent-unzufrieden-mit-merz-und-regierung-6a9ad952b3e0470a1975be90",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +110,7 @@
       "title": "Holland zieht Reserven aus den USA ab - Wann holen wir unser Gold aus Trump-Amerika?",
       "excerpt": "Niederlande holen Gold aus den USA, nun wächst der Druck auf Deutschland.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/niederlaender-ziehn-gold-ab-was-ist-mit-unserem-gold-im-trump-amerika-6a99840edde98c923618073b",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +118,7 @@
       "title": "„Schatz, ich rufe dich gleich zurück“ - Plötzlich hat Meloni ihre Tochter am Telefon",
       "excerpt": "Meloni feiert Amtsrekord und setzt im Wahlkampf auf ihr Image als Mutter.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/zufall-oder-charme-offensive-ploetzlich-hatte-meloni-ihre-tochter-am-telefon-6a9bbf90fd8102779ee49b59",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +126,7 @@
       "title": "Unternehmer schlagen Alarm - Wie die AfD Sachsen-Anhalts Wirtschaft verändern könnte",
       "excerpt": "Sachsen-Anhalt steht vor einer richtungsweisenden Landtagswahl. Zwei Unternehmer diskutieren über einen möglichen AfD-Sieg, Fachkräf...",
       "url": "https://www.bild.de/politik/unternehmer-schlagen-alarm-wie-die-afd-sachsen-anhalts-wirtschaft-veraendern-koennte-6a9ba719240b302c8a839e18",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +134,7 @@
       "title": "Kartoffel-Gate im Weißen Haus - Empörung nach Trumps Kriegs-Vergleich",
       "excerpt": "Washington D.C.: Vor dem Hintergrund fehlender Erfolge im Konflikt mit dem Iran versucht US-Präsident Donald Trump den Iran-Krieg kl...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/empoerung-nach-kriegs-vergleich-trumps-kartoffel-gate-im-weissen-haus-6a9bf968fd8102779ee49ee0",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
@@ -126,31 +142,47 @@
       "title": "UN stimmt für neue Version - Fällt Ihnen auf, was auf dieser Weltkarte neu ist?",
       "excerpt": "Die Generalversammlung der UN hat dafür gestimmt, die Weltkarte zu ersetzen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/un-stimmt-fuer-neue-version-faellt-ihnen-auf-was-auf-dieser-weltkarte-neu-ist-6a9b460b240b302c8a839c57",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
+      "publishedAt": "2026-09-05T19:31:40.542Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Vor „Demokratie-Fest“ in Magdeburg - Wer putzt hier die Deutschlandflagge weg?",
-      "excerpt": "Wer ließ die bemalte Flagge entfernen? AfD-Vorwurf gegen CDU hält nicht stand.",
-      "url": "https://www.bild.de/politik/inland/ulrich-siegmund-empoert-wer-putzt-hier-die-deutschlandflagge-weg-6a9a9e76dde98c92361817fb",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bis 2045 - Tschechien erwartet Krieg in Europa",
-      "excerpt": "Tschechien warnt vor wachsender Kriegsgefahr und rüstet seine Armee massiv auf.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bis-2045-tschechien-erwartet-krieg-in-europa-6a9a8bcbdde98c9236181570",
-      "publishedAt": "2026-09-05T17:39:52.523Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Gespräche über ein Friedensabkommen - US-Gesandte Witkoff und Kushner in Moskau mit Putin zusammengekommen",
+      "excerpt": "Der russische Präsident Putin hat die US-Unterhändler Witkoff und Kushner in Moskau zu neuen Gesprächen zum Ukraine-Krieg empfangen. Laut Staatsmedien sagte Putin, es gehe um schwierige Fragen. Er werde den beiden Gesand",
+      "url": "https://www.deutschlandfunk.de/us-gesandte-witkoff-und-kushner-in-moskau-mit-putin-zusammengekommen-100.html",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Nach Drohnen-Vorfall in Leipzig - Bundeskanzler Merz warnt vor weiteren hybriden Angriffen",
       "excerpt": "Nach dem gescheiterten Drohnen-Anschlag auf den Flughafen Leipzig/Halle hat Bundeskanzler Merz vor weiteren hybriden Angriffen auf Deutschland gewarnt. Deutschland sei fest entschlossen, seine Demokratie und sein Territo",
       "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-warnt-vor-weiteren-hybriden-angriffen-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Hackerangriff auf Berliner Verwaltung - Senatskanzlei richtet zusätzliche Steuerungseinheit ein",
+      "excerpt": "Nach dem Hackerangriff auf die Berliner Senatsverwaltung ist eine neue Einheit eingerichtet worden, um die von den Tätern veröffentlichten Dateien auszuwerten.",
+      "url": "https://www.deutschlandfunk.de/senatskanzlei-richtet-zusaetzliche-steuerungseinheit-ein-100.html",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - Mehr als 10.000 Menschen bei Demokratiefest in Magdeburg - Parteien schließen Wahlkampf ab",
+      "excerpt": "Einen Tag vor der Landtagswahl in Sachsen-Anhalt haben in Magdeburg tausende Menschen für Demokratie und Weltoffenheit demonstriert.",
+      "url": "https://www.deutschlandfunk.de/mehr-als-10-000-menschen-bei-demokratiefest-in-magdeburg-parteien-schliessen-wahlkampf-ab-102.html",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Griechenland - Ministerpräsident kündigt milliardenschweres Entlastungspaket an",
+      "excerpt": "Der griechische Ministerpräsident Mitsotakis hat Steuererleichterungen ⁠und Lohnerhöhungen angekündigt.",
+      "url": "https://www.deutschlandfunk.de/ministerpraesident-kuendigt-milliardenschweres-entlastungspaket-an-100.html",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,15 +190,7 @@
       "title": "Sachsen - Polizei findet zwölf Sprengsätze an Stromleitungen - Zusammenhang mit Fund in NRW und Brandenburg vermutet",
       "excerpt": "Die sächsische Polizei hat Details zu den versuchten Anschlägen auf das Stromnetz in den Landkreisen Bautzen und Görlitz bekannt gegeben. An zwei Umspannwerken waren insgesamt zwölf selbstgebaute Sprengvorrichtungen gefu",
       "url": "https://www.deutschlandfunk.de/polizei-findet-zwoelf-sprengsaetze-an-stromleitungen-zusammenhang-mit-fund-in-nrw-und-brandenburg-ve-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gespräche über Friedensabkommen - US-Sondergesandte in Moskau eingetroffen",
-      "excerpt": "In Moskau haben am Abend die kurzfristig anberaumten neuen Gespräche zum Ukraine-Krieg zwischen Kremlchef Wladimir Putin und den US-Unterhändlern Witkoff und Kushner begonnen. Putin empfing die beiden Gesandten von US-Pr",
-      "url": "https://www.deutschlandfunk.de/us-sondergesandte-in-moskau-eingetroffen-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +198,7 @@
       "title": "Auszahlungen in Millionenhöhe - Über 50.000 Anträge für E-Auto-Förderung bewilligt",
       "excerpt": "Mehr als drei Monate nach dem Start des neuen Förderprogramms für E-Autos sind bisher rund 52.500 Anträge bewilligt worden.",
       "url": "https://www.deutschlandfunk.de/ueber-50-000-antraege-fuer-e-auto-foerderung-bewilligt-104.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,15 +206,15 @@
       "title": "Großbritannien - Maskierte Demonstranten bringen Fährverkehr in Dover zum Erliegen",
       "excerpt": "Im britischen Dover haben vermummte Demonstranten den Fährverkehr vorübergehend lahmgelegt.",
       "url": "https://www.deutschlandfunk.de/maskierte-demonstranten-bringen-faehrverkehr-in-dover-zum-erliegen-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Sachsen-Anhalt - Mehrere Kundgebungen vor Landtagswahl - Parteien schließen Wahlkampf ab",
-      "excerpt": "Einen Tag vor der Landtagswahl in Sachsen-Anhalt haben die Parteien ihren Wahlkampf abgeschlossen. An Veranstaltungen von AfD, Linke und SPD nahmen auch Bundespolitiker teil. CDU, Grüne, FDP und BSW beendeten ebenfalls i",
-      "url": "https://www.deutschlandfunk.de/mehrere-kundgebungen-vor-landtagswahl-parteien-schliessen-wahlkampf-ab-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "title": "VW-Sparpläne - Bundeskanzler Merz warnt vor weiterem Verlust von Industriearbeitsplätzen",
+      "excerpt": "Nach der Ankündigung von weiteren Stellenstreichungen gibt es weitere Reaktionen aus der Politik. Bundeskanzler Merz warnte vor einem weiteren Verlust von Arbeitsplätzen in der Industrie. Die derzeitige Entwicklung müsse",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-warnt-vor-weiterem-verlust-von-industriearbeitsplaetzen-104.html",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +222,7 @@
       "title": "Thüringen - BSW-Fraktion zerfällt - Zusammenarbeit mit der Linkspartei nun wichtiger denn je",
       "excerpt": "Für den thüringischen Ministerpräsidenten Voigt wird die Arbeit deutlich schwieriger. Der CDU-Politiker setzt trotz des Parteiaustritts von zehn BSW-Abgeordneten auf eine Fortsetzung seiner Koalition mit SPD und BSW. Die",
       "url": "https://www.deutschlandfunk.de/bsw-fraktion-zerfaellt-zusammenarbeit-mit-der-linkspartei-nun-wichtiger-denn-je-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +230,7 @@
       "title": "Golf - USA bestätigen Angriffe auf iranische Tanker, \"Reaktion auf vorherigen Beschuss\"",
       "excerpt": "Die US-Streitkräfte haben nach eigenen Angaben drei iranische Öltanker im Persischen Golf und im Golf von Oman außer Gefecht gesetzt.",
       "url": "https://www.deutschlandfunk.de/usa-bestaetigen-angriffe-auf-iranische-tanker-reaktion-auf-vorherigen-beschuss-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +238,7 @@
       "title": "Arabische Halbinsel - Mehr als 60 Tote bei neuen Kämpfen im Jemen",
       "excerpt": "Im Jemen sind bei erneuten Gefechten zwischen Regierungstruppen und der Huthi-Miliz Berichten zufolge mehr als 60 Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/mehr-als-60-tote-bei-neuen-kaempfen-im-jemen-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +246,7 @@
       "title": "Nahost - Weitere Todesopfer unter Trümmern im Gazastreifen entdeckt",
       "excerpt": "Im Gazastreifen werden bei Aufräumarbeiten weiterhin Leichen entdeckt.",
       "url": "https://www.deutschlandfunk.de/weitere-todesopfer-unter-truemmern-im-gazastreifen-entdeckt-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +254,7 @@
       "title": "Nepal - Zwei weitere Menschen nach Sturzflut im Himalaya gerettet",
       "excerpt": "Zehn Tage nach der verheerenden Sturzflut im Himalaya haben Einsatzkräfte nach offiziellen Angaben zwei weitere Menschen gerettet.",
       "url": "https://www.deutschlandfunk.de/zwei-weitere-menschen-nach-sturzflut-im-himalaya-gerettet-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +262,7 @@
       "title": "Serbien - Präsident Vucic offiziell als Kandidat für Posten des Ministerpräsidenten nominiert",
       "excerpt": "Der serbische Präsident Vucic ist von seiner Partei offiziell als Kandidat für den Posten des Ministerpräsidenten nominiert worden.",
       "url": "https://www.deutschlandfunk.de/praesident-vucic-offiziell-als-kandidat-fuer-posten-des-ministerpraesidenten-nominiert-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +270,7 @@
       "title": "Fernsehen und Bühne - Der Schauspieler Michael Mendl ist tot",
       "excerpt": "Der deutsche Schauspieler Michael Mendl ist im Alter von 82 Jahren gestorben. Das teilte seine Agentin mit.",
       "url": "https://www.deutschlandfunk.de/der-schauspieler-michael-mendl-ist-tot-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +278,7 @@
       "title": "Nach Absturz - Isar Aerospace startet neuen Versuch mit Spectrum-Rakete",
       "excerpt": "Nach dem gescheiterten ersten Versuch 2025 soll die Rakete des bayerischen Raumfahrt-Start-Up Isar Aerospace nun erneut starten. Am Samstagabend 22 Uhr deutscher Zeit soll die Rakete vom norwegischen Weltraumbahnhof Andø",
       "url": "https://www.deutschlandfunk.de/isar-aerospace-startet-neuen-versuch-mit-spectrum-rakete-102.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,32 +286,80 @@
       "title": "Wien - Österreichische Schauspielerin Erni Mangold im Alter von 99 Jahren gestorben",
       "excerpt": "Die österreichische Schauspielerin Erni Mangold ist im Alter von 99 Jahren in Wien gestorben. Sie stand bis ins höchste Alter auch für deutsche Produktionen vor der Kamera.",
       "url": "https://www.deutschlandfunk.de/oesterreichische-schauspielerin-erni-mangold-im-alter-von-99-jahren-gestorben-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaft - Deka-Chefvolkswirt Kater fordert Kurswechsel in der Finanzpolitik",
-      "excerpt": "Der Chefvolkswirt der Deka-Bank, Kater, fordert einen Kurswechsel in der Finanzpolitik zahlreicher Länder.",
-      "url": "https://www.deutschlandfunk.de/deka-chefvolkswirt-kater-fordert-kurswechsel-in-der-finanzpolitik-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: »Fest entschlossen, uns zu verteidigen« – Bundeskanzler sendet Botschaft an Putin",
+      "excerpt": "Bei einer Wahlkampfveranstaltung spricht der Bundeskanzler über ein neues Narrativ für Deutschland. Russland forderte er auf, die »hybride Kriegsführung« zu stoppen. Mit deutlichen Worten.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fest-entschlossen-uns-zu-verteidigen-bundeskanzler-sendet-botschaft-an-putin-a-19da0f9d-a99a-4e43-bec3-5f55b2d971cc#ref=rss",
+      "publishedAt": "2026-09-05T18:28:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Schifffahrt - Panamakanalbehörde reduziert wegen El Niño Anzahl der täglich erlaubten Schiffe",
-      "excerpt": "Der Schiffsverkehr durch den Panamakanal wird schrittweise verringert. Wegen des Klimaphänomens El Niño und der damit verbundenen Trockenheit wird die Zahl der Schiffe, die die Wasserstraße zwischen dem Atlantik und dem ",
-      "url": "https://www.deutschlandfunk.de/panamakanalbehoerde-reduziert-wegen-el-ni-o-anzahl-der-taeglich-erlaubten-schiffe-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Winnetou-Darsteller über „Indianer“: „Für mich ist es einfach ein Kindheitstraum“",
+      "excerpt": "Alexander Klaws spielt den Winnetou bei den Karl-May-Spielen in Bad Segeberg. Ein Gespräch über komplexe Debatten – und einen sehr anstrengenden Beruf. mehr...",
+      "url": "https://taz.de/Winnetou-Darsteller-ueber-Indianer/!6208760/",
+      "publishedAt": "2026-09-05T18:21:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Interview - FDP-Vize Teuteberg fordert mehr Zusammenhalt in Ost und West",
-      "excerpt": "Die stellvertretende FDP-Bundesvorsitzende Teuteberg hat Debatten über einen Ost-West-Gegensatz in Deutschland erneut kritisiert.",
-      "url": "https://www.deutschlandfunk.de/fdp-vize-teuteberg-fordert-mehr-zusammenhalt-in-ost-und-west-100.html",
-      "publishedAt": "2026-09-05T17:17:47.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Serie „Selling Sex“: In immer neue Abhängigkeiten",
+      "excerpt": "Die ARD-Serie „Selling Sex“ soll einen Einblick in das Leben von Escorts geben. Und bleibt flach, wo Tiefe möglich wäre. Leid wird weggelacht. mehr...",
+      "url": "https://taz.de/Serie-Selling-Sex/!6206530/",
+      "publishedAt": "2026-09-05T18:21:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
+      "excerpt": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel. mehr...",
+      "url": "https://taz.de/Rheinmetall-Entwaffnen-in-Koeln/!6208939/",
+      "publishedAt": "2026-09-05T18:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Rohstoffpolitik: Mit dem kolonialen Erbe am runden Tisch",
+      "excerpt": "Unsere Autorin war zu einem Gespräch über Rohstoffpolitik geladen, wo Einigkeit herrschte: Menschenrechte sind deplatziert, wenn es um Ressourcen geht. mehr...",
+      "url": "https://taz.de/Rohstoffpolitik/!6209804/",
+      "publishedAt": "2026-09-05T18:18:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
+      "excerpt": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben? mehr...",
+      "url": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
+      "publishedAt": "2026-09-05T18:18:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Politische Führung: Deutschland ist keine GmbH",
+      "excerpt": "Ein Kanzler kann nicht einfach anweisen, politische Führung funktioniert komplexer als in Unternehmen. Und genau das ist das Problem von Friedrich Merz. mehr...",
+      "url": "https://taz.de/Politische-Fuehrung/!6209839/",
+      "publishedAt": "2026-09-05T18:17:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Zivilgesellschaft in Sachsen-Anhalt: Bündnis gegen die Einsamkeit",
+      "excerpt": "In den ländlichen Regionen Sachsen-Anhalts stellt sich Annekatrin Els vom Zerbster Bündnis für Demokratie gegen den Rechtsruck. mehr...",
+      "url": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6208762/",
+      "publishedAt": "2026-09-05T18:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Punksänger Monchi im Gespräch: „Gehen? Digga, ist das euer Ernst?“",
+      "excerpt": "Jan Gorkow, besser bekannt als Monchi, Sänger der Band Feine Sahne Fischfilet, erzählt von der Kraft des Machens und warum er nicht mehr alle „Cops“ für „Bastards“ hält. mehr...",
+      "url": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
+      "publishedAt": "2026-09-05T18:06:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -378,22 +450,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Fußball als Demokratieretter: Es kommt auch Gutes von der Kurve",
-      "excerpt": "Ausschreitungen, rechtsextreme Vorfälle, Machoverhalten: Fußballfans haben keinen guten Ruf. Trotzdem können sie Vorbilder sein für die Demokratie. mehr...",
-      "url": "https://taz.de/Wie-Fussball-ein-Vorbild-fuer-die-Demokratie-sein-kann/!6206476/",
-      "publishedAt": "2026-09-05T13:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Politische Bildung und Landtagswahlen: Im Gespräch gewinnen",
-      "excerpt": "Mit einem Wahl-O-Mat in den Straßenkampf? Das geht! Das Game „Kanzlerclash“ zeigt, wie schlagkräftig Argumente sein können – oder eben nicht. mehr...",
-      "url": "https://taz.de/Politische-Bildung-und-Landtagswahlen/!6209491/",
-      "publishedAt": "2026-09-05T13:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
       "excerpt": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny Barke.",
@@ -407,14 +463,6 @@
       "excerpt": "Verwirrung um eine Deutschlangflagge: Siegmund poltert über ein entferntes Graffiti vor dem Magdeburger Dom, das gar nicht entfernt wurde. Was ist da los? Und: Auch in Magdeburg demonstrieren Tausende für eine weltoffene",
       "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-tausende-menschen-demonstrieren-in-magdeburg-fuer-eine-weltoffene-gesellschaft-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
       "publishedAt": "2026-09-05T12:47:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
-      "excerpt": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde. mehr...",
-      "url": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
-      "publishedAt": "2026-09-05T12:46:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -435,34 +483,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Nach Sturzflut im Himalaya: Retter bergen in Nepal zwei weitere Überlebende",
-      "excerpt": "Die Retter in Nepal können zwei weitere Erfolge verbuchen. Sie finden einen weiteren Arbeiter in einem Tunnel und eine Frau in den Trümmern eines Hauses. mehr...",
-      "url": "https://taz.de/Nach-Sturzflut-im-Himalaya/!6210498/",
-      "publishedAt": "2026-09-05T11:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "UNO stimmt Weltkarten-Reform zu: Afrika endlich größer als Grönland",
-      "excerpt": "Die Afrikanische Union beklagt schon länger, ihr Kontinent werde auf Weltkarten nicht realistisch dargestellt. Nun nimmt die UN-Vollversammlung eine Resolution an, nach der sich das ändern soll. mehr...",
-      "url": "https://taz.de/UNO-stimmt-Weltkarten-Reform-zu/!6210497/",
-      "publishedAt": "2026-09-05T11:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
       "excerpt": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet. mehr...",
       "url": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
       "publishedAt": "2026-09-05T11:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "taz-Forum in Rostock: „Wenn wir abhauen, ist es noch dööfer“",
-      "excerpt": "Beim taz-Forum in Rostock geben sich zivilgesellschaftlich Engagierte kämpferisch vor der Wahl – und rot-rot-grüne Vertreter sagen Unterstützung zu. mehr...",
-      "url": "https://taz.de/taz-Forum-in-Rostock/!6210490/",
-      "publishedAt": "2026-09-05T11:16:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -491,26 +515,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Nach Cyberangriff auf Berlins Verwaltung: Stundenzettel im Darknet",
-      "excerpt": "Das Ultimatum an den Berliner Senat ist abgelaufen. Nach ihrem erfolglosen Erpressungsversuch macht die Hackergruppe Rhysida die gekaperten Daten öffentlich zugänglich. mehr...",
-      "url": "https://taz.de/Nach-Cyberangriff-auf-Berlins-Verwaltung/!6210487/",
-      "publishedAt": "2026-09-05T08:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Wahlplakate 2026: Von „Milfs“ bis zu „männerfreien Innenstädten“",
       "excerpt": "Sachsen-Anhalt, Mecklenburg-Vorpommern, Berlin und auch der Kommunalwahlkampf in Niedersachsen: Was die Parteien im heißen Wahlkampfsommer auf ihre Plakate schreiben. mehr...",
       "url": "https://taz.de/Wahlplakate-2026/!6205095/",
       "publishedAt": "2026-09-05T07:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wasserskandal in Kroatien: Das Gift, der Müll, der Beef und der Boden",
-      "excerpt": "Unter dem Motto „Lauf für die Lika. Lauf für Kroatien“ wird gegen die Regierung demonstriert. Auch unter Promis sorgt das für Schlammschlachten. mehr...",
-      "url": "https://taz.de/Wasserskandal-in-Kroatien/!6206557/",
-      "publishedAt": "2026-09-05T07:37:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -704,14 +712,6 @@
       "url": "https://www.deutschlandfunk.de/bmz-kuerzungen-internationale-bildungszusammenarbeit-in-gefahr-100.html",
       "publishedAt": "2026-09-04T12:36:32.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Ukraine: Wolodymyr Selenskyj verurteilt Schusswechsel zwischen ukrainischen Geheimdiensten",
-      "excerpt": "Nach einer Schießerei zwischen ukrainischem Militär- und Inlandsgeheimdienst greift Präsident Selenskyj durch. Beide Dienste sollen zur Verantwortung gezogen werden. Hintergrund könnte ein Streit über einen russischen Fr",
-      "url": "https://www.spiegel.de/politik/selenskyj-verurteilt-schusswechsel-zwischen-ukrainischen-geheimdiensten-a-71105a6c-72d4-4cf4-be8a-b635d5c5a522#ref=rss",
-      "publishedAt": "2026-09-04T12:23:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
