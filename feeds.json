@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-09-07T01:01:35.381Z",
+  "updatedAt": "2026-09-07T06:06:48.901Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Wahl-Talk bei Caren Miosga - Was de Maizière bei der AfD nur ungern zugibt",
+      "title": "Wahl-Beben - Heute Schmerz-Tag!",
+      "excerpt": "CDU und SPD ringen nach dem Wahldebakel in Sachsen-Anhalt um Kurs und Führung.",
+      "url": "https://www.bild.de/politik/inland/merz-und-die-koalition-cdu-und-spd-beraten-nach-wahldesaster-6a9ae78d08c763dcf81f48e6",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trotz Rekord-Ergebnis in Sachsen-Anhalt - In einem Wahlkreis hatte die AfD keine Chance",
+      "excerpt": "Landtagswahl in Sachsen-Anhalt: Der Überblick über die Ergebnisse bei den Erststimmen.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-in-einem-wahlkreis-hatte-die-afd-gar-keine-chance-6a9e200f240b302c8a83ba2b",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Protokoll - So lief die wilde Partynacht der AfD",
+      "excerpt": "Die AfD holt das beste Ergebnis in ihrer Geschichte.",
+      "url": "https://www.bild.de/politik/inland/afd-so-lief-die-wilde-partynacht-das-grosse-bild-protokoll-6a9dfb65181cb962d488607f",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahl-Talk bei Caren Miosga - „AfD ist zu einer Partei der Hoffnung geworden“",
       "excerpt": "Überraschende Aussage von Ex-Bundesminister Thomas de Maizière im Talk bei Caren Miosga.",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/sachsen-anhalt-wahl-was-de-maiziere-bei-der-afd-nur-ungern-zugibt-6a9df519181cb962d488606d",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sachsen-Anhalt - AfD braucht Partner zum Regieren! BSW drin",
+      "excerpt": "Die AfD verpasst die absolute Mehrheit in Sachsen-Anhalt.",
+      "url": "https://www.bild.de/politik/inland/keine-absolute-mehrheit-fuer-die-afd-in-sachsen-anhalt-6a9dee6c181cb962d4886050",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von BILD-Chefin Marion Horn - Der Zorn der Wähler",
+      "excerpt": "Es hat sich lange angedeutet und der Wahlabend ist nicht weniger als die Implosion der politischen bürgerlichen Mitte. Man muss Sach...",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-bild-chefin-marion-horn-der-zorn-der-waehler-6a9db0656067248f60a53436",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mail von Martenstein - Euer Durchlaucht Heinrich Prinz Reuß!",
+      "excerpt": "Ein Prinz sitzt jahrelang in U-Haft, eine mutmaßliche Täterin bleibt frei.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-euer-durchlaucht-heinrich-prinz-reuss-6a9dd7c3181cb962d4885f96",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Was am langen Wahlabend passierte - Um 20.42 Uhr gab es den Kuss auf den Siegmund",
+      "excerpt": "Wahlbeben in Sachsen-Anhalt! Die regierende CDU stürzt bei der Landtagswahl auf unter 20 Prozent ab.",
+      "url": "https://www.bild.de/politik/inland/was-am-langen-wahlabend-passierte-um-20-42-uhr-gab-es-den-kuss-auf-den-siegmund-6a9d6adfc0adcd67d87bb8c0",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +70,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +78,7 @@
       "title": "Internationale Presseschau - „Dieser Sonntag markiert den völligen Absturz der CDU“",
       "excerpt": "Ausländische Medien sehen im AfD-Erfolg eine Zäsur und Niederlage für die CDU.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sachsen-anhalt-wahl-weltpresse-spricht-von-afd-durchbruch-6a9dc90b181cb962d4885f01",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +86,7 @@
       "title": "Statement von Sven Schulze - „Die Menschen haben ein Zeichen gesetzt“",
       "excerpt": "Sachsen-Anhalts Ministerpräsident Sven Schulze (CDU) hat die Niederlage seiner Partei eingeräumt und der AfD zum Wahlsieg gratuliert.",
       "url": "https://www.bild.de/politik/inland/statement-von-sven-schulze-die-menschen-haben-ein-zeichen-gesetzt-6a9d95e26067248f60a531a9",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +94,7 @@
       "title": "Analyse von Paul Ronzheimer - „Das ist eine absolute Katastrophe für die CDU“",
       "excerpt": "BILD-Vize Paul Ronzheimer analysiert zusammen mit BILD-Politikchef Jan Schäfer die ersten Ergebnisse zur Landtagswahl in Sachsen-Anh...",
       "url": "https://www.bild.de/politik/inland/analyse-von-paul-ronzheimer-das-ist-eine-absolute-katastrophe-fuer-die-cdu-6a9d6b98240b302c8a83b227",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +102,7 @@
       "title": "Philipp Amthor - „Das sind Erschütterungen für die Parteien“",
       "excerpt": "CDU-Staatsminister Philipp Amthor mit einer ersten Reaktion auf die Wahlergebnisse in Sachsen-Anhalt.",
       "url": "https://www.bild.de/politik/inland/philipp-amthor-das-sind-erschuetterungen-fuer-die-parteien-6a9d9c346067248f60a5325e",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +110,7 @@
       "title": "Landtagswahl Sachsen-Anhalt - Ist die Brandmauer jetzt abgebrannt?",
       "excerpt": "Nach dem AfD-Erfolg wächst der Druck auf die CDU, ihre Brandmauer zu überdenken.",
       "url": "https://www.bild.de/politik/inland/landtagswahl-sachsen-anhalt-ist-die-brandmauer-jetzt-abgebrannt-6a9d7c91181cb962d48859f3",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +118,7 @@
       "title": "Friedrich Merz - Was macht jetzt eigentlich der Kanzler?",
       "excerpt": "Nach dem CDU-Debakel berät sich Kanzler Merz mit engsten Vertrauten über die Krise.",
       "url": "https://www.bild.de/politik/inland/friedrich-merz-warum-der-kanzler-nach-der-sachsen-anhalt-wahl-schwieg-6a9dc04bc0adcd67d87bbf12",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +126,7 @@
       "title": "Nach Wahl-Debakel - Jetzt will sich die SPD den Kanzler vorknöpfen",
       "excerpt": "Nach dem Sachsen-Anhalt-Debakel verschärft die SPD ihren Kurs gegen Kanzler Merz.",
       "url": "https://www.bild.de/politik/inland/nach-wahl-debakel-spd-macht-kampfansage-an-den-kanzler-6a9db5996067248f60a53490",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +134,7 @@
       "title": "Nach Krisensitzung - Schulze verlässt Maritim Hotel",
       "excerpt": "Etwa eine Stunde haben sich Sven Schulze, seine Ehefrau Kati, Landrat Andre Schröder, Landtagsmitglied Sven Czekalla und seine Press...",
       "url": "https://www.bild.de/politik/nach-krisensitzung-schulze-verlaesst-maritim-hotel-6a9dd5da240b302c8a83b88d",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
@@ -86,95 +142,47 @@
       "title": "Glückwünsche auch aus Russland - Trump postet Hochrechnung zur Sachsen-Anhalt-Wahl",
       "excerpt": "Trump verbreitet auf Truth Social eine Grafik zum AfD-Sieg in Sachsen-Anhalt.",
       "url": "https://www.bild.de/politik/auf-truth-social-trump-postet-hochrechnung-zur-sachsen-anhalt-wahl-6a9dbf406067248f60a53571",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
+      "publishedAt": "2026-09-07T06:06:48.653Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Es ging um Preise und soziale Sicherheit - Diese Themen entschieden die Wahl",
-      "excerpt": "Soziale Sicherheit und steigende Preise haben die Landtagswahl entscheidend geprägt.",
-      "url": "https://www.bild.de/politik/inland/es-ging-um-preise-und-soziale-sicherheit-geldfragen-entschieden-die-wahl-in-sachsen-anhalt-6a9d8fb3181cb962d4885b2a",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach dem AfD-Triumph - Merz verlässt CDU-Zentrale um 22:15 Uhr",
-      "excerpt": "Friedrich Merz kommt um 16.20 Uhr im Konrad-Adenauer-Haus in Berlin an. Der Kanzler betritt die CDU-Parteizentrale und bleibt dort ü...",
-      "url": "https://www.bild.de/politik/nach-dem-afd-triumph-merz-verlaesst-cdu-zentrale-um-22-15-uhr-6a9dcf39240b302c8a83b842",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Dann haben wir halt 50 oder 55 Prozent“ - Siegmund spricht schon von Neuwahlen",
-      "excerpt": "AfD-Mann Siegmund stellt Regierungswillen infrage und droht mit Neuwahlen.",
-      "url": "https://www.bild.de/politik/inland/ulrich-siegmund-afd-haelt-sich-trotz-wahlsieg-neuwahlen-offen-6a9dc93a240b302c8a83b80f",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "UN stimmt für neue Version - Fällt Ihnen auf, was auf dieser Weltkarte neu ist?",
-      "excerpt": "Die Generalversammlung der UN hat dafür gestimmt, die Weltkarte zu ersetzen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/un-stimmt-fuer-neue-version-faellt-ihnen-auf-was-auf-dieser-weltkarte-neu-ist-6a9b460b240b302c8a839c57",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Cyberkriminelle stellen Zugangsdaten ins Netz - Neue Eskalation nach Hacker-Angriff in der Hauptstadt",
-      "excerpt": "Nach einem Cyberangriff drohen Berlins Verwaltung und Wohngeldstellen massive Probleme.",
-      "url": "https://www.bild.de/politik/inland/hacker-stellen-geheime-zugangsdaten-ins-netz-6a9daf36181cb962d4885dbe",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sachsen-Anhalt statt Saarland - Wegen Wahlkrimi: Tatort fällt aus",
-      "excerpt": "Berlin - Für Millionen Deutsche ein festes Sonntagsritual – auf das sie heute verzichten müssen: Die ARD hat spontan wegen des Magde...",
-      "url": "https://www.bild.de/politik/inland/tatort-aus-wegen-wahlkrimi-ard-aendert-sonntagsprogramm-6a9dbefb240b302c8a83b77f",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Frau Julia gratuliert zum AfD-Sieg - Kuss auf den Siegmund!",
-      "excerpt": "AfD-Mann Siegmund holt historischen Wahlsieg, doch die Regierungsbildung stockt.",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-nach-der-wahl-droht-die-unregierbarkeit-6a9bbd05181cb962d4884534",
-      "publishedAt": "2026-09-07T01:01:35.376Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Vorläufiges Ergebnis - AfD bei Landtagswahl in Sachsen-Anhalt stärkste Kraft - CDU stürzt ab - BSW im Landtag",
+      "excerpt": "Die AfD hat die Landtagswahl in Sachsen-Anhalt laut vorläufigen Ergebnissen gewonnen, eine absolute Mehrheit aber verpasst. Nach Angaben der Landeswahlleitung kam die Partei auf 43,8 Prozent. Die CDU stürzte ab auf 17,2 ",
+      "url": "https://www.deutschlandfunk.de/afd-bei-landtagswahl-in-sachsen-anhalt-staerkste-kraft-cdu-stuerzt-ab-bsw-im-landtag-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Newsblog zur Landtagswahl in Sachsen-Anhalt - CDU gewinnt kein einziges Direktmandat",
-      "excerpt": "+++ Die CDU hat bei der Landtagswahl in Sachsen-Anhalt kein einziges Direktmandat gewonnen.",
+      "excerpt": "+++ Nach dem knappen Wahlerfolg des BSW fordert Parteigründerin Wagenknecht einen \"politischen Neubeginn\" in Sachsen-Anhalt.",
       "url": "https://www.deutschlandfunk.de/cdu-gewinnt-kein-einziges-direktmandat-100.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Landtagswahl - Hochrechnung: AfD verdoppelt ihr Ergebnis in Sachsen-Anhalt - CDU stürzt ab - BSW könnte knapp in den Landtag einziehen",
-      "excerpt": "Die AfD in Sachsen-Anhalt wird der jüngsten Hochrechnung zufolge mit 44,0 Prozent stärkste Kraft - und hat damit ihr Ergebnis aus der letzten Wahl mehr als verdoppelt. Die CDU halbierte in etwa ihre Stimmenzahl und wird ",
-      "url": "https://www.deutschlandfunk.de/hochrechnung-afd-verdoppelt-ihr-ergebnis-in-sachsen-anhalt-cdu-stuerzt-ab-bsw-koennte-knapp-in-den-l-102.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "title": "Landtagswahl in Sachsen-Anhalt - AfD-Spitzenkandidat Siegmund sieht klaren Regierungsauftrag",
+      "excerpt": "Nach der Landtagswahl in Sachsen-Anhalt hat Wahlsieger und AfD-Spitzenkandidat Siegmund erklärt, keine Kompromisse für eine Koalition eingehen zu wollen. Sollte eine Regierungsbildung nicht funktionieren, komme auch eine",
+      "url": "https://www.deutschlandfunk.de/afd-spitzenkandidat-siegmund-sieht-klaren-regierungsauftrag-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Landtagswahl - Reaktionen der Parteien in Sachsen-Anhalt",
-      "excerpt": "Nach der Landtagswahl in Sachsen-Anhalt hat Wahlsieger und AfD-Spitzenkandidat Siegmund erklärt, keine Kompromisse für eine Koalition eingehen zu wollen. Seine Partei wolle ihre Werte und Ziele nicht für Machtspielchen a",
-      "url": "https://www.deutschlandfunk.de/reaktionen-der-parteien-in-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Signal an Berlin\" - SPD-Führung kündigt nach Landtagswahl in Sachsen-Anhalt Korrekturen am Reformkurs der Bundesregierung an",
+      "title": "\"Signal an Berlin\" - SPD-Führung kündigt nach Landtagswahl in Sachsen-Anhalt Korrekturen am Reformkurs der Bundesregierung an - Union widerspricht",
       "excerpt": "​Die SPD-Führung hat nach der Landtagswahl in Sachsen-Anhalt Korrekturen am Reformkurs der Bundesregierung angekündigt. Das Ergebnis ‌sei auch ⁠ein \"Signal an Berlin\" und ⁠ein Grund, über Politik der Bundesregierung nach",
       "url": "https://www.deutschlandfunk.de/spd-fuehrung-kuendigt-nach-landtagswahl-in-sachsen-anhalt-korrekturen-am-reformkurs-der-bundesregier-102.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtagswahl - \"Erdbeben, das nicht nur Deutschland erschüttert\" - So kommentiert die Presse den Wahlsieg der AfD in Sachsen-Anhalt",
+      "excerpt": "Das Interesse an der Landtagswahl in Sachsen-Anhalt ist groß - im Inland wie im Ausland. Hunderte Journalisten waren für das Wochenende in Magdeburg akkreditiert, darunter Reporter aus den USA, Kanada, China und Taiwan. ",
+      "url": "https://www.deutschlandfunk.de/erdbeben-das-nicht-nur-deutschland-erschuettert-so-kommentiert-die-presse-den-wahlsieg-der-afd-in-sa-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +190,7 @@
       "title": "Nach Wahl in Sachsen-Anhalt - Demonstrationen gegen AfD in Brandenburg, Berlin, Rheinland-Pfalz und Hessen",
       "excerpt": "Nach der Wahl in Sachsen-Anhalt haben in mehreren Bundesländern Menschen gegen die AfD protestiert.",
       "url": "https://www.deutschlandfunk.de/demonstrationen-gegen-afd-in-brandenburg-berlin-rheinland-pfalz-und-hessen-102.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +198,15 @@
       "title": "Religionsvertreter - Kirchen und Zentralrat der Juden besorgt über AfD-Wahlerfolg",
       "excerpt": "Vertreter der Kirchen haben mit Entsetzen auf den AfD-Erfolg in Sachsen-Anhalt reagiert.",
       "url": "https://www.deutschlandfunk.de/kirchen-und-zentralrat-der-juden-besorgt-ueber-afd-wahlerfolg-100.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Südostasien - Flugverkehr in Indonesien wegen Vulkanausbruchs weiter gestört - Mehrere Airports geschlossen",
+      "excerpt": "In Indonesien ist der Flugverkehr nach dem Ausbruch des Vulkans Anak Krakatau weiterhin teilweise lahmgelegt.",
+      "url": "https://www.deutschlandfunk.de/flugverkehr-in-indonesien-wegen-vulkanausbruchs-weiter-gestoert-mehrere-airports-geschlossen-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,15 +214,31 @@
       "title": "Sabotage an Stromleitungen - Großeinsatz am Hambacher Forst in Nordrhein-Westfalen endet erfolglos",
       "excerpt": "Wegen versuchter Sabotage-Angriffe auf das deutsche Stromnetz hat die Polizei mit einem Großaufgebot am Hambacher Forst bei Kerpen westlich von Köln nach dem Tatverdächtigen gesucht - ohne Erfolg. Es seien keine Hinweise",
       "url": "https://www.deutschlandfunk.de/grosseinsatz-am-hambacher-forst-in-nordrhein-westfalen-endet-erfolglos-102.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Parteiaustritten - Bisherige thüringische BSW-Vorsitzende Wolf gründet neue Partei \"Thüringen.Gerecht\"",
-      "excerpt": "In Thüringen haben frühere BSW-Politiker eine neue Partei gegründet.",
-      "url": "https://www.deutschlandfunk.de/bisherige-thueringische-bsw-vorsitzende-wolf-gruendet-neue-partei-thueringen-gerecht-110.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "title": "Serbien - Kriegsverbrecher Mladić wird feierlich in Belgrad beigesetzt",
+      "excerpt": "Der gestorbene bosnisch-serbische Kriegsverbrecher Mladić wird heute feierlich in Serbien beigesetzt.",
+      "url": "https://www.deutschlandfunk.de/kriegsverbrecher-mladi-wird-feierlich-in-belgrad-beigesetzt-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Den Haag - Deutsche Rüstungsexporte nach Israel vor UNO-Gericht",
+      "excerpt": "Der Internationale Gerichtshof befasst sich heute erneut mit den deutschen Rüstungsexporten nach Israel.",
+      "url": "https://www.deutschlandfunk.de/deutsche-ruestungsexporte-nach-israel-vor-uno-gericht-100.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Tote bei neuen israelischen Angriffen im Südlibanon",
+      "excerpt": "Bei einem weiteren israelischen Angriff im Süden des Libanon sind drei Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/tote-bei-neuen-israelischen-angriffen-im-suedlibanon-102.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +246,7 @@
       "title": "Ukraine - Kushner und Witkoff aus Kiew abgereist, Selenskyj pessimistisch zu Friedensschluss mit Russland",
       "excerpt": "Die US-Unterhändler Witkoff und Kushner sind nach ihrem Besuch in Kiew abgereist.",
       "url": "https://www.deutschlandfunk.de/kushner-und-witkoff-aus-kiew-abgereist-selenskyj-pessimistisch-zu-friedensschluss-mit-russland-102.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +254,15 @@
       "title": "Kontrollanspruch durch USA - EU-Kommissionspräsidenten von der Leyen für gemeinsame Erklärung in Grönland",
       "excerpt": "Die Präsidentin der Europäischen Kommission, von der Leyen, ist zu einem zweitägigen Besuch auf Grönland eingetroffen.",
       "url": "https://www.deutschlandfunk.de/eu-kommissionspraesidenten-von-der-leyen-fuer-gemeinsame-erklaerung-in-groenland-108.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Meerenge - Iran will nahe Straße von Hormus \"Sperrzone\" einrichten",
+      "excerpt": "Der Iran plant laut Medienberichten nahe der strategisch wichtigen Straße von Hormus die Einrichtung einer sogenannten \"Sperrzone\".",
+      "url": "https://www.deutschlandfunk.de/iran-will-nahe-strasse-von-hormus-sperrzone-einrichten-102.html",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +270,7 @@
       "title": "Himalaya - Zahl der Toten auf fast 1.400 gestiegen",
       "excerpt": "Elf Tage nach der Sturzflut im Himalaya ist die Zahl der bestätigten Todesfälle auf fast 1.400 gestiegen.",
       "url": "https://www.deutschlandfunk.de/zahl-der-toten-auf-fast-1-400-gestiegen-104.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +278,7 @@
       "title": "Florida - Mindestens fünf Tote bei Unfall mit Amazon-Frachtflugzeug in Miami",
       "excerpt": "Im US-Bundesstaat Florida sind bei einem Unfall mit einem Frachtflugzeug ‌auf dem ⁠Flughafen von ⁠Miami mindestens fünf Menschen ums Leben gekommen.",
       "url": "https://www.deutschlandfunk.de/mindestens-fuenf-tote-bei-unfall-mit-amazon-frachtflugzeug-in-miami-100.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,32 +286,104 @@
       "title": "Insider - Netanjahu ordnet Räumung ungenehmigter Siedler-Außenposten an",
       "excerpt": "Israels Ministerpräsident Netanjahu hat die Räumung von nicht genehmigten Siedler-Außenposten im Westjordanland angeordnet.",
       "url": "https://www.deutschlandfunk.de/netanjahu-ordnet-raeumung-ungenehmigter-siedler-aussenposten-an-104.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
+      "publishedAt": "2026-09-07T05:59:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Fußball-Bundesliga - Frankfurt - Augsburg 1:4, Hamburg - Mainz 0:5",
-      "excerpt": "In der Fußball-Bundesliga hat zum Ende des zweiten Spieltags Eintracht Frankfurt 1:4 gegen Augsburg verloren. Frankfurt hatte zunächst 1:0 geführt. Nach der Pause drehte Augsburg das Spiel und gewann letztlich souverän.",
-      "url": "https://www.deutschlandfunk.de/frankfurt-augsburg-1-4-hamburg-mainz-0-108.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt live – News zur Landtagswahl: Wagenknecht deutet erneut mögliche AfD-Unterstützung an",
+      "excerpt": "Das BSW wird wahrscheinlich im Landtag vertreten sein. Parteigründerin Sahra Wagenknecht spricht erneut davon, dass die »Brandmauer-Politik« gescheitert sei. Und: Landesparteien in Mecklenburg-Vorpommern warnen vor Rücke",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
+      "publishedAt": "2026-09-07T05:43:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Rennsport - Aufholjagd von Platz 19 auf Platz 1: Mercedes-Fahrer Kimi Antonelli gewinnt Großen Preis von Italien",
-      "excerpt": "Mercedes-Pilot Kimi Antonelli hat den Großen Preis von Italien gewonnen. Damit rückt der WM-Titel für ihn erneut ein Stück näher.",
-      "url": "https://www.deutschlandfunk.de/aufholjagd-von-platz-19-auf-platz-1-mercedes-fahrer-kimi-antonelli-gewinnt-grossen-preis-von-italien-108.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Neue Technologie Fernkühlung: Cool bleiben in der Wüste",
+      "excerpt": "In den Golfstaaten setzt man auf die Fernkühlung ganzer Viertel. Die Kühlsysteme sind teuer im Bau, aber deutlich effizienter als bisher in Europa. mehr...",
+      "url": "https://taz.de/Neue-Technologie-Fernkuehlung/!6210540/",
+      "publishedAt": "2026-09-07T05:25:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wetter - Am Montag noch einmal bis 33 Grad warm, dann mehr Wolken",
-      "excerpt": "Das Wetter: Nachts in der Südosthälfte gering bewölkt oder klar und niederschlagsfrei. Sonst aufziehende Quellbewölkung, dazu im Westen und Südwesten örtlich Schauer. Temperaturrückgang auf 16 bis 5 Grad. Am Tage wechsel",
-      "url": "https://www.deutschlandfunk.de/am-montag-noch-einmal-bis-33-grad-warm-dann-mehr-wolken-116.html",
-      "publishedAt": "2026-09-07T00:59:35.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Dicke Eier, freizügige Weibchen",
+      "excerpt": "Die lustige Tierwelt und ihre ernste Erforschung (250): Kohlweißlinge sind wieder in großer Zahl da – mitsamt ihrem seltsamen Paarungsverhalten. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6206292/",
+      "publishedAt": "2026-09-07T05:22:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Lehren aus der Wahl in Sachsen-Anhalt: Der gut gelaunte Rechtsextremismus",
+      "excerpt": "Die AfD kann in Sachsen-Anhalt wohl regieren – und die Parteien der Mitte halten sich erstmal die Ohren zu. Sechs Lehren aus der Landtagswahl. mehr...",
+      "url": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
+      "publishedAt": "2026-09-07T05:11:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ergebnis Sachsen-Anhalt: Absolute Mehrheit verfehlt",
+      "excerpt": "Die AfD holt laut vorläufigem amtlichen Wahlergebnis nicht die absolute Mehrheit in Sachsen-Anhalt. Das BSW wird Königsmacherin. Der Morgen nach der Wahl. mehr...",
+      "url": "https://taz.de/Ergebnis-Sachsen-Anhalt/!6210760/",
+      "publishedAt": "2026-09-07T04:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Landtagswahl in Sachsen-Anhalt: Wie die AfD die Wahl gewann - der Grafik-Überblick",
+      "excerpt": "Am Ende waren es 3530 BSW-Stimmen zu viel für die AfD: was die Wahl entschieden hat, wo die Regierung enttäuschte und welche Lehren daraus folgen. Alles Wichtige zu Sachsen-Anhalt im Grafik-Überblick.",
+      "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss",
+      "publishedAt": "2026-09-07T04:54:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Sachsen-Anhalt, Wahl, AfD, Friedrich Merz, CDU, Daten-Leak Berlin",
+      "excerpt": "Die AfD siegt in Sachsen-Anhalt. Kanzler Friedrich Merz gerät weiter unter Druck. Und ein Datenleck sorgt für Chaos in Berlin. Das ist die Lage am Montagmorgen.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-sachsen-anhalt-wahl-afd-friedrich-merz-cdu-daten-leak-berlin-a-0e0fd4a8-710e-4641-b55e-b8756339cc0d#ref=rss",
+      "publishedAt": "2026-09-07T03:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach der Wahl: Wie geht es weiter?",
+      "excerpt": "Die Wahl in Sachsen-Anhalt ist gelaufen, doch die Regierungsbildung dürfte kompliziert werden. Was sind die nächsten Schritte? Bis wann muss ein Ministerpräsident gewählt werden? Ein Überblick. Von F. Bräutigam, A. Tadey",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+      "publishedAt": "2026-09-07T02:55:15.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Landtagswahl in Sachsen-Anhalt: AfD gewinnt vor CDU, verpasst aber absolute Mehrheit",
+      "excerpt": "Mit ihrem Spitzenkandidaten Ulrich Siegmund hat die AfD in Sachsen-Anhalt ein historisches Ergebnis eingefahren. Für die absolute Mehrheit reicht es aber nicht. Die Regierungsbildung dürfte schwierig werden.",
+      "url": "https://www.spiegel.de/politik/landtagswahl-in-sachsen-anhalt-afd-gewinnt-vor-cdu-verpasst-aber-absolute-mehrheit-a-fb39ba0f-a1e5-4256-b7b2-1126b2454473#ref=rss",
+      "publishedAt": "2026-09-07T01:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+      "excerpt": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW ankommen, das den Einzug k",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "publishedAt": "2026-09-07T01:14:02.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
+      "excerpt": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition mit der AfD weiter ab",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
+      "publishedAt": "2026-09-07T01:13:15.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
+      "excerpt": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder g",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+      "publishedAt": "2026-09-07T01:13:08.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -290,22 +402,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "excerpt": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder g",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T21:53:59.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-      "excerpt": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition mit der AfD weiter ab",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T21:42:58.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Zivilgesellschaft in Sachsen-Anhalt: Weitermachen, irgendwie",
       "excerpt": "Am Wahlsonntag bangen antifaschistische Menschen in Sachsen-Anhalt um ihre Zukunft. Aufgeben kommt für viele trotzdem nicht infrage. mehr...",
@@ -320,14 +416,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-gesellschaft-landtagswahl-sachsen-anhalt-100.html",
       "publishedAt": "2026-09-06T21:39:17.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "CDU verliert die Wahl in Sachsen-Anhalt: Zeitenwende für die CDU",
-      "excerpt": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein. mehr...",
-      "url": "https://taz.de/CDU-verliert-die-Wahl-in-Sachsen-Anhalt/!6209764/",
-      "publishedAt": "2026-09-06T21:32:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -372,7 +460,7 @@
     {
       "source": "TAZ.DE",
       "title": "Landtagswahl in Sachsen-Anhalt: Der dicke braune Balken",
-      "excerpt": "Die AfD ist laut Hochrechnungen klar stärkste Partei bei der Landtagswahl in Sachsen-Anhalt. Alle Grafiken zur Wahl. mehr...",
+      "excerpt": "Die AfD ist klar stärkste Partei, weil sie bei Nichtwählern punktet. BSW erstmals im Landtag. Auffälliges Stimmensplittng bei Linken und Grünen. Alle Grafiken zur Wahl. mehr...",
       "url": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6188290/",
       "publishedAt": "2026-09-06T20:23:00.000Z",
       "category": "POLITIK"
@@ -450,14 +538,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "AfD Sachsen-Anhalt nach Wahlergebnis: Nah am totalen Sieg",
-      "excerpt": "Die AfD erzielt in Sachsen-Anhalt das stärkste Ergebnis einer rechtsextremen Partei seit 1945. Könnte sie nun auch an die Macht gelangen? mehr...",
-      "url": "https://taz.de/AfD-Sachsen-Anhalt-nach-Wahlergebnis/!6209766/",
-      "publishedAt": "2026-09-06T18:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Landtagswahl in Sachsen-Anhalt: Was der haushohe AfD-Sieg für Deutschland bedeutet",
       "excerpt": "Es ist ein Sprung in eine neue Dimension: Die AfD hat in Sachsen-Anhalt haushoch gewonnen. Was das für Deutschland bedeutet.",
@@ -530,14 +610,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Neue Rechenzentren in Deutschland: „Am Ende muss es ein fairer Tausch sein“",
-      "excerpt": "Der Bau von Rechenzentren sorgt für Proteste. Wie man die ernst nehmen und dennoch für digitale Souveränität sorgen kann, erklären zwei IT-Experten. mehr...",
-      "url": "https://taz.de/Neue-Rechenzentren-in-Deutschland/!6210365/",
-      "publishedAt": "2026-09-06T17:53:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Wahlverhalten bei der Landtagswahl in Sachsen-Anhalt 2026",
       "excerpt": "Für wen stimmten Frauen in Sachsen-Anhalt und für wen Männer? Welche Partei war bei jungen Wählenden stark und welche bei älteren? Das Wahlverhalten der Bevölkerungsgruppen im interaktiven Überblick.",
@@ -562,35 +634,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Wahl Sachsen-Anhalt: AfD kratzt an absoluter Mehrheit, CDU stürzt ab",
-      "excerpt": "Die AfD hat klar gewonnen, die CDU halbiert sich. Und nun? Sachsen-Anhalt droht die Unregierbarkeit. Das sind die Lehren aus der Landtagswahl.",
-      "url": "https://www.spiegel.de/politik/deutschland/wahl-sachsen-anhalt-afd-kratzt-an-absoluter-mehrheit-cdu-stuerzt-ab-a-86b9c18b-1096-4809-9e24-de67077f05c4#ref=rss",
-      "publishedAt": "2026-09-06T17:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Nach Austritten aus dem BSW: Neue Partei in Thüringen gegründet",
       "excerpt": "Das BSW in Thüringen zerfällt – nur noch zwei von ehemals 15 Landtagsabgeordneten gehören ihm an. Jetzt gründen Ehemalige eine neue Partei. mehr...",
       "url": "https://taz.de/Nach-Austritten-aus-dem-BSW/!6210740/",
       "publishedAt": "2026-09-06T17:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt: Wahlmanipulation? Diese Menschen in Dessau zählen genau nach",
-      "excerpt": "Die Wahllokale sind geschlossen, die Stimmauszählung ist im Gange. In Dessau schauen Wahlbeobachter genau hin. Auch, weil es Manipulationsvorwürfe bei der Briefwahl gab.",
-      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahlmanipulation-diese-menschen-in-dessau-zaehlen-genau-nach-a-c59f87a7-7c0f-4318-83c0-e00464e424f7#ref=rss",
-      "publishedAt": "2026-09-06T17:26:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wahlen in Sachsen-Anhalt: Eine Zäsur auch ohne absolute Mehrheit",
-      "excerpt": "Nach dem deutlichen Votum für die AfD in Sachsen-Anhalt braucht es andere, neue Antworten. Demokratische Kräfte müssen jetzt zusammenhalten. mehr...",
-      "url": "https://taz.de/Wahlen-in-Sachsen-Anhalt/!6210727/",
-      "publishedAt": "2026-09-06T17:22:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -602,28 +650,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Landtagswahl Sachsen-Anhalt: Hochrechnungen sehen AfD knapp unter absoluter Mehrheit",
-      "excerpt": "Die AfD siegt in Sachsen-Anhalt mit großem Abstand vor der CDU. Für eine Alleinregierung reicht es laut ersten Hochrechnungen aber nicht.",
-      "url": "https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-hochrechnungen-sehen-afd-knapp-unter-absoluter-mehrheit-a-a0060a1d-f5c0-468a-909a-79bdee0f842f#ref=rss",
-      "publishedAt": "2026-09-06T16:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Wie die Wählenden in Sachsen-Anhalten wanderten",
       "excerpt": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung in Sachsen-Anhalt auf Basis der Zahlen von infratest dim",
       "url": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-sachsen-anhalt-2026-102.html",
       "publishedAt": "2026-09-06T16:46:56.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Landtagswahl Sachsen-Anhalt 2026: Alle Ergebnisse aus den Gemeinden und Wahlkreisen",
-      "excerpt": "Wie sieht der neue Landtag in Sachsen-Anhalt aus? Wer wird regieren? Die Daten und Visualisierungen im Überblick.",
-      "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-ergebnisse-aus-den-gemeinden-und-wahlkreisen-a-6ce5d07e-c16c-4ebe-bc20-0219643efca6#ref=rss",
-      "publishedAt": "2026-09-06T16:11:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -695,22 +727,6 @@
       "excerpt": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. Doch auch andere Opti",
       "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
       "publishedAt": "2026-09-06T03:02:56.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-      "excerpt": "In den Umfragen zur Landtagswahl in Sachsen-Anhalt liegt die AfD vorne - zur Alleinregierung würde es demnach aber nicht reichen. Welche Szenarien denkbar sind und vor welchen Problemen die Parteien stehen.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
-      "publishedAt": "2026-09-05T15:08:27.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-      "excerpt": "Ob Fußballverein in Berlin, Krankenhausinitiative in Sachsen-Anhalt oder Bürgermeister in Mecklenburg-Vorpommern: Sie alle wollen etwas bewegen - und stoßen dabei immer wieder an Grenzen. Das kann Vertrauen in die Politi",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
-      "publishedAt": "2026-09-05T14:09:11.000Z",
       "category": "INNENPOLITIK"
     },
     {
