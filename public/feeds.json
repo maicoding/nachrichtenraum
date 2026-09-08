@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-09-08T18:58:20.335Z",
+  "updatedAt": "2026-09-08T21:51:41.112Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "BILD fragt CDU-Generalsekretärin - Wird Merz weggeputscht?",
-      "excerpt": "In der CDU wächst der Druck auf Friedrich Merz, doch offiziell steht die Partei zu ihm.",
-      "url": "https://www.bild.de/politik/inland/bild-fragt-cdu-generalsekretaerin-hoppermann-wird-merz-weggeputscht-6aa01a8a181cb962d48882ec",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "title": "Carsten Maschmeyer rechnet mit Kanzler ab - „Merz hat es voll vergeigt. Er muss weg“",
+      "excerpt": "Maschmeyer fordert nach CDU-Wahldebakel deutlichen Kurswechsel von Kanzler Merz.",
+      "url": "https://www.bild.de/politik/inland/unternehmer-maschmeyer-rechnet-mit-dem-kanzler-ab-merz-hat-es-voll-vergeigt-er-muss-weg-6aa06ff7181cb962d488885d",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Wadephul macht plötzlich Druck auf Selenskyj",
+      "excerpt": "Wadephul attackiert Lawrow scharf und fordert mehr Ukraine-Aufträge für deutsche Rüstung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-exklusiv-wadephul-macht-ploetzlich-druck-auf-selenskyj-6aa03568181cb962d48884fb",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +30,31 @@
       "title": "Gespaltene Fraktion, Merz-Rücktritt gefordert - Chaos in der Ost-CDU!",
       "excerpt": "Nach dem Wahldebakel stürzt die CDU in Sachsen-Anhalt in Krise und Machtkampf.",
       "url": "https://www.bild.de/politik/inland/cdu-chaos-im-osten-machtkampf-rueckzieher-und-druck-auf-merz-6aa03e1dee81691051f1cbcb",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD fragt CDU-Generalsekretärin - Wird Merz weggeputscht?",
+      "excerpt": "In der CDU wächst der Druck auf Friedrich Merz, doch offiziell steht die Partei zu ihm.",
+      "url": "https://www.bild.de/politik/inland/bild-fragt-cdu-generalsekretaerin-hoppermann-wird-merz-weggeputscht-6aa01a8a181cb962d48882ec",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU-Generalsekretärin im BILD-Interview - Franziska Hoppermann: „Merz bleibt“",
+      "excerpt": "Vodcast Peter Tiede und Burkhard Uhlenbroich im BILD TALK mit CDU Generalsekretärin Franziska Hoppermann",
+      "url": "https://www.bild.de/politik/cdu-generalsekretaerin-im-bild-interview-franziska-hoppermann-merz-bleibt-6aa00575181cb962d48880b6",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bis zu 4500 Euro brutto - Bei PISA durchgefallen? Das sind die 50 besten Jobs für Sie",
+      "excerpt": "Viele Ausbildungsberufe kommen fast ohne Mathe aus und bieten trotzdem gutes Gehalt.",
+      "url": "https://www.bild.de/politik/inland/berufe-fuer-mathe-muffel-bis-zu-4500-euro-gehalt-6a9d60a86067248f60a52caa",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +62,7 @@
       "title": "Kanada, Island, Karibik ... - Trump träumt vom Mega-Amerika",
       "excerpt": "Trump zeigt Karte mit riesigen USA, Nachbarn wie Kanada und Island protestieren.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-karte-kanada-groenland-und-island-ploetzlich-us-gebiet-6aa02c0f240b302c8a83dbf8",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +70,7 @@
       "title": "Unzufriedenheit in Gerstungen - Gemeinde will Thüringen den Rücken kehren",
       "excerpt": "Bürgermeister von Gerstungen prüft wegen Benachteiligung einen Anschluss an Hessen.",
       "url": "https://www.bild.de/politik/inland/gerstungen-thueringer-gemeinde-denkt-ueber-wechsel-nach-hessen-nach-6aa01841240b302c8a83da34",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +78,7 @@
       "title": "Neues PISA-Desaster für Deutschland - Werden unsere Kinder immer dümmer, Frau Prien?",
       "excerpt": "Neue Pisa-Studie zeigt Rekordtief, Prien setzt auf frühkindliche Bildung als Ausweg.",
       "url": "https://www.bild.de/politik/inland/pisa-2025-deutschland-unterbietet-niveau-in-lesen-mathe-und-naturwissenschaften-6a9fbbeb181cb962d488789f",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +86,7 @@
       "title": "Der Politik-Vodcast - Vertraulich! - Handelte der Strom-Terrorist nicht allein?",
       "excerpt": "Polizei fasst den Strom-Terroristen, Ermittler prüfen seine möglichen Pläne.",
       "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-handelte-der-strom-terrorist-nicht-allein-6aa01a71240b302c8a83da65",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +94,7 @@
       "title": "Streit um Siedlungen eskaliert - Israel schließt britisches Konsulat in Jerusalem",
       "excerpt": "Sanktionen gegen Siedlungen: Israel verhängt Einreiseverbote und bricht Kooperationen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/israel-gegen-grossbritannien-jerusalem-schliesst-britisches-konsulat-6aa02eb21c634564db633003",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +102,7 @@
       "title": "Handelte der Strom-Terrorist nicht allein? - BILD-Chefreporter Frank Schneider mit neuen Details",
       "excerpt": "Straßenkontrolle führt zur Festnahme des Strom-Terroristen mit Sprengstoff-Zelt.",
       "url": "https://www.bild.de/politik/handelte-der-strom-terrorist-nicht-allein-bild-chefeporter-frank-schneider-mit-neuen-details-6aa00b68181cb962d4888195",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +110,7 @@
       "title": "Journalisten waren live auf Sendung - Russen-Drohne schlägt in TV-Sender ein",
       "excerpt": "Russland greift Fernsehsender in Kiew an, mehrere Menschen werden verletzt.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/journalisten-waren-live-russen-drohne-schlaegt-in-tv-sender-ein-6a9ff8b11c634564db6328a3",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +118,7 @@
       "title": "Schulden-Haushalt 2027 im Bundestag - Schulden-König Klingbeil bricht drei Rekorde",
       "excerpt": "Klingbeils Haushaltspläne bis 2030 treiben Staatsschulden und Zinslast massiv hoch.",
       "url": "https://www.bild.de/politik/inland/lars-klingbeil-schulden-koenig-bricht-drei-rekorde-6a9eb54a181cb962d4886e24",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +126,7 @@
       "title": "Warum das heikel ist - Ministerpräsident Schulze neuer Chef der CDU-Fraktion",
       "excerpt": "Sven Schulze gewinnt Kampfabstimmung und führt nun die CDU-Landtagsfraktion.",
       "url": "https://www.bild.de/politik/nach-wahl-in-sachsen-anhalt-ministerpraesident-schulze-neuer-chef-der-cdu-fraktion-6aa01f88240b302c8a83daf4",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +134,7 @@
       "title": "Opfer-Angehörige wütend - 9/11-Eklat um New Yorks Bürgermeister",
       "excerpt": "New Yorks Bürgermeister ehrt 9/11 mit Gedenktag, doch die Stiftübergabe löst Empörung aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/zohran-mamdani-9-11-stift-fuer-anwalt-sorgt-fuer-empoerung-6a9d14d63c4ff4f6c5cfeb66",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
@@ -102,71 +142,23 @@
       "title": "SPD-Reaktion auf Merz-Absturz - „Sie merken, da ist Blut im Wasser“",
       "excerpt": "Die SPD ringt nach dem Wahldebakel in Sachsen-Anhalt um ihre Zukunft.",
       "url": "https://www.bild.de/politik/spd-reaktion-auf-merz-absturz-sie-merken-da-ist-blut-im-wasser-6aa01a1d1c634564db632d94",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
+      "publishedAt": "2026-09-08T21:51:41.107Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach Wahlschlappe in Sachsen-Anhalt - CDU-Landesvize fordert Merz-Ablösung!",
-      "excerpt": "CDU-Vize Schomann gibt Kanzler Merz die Schuld am Wahldebakel im Osten.",
-      "url": "https://www.bild.de/politik/inland/nach-wahlschlappe-in-sachsen-anhalt-cdu-landes-vize-fordert-merz-abloesung-6aa00ae654ff84194d4cb182",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Experte warnt vor entscheidendem Fehler - „AfD unterschätzt Washington deutlich“",
-      "excerpt": "US-Experte sieht Nähe von AfD zu Trump, warnt aber vor ihrem Russlandkurs.",
-      "url": "https://www.bild.de/politik/inland/peter-rough-nach-trump-posting-zu-sachsen-anhalt-afd-unterschaetzt-washington-deutlich-6a9ec57ff1cc0ca5cda4ffe8",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hacker-Angriff auf Hauptstadt - Berlins Bürger betroffen? Senat schließt es nicht aus",
-      "excerpt": "Nach dem Cyber-Angriff prüft Berlin Millionen gestohlener Daten auf Bürgerbezug.",
-      "url": "https://www.bild.de/politik/inland/hacker-angriff-in-berlin-auch-buerger-betroffen-senat-schliesst-das-nicht-aus-6a9ff9f154ff84194d4caf3d",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Prozess gegen Handygigant aus China - Huawei-Spion soll Roboterarm in USA geklaut haben",
-      "excerpt": "Huawei steht in New York wegen mutmaßlichem Technikklau und Iran-Geschäften vor Gericht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/china-konzern-vor-gericht-huawei-soll-roboterarm-in-usa-geklaut-haben-6a9fc21a181cb962d4887909",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Außerirdisches Leben - „Wenn die Aliens kommen, ist niemand in Deutschland vorbereitet“",
-      "excerpt": "Professoren aus den USA planen für Aliens, Deutschland bleibt unvorbereitet.",
-      "url": "https://www.bild.de/politik/ausserirdisches-leben-wenn-die-aliens-kommen-ist-niemand-in-deutschland-vorbereitet-6a9fdd271c634564db632508",
-      "publishedAt": "2026-09-08T18:58:16.050Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Nahost - Iranische Medien melden Explosionen auf Insel Kharg - USA bestätigen Angriffe auf iranische Tanker",
+      "excerpt": "Iranische Medien haben mehrere Explosionen auf der Insel Kharg im Persischen Golf sowie nahe der Hafenstadt Dschask an der Straße von Hormus gemeldet.",
+      "url": "https://www.deutschlandfunk.de/iranische-medien-melden-explosionen-auf-insel-kharg-usa-bestaetigen-angriffe-auf-iranische-tanker-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Newsblog zur Landtagswahl in Sachsen-Anhalt - Schulze verzichtet auf Vorsitz der Ministerpräsidentenkonferenz",
       "excerpt": "+++ Sachsen-Anhalts scheidende Regierung verzichtet nach dem Wahlsieg der AfD auf den turnusgemäßen Vorsitz der Ministerpräsidentenkonferenz Anfang Oktober.",
       "url": "https://www.deutschlandfunk.de/schulze-verzichtet-auf-vorsitz-der-ministerpraesidentenkonferenz-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "New York - Baerbock übergibt Vorsitz der UNO-Generalversammlung an Nachfolger aus Bangladesch",
-      "excerpt": "Nach einem Jahr als Präsidentin der UNO-Generalversammlung hat die frühere Bundesaußenministerin Baerbock den Vorsitz turnusgemäß abgegeben.",
-      "url": "https://www.deutschlandfunk.de/baerbock-uebergibt-vorsitz-der-uno-generalversammlung-an-nachfolger-aus-bangladesch-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Luftverkehr - Störung verursacht Chaos an Flughäfen in Großbritannien",
-      "excerpt": "Wegen einer technischen Störung bei der britischen Flugsicherung ist es zu Behinderungen an mehreren ⁠großen Flughäfen ⁠in Großbritannien gekommen.",
-      "url": "https://www.deutschlandfunk.de/stoerung-verursacht-chaos-an-flughaefen-in-grossbritannien-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +166,63 @@
       "title": "Nach Landtagswahl - Merkel: Wahlergebnis in Sachsen-Anhalt \"einfach schockierend\" - Kritik an Brandmauer-Strategie",
       "excerpt": "Die ehemalige Bundeskanzlerin Merkel hat sich bestürzt über das starke Abschneiden der AfD bei der Landtagswahl in Sachsen-Anhalt geäußert.",
       "url": "https://www.deutschlandfunk.de/merkel-wahlergebnis-in-sachsen-anhalt-einfach-schockierend-kritik-an-brandmauer-strategie-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bildung - Nach Pisa-Studie: Debatte über mehr Förderung von Kindern und Schülern",
+      "excerpt": "Nach dem schlechten Abschneiden deutscher Schüler in der jüngsten Pisa-Studie wird über Konsequenzen diskutiert.",
+      "url": "https://www.deutschlandfunk.de/nach-pisa-studie-debatte-ueber-mehr-foerderung-von-kindern-und-schuelern-102.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "New York - Baerbock übergibt Vorsitz der UNO-Generalversammlung an Nachfolger aus Bangladesch",
+      "excerpt": "Nach einem Jahr als Präsidentin der UNO-Generalversammlung hat die frühere Bundesaußenministerin Baerbock den Vorsitz turnusgemäß abgegeben.",
+      "url": "https://www.deutschlandfunk.de/baerbock-uebergibt-vorsitz-der-uno-generalversammlung-an-nachfolger-aus-bangladesch-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Champions League - Borussia Dortmund gewinnt gegen FC Villarreal mit 3:2",
+      "excerpt": "In der Fußball-Champions-League hat Borussia Dortmund gegen den FC Villarreal aus Spanien gewonnen.",
+      "url": "https://www.deutschlandfunk.de/borussia-dortmund-gewinnt-gegen-fc-villarreal-mit-3-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - Basketballerinnen nach Sieg über Südkorea im WM-Viertelfinale",
+      "excerpt": "Die deutschen Basketballerinnen haben erstmals das Viertelfinale bei einer Weltmeisterschaft erreicht.",
+      "url": "https://www.deutschlandfunk.de/basketballerinnen-nach-sieg-ueber-suedkorea-im-wm-viertelfinale-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Destillation - USA werfen chinesischen Firmen wie Deepseek und Alibaba agressives Abschöpfen von KI-Technologie vor",
+      "excerpt": "Mehrere US-Behörden erheben Vorwürfe gegen chinesische KI-Unternehmen.",
+      "url": "https://www.deutschlandfunk.de/usa-werfen-chinesischen-firmen-wie-deepseek-und-alibaba-agressives-abschoepfen-von-ki-technologie-vo-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Balkan - Serbien: Präsident Vučić kündigt vorgezogene Parlamentswahl für den 25. Oktober an",
+      "excerpt": "In Serbien hat Präsident Vučić den 25. Oktober als Datum für die vorgezogene Parlamentswahl festgelegt.",
+      "url": "https://www.deutschlandfunk.de/serbien-praesident-vu-i-kuendigt-vorgezogene-parlamentswahl-fuer-den-25-oktober-an-102.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Luftverkehr - Störung verursacht Chaos an Flughäfen in Großbritannien",
+      "excerpt": "Wegen einer technischen Störung bei der britischen Flugsicherung ist es zu Behinderungen an mehreren ⁠großen Flughäfen ⁠in Großbritannien gekommen.",
+      "url": "https://www.deutschlandfunk.de/stoerung-verursacht-chaos-an-flughaefen-in-grossbritannien-100.html",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +230,7 @@
       "title": "Offenbar Sabotageakte geplant - Rumänien: Mutmaßlicher russischer Spion festgenommen",
       "excerpt": "Die rumänische Polizei hat einen mutmaßlich russischen Spion festgenommen.",
       "url": "https://www.deutschlandfunk.de/rumaenien-mutmasslicher-russischer-spion-festgenommen-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +238,7 @@
       "title": "Sachsen-Anhalt - Grüne offen für BSW-Vorschlag zu unabhängigem Ministerpräsidenten",
       "excerpt": "Die Grünen in Sachsen-Anhalt haben sich offen gezeigt für den Vorschlag des BSW zu einem überparteilichen Ministerpräsidenten.",
       "url": "https://www.deutschlandfunk.de/gruene-offen-fuer-bsw-vorschlag-zu-unabhaengigem-ministerpraesidenten-102.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +246,7 @@
       "title": "Unsichere Regierungsbildung - Sachsen-Anhalts Landesregierung verzichtet nach AfD-Wahlsieg auf Vorsitz der Ministerpräsidentenkonferenz",
       "excerpt": "Nach der Landtagswahl in Sachsen-Anhalt ist der geschäftsführende Regierungschef Schulze dafür, auf den turnusgemäßen Vorsitz der Ministerpräsidentenkonferenz ab Anfang Oktober zu verzichten.",
       "url": "https://www.deutschlandfunk.de/sachsen-anhalts-landesregierung-verzichtet-nach-afd-wahlsieg-auf-vorsitz-der-ministerpraesidentenkon-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +254,7 @@
       "title": "Verteidigung - Pistorius sagt Ukraine vor Winter weitere Hilfe bei Luftabwehr zu",
       "excerpt": "Bundesverteidigungsminister ​Pistorius hat angesichts des nahenden Winters eine Stärkung der ukrainischen Luftabwehr gefordert und die Lieferung weiterer Raketen aus ‌Bundeswehrbeständen angekündigt.",
       "url": "https://www.deutschlandfunk.de/pistorius-sagt-ukraine-vor-winter-weitere-hilfe-bei-luftabwehr-zu-102.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +262,7 @@
       "title": "Trotz Ablehnung des Wehrdienstes - Bundeswehr lädt hunderte junge Männer zu Musterungen ein",
       "excerpt": "Die Bundeswehr hat schon jetzt hunderte junge Männer zu Musterungen vorgeladen, die nach eigenen Angaben kein Interesse an einem Wehrdienst haben.",
       "url": "https://www.deutschlandfunk.de/bundeswehr-laedt-hunderte-junge-maenner-zu-musterungen-ein-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +270,7 @@
       "title": "\"Welt\"-Bericht - Details zur geplanten Steuer-Reform bei Kryptowerten wie dem Bitcoin werden bekannt",
       "excerpt": "Innerhalb des Bundesfinanzministeriums werden die Pläne für eine Reform der Besteuerung von Gewinnen beim Handel mit Kryptowährungen offenbar konkreter.",
       "url": "https://www.deutschlandfunk.de/details-zur-geplanten-steuer-reform-bei-kryptowerten-wie-dem-bitcoin-werden-bekannt-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +278,7 @@
       "title": "Angriffe auf Umspannwerke - Polizei nimmt mutmaßlichen Strom-Saboteur fest",
       "excerpt": "Nach mehreren Sabotage-Attacken auf das deutsche Stromnetz hat die Polizei den Tatverdächtigen festgenommen. Der 48-Jährige aus Gevelsberg sei den Einsatzkräften in der Nähe des Kraftwerks Weisweiler bei Aachen aufgefall",
       "url": "https://www.deutschlandfunk.de/polizei-nimmt-mutmasslichen-strom-saboteur-fest-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,56 +286,32 @@
       "title": "Sachsen-Anhalt - Schulze zu CDU-Fraktionschef gewählt",
       "excerpt": "Zwei Tage nach der Niederlage bei der Landtagswahl in Sachsen-Anhalt hat die CDU-Landtagsfraktion Regierungschef Schulze zu ihrem neuen Vorsitzenden gewählt.",
       "url": "https://www.deutschlandfunk.de/schulze-zu-cdu-fraktionschef-gewaehlt-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
+      "publishedAt": "2026-09-08T21:24:10.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russland nimmt Angriffe auf Kiew nach dreitägiger Feuerpause wieder auf - Trump und Putin telefonieren",
-      "excerpt": "Nach der Abreise der US-Unterhändler Witkoff und Kushner hat Russland die Luftangriffe auf die ukrainische Hauptstadt Kiew wieder aufgenommen.",
-      "url": "https://www.deutschlandfunk.de/russland-nimmt-angriffe-auf-kiew-nach-dreitaegiger-feuerpause-wieder-auf-trump-und-putin-telefoniere-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
+      "excerpt": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion gewählt worden.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+      "publishedAt": "2026-09-08T21:01:22.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Jährlicher Bericht - Weltweit über 1.000 Menschen durch Streubomben getötet oder verletzt",
-      "excerpt": "Im vergangenen Jahr sind weltweit mindestens 1.063 Menschen durch Streubomben getötet oder verletzt worden - die meisten davon in der Ukraine. Ein Großteil davon waren Zivilisten, wie aus einem aktuellen Bericht mehrerer",
-      "url": "https://www.deutschlandfunk.de/weltweit-ueber-1-000-menschen-durch-streubomben-getoetet-oder-verletzt-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt live: Französische Region droht mit Aufkündigung von Partnerschaft mit Sachsen-Anhalt",
+      "excerpt": "Der AfD-Sieg zieht Kreise im Ausland. Wahlverlierer Sven Schulze ist Chef der neuen CDU-Fraktion in Sachsen-Anhalt. Und: Rücktrittsforderungen aus der CDU gegen Merz. Die Entwicklungen im Liveblog.",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
+      "publishedAt": "2026-09-08T19:49:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Haushaltswoche - Mehr als 200 Milliarden Euro Neuverschuldung in 2027 geplant - Klingbeil spricht von \"einzigartigem Zukunftsprogramm\"",
-      "excerpt": "Im Deutschen Bundestag in Berlin hat die Haushaltswoche begonnen. Bundesfinanzminister Klingbeil stellte seinen Haushaltsentwurf für 2027 vor. Der SPD-Vorsitzende sprach von einem Etat für Wachstum und soziale Sicherheit",
-      "url": "https://www.deutschlandfunk.de/mehr-als-200-milliarden-euro-neuverschuldung-in-2027-geplant-klingbeil-spricht-von-einzigartigem-zuk-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Westjordanland - Zwölf Länder sanktionieren Handel mit israelischen Siedlungen in besetzten Palästinensergebieten",
-      "excerpt": "Zwölf Länder wollen den Handel mit israelischen Siedlungen im Westjordanland sanktionieren.",
-      "url": "https://www.deutschlandfunk.de/zwoelf-laender-sanktionieren-handel-mit-israelischen-siedlungen-in-besetzten-palaestinensergebieten-102.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Budapest - Ungarn weist zehn russische Diplomaten aus",
-      "excerpt": "Ungarn weist zehn russische Diplomaten aus.",
-      "url": "https://www.deutschlandfunk.de/ungarn-weist-zehn-russische-diplomaten-aus-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Europa - Serbien drohen wegen Mladic-Begräbnis Konsequenzen der EU",
-      "excerpt": "Die EU hat die Begräbnisfeierlichkeiten für den Kriegsverbrecher Mladic in Serbien verurteilt.",
-      "url": "https://www.deutschlandfunk.de/serbien-drohen-wegen-mladic-begraebnis-konsequenzen-der-eu-100.html",
-      "publishedAt": "2026-09-08T18:56:57.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Michel Friedman im SPIEGEL-Talk: »Man kann auch seinen Selbstmord wählen«",
+      "excerpt": "Entzaubert sich die AfD selbst, wenn sie regiert? Im SPIEGEL-Spitzengespräch sagt Michel Friedman, was er von dieser These hält. Warum er kein Verständnis für AfD-Wähler hat. Und weshalb Friedrich Merz der falsche Kanzle",
+      "url": "https://www.spiegel.de/politik/michel-friedman-im-spiegel-talk-man-kann-auch-seinen-selbstmord-waehlen-a-e2230871-ea3d-4179-82bb-1e0ddc81301d#ref=rss",
+      "publishedAt": "2026-09-08T19:38:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -296,14 +320,6 @@
       "url": "https://www.spiegel.de/politik/michel-friedman-im-spiegel-talk-man-kann-auch-seinen-selbstmord-waehlen-a-f3c98a7d-73e6-40b4-8792-0dd4d5154ad1#ref=rss",
       "publishedAt": "2026-09-08T18:43:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-      "excerpt": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion gewählt worden.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-      "publishedAt": "2026-09-08T18:02:07.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -432,14 +448,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html",
       "publishedAt": "2026-09-08T15:24:49.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt live: CDU-Abgeordnete wählen Noch-Ministerpräsident Sven Schulze zum Fraktionschef",
-      "excerpt": "Wahlverlierer Sven Schulze ist Chef der neuen CDU-Fraktion in Sachsen-Anhalt. Nach SPIEGEL-Informationen setzte er sich knapp in einer Kampfabstimmung durch. Und: Rücktrittsforderungen aus der CDU gegen Merz. Die Entwick",
-      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
-      "publishedAt": "2026-09-08T14:37:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -719,14 +727,6 @@
       "excerpt": "Drei Stimmen fehlen der rechtsextremen AfD zur Macht. Spitzenkandidat Ulrich Siegmund sucht nun nach Unterstützern in anderen Parteien. Er stellt aber, »natürlich«, eine Bedingung.",
       "url": "https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-plant-ulrich-siegmund-die-regierungsuebernahme-a-0872e7de-b1fe-49f5-b9c8-ae2a626b9048#ref=rss",
       "publishedAt": "2026-09-07T19:01:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt: Wie AfD-Wähler in Halberstadt auf den Wahlsieg blicken",
-      "excerpt": "In Halberstadt hat fast jeder Zweite die AfD gewählt. Wie blicken die Menschen auf den Erdrutschsieg der Rechtsextremen in Sachsen-Anhalt – und was halten sie von der Brandmauer?",
-      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-afd-waehler-in-halberstadt-auf-den-wahlsieg-blicken-a-2fed3bc8-c6b8-4098-9a91-f1426863b234#ref=rss",
-      "publishedAt": "2026-09-07T19:00:00.000Z",
       "category": "POLITIK"
     },
     {
