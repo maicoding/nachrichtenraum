@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-09-08T01:27:45.343Z",
+  "updatedAt": "2026-09-08T06:32:29.262Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Daten-Leak in der Hauptstadt - Berlin weiß nicht, was geklaut wurde",
+      "excerpt": "Nach dem Hackerangriff muss Berlin seine marode IT für über 100 Millionen Euro erneuern.",
+      "url": "https://www.bild.de/politik/inland/berlin-nach-hackerangriff-it-neuaufbau-kostet-ueber-100-millionen-euro-6a9ec77bf1cc0ca5cda50012",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weg mit der Brandmauer! - Erster SPD-Landrat forert Gespräche mit der AfD",
+      "excerpt": "Markus Bauer fordert Gespräche mit dem Wahlsieger von Sachsen-Anhalt.",
+      "url": "https://www.bild.de/politik/inland/weg-mit-der-brandmauer-erster-spd-landrat-fordert-gespraeche-mit-der-afd-6a9f97cb240b302c8a83ce7b",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bauch voller Drogen, aber … - Richterin ließ diesen Dealer laufen",
+      "excerpt": "Richter lässt mutmaßlichen Kokainkurier laufen, Polizisten sind entsetzt.",
+      "url": "https://www.bild.de/politik/inland/kriminell-und-den-bauch-voller-drogen-richterin-aus-nrw-liess-diesen-dealer-trotzdem-laufen-6a96de2c518a586e1855fb6a",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU-Politiker vor Seitenwechsel? - AfD startet Operation Machtübernahme",
+      "excerpt": "Die AfD bastelt im Hintergrund an einer Regierungsmehrheit in Sachsen-Anhalt.",
+      "url": "https://www.bild.de/politik/inland/rekordergebnis-in-sachsen-anhalt-afd-startet-operation-machtuebernahme-6a9ea2a5721eb476650a27fa",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "„Nebelkerze, Nebelkerze, Nebelkerze!“ - Lanz knöpft sich Wagenknecht vor",
       "excerpt": "Verbaler Schlagabtausch zwischen Markus Lanz und Sahra Wagenknecht!",
       "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/nebelkerze-markus-lanz-knoepft-sich-sahra-wagenknecht-vor-6a9f5841181cb962d4887504",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -14,15 +46,7 @@
       "title": "Nach Sachsen-Anhalt-Wahl - Diese Reformen will die SPD jetzt stoppen",
       "excerpt": "Die SPD-Spitze plant Änderungen bei Rente, Pflege, Steuern und Entlastungen.",
       "url": "https://www.bild.de/politik/inland/spd-nach-wahlergebnis-bas-will-sozialreformen-neu-verhandeln-6a9ed4b7181cb962d48870ae",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bauch voller Drogen - Richterin ließ diesen Dealer trotzdem laufen",
-      "excerpt": "Richter lässt mutmaßlichen Kokainkurier laufen, Polizisten sind entsetzt.",
-      "url": "https://www.bild.de/politik/inland/kriminell-und-den-bauch-voller-drogen-richterin-aus-nrw-liess-diesen-dealer-trotzdem-laufen-6a96de2c518a586e1855fb6a",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +54,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +62,7 @@
       "title": "CDU-Beben in Sachsen-Anhalt - Wahlverlierer Sven Schulze will sich zurückziehen",
       "excerpt": "Nach der CDU-Wahlniederlage kündigt Sven Schulze seinen Rückzug aus der Parteispitze an.",
       "url": "https://www.bild.de/politik/inland/beben-nach-wahldebakel-in-sachsen-anhalt-sepp-mueller-will-landesvorsitzender-der-cdu-werden-6a9f036d181cb962d488732a",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +70,7 @@
       "title": "Digital-Panne in Deutschland - E-Rezept-Ausfall sorgt für Chaos in Apotheken!",
       "excerpt": "Digitaler Ausfall legt E-Rezepte lahm, viele Apotheken müssen Patienten abweisen.",
       "url": "https://www.bild.de/politik/inland/digital-panne-in-deutschland-e-rezept-ausfall-sorgt-fuer-chaos-in-apotheken-6a9edff6240b302c8a83c901",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +78,7 @@
       "title": "Auch Konsulat betroffen - Russland schließt deutsche Institute",
       "excerpt": "Als Reaktion auf deutsche Schritte schließt Russland Goethe-Institute und Konsulat.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/goethe-institute-in-russland-geschlossen-mitarbeiter-muessen-ausreisen-6a9ec5fe721eb476650a2c44",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +86,7 @@
       "title": "BILD exklusiv - Neue PISA-Studie: Deutschlands Schüler schlecht wie nie",
       "excerpt": "Neue PISA-Daten zeigen: Deutsche 15-Jährige fallen in Kernfächern weiter zurück.",
       "url": "https://www.bild.de/politik/inland/pisa-2025-deutschlands-schueler-rutschen-bei-lesen-und-mathe-weiter-ab-6a9e95bb181cb962d4886a63",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +94,7 @@
       "title": "Wegen möglicher Regierung - AfD-Chefin Weidel macht Druck auf Siegmund",
       "excerpt": "Weidel drängt auf Regierungsbildung, doch Wahlsieger Siegmund bleibt vorsichtig.",
       "url": "https://www.bild.de/politik/inland/alice-weidel-macht-nach-wahlsieg-der-afd-druck-ulrich-siegmund-bremst-6a9e9df1181cb962d4886b6f",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +102,7 @@
       "title": "Der Politik-Vodcast - Vertraulich! - Kanzler in der Krise",
       "excerpt": "Nach der Niederlage in Sachsen-Anhalt wirkt Kanzler Merz sichtbar angeschlagen.",
       "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-kanzler-in-der-krise-6a9ec021f1cc0ca5cda4ff83",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +110,7 @@
       "title": "INSA-Ranking - Schwesig hängt Klingbeil und Bas ab",
       "excerpt": "INSA-Ranking: Schwesig steigt auf Platz 3, AfD bleibt klar stärkste Partei.",
       "url": "https://www.bild.de/politik/inland/insa-ranking-schwesig-haengt-klingbeil-und-bas-ab-6a9ee1d8240b302c8a83c936",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +118,7 @@
       "title": "Besser als ihr Ruf? - So viel bringt die Mütterrente wirklich",
       "excerpt": "Neue Zahlen zeigen: Die Mütterrente gleicht Rentennachteile für Mütter aus.",
       "url": "https://www.bild.de/politik/inland/muetterrente-bis-zu-417-euro-mehr-im-monat-6a9d4b0ac0adcd67d87bb6b6",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Kanzler in der Krise - „Abgrund der Ratlosigkeit“",
       "excerpt": "Nach der Wahl-Klatsche in Sachsen-Anhalt steht Kanzler Merz massiv unter Druck.",
       "url": "https://www.bild.de/politik/kanzler-in-der-krise-abgrund-der-ratlosigkeit-6a9eb5fdf1cc0ca5cda4fe40",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "Kommentar - Zieht die richtige Lehre aus Sachsen-Anhalt!",
       "excerpt": "Nach dem CDU-Debakel muss Merz Reformkurs halten und Migration strenger steuern.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zieht-die-richtige-lehre-aus-sachsen-anhalt-6a9edb98f1cc0ca5cda5018d",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
@@ -118,39 +142,103 @@
       "title": "Singender Protest am Domplatz in Magdeburg - Jetzt singen die Omas gegen Rechts",
       "excerpt": "Wahlsonntag in Magdeburg: Omas gegen Rechts singen auf dem Domplatz.",
       "url": "https://www.bild.de/politik/singende-protest-am-domplatz-in-magdeburg-jetzt-singen-die-omas-gegen-rechts-6a9db44f6067248f60a53469",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
+      "publishedAt": "2026-09-08T06:32:29.254Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Gigantischer Datenklau in Berlin - „30 mal so groß wie die Epstein-Files“",
-      "excerpt": "Ein Hackerangriff auf die Berliner Verwaltung betrifft offenbar fast alle Bürger.",
-      "url": "https://www.bild.de/politik/gigantischer-datenklau-in-berlin-30-mal-so-gross-wie-die-epstein-files-6a9ebbb2f1cc0ca5cda4ff2e",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Staatsfinanzen - Gesamtmetall-Hauptgeschäftsführer Zander fordert umfassende Reformen: \"In allen Bereichen muss gespart werden\"",
+      "excerpt": "Mit Blick auf die Haushaltsplanungen der Bundesregierung hat Gesamtmetall-Hauptgeschäftsführer Zander die Rufe nach umfassenden Reformen der Staatsfinanzen bekräftigt. Als Ansatzpunkte für Sparmaßnahme nannte Zander im D",
+      "url": "https://www.deutschlandfunk.de/gesamtmetall-hauptgeschaeftsfuehrer-zander-fordert-umfassende-reformen-in-allen-bereichen-muss-gespa-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Wahlkreis-Karte blau statt schwarz - AfD holt in jeder 2. Gemeinde über 50 Prozent",
-      "excerpt": "AfD dominiert fast alle Wahlkreise in Sachsen-Anhalt, CDU verliert alle Direktmandate.",
-      "url": "https://www.bild.de/politik/inland/wahlkarte-ploetzlich-blau-cdu-verliert-fast-jeden-wahlkreis-an-die-afd-6a9e869f680fe93dc7d87258",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Bundestag - Haushaltswoche beginnt - mehr als 200 Milliarden Euro Neuverschuldung in 2027 geplant",
+      "excerpt": "Im Deutschen Bundestag in Berlin beginnt heute die Haushaltswoche. Finanzminister Klingbeil bringt den Etatentwurf für das kommende Jahr ein. Der SPD-Vorsitzende plant mit Ausgaben von rund 555 Milliarden Euro, sechs Pro",
+      "url": "https://www.deutschlandfunk.de/haushaltswoche-beginnt-mehr-als-200-milliarden-euro-neuverschuldung-in-2027-geplant-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "BSW pokert in Sachsen-Anhalt - Wagenknecht und die AfD – kommt es zum Machtpakt?",
-      "excerpt": "BSW und AfD prüfen Zusammenarbeit in Sachsen-Anhalt, doch Streitpunkte bleiben groß.",
-      "url": "https://www.bild.de/politik/inland/bsw-als-machtfaktor-in-sachsen-anhalt-wagenknecht-und-die-afd-geht-das-ueberhaupt-6a9e510c181cb962d48863b5",
-      "publishedAt": "2026-09-08T01:27:45.339Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Umbau der CDU-Spitze in Sachsen-Anhalt - Bundestagsabgeordneter Sepp Müller will Landeschef Schulze beerben - wofür steht er?",
+      "excerpt": "Im Spätherbst will die CDU in Sachsen-Anhalt nach dem Debakel bei der Landtagswahl einen neuen Landesvorstand wählen. Als Erster hat Sepp Müller seine Kandidatur angekündigt. Ein durchaus strittiger Kandidat, auch in den",
+      "url": "https://www.deutschlandfunk.de/bundestagsabgeordneter-sepp-mueller-will-landeschef-schulze-beerben-wofuer-steht-er-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hilfsbedürftigkeit - Bundesweiter Tag der pflegenden Angehörigen: Sozialverband kritisiert mangelnde Unterstützung",
+      "excerpt": "Der Sozialverband Deutschland fordert mehr Unterstützung für die Millionen Menschen, die Angehörige zu Hause pflegen. Wer eine solche Verantwortung übernehme, dürfe dadurch nicht finanziell ins Abseits geraten, sagte die",
+      "url": "https://www.deutschlandfunk.de/bundesweiter-tag-der-pflegenden-angehoerigen-sozialverband-kritisiert-mangelnde-unterstuetzung-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Newsblog zur Landtagswahl in Sachsen-Anhalt - Proteste gegen die AfD in Berlin und anderen Städten",
+      "excerpt": "+++ Der Thüringer Verfassungsschutz-Präsident Kramer hat ‌für den Fall einer AfD-geführten Landesregierung in Sachsen-Anhalt vorbeugende Einschränkungen beim Austausch sensibler Geheimdienstinformationen ins Gespräch geb",
+      "url": "https://www.deutschlandfunk.de/proteste-gegen-die-afd-in-berlin-und-anderen-staedten-102.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sprache - \"Zwei-Faktor-Authentifizierung\" ist \"Wortgetüm des Jahres\"",
+      "excerpt": "Das Wort \"Zwei-Faktor-Authentifizierung\" ist von mehreren Fachverbänden zum \"Wortgetüm des Jahres\" erklärt worden.",
+      "url": "https://www.deutschlandfunk.de/zwei-faktor-authentifizierung-ist-wortgetuem-des-jahres-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Russland nimmt Angriffe auf Kiew nach dreitägiger Feuerpause wieder auf - Ukrainischer Drohnenangriff auf Saratow",
+      "excerpt": "Kurz nach der Abreise von US-Unterhändlern hat Russland die ukrainische Hauptstadt Kiew erneut mit ballistischen Raketen angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russland-nimmt-angriffe-auf-kiew-nach-dreitaegiger-feuerpause-wieder-auf-ukrainischer-drohnenangriff-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landwirtschaft - Klimawandel bringt Brandenburg Chance für Safran-Anbau",
+      "excerpt": "Angesichts der Erderwärmung experimentiert Brandenburg mit dem Anbau von Safran.",
+      "url": "https://www.deutschlandfunk.de/klimawandel-bringt-brandenburg-chance-fuer-safran-anbau-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "AfD-Wahlsieg in Sachsen-Anhalt - Thüringer Verfassungsschutzchef Kramer regt Einschränkung bei der Weitergabe von sensiblen Informationen an",
+      "excerpt": "Der Thüringer Verfassungsschutz-Präsident Kramer hat ‌für den Fall ⁠einer AfD-geführten ⁠Landesregierung in Sachsen-Anhalt vorbeugende Einschränkungen beim Austausch sensibler Geheimdienstinformationen ins Gespräch gebra",
+      "url": "https://www.deutschlandfunk.de/thueringer-verfassungsschutzchef-kramer-regt-einschraenkung-bei-der-weitergabe-von-sensiblen-informa-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schleswig-Holstein - Warnstreik im öffentlichen Nahverkehr im Norden beginnt",
+      "excerpt": "In Schleswig-Holsteins kreisfreien Städten und im Kreis Plön gibt es massive Einschränkungen im Nahverkehr.",
+      "url": "https://www.deutschlandfunk.de/warnstreik-im-oeffentlichen-nahverkehr-im-norden-beginnt-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Artenvielfalt - Nur ein Viertel der Meeresschutzgebiete schützt wirksam",
+      "excerpt": "Meeresschutzgebiete liefern weniger Vorteile für den Artenschutz als angenommen.",
+      "url": "https://www.deutschlandfunk.de/nur-ein-viertel-der-meeresschutzgebiete-schuetzt-wirksam-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Korruptionsvorwürfe - Ukrainischer Generalstaatsanwalt zurückgetreten",
       "excerpt": "In der Ukraine ist Generalstaatsanwalt Krawtschenko nach Korruptionsvorwürfen zurückgetreten.",
       "url": "https://www.deutschlandfunk.de/ukrainischer-generalstaatsanwalt-zurueckgetreten-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,15 +246,7 @@
       "title": "Nach Vulkanausbruch - Flughäfen in Indonesien nehmen Betrieb wieder auf",
       "excerpt": "In Indonesien haben die meisten Flughäfen nach der Sperrung wegen eines Vulkanausbruchs den Betrieb wieder aufgenommen.",
       "url": "https://www.deutschlandfunk.de/flughaefen-in-indonesien-nehmen-betrieb-wieder-auf-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Newsblog zur Landtagswahl in Sachsen-Anhalt - Proteste gegen die AfD in Berlin und anderen Städten",
-      "excerpt": "+++ In Berlin haben tausende Menschen gegen die AfD protestiert.",
-      "url": "https://www.deutschlandfunk.de/proteste-gegen-die-afd-in-berlin-und-anderen-staedten-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,15 +254,7 @@
       "title": "Nach Landtagswahl - Merz und Klingbeil betonen Einigkeit der Koalition in Berlin",
       "excerpt": "Bundeskanzler Merz und Vizekanzler Klingbeil haben die Koalition nach der Landtagswahl in Sachsen-Anhalt zum Zusammenhalt aufgerufen.",
       "url": "https://www.deutschlandfunk.de/merz-und-klingbeil-betonen-einigkeit-der-koalition-in-berlin-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wahlniederlage - CDU-Spitze in Sachsen-Anhalt will sich neu aufstellen - Sepp Müller kandidiert für Landesvorsitz",
-      "excerpt": "Die CDU-Spitze in Sachsen-Anhalt will sich nach der Niederlage bei der Landtagswahl neu aufstellen.",
-      "url": "https://www.deutschlandfunk.de/cdu-spitze-in-sachsen-anhalt-will-sich-neu-aufstellen-sepp-mueller-kandidiert-fuer-landesvorsitz-110.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +262,7 @@
       "title": "Wirtschaft - Experten gehen von weiter steigenden Ölpreisen aus",
       "excerpt": "Experten gehen davon aus, dass die Ölpreise noch weiter steigen könnten.",
       "url": "https://www.deutschlandfunk.de/experten-gehen-von-weiter-steigenden-oelpreisen-aus-108.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +270,15 @@
       "title": "Bildung - Pisa 2025: Ergebnisse werden in Berlin vorgestellt",
       "excerpt": "25 Jahre nach der ersten Pisa-Studie werden heute in Berlin die Ergebnisse der jüngsten Auflage des internationalen Bildungsvergleichs vorgestellt.",
       "url": "https://www.deutschlandfunk.de/pisa-2025-ergebnisse-werden-in-berlin-vorgestellt-104.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach AfD-Sieg - \"Schwarze Menschen gehören zu Sachsen-Anhalt\" - Minderheitengruppen betonen Widerstandswille",
+      "excerpt": "Weitere Minderheitenvertreter haben ihre Sorgen und ihren Widerstandswillen nach dem AfD-Sieg in Sachsen-Anhalt bekundet.",
+      "url": "https://www.deutschlandfunk.de/schwarze-menschen-gehoeren-zu-sachsen-anhalt-minderheitengruppen-betonen-widerstandswille-100.html",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,93 +286,109 @@
       "title": "Diplomatischer Streit - Russland schließt auch das deutsche Generalkonsulat in Sankt Petersburg",
       "excerpt": "Russland schließt neben den Goethe-Instituten auch das deutsche Generalkonsulat in St. Petersburg. Das russische Außenministerium ordnete an, dass dies bis zum 18. September zu geschehen habe.",
       "url": "https://www.deutschlandfunk.de/russland-schliesst-auch-das-deutsche-generalkonsulat-in-sankt-petersburg-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
+      "publishedAt": "2026-09-08T06:28:38.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Atomkraftwerk Saporischschja ist wieder an externe Stromleitung angeschlossen",
-      "excerpt": "Das ukrainische Atomkraftwerk Saporischschja wird wieder von einer externen Stromleitung versorgt.",
-      "url": "https://www.deutschlandfunk.de/atomkraftwerk-saporischschja-ist-wieder-an-externe-stromleitung-angeschlossen-108.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Liveblog zu Sachsen-Anhalt: ++ Verfassungsschützer nach AfD-Erfolg besorgt ++",
+      "excerpt": "Wie geht es nach der Landtagswahl in Sachsen-Anhalt weiter? Diese Frage beschäftigt Politiker, Verbände und Bürger. Ein Verfassungsschützer rät, der AfD nicht alle sensiblen Informationen zu geben.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+      "publishedAt": "2026-09-08T06:17:56.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaft - Kanadische Gegenzölle auf US-Importe treten in Kraft",
-      "excerpt": "Im Zollstreit mit den USA treten heute die kanadischen Gegenzölle in Kraft.",
-      "url": "https://www.deutschlandfunk.de/kanadische-gegenzoelle-auf-us-importe-treten-in-kraft-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt live: AfD will Siegmund, Wagenknecht wirbt für überparteilichen Regierungschef",
+      "excerpt": "BSW und AfD haben verschiedene Vorstellungen, wer den Ministerpräsidenten stellen sollte. Dresden, Hamburg und andere Städte planen Großdemonstrationen gegen rechts. Alle Entwicklungen nach der Wahl im Liveblog.",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
+      "publishedAt": "2026-09-08T06:17:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Sabotageversuche - Polizei ruft Bevölkerung auf, verdächtige Beobachtungen zu melden",
-      "excerpt": "Nach einer Serie von Sabotage-Versuchen auf das Stromnetz hat die Polizei die Bevölkerung aufgerufen, verdächtige Beobachtungen zu melden.",
-      "url": "https://www.deutschlandfunk.de/polizei-ruft-bevoelkerung-auf-verdaechtige-beobachtungen-zu-melden-110.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
+      "excerpt": "Als Präsidentin der UN-Generalversammlung wollte sich Annalena Baerbock für Reformen einsetzen. In ihrer einjährigen Amtszeit brachte sie Veränderungen auf den Weg - stieß aber auch auf Widerstand. Von Giselle Ucar.",
+      "url": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html",
+      "publishedAt": "2026-09-08T06:06:06.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Ostasien - Russland und Nordkorea eröffnen erste Straßenbrücke über Grenzfluss Tumen",
-      "excerpt": "Russland und Nordkorea haben eine neue Straßenbrücke zwischen beiden Ländern eröffnet.",
-      "url": "https://www.deutschlandfunk.de/russland-und-nordkorea-eroeffnen-erste-strassenbruecke-ueber-grenzfluss-tumen-104.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Die Pfütze des Teufels",
+      "excerpt": "Was ein Jungunternehmer erlebt, wenn in der Provinz eine pfuhldumme Posse abgeht. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6210806/",
+      "publishedAt": "2026-09-08T05:14:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Bundestag - Haushaltswoche beginnt - gut 200 Milliarden Euro Neuverschuldung in 2027 geplant",
-      "excerpt": "Bundesfinanzminister Klingbeil will heute den Haushalt für das kommende Jahr in den Bundestag einbringen.",
-      "url": "https://www.deutschlandfunk.de/haushaltswoche-beginnt-gut-200-milliarden-euro-neuverschuldung-in-2027-geplant-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "„Star Trek“-Jubiläum: Nie enden wollende Weiten",
+      "excerpt": "Erst wollte die Serie keiner kaufen, dann sollte sie schnell wieder abgesetzt werden. Nun feiert „Star Trek“ sein 60-jähriges Jubiläum. mehr...",
+      "url": "https://taz.de/Star-Trek-wird-60-Wie-die-Legende-entstand/!6206551/",
+      "publishedAt": "2026-09-08T05:11:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach der Landtagswahl - \"Wir werden Schutz organisieren\": Wie die Zivilgesellschaft in Sachsen-Anhalt auf das Wahlergebnis reagiert",
-      "excerpt": "Nach dem Wahlerfolg der AfD wollen zivilgesellschaftliche Akteure in Sachsen-Anhalt aktiv bleiben - jetzt erst recht. Es gehe darum, Menschen zu unterstützen, die an den Rand der Gesellschaft gedrängt würden, teilte etwa",
-      "url": "https://www.deutschlandfunk.de/wir-werden-schutz-organisieren-wie-die-zivilgesellschaft-in-sachsen-anhalt-auf-das-wahlergebnis-reag-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Investitionen im Verkehrssektor: Zu wenig Geld für Schiene und Klimaschutz",
+      "excerpt": "Der Bundestag verhandelt über den Haushalt, am Dienstag geht es um den Verkehrsetat. Und der wurde an den falschen Stellen gekürzt, sagen Verbände. mehr...",
+      "url": "https://taz.de/Investitionen-im-Verkehrssektor/!6210777/",
+      "publishedAt": "2026-09-08T05:08:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach der Landtagswahl in Sachsen-Anhalt - Bas kritisiert arbeitnehmerfeindliche Rhetorik als \"schädlich\", erwähnt Bundeskanzler Merz aber nicht namentlich",
-      "excerpt": "Die SPD-Vorsitzende Bas hat nach der Landtagswahl in Sachsen-Anhalt inhaltliche Konsequenzen für die Bundespolitik angekündigt. Bas sagte in Berlin, die Menschen hätten offene Fragen bei Gesundheit, Rente und Pflege.",
-      "url": "https://www.deutschlandfunk.de/bas-kritisiert-arbeitnehmerfeindliche-rhetorik-als-schaedlich-erwaehnt-bundeskanzler-merz-aber-nicht-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Direktmandat für Linke in Magdeburg: „Wir haben es geschafft, einen roten Leuchtturm aufzubauen“",
+      "excerpt": "Mustafa Groener hat für die Linke eins von drei Direktmandaten in Sachsen-Anhalt gewonnen. Er bezeichnet sie als „Schutzräume gegen die Faschisten“ der AfD. mehr...",
+      "url": "https://taz.de/Direktmandat-fuer-Linke-in-Magdeburg/!6210867/",
+      "publishedAt": "2026-09-08T05:05:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Sieg der AfD - Kanzler Merz nach Wahl in Sachsen-Anhalt: \"Können nicht zur Tagesordnung übergehen\"",
-      "excerpt": "Bundeskanzler und CDU-Chef Merz hat nach der Wahl in Sachsen-Anhalt seine Erschütterung über den Sieg der AfD zum Ausdruck gebracht. Merz sagte in Berlin, mit dem Wahltag habe sich nicht nur in Sachsen-Anhalt etwas verän",
-      "url": "https://www.deutschlandfunk.de/kanzler-merz-nach-wahl-in-sachsen-anhalt-koennen-nicht-zur-tagesordnung-uebergehen-102.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Abschiebepläne der AfD: Abschiebeflüge bleiben leer",
+      "excerpt": "Die AfD will massenhaft abschieben. So leicht, wie sich die rechtsextreme Partei das vorstellt, ist das nicht. Aber das Narrativ wirkt. mehr...",
+      "url": "https://taz.de/Abschiebeplaene-der-AfD/!6210773/",
+      "publishedAt": "2026-09-08T05:04:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Hilfsbedürftigkeit - Bundesweiter Tag der pflegenden Angehörigen: Sozialverband kritisiert mangelnde Unterstützung",
-      "excerpt": "Der Sozialverband Deutschland fordert anlässlich des bundesweiten Tags der pflegenden Angehörigen mehr Unterstützung.",
-      "url": "https://www.deutschlandfunk.de/bundesweiter-tag-der-pflegenden-angehoerigen-sozialverband-kritisiert-mangelnde-unterstuetzung-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
+      "excerpt": "Der Bundestag berät erstmals den Haushaltsentwurf für 2027. Geplant sind höhere Ausgaben und Schulden, besonders für Verteidigung. Um welche Summen geht es? Und woran gibt es Kritik?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
+      "publishedAt": "2026-09-08T04:47:50.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Basketball-WM - Deutsche Frauen spielen gegen Südkorea um Einzug ins Viertelfinale",
-      "excerpt": "Bei der Basketball-Weltmeisterschaft der Frauen spielt Deutschland heute in Berlin gegen Südkorea um den Einzug in das Viertelfinale.",
-      "url": "https://www.deutschlandfunk.de/deutsche-frauen-spielen-gegen-suedkorea-um-einzug-ins-viertelfinale-100.html",
-      "publishedAt": "2026-09-08T00:12:59.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "News: Friedrich Merz, Wladimir-Putin-Unterstützer in Deutschland, Pisa-Studie",
+      "excerpt": "Nach der CDU-Niederlage in Sachsen-Anhalt kämpft der Kanzler um sein politisches Überleben. Wladimir Putin profitiert von der Stärke der AfD. Und die OECD stellt die neuen Pisa-Ergebnisse vor. Das ist die Lage am Diensta",
+      "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wladimir-putin-unterstuetzer-in-deutschland-pisa-studie-a-c75c98ce-4174-4ca4-8aac-1ff0b4371ebc#ref=rss",
+      "publishedAt": "2026-09-08T03:25:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+      "excerpt": "Nach einer kurzzeitigen Feuerpause während des Besuchs von US-Unterhändlern in der Ukraine hat Russland seine schweren Luftangriffe wieder aufgenommen. Aus Kiew wurden Explosionen gemeldet, berichteten ukrainische Medien",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+      "publishedAt": "2026-09-08T03:09:42.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Bundeswehr: Steigende Zahl von sexualisierten Übergriffen alarmiert Verteidigungsministerium",
+      "excerpt": "Im Verteidigungsministerium sorgt die steigende Zahl von Meldungen über sexualisiertes Fehlverhalten für Alarmstimmung. Per Tagesbefehl ermahnt Generalinspekteur Breuer Soldaten und Vorgesetzte, nicht länger wegzusehen.",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-steigende-zahl-von-sexualisierten-uebergriffen-alarmiert-verteidigungsministerium-a-9c63ba71-3340-4117-b537-f6ff58459b93#ref=rss",
+      "publishedAt": "2026-09-08T03:05:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
       "title": "Sachsen-Anhalt live – News zur Landtagswahl: Markus Söder spricht von »größter Denkzettelwahl«",
-      "excerpt": "Der CSU-Chef fordert nach der Sachsen-Anhalt-Wahl, dass sich die Berliner Politik ändern müsse – und teilt gegen die SPD aus. Tausende Menschen demonstrieren gegen die AfD. In Halle wird dabei eine Person mit einer Luftd",
+      "excerpt": "Am Tag nach der Wahl in Sachsen-Anhalt ist das Gerangel um die Macht voll entbrannt. Der Druck auf die Berliner Regierungskoalition wächst. Alle Entwicklungen zum Nachlesen hier im Newsblog.",
       "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-friedrich-merz-watscht-sepp-mueller-ab-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
       "publishedAt": "2026-09-07T23:15:00.000Z",
       "category": "POLITIK"
@@ -347,46 +443,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Grüne und Linke gewinnen in Halle: Gewonnen und doch verloren",
-      "excerpt": "In Halle gingen zwei Wahlkreise an Kandidaten der Linken. Warum die Freude am Tag nach dem AfD-Erfolg trotzdem getrübt ist. mehr...",
-      "url": "https://taz.de/Gruene-und-Linke-gewinnen-in-Halle/!6210865/",
-      "publishedAt": "2026-09-07T17:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
-      "excerpt": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt. mehr...",
-      "url": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
-      "publishedAt": "2026-09-07T17:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Problemfall Fischerei: Nur Bruchteil der Meere ist effektiv geschützt",
-      "excerpt": "Schutzgebiete sollen die Artenvielfalt der Ozeane erhalten. Doch nicht immer helfen sie der Tierwelt und den Ökosystemen, sagt eine neue Studie. mehr...",
-      "url": "https://taz.de/Problemfall-Fischerei/!6210812/",
-      "publishedAt": "2026-09-07T17:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Angriff auf CSD-Mahnmal: Der Baum steht wieder",
-      "excerpt": "Erst wurde am Anschlagsort des CSD die Regenbogenbank zerstört, dann noch der Erinnerungsbaum. Die grüne Bezirksbürgermeisterin Stefanie Remlinger wolle sich nicht einschüchtern lassen. mehr...",
-      "url": "https://taz.de/Angriff-auf-CSD-Mahnmal/!6210922/",
-      "publishedAt": "2026-09-07T17:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Filmfestspiele von Venedig: Liebe ist möglich",
-      "excerpt": "Bei den Filmfestspielen von Venedig kommt es zum koreanischen Klassen-Clash. Und dänische Nazikollaborateure fürchten, dass sie nach der Befreiung auffliegen. mehr...",
-      "url": "https://taz.de/Filmfestspiele-von-Venedig/!6210707/",
-      "publishedAt": "2026-09-07T17:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Nach Einstufung als Terrororganisation: Autistici/Inventati ist Geschichte",
       "excerpt": "Das linke Tech-Kollektiv aus Italien, dessen Infrastruktur auch linke Gruppen in Deutschland nutzen, schmeißt hin. Der Druck der US-Behörden war zu groß. mehr...",
       "url": "https://taz.de/Nach-Einstufung-als-Terrororganisation/!6211217/",
@@ -399,6 +455,14 @@
       "excerpt": "Die Grünen feiern in Sachsen-Anhalt einen Rekord. Nun hoffen sie, dass die AfD-Angst auch in Mecklenburg-Vorpommern und Berlin Stimmen bringt. mehr...",
       "url": "https://taz.de/Gruenen-nach-Wahl-in-Sachsen-Anhalt/!6210872/",
       "publishedAt": "2026-09-07T17:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "AfD vor Berlin-Wahl: Provokation und Fundamentalopposition",
+      "excerpt": "Die AfD könnte bei der Wahl am 20. September ihr Ergebnis verdoppeln – und womöglich sogar stärkste Kraft werden. Was sind die Gründe für den Höhenflug? mehr...",
+      "url": "https://taz.de/AfD-vor-Berlin-Wahl/!6210782/",
+      "publishedAt": "2026-09-07T17:00:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -439,22 +503,6 @@
       "excerpt": "Friedrich Merz gibt sich nach der Niederlage bei der Landtagswahl in Sachsen-Anhalt geknickt, aber auch kämpferisch. Was es jetzt braucht, analysiert SPIEGEL-Hauptstadtbüroleiter Roland Nelles.",
       "url": "https://www.spiegel.de/politik/landtagswahl-in-sachsen-anhalt-die-cdu-und-merz-stecken-in-einem-dilemma-a-dce92bcc-eacf-467a-a9db-98780a107ad5#ref=rss",
       "publishedAt": "2026-09-07T16:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reaktionen auf Sachsen-Anhalt: Begeisterungsstürme, Schockstarre und tiefe Besorgnis",
-      "excerpt": "Die internationalen Reaktionen auf den AfD-Sieg könnten unterschiedlicher kaum ausfallen. Linke und De­mo­kra­t:in­nen sind besorgt, die Rechte reagiert gespalten. mehr...",
-      "url": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt/!6210852/",
-      "publishedAt": "2026-09-07T15:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU und Grönland: Auf der Suche nach einem Platz an der nordischen Sonne",
-      "excerpt": "Der Beziehungsstatus zwischen der Europäischen Union und Grönland ist kompliziert. Nun wagt die EU einen neuen Vorstoß mit einem Millionen-Programm. mehr...",
-      "url": "https://taz.de/EU-und-Groenland/!6210832/",
-      "publishedAt": "2026-09-07T15:31:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -527,6 +575,14 @@
       "excerpt": "Nicaragua wirft Deutschland Beihilfe eines israelischen Genozids in Gaza vor. Die Bundesregierung hält dagegen, man setze sich für eine Zwei-Staaten-Lösung ein. mehr...",
       "url": "https://taz.de/Internationaler-Gerichtshof/!6210838/",
       "publishedAt": "2026-09-07T14:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Streitthema Hausaufgaben: Grundschulen erproben das Ende der Hausaufgaben",
+      "excerpt": "Ein Paradigmenwechsel: Grundschulen in Norddeutschland verzichten vermehrt auf klassische Hausaufgaben und verlagern das Üben in den Schulalltag. mehr...",
+      "url": "https://taz.de/Streitthema-Hausaufgaben/!6209515/",
+      "publishedAt": "2026-09-07T14:30:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -690,22 +746,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt-Wahl: AfD gewinnt deutlich, CDU erlebt Debakel",
-      "excerpt": "Mit ihrem Spitzenkandidaten Ulrich Siegmund hat die AfD in Sachsen-Anhalt ein historisches Ergebnis eingefahren. Für die absolute Mehrheit reicht es aber nicht. Die Regierungsbildung dürfte schwierig werden.",
-      "url": "https://www.spiegel.de/politik/landtagswahl-in-sachsen-anhalt-afd-gewinnt-vor-cdu-verpasst-aber-absolute-mehrheit-a-fb39ba0f-a1e5-4256-b7b2-1126b2454473#ref=rss",
-      "publishedAt": "2026-09-07T01:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt-Wahl: Historischer AfD-Triumph und Krise für die CDU - Podcast",
-      "excerpt": "Die AfD feiert in Sachsen-Anhalt einen historischen Wahlerfolg. Für Friedrich Merz und die CDU ist das Ergebnis eine verheerende Niederlage. Was bedeutet das für Deutschland? Die Sonderfolge von »MAD KINGS«.‬",
-      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-historischer-afd-triumph-und-krise-fuer-die-cdu-podcast-a-75068961-1d5e-4e7c-81b5-d2664f9941dc#ref=rss",
-      "publishedAt": "2026-09-07T01:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
       "excerpt": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW ankommen, das den Einzug k",
@@ -715,27 +755,11 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-      "excerpt": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition mit der AfD weiter ab",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-07T01:13:15.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
       "excerpt": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder g",
       "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
       "publishedAt": "2026-09-07T01:13:08.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "BSW in Sachsen-Anhalt: Und plötzlich ist Sahra Wagenknecht wieder ein Machtfaktor",
-      "excerpt": "Bei der Bundestagswahl knapp gescheitert, in Sachsen-Anhalt knapp im Landtag: Das BSW könnte im Kampf ums Ministerpräsidentenamt die entscheidende Rolle spielen. Die Wagenknecht-Partei hat einen Plan. Doch wie realistisc",
-      "url": "https://www.spiegel.de/politik/deutschland/bsw-wie-sahra-wagenknecht-in-sachsen-anhalt-ploetzlich-wieder-zum-machtfaktor-wird-a-ad6379ac-fbf1-41c6-9567-55847b179bd7#ref=rss",
-      "publishedAt": "2026-09-07T00:55:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -799,14 +823,6 @@
       "excerpt": "Das BSW trat zum ersten Mal in Sachsen-Anhalt bei einer Landtagswahl an. Welche Themen bewegten und überzeugten ihre Wählenden? Was erwarten sie? Ein Überblick mit Umfrage-Grafiken von infratest dimap.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/umfragen-bsw-landtagswahl-sachsen-anhalt-2026-100.html",
       "publishedAt": "2026-09-06T17:56:45.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wahlverhalten bei der Landtagswahl in Sachsen-Anhalt 2026",
-      "excerpt": "Für wen stimmten Frauen in Sachsen-Anhalt und für wen Männer? Welche Partei war bei jungen Wählenden stark und welche bei älteren? Das Wahlverhalten der Bevölkerungsgruppen im interaktiven Überblick.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-sachsen-anhalt-2026-102.html",
-      "publishedAt": "2026-09-06T17:52:55.000Z",
       "category": "INNENPOLITIK"
     },
     {
@@ -930,14 +946,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "US-Frauenrechtsaktivistin Gloria Steinem mit 92 Jahren gestorben",
-      "excerpt": "Sie war eine der führenden Stimmen der Frauenbewegung in den USA. Nun ist die Journalistin und Buchautorin Gloria Steinem im Alter von 92 Jahren in New York gestorben. Von Martin Ganslmeier.",
-      "url": "https://www.tagesschau.de/ausland/gloria-steinem-tod-100.html",
-      "publishedAt": "2026-09-03T15:12:26.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Wiederaufbau nach Erdbeben in Kolumbien: 500.000 Schüler Studierende betroffen",
       "excerpt": "Coco, Viktor www.deutschlandfunk.de, Campus & Karriere",
@@ -991,14 +999,6 @@
       "excerpt": "Meldungen über Sabotageakte in Europa nehmen zu - ebenso die Hinweise, dass Russland dahinterstecken könnte. Nun warnt auch der dänische Nachrichtendienst öffentlich vor solchen Aktionen. Und davor, für Spionage angeworb",
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-nachrichtendienst-sabotage-warnung-100.html",
       "publishedAt": "2026-09-03T10:42:26.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
-      "excerpt": "Als Reaktion auf den Anschlagsversuch am Flughafen Leipzig/Halle will die Bundesregierung den Vertrag mit dem Russischen Haus kündigen. Moskau zieht nun nach und schließt Niederlassungen des Goethe-Instituts im Land.",
-      "url": "https://www.tagesschau.de/ausland/goethe-institut-russland-schliessung-100.html",
-      "publishedAt": "2026-09-03T09:02:54.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
