@@ -1,28 +1,68 @@
 {
-  "updatedAt": "2026-09-18T05:13:38.071Z",
+  "updatedAt": "2026-09-18T09:47:41.096Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Mail von Martenstein - Liebe Clara von Nathusius!",
-      "excerpt": "JU-Mann Martenstein sieht Clara von Nathusius als mutige Zukunftshoffnung der CDU.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-liebe-clara-von-nathusius-sie-sind-siegmund-gewachsen-6aabe9de6c12d34b7f43def1",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Umfrage-Sensation vor Super-Wahlsonntag! - Schwesig überholt die AfD",
+      "excerpt": "Umfrage sieht Schwesigs SPD knapp vor der AfD, Merz steht bundesweit unter Druck.",
+      "url": "https://www.bild.de/politik/inland/zdf-umfrage-linke-fuehrt-in-berlin-afd-in-mecklenburg-vorpommern-vorn-6aac3b2ee63576cfb102918d",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD exklusiv - Hilferuf aus unseren drei Autoländern",
-      "excerpt": "BILD exklusiv: Was Söder (Bayern), Özdemir (BaWü) und Lies (Niedersachsen) fordern.",
-      "url": "https://www.bild.de/politik/inland/branche-in-der-krise-laender-mit-automobilindustrie-schicken-hilferuf-nach-bruessel-und-berlin-6aabe1173e0af7910e522d29",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Kubaner sitzt im Gefängnis - „Trump hat mich nach Afrika abgeschoben“",
+      "excerpt": "Ein Kubaner landet wegen Trumps Abschiebe-Programm im Gefängnis in Eswatini.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/kubaner-klagt-an-trump-hat-mich-nach-afrika-abgeschoben-6aac14f0b1857e86757a5429",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Bei Illner - Palmer kontert mit Drei-Faktoren-These",
-      "excerpt": "Die Lage ist ernst – ist Ernst auch die Lösung? Die neue CDU-Generalsekretärin Franziska Hoppermann (44) hat in ihrer Talkshow-Premi...",
-      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/maybrit-illner-boris-palmer-ueberrascht-mit-drei-faktor-these-6aac79cdbaad3fac16cdf0ec",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Meloni und Tusk machen’s vor - Sprit-Entlastung einfach mal machen statt rumeiern, Kanzler!",
+      "excerpt": "Während unsere Nachbarländer handeln, zaudert die Merz-Regierung. Ein Zwischenruf.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/giorgia-meloni-handeln-statt-zaudern-sprit-lektion-fuer-merz-und-klingbeil-6aab99103e0af7910e522311",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hilferuf an Kanzler Merz - Diesel-Schock treibt unsere Speditionen in die Pleite",
+      "excerpt": "Verbandschef warnt: Rekord-Dieselpreise bedrohen Speditionen und Versorgungssicherheit.",
+      "url": "https://www.bild.de/politik/inland/hilferuf-der-spediteure-an-kanzler-merz-diesel-schock-treibt-unsere-brummi-fahrer-in-die-pleite-6aab96423e0af7910e522299",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Reporter über BER-Prügelvideo - „Der war wie im Blutrausch“",
+      "excerpt": "Video zeigt brutale Attacke auf BER-Mitarbeiter, BILD-Reporter ordnen ein.",
+      "url": "https://www.bild.de/politik/das-video-der-minutenlangen-attacke-auf-den-flughafenmitarbeiter-am-berliner-flughafen-ber-schockiert-der-war-wie-im-blutrausch-6aabeb7cfc82e30f94af35a0",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlkampf-Endspurt in MeckPomm - CDU-Mann Peters setzt auf Spritpreis-Joker",
+      "excerpt": "CDU-Spitzenkandidat Peters wirbt in MV um Vertrauen trotz schwacher Umfragen.",
+      "url": "https://www.bild.de/politik/inland/mecklenburg-vorpommern-cdu-mann-daniel-peters-setzt-aufjoker-beim-spritpreis-6aabb61b3e0af7910e52268f",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU nennt erstmals konkrete Zahlen - Bis zu 25 Cent weniger pro Liter Benzin?",
+      "excerpt": "CDU plant Spritentlastung ab Oktober, doch über das genaue Modell gibt es Streit.",
+      "url": "https://www.bild.de/politik/inland/spritpreise-bis-zu-25-cent-pro-liter-so-stark-will-die-regierung-autofahrer-entlasten-6aacc3f07a2a14cb01becbb2",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zum Ukraine-Krieg - Mindestens 3 Kinder bei russischem Angriff verltzt",
+      "excerpt": "Russland greift Ukraine weiter mit Raketen und Drohnen an, auch Zivilisten sterben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
@@ -30,103 +70,55 @@
       "title": "Trump-Truppenhammer! - USA könnten 40.000 Soldaten aus Europa abziehen",
       "excerpt": "Pentagon prüft massiven US-Truppenabzug aus Europa, vor allem aus Deutschland.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/schock-fuer-europa-trump-koennte-40-000-us-soldaten-abziehen-6aac60d8baad3fac16cdf06e",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Umfrage-Sensation vor Super-Wahlsonntag! - Schwesig überholt die AfD",
-      "excerpt": "Umfrage sieht Schwesigs SPD knapp vor der AfD, Merz steht bundesweit unter Druck.",
-      "url": "https://www.bild.de/politik/inland/zdf-umfrage-linke-fuehrt-in-berlin-afd-in-mecklenburg-vorpommern-vorn-6aac3b2ee63576cfb102918d",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Mail von Martenstein - Liebe Clara von Nathusius!",
+      "excerpt": "JU-Mann Martenstein sieht Clara von Nathusius als mutige Zukunftshoffnung der CDU.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-liebe-clara-von-nathusius-sie-sind-siegmund-gewachsen-6aabe9de6c12d34b7f43def1",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "BILD exklusiv - Hilferuf aus unseren drei Autoländern",
+      "excerpt": "BILD exklusiv: Was Söder (Bayern), Özdemir (BaWü) und Lies (Niedersachsen) fordern.",
+      "url": "https://www.bild.de/politik/inland/branche-in-der-krise-laender-mit-automobilindustrie-schicken-hilferuf-nach-bruessel-und-berlin-6aabe1173e0af7910e522d29",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Twitter-Video zur Leipzig-Drohne - Diese Lügen verbreitet Russland",
-      "excerpt": "Ein anonymes Video soll den Drohnen-Anschlag leugnen, doch Fakten entlarven es.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/propaganda-video-zur-leipzig-drohne-diese-dreisten-luegen-verbreitet-russland-6aaa7d18a9420481bd213744",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Bei Illner - Palmer kontert mit Drei-Faktoren-These",
+      "excerpt": "Die Lage ist ernst – ist Ernst auch die Lösung? Die neue CDU-Generalsekretärin Franziska Hoppermann (44) hat in ihrer Talkshow-Premi...",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/maybrit-illner-boris-palmer-ueberrascht-mit-drei-faktor-these-6aac79cdbaad3fac16cdf0ec",
+      "publishedAt": "2026-09-18T09:47:41.064Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Schwesig überholt die AfD - Umfrage-Sensation vor Super-Wahlsonntag!",
-      "excerpt": "Gleich mehr bei BILD.",
-      "url": "https://www.bild.de/politik/meckpomm-die-letzte-umfrage-vor-der-wahl-6aac07c9baad3fac16cdec02",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Kamikaze-Drohnen über der Ukraine - Die neue Abwehr gegen den Russen-Terror",
+      "excerpt": "Russland greift mit neuen Kamikaze-Drohnen an, die Ukraine verstärkt ihre Abwehr.",
+      "url": "https://www.bild.de/politik/kamikaze-drohnen-ueber-der-ukraine-die-neue-abwehr-gegen-den-russen-terror-6aabb34bfc82e30f94af2daa",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wahl zum Ministerpräsidenten - Siegmund will im November antreten",
-      "excerpt": "AfD-Mann Siegmund peilt Wahl zum Ministerpräsidenten von Sachsen-Anhalt im November an.",
-      "url": "https://www.bild.de/politik/inland/zeitplan-sickert-durch-siegmund-will-im-november-zur-mp-wahl-antreten-6aac3563baad3fac16cdeecf",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "UN-Delegation zu Gast in New York - USA verbieten Iranern Luxus-Shopping",
+      "excerpt": "US erlaubt iranische UN-Delegation in New York, verbietet aber Käufe von Luxusgütern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/zu-gast-in-new-york-usa-verbieten-un-delegation-aus-iran-das-luxus-shopping-6aacdb4b7a2a14cb01becd43",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kanzler im Nahverkehr - Merz: Ich fahre manchmal noch S-Bahn in Berlin",
-      "excerpt": "Merz schildert, warum er in Berlin noch S-Bahn fährt und das Brandenburger Tor liebt.",
-      "url": "https://www.bild.de/politik/inland/kanzler-im-nahverkehr-merz-ich-fahre-manchmal-noch-s-bahn-in-berlin-6aac1379b1857e86757a540f",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hauptstadt-Korrespondentin vor der Richtungswahl - „Berlin stehen sehr schwere Zeiten bevor“",
-      "excerpt": "CDU und Linke ringen in Berlin um Kurs bei möglichen Wohnungskonzern-Enteignungen.",
-      "url": "https://www.bild.de/politik/die-hauptstadt-vor-der-richtungswahl-berlin-stehen-sehr-schwere-zeiten-bevor-6aabb5786c12d34b7f43d7b3",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kanzler gegen Finanzminister - Machtkampf um unsere Sprit-Hilfe",
-      "excerpt": "Geplant ist eine niedrigere Mehrwertsteuer auf Sprit, doch EU und Länder können bremsen.",
-      "url": "https://www.bild.de/politik/inland/mehrwertsteuer-runter-auf-7-prozent-machtkampf-um-spritpreis-hilfe-6aabcf00a9420481bd214b8a",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Knackt sie noch die AfD? - Die 5 Gründe für Schwesigs Aufholjagd",
-      "excerpt": "Am Sonntag wählt Meck-Pomm. So holt Manuela Schwesig auf.",
-      "url": "https://www.bild.de/politik/inland/manuela-schwesig-fuenf-gruende-fuer-ihre-aufholjagd-6aaa895a91d8cffaad47b6f7",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Der Politik-Vodcast - Vertraulich! - Klopp-Rede rührt BILD-Chefautor zu Tränen",
-      "excerpt": "Klopp spricht als Bundestrainer emotional über Patriotismus und die AfD.",
-      "url": "https://www.bild.de/politik/der-politik-vodcast-vertraulich-klopp-rede-ruehrt-bild-chefautor-zu-traenen-6aabf89c6c12d34b7f43e0a4",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter über BER-Prügelvideo - “Der war wie im Blutrausch“",
-      "excerpt": "Video zeigt brutale Attacke auf BER-Mitarbeiter, BILD-Reporter ordnen ein.",
-      "url": "https://www.bild.de/politik/das-video-der-minutenlangen-attacke-auf-den-flughafenmitarbeiter-am-berliner-flughafen-ber-schockiert-der-war-wie-im-blutrausch-6aabeb7cfc82e30f94af35a0",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Palast von Spencer-Buch kalt erwischt - „Die Anschuldigungen sind verheerend“",
-      "excerpt": "Dianas Bruder greift in neuem Buch König Charles mit harten Vorwürfen an.",
-      "url": "https://www.bild.de/politik/koenig-charles-von-diana-bruder-kalt-erwischt-die-anschuldigungen-sind-verheerend-6aabd0bca9420481bd214bb9",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "Jetzt 2,471 Euro - Diesel erreicht neuen Rekordwert",
+      "excerpt": "Teurer Diesel belastet Autofahrer, Regierung ringt um rasche Entlastung an der Tanke.",
+      "url": "https://www.bild.de/politik/jetzt-2-471-euro-diesel-erreicht-neuen-rekordwert-6aacf1aeb1857e86757a5c3f",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
     },
     {
@@ -134,39 +126,79 @@
       "title": "Bundestrainer über Nationalstolz und AfD - Klopp-Rede rührt BILD-Chefautor zu Tränen",
       "excerpt": "Jürgen Klopp spricht als Bundestrainer emotional über Deutschland und Patriotismus.",
       "url": "https://www.bild.de/politik/bundestrainer-ueber-nationalstolz-und-afd-klopp-rede-ruehrt-bild-chefautor-zu-traenen-6aabeb283e0af7910e522ecb",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD erklärt die Merz-Krise - Was der Kanzler darf und wer ihn stürzen kann",
-      "excerpt": "Merz steht unter Druck: So mächtig ist der Kanzler – und so kann er gestürzt werden.",
-      "url": "https://www.bild.de/politik/inland/friedrich-merz-was-der-kanzler-darf-und-wie-er-gestuerzt-werden-kann-6aaa61df3e0af7910e520de2",
-      "publishedAt": "2026-09-18T05:13:37.783Z",
+      "title": "„Es gibt ein reales Risiko“ - Polen-Premier Tusk warnt vor Putin-Trick",
+      "excerpt": "Tusk warnt nach CIA-Bericht: Europa muss sich auf mehrere Krisenszenarien rüsten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bericht-der-cia-erhalten-polenpremier-warnt-europa-vor-duesterem-szenario-6aa2c02a240b302c8a840580",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Explodierender Ölpreis: Selbst Polens Konservative wollen Übergewinnsteuer",
-      "excerpt": "Polens Regierung will Ölkonzerne mit 60 Prozent auf ihre Übergewinne belasten. Präsident Nawrocki hatte das Vorhaben zuvor gestoppt. mehr...",
-      "url": "https://taz.de/Explodierender-Oelpreis/!6213919/",
-      "publishedAt": "2026-09-18T05:11:00.000Z",
+      "source": "BILD.DE",
+      "title": "Überraschende Aussage vom Kanzler - Merz: Ich fahre manchmal noch S-Bahn in Berlin",
+      "excerpt": "Merz schildert, warum er in Berlin noch S-Bahn fährt und das Brandenburger Tor liebt.",
+      "url": "https://www.bild.de/politik/inland/kanzler-im-nahverkehr-merz-ich-fahre-manchmal-noch-s-bahn-in-berlin-6aac1379b1857e86757a540f",
+      "publishedAt": "2026-09-18T09:47:41.063Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Übergewinnsteuer - Finanzminister Klingbeil fordert EU-Kommission zum Handeln auf",
+      "excerpt": "Bundesfinanzminister Klingbeil hat angesichts der hohen Kraftstoffpreise Kritik an der EU-Kommission geübt.",
+      "url": "https://www.deutschlandfunk.de/finanzminister-klingbeil-fordert-eu-kommission-zum-handeln-auf-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - ICE: Rekord im August bei Festnahmen von Ausländern ohne gültige Dokumente",
+      "excerpt": "Die US-Einwanderungsbehörde ICE hat im August nach eigenen Angaben mehr Menschen festgenommen als je zuvor.",
+      "url": "https://www.deutschlandfunk.de/ice-rekord-im-august-bei-festnahmen-von-auslaendern-ohne-gueltige-dokumente-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verteidigung - Deutschland bekommt ersten F-35 Kampfjet - Pistorius in den USA",
+      "excerpt": "Das US-Rüstungsunternehmen Lockheed Martin liefert heute den ersten von Deutschland bestellten Kampfjet vom Typ F-35 aus. Verteidigungsminister Pistorius nimmt das Flugzeug symbolisch in Empfang. Der SPD-Politiker sagte,",
+      "url": "https://www.deutschlandfunk.de/deutschland-bekommt-ersten-f-35-kampfjet-pistorius-in-den-usa-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verteidigungsministerium - Bundeswehr legt bei Personalstärke planmäßig zu",
+      "excerpt": "Die Bundeswehr liegt beim personellen Aufwuchs ihren Angaben zufolge im Plan.",
+      "url": "https://www.deutschlandfunk.de/bundeswehr-legt-bei-personalstaerke-planmaessig-zu-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Konjunkturprognose - BDI rechnet mit größerem Wirtschaftswachstum",
+      "excerpt": "Der Bundesverband der Deutschen Industrie hat seine Konjunkturprognose für das laufende Jahr deutlich angehoben.",
+      "url": "https://www.deutschlandfunk.de/bdi-rechnet-mit-groesserem-wirtschaftswachstum-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Staatsduma - Parlamentswahl in Russland hat begonnen - keine Oppositionskräfte zugelassen",
       "excerpt": "In Russland hat die Parlamentswahl begonnen, die bis Sonntag dauern wird. In dem flächenmäßig größten Land der Erde mit seinen elf Zeitzonen öffneten die ersten Wahllokale auf der fernöstlichen Halbinsel Kamtschatka. Ein",
       "url": "https://www.deutschlandfunk.de/parlamentswahl-in-russland-hat-begonnen-keine-oppositionskraefte-zugelassen-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Wahl der Staatsduma - \"Letztlich steht das Ergebnis schon vor der Auszählung fest\": CDU-Außenpolitiker Hardt bezeichnet Parlamentswahl in Russland als \"Farce\"",
-      "excerpt": "Der CDU-Außenpolitiker Hardt hat die Parlamentswahl in Russland als Farce bezeichnet, deren Ergebnis letztlich schon vor der Auszählung feststehe.",
+      "excerpt": "Der CDU-Außenpolitiker Hardt hat die Parlamentswahl in Russland als Farce bezeichnet, da das Ergebnis letztlich schon vor der Auszählung feststehe.",
       "url": "https://www.deutschlandfunk.de/letztlich-steht-das-ergebnis-schon-vor-der-auszaehlung-fest-cdu-aussenpolitiker-hardt-bezeichnet-par-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +206,15 @@
       "title": "Ukrainekrieg - Polens Ministerpräsident Tusk rechnet mit russischer Eskalation - auch Unterstützer der Ukraine betroffen",
       "excerpt": "Der polnische Ministerpräsident Tusk rechnet für die kommenden Wochen mit einer weiteren Verstärkung der russischen Angriffe auf die Ukraine.",
       "url": "https://www.deutschlandfunk.de/polens-ministerpraesident-tusk-rechnet-mit-russischer-eskalation-auch-unterstuetzer-der-ukraine-betr-104.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Folge des Iran-Kriegs - Frachtraten von China in die USA gestiegen",
+      "excerpt": "Die Kosten für den Transport von Seefracht zwischen China und der US-Ostküste sind infolge des Iran-Kriegs deutlich gestiegen. Einen Seecontainer zu verschicken, kostet derzeit viermal so viel wie vor Beginn des Konflikt",
+      "url": "https://www.deutschlandfunk.de/frachtraten-von-china-in-die-usa-gestiegen-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,15 +222,23 @@
       "title": "Bab ⁠al-Mandab - Durchfahrt durch Meerenge: Italien erwägt Alleingang",
       "excerpt": "Italien bereitet ‌angesichts wachsender Sicherheitsbedenken in ⁠der Meerenge Bab ⁠al-Mandab eine mögliche Marinemission zum Schutz seiner Handelsschifffahrt vor.",
       "url": "https://www.deutschlandfunk.de/durchfahrt-durch-meerenge-italien-erwaegt-alleingang-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Gesellschaft - Zahl überschuldeter Menschen steigt",
-      "excerpt": "In Deutschland ist die Zahl der überschuldeten Menschen gestiegen.",
-      "url": "https://www.deutschlandfunk.de/zahl-ueberschuldeter-menschen-steigt-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "title": "Einwanderung - Linken-Politikerin Wissler kritisiert Aktionsplan gegen Sozialbetrug",
+      "excerpt": "Die Linken-Politikerin Wissler hat den Aktionsplan der Bundesregierung gegen Sozialbetrug als \"nicht zielgerichtet\" kritisiert. Die stellvertretende Fraktionsvorsitzende der Partei sagte, die vorgestellten Maßnahmen ging",
+      "url": "https://www.deutschlandfunk.de/linken-politikerin-wissler-kritisiert-aktionsplan-gegen-sozialbetrug-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Benzinpreise - Wirtschaftsweiser Felbermayr empfiehlt gezielte Förderung bedürftiger Haushalte",
+      "excerpt": "Als Entlastung für die hohen Kraftstoffpreise empfiehlt der Wirtschaftsweise Gabriel Felbermayr die gezielte Förderung bedürftiger Haushalte. Direktzahlungen an einkommensschwache Personen seien für den Staat deutlich gü",
+      "url": "https://www.deutschlandfunk.de/wirtschaftsweiser-felbermayr-empfiehlt-gezielte-foerderung-beduerftiger-haushalte-102.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +246,23 @@
       "title": "Hohe Kraftstoffpreise - ADAC und Handwerk fordern Senkung der Stromsteuer",
       "excerpt": "Der ADAC und der Zentralverband des Deutschen Handwerks fordern wegen der hohen Kraftstoffpreise eine Senkung der Stromsteuer. Eine ADAC-Sprecherin sagte der \"Rheinischen Post\" aus Düsseldorf, das würde private Haushalte",
       "url": "https://www.deutschlandfunk.de/adac-und-handwerk-fordern-senkung-der-stromsteuer-102.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesellschaft - Zahl überschuldeter Menschen steigt",
+      "excerpt": "In Deutschland ist die Zahl der überschuldeten Menschen gestiegen. Wie aus einer Studie des Hamburger Instituts für Finanzdienstleistungen IFF hervorgeht, waren im vergangenen Jahr rund 5,7 Millionen Erwachsene überschul",
+      "url": "https://www.deutschlandfunk.de/zahl-ueberschuldeter-menschen-steigt-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Aufwärtstrend - Auch im Juli mehr Baugenehmigungen erteilt",
+      "excerpt": "Der Aufwärtstrend im Wohnungsbau hält an, hat sich aber wegen höherer Bauzinsen abgeschwächt.",
+      "url": "https://www.deutschlandfunk.de/auch-im-juli-mehr-baugenehmigungen-erteilt-100.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,96 +270,200 @@
       "title": "rbb-Recherche - Hunderte Straftaten im Berliner Wahlkampf - die meisten richteten sich gegen die AfD",
       "excerpt": "Im Wahlkampf in Berlin hat es nach Recherchen des Senders RBB in der Zeit von Anfang August bis Mitte September hunderte Straftaten gegen die antretenden Parteien gegeben.",
       "url": "https://www.deutschlandfunk.de/hunderte-straftaten-im-berliner-wahlkampf-die-meisten-richteten-sich-gegen-die-afd-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Weißes Haus - USA weisen UNO-Bericht über mögliche Kriegsverbrechen im Iran zurück",
-      "excerpt": "Die US-Regierung hat den Bericht einer Untersuchungskommission des UNO-Menschenrechtsrates zu möglichen Kriegsverbrechen des US-Militärs im Iran zurückgewiesen.",
-      "url": "https://www.deutschlandfunk.de/usa-weisen-uno-bericht-ueber-moegliche-kriegsverbrechen-im-iran-zurueck-102.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "title": "Wirtschaft - Nestlé prüft Maßnahmen gegen russische Zwangsverwaltung",
+      "excerpt": "Der Lebensmittelkonzern Nestlé prüft rechtliche Schritte gegen die von Russlands Präsident Putin angeordnete Zwangsverwaltung der russischen Tochtergesellschaft.",
+      "url": "https://www.deutschlandfunk.de/nestl-prueft-massnahmen-gegen-russische-zwangsverwaltung-102.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "USA-Reise - Verteidigungsminister Pistorius nimmt in Texas bestellten F35-Kampfjet in Empfang",
-      "excerpt": "Zum Abschluss ⁠seiner mehrtägigen USA-Reise nimmt Bundesverteidigungsminister Pistorius heute den ersten Kampfjet vom Typ F-35 für die deutsche Luftwaffe in Empfang.",
-      "url": "https://www.deutschlandfunk.de/verteidigungsminister-pistorius-nimmt-in-texas-bestellten-f35-kampfjet-in-empfang-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
+      "title": "Dänemark - CO2-Speicher im Meeresboden geht in Betrieb",
+      "excerpt": "In Dänemark geht heute ein CO2-Speicher unter der Nordsee offiziell in Betrieb. Beim sogenannten \"Project Greensand\" soll klimaschädliches Kohlenstoffdioxid dauerhaft eingelagert werden, damit es nicht in die Atmosphäre ",
+      "url": "https://www.deutschlandfunk.de/co2-speicher-im-meeresboden-geht-in-betrieb-102.html",
+      "publishedAt": "2026-09-18T09:24:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Vereinte Nationen - Verteidigungsminister Pistorius: UNO-Friedenssicherung bleibt zentrale Aufgabe",
-      "excerpt": "Deutschland ist laut Verteidigungsminister Pistorius auch nach dem Ende des UNO-Einsatzes im Libanon zu weiteren Friedensmissionen bereit. Peacekeeping müsse eine zentrale Aufgabe von allen Ländern dieser Welt bleiben, s",
-      "url": "https://www.deutschlandfunk.de/verteidigungsminister-pistorius-uno-friedenssicherung-bleibt-zentrale-aufgabe-112.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Tagebuch aus der Ukraine: Wir waren doch eine ganz normale Familie",
+      "excerpt": "Der lange Krieg belastet den Alltag der Menschen in der Ukraine sehr. Viele Ehen wurden geschieden. Erst in jüngster Zeit wird wieder mehr geheiratet. mehr...",
+      "url": "https://taz.de/Tagebuch-aus-der-Ukraine/!6207628/",
+      "publishedAt": "2026-09-18T09:17:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Medienbericht - Merz und Klingbeil beraten mit Vertretern der Länder über Entlastung bei Kraftstoffpreisen",
-      "excerpt": "Vertreter von Bund und Ländern beraten nach einem Medienbericht angesichts der hohen Kraftstoffpreise über mögliche Entlastungen.",
-      "url": "https://www.deutschlandfunk.de/merz-und-klingbeil-beraten-mit-vertretern-der-laender-ueber-entlastung-bei-kraftstoffpreisen-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "US-Einwanderungsbehörde ohne Leitung: Trump zieht überraschend ICE-Toppersonalie zurück",
+      "excerpt": "Trump wollte einen neuen Leiter für die umstrittene Migrationsbehörde ICE, die für ihre Razzien berüchtigt ist. ICE inhaftiert mehr Menschen als je zuvor. mehr...",
+      "url": "https://taz.de/Trump-zieht-ueberraschend-Toppersonalie-zu-ICE-Behoerde-zurueck/!6214240/",
+      "publishedAt": "2026-09-18T08:53:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Diplomatie - Merz und Trump holen abgesagtes Telefonat nach",
-      "excerpt": "Bundeskanzler Merz und US-Präsident Trump haben ihr in der vergangenen Woche verschobenes Telefonat nachgeholt.",
-      "url": "https://www.deutschlandfunk.de/merz-und-trump-holen-abgesagtes-telefonat-nach-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Kampfflugzeug F-35: Was Deutschlands erster Tarnkappenjet kann",
+      "excerpt": "In Texas übergibt die Rüstungsschmiede Lockheed Martin Verteidigungsminister Pistorius die erste F-35 für die Luftwaffe. Der Flieger soll Deutschlands nukleare Teilhabe sichern – und Russland abschrecken.",
+      "url": "https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss",
+      "publishedAt": "2026-09-18T08:43:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "USA - Regierung erlaubt Einreise iranischer Vertreter zur UNO-Generaldebatte",
-      "excerpt": "Die US-Regierung erlaubt hochrangigen Vertretern des iranischen Regimes die Einreise zur Generaldebatte der UNO-Vollversammlung in New York.",
-      "url": "https://www.deutschlandfunk.de/regierung-erlaubt-einreise-iranischer-vertreter-zur-uno-generaldebatte-104.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz fährt manchmal S-Bahn, sagt Friedrich Merz",
+      "excerpt": "Der Bundeskanzler ein abgehobener Privatjetpilot? Ach, i wo! Friedrich Merz nimmt in Berlin auch gern mal die S-Bahn. Wohin führt seine persönliche Mobilitätswende?",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-faehrt-manchmal-s-bahn-a-b66ae343-2f32-417d-a351-2429d9eb0242#ref=rss",
+      "publishedAt": "2026-09-18T08:07:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Berlin - Bundeskanzler Merz ruft zum Kampf gegen Antisemitismus auf",
-      "excerpt": "Bundeskanzler Merz hat zum Kampf gegen Antisemitismus aufgerufen.",
-      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ruft-zum-kampf-gegen-antisemitismus-auf-106.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Grüne-Spitzenfrau in MV: All eyes on Müller",
+      "excerpt": "Vor einem Jahr lagen die Grünen in Mecklenburg-Vorpommern in Trümmern. Mit Topkandidatin Claudia Müller hoffen sie auf den Verbleib im Landtag. mehr...",
+      "url": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6211647/",
+      "publishedAt": "2026-09-18T08:04:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Vor jüdischem Feiertag - Mann soll Feuer an Tür von Wuppertaler Synagoge gelegt haben",
-      "excerpt": "Nach einem versuchten Brandanschlag auf die Synagoge in Wuppertal hat die Polizei nach eigenen Angaben einen Tatverdächtigen festgenommen.",
-      "url": "https://www.deutschlandfunk.de/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben-106.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+      "excerpt": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
+      "publishedAt": "2026-09-18T08:03:21.000Z",
+      "category": "WIRTSCHAFT & PREISE"
     },
     {
-      "source": "DLF",
-      "title": "Frankreich - Haushalt 2027 sieht Einsparungen von 54 Milliarden Euro vor",
-      "excerpt": "Die ​französische Regierung plant im Haushalt für 2027 Einsparungen in Höhe von 54 Milliarden Euro.",
-      "url": "https://www.deutschlandfunk.de/haushalt-2027-sieht-einsparungen-von-54-milliarden-euro-vor-110.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Vor der Wahl in Brasilien: Lula erhöht Sozialhilfe",
+      "excerpt": "Die Wahlen in Brasilien könnten harte Einschnitte für die Bevölkerung bringen. Der amtierende Präsident Lula erhöht nun Sozialhilfe. mehr...",
+      "url": "https://taz.de/Vor-der-Wahl-in-Brasilien/!6214225/",
+      "publishedAt": "2026-09-18T07:58:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Pflege - Rehlinger legt Vorschlag zur Finanzierung eines Pflegekostendeckels vor",
-      "excerpt": "Die saarländische Ministerpräsidentin Rehlinger hat ihren Vorschlag zur Deckelung des Eigenanteils an den Pflegekosten konkretisiert.",
-      "url": "https://www.deutschlandfunk.de/rehlinger-legt-vorschlag-zur-finanzierung-eines-pflegekostendeckels-vor-102.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Wahlkampf in Meck-Pomm: Rot endlich wieder vor Braun",
+      "excerpt": "SPD und AfD ringen vor Landtagswahl in Mecklenburg-Vorpommern am Sonntag um den Sieg. In einer neuesten Umfrage überholt die SPD die AfD erstmals. mehr...",
+      "url": "https://taz.de/Wahlkampf-in-Meck-Pomm/!6214228/",
+      "publishedAt": "2026-09-18T07:53:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Analyse - UN Women: Geschlechter-Gleichstellung in allen Lebensbereichen könnte noch 171 Jahren dauern",
-      "excerpt": "Die Vereinten Nationen zeichnen mit Blick auf die angestrebte Gleichstellung der Geschlechter ein pessimistisches Bild.",
-      "url": "https://www.deutschlandfunk.de/un-women-geschlechter-gleichstellung-in-allen-lebensbereichen-koennte-noch-171-jahren-dauern-100.html",
-      "publishedAt": "2026-09-18T05:07:45.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "AfD-Erfolg: Warum es nicht gut ist, rein taktisch zu wählen – Meinung",
+      "excerpt": "Liberale sollen sich in Mecklenburg-Vorpommern dazu durchringen, links zu wählen? Linke sollen den Grünen ihre Stimme geben? Hauptsache, die AfD gewinnt nicht? Das kann keine Lösung sein.",
+      "url": "https://www.spiegel.de/politik/deutschland/afd-erfolg-weshalb-taktisches-waehlen-keine-loesung-ist-meinung-a-191a2070-62d5-4b93-b3f2-ed7ae03e186f#ref=rss",
+      "publishedAt": "2026-09-18T07:36:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "+++ Nachrichten im Irankrieg +++: Revolutionsgarden greifen Öltanker an",
+      "excerpt": "In der Straße von Hormus setzt Iran erneut einen Tanker fest. Trump kündigt „große Entscheidung“ an. US-Großbank ‌JP Morgan gibt Ölmarktprognose auf. mehr...",
+      "url": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6214227/",
+      "publishedAt": "2026-09-18T07:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
+      "excerpt": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monate noch einstellen? Von Till Bücker.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
+      "publishedAt": "2026-09-18T07:20:19.000Z",
+      "category": "WIRTSCHAFT & PREISE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kampf für die Umwelt in Kambodscha: „Das sind schwere Zeiten für uns“",
+      "excerpt": "Die international ausgezeichnete Umweltorganisation Mother Nature kämpft trotz ihrer Kriminalisierung weiter, berichtet Sprecherin Lisa Mean. mehr...",
+      "url": "https://taz.de/Kampf-fuer-die-Umwelt-in-Kambodscha/!6213169/",
+      "publishedAt": "2026-09-18T06:59:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Geplanter Deal mit Saudi-Arabien: USA wollen Saudis F-35-Kampfjets verkaufen",
+      "excerpt": "Tarnkappenjets gelten als die modernsten Kampfflugzeuge der Welt. Im Nahen Osten waren sie bislang dem US-Verbündeten Israel vorbehalten. mehr...",
+      "url": "https://taz.de/Geplanter-Deal-mit-Saudi-Arabien/!6214224/",
+      "publishedAt": "2026-09-18T06:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Spritpreise: Hoppermann schlägt bis zu 25 Cent Entlastung pro Liter vor",
+      "excerpt": "Wie können Autofahrer und Spediteure angesichts der hohen Spritpreise entlastet werden? Viele Vorschläge liegen auf dem Tisch, nun hat CDU-Generalsekretärin Hoppermann erstmals konkrete Eckdaten ins Spiel gebracht.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html",
+      "publishedAt": "2026-09-18T06:31:11.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Studie: In der EU sinkt die Impfquote bei Kindern",
+      "excerpt": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Auslöser war demnach vor allem die Corona-Pandemie.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
+      "publishedAt": "2026-09-18T06:27:57.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Queere Climate Fiction von Pol Guasch: Der Körper, der verfällt, während andere über ihn sprechen",
+      "excerpt": "„Auf den Händen brennt das Paradies“ ist eine sprachgewaltige Dystopie über die Klimakatastrophe und eine Aids-Pandemie. Pol Guaschs Roman fasziniert und überfordert. mehr...",
+      "url": "https://taz.de/Queere-Climate-Fiction-von-Pol-Guasch/!6213674/",
+      "publishedAt": "2026-09-18T05:54:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neuanfang in Armenien: Die Heimat, die es nicht mehr gibt",
+      "excerpt": "Drei Jahre nach der Eroberung Bergkarabachs durch Aserbaidschan leben Zehntausende Karabach-Armenier in Armenien. Viele träumen von einer Rückkehr. mehr...",
+      "url": "https://taz.de/Neuanfang-in-Armenien/!6213784/",
+      "publishedAt": "2026-09-18T05:53:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sachsen-Anhalt nach der Wahl: Kultur nur mit Bekenntnis?",
+      "excerpt": "Die AfD plant neue Bedingungen für die Kulturförderung in Sachsen-Anhalt. WUK Theater, Radio Corax und Bachfesttage blicken in dieser Podcastfolge auf die AfD-Pläne. mehr...",
+      "url": "https://taz.de/Sachsen-Anhalt-nach-der-Wahl/!6214221/",
+      "publishedAt": "2026-09-18T05:52:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Neue Besen kloppen gut",
+      "excerpt": "Zum Glück hat Deutschland einen neuen Bundestrainer. Der alte muss ja schlimm gewesen sein. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6213348/",
+      "publishedAt": "2026-09-18T05:49:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Boris Pistorius in Texas: Bundeswehr bekommt ersten F-35-Tarnkappenflieger",
+      "excerpt": "Er ist superschnell, super unsichtbar – und super teuer: 19 Länder haben den F-35-Tarnkappenjet in den USA bestellt. Verteidigungsminister Pistorius nimmt heute den ersten Flieger für die Bundeswehr in Empfang.",
+      "url": "https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss",
+      "publishedAt": "2026-09-18T05:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Malerei von Chunqing Huang in Bonn: Wie der Nachhall auf einen Künstlerkollegen",
+      "excerpt": "Das Bonner August-Macke-Haus stellt Chunqing Huang aus. Mit ihrer Malerei und Fotografie spielt sie nicht nur den Expressionismus Mackes über Bande. mehr...",
+      "url": "https://taz.de/Malerei-von-Chunqing-Huang-in-Bonn/!6213816/",
+      "publishedAt": "2026-09-18T05:25:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sport und Regime und Russland: Ihr müsst das nicht tun",
+      "excerpt": "Eishockey-Star Alexander Owetschkin macht Wahlwerbung für den Kriegsverbrecher Putin. Serbiens Volleyballerinnen zeigen, wie es mutig und anders geht. mehr...",
+      "url": "https://taz.de/Sport-und-Regime-und-Russland/!6213908/",
+      "publishedAt": "2026-09-18T05:20:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -315,8 +483,8 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "News: Alt-Nazis beim frühen SPIEGEL, Scheinwahl in Russland, KI-Forscher warnt vor Drittem Weltkrieg",
-      "excerpt": "Beim SPIEGEL gab es früher mehr Alt-Nazis als bisher bekannt. In Russland beginnt eine Wahl, die keine ist. Und ein führender KI-Forscher warnt vor dem Dritten Weltkrieg. Das ist die Lage am Freitagmorgen.",
+      "title": "News: NSDAP-Archiv - Was taten eigentlich SPIEGEL-Redakteure unter Hitler?",
+      "excerpt": "Beim SPIEGEL gab es früher mehr Altnazis als bisher bekannt. In Russland beginnt eine Wahl, die keine ist. Und ein führender KI-Forscher warnt vor dem Dritten Weltkrieg. Das ist die Lage am Freitagmorgen.",
       "url": "https://www.spiegel.de/politik/deutschland/news-alt-nazis-beim-fruehen-spiegel-scheinwahl-in-russland-ki-forscher-warnt-vor-drittem-weltkrieg-a-afca1dc1-88e4-4350-9244-88aa2240998a#ref=rss",
       "publishedAt": "2026-09-18T03:33:00.000Z",
       "category": "POLITIK"
@@ -331,7 +499,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Franziska Hoppermann (CDU): Spritpreis-Entlastung könnte 21 bis 25 Cent je Liter betragen",
+      "title": "Spritpreise: Entlastung könnte 21 bis 25 Cent je Liter betragen",
       "excerpt": "Mehrwertsteuersenkung, Preisdeckel oder Übergewinnsteuer? Noch ist unklar, wie die Bundesregierung Bürgerinnen und Bürger bei den Benzinpreisen entlasten wird. Die CDU-Generalsekretärin nennt jedoch bereits konkrete Zahl",
       "url": "https://www.spiegel.de/politik/franziska-hoppermann-cdu-spritpreis-entlastung-koennte-21-bis-25-cent-je-liter-betragen-a-9ce288c7-9c12-4f79-969c-6cb946b06d58#ref=rss",
       "publishedAt": "2026-09-18T01:34:00.000Z",
@@ -347,7 +515,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "SPD überholt laut Umfrage AfD in Mecklenburg-Vorpommern, Linke in Berlin vorn",
+      "title": "Mecklenburg-Vorpommern: SPD überholt laut Umfrage AfD, Linke in Berlin vorn",
       "excerpt": "Lange lag die SPD in Mecklenburg-Vorpommern weit hinter der rechtsextremen AfD. Nun könnte sie laut einer aktuellen Umfrage doch noch stärkste Kraft werden. Der Union droht hingegen ein historisches Debakel.",
       "url": "https://www.spiegel.de/politik/deutschland/spd-ueberholt-laut-umfrage-afd-in-mecklenburg-vorpommern-linke-in-berlin-vorn-a-e4656c6f-5d7a-4728-839d-5b035822056f#ref=rss",
       "publishedAt": "2026-09-17T20:56:00.000Z",
@@ -355,7 +523,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Michel Friedman: Moderator und Ex-CDU-Mitglied wirbt im Wahlkampf für die Grünen in MV",
+      "title": "Mecklenburg-Vorpommern: Michel Friedman wirbt jetzt für die Grünen",
       "excerpt": "Michel Friedmann war mal CDU-Mitglied, jetzt will er, dass die Grünen es wieder in den Landtag von Mecklenburg-Vorpommern schaffen. In Rostock trat er für die Partei auf.",
       "url": "https://www.spiegel.de/politik/deutschland/michel-friedman-moderator-und-ex-cdu-mitglied-wirbt-im-wahlkampf-fuer-die-gruenen-in-mv-a-075dcb67-b439-4ee1-803d-0be38aaa4b07#ref=rss",
       "publishedAt": "2026-09-17T20:31:00.000Z",
@@ -363,7 +531,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Friedrich Merz ruft zum Kampf gegen Antisemitismus auf",
+      "title": "CDU: Friedrich Merz ruft in Berlin zum Kampf gegen Antisemitismus auf",
       "excerpt": "Eine Ansage gegen Judenfeindlichkeit, ein spitzer Kommentar zu Trumps USA und eine Warnung vor nachlassender Hilfe für die Ukraine: Kanzler Merz hat einen Auftritt in Berlin für einen Rundumschlag genutzt.",
       "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ruft-zum-kampf-gegen-antisemitismus-auf-a-cf72344c-58a6-4df4-8914-b63c66170792#ref=rss",
       "publishedAt": "2026-09-17T19:08:00.000Z",
@@ -395,38 +563,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Trinkwassermangel: Leere Gläser ohne Gletscher",
-      "excerpt": "Die Weltorganisation für Meteorologie warnt vor massivem Süßwassermangel. Ein Bericht zeigt, dass die Gletschermassen das vierte Jahr in Folge schrumpfen. mehr...",
-      "url": "https://taz.de/Trinkwassermangel/!6213912/",
-      "publishedAt": "2026-09-17T18:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Windsurfen für Geflüchtete auf Rügen: Weitersurfen, wenn der Wind sich dreht",
-      "excerpt": "Der Verein „tow“ bietet kostenlose Surfkurse für Geflüchtete in Mecklenburg-Vorpommern an. Warum man hier keine Angst vor der AfD hat. mehr...",
-      "url": "https://taz.de/Windsurfen-fuer-Gefluechtete-auf-Ruegen/!6212107/",
-      "publishedAt": "2026-09-17T17:57:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Bundestrainer Klopp stolz auf Vielfalt: Ein überzeugender Botschafter",
-      "excerpt": "Jürgen Klopp macht sich in Abgrenzung zur AfD für einen Patriotismus der Vielfalt stark. Ein starkes Zeichen anlässlich der ersten Nominierung. mehr...",
-      "url": "https://taz.de/Bundestrainer-Klopp-stolz-auf-Vielfalt/!6214056/",
-      "publishedAt": "2026-09-17T17:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Rechtsextreme Vertreibungspläne: Sachsen-Anhalt als „Remigrationsmusterland“?",
-      "excerpt": "Nach der Wahl in Sachsen-Anhalt legt der Rechtsextreme Martin Sellner der AfD einen Abschiebeplan vor. Auch die Partei hat schon konkrete Ideen. mehr...",
-      "url": "https://taz.de/Rechtsextreme-Vertreibungsplaene/!6214111/",
-      "publishedAt": "2026-09-17T17:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Kanadas Premier im Europaparlament: Endlich ein begeisterter EU-Fan",
       "excerpt": "Mark Carney beschwört in Straßburg eine tiefe Partnerschaft Kanadas mit der EU. Das trifft sowohl in Europa als auch den USA einen Nerv. mehr...",
       "url": "https://taz.de/Kanadas-Premier-im-Europaparlament/!6208264/",
@@ -442,43 +578,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Opposition in Schweden: Pingpong um Mandate sorgt für Nervenkitzel",
-      "excerpt": "Vier Tage nach der Wahl in Schweden steht der knappe Wahlsieg der Opposition um die Sozialdemokraten fest. Die Regierungsbildung wird schwierig. mehr...",
-      "url": "https://taz.de/Opposition-in-Schweden/!6213916/",
-      "publishedAt": "2026-09-17T17:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Opposition in Russland: Fernsehkoch Pawel Sjutkin muss sechs Jahre in Haft",
-      "excerpt": "Sein Hitler-Vergleich hat Russlands Präsident Putin nicht gefallen. Jetzt muss Fernsehkoch Pawel Sjutkin ins Gefängnis. Er nennt es eine „kreative Dienstreise“. mehr...",
-      "url": "https://taz.de/Russland/!6213945/",
-      "publishedAt": "2026-09-17T17:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Menschheit ohne Wasser: Wir verdursten und vertrocknen",
-      "excerpt": "Das Ozonloch schloss sich, weil es ein FCKW-Verbot gab. Jetzt wird das Wasser knapp, aber die Menschheit lernt offenbar nicht dazu. mehr...",
-      "url": "https://taz.de/Menschheit-ohne-Wasser/!6213933/",
-      "publishedAt": "2026-09-17T17:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Friedrich Merz: Was die Wahlen in Mecklenburg-Vorpommern und Berlin für den Kanzler bedeuten",
       "excerpt": "Kurz vor den Wahlen in Mecklenburg-Vorpommern und Berlin scheint der Druck auf Friedrich Merz nur zeitweise abzuebben. Wie steht es wirklich um seine Position? Eine Einordnung.",
       "url": "https://www.spiegel.de/politik/friedrich-merz-in-der-krise-was-die-landtagswahlen-in-mecklenburg-vorpommern-und-berlin-fuer-den-bundeskanzler-bedeuten-a-83c11407-de43-456c-b056-cc97d21d0528#ref=rss",
       "publishedAt": "2026-09-17T17:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Marie Kreutzer über „Gentle Monster“: „Das ist noch hundert Jahre nicht auserzählt“",
-      "excerpt": "Eine Ehefrau, deren Mann wegen Pädophilie verhaftet wird, und eine Polizistin mit übergriffigem Vater: Marie Kreutzer über Macht und Wegsehen in ihrem Film „Gentle Monster“. mehr...",
-      "url": "https://taz.de/Marie-Kreutzer-ueber-Gentle-Monster/!6213256/",
-      "publishedAt": "2026-09-17T17:36:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -488,46 +592,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
       "publishedAt": "2026-09-17T17:19:34.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Konferenz zu Drogen und Gewalt: Wenn sogar Drogenbossen Krieg zu teuer ist",
-      "excerpt": "An einer Mailänder Uni wird über internationalen Drogenhandel diskutiert. Dann wird bekannt, dass eine Anti-Mafia-Zeugin sich das Leben genommen hat. mehr...",
-      "url": "https://taz.de/Konferenz-zu-Drogen-und-Gewalt/!6213504/",
-      "publishedAt": "2026-09-17T16:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Antisemitischer Anschlag: Brandanschlag auf Synagoge in Wuppertal",
-      "excerpt": "In Wuppertal hat es einen Brandanschlag auf die dortige Synagoge gegeben. Der Präsident des Zentralrats der Juden in Deutschland ist besorgt. mehr...",
-      "url": "https://taz.de/Antisemitischer-Anschlag/!6214218/",
-      "publishedAt": "2026-09-17T16:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach der Landtagswahl in Sachsen-Anhalt: Erste Absprachen zwischen BSW und AfD",
-      "excerpt": "Öffentlich ziehen Rechtsextreme und Wagenknechtianer übereinander her. Vor der ersten Landtagssitzung gibt es Anzeichen, dass sie zusammenarbeiten. mehr...",
-      "url": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6213999/",
-      "publishedAt": "2026-09-17T16:04:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Hohe Spritpreise: Finger weg von der Mehrwertsteuer",
-      "excerpt": "Es gibt einfache Arten, Menschen zu entlasten. So könnte die Einkommensteuer für Geringverdiener gesenkt und Armen ein Fixbetrag gezahlt werden. mehr...",
-      "url": "https://taz.de/Hohe-Spritpreise/!6213930/",
-      "publishedAt": "2026-09-17T16:03:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "„Naza“ sorgt für Aufruhr: Morddrohungen und rechte Hetze",
-      "excerpt": "Der Dokumentarfilm „Naza“ sorgt für Aufregung in Israel. Vor dem Elternhaus einer der Re­gis­seu­r:in­nen versammeln sich rechtsradikale Aktivisten. mehr...",
-      "url": "https://taz.de/Naza-sorgt-fuer-Aufruhr/!6213987/",
-      "publishedAt": "2026-09-17T15:59:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -594,14 +658,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Corona-Maskenaffäre: Warum Jens Spahn die Verantwortung trägt – egal wie das Urteil ausfällt",
-      "excerpt": "Der Staat kommt in den milliardenschweren Maskenprozessen wohl glimpflich davon. Ein Debakel bleiben die Deals trotzdem – für den Haushalt und für den Ex-Gesundheitsminister.",
-      "url": "https://www.spiegel.de/politik/corona-maskenaffaere-warum-jens-spahn-die-verantwortung-traegt-egal-wie-das-urteil-ausfaellt-a-8e099e0e-40cc-4b98-84c5-79cf2be9f231#ref=rss",
-      "publishedAt": "2026-09-17T13:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Unbezahlte Überstunden? Bundesverwaltungsgericht urteilt zu Lehrer-Arbeitszeiten",
       "excerpt": "Cuber, Anne www.deutschlandfunk.de, Campus & Karriere",
@@ -624,14 +680,6 @@
       "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-landesschuelerrat-fordert-strukturreformen-100.html",
       "publishedAt": "2026-09-17T12:39:51.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "AfD: Gesichert rechtsextrem? »Das ist den Leuten gesichert scheißegal« – Podcast",
-      "excerpt": "Warum wählen so viele Ostdeutsche die AfD? Hier diskutieren Sänger Jan »Monchi« Gorkow, Autor Olaf Sundermeyer und Melanie Stein von »Wir sind der Osten« über Verfassungsschutzberichte, politische Fehler und westdeutsche",
-      "url": "https://www.spiegel.de/politik/afd-gesichert-rechtsextrem-das-ist-den-leuten-gesichert-scheissegal-spiegel-talk-a-b69c165f-9cd4-4344-8569-a416345d2bae#ref=rss",
-      "publishedAt": "2026-09-17T12:37:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
@@ -658,28 +706,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Bayern: Justizminister Georg Eisenreich tritt zurück und verlässt Politik",
-      "excerpt": "Überraschender Wechsel in Söders Kabinett: Justizminister Eisenreich geht – und will die Politik schrittweise ganz hinter sich lassen. Eine Nachfolge ist bislang ungeklärt.",
-      "url": "https://www.spiegel.de/politik/bayern-justizminister-georg-eisenreich-tritt-zurueck-und-verlaesst-politik-a-1623ac2b-2077-4290-bad8-77eb1ba7895a#ref=rss",
-      "publishedAt": "2026-09-17T09:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Klimawandel war ein Hauptgrund für Felssturz im Himalaya",
       "excerpt": "Ein neuer Bericht über die Ursachen der Sturzflut im Himalaya zeigt: Der Klimawandel hatte einen weit größeren Anteil an der Katastrophe als zunächst vermutet. Ein dabei entdecktes, kaum bekanntes Phänomen könnte auch in",
       "url": "https://www.tagesschau.de/wissen/klima/sturzflut-himalaya-klimawandel-100.html",
       "publishedAt": "2026-09-17T09:29:24.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Die Linke: Elif Eralps Traum vom Roten Rathaus - und was für sie noch alles schiefgehen kann",
-      "excerpt": "Die Linke hat Chancen auf den Wahlsieg in Berlin. Der Weg ins Amt der Regierenden Bürgermeisterin könnte für Spitzenkandidatin Elif Eralp aber dennoch höchst kompliziert werden. Dafür gibt es vor allem einen Grund.",
-      "url": "https://www.spiegel.de/politik/deutschland/die-linke-elif-eralps-traum-vom-roten-rathaus-und-was-fuer-sie-noch-alles-schiefgehen-kann-a-d8c61796-fcef-40e4-8399-486bc9bc75c3#ref=rss",
-      "publishedAt": "2026-09-17T09:13:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -978,14 +1010,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
-      "excerpt": "Wohin steuert Mecklenburg-Vorpommern? Mit Blick auf die Umfragewerte ist der Nordosten politisch entzweit. Über Themen und Stimmungen, die diesen Wahlkampf prägen. Von Christoph Cyrulies.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html",
-      "publishedAt": "2026-09-15T05:53:49.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Busline Frankfurt/Oder - Slubice: Mögliches Aus erschwert Studium",
       "excerpt": "Richter, Christoph D. www.deutschlandfunk.de, Campus & Karriere",
@@ -1251,22 +1275,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Apfel-Produzenten unter Druck",
-      "excerpt": "Die Apfel-Ernte fällt wegen Frost und Hitze, aber auch aus natürlichen Gründen geringer aus. Obwohl die Preise steigen, haben Obstbauern wenig davon. Sie leiden unter hohen Kosten und scharfer Konkurrenz. Von Klaus-Raine",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html",
-      "publishedAt": "2026-08-31T14:43:46.000Z",
-      "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
-      "excerpt": "Seit Langem beklagen Wirtschaftsverbände den im internationalen Vergleich hohen Strompreis in Deutschland. Eine Analyse des Portals Verivox hat nun ergeben: Unter den G20-Ländern ist Strom hierzulande am teuersten.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-strompreise-vergleich-100.html",
-      "publishedAt": "2026-08-30T13:29:59.000Z",
-      "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Hype um Koffein-Shampoos - ist der Trend berechtigt?",
       "excerpt": "Mehr Haarwachstum und weniger Haarausfall - das versprechen Koffein-Shampoos. Doch was ist dran an den Versprechen? Experten stehen dem Trend skeptisch gegenüber und erklären, warum. Von Matthias Bartsch.",
       "url": "https://www.tagesschau.de/wissen/gesundheit/shampoo-koffein-100.html",
@@ -1431,14 +1439,6 @@
       "excerpt": "Etwa jede achte Frau ist davon betroffen, trotzdem ist sie bislang kaum bekannt: die Hormonstörung PMOS - ehemals PCOS. Der neue Name und eine Leitlinie für Patientinnen sollen jetzt eine bessere Versorgung ermöglichen. ",
       "url": "https://www.tagesschau.de/wissen/gesundheit/hormonstoerung-pmos-100.html",
       "publishedAt": "2026-07-24T08:34:08.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wegovy-Tablette: Was die neue Abnehmpille kann",
-      "excerpt": "Ein Medikament zum Abnehmen gibt es jetzt auch als Tablette. Für Menschen mit Spritzenangst kann das eine Erleichterung sein. Doch die neue Pille ist kein harmloser Lifestyle-Hack. Von Doris Tromballa.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/adipositas-pille-wegovy-zulassung-100.html",
-      "publishedAt": "2026-07-17T04:12:34.000Z",
       "category": "GESUNDHEIT & PSYCHE"
     }
   ]
