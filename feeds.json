@@ -1,124 +1,36 @@
 {
-  "updatedAt": "2026-09-19T14:48:44.893Z",
+  "updatedAt": "2026-09-19T18:01:16.226Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Video-Kommentar zum Linken-Wahlprogramm in Berlin - „Ein Sicherheits-Experiment für 4 Millionen Bürger“",
-      "excerpt": "Die Berliner Linke verspricht Entlastung, setzt auf neue Schulden und will zugleich zusätzliche Polizeieinheiten an Brennpunkten abb...",
-      "url": "https://www.bild.de/politik/inland/video-kommentar-zum-linken-wahlprogramm-in-berlin-ein-sicherheits-experiment-fuer-4-millionen-buerger-6aae62aeb1857e86757a717a",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
+      "title": "Verdächtige Truppenbewegungen - Was treibt Putin an der Nato-Grenze?",
+      "excerpt": "Russland und NATO rüsten im Ostseeraum auf, Experten warnen vor größerem Konflikt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/verdaechtige-truppenbewegungen-was-treibt-putin-an-der-nato-grenze-6aaea638556d2f0b574e91ce",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Mecklenburg-Vorpommern - Wut-Abiturientin wehrt sich gegen AfD-Wahlkampf",
-      "excerpt": "Abiturientin distanziert sich klar von AfD-Wahlkampf mit ihrer Abi-Rede.",
-      "url": "https://www.bild.de/politik/inland/mecklenburg-vorpommern-wut-abiturientin-wehrt-sich-gegen-wahlkampf-der-afd-6aae35e4708e760b5e063d94",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
+      "title": "Trauerwache in Frankfurt - „Herausschreien, dass was im System verkehrt läuft“",
+      "excerpt": "Beim Trauermarsch in Frankfurt berichten Familien, wie der gewaltsame Tod ihrer Liebsten ihr Leben verändert hat.",
+      "url": "https://www.bild.de/news/inland/trauerwache-in-frankfurt-wir-wollen-herausschreien-dass-was-in-unserem-system-verkehrt-laeuft-6aaeb898c8e0b1ae1ffedca1",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Aus 583 Kilometern im All - Berliner Satelliten schützen Pipelines und Bahntrassen",
-      "excerpt": "Ein Berliner Startup baut Satelliten, die Infrastruktur per 3D-Bilder schützen.",
-      "url": "https://www.bild.de/politik/inland/aus-583-kilometern-im-all-berliner-satelliten-schuetzen-pipelines-und-bahntrassen-6aa95de0176f7c20b935df5d",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
+      "title": "Bundeswehr-Generalinspekteur Carsten Breuer - Deutscher Top-General wird Militärchef der Nato",
+      "excerpt": "Carsten Breuer wird oberster Nato-Stratege mitten in einer sicherheitspolitischen Krise.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bundeswehr-generalinspekteur-carsten-breuer-deutscher-top-general-wird-militaerchef-der-nato-6aaea8a5708e760b5e064451",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Steuersenkung ab 1. Oktober! - So viel sparen SIE künftig beim Sprit",
-      "excerpt": "Neuer Tankrabatt senkt Spritkosten, bringt Autofahrern eine Ersparnis jeden Monat.",
-      "url": "https://www.bild.de/politik/inland/steuersenkung-ab-1-oktober-das-haben-sie-vom-tankrabatt-6aad5526b1857e86757a662b",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Warum Ulf Poschardt Fan dieser drei Frauen ist - „Die sind weniger heulsusig!“",
-      "excerpt": "Ulf Poschardt fordert mehr Selbstbewusstsein und weniger Selbstmitleid bei Frauen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/warum-ulf-poschardt-fan-dieser-drei-frauen-ist-die-sind-weniger-heulsusig-6aad20fd4453e0520be19bc0",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gefährlicher Plan für Mieter - Die Enteignungslüge der Linken",
-      "excerpt": "Experten warnen: Enteignungen schaffen keine Wohnungen und könnten Mieten erhöhen.",
-      "url": "https://www.bild.de/politik/inland/berlin-wahl-die-enteignungsluege-der-linken-6aaa419c91d8cffaad47b00b",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Sprit-Entlastung kommt - Deutschland streitet über 17 Cent",
-      "excerpt": "Neuer Tankrabatt spaltet Experten: Lob für Entlastung, scharfe Kritik an Kosten",
-      "url": "https://www.bild.de/politik/inland/17-cent-tankrabatt-lob-von-bauern-und-spediteuren-kritik-von-oekonomen-6aad93cbb1857e86757a69ad",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Erschütternder UN-Bericht - Sexuelle Gewalt als brutale Waffe im Ukrainekrieg",
-      "excerpt": "UN deckt systematische sexuelle Folter in der Ukraine auf, meist durch Russland.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/neuer-bericht-der-un-sexuelle-gewalt-als-brutale-waffe-im-ukrainekrieg-6aae24be708e760b5e063caf",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Angst vor Fronteinsatz - Putins Beamte warnen Verwandte vor Einberufung",
-      "excerpt": "Kreml-Leute drängen Verwandte zur Flucht, weil sie neue Einzüge fürchten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-putins-beamte-warnen-angehoerige-vor-neuer-mobilmachung-6aad269d708e760b5e063106",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Fehlalarm im US-Militär - Falsche KI-Analyse hätte fast Krieg ausgelöst",
-      "excerpt": "Fehlerhafte KI-Analyse macht deutlich, wie riskant automatisierte Kriegsführung ist.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/fehlalarm-im-amerikanischen-militaer-falsche-analyse-mit-ki-haette-fast-krieg-ausgeloest-6aae18a1b1857e86757a6d3b",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Angebliche „Fake News“ - Trump verbannt CNN und „Politico“ aus dem Weißen Haus",
-      "excerpt": "Trump wirft CNN und Politico „Fake News“ vor und sperrt sie aus dem Weißen Haus aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-verbannt-cnn-und-politico-aus-dem-weissen-haus-fake-news-medien-6aad90a5708e760b5e063936",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nazi-Material bei Mitarbeiter der Kandidatin - Razzia-Schock bei der Berliner AfD",
-      "excerpt": "Die Berliner Ermittler suchten illegale Waffen, fanden Drogen und Nazi-Devotionalien.",
-      "url": "https://www.bild.de/politik/inland/razzia-bei-mitarbeiter-der-berliner-afd-spitzenfrau-sie-fanden-drogen-und-nazi-zeug-statt-waffen-6aad7aab4453e0520be1a303",
-      "publishedAt": "2026-09-19T14:48:44.792Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Kolumnistin Julia Ruhs - „Mit falscher Art von Migration viele Opfer produziert“",
-      "excerpt": "Frankfurt: Von 14 bis 19 Uhr findet auf dem Römerberg die „Trauerwache Deutschland“ statt. Die Gedenkkundgebung erinnert an Menschen...",
-      "url": "https://www.bild.de/politik/inland/bild-kolumnistin-julia-ruhs-bei-gedenken-an-gewaltopfer-das-kann-ich-nicht-mehr-hoeren-6aae76cec8e0b1ae1ffed8bd",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Chef der Polizeigewerkschaft bei Trauerrede - Der Ursprung ist die politische Korrektheit",
-      "excerpt": "Menschen verändern aus Angst vor Übergriffen ihren Alltag in Frankfurt.",
-      "url": "https://www.bild.de/news/inland/manuel-ostermann-spricht-von-freiheitsverlust-deshalb-meidet-die-krankenschwester-oeffentliche-verkehrsmittel-6aae93fb708e760b5e064314",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Erster US-Sender bestätigt - Trump lässt Journalisten wirklich nicht rein!",
-      "excerpt": "Trump verbannt mehrere US-Medien aus dem Weißen Haus und spricht von „Fake News“.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/erster-us-sender-bestaetigt-trump-laesst-journalisten-wirklich-nicht-rein-6aae814ad43840926585a9be",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
+      "title": "„Keine Option, nur Versprechungen“ - Das sagt Merkels letzter Fischer über die AfD",
+      "excerpt": "BILD-Besuch bei einem Enttäuschten, der am Sonntag nicht mehr CDU wählen will.",
+      "url": "https://www.bild.de/politik/inland/merkels-letzter-fischer-von-weltberuehmtem-wendefoto-bricht-mit-der-cdu-6aacf12d7a2a14cb01becfce",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +38,39 @@
       "title": "Last-Minute-Wahlcheck - Welche Partei will, was ich will?",
       "excerpt": "Am Sonntag stehen die Landtagswahlen in Mecklenburg-Vorpommern und Berlin an.",
       "url": "https://www.bild.de/politik/inland/last-minute-wahlcheck-fuer-berlin-und-meck-pomm-welche-partei-will-was-ich-will-6aaaa09c91d8cffaad47b96d",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Medien bestätigen - Trump lässt Journalisten wirklich nicht rein!",
+      "excerpt": "Trump verbannt mehrere US-Medien aus dem Weißen Haus und spricht von „Fake News“.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/erster-us-sender-bestaetigt-trump-laesst-journalisten-wirklich-nicht-rein-6aae814ad43840926585a9be",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aus 583 Kilometern im All - Berliner Satelliten schützen Pipelines und Bahntrassen",
+      "excerpt": "Ein Berliner Startup baut Satelliten, die Infrastruktur per 3D-Bilder schützen.",
+      "url": "https://www.bild.de/politik/inland/aus-583-kilometern-im-all-berliner-satelliten-schuetzen-pipelines-und-bahntrassen-6aa95de0176f7c20b935df5d",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Kolumnistin Julia Ruhs - „Mit falscher Art von Migration viele Opfer produziert“",
+      "excerpt": "Frankfurt: Von 14 bis 19 Uhr findet auf dem Römerberg die „Trauerwache Deutschland“ statt. Die Gedenkkundgebung erinnert an Menschen...",
+      "url": "https://www.bild.de/politik/inland/bild-kolumnistin-julia-ruhs-bei-gedenken-an-gewaltopfer-das-kann-ich-nicht-mehr-hoeren-6aae76cec8e0b1ae1ffed8bd",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Chef der Polizeigewerkschaft bei Trauerrede - Der Ursprung ist die politische Korrektheit",
+      "excerpt": "Menschen verändern aus Angst vor Übergriffen ihren Alltag in Frankfurt.",
+      "url": "https://www.bild.de/news/inland/manuel-ostermann-spricht-von-freiheitsverlust-deshalb-meidet-die-krankenschwester-oeffentliche-verkehrsmittel-6aae93fb708e760b5e064314",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +78,7 @@
       "title": "Steckt China dahinter? - Ersatzteile von Kampfjet verschwunden",
       "excerpt": "Umgeleitete F-35-Teile in Hongkong werfen brisante Fragen zu Chinas Zugriff auf.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kongress-in-amerika-alarmiert-geheimtechnologie-des-f-35-in-china-gelandet-6aae49b5994241d0bd960d49",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
@@ -142,15 +86,87 @@
       "title": "Exklusive INSA-Umfrage - Deutsche für Kanada als EU-Sondermitglied",
       "excerpt": "Kanada in die EU? Für eine Mehrheit der Deutschen klingt das nach einer guten Idee!",
       "url": "https://www.bild.de/politik/ausland-und-internationales/exklusive-umfrage-deutsche-fuer-kanada-als-eu-sondermitglied-6aad42b6b1857e86757a647a",
-      "publishedAt": "2026-09-19T14:48:44.791Z",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
       "category": "POLITIK"
     },
     {
+      "source": "BILD.DE",
+      "title": "Video-Kommentar zum Linken-Wahlprogramm in Berlin - „Ein Sicherheits-Experiment für 4 Millionen Bürger“",
+      "excerpt": "Die Berliner Linke verspricht Entlastung, setzt auf neue Schulden und will zugleich zusätzliche Polizeieinheiten an Brennpunkten abb...",
+      "url": "https://www.bild.de/politik/inland/video-kommentar-zum-linken-wahlprogramm-in-berlin-ein-sicherheits-experiment-fuer-4-millionen-buerger-6aae62aeb1857e86757a717a",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mecklenburg-Vorpommern - Wut-Abiturientin wehrt sich gegen AfD-Wahlkampf",
+      "excerpt": "Abiturientin distanziert sich klar von AfD-Wahlkampf mit ihrer Abi-Rede.",
+      "url": "https://www.bild.de/politik/inland/mecklenburg-vorpommern-wut-abiturientin-wehrt-sich-gegen-wahlkampf-der-afd-6aae35e4708e760b5e063d94",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Steuersenkung ab 1. Oktober! - So viel sparen SIE künftig beim Sprit",
+      "excerpt": "Neuer Tankrabatt senkt Spritkosten, bringt Autofahrern eine Ersparnis jeden Monat.",
+      "url": "https://www.bild.de/politik/inland/steuersenkung-ab-1-oktober-das-haben-sie-vom-tankrabatt-6aad5526b1857e86757a662b",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Warum Ulf Poschardt Fan dieser drei Frauen ist - „Die sind weniger heulsusig!“",
+      "excerpt": "Ulf Poschardt fordert mehr Selbstbewusstsein und weniger Selbstmitleid bei Frauen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/warum-ulf-poschardt-fan-dieser-drei-frauen-ist-die-sind-weniger-heulsusig-6aad20fd4453e0520be19bc0",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gefährlicher Plan für Mieter - Die Enteignungslüge der Linken",
+      "excerpt": "Experten warnen: Enteignungen schaffen keine Wohnungen und könnten Mieten erhöhen.",
+      "url": "https://www.bild.de/politik/inland/berlin-wahl-die-enteignungsluege-der-linken-6aaa419c91d8cffaad47b00b",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sprit-Entlastung kommt - Deutschland streitet über 17 Cent",
+      "excerpt": "Neuer Tankrabatt spaltet Experten: Lob für Entlastung, scharfe Kritik an Kosten",
+      "url": "https://www.bild.de/politik/inland/17-cent-tankrabatt-lob-von-bauern-und-spediteuren-kritik-von-oekonomen-6aad93cbb1857e86757a69ad",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Erschütternder UN-Bericht - Sexuelle Gewalt als brutale Waffe im Ukrainekrieg",
+      "excerpt": "UN deckt systematische sexuelle Folter in der Ukraine auf, meist durch Russland.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/neuer-bericht-der-un-sexuelle-gewalt-als-brutale-waffe-im-ukrainekrieg-6aae24be708e760b5e063caf",
+      "publishedAt": "2026-09-19T18:01:16.221Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
+      "excerpt": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von G",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
+      "publishedAt": "2026-09-19T17:58:34.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
       "source": "DLF",
-      "title": "Nahost - Explosionen aus Saudi-Arabien gemeldet - Offenbar Feuer am internationalen Flughafen Riad",
-      "excerpt": "Aus der saudi-arabischen Hauptstadt Riad werden mehrere Explosionen gemeldet.",
-      "url": "https://www.deutschlandfunk.de/explosionen-aus-saudi-arabien-gemeldet-offenbar-feuer-am-internationalen-flughafen-riad-102.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "title": "Iran-Krieg - Iran nennt USA Bedingungen für Kriegsende",
+      "excerpt": "Der Iran hat den USA über Vermittler Bedingungen für ein Ende des Krieges genannt.",
+      "url": "https://www.deutschlandfunk.de/iran-nennt-usa-bedingungen-fuer-kriegsende-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Entlastungspaket - Opposition und Sozialverbände kritisieren Tankrabatt - Bovenschulte (SPD) bemängelt Kostenverteilung",
+      "excerpt": "Die Pläne der Bundesregierung zur Entlastung der Bürger bei den Kraftstoffpreisen stoßen bei Sozialverbänden und der Opposition auf Kritik. Gestern hatten sich Union und SPD gemeinsam mit den Ländern auf ein neues Entlas",
+      "url": "https://www.deutschlandfunk.de/opposition-und-sozialverbaende-kritisieren-tankrabatt-bovenschulte-spd-bemaengelt-kostenverteilung-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,47 +174,47 @@
       "title": "Fragen und Anworten - Tankrabatt und Preisdeckel - Was die Bundesregierung gegen die hohen Spritpreise plant",
       "excerpt": "Bund und Länder haben sich auf ein Entlastungspaket gegen die hohen Kraftstoffpreise verständigt. Geplant ist ein neuer Tankrabatt und die Einführung eines Spritpreisdeckels. Die wichtigsten Fragen und Antworten.",
       "url": "https://www.deutschlandfunk.de/tankrabatt-und-preisdeckel-was-die-bundesregierung-gegen-die-hohen-spritpreise-plant-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Wirtschaft - Handelsblatt: Abbau von 4.000 weiteren Stellen bei Porsche möglich",
-      "excerpt": "Bei dem Sportwagenbauer Porsche könnten einem Zeitungsbericht zufolge 4.000 weitere Stellen wegfallen. ‌",
-      "url": "https://www.deutschlandfunk.de/handelsblatt-abbau-von-4-000-weiteren-stellen-bei-porsche-moeglich-102.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Aktivisten: Einwohner besetzter Gebiete werden zu Teilnahme an russischer Parlamentswahl gedrängt",
-      "excerpt": "Die Einwohner in den von Russland besetzten Gebieten der Ukraine werden nach Angaben ukrainischer Aktivisten zur Teilnahme an der russischen Parlamentswahl gedrängt.",
-      "url": "https://www.deutschlandfunk.de/aktivisten-einwohner-besetzter-gebiete-werden-zu-teilnahme-an-russischer-parlamentswahl-gedraengt-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Studie - WG-Zimmer in Millionenstädten deutlich teurer - München bleibt Spitzenreiter",
-      "excerpt": "In den vier deutschen Millionenstädten sind die Mieten für Zimmer in kleineren Wohngemeinschaften deutlich teurer geworden. Das zeigt eine aktuelle Auswertung des Moses-Mendelssohn-Instituts.",
-      "url": "https://www.deutschlandfunk.de/wg-zimmer-in-millionenstaedten-deutlich-teurer-muenchen-bleibt-spitzenreiter-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - CNN: KI-Fehler hätte fast zu US-Militäreinsatz gegen chinesisches Schiff geführt",
-      "excerpt": "Ein mithilfe von Künstlicher Intelligenz erstellter, fehlerhafter US-Geheimdienstbericht hätte offenbar fast dazu geführt, dass das US-Militär ein chinesisches Schiff gestürmt hätte.",
-      "url": "https://www.deutschlandfunk.de/cnn-ki-fehler-haette-fast-zu-us-militaereinsatz-gegen-chinesisches-schiff-gefuehrt-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "title": "Verteidigung - General Breuer wird Vorsitzender des NATO-Militärausschusses",
+      "excerpt": "Deutschlands ranghöchster Soldat wird neuer Vorsitzender des NATO-Militärausschusses.",
+      "url": "https://www.deutschlandfunk.de/general-breuer-wird-vorsitzender-des-nato-militaerausschusses-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "USA - Journalisten Zugang zum Weißen Haus verweigert",
-      "excerpt": "Journalisten der US-Sender CNN und MS NOW ist der Zugang zum Weißen Haus in Washington verweigert worden.",
+      "excerpt": "Journalisten der US-Sender CNN und MS NOW sowie des Online-Portals Politico ist der Zugang zum Weißen Haus in Washington verweigert worden.",
       "url": "https://www.deutschlandfunk.de/journalisten-zugang-zum-weissen-haus-verweigert-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Explosionen aus Saudi-Arabien gemeldet - Offenbar Feuer am internationalen Flughafen Riad",
+      "excerpt": "Aus der saudi-arabischen Hauptstadt Riad werden mehrere Explosionen gemeldet.",
+      "url": "https://www.deutschlandfunk.de/explosionen-aus-saudi-arabien-gemeldet-offenbar-feuer-am-internationalen-flughafen-riad-102.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Demos - Protest gegen Schwangerschaftsabbrüche in Berlin und Köln",
+      "excerpt": "Gegner von Schwangerschaftsabbrüchen haben in Berlin demonstriert.",
+      "url": "https://www.deutschlandfunk.de/protest-gegen-schwangerschaftsabbrueche-in-berlin-und-koeln-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-Bundesliga - Erste Punkte für den HSV - Freiburg spielt nur unentschieden und verliert Tabellenführung",
+      "excerpt": "In der Fußball-Bundesliga hat der Hamburger SV gegen den 1.FC Köln mit 2:1 gewonnen und damit die ersten Punkte der Saison erkämpft. Schlusslicht Mönchengladbach verlor dagegen auch das vierte Saisonspiel, mit 3:4 gegen ",
+      "url": "https://www.deutschlandfunk.de/erste-punkte-fuer-den-hsv-freiburg-spielt-nur-unentschieden-und-verliert-tabellenfuehrung-102.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +222,15 @@
       "title": "Gesundheit - Linnemann: Krankenkassen sollen doch wieder über Anhebung von Zusatzbeitrag informieren müssen",
       "excerpt": "Gesetzliche Krankenkassen sollen ihre Mitglieder künftig wieder aktiv darauf hinweisen, wenn sie den Zusatzbeitrag erhöhen. Bundesgesundheitsminister Linnemann (CDU) sagte der \"Rheinischen Post\", es gehe um das Vertrauen",
       "url": "https://www.deutschlandfunk.de/linnemann-krankenkassen-sollen-doch-wieder-ueber-anhebung-von-zusatzbeitrag-informieren-muessen-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Handelsblatt: Abbau von 4.000 weiteren Stellen bei Porsche möglich",
+      "excerpt": "Bei dem Sportwagenbauer Porsche könnten einem Zeitungsbericht zufolge 4.000 weitere Stellen wegfallen. ‌",
+      "url": "https://www.deutschlandfunk.de/handelsblatt-abbau-von-4-000-weiteren-stellen-bei-porsche-moeglich-102.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +238,31 @@
       "title": "Nach langem Streit - Einigung mit Dänemark und Grönland: USA wollen Militärpräsenz ausweiten",
       "excerpt": "Die USA wollen ihre Militärpräsenz auf Grönland ausweiten. Wie US-Präsident Trump mitteilte, gibt es darüber eine Einigung mit Dänemark und der Arktisinsel. Seinen Angaben zufolge wird die Souveränität Grönlands nicht be",
       "url": "https://www.deutschlandfunk.de/einigung-mit-daenemark-und-groenland-usa-wollen-militaerpraesenz-ausweiten-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Aktivisten: Einwohner besetzter Gebiete werden zu Teilnahme an russischer Parlamentswahl gedrängt",
+      "excerpt": "Die Einwohner in den von Russland besetzten Gebieten der Ukraine werden nach Angaben ukrainischer Aktivisten zur Teilnahme an der russischen Parlamentswahl gedrängt.",
+      "url": "https://www.deutschlandfunk.de/aktivisten-einwohner-besetzter-gebiete-werden-zu-teilnahme-an-russischer-parlamentswahl-gedraengt-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Studie - WG-Zimmer in Millionenstädten deutlich teurer - München bleibt Spitzenreiter",
+      "excerpt": "In den vier deutschen Millionenstädten sind die Mieten für Zimmer in kleineren Wohngemeinschaften deutlich teurer geworden. Das zeigt eine aktuelle Auswertung des Moses-Mendelssohn-Instituts.",
+      "url": "https://www.deutschlandfunk.de/wg-zimmer-in-millionenstaedten-deutlich-teurer-muenchen-bleibt-spitzenreiter-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienbericht - CNN: KI-Fehler hätte fast zu US-Militäreinsatz gegen chinesisches Schiff geführt",
+      "excerpt": "Ein mithilfe von Künstlicher Intelligenz erstellter, fehlerhafter US-Geheimdienstbericht hätte offenbar fast dazu geführt, dass das US-Militär ein chinesisches Schiff gestürmt hätte.",
+      "url": "https://www.deutschlandfunk.de/cnn-ki-fehler-haette-fast-zu-us-militaereinsatz-gegen-chinesisches-schiff-gefuehrt-100.html",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +270,7 @@
       "title": "Ukraine-Krieg - USA verhängen neue Sanktionen gegen Russland - Selenskyj dankt Trump",
       "excerpt": "US-Präsident Trump hat das Gesetz über die neuen Sanktionen der Vereinigten Staaten gegen Russland unterzeichnet. Zuvor hatten bereits der Senat und das Repräsentantenhaus mit einer parteiübergreifenden Mehrheit für das ",
       "url": "https://www.deutschlandfunk.de/usa-verhaengen-neue-sanktionen-gegen-russland-selenskyj-dankt-trump-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +278,7 @@
       "title": "Folge von US-Sanktionen - Innenministerium im Iran nennt Teuerung besorgniserregend - offenbar Engpässe bei Nahrungsmitteln und Medikamenten",
       "excerpt": "Das iranische Innenministerium hat die stark steigenden Preise im Land als besorgniserregend bezeichnet.",
       "url": "https://www.deutschlandfunk.de/innenministerium-im-iran-nennt-teuerung-besorgniserregend-offenbar-engpaesse-bei-nahrungsmitteln-und-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +286,7 @@
       "title": "Wahl in Russland - Online-Wahlsystem in Moskau Ziel eines Cyberangriffs",
       "excerpt": "Das Online-Wahlsystem in der russischen Hauptstadt Moskau ist nach Behördenangaben während der laufenden Parlamentswahl Ziel eines Cyberangriffs geworden.",
       "url": "https://www.deutschlandfunk.de/online-wahlsystem-in-moskau-ziel-eines-cyberangriffs-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,48 +294,120 @@
       "title": "Künstliche Intelligenz - Auch Googles KI-Software Gemini drang bei Tests in echte Unternehmen ein",
       "excerpt": "Auch die KI-Software von Google - Gemini - hat sich bei Tests eigenständig in Unternehmen gehackt. Das machte Google nun auf Nachfrage des \"Wall Street Journal\" bekannt.",
       "url": "https://www.deutschlandfunk.de/auch-googles-ki-software-gemini-drang-bei-tests-in-echte-unternehmen-ein-108.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
+      "publishedAt": "2026-09-19T17:36:41.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Zeitumstellung - Marokko schafft die Sommerzeit ab",
-      "excerpt": "Marokko schafft die Sommerzeit wieder ab.",
-      "url": "https://www.deutschlandfunk.de/marokko-schafft-die-sommerzeit-ab-102.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "HSV holt gegen Köln ersten Sieg: Warten auf den Heilsbringer",
+      "excerpt": "Der HSV holt gegen den 1. FC Köln die ersten Bundesliga-Punkte. Die Abwehr braucht Mario Vušković, der nach Dopingsperre bald zurückkehren könnte. mehr...",
+      "url": "https://taz.de/HSV-holt-gegen-Koeln-ersten-Sieg/!6214672/",
+      "publishedAt": "2026-09-19T16:42:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Segelschulschiff - \"Gorch Fock\" nach 14.000 Seemeilen wieder in Kiel",
-      "excerpt": "Nach mehr als vier Monaten hat das Segelschulschiff \"Gorch Fock\" wieder in seinem Heimathafen Kiel fest gemacht.",
-      "url": "https://www.deutschlandfunk.de/gorch-fock-nach-14-000-seemeilen-wieder-in-kiel-102.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Buch über Träume von Schoah-Überlebenden: Das Unsagbare mitteilen",
+      "excerpt": "Die Literaturwissenschaftlerin Christiane Solte-Gresser analysiert Traumerzählungen von Schoah-Überlebenden und erkundet ihr heilendes Potenzial. mehr...",
+      "url": "https://taz.de/Buch-ueber-Traeume-von-Schoah-Ueberlebenden/!6213013/",
+      "publishedAt": "2026-09-19T16:37:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Parteitag - Bremer Bürgerschaftswahl: SPD nominiert Bürgermeister Bovenschulte als Spitzenkandidat",
-      "excerpt": "Die SPD in Bremen hat Bürgermeister Bovenschulte als Spitzenkandidat für die Bürgerschaftswahl im kommenden Jahr nominiert.",
-      "url": "https://www.deutschlandfunk.de/bremer-buergerschaftswahl-spd-nominiert-buergermeister-bovenschulte-als-spitzenkandidat-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Marsch für das Leben 2026: Christlich-Konservative stoßen auf Gegendemos",
+      "excerpt": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet. mehr...",
+      "url": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
+      "publishedAt": "2026-09-19T16:35:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "\"O'zapft is\" - Münchner Oberbürgermeister Krause eröffnet mit Fassanstich das Oktoberfest",
-      "excerpt": "Mit dem traditionellen Fassanstich hat das 191. Münchner Oktoberfest begonnen. Der neue Oberbürgermeister Krause von den Grünen zapfte mit zwei Schlägen das erste Fass Bier an.",
-      "url": "https://www.deutschlandfunk.de/muenchner-oberbuergermeister-krause-eroeffnet-mit-fassanstich-das-oktoberfest-102.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Breite Bündnisse gegen die AfD?: „Es braucht einen sozialen Antifaschismus“",
+      "excerpt": "Grüne und SPD haben ihren Neoliberalismus nicht aufgearbeitet. Das steht einer echten Kritik der herrschenden Politik im Weg, sagt Mario Candeias. mehr...",
+      "url": "https://taz.de/Breite-Buendnisse-gegen-die-AfD/!6210788/",
+      "publishedAt": "2026-09-19T16:20:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Landtagswahlen - Parteien beenden Wahlkampf in Mecklenburg-Vorpommern und Berlin",
-      "excerpt": "Einen Tag vor den Wahlen in Mecklenburg-Vorpommern und Berlin geht heute der Wahlkampf der antretenden Parteien zuende.",
-      "url": "https://www.deutschlandfunk.de/parteien-beenden-wahlkampf-in-mecklenburg-vorpommern-und-berlin-100.html",
-      "publishedAt": "2026-09-19T14:44:03.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
+      "excerpt": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile. mehr...",
+      "url": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
+      "publishedAt": "2026-09-19T16:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Höllische Menstruationsschmerzen: „Bekommen Sie halt ein Kind“",
+      "excerpt": "Um höllische Regelbeschwerden in den Griff zu bekommen, solle unsere Autorin einfach schwanger werden, sagt die Ärztin. Und betreibt damit Medical Gaslighting. mehr...",
+      "url": "https://taz.de/Hoellische-Menstruationsschmerzen/!6208401/",
+      "publishedAt": "2026-09-19T16:14:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "LNG-Boom in Mosambik: Das Gas ist da. Der Wohlstand nicht",
+      "excerpt": "Mosambik setzt auf Milliardeninvestitionen in Erdgas. Doch die versprochenen Jobs und Entwicklungschancen für viele Menschen bleiben aus. mehr...",
+      "url": "https://taz.de/LNG-Boom-in-Mosambik/!6197785/",
+      "publishedAt": "2026-09-19T16:12:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Welle der KI-Furcht: Das KI-Kartenhaus",
+      "excerpt": "Immer mehr KI-Unternehmen warnen vor den Gefahren ihrer Technologie, die sie nicht mehr unter Kontrolle haben. Müssen wir jetzt in Panik verfallen? mehr...",
+      "url": "https://taz.de/Welle-der-KI-Furcht/!6208375/",
+      "publishedAt": "2026-09-19T16:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Landtagswahlen und Rechtsextreme: Auf der Jagd nach schlechten Nachrichten",
+      "excerpt": "Die Medien tragen mit negativer Berichterstattung zu den Erfolgen der AfD bei. Deshalb braucht es kein Schönreden, wohl aber mehr Ausgewogenheit. mehr...",
+      "url": "https://taz.de/Landtagswahlen-und-Rechtsextreme/!6208404/",
+      "publishedAt": "2026-09-19T16:08:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+      "excerpt": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert.",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+      "publishedAt": "2026-09-19T15:53:33.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
+      "excerpt": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung der Pflicht scharf k",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
+      "publishedAt": "2026-09-19T15:46:45.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
+      "excerpt": "Der Generalinspekteur der Bundeswehr, Carsten Breuer, ist zum künftigen Vorsitzenden des Nato-Militärausschusses gewählt worden. Verteidigungsminister Pistorius spricht von einer »historischen Aufgabe«.",
+      "url": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
+      "publishedAt": "2026-09-19T15:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Auf die Solidarität der SPD sollte der Kanzler nicht hoffen",
+      "excerpt": "Immer mehr Sozialdemokraten glauben, ein Kanzlersturz wäre auch für die SPD das Beste. Im Hinblick auf einen möglichen Nachfolger haben die Genossen Präferenzen.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-die-solidaritaet-der-spd-sollte-der-kanzler-nicht-hoffen-a-c094e759-256b-4bb2-a2d6-1cac34e4d70c#ref=rss",
+      "publishedAt": "2026-09-19T15:08:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "excerpt": "Einreiseverbote, Strafzölle und eingefrorene Vermögen: US-Präsident Trump hat verschärfte Sanktionen gegen Russland mit seiner Unterschrift in Kraft gesetzt. Eine scharfe Reaktion aus Russland folgte prompt.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
+      "publishedAt": "2026-09-19T14:52:46.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -303,14 +423,6 @@
       "excerpt": "Die Tour de France soll 2029 in Ostdeutschland starten. Doch der „Grand Depart“ passt nicht so ganz zur Situation des Breitensports und zur Infrastruktur. mehr...",
       "url": "https://taz.de/Tour-de-France-in-Ostdeutschland/!6208389/",
       "publishedAt": "2026-09-19T14:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "KI-Forscherin Theresa Züger: „Das Hauptproblem ist die Verantwortungslosigkeit“",
-      "excerpt": "Wenn Tech-CEOs vom Ende der Menschheit fabulieren, wollen sie Verantwortung verschieben. Dabei bräuchte es eine gemeinwohlorientierte KI. mehr...",
-      "url": "https://taz.de/KI-Forscherin-Theresa-Zueger/!6208301/",
-      "publishedAt": "2026-09-19T13:47:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -410,43 +522,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "7. Stromausfall in diesem Jahr: Stromnetz auf Kuba bricht erneut zusammen",
-      "excerpt": "US-Ölembargo, marode Kraftwerke: Die Energiekrise auf Kuba spitzt sich zu. Rund 9,4 Millionen Menschen haben keinen Strom. mehr...",
-      "url": "https://taz.de/Stromnetz-auf-Kuba-bricht-erneut-zusammen/!6214658/",
-      "publishedAt": "2026-09-19T09:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "AfD: Alice Weidel kopiert jetzt Ulrich Siegmund – und sein Erfolgsrezept",
       "excerpt": "Die AfD-Vorsitzende Alice Weidel entdeckt Social Media neu. Das Vorbild sitzt in Sachsen-Anhalt: Ulrich Siegmunds Wahlkampf dient als Blaupause für die Partei.",
       "url": "https://www.spiegel.de/politik/deutschland/afd-alice-weidel-kopiert-jetzt-ulrich-siegmund-und-sein-erfolgsrezept-a-145148a3-cf22-4d16-a59f-face74c443b6#ref=rss",
       "publishedAt": "2026-09-19T09:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Vorbildhafte Ausbildung beim SC Freiburg: Von Waldsee in die Welt",
-      "excerpt": "25 Jahre Freiburger Schule: Nach zwei verlorenen Endspielen wollen die Freiburger dank ihrer Nachwuchsschmiede weiter oben angreifen. mehr...",
-      "url": "https://taz.de/Vorbildhafte-Ausbildung-beim-SC-Freiburg/!6208409/",
-      "publishedAt": "2026-09-19T09:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wahlkampf in Mecklenburg-Vorpommern: SPD feiert Schwesig ab, CDU blickt in den Abgrund",
-      "excerpt": "Kurz vor der Wahl in Mecklenburg-Vorpommern karren noch mal fast alle Parteien Spitzenpolitiker aus Bund und Ländern heran. Nur bei der CDU ist Totentanz. mehr...",
-      "url": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6214337/",
-      "publishedAt": "2026-09-19T07:53:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Die Wahrheit: Volxfest Wiesn mit Dosenbier",
-      "excerpt": "Das Oktoberfest wird dieses Jahr von einem schwulen grünen OB eröffnet. Deutschland ist final in die Hände von Linksversifften gefallen. mehr...",
-      "url": "https://taz.de/Die-Wahrheit/!6208289/",
-      "publishedAt": "2026-09-19T07:14:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -562,22 +642,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Regisseure über Schwulsein im Alter: „Wie zeigt man einen 76-jährigen Mann beim Sex?“",
-      "excerpt": "Offen schwul im Pflegeheim? Die Regisseure Aitor Arregi und Jose Mari Goenaga erzählen in dem Film „Maspalomas“ von Heimkehr und über Queersein im Alter. mehr...",
-      "url": "https://taz.de/Regisseure-ueber-Schwulsein-im-Alter/!6208305/",
-      "publishedAt": "2026-09-18T18:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Debatte um hohe Spritpreise: Regierung verhandelt über Tankrabatt",
-      "excerpt": "Die Bundesregierung verhandelt über Entlastungen beim Tanken. Die Energiesteuer könnte um 14 Cent sinken, auch ein Spritpreisdeckel ist im Gespräch. mehr...",
-      "url": "https://taz.de/Debatte-um-hohe-Spritpreise/!6214633/",
-      "publishedAt": "2026-09-18T17:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
       "excerpt": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Ba",
@@ -610,14 +674,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Überkonsum: Brauche ich das wirklich?",
-      "excerpt": "Wir wollen mehr und danach noch mehr. Ist ein Ausstieg aus der Konsumlogik möglich? Unsere Autorin führt die Suche nach Antworten zu einem Bergbauern in Südtirol. mehr...",
-      "url": "https://taz.de/Ueberkonsum/!6208123/",
-      "publishedAt": "2026-09-18T15:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "News des Tages: Spritpreise, Tarnkappenbomber F-35, Wahlen",
       "excerpt": "Die Regierung steht offenbar vor einer Einigung für Entlastungen für Autofahrer. Deutschland will mit neuem F-35-Tarnkappenjet einen »Quantensprung« machen. Und Schwesig überholt in Umfragen die AfD. Das ist die Lage am ",
@@ -639,22 +695,6 @@
       "excerpt": "Mit einem actiongeladenen Video kündigt Lockheed Martin die Übergabe des ersten Tarnkappenjets an Deutschland an. Boris Pistorius nimmt ihn in Texas entgegen. Kritik gibt es vor allem wegen der hohen Kosten.",
       "url": "https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss",
       "publishedAt": "2026-09-18T14:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Spenden für Midterms: Rekordsummen für die Kongress-Zwischenwahlen",
-      "excerpt": "Nie zuvor floss in den USA so viel Geld in den Wahlkampf für Kongress-Zwischenwahlen. Zu den größten Spendern zählen einzelne Milliardäre. Hinzu kommt \"Dark Money\", also Spenden, die niemandem zugeordnet werden können. V",
-      "url": "https://www.tagesschau.de/ausland/amerika/parteispenden-republikaner-100.html",
-      "publishedAt": "2026-09-18T14:21:12.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Merz’ Aussage zu Antisemitismus: Und er hat wieder daneben gegriffen",
-      "excerpt": "Friedrich Merz nennt Antisemitismus die „perfideste Form der Ausländerfeindlichkeit“. Man möchte einfach nur den Kopf schütteln. mehr...",
-      "url": "https://taz.de/Merz-Aussage-zu-Antisemitismus/!6214330/",
-      "publishedAt": "2026-09-18T13:24:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -703,22 +743,6 @@
       "excerpt": "Fast gleichauf in den Umfragen, politisch Welten voneinander entfernt: CDU und Linke kämpfen in Berlin mit völlig unterschiedlichen Rezepten gegen die Wohnungskrise – und ums Rote Rathaus.",
       "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-wie-cdu-und-linke-ums-rote-rathaus-kaempfen-a-52592675-3fbd-41e2-ac58-6d9502ea451d#ref=rss",
       "publishedAt": "2026-09-18T10:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt nach AfD-Sieg: Siegmunds Drahtseilakt auf dem Weg zur Regierung",
-      "excerpt": "Drei Stimmen fehlen der AfD im Landtag in Magdeburg zur Mehrheit. Hinter den Kulissen nähern sich die Rechtsextremen dem BSW an. Doch der Weg zur Macht bleibt für Frontmann Ulrich Siegmund schwierig.",
-      "url": "https://www.spiegel.de/politik/sachsen-anhalt-nach-afd-sieg-siegmunds-drahtseilakt-auf-dem-weg-zur-regierung-a-486fba3e-4448-4e67-b69f-3641943f7abf#ref=rss",
-      "publishedAt": "2026-09-18T09:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Kampfflugzeug F-35: Was Deutschlands erster Tarnkappenjet kann",
-      "excerpt": "In Texas übergibt die Rüstungsschmiede Lockheed Martin Verteidigungsminister Pistorius die erste F-35 für die Luftwaffe. Der Flieger soll Deutschlands nukleare Teilhabe sichern – und Russland abschrecken.",
-      "url": "https://www.spiegel.de/politik/kampfflugzeug-f-35-was-deutschlands-erster-tarnkappenjet-kann-a-9c92ebe2-c246-41eb-9c11-10b93964989e#ref=rss",
-      "publishedAt": "2026-09-18T08:43:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -832,14 +856,6 @@
       "url": "https://www.deutschlandfunk.de/social-media-erst-ab-13-eu-praesentiert-gesetzvorschlag-100.html",
       "publishedAt": "2026-09-17T12:36:02.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
-      "excerpt": "Nach Angaben von UN-Berichterstattern könnten zwei US-Angriffe in Iran als Kriegsverbrechen gewertet werden. Darunter ist eine Attacke auf eine Mädchenschule zu Beginn des Jahres. Aber auch die iranische Regierung wird s",
-      "url": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
-      "publishedAt": "2026-09-17T12:31:47.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -968,22 +984,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "publishedAt": "2026-09-16T11:48:26.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-      "excerpt": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten zu Wort - und stellen sich hinter Merz. Der reagiert erleichtert.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-      "publishedAt": "2026-09-16T11:19:59.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-      "excerpt": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach von einer \"ernsten Ge",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
-      "publishedAt": "2026-09-16T10:52:32.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
