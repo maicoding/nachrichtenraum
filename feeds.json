@@ -1,108 +1,20 @@
 {
-  "updatedAt": "2026-09-20T05:25:43.795Z",
+  "updatedAt": "2026-09-20T10:06:36.662Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Exklusive INSA-Umfrage - Deutsche für Kanada als EU-Sondermitglied",
-      "excerpt": "Kanada in die EU? Für eine Mehrheit der Deutschen klingt das nach einer guten Idee!",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/exklusive-umfrage-deutsche-fuer-kanada-als-eu-sondermitglied-6aad42b6b1857e86757a647a",
-      "publishedAt": "2026-09-20T05:25:43.259Z",
+      "title": "Großer Drohnenangriff auf Russland - Raffinerie in Moskau brennt",
+      "excerpt": "Drohnen treffen Moskaus Schlüsselraffinerie, während eine umstrittene Duma-Wahl läuft.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/drohnenangriff-auf-russland-moskau-in-flammen-am-letzten-tag-von-putins-wahl-6aaf6dd7708e760b5e064a37",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "So ticken die Berlin-Kandidaten - Warum sollte man Sie wählen?",
-      "excerpt": "Berlin wählt zwischen CDU und Linken: Wer führt die Hauptstadt in die Zukunft?",
-      "url": "https://www.bild.de/politik/so-ticken-die-kandidaten-warum-sollte-man-sie-waehlen-6aae9295b1857e86757a751e",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "China-Geschäft - Absatzprobleme! VW-Aktie stürzt ab",
-      "excerpt": "VW senkt Jahresprognose wegen schwacher China-Nachfrage, die Aktie bricht ein.",
-      "url": "https://www.bild.de/politik/china-geschaeft-absatzprobleme-vw-aktie-stuerzt-ab-6aad5b174453e0520be1a179",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Spannung in Meck-Pomm und Berlin steigt! - Angst vor dem Wahl-Nachbeben",
-      "excerpt": "Zwei Ost-Wahlen entscheiden über Merz’ Zukunft, Schwesigs Stärke und AfD-Erfolge.",
-      "url": "https://www.bild.de/politik/inland/analyse-vor-berlin-und-meck-pomm-wahl-das-grosse-zittern-vor-den-wahl-beben-6aad269b4453e0520be19c4d",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Deutsche Nachbarländer - Warum tanken fast alle anderen billiger als wir?",
-      "excerpt": "Hohe Steuern und teures Öl machen Sprit in Deutschland deutlich teurer als im Ausland.",
-      "url": "https://www.bild.de/politik/spritpreise-in-europa-warum-polen-und-tschechien-guenstiger-tanken-6aabb7b5fc82e30f94af2e67",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "So ticken die Meck-Pomm-Spitzenkandidaten - Warum sollte man Sie wählen?",
-      "excerpt": "Schwesig und Holm liefern sich Kopf-an-Kopf-Rennen um die Macht in Mecklenburg-Vorpommern.",
-      "url": "https://www.bild.de/politik/so-ticken-die-ministerkandidaten-warum-sollte-man-sie-waehlen-6aaea2b1b1857e86757a7641",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Machtkampf in NRW - AfD-Jugend schreibt Wutbrief an Alice Weidel",
-      "excerpt": "AfD‑Jugend aus NRW klagt über fehlende Transparenz bei Geld und fordert Prüfung.",
-      "url": "https://www.bild.de/politik/inland/machtkampf-in-nrw-afd-jugend-schreibt-wutbrief-an-alice-weidel-6aa623f1181cb962d488d6ba",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Innenminister machen mobil - Anti-AfD-Plan jetzt auch gegen die Linke",
-      "excerpt": "Erst die AfD in Sachsen-Anhalt, jetzt die Linke in Berlin: Die Innenminister machen mobil.",
-      "url": "https://www.bild.de/politik/innenminister-machen-mobil-anti-afd-plan-jetzt-auch-gegen-die-linke-6aaba1e13e0af7910e522409",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Verdächtige Truppenbewegungen - Was treibt Putin an der Nato-Grenze?",
-      "excerpt": "Russland und NATO rüsten im Ostseeraum auf, Experten warnen vor größerem Konflikt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/verdaechtige-truppenbewegungen-was-treibt-putin-an-der-nato-grenze-6aaea638556d2f0b574e91ce",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Trauerwache in Frankfurt - „Herausschreien, dass was im System verkehrt läuft“",
-      "excerpt": "Beim Trauermarsch in Frankfurt berichten Familien, wie der gewaltsame Tod ihrer Liebsten ihr Leben verändert hat.",
-      "url": "https://www.bild.de/news/inland/trauerwache-in-frankfurt-wir-wollen-herausschreien-dass-was-in-unserem-system-verkehrt-laeuft-6aaeb898c8e0b1ae1ffedca1",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bundeswehr-Generalinspekteur Carsten Breuer - Deutscher Top-General wird Militärchef der Nato",
-      "excerpt": "Carsten Breuer wird oberster Nato-Stratege mitten in einer sicherheitspolitischen Krise.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bundeswehr-generalinspekteur-carsten-breuer-deutscher-top-general-wird-militaerchef-der-nato-6aaea8a5708e760b5e064451",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Keine Option, nur Versprechungen“ - Das sagt Merkels letzter Fischer über die AfD",
-      "excerpt": "BILD-Besuch bei einem Enttäuschten, der am Sonntag nicht mehr CDU wählen will.",
-      "url": "https://www.bild.de/politik/inland/merkels-letzter-fischer-von-weltberuehmtem-wendefoto-bricht-mit-der-cdu-6aacf12d7a2a14cb01becfce",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Last-Minute-Wahlcheck - Welche Partei will, was ich will?",
-      "excerpt": "Am Sonntag stehen die Landtagswahlen in Mecklenburg-Vorpommern und Berlin an.",
-      "url": "https://www.bild.de/politik/inland/last-minute-wahlcheck-fuer-berlin-und-meck-pomm-welche-partei-will-was-ich-will-6aaaa09c91d8cffaad47b96d",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "title": "Heftiger ukrainischer Drohnenangriff - Raffinerie brennt in Moskau",
+      "excerpt": "Nach Drohnen- und Raketenangriff steht Moskaus wichtigste Raffinerie in Flammen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/heftiger-ukrainischer-drohnenangriff-raffinerie-brennt-in-moskau-6aafa62e708e760b5e064e99",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
@@ -110,71 +22,175 @@
       "title": "US-Medien bestätigen - Trump lässt Journalisten wirklich nicht rein!",
       "excerpt": "Trump verbannt mehrere US-Medien aus dem Weißen Haus und spricht von „Fake News“.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/erster-us-sender-bestaetigt-trump-laesst-journalisten-wirklich-nicht-rein-6aae814ad43840926585a9be",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Aus 583 Kilometern im All - Berliner Satelliten schützen Pipelines und Bahntrassen",
-      "excerpt": "Ein Berliner Startup baut Satelliten, die Infrastruktur per 3D-Bilder schützen.",
-      "url": "https://www.bild.de/politik/inland/aus-583-kilometern-im-all-berliner-satelliten-schuetzen-pipelines-und-bahntrassen-6aa95de0176f7c20b935df5d",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "title": "dm-Chef rechnet mit Wirtschaftspolitik ab - „Jetzt bekommen wir die Quittung“",
+      "excerpt": "dm-Chef Werner erklärt, warum Deutschlands Abstieg selbst verschuldet ist.",
+      "url": "https://www.bild.de/politik/inland/dm-chef-rechnet-mit-wirtschaftspolitik-ab-jetzt-bekommen-wir-die-quittung-6aae5799f9697bf26fd018e7",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "BILD-Kolumnistin Julia Ruhs - „Mit falscher Art von Migration viele Opfer produziert“",
-      "excerpt": "Frankfurt: Von 14 bis 19 Uhr findet auf dem Römerberg die „Trauerwache Deutschland“ statt. Die Gedenkkundgebung erinnert an Menschen...",
-      "url": "https://www.bild.de/politik/inland/bild-kolumnistin-julia-ruhs-bei-gedenken-an-gewaltopfer-das-kann-ich-nicht-mehr-hoeren-6aae76cec8e0b1ae1ffed8bd",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "title": "RONZHEIMER - „Geschäftsmodell Deutschland defekt“ Mit Christoph Werner",
+      "excerpt": "dm-Chef Christoph Werner erklärt, wann Unternehmen politisch Position beziehen.",
+      "url": "https://www.bild.de/politik/ronzheimer-geschaeftsmodell-deutschland-defekt-mit-christoph-werner-6aad39837a2a14cb01beda68",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Chef der Polizeigewerkschaft bei Trauerrede - Der Ursprung ist die politische Korrektheit",
-      "excerpt": "Menschen verändern aus Angst vor Übergriffen ihren Alltag in Frankfurt.",
-      "url": "https://www.bild.de/news/inland/manuel-ostermann-spricht-von-freiheitsverlust-deshalb-meidet-die-krankenschwester-oeffentliche-verkehrsmittel-6aae93fb708e760b5e064314",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "title": "„Frau gegen Blau“ - Die irre Aufholjagd von Manuela Schwesig",
+      "excerpt": "Schwesig punktet mit Distanz zu Berlin, starken Versprechen und Nähe zu den Wählern.",
+      "url": "https://www.bild.de/politik/inland/frau-gegen-blau-in-mecklenburg-vorpommern-die-irre-aufholjagd-von-manuela-schwesig-6aae7114708e760b5e0640ec",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Steckt China dahinter? - Ersatzteile von Kampfjet verschwunden",
-      "excerpt": "Umgeleitete F-35-Teile in Hongkong werfen brisante Fragen zu Chinas Zugriff auf.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/kongress-in-amerika-alarmiert-geheimtechnologie-des-f-35-in-china-gelandet-6aae49b5994241d0bd960d49",
-      "publishedAt": "2026-09-20T05:25:43.258Z",
+      "title": "Innenminister machen mobil - Anti-AfD-Plan jetzt auch gegen die Linke",
+      "excerpt": "Erst die AfD in Sachsen-Anhalt, jetzt die Linke in Berlin: Die Innenminister machen mobil.",
+      "url": "https://www.bild.de/politik/innenminister-machen-mobil-anti-afd-plan-jetzt-auch-gegen-die-linke-6aaba1e13e0af7910e522409",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Deutsche Nachbarländer - Warum tanken fast alle anderen billiger als wir?",
+      "excerpt": "Hohe Steuern und teures Öl machen Sprit in Deutschland deutlich teurer als im Ausland.",
+      "url": "https://www.bild.de/politik/spritpreise-in-europa-warum-polen-und-tschechien-guenstiger-tanken-6aabb7b5fc82e30f94af2e67",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar von Große-Bley - Gefährliche Linken-Pläne für die Sicherheit Berlins",
+      "excerpt": "In Berlin entscheidet die SPD, ob CDU oder Linke künftig die Stadt regieren.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-die-gefaehrlichen-linken-plaene-fuer-die-sicherheit-berlins-6aaeb0b0c8e0b1ae1ffedc32",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zwei Wahlen und ein Kanzler, der ums Amt kämpft - Heute wird es wieder knapp!",
+      "excerpt": "Merz kämpft nach Wahl-Debakel um seinen CDU-Job, Schwesig wird zur SPD-Schlüsselfigur.",
+      "url": "https://www.bild.de/politik/inland/berlin-und-mecklenburg-vorpommern-zwei-wahlen-und-ein-kanzler-der-um-sein-amt-kaempft-6aaec9d9708e760b5e064616",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident setzt auf Technologie - Trump will „KI-Zaren“ ernennen",
+      "excerpt": "Trump plant eine „AI Force“ und einen KI-Zaren, um den Vorsprung vor China zu sichern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/us-praesident-setzt-auf-kuenstliche-intelligenz-trump-will-ki-zaren-ernennen-6aaf7276708e760b5e064a57",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "So ticken die Berlin-Kandidaten - Warum sollte man Sie wählen?",
+      "excerpt": "Berlin wählt zwischen CDU und Linken: Wer führt die Hauptstadt in die Zukunft?",
+      "url": "https://www.bild.de/politik/so-ticken-die-kandidaten-warum-sollte-man-sie-waehlen-6aae9295b1857e86757a751e",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "China-Geschäft - Absatzprobleme! VW-Aktie stürzt ab",
+      "excerpt": "VW senkt Jahresprognose wegen schwacher China-Nachfrage, die Aktie bricht ein.",
+      "url": "https://www.bild.de/politik/china-geschaeft-absatzprobleme-vw-aktie-stuerzt-ab-6aad5b174453e0520be1a179",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Spannung in Meck-Pomm und Berlin steigt! - Angst vor dem Wahl-Nachbeben",
+      "excerpt": "Zwei Ost-Wahlen entscheiden über Merz’ Zukunft, Schwesigs Stärke und AfD-Erfolge.",
+      "url": "https://www.bild.de/politik/inland/analyse-vor-berlin-und-meck-pomm-wahl-das-grosse-zittern-vor-den-wahl-beben-6aad269b4453e0520be19c4d",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "So ticken die Meck-Pomm-Spitzenkandidaten - Warum sollte man Sie wählen?",
+      "excerpt": "Schwesig und Holm liefern sich Kopf-an-Kopf-Rennen um die Macht in Mecklenburg-Vorpommern.",
+      "url": "https://www.bild.de/politik/so-ticken-die-ministerkandidaten-warum-sollte-man-sie-waehlen-6aaea2b1b1857e86757a7641",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Machtkampf in NRW - AfD-Jugend schreibt Wutbrief an Alice Weidel",
+      "excerpt": "AfD‑Jugend aus NRW klagt über fehlende Transparenz bei Geld und fordert Prüfung.",
+      "url": "https://www.bild.de/politik/inland/machtkampf-in-nrw-afd-jugend-schreibt-wutbrief-an-alice-weidel-6aa623f1181cb962d488d6ba",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Verdächtige Truppenbewegungen - Was treibt Putin an der Nato-Grenze?",
+      "excerpt": "Russland und NATO rüsten im Ostseeraum auf, Experten warnen vor größerem Konflikt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/verdaechtige-truppenbewegungen-was-treibt-putin-an-der-nato-grenze-6aaea638556d2f0b574e91ce",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trauerwache in Frankfurt - „Herausschreien, dass was im System verkehrt läuft“",
+      "excerpt": "Beim Trauermarsch in Frankfurt berichten Familien, wie der gewaltsame Tod ihrer Liebsten ihr Leben verändert hat.",
+      "url": "https://www.bild.de/news/inland/trauerwache-in-frankfurt-wir-wollen-herausschreien-dass-was-in-unserem-system-verkehrt-laeuft-6aaeb898c8e0b1ae1ffedca1",
+      "publishedAt": "2026-09-20T10:06:36.595Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Schulen, Straßen, Klimafolgen - Städte- und Gemeindebund fordert doppelt so viel Geld aus dem Sondervermögen",
+      "excerpt": "Der Städte- und Gemeindebund hat die Bundesregierung aufgefordert, den Kommunen mehr Geld aus dem Sondervermögen bereitzustellen.",
+      "url": "https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-doppelt-so-viel-geld-aus-dem-sondervermoegen-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Abstimmung - In Berlin und Mecklenburg-Vorpommern werden neue Parlamente gewählt",
+      "excerpt": "In Mecklenburg-Vorpommern wird seit acht Uhr ein neuer Landtag gewählt und in Berlin eine neues Abgeordnetenhaus. In beiden Bundesländern werden knappe Entscheidungen erwartet. In Berlin liegen Linke und CDU in den Umfra",
+      "url": "https://www.deutschlandfunk.de/in-berlin-und-mecklenburg-vorpommern-werden-neue-parlamente-gewaehlt-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kanzler unter Druck - Merz berät mit CDU-Spitze am Abend über Ergebnisse von Landtagswahlen",
+      "excerpt": "Die Ergebnisse der Wahlen in Mecklenburg-Vorpommern und Berlin haben auch bundespolitische Bedeutung.",
+      "url": "https://www.deutschlandfunk.de/merz-beraet-mit-cdu-spitze-am-abend-ueber-ergebnisse-von-landtagswahlen-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "USA - Präsident Trump kündigt \"AI Force\" zur KI-Regulierung an",
       "excerpt": "US-Präsident Trump hat die Einrichtung einer Aufsichtsbehörde für Künstliche Intelligenz angekündigt.",
       "url": "https://www.deutschlandfunk.de/praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Abstimmung - In Berlin und Mecklenburg-Vorpommern werden neue Parlamente gewählt",
-      "excerpt": "In Mecklenburg-Vorpommern wird heute ein neuer Landtag gewählt und in Berlin eine neues Abgeordnetenhaus. In beiden Bundesländern werden knappe Entscheidungen erwartet. In Berlin liegen Linke und CDU in den Umfragen vorn",
-      "url": "https://www.deutschlandfunk.de/in-berlin-und-mecklenburg-vorpommern-werden-neue-parlamente-gewaehlt-100.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "title": "Angriffe auf Riad - US-Außenministerium warnt vor Eskalation zwischen Saudi-Arabien und der Huthi-Miliz",
+      "excerpt": "Nach Angriffen der jemenitischen Huthi-Miliz auf die saudische Hauptstadt Riad hat das US-Außenministerium vor einer Verschärfung des Konflikts gewarnt.",
+      "url": "https://www.deutschlandfunk.de/us-aussenministerium-warnt-vor-eskalation-zwischen-saudi-arabien-und-der-huthi-miliz-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Wahlen - Merz berät mit CDU-Spitze am Abend über Ergebnisse",
-      "excerpt": "Die Ergebnisse der Wahlen in Mecklenburg-Vorpommern und Berlin haben auch bundespolitische Bedeutung.",
-      "url": "https://www.deutschlandfunk.de/merz-beraet-mit-cdu-spitze-am-abend-ueber-ergebnisse-100.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kraftstoffe - Wirtschaftsweise Grimm nennt neuen Tankrabatt \"zynisch\"",
-      "excerpt": "Die Wirtschaftsweise Grimm hat die Entscheidung der Bundesregierung für einen neuen Tankrabatt kritisiert.",
-      "url": "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-nennt-neuen-tankrabatt-zynisch-100.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "title": "Meerenge - Iranischer Parlamentspräsident Ghalibaf bekräftigt Bedingungen für Freigabe der Straße von Hormus",
+      "excerpt": "Der iranische Parlamentspräsident Ghalibaf hat die Freigabe der Straße von Hormus erneut an die Umsetzung US-amerikanischer Zusagen geknüpft.",
+      "url": "https://www.deutschlandfunk.de/iranischer-parlamentspraesident-ghalibaf-bekraeftigt-bedingungen-fuer-freigabe-der-strasse-von-hormu-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,15 +198,23 @@
       "title": "Verteidigung - General Breuer wird Vorsitzender des NATO-Militärausschusses",
       "excerpt": "Deutschlands ranghöchster Soldat wird neuer Vorsitzender des NATO-Militärausschusses.",
       "url": "https://www.deutschlandfunk.de/general-breuer-wird-vorsitzender-des-nato-militaerausschusses-114.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Iran-Krieg - Iran nennt USA Bedingungen für Kriegsende",
-      "excerpt": "Der Iran hat den USA über Vermittler Bedingungen für ein Ende des Krieges genannt.",
-      "url": "https://www.deutschlandfunk.de/iran-nennt-usa-bedingungen-fuer-kriegsende-104.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "title": "Verteidigungspolitik - Forderung an Pistorius: Posten des Generalinspekteurs schnell neu besetzen",
+      "excerpt": "Nach der Wahl von Generalinspekteur Breuer zum neuen Vorsitzenden des NATO-Militärausschusses werden Forderungen laut, seinen Posten schnell neu zu besetzen.",
+      "url": "https://www.deutschlandfunk.de/forderung-an-pistorius-posten-des-generalinspekteurs-schnell-neu-besetzen-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Duma - Russische Parlamentswahl geht zu Ende - Zwei Tote bei Drohnenangriffen auf Moskau",
+      "excerpt": "Am letzten Tag der Parlamentswahl in Russland ist die Hauptstadtregion Moskau erneut zum Ziel ukrainischer Drohnenangriffe geworden. Moskaus Bürgermeister sprach von einem beispiellosen Angriff mit mehr als 1.600 Drohnen",
+      "url": "https://www.deutschlandfunk.de/russische-parlamentswahl-geht-zu-ende-zwei-tote-bei-drohnenangriffen-auf-moskau-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,15 +222,7 @@
       "title": "Nahost - Tote bei israelischen Angriffen im Gazastreifen",
       "excerpt": "Bei israelischen Angriffen im Gazastreifen sind nach Angaben des von der Hamas kontrollierten Gesundheitsministeriums mindestens vier Menschen getötet worden.",
       "url": "https://www.deutschlandfunk.de/tote-bei-israelischen-angriffen-im-gazastreifen-118.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Russland - Parlamentswahl geht zu Ende",
-      "excerpt": "In Russland geht heute die dreitägige Parlamentswahl zu Ende.",
-      "url": "https://www.deutschlandfunk.de/parlamentswahl-geht-zu-ende-110.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +230,15 @@
       "title": "Den Haag - Gewaltsame Zusammenstöße bei rechtsextremer Demonstration in den Niederlanden",
       "excerpt": "In den Niederlanden hat es zwischen rechtsextremen Demonstranten und der Polizei gewaltsame Zusammenstöße gegeben.",
       "url": "https://www.deutschlandfunk.de/gewaltsame-zusammenstoesse-bei-rechtsextremer-demonstration-in-den-niederlanden-100.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Konflikt - Südkorea: Nordkorea feuert Geschoss in Richtung Meer",
+      "excerpt": "Nach südkoreanischen und japanischen Angaben hat Nordkorea ein Geschoss in Richtung Meer abgefeuert.",
+      "url": "https://www.deutschlandfunk.de/suedkorea-nordkorea-feuert-geschoss-in-richtung-meer-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +246,15 @@
       "title": "US-Armee - Vier Tote bei Angriff auf mutmaßliches Drogenboot in der Karibik",
       "excerpt": "​Das US-Militär hat bei einem Angriff auf ‌ein ⁠Schiff in ⁠der Karibik vier Menschen getötet.",
       "url": "https://www.deutschlandfunk.de/vier-tote-bei-angriff-auf-mutmassliches-drogenboot-in-der-karibik-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Journalistenverband kritisiert Trumps Hausverbot gegen Reporter",
+      "excerpt": "Die Entscheidung von US-Präsident Trump, dem Sender CNN und zwei weiteren Medien den Zugang zum Weißen Haus zu verwehren, wird von Journalisten-Organisationen kritisiert.",
+      "url": "https://www.deutschlandfunk.de/journalistenverband-kritisiert-trumps-hausverbot-gegen-reporter-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,31 +262,23 @@
       "title": "Guterres-Nachfolge - Amt der UNO-Generalsekretärin: Chiles Ex-Präsidentin Bachelet zieht Kandidatur zurück",
       "excerpt": "Chiles frühere Präsidentin Michelle Bachelet hat ihre Kandidatur für das Amt der UNO-Generalsekretärin zurückgezogen.",
       "url": "https://www.deutschlandfunk.de/amt-der-uno-generalsekretaerin-chiles-ex-praesidentin-bachelet-zieht-kandidatur-zurueck-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Saudi-Arabien - Huthi-Miliz meldet Angriffe auf saudiarabische Hauptstadt Riad und Ölanlagen am Roten Meer",
-      "excerpt": "Die Huthi-Miliz im Jemen hat nach eigenen Angaben Ziele in der saudi-arabischen Hauptstadt Riad angegriffen sowie Ölanlagen am Roten Meer.",
-      "url": "https://www.deutschlandfunk.de/huthi-miliz-meldet-angriffe-auf-saudiarabische-hauptstadt-riad-und-oelanlagen-am-roten-meer-108.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "title": "Krise - Unternehmensberatung EY verzeichnet deutlichen Umsatz-Rückgang der deutschen Autohersteller",
+      "excerpt": "Die Umsätze in der deutschen Autoindustrie sind einer Erhebung des Unternehmensberatung EY zufolge deutlich zurückgegangen.",
+      "url": "https://www.deutschlandfunk.de/unternehmensberatung-ey-verzeichnet-deutlichen-umsatz-rueckgang-der-deutschen-autohersteller-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Fragen und Anworten - Tankrabatt und Preisdeckel - Was die Bundesregierung gegen die hohen Spritpreise plant",
-      "excerpt": "Bund und Länder haben sich auf ein Entlastungspaket gegen die hohen Kraftstoffpreise verständigt. Geplant ist ein neuer Tankrabatt und die Einführung eines Spritpreisdeckels. Die wichtigsten Fragen und Antworten.",
-      "url": "https://www.deutschlandfunk.de/tankrabatt-und-preisdeckel-was-die-bundesregierung-gegen-die-hohen-spritpreise-plant-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Entlastungspaket - Opposition und Sozialverbände kritisieren Tankrabatt - Bovenschulte (SPD) bemängelt Kostenverteilung",
+      "title": "Entlastungspaket - Wirtschaftsweise Grimm nennt neuen Tankrabatt \"zynisch\" - Kritik auch von Opposition und Sozialverbänden",
       "excerpt": "Die Pläne der Bundesregierung zur Entlastung der Bürger bei den Kraftstoffpreisen stoßen bei Sozialverbänden und der Opposition auf Kritik. Am Freitag hatten sich Union und SPD gemeinsam mit den Ländern auf ein neues Ent",
-      "url": "https://www.deutschlandfunk.de/opposition-und-sozialverbaende-kritisieren-tankrabatt-bovenschulte-spd-bemaengelt-kostenverteilung-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "url": "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-nennt-neuen-tankrabatt-zynisch-kritik-auch-von-opposition-und-sozialverbaende-100.html",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,32 +286,144 @@
       "title": "Nach langem Streit - Einigung mit Dänemark und Grönland: USA wollen Militärpräsenz ausweiten",
       "excerpt": "Die USA wollen ihre Militärpräsenz auf Grönland ausweiten. Wie US-Präsident Trump mitteilte, gibt es darüber eine Einigung mit Dänemark und der Arktisinsel. Seinen Angaben zufolge wird die Souveränität Grönlands nicht be",
       "url": "https://www.deutschlandfunk.de/einigung-mit-daenemark-und-groenland-usa-wollen-militaerpraesenz-ausweiten-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
+      "publishedAt": "2026-09-20T10:03:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "USA - Journalisten Zugang zum Weißen Haus verweigert",
-      "excerpt": "Journalisten der US-Sender CNN und MS NOW sowie des Online-Portals Politico ist der Zugang zum Weißen Haus in Washington verweigert worden.",
-      "url": "https://www.deutschlandfunk.de/journalisten-zugang-zum-weissen-haus-verweigert-114.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Taktisch-wählen-Kampagne von Campact: Die Kritik der Linkspartei ist überzogen, aber berechtigt",
+      "excerpt": "Mit ihrer Kampagne, bei den Wahlen in Ostdeutschland taktisch zu wählen, überzieht Campact sein Engagement zur Rettung der Demokratie. mehr...",
+      "url": "https://taz.de/Taktisch-waehlen-Kampagne-von-Campact/!6208405/",
+      "publishedAt": "2026-09-20T09:54:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Folge von US-Sanktionen - Innenministerium im Iran nennt Teuerung besorgniserregend - offenbar Engpässe bei Nahrungsmitteln und Medikamenten",
-      "excerpt": "Das iranische Innenministerium hat die stark steigenden Preise im Land als besorgniserregend bezeichnet.",
-      "url": "https://www.deutschlandfunk.de/innenministerium-im-iran-nennt-teuerung-besorgniserregend-offenbar-engpaesse-bei-nahrungsmitteln-und-102.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Schweizer Uhrenorte: Diese Städte ticken anders",
+      "excerpt": "Biel und La Chaux-de-Fonds wurden geprägt von der Schweizer Uhrenindustrie. Damit ist es heute vorbei. Wie können die Städte sich neu erfinden? mehr...",
+      "url": "https://taz.de/Schweizer-Uhrenorte/!6209847/",
+      "publishedAt": "2026-09-20T09:33:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaft - Handelsblatt: Abbau von 4.000 weiteren Stellen bei Porsche möglich",
-      "excerpt": "Bei dem Sportwagenbauer Porsche könnten einem Zeitungsbericht zufolge 4.000 weitere Stellen wegfallen. ‌",
-      "url": "https://www.deutschlandfunk.de/handelsblatt-abbau-von-4-000-weiteren-stellen-bei-porsche-moeglich-104.html",
-      "publishedAt": "2026-09-20T05:17:37.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Nicht weiß und AfD-Victory: Wieso habe ich keine Angst?",
+      "excerpt": "Unsere Autorin bekommt nach dem Erfolg der Rechtsradikalen in Sachsen-Anhalt besorgte Anfragen. Dabei liegt das Problem für sie viel länger zurück. mehr...",
+      "url": "https://taz.de/Nicht-weiss-und-AfD-Victory/!6208335/",
+      "publishedAt": "2026-09-20T09:31:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wahl in Mecklenburg-Vorpommern: Was, wenn der Kultur die Puste ausgeht?",
+      "excerpt": "Im Nordosten ist über Jahre etwas gewachsen: Orte, an denen Menschen zusammenkommen, die sich sonst kaum noch sehen. Ein AfD-Sieg würde sie bedrohen. mehr...",
+      "url": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6208311/",
+      "publishedAt": "2026-09-20T09:10:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
+      "excerpt": "Nach Hacking-Vorfällen plädierten selbst führende KI-Firmen dafür, die Entwicklung der Technologie zu drosseln. US-Präsident Trump sieht das allerdings anders. Nun kündigt er eine \"AI Force\" an, die das Wachstum von KI b",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
+      "publishedAt": "2026-09-20T08:58:11.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ed Sheeran: In Ungnade gefallen",
+      "excerpt": "In Irland wird der Eklat um Ed Sheeran besonders heiß debattiert. Der Sänger selbst spricht bei einem Konzert in den USA erstmals von einem „Fehler“. mehr...",
+      "url": "https://taz.de/Ed-Sheeran/!6214674/",
+      "publishedAt": "2026-09-20T08:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Rechtsextreme Demo in Den Haag: Sie denken, „das Volk“ zu sein",
+      "excerpt": "Die Polizei löst eine Demo in den Niederlanden auf. Protestierende zeigten Hitlergrüße, riefen zu Gewalt auf und hetzten gegen Migranten. mehr...",
+      "url": "https://taz.de/Rechtsextreme-Demo-in-Den-Haag/!6214681/",
+      "publishedAt": "2026-09-20T08:51:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Die AfD und der SPIEGEL: Wie berichten wir über eine Partei, die uns zu Feinden erklärt?",
+      "excerpt": "»Mainstreammedien«, »Lügenpresse« – AfD-Politiker greifen Journalisten scharf an. So gehen wir beim SPIEGEL damit um – und so streitet unsere Redaktion darüber.",
+      "url": "https://www.spiegel.de/politik/deutschland/die-afd-und-der-spiegelwie-berichten-wir-ueber-eine-partei-die-uns-zu-feinden-erklaert-a-845ea8bb-bcb3-4ab2-b554-5eba8f609d39#ref=rss",
+      "publishedAt": "2026-09-20T08:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+      "excerpt": "Unter Präsident Trump gehen die USA in der Karibik seit vergangenem Jahr mit gezielten Angriffen gegen mutmaßliche Drogenboote vor. Bei einem neuerlichen Einsatz sind dabei nach Militärangaben erneut vier Menschen gestor",
+      "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
+      "publishedAt": "2026-09-20T07:59:20.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neuer Köln-„Tatort“: Albtraum nach der Flut",
+      "excerpt": "Im neuen Köln-„Tatort“ geht es um Verantwortung und Preppertum. Vor allem aber zeigen zwei Schauspielerinnen, was möglich ist im Fernsehen. mehr...",
+      "url": "https://taz.de/Neuer-Koeln-Tatort/!6208336/",
+      "publishedAt": "2026-09-20T06:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Wahl in Berlin: Jugendliche ab 16 dürfen erstmals ihre Stimme abgeben",
+      "excerpt": "Was für das Europaparlament schon möglich war, geht jetzt auch in Berlin: Jugendliche ab 16 Jahren dürfen wählen. Da ein knappes Ergebnis erwartet wird, könnte das entscheidend sein.",
+      "url": "https://www.spiegel.de/politik/deutschland/wahl-in-berlin-jugendliche-ab-16-duerfen-erstmals-ihre-stimme-abgeben-a-09e72085-2f3e-41aa-b1f6-09e797535c1f#ref=rss",
+      "publishedAt": "2026-09-20T06:56:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wahl Berlin und Mecklenburg-Vorpommern: Wer kann da regieren?",
+      "excerpt": "Am Sonntag wird in Berlin und Mecklenburg-Vorpommern gewählt. In beiden Ländern ist völlig offen, wie danach Mehrheiten gefunden werden. mehr...",
+      "url": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
+      "publishedAt": "2026-09-20T06:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Jugendzentrum in Berlin: Gebt der Potse ein Zuhause!",
+      "excerpt": "Der Jugendclub Potse ist eines der ältesten selbstverwalteten Jugendzentren Berlins. Doch findet er nur schwer einen Ort, an dem er bleiben kann. mehr...",
+      "url": "https://taz.de/Die-Potse-in-Berlin/!6208280/",
+      "publishedAt": "2026-09-20T06:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Leben und wählen in Berlin: Die Stadt, der Müll und der Kiez",
+      "excerpt": "Nirgendwo in Deutschland prallen Lebensentwürfe so hart aufeinander wie in Berlin. Was soll bleiben? Was sich ändern? Dazu sechs Anmerkungen. mehr...",
+      "url": "https://taz.de/Leben-und-Waehlen-in-Berlin/!6208395/",
+      "publishedAt": "2026-09-20T06:53:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Wahlen in Berlin und Mecklenburg-Vorpommern - Tag des Mülls",
+      "excerpt": "Heute wird in Berlin und Mecklenburg-Vorpommern gewählt. In der Hauptstadt gab es im Wahlkampf vor allem ein Thema. Das ist die Lage am Sonntag.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-wahlen-in-berlin-und-mecklenburg-vorpommern-kuenstliche-intelligenz-a-8919b04d-0ecb-4a6d-9c7b-b7d51004667b#ref=rss",
+      "publishedAt": "2026-09-20T06:11:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin-Wahl 2026: Welche Koalitionen jetzt realistisch sind",
+      "excerpt": "Fünf Parteien, zwei Lager, ein Rotes Rathaus: Berlin steht vor einer Wahl mit offenem Ausgang. Welche Koalitionen realistisch sind und was die Skandale der vergangenen Wochen daran ändern könnten.",
+      "url": "https://www.spiegel.de/politik/berlin-wahl-2026-welche-koalitionen-jetzt-realistisch-sind-a-7c3898b3-15e5-4177-8717-04d65a69e687#ref=rss",
+      "publishedAt": "2026-09-20T05:56:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Mecklenburg-Vorpommern: Was Sie über die Landtagswahl wissen sollten",
+      "excerpt": "Profitiert die AfD vom Triumph in Sachsen-Anhalt? Kann der Mann mit dem Fischbrötchen den Bundeskanzler retten? Und wird Manuela Schwesig zur wichtigsten Frau der SPD? Fragen und Antworten zur Wahl.",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-was-sie-ueber-die-landtagswahl-wissen-sollten-a-83418abb-d0a2-40db-80cd-3cc2e694be66#ref=rss",
+      "publishedAt": "2026-09-20T05:51:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -332,17 +468,9 @@
     {
       "source": "TAZ.DE",
       "title": "Debatte um den Film „Naza“ über IDF: Öl ins Feuer",
-      "excerpt": "Die kritischen Regisseuren Yuval Abraham und Rachel Szor haben in Israel viel ausgelöst. Hilft der Film womöglich sogar unfreiwillig Netanjahu? mehr...",
+      "excerpt": "Die kritischen Regisseure Yuval Abraham und Rachel Szor haben in Israel viel ausgelöst. Hilft der Film womöglich sogar unfreiwillig Netanjahu? mehr...",
       "url": "https://taz.de/Debatte-um-den-Film-Naza-ueber-IDF/!6208392/",
       "publishedAt": "2026-09-19T18:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Richtig gute Leute: Antifa mit Popcorn",
-      "excerpt": "Die Lehrerin Hanka Gatter leitet einen Kurs gegen Rassismus, ehrenamtlich berät sie Geflüchtete in einem Café in Parchim. mehr...",
-      "url": "https://taz.de/Richtig-gute-Leute/!6213927/",
-      "publishedAt": "2026-09-19T18:20:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -355,14 +483,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Midterms in den USA: Die US-Demokratie ist doch noch nicht ganz verloren",
-      "excerpt": "Der Supreme Court hat Trumps Vorhaben, die Briefwahl einzuschränken, gestoppt. Das oberste Gericht holt sich seine Unabhängigkeit teilweise zurück. mehr...",
-      "url": "https://taz.de/Midterms-in-den-USA/!6212564/",
-      "publishedAt": "2026-09-19T18:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "El Niño im Klimawandel: Wenn das Christkind noch mehr Dürre, Flut und Hunger bringt",
       "excerpt": "Anhand von Korallen haben Forscher untersucht, wie die Erderhitzung das Klimaphänomen El Niño beeinflusst. Die globalen Aussichten sind eher düster. mehr...",
       "url": "https://taz.de/El-Nino-im-Klimawandel/!6208343/",
@@ -371,26 +491,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Wirtschaft in Deutschland: Wie schlimm ist es denn nun?",
-      "excerpt": "Was ist dran am Krisengerede der Lobbyverbände? Und bringen Sozialreformen wirklich die Volkswirtschaft in Schwung? Wir geben Antworten. mehr...",
-      "url": "https://taz.de/Wirtschaft-in-Deutschland/!6208374/",
-      "publishedAt": "2026-09-19T18:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Landtagswahlen: Was sollen Grüne, SPD und Linke bloß tun, wenn sie gewinnen?",
-      "excerpt": "Eigentlich klar, was passieren muss, wenn die AfD erneut das Rennen macht: einfach mal verbieten. Nur wenn´s anders ausgeht, dann wird es kompliziert. mehr...",
-      "url": "https://taz.de/Landtagswahlen/!6208402/",
-      "publishedAt": "2026-09-19T18:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Migrationsroute in Osteuropa: Die Namenlosen",
-      "excerpt": "Im Fluss Drina zwischen Serbien und Bosnien ertrinken immer wieder Flüchtende. Ein Pathologe und ein Aktivist wollen sie identifizieren. mehr...",
-      "url": "https://taz.de/Migrationsroute-in-Osteuropa/!6208429/",
-      "publishedAt": "2026-09-19T18:13:00.000Z",
+      "title": "Midterms in den USA: Die US-Demokratie ist doch noch nicht ganz verloren",
+      "excerpt": "Der Supreme Court hat Trumps Vorhaben, die Briefwahl einzuschränken, gestoppt. Das oberste Gericht holt sich seine Unabhängigkeit teilweise zurück. mehr...",
+      "url": "https://taz.de/Midterms-in-den-USA/!6212564/",
+      "publishedAt": "2026-09-19T18:19:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -403,23 +507,7 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "HSV holt gegen Köln ersten Sieg: Warten auf den Heilsbringer",
-      "excerpt": "Der HSV holt gegen den 1. FC Köln die ersten Bundesliga-Punkte. Die Abwehr braucht Mario Vušković, der nach Dopingsperre bald zurückkehren könnte. mehr...",
-      "url": "https://taz.de/HSV-holt-gegen-Koeln-ersten-Sieg/!6214672/",
-      "publishedAt": "2026-09-19T16:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Buch über Träume von Schoah-Überlebenden: Das Unsagbare mitteilen",
-      "excerpt": "Die Literaturwissenschaftlerin Christiane Solte-Gresser analysiert Traumerzählungen von Schoah-Überlebenden und erkundet ihr heilendes Potenzial. mehr...",
-      "url": "https://taz.de/Buch-ueber-Traeume-von-Schoah-Ueberlebenden/!6213013/",
-      "publishedAt": "2026-09-19T16:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Marsch für das Leben 2026: Christlich-Konservative stoßen auf Gegendemos",
+      "title": "„Marsch für das Leben“ 2026: Christlich-Konservative stoßen auf Gegendemos",
       "excerpt": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet. mehr...",
       "url": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
       "publishedAt": "2026-09-19T16:35:00.000Z",
@@ -435,14 +523,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
-      "excerpt": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile. mehr...",
-      "url": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
-      "publishedAt": "2026-09-19T16:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Höllische Menstruationsschmerzen: „Bekommen Sie halt ein Kind“",
       "excerpt": "Um höllische Regelbeschwerden in den Griff zu bekommen, solle unsere Autorin einfach schwanger werden, sagt die Ärztin. Und betreibt damit Medical Gaslighting. mehr...",
       "url": "https://taz.de/Hoellische-Menstruationsschmerzen/!6208401/",
@@ -451,26 +531,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "LNG-Boom in Mosambik: Das Gas ist da. Der Wohlstand nicht",
-      "excerpt": "Mosambik setzt auf Milliardeninvestitionen in Erdgas. Doch die versprochenen Jobs und Entwicklungschancen für viele Menschen bleiben aus. mehr...",
-      "url": "https://taz.de/LNG-Boom-in-Mosambik/!6197785/",
-      "publishedAt": "2026-09-19T16:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Welle der KI-Furcht: Das KI-Kartenhaus",
       "excerpt": "Immer mehr KI-Unternehmen warnen vor den Gefahren ihrer Technologie, die sie nicht mehr unter Kontrolle haben. Müssen wir jetzt in Panik verfallen? mehr...",
       "url": "https://taz.de/Welle-der-KI-Furcht/!6208375/",
       "publishedAt": "2026-09-19T16:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Landtagswahlen und Rechtsextreme: Auf der Jagd nach schlechten Nachrichten",
-      "excerpt": "Die Medien tragen mit negativer Berichterstattung zu den Erfolgen der AfD bei. Deshalb braucht es kein Schönreden, wohl aber mehr Ausgewogenheit. mehr...",
-      "url": "https://taz.de/Landtagswahlen-und-Rechtsextreme/!6208404/",
-      "publishedAt": "2026-09-19T16:08:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -528,14 +592,6 @@
       "url": "https://www.deutschlandfunk.de/frueher-testen-gezielter-foerdern-was-brauchen-kinder-vor-der-schule-100.html",
       "publishedAt": "2026-09-19T12:05:01.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
-      "excerpt": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen. mehr...",
-      "url": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
-      "publishedAt": "2026-09-19T11:21:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -634,22 +690,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Dänemark und USA verkünden Einigung im Grönland-Streit",
-      "excerpt": "Mit seinen Forderungen und Drohungen in Bezug auf Grönland sorgte US-Präsident Trump für Spannungen in der NATO. Nun wollen die USA, Dänemark und Grönland ein Abkommen schließen. Laut Grönlands Regierungschef soll es all",
-      "url": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
-      "publishedAt": "2026-09-18T23:54:48.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-      "excerpt": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von",
-      "url": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
-      "publishedAt": "2026-09-18T22:40:52.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Stimmung in Deutschland: »Ob ich die wähle oder die – es ändert sich nichts« - SPIEGEL TV",
       "excerpt": "Der Wahlsieg der AfD in Sachsen-Anhalt erschüttert nicht nur das politische Berlin. Doch was sagen die Menschen genau?",
@@ -682,14 +722,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Entwicklungshilfe: Wie die GIZ im Jemen 15 Millionen Euro verlor",
-      "excerpt": "Ortskräfte ergaunerten von der deutschen Entwicklungshilfeorganisation GIZ im Jemen mehr als eine Million Euro. Noch größerer Schaden entstand, weil das Staatsunternehmen den Überblick über seine Akten verlor – und sie t",
-      "url": "https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss",
-      "publishedAt": "2026-09-18T16:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
       "excerpt": "Kristin Brinker tritt zum dritten Mal als Spitzenkandidatin der AfD in Berlin an. Ihre Partei kann mit Zuwächsen rechnen. Doch eine Regierungsoption hat sie wohl nicht; niemand will mit ihr koalieren. Von Jonas Winterman",
@@ -698,44 +730,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Spritpreise: Regierung offenbar vor Einigung auf Tankpreisdeckel",
-      "excerpt": "Nach SPIEGEL-Informationen steht die Bundesregierung kurz vor einer Einigung auf ein Spritpreis-Entlastungspaket. Teil davon soll ein Tankpreisdeckel sein. Noch heute könnte die Einigung verkündet werden.",
-      "url": "https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss",
-      "publishedAt": "2026-09-18T16:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News des Tages: Spritpreise, Tarnkappenbomber F-35, Wahlen",
-      "excerpt": "Die Regierung steht offenbar vor einer Einigung für Entlastungen für Autofahrer. Deutschland will mit neuem F-35-Tarnkappenjet einen »Quantensprung« machen. Und Schwesig überholt in Umfragen die AfD. Das ist die Lage am ",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss",
-      "publishedAt": "2026-09-18T15:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Die AfD und ihr Spitzenpersonal: Zwischen Volksnähe und Krawall",
       "excerpt": "Die Landtagswahlen in Sachsen-Anhalt und jetzt in Mecklenburg-Vorpommern sind bei der AfD geprägt von einem anderen Typ Politiker als zuvor. Welche Strategie steckt dahinter? Benjamin Großkopff analysiert die Inszenierun",
       "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mecklenburg-vorpommern-strategie-100.html",
       "publishedAt": "2026-09-18T14:27:34.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Bundeswehr: Boris Pistorius nimmt ersten F-35-Tarnkappenjet in den USA entgegen",
-      "excerpt": "Mit einem actiongeladenen Video kündigt Lockheed Martin die Übergabe des ersten Tarnkappenjets an Deutschland an. Boris Pistorius nimmt ihn in Texas entgegen. Kritik gibt es vor allem wegen der hohen Kosten.",
-      "url": "https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss",
-      "publishedAt": "2026-09-18T14:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin-Wahl: Stefan Evers war für die CDU nur Ersatz. Kann er trotzdem gewinnen?",
-      "excerpt": "Weil Kai Wegner wegen Lügenvorwürfen als Spitzenkandidat der Berliner CDU zurücktreten musste, sprang Stefan Evers ein. Der ist Merkel-Fan – und versucht es im Wahlkampf mit Polarisierung.",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-stefan-evers-war-fuer-die-cdu-nur-ersatz-kann-er-trotzdem-gewinnen-a-c538972b-6781-4f1e-afa3-51f87915619f#ref=rss",
-      "publishedAt": "2026-09-18T13:11:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
