@@ -1,36 +1,92 @@
 {
-  "updatedAt": "2026-09-20T17:29:39.665Z",
+  "updatedAt": "2026-09-20T19:45:03.830Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Berlin und Mecklenburg-Vorpommern - Diese Themen haben die Wahlen entschieden",
-      "excerpt": "Berlin un Mecklenburg-Vorpommern haben gewählt. Das war für die Bürger wichtig.",
-      "url": "https://www.bild.de/politik/inland/berlin-und-mecklenburg-vorpommern-diese-themen-haben-die-wahlen-entschieden-6aaeac81556d2f0b574e9228",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "title": "SPD-Politikerin irritiert - Schwesig wählen für die AfD? Versprecher im ZDF",
+      "excerpt": "ZDF-Moderatorin legt Schwesig im Wahl-Interview ein falsches AfD-Zitat in den Mund.",
+      "url": "https://www.bild.de/politik/inland/shakuntala-banerjee-schraeger-versprecher-zdf-interview-mit-schwesig-6ab023a779d37abec14f1682",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Wahl in Berlin und Mecklenburg-Vorpommern - Linksaußen in Berlin, Rechtsaußen in Meck-Pomm",
+      "title": "Wahlen in Berlin und Meck-Pomm - DIE MITTE MACHT DEN ABGANG",
       "excerpt": "Berlin und Mecklenburg-Vorpommern haben gewählt. Alle Ergebnisse im Überblick.",
       "url": "https://www.bild.de/politik/inland/wahlen-in-berlin-und-mecklenburg-vorpommern-die-ergebnisse-6aafbe78b1857e86757a8281",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Bundeskanzler zu den Wahlen - Friedrich Merz spricht von „Desaster“",
-      "excerpt": "Überraschung am Wahlabend! Nach den ersten Prognosen sprach sofort Bundeskanzler Merz.",
-      "url": "https://www.bild.de/politik/inland/kanzler-in-der-cdu-zentrale-merz-spricht-von-desaster-6aaffaf5b1857e86757a8752",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "title": "BILD-Chefin Marion Horn - „Der Kanzler wird zum Steigbügelhalter der Extremisten“",
+      "excerpt": "BILD-Chefredakteurin Marion Horn ordnet den Ausgang der Landtagswahl in Mecklenburg-Vorpommern und die Abgeordnetenhauswahl in Berlin ein.",
+      "url": "https://www.bild.de/politik/bild-chefin-marion-horn-der-kanzler-wird-zum-steigbuegelhalter-der-extremisten-6aafdff079d37abec14f1179",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Paul Ronzheimer zu Wahlergebnis - „Wird für massiven Druck auf Kanzler sorgen“",
-      "excerpt": "BILD-Vize Paul Ronzheimer ordnet den Ausgang der Wahlen in Mecklenburg-Vorpommern und Berlin ein.",
-      "url": "https://www.bild.de/politik/paul-ronzheimer-zu-wahlergebnis-wird-fuer-massiven-druck-auf-kanzler-sorgen-6aafdfd079d37abec14f1170",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "title": "Eilmeldung - Putins Partei gewinnt Parlamentswahl",
+      "excerpt": "Putins Machtpartei meldet klaren Sieg, doch echte Opposition war nicht zugelassen.",
+      "url": "https://www.bild.de/politik/eilmeldung-putins-partei-gewinnt-parlamentswahl-in-russland-6ab020f8b1857e86757a8ab9",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Wahl-Sieg in Berlin - Linke feiern mit Multi-Kulti-Tanz",
+      "excerpt": "Die Linken gewinnen die Abgeordnetenhauswahl in Berlin mit deutlichem Vorsprung zur CDU.",
+      "url": "https://www.bild.de/politik/nach-wahl-sieg-in-berlin-linke-feiern-mit-multi-kulti-tanz-6aafdf6c79d37abec14f1163",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Politikchef Jan Schäfer - „Der Links-Schock in Berlin ist jetzt da“",
+      "excerpt": "BILD-Politikchef Jan Schäfer ordnet den Ausgang der Wahlen in Mecklenburg-Vorpommern und Berlin ein.",
+      "url": "https://www.bild.de/politik/bild-politikchef-jan-schaefer-der-links-schock-in-berlin-ist-jetzt-da-6aafdfa879d37abec14f1167",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach der Wahlklatsche - CDU-Generalsekretärin im BILD-Interview",
+      "excerpt": "In Berlin stellt sich CDU-Generalsekretärin Franziska Hoppermann hinter Kanzler Friedrich Merz – trotz wachsender Kritik und schwach...",
+      "url": "https://www.bild.de/politik/nach-der-wahlklatsche-cdu-generalsekretaerin-im-bild-interview-6ab02433708e760b5e065833",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kurz-Rede nach Wahl-Knall - Merz versucht die Flucht nach vorn",
+      "excerpt": "Nach Wahlschlappen wirbt Merz als Reformkanzler um Zeit und Vertrauen der Union.",
+      "url": "https://www.bild.de/politik/inland/kurz-rede-nach-wahl-knall-merz-versucht-die-flucht-nach-vorn-6ab0080879d37abec14f141f",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Linken-Sieg in Berlin - Zentralrat der Juden schlägt Alarm",
+      "excerpt": "Zentralratschef warnt vor Regierungsbeteiligung der Linken wegen Judenhass-Vorwürfen.",
+      "url": "https://www.bild.de/politik/inland/josef-schuster-warnt-nach-berlin-wahl-linke-nicht-ins-rathaus-6ab019ae708e760b5e06575e",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bitteres Ergebnis für seine CDU - So reagiert Kai Wegner auf die Wahl-Klatsche",
+      "excerpt": "In Berlin erlebt Kai Wegner den bitteren CDU-Wahlabend mit – nachdem er die Spitzenkandidatur bereits im Juli abgegeben hatte.",
+      "url": "https://www.bild.de/politik/bitteres-ergebnis-fuer-seine-cdu-so-reagiert-kai-wegner-auf-die-wahl-klatsche-6ab01deb79d37abec14f15fe",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Reaktion auf die Wahl-Klatsche - CDU-Spitzenkandidat Stefan Evers im BILD-Interview",
+      "excerpt": "Nach der Wahl-Klatsche für die CDU tritt Spitzenkandidat Stefan Evers (46) in Berlin vor die Kameras und reagiert auf das bittere Er...",
+      "url": "https://www.bild.de/politik/reaktion-auf-die-wahl-klatsche-cdu-spitzenkandidat-stefan-evers-im-bild-interview-6ab019e3708e760b5e065766",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +94,31 @@
       "title": "Kommentar von BILD-Chefin Marion Horn - Merz zieht die CDU nach unten",
       "excerpt": "In Meck-Pomm scheitert die CDU fast an der 5-Prozent-Hürde.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-bild-chefin-marion-horn-merz-zieht-die-cdu-nach-unten-6ab00b0079d37abec14f1470",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Berlin und Mecklenburg-Vorpommern - Diese Themen haben die Wahlen entschieden",
+      "excerpt": "Berlin un Mecklenburg-Vorpommern haben gewählt. Das war für die Bürger wichtig.",
+      "url": "https://www.bild.de/politik/inland/berlin-und-mecklenburg-vorpommern-diese-themen-haben-die-wahlen-entschieden-6aaeac81556d2f0b574e9228",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bundeskanzler zu den Wahlen - Friedrich Merz spricht von „Desaster“",
+      "excerpt": "Überraschung am Wahlabend! Nach den ersten Prognosen sprach sofort Bundeskanzler Merz.",
+      "url": "https://www.bild.de/politik/inland/kanzler-in-der-cdu-zentrale-merz-spricht-von-desaster-6aaffaf5b1857e86757a8752",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Paul Ronzheimer zu Wahlergebnis - „Wird für massiven Druck auf Kanzler sorgen“",
+      "excerpt": "BILD-Vize Paul Ronzheimer ordnet den Ausgang der Wahlen in Mecklenburg-Vorpommern und Berlin ein.",
+      "url": "https://www.bild.de/politik/paul-ronzheimer-zu-wahlergebnis-wird-fuer-massiven-druck-auf-kanzler-sorgen-6aafdfd079d37abec14f1170",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +126,7 @@
       "title": "Manuela Schwesig - „Das war die schwerste Landtagswahl“",
       "excerpt": "Nach der Landtagswahl in Mecklenburg-Vorpommern meldet sich Ministerpräsidentin Manuela Schwesig zu Wort.",
       "url": "https://www.bild.de/politik/manuela-schwesig-das-war-die-schwerste-landtagswahl-6aafdf3d79d37abec14f1158",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +134,7 @@
       "title": "Die Linke feiert in Berlin - „Wir machen Berlin zu einem besseren Ort“",
       "excerpt": "Die Linken gewinnen bei der Abgeordnetenhauswahl in Berlin deutlich.",
       "url": "https://www.bild.de/politik/die-linke-feiert-in-berlin-wir-machen-berlin-zu-einem-besseren-ort-6aafdefa79d37abec14f114c",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
@@ -62,111 +142,63 @@
       "title": "„Es ist ein Desaster“ - Die ganze Merz-Erklärung im Video",
       "excerpt": "Merz kritisiert die CDU scharf nach den Wahlen in MV und Berlin.",
       "url": "https://www.bild.de/politik/merz-zu-wahlergebnis-es-ist-ein-desaster-6aaffbfb708e760b5e0654a3",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Vize Paul Ronzheimer - „Merz kämpft um seinen Job“",
-      "excerpt": "BILD-Vize Paul Ronzheimer ordnet den Ausgang der Landtagswahl in Mecklenburg-Vorpommern und der Abgeordnetenhauswahl in Berlin ein.",
-      "url": "https://www.bild.de/politik/bild-vize-paul-ronzheimer-merz-kaempft-um-seinen-job-6ab009e3708e760b5e0655d1",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Irrer Plan für Washington - Trump will Drohnen-Basis in seinem Triumphbogen",
-      "excerpt": "Trump plant einen riesigen Triumphbogen als streng gesicherte Drohnen-Basis.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-triumphbogen-soll-militaerbasis-mit-drohnen-werden-6aafd6ebb1857e86757a848a",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Eilmeldung - Prognosen für Berlin und Meck-Pomm",
-      "excerpt": "In Berlin und Mecklenburg-Vorpommern wurde gewählt. Hier die ARD-Prognosen! Berlin: CDU Linke AfD Grüne SPD BSW Sonstige Mecklen...",
-      "url": "https://www.bild.de/politik/eilmeldung-prognosen-fuer-berlin-und-meck-pomm-6aafd2bd708e760b5e065195",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Eilmeldung - Merz kündigt Erklärung für kurz nach 18 Uhr an",
-      "excerpt": "Mehr gleich bei BILD.",
-      "url": "https://www.bild.de/politik/eilmeldung-merz-kuendigt-erklaerung-fuer-kurz-nach-18-uhr-an-6aaffaa4fc619be80f3c462c",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auftakt in die Wahlnacht - Merz ist in der CDU-Zentrale angekommen",
-      "excerpt": "In Berlin beginnt für Friedrich Merz die lange Wahlnacht: Der Bundeskanzler ist in der CDU-Zentrale angekommen, wo die Parteispitze ...",
-      "url": "https://www.bild.de/politik/auftakt-in-die-wahlnacht-merz-ist-in-der-cdu-zentrale-angekommen-6aafec7fb1857e86757a8626",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Superwahljahr 2026 - Anspannung EXTREM",
-      "excerpt": "Tag der Entscheidung: Heute wird in Mecklenburg-Vorpommern und Berlin gewählt.",
-      "url": "https://www.bild.de/politik/inland/superwahljahr-2026-schwesig-in-mv-gegen-afd-linke-in-berlin-gegen-cdu-6aafc7d579d37abec14f0fab",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die BILD-Wahlsendung - Michael Engelberg im Konrad-Adenauer-Haus",
-      "excerpt": "In Berlin und Mecklenburg-Vorpommern haben die Wahllokale geöffnet. Bis 18 Uhr können die Bürger abstimmen. In beiden Bundesländern ...",
-      "url": "https://www.bild.de/politik/die-bild-wahlsendung-michael-engelberg-vom-konrad-adenauer-haus-6aad3bf6b1857e86757a63c2",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Die BILD-Wahlsendung - Meltem Seker bei Der Linken in Berlin",
-      "excerpt": "In Berlin und Mecklenburg-Vorpommern haben die Wahllokale geöffnet. Bis 18 Uhr können die Bürger abstimmen. In beiden Bundesländern ...",
-      "url": "https://www.bild.de/politik/die-bild-wahlsendung-meltem-seker-bei-der-linken-in-berlin-6aad4c6c708e760b5e06351e",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kolumne: Geht das nur mir so? - Wen wähle ich, wenn ich keinen wählen will?",
-      "excerpt": "Viele Berliner wollen wählen, finden aber keine Partei, der sie vertrauen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kolumne-geht-das-nur-mir-so-wen-waehle-ich-wenn-ich-keinen-waehlen-will-6aae8a8e708e760b5e06429a",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "dm-Chef rechnet mit Wirtschaftspolitik ab - „Jetzt bekommen wir die Quittung“",
-      "excerpt": "dm-Chef Werner erklärt, warum Deutschlands Abstieg selbst verschuldet ist.",
-      "url": "https://www.bild.de/politik/inland/dm-chef-rechnet-mit-wirtschaftspolitik-ab-jetzt-bekommen-wir-die-quittung-6aae5799f9697bf26fd018e7",
-      "publishedAt": "2026-09-20T17:29:39.660Z",
+      "publishedAt": "2026-09-20T19:45:03.553Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Newsblog - Landtagswahl in Mecklenburg-Vorpommern: AfD laut Hochrechnung vor SPD - CDU historisch schlecht",
+      "title": "Stellungnahme - Nach Wahlen in MV und Berlin: Bundeskanzler Merz will am Reformkurs festhalten - Weidel sieht AfD als neue Volkspartei",
+      "excerpt": "Der CDU-Vorsitzende Merz will als Bundeskanzler am Reformkurs festhalten. Er äußerte sich kurz nach der Veröffentlichung der ARD-Prognose um 18 Uhr, was für einen Kanzler nach einer Landtagswahl ungewöhnlich ist.",
+      "url": "https://www.deutschlandfunk.de/nach-wahlen-in-mv-und-berlin-bundeskanzler-merz-will-am-reformkurs-festhalten-weidel-sieht-afd-als-n-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hochrechnungen - Abgeordnetenhauswahl in Berlin: Linke deutlich vor der CDU",
+      "excerpt": "In Berlin ist die Linke bei der Wahl zum Abgeordnetenhaus klar stärkste Kraft geworden.",
+      "url": "https://www.deutschlandfunk.de/abgeordnetenhauswahl-in-berlin-linke-deutlich-vor-der-cdu-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Landtagswahl - AfD in Mecklenburg-Vorpommern laut Hochrechnungen stärkste Kraft, CDU mit historisch schlechtem Ergebnis",
+      "excerpt": "Die AfD hat die Landtagswahl in Mecklenburg-Vorpommern den Hochrechnungen zufolge gewonnen.",
+      "url": "https://www.deutschlandfunk.de/afd-in-mecklenburg-vorpommern-laut-hochrechnungen-staerkste-kraft-cdu-mit-historisch-schlechtem-erge-102.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Newsblog - Landtagswahl in Mecklenburg-Vorpommern: CDU-Landeschef Peters schließt Koalition mit AfD oder der Linken aus",
       "excerpt": "Heute wurde in Mecklenburg-Vorpommern ein neuer Landtag gewählt. Im Vorfeld zeichnete sich ein Rennen zwischen SPD und AfD ab. In unserem Newsblog halten wir Sie auf dem Laufenden.",
-      "url": "https://www.deutschlandfunk.de/landtagswahl-in-mecklenburg-vorpommern-afd-laut-hochrechnung-vor-spd-cdu-historisch-schlecht-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "url": "https://www.deutschlandfunk.de/landtagswahl-in-mecklenburg-vorpommern-cdu-landeschef-peters-schliesst-koalition-mit-afd-oder-der-li-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Newsblog - Abgeordnetenhauswahl in Berlin: Hochrechnungen sehen Linke deutlich vor CDU",
-      "excerpt": "+++ Die Linke hat die Wahl in Berlin laut den Hochrechnungen gewonnen. +++ Grünen-Chef Banaszak strebt Regierung mit Linken und SPD an. +++ CDU-Spitzenkandidat Evers spricht trotz Verlusten von einem ordentlichen Ergebni",
-      "url": "https://www.deutschlandfunk.de/abgeordnetenhauswahl-in-berlin-hochrechnungen-sehen-linke-deutlich-vor-cdu-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "title": "Newsblog - Linke gewinnt in Berlin - Grüne wollen mitregieren",
+      "excerpt": "+++ Die Linke hat die Wahl in Berlin laut Hochrechnungen gewonnen. +++ Der Präsident des Zentralrats der Juden, Schuster, hat SPD und Grüne aufgefordert, der Linken nicht zu einer Regierungsmehrheit zu verhelfen. +++ Grü",
+      "url": "https://www.deutschlandfunk.de/linke-gewinnt-in-berlin-gruene-wollen-mitregieren-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Stellungnahme - Nach Wahlen in MV und Berlin: Bundeskanzler Merz will am Reformkurs festhalten",
-      "excerpt": "Der CDU-Vorsitzende Merz will als Bundeskanzler am Reformkurs festhalten. Die Reformen müssten kommen, sagte er in der CDU-Zentrale in Berlin.",
-      "url": "https://www.deutschlandfunk.de/nach-wahlen-in-mv-und-berlin-bundeskanzler-merz-will-am-reformkurs-festhalten-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "title": "Parlamentswahl in Russland - Partei \"Geeintes Russland\" von Staatschef Putin gewinnt erwartungsgemäß",
+      "excerpt": "Die Partei Geeintes Russland von Kreml-Chef Putin ist nach der dreitägigen Parlamentswahl erwartungsgemäß zur Siegerin erklärt worden.",
+      "url": "https://www.deutschlandfunk.de/partei-geeintes-russland-von-staatschef-putin-gewinnt-erwartungsgemaess-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Selenskyj kündigt Treffen mit US-Präsident Trump in New York an",
+      "excerpt": "Der ukrainische Staatschef Selenskyj hat für seinen Besuch in New York nächste Woche ein Treffen mit US-Präsident Trump angekündigt.",
+      "url": "https://www.deutschlandfunk.de/selenskyj-kuendigt-treffen-mit-us-praesident-trump-in-new-york-an-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,15 +206,23 @@
       "title": "Schulen, Straßen, Klimafolgen - Städte- und Gemeindebund fordert doppelt so viel Geld aus dem Sondervermögen",
       "excerpt": "Der Städte- und Gemeindebund hat die Bundesregierung aufgefordert, den Kommunen mehr Geld aus dem Sondervermögen bereitzustellen. Der Hauptgeschäftsführer des kommunalen Spitzenverbandes, Berghegger, sagte dem \"Kölner St",
       "url": "https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-doppelt-so-viel-geld-aus-dem-sondervermoegen-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Japanisches Meer - Nordkorea feuert zwei Kurzstreckenraketen ab - Südkorea beruft Sicherheitsrat ein",
-      "excerpt": "Nordkorea hat nach Angaben des südkoreanischen Verteidigungsministeriums zwei ballistische Kurzstreckenraketen ins Japanische Meer abgefeuert.",
-      "url": "https://www.deutschlandfunk.de/nordkorea-feuert-zwei-kurzstreckenraketen-ab-suedkorea-beruft-sicherheitsrat-ein-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "title": "Fußball-Bundesliga - Leverkusen gewinnt mit 2:0 gegen Leipzig, Schalke - Elversberg ohne Tore",
+      "excerpt": "Bayer Leverkusen auch sein zweites Heimspiel der neuen Bundesliga-Saison gewonnen.",
+      "url": "https://www.deutschlandfunk.de/leverkusen-gewinnt-mit-2-0-gegen-leipzig-schalke-elversberg-ohne-tore-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Rad-WM in Kanada - Franziska Koch gewinnt Bronze im Einzelzeitfahren - Remco Evenepoel siegt bei den Männern",
+      "excerpt": "Der belgische Radprofi Remco Evenepoel hat in Montreal erneut den Titel im Einzelzeitfahren gewonnen. Bei den Frauen sicherte sich Franziska Koch Bronze.",
+      "url": "https://www.deutschlandfunk.de/franziska-koch-gewinnt-bronze-im-einzelzeitfahren-remco-evenepoel-siegt-bei-den-maennern-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,15 +230,15 @@
       "title": "Saudi-Arabien - Ägypten, Jordanien und Kuwait verurteilen Huthi-Angriff auf Riad - US-Außenministerium warnt vor Eskalation",
       "excerpt": "Ägypten, Jordanien und Kuwait haben die Angriffe der jemenitischen Huthi-Miliz auf die saudi-arabische Hauptstadt Riad verurteilt.",
       "url": "https://www.deutschlandfunk.de/aegypten-jordanien-und-kuwait-verurteilen-huthi-angriff-auf-riad-us-aussenministerium-warnt-vor-eska-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Fußball-Bundesliga - Leverkusen gewinnt mit 2:0 gegen Leipzig",
-      "excerpt": "Bayer Leverkusen auch sein zweites Heimspiel der neuen Bundesliga-Saison gewonnen.",
-      "url": "https://www.deutschlandfunk.de/leverkusen-gewinnt-mit-2-0-gegen-leipzig-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "title": "Japanisches Meer - Nordkorea feuert zwei Kurzstreckenraketen ab - Südkorea beruft Sicherheitsrat ein",
+      "excerpt": "Nordkorea hat nach Angaben des südkoreanischen Verteidigungsministeriums zwei ballistische Kurzstreckenraketen ins Japanische Meer abgefeuert.",
+      "url": "https://www.deutschlandfunk.de/nordkorea-feuert-zwei-kurzstreckenraketen-ab-suedkorea-beruft-sicherheitsrat-ein-100.html",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,15 +246,7 @@
       "title": "Meerenge - Iranischer Parlamentspräsident Ghalibaf bekräftigt Bedingungen für Freigabe der Straße von Hormus",
       "excerpt": "Der iranische Parlamentspräsident Ghalibaf hat die Freigabe der Straße von Hormus erneut an die Umsetzung US-amerikanischer Zusagen geknüpft.",
       "url": "https://www.deutschlandfunk.de/iranischer-parlamentspraesident-ghalibaf-bekraeftigt-bedingungen-fuer-freigabe-der-strasse-von-hormu-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Duma - Russische Parlamentswahl geht zu Ende - Zwei Tote bei Drohnenangriffen auf Moskau",
-      "excerpt": "Am letzten Tag der Parlamentswahl in Russland ist die Hauptstadtregion Moskau erneut zum Ziel ukrainischer Drohnenangriffe geworden. Moskaus Bürgermeister sprach von einem beispiellosen Angriff mit mehr als 1.600 Drohnen",
-      "url": "https://www.deutschlandfunk.de/russische-parlamentswahl-geht-zu-ende-zwei-tote-bei-drohnenangriffen-auf-moskau-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +254,7 @@
       "title": "USA - Präsident Trump kündigt \"AI Force\" zur KI-Regulierung an",
       "excerpt": "US-Präsident Trump hat die Einrichtung einer Aufsichtsbehörde für Künstliche Intelligenz angekündigt.",
       "url": "https://www.deutschlandfunk.de/praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an-102.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +262,7 @@
       "title": "Künstliche Intelligenz - Studie: Menschen sind noch deutlich besser in Bilderkennung als KI-Programme",
       "excerpt": "Moderne KI-Bilderkennungsprogramme schneiden beim Erfassen von Formen und Silhouetten deutlich schlechter ab als Menschen. Das berichtet ein Forschungsteam von der New York University Grossman School of Medicine im Fachj",
       "url": "https://www.deutschlandfunk.de/studie-menschen-sind-noch-deutlich-besser-in-bilderkennung-als-ki-programme-102.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +270,7 @@
       "title": "Halle/Westfalen - Davis Cup: Deutschland nach Siegen von Zverev und Krawietz/Pütz in der Finalrunde",
       "excerpt": "Die deutsche Tennis-Mannschaft der Männer hat die Finalrunde des Davis Cups erreicht. Der Sieg gegen Kroation stand nach Siegen von Alexander Zverev und dem Doppel Kevin Krawietz/Tim Pütz vorzeitig fest.",
       "url": "https://www.deutschlandfunk.de/davis-cup-deutschland-nach-siegen-von-zverev-und-krawietz-puetz-in-der-finalrunde-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +278,7 @@
       "title": "Entlastungspaket - Wirtschaftsweise Grimm nennt neuen Tankrabatt \"zynisch\" - Kritik auch von Opposition und Sozialverbänden",
       "excerpt": "Die Pläne der Bundesregierung zur Entlastung der Bürger bei den Kraftstoffpreisen stoßen bei Sozialverbänden und der Opposition auf Kritik. Am Freitag hatten sich Union und SPD gemeinsam mit den Ländern auf ein neues Ent",
       "url": "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-nennt-neuen-tankrabatt-zynisch-kritik-auch-von-opposition-und-sozialverbaende-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,52 +286,204 @@
       "title": "Hilfswerke - Weltkindertag: Deutsches Kinderhilfswerk und Unicef fordern ein kinderfreundlicheres Deutschland",
       "excerpt": "Zum heutigen Weltkindertag appellieren Hilfswerke an Politik und Gesellschaft, Deutschland kinderfreundlicher zu gestalten.",
       "url": "https://www.deutschlandfunk.de/weltkindertag-deutsches-kinderhilfswerk-und-unicef-fordern-ein-kinderfreundlicheres-deutschland-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
+      "publishedAt": "2026-09-20T19:29:59.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Den Haag - Gewaltsame Zusammenstöße bei rechtsextremer Demonstration in den Niederlanden",
-      "excerpt": "In den Niederlanden hat es zwischen rechtsextremen Demonstranten und der Polizei gewaltsame Zusammenstöße gegeben.",
-      "url": "https://www.deutschlandfunk.de/gewaltsame-zusammenstoesse-bei-rechtsextremer-demonstration-in-den-niederlanden-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Mecklenburg-Vorpommern: Wie Menschen auf den AfD-Erfolg reagieren",
+      "excerpt": "Erst Sachsen-Anhalt, jetzt wohl auch Mecklenburg-Vorpommern: Die AfD wird nach Hochrechnungen auch im Nordosten stärkste Kraft. Wie reagieren die Menschen? Eindrücke aus Schwerin.",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wie-menschen-auf-den-afd-erfolg-reagieren-a-bd5108bc-baad-452e-b70d-c28edb93ad46#ref=rss",
+      "publishedAt": "2026-09-20T19:23:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nahost - Tote bei Angriffen im Gazastreifen und Westjordanland",
-      "excerpt": "Bei israelischen Angriffen im Gazastreifen sind nach Angaben des von der Hamas kontrollierten Gesundheitsministeriums mindestens vier Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/tote-bei-angriffen-im-gazastreifen-und-westjordanland-102.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Mecklenburg-Vorpommern: Wer bei der Landtagswahl für die AfD stimmte",
+      "excerpt": "Bei welchen Wählergruppen konnten die Parteien in Mecklenburg-Vorpommern punkten? Und wer konnte welcher Partei Stimmen abluchsen? Die Analyse in Grafiken.",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wer-bei-der-landtagswahl-fuer-die-afd-stimmte-a-c47df5fe-d195-4d8c-b50d-c1223a9684f9#ref=rss",
+      "publishedAt": "2026-09-20T19:20:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Guterres-Nachfolge - Amt der UNO-Generalsekretärin: Chiles Ex-Präsidentin Bachelet zieht Kandidatur zurück",
-      "excerpt": "Chiles frühere Präsidentin Michelle Bachelet hat ihre Kandidatur für das Amt der UNO-Generalsekretärin zurückgezogen.",
-      "url": "https://www.deutschlandfunk.de/amt-der-uno-generalsekretaerin-chiles-ex-praesidentin-bachelet-zieht-kandidatur-zurueck-102.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Journalistenverband kritisiert Trumps Hausverbot gegen Reporter",
-      "excerpt": "Die Entscheidung von US-Präsident Trump, dem Sender CNN und zwei weiteren Medien den Zugang zum Weißen Haus zu verwehren, wird von Journalisten-Organisationen kritisiert.",
-      "url": "https://www.deutschlandfunk.de/journalistenverband-kritisiert-trumps-hausverbot-gegen-reporter-100.html",
-      "publishedAt": "2026-09-20T17:24:17.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz in der Krise: Jetzt beginnen die besonders heiklen Tage für den Kanzler",
+      "excerpt": "Friedrich Merz kämpft nach dem Debakel und klammert sich an seine Ämter. Kann sich der Kanzler mit seinem Manöver vom Wahlabend retten?",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
+      "publishedAt": "2026-09-20T19:13:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
-      "excerpt": "Unmittelbar nach den ersten Prognosen für Berlin und Mecklenburg-Vorpommern hat sich Bundeskanzler Merz geäußert. Er bekräftigte, als Kanzler die aus seiner Sicht notwendigen Reformen durchsetzen zu wollen.",
+      "title": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
+      "excerpt": "Kanzler Merz hat nach den Wahlen bekräftigt, die aus seiner Sicht nötigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD räumte ein, das Thema Rente habe zu \"großer Verunsicherung\" geführt. Die AfD sie",
       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-      "publishedAt": "2026-09-20T16:54:40.000Z",
+      "publishedAt": "2026-09-20T18:41:16.000Z",
       "category": "INNENPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Berlin-Wahl: Linke siegt mit Elif Eralp laut ersten Hochrechnungen",
+      "title": "Berlin: Clan-Größe Issa Remmo auf Linken-Wahlparty – Partei distanziert sich",
+      "excerpt": "Er gilt als Oberhaupt des Remmo-Clans: Issa Remmo hat Medienberichten zufolge die Wahlparty der Neuköllner Linkspartei besucht. Dabei äußerte er sich auch zu den Antisemitismusvorwürfen gegen die Partei.",
+      "url": "https://www.spiegel.de/politik/berlin-clan-groesse-auf-linken-wahlparty-partei-distanziert-sich-a-46c82afd-a820-4d58-89f8-99340a8c91fb#ref=rss",
+      "publishedAt": "2026-09-20T18:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Kanzler angeschlagen, AfD und Linke feiern",
+      "excerpt": "In Berlin könnte die Linke Elif Eralp Bürgermeisterin werden, in Mecklenburg-Vorpommern muss Manuela Schwesig um eine Mehrheit bangen. Und wie geht es für den Kanzler weiter?",
+      "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-kanzler-angeschlagen-afd-und-linke-feiern-a-179dfce8-3e74-4610-b8fe-411f16c450a3#ref=rss",
+      "publishedAt": "2026-09-20T18:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin-Wahl: Linke überholt CDU und sorgt für politische Sensation",
+      "excerpt": "Es wurde ein Kopf-an-Kopf-Rennen erwartet, doch am Ende gewinnt die Linke mit Elif Eralp die Wahl in Berlin deutlich. Eindrücke von der Wahlparty in Kreuzberg von SPIEGEL-Redakteurin Anna Reimann.",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-linke-ueberholt-cdu-und-sorgt-fuer-politische-sensation-a-ffe054c8-7072-4686-97fb-f54c4a3d7ba0#ref=rss",
+      "publishedAt": "2026-09-20T18:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz: Erneute Wahlpleite verschärft die Kanzlerfrage",
+      "excerpt": "Die Wahlen in Mecklenburg-Vorpommern und Berlin zeigen, wie groß die Verunsicherung und Wut in Teilen des Landes sind. Aber wer in der Union Friedrich Merz feuern will, sollte es sofort tun oder schweigen.",
+      "url": "https://www.spiegel.de/politik/friedrich-merz-erneute-wahlpleite-verschaerft-die-kanzlerfrage-a-123b3bdb-f118-4541-a4a7-958b3f533f16#ref=rss",
+      "publishedAt": "2026-09-20T18:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach den Landtagswahlen: Merz spielt auf Zeit",
+      "excerpt": "Noch vor den ersten Hochrechnungen trat Kanzler Merz ans Mikro. Als Parteivorsitzender und Kanzler wolle er die Reformen voranbringen, betonte er. Der Druck auf ihn und die Bundesregierung dürfte hoch bleiben. Von Tina H",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
+      "publishedAt": "2026-09-20T18:20:08.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "AfD mit Rekordergebnissen: Stadt, Land, ein bisschen Frust",
+      "excerpt": "Die AfD fährt in Mecklenburg-Vorpommern ein Rekordergebnis ein und landet knapp vor der SPD. Berlin hingegen enttäuscht die Rechtsextremen. mehr...",
+      "url": "https://taz.de/AfD-mit-Rekordergebnissen/!6213654/",
+      "publishedAt": "2026-09-20T18:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Afrikas Sound für die Welt: Anerkennung auf globaler Bühne",
+      "excerpt": "Afrobeats aus Westafrika sind weltweit in Mode – und die Musikbranche in Afrika wächst. mehr...",
+      "url": "https://taz.de/Afrikas-Sound-fuer-die-Welt/!6197793/",
+      "publishedAt": "2026-09-20T18:18:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Castorf-Premiere im Berliner Ensemble: Der Abgrund glüht sechseinhalb Stunden",
+      "excerpt": "Klaus Manns „Mephisto“ scheint das Bühnenmaterial der Stunde zu sein. Volksbühnen-Haudegen Frank Castorf inszeniert den Roman ganz ohne Moral, aber mit großem Interesse an Fetisch und Psyche. mehr...",
+      "url": "https://taz.de/Castorf-Premiere-im-Berliner-Ensemble/!6214706/",
+      "publishedAt": "2026-09-20T18:17:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Konflikt zwischen Saudis und Huthis: Saudi-Arabien blickt sich hilfesuchend um",
+      "excerpt": "Der Angriff auf Riad markiert den Höhepunkt der Eskalation zwischen der Huthi-Miliz und den Saudis. Können Letztere auf internationalen Beistand setzen? mehr...",
+      "url": "https://taz.de/Konflikt-zwischen-Saudis-und-Huthis/!6214749/",
+      "publishedAt": "2026-09-20T18:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Exxonmobil prognostiziert Klimawandel: US-Ölriese rechnet 2050 mit Erderhitzung von bis zu 3 Grad",
+      "excerpt": "Exxonmobil ist pessimistisch beim Klimawandel. Laut dem Ölkonzern, der selbst stark dazu beiträgt, gibt vor allem die Nutzung von Kohle den Ausschlag. mehr...",
+      "url": "https://taz.de/Exxonmobil-prognostiziert-Klimawandel/!6149302/",
+      "publishedAt": "2026-09-20T18:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Heimliche Aufnahmen mit Smart Glasses: Eine neue Angst für Flinta*",
+      "excerpt": "Nach einem Übergriff bewegt unsere Kolumnistin sich verängstigt im öffentlichen Raum. Dazu tragen alle bei, die Smart Glasses tragen. mehr...",
+      "url": "https://taz.de/Heimliche-Aufnahmen-mit-Smart-Glasses/!6212481/",
+      "publishedAt": "2026-09-20T18:16:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: CDU rutscht in Mecklenburg-Vorpommern laut Hochrechnungen auf 5,0 Prozent - die Liveanalyse",
+      "excerpt": "Der CDU droht ein historisches Desaster: Die Partei muss in Mecklenburg-Vorpommern um den Einzug in den Landtag zittern. Das BSW fällt laut Hochrechnungen unter die Fünfprozenthürde. Die Live-Analyse.",
+      "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-wahlbeteiligung-zeichnet-sich-ab-a-69aea6a5-b618-4d80-99c2-87575ce49412#ref=rss",
+      "publishedAt": "2026-09-20T18:00:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
+      "excerpt": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein. mehr...",
+      "url": "https://taz.de/SPD-Ergebnis-in-Mecklenburg-Vorpommern/!6213650/",
+      "publishedAt": "2026-09-20T17:55:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wahlen in Berlin und MV: Eine Volkspartei blickt in den Abgrund",
+      "excerpt": "Noch nie hat die CDU schlechter abgeschnitten: In Mecklenburg-Vorpommern liegt sie bei 5 Prozent, in Berlin hinter der Linken. Merz tritt die Flucht nach vorn an. mehr...",
+      "url": "https://taz.de/Wahlen-in-Berlin-und-MV/!6213624/",
+      "publishedAt": "2026-09-20T17:53:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
+      "excerpt": "Die Hochrechnungen sehen die Grünen in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde. Sie könnten regieren – trotz Ärger über Manuela Schwesig. mehr...",
+      "url": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
+      "publishedAt": "2026-09-20T17:47:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Linke gewinnt Abgeordnetenhauswahl: Berlin wird rot",
+      "excerpt": "Elif Eralp führt die Linke zu einem historischen Wahlsieg in Berlin. Der Vorsprung vor der CDU ist groß. Auch die AfD hat sie in Schach gehalten. mehr...",
+      "url": "https://taz.de/Linke-gewinnt-Abgeordnetenhauswahl/!6213639/",
+      "publishedAt": "2026-09-20T17:43:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wer zieht ein ins Berliner Rote Rathaus?: Demut statt Krach",
+      "excerpt": "Mit der CDU oder mit der Linkspartei? Haben SPD und Grüne in Berlin noch eine Wahl? Am Ende könnte die Mehrheit der Sitze den Ausschlag geben. mehr...",
+      "url": "https://taz.de/Wer-zieht-ein-ins-Berliner-Rote-Rathaus/!6213641/",
+      "publishedAt": "2026-09-20T17:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Berliner Linkspartei: (Fast) alles richtig gemacht",
+      "excerpt": "Die Linkspartei etabliert sich als klar stärkste Kraft im linken Lager. Daran dürfte sich so schnell nichts ändern – selbst wenn sie künftig regiert. mehr...",
+      "url": "https://taz.de/Berliner-Linkspartei/!6213518/",
+      "publishedAt": "2026-09-20T17:39:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "AfD bei Berlin-Wahl: Hinter Linken, CDU und den eigenen Ansprüchen",
+      "excerpt": "Die AfD steht bei rund 14 Prozent und nur auf Platz 4 bei der Wahl zum Berliner Abgeordnetenhaus. Rückenwind nach der Sachsen-Anhalt-Wahl blieb offenbar aus. mehr...",
+      "url": "https://taz.de/AfD-bei-Berlin-Wahl/!6213642/",
+      "publishedAt": "2026-09-20T17:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Bündnis Sahra Wagenknecht: Große Klappe, zu wenig dahinter",
+      "excerpt": "Das BSW liegt am Wahlabend in Berlin und Mecklenburg-Vorpommern nur bei um die 5 Prozent. Spaltung und Schwurbelei haben die ganz große Wirkung verfehlt mehr...",
+      "url": "https://taz.de/Buendnis-Sahra-Wagenknecht/!6213656/",
+      "publishedAt": "2026-09-20T17:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin-Wahl 2026: Erste Hochrechnungen sehen Linke vor CDU in der Hauptstadt",
       "excerpt": "Berlin hat gewählt. Erste Prognosen deuten einen Wechsel im Roten Rathaus an. Die Linke liegt mit Spitzenkandidatin Elif Eralp vor der CDU, die bisher den Bürgermeister stellte.",
       "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-linke-siegt-mit-elif-eralp-laut-ersten-hochrechnungen-a-6411c25b-0b4d-4f52-8d96-2f0bb21185e4#ref=rss",
       "publishedAt": "2026-09-20T16:52:00.000Z",
@@ -315,7 +499,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Mecklenburg-Vorpommern: AfD gewinnt laut Hochrechnungen, SPD knapp dahinter",
+      "title": "Mecklenburg-Vorpommern-Wahl: AfD vor SPD, CDU muss um Mandate zittern",
       "excerpt": "Die AfD gewinnt laut Hochrechnungen die Landtagswahl in Mecklenburg-Vorpommern. Die SPD von Manuela Schwesig liegt dahinter, die CDU muss zittern.",
       "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-gewinnt-laut-horchrechnungen-spd-knapp-dahinter-kopie-a-177d4efc-e890-4204-901f-1ab004b617e3#ref=rss",
       "publishedAt": "2026-09-20T16:35:00.000Z",
@@ -323,7 +507,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Wahlen in Berlin: Linke siegt deutlich vor CDU, SPD abgeschlagen",
+      "title": "Berlin-Wahl 2026: Linke deutlich vor CDU in der Hauptstadt",
       "excerpt": "Berlin hat gewählt. Erste Prognosen deuten einen Wechsel im Roten Rathaus an. Die Linke liegt mit Spitzenkandidatin Elif Eralp vor der CDU, die bisher den Bürgermeister stellte.",
       "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-linke-laut-ersten-prognosen-deutlich-vor-cdu-a-064ba056-5caf-4120-81ff-c76f8b4fcefe#ref=rss",
       "publishedAt": "2026-09-20T16:21:00.000Z",
@@ -347,7 +531,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Mecklenburg-Vorpommern: AfD gewinnt laut Prognosen, SPD knapp dahinter",
+      "title": "Mecklenburg-Vorpommern-Wahl: AfD gewinnt knapp vor SPD, CDU muss bangen",
       "excerpt": "Die AfD gewinnt laut Prognosen auch die Landtagswahl in Mecklenburg-Vorpommern. Die SPD von Manuela Schwesig liegt dahinter, die CDU dürfte knapp den Einzug ins Parlament schaffen.",
       "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-gewinnt-laut-prognosen-spd-knapp-dahinter-a-8bb349c7-f77d-42ea-b390-33af06515368#ref=rss",
       "publishedAt": "2026-09-20T16:11:00.000Z",
@@ -370,26 +554,10 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
-      "excerpt": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten. mehr...",
-      "url": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
-      "publishedAt": "2026-09-20T16:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Friedrich Merz: Rede zu Wahlprognosen im Bundeskanzleramt – Livestream",
       "excerpt": "Bundeskanzler Friedrich Merz tritt nach den Prognosen in Mecklenburg-Vorpommern und Berlin vor die Presse. Sehen Sie hier seine Erklärung.",
       "url": "https://www.spiegel.de/politik/friedrich-merz-rede-zu-wahlprognosen-im-bundeskanzleramt-livestream-a-091bd9dd-4806-40c1-ae4b-facd757a6f6d#ref=rss",
-      "publishedAt": "2026-09-20T16:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Der Kanzler ist schwer angeschlagen, die SPD bekommt eine Schattenvorsitzende, AfD und Linke feiern – die Lehren aus den Wahlen - die Liveanalyse",
-      "excerpt": "Friedrich Merz will Kanzler und CDU-Chef bleiben. Mit seinem Statement nach den Landtagswahlen versucht er, die Debatte über seine Zukunft im Keim zu ersticken. Die Live-Analyse.",
-      "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-wahlbeteiligung-zeichnet-sich-ab-a-69aea6a5-b618-4d80-99c2-87575ce49412#ref=rss",
       "publishedAt": "2026-09-20T16:09:00.000Z",
       "category": "POLITIK"
     },
@@ -451,34 +619,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Argentinien unter Milei: Geschwächte Opposition beim „Marsch des Zorns“",
-      "excerpt": "Die peronistische Opposition samt Gewerkschaftsverband CGT bleibt dem Protest linker Parteien und Organisationen gegen die Regierungspolitik fern. mehr...",
-      "url": "https://taz.de/Argentinien-unter-Milei/!6214824/",
-      "publishedAt": "2026-09-20T14:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "WNBA nach der Basketball-WM: Doubles, Triples und Dunkings",
-      "excerpt": "Wenige Tage nach der Basketball-WM in Berlin startet die WNBA in die heiße Phase vor den Playoffs. Und ihre Stars spielen, als wäre nichts gewesen. mehr...",
-      "url": "https://taz.de/WNBA-nach-der-Basketball-WM/!6214720/",
-      "publishedAt": "2026-09-20T14:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Fast-Militärvorfall USA/China: KI als neues militärisches Risiko",
       "excerpt": "Das US‑Militär bereitete offenbar einen Angriff auf ein Schiff aus China vor, das angeblich Atomwaffen transportierte. Doch das war ein Fehler einer KI. mehr...",
       "url": "https://taz.de/Fast-Militaervorfall-USA-China/!6214745/",
       "publishedAt": "2026-09-20T14:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Werder Bremens unerwarteter Aufschwung: Jede Menge gute Geschichten",
-      "excerpt": "Womit anfangen? Mit dem Comeback von Weiser, der Willenskraft von Füllkrug oder der Spielintelligenz von Grüll? Werder Bremen verblüfft derzeit alle. mehr...",
-      "url": "https://taz.de/Werder-Bremens-unerwarteter-Aufschwung/!6214696/",
-      "publishedAt": "2026-09-20T14:03:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -498,22 +642,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Grönland-Abkommen: Nicht klein beigeben",
-      "excerpt": "Die USA und Grönland haben ein Abkommen zur Sicherheit der Insel getroffen, alle Seiten sind zufrieden. Aber das hätte man auch anders haben können. mehr...",
-      "url": "https://taz.de/Groenland-Abkommen/!6214715/",
-      "publishedAt": "2026-09-20T13:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Fußball, tanken, wählen in Deutschland: Wenn der Bundestrainer Journalismus nicht versteht",
-      "excerpt": "Jürgen Klopp zeigt sich enttäuscht von den Medien, die den Nationalmannschaftskader leakten. Er ist nicht der Einzige, der Druck ausübt. mehr...",
-      "url": "https://taz.de/FussballTanken-Waehlen-in-Deutschland/!6214754/",
-      "publishedAt": "2026-09-20T13:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
       "excerpt": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht",
@@ -522,51 +650,11 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Kritik an Spritpreis-Entlastungen: Klimaschädlich, teuer, ungerecht",
-      "excerpt": "Wieder Rabatte für Verbrenner-Fahrer*innen: Ex­per­t*in­nen aus Ökonomie, Umwelt- und Verbraucherschutz kritisieren Tankrabatt und Spritpreisdeckel. mehr...",
-      "url": "https://taz.de/Kritik-an-Spritpreis-Entlastungen/!6214717/",
-      "publishedAt": "2026-09-20T12:54:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Das Detail zum Bundesligaspieltag: Klopps Wille geschehe",
-      "excerpt": "Bundestrainer Klopp rockt die Bundesliga. Die von ihm nominierten Spieler sind magisch beflügelt. Fast alle Resultate sind nur durch ihn erklärbar. mehr...",
-      "url": "https://taz.de/Das-Detail-zum-Bundesligaspieltag/!6214711/",
-      "publishedAt": "2026-09-20T12:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Berlin-Wahl 2026: Spitzenkandidaten geben ihre Stimme ab",
       "excerpt": "Zweieinhalb Millionen Menschen können in Berlin ein neues Landesparlament wählen – erstmals sind auch 16- und 17-Jährige wahlberechtigt. Die Prognosen sehen ein enges Rennen zwischen CDU und Linken voraus.",
       "url": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-2026-spitzenkandidaten-geben-ihre-stimme-ab-a-97ce406b-ac79-40de-a13e-cfddf98d4a24#ref=rss",
       "publishedAt": "2026-09-20T12:02:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Trumps Angriffe auf Linke: Gemeint sind wir alle",
-      "excerpt": "Nach Druck aus den USA stellt das Tech-Kollektiv Autistici/Inventati seinen Dienst ein. Damit verschwindet auch der Blog unserer Autorin. mehr...",
-      "url": "https://taz.de/Trumps-Angriffe-auf-Linke/!6214682/",
-      "publishedAt": "2026-09-20T11:46:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Neuer Tankrabatt: Nichts dazugelernt",
-      "excerpt": "Die Bundesregierung einigt sich auf einen weiteren Tankrabatt. Aber der entlastet nicht nur Geringverdienende, sondern bedient vor allem Reiche und Mineralölkonzerne. mehr...",
-      "url": "https://taz.de/Neuer-Tankrabatt/!6214691/",
-      "publishedAt": "2026-09-20T10:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Taktisch-wählen-Kampagne von Campact: Die Kritik der Linkspartei ist überzogen, aber berechtigt",
-      "excerpt": "Mit ihrer Kampagne, bei den Wahlen in Ostdeutschland taktisch zu wählen, überzieht Campact sein Engagement zur Rettung der Demokratie. mehr...",
-      "url": "https://taz.de/Taktisch-waehlen-Kampagne-von-Campact/!6208405/",
-      "publishedAt": "2026-09-20T09:54:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -594,51 +682,11 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Wahl in Berlin: Jugendliche ab 16 dürfen erstmals ihre Stimme abgeben",
-      "excerpt": "Was für das Europaparlament schon möglich war, geht jetzt auch in Berlin: Jugendliche ab 16 Jahren dürfen wählen. Da ein knappes Ergebnis erwartet wird, könnte das entscheidend sein.",
-      "url": "https://www.spiegel.de/politik/deutschland/wahl-in-berlin-jugendliche-ab-16-duerfen-erstmals-ihre-stimme-abgeben-a-09e72085-2f3e-41aa-b1f6-09e797535c1f#ref=rss",
-      "publishedAt": "2026-09-20T06:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAZ.DE",
-      "title": "Wahl Berlin und Mecklenburg-Vorpommern: Rot-rot-grüne Mehrheiten in Berlin und in Mecklenburg denkbar",
-      "excerpt": "Die Linke wird in Berlin klar stärkste Partei. CDU gratuliert ihr. In Mecklenburg-Vorpommern liegt die AfD knapp vor der SPD. Grüne, BSW und auch CDU bei rund 5 Prozent. Merz will weitermachen. mehr...",
+      "title": "Wahl Berlin und Mecklenburg-Vorpommern: CDU und BSW zittern an der Fünfprozenthürde",
+      "excerpt": "Die Linke wird in Berlin klar stärkste Partei. CDU offenbar ohne Regierungsoption. In Mecklenburg liegt die AfD knapp vor der SPD. BSW und auch CDU zittern bei 5 Prozent. mehr...",
       "url": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
       "publishedAt": "2026-09-20T06:55:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Jugendzentrum in Berlin: Gebt der Potse ein Zuhause!",
-      "excerpt": "Der Jugendclub Potse ist eines der ältesten selbstverwalteten Jugendzentren Berlins. Doch findet er nur schwer einen Ort, an dem er bleiben kann. mehr...",
-      "url": "https://taz.de/Die-Potse-in-Berlin/!6208280/",
-      "publishedAt": "2026-09-20T06:55:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Wahlen in Berlin und Mecklenburg-Vorpommern - Tag des Mülls",
-      "excerpt": "Heute wird in Berlin und Mecklenburg-Vorpommern gewählt. In der Hauptstadt gab es im Wahlkampf vor allem ein Thema. Das ist die Lage am Sonntag.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-wahlen-in-berlin-und-mecklenburg-vorpommern-kuenstliche-intelligenz-a-8919b04d-0ecb-4a6d-9c7b-b7d51004667b#ref=rss",
-      "publishedAt": "2026-09-20T06:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin-Wahl 2026: Welche Koalitionen jetzt realistisch sind",
-      "excerpt": "Fünf Parteien, zwei Lager, ein Rotes Rathaus: Berlin steht vor einer Wahl mit offenem Ausgang. Welche Koalitionen realistisch sind und was die Skandale der vergangenen Wochen daran ändern könnten.",
-      "url": "https://www.spiegel.de/politik/berlin-wahl-2026-welche-koalitionen-jetzt-realistisch-sind-a-7c3898b3-15e5-4177-8717-04d65a69e687#ref=rss",
-      "publishedAt": "2026-09-20T05:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Mecklenburg-Vorpommern: Was Sie über die Landtagswahl wissen sollten",
-      "excerpt": "Profitiert die AfD vom Triumph in Sachsen-Anhalt? Kann der Mann mit dem Fischbrötchen den Bundeskanzler retten? Und wird Manuela Schwesig zur wichtigsten Frau der SPD? Fragen und Antworten zur Wahl.",
-      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-was-sie-ueber-die-landtagswahl-wissen-sollten-a-83418abb-d0a2-40db-80cd-3cc2e694be66#ref=rss",
-      "publishedAt": "2026-09-20T05:51:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -674,30 +722,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Carsten Breuer zur Nato: Politiker fordern rasche Neubesetzung an der Bundeswehr-Spitze",
-      "excerpt": "Der Generalinspekteur der Bundeswehr, Carsten Breuer, übernimmt 2027 den Vorsitz des Nato-Militärausschusses. Politik und Bundeswehrverband fordern, seine Nachfolge sofort zu klären.",
-      "url": "https://www.spiegel.de/politik/carsten-breuer-zur-nato-politiker-fordern-rasche-neubesetzung-an-der-bundeswehr-spitze-a-4ec61e4f-dd93-4440-9b16-dc8d1d975673#ref=rss",
-      "publishedAt": "2026-09-19T18:23:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "El Niño im Klimawandel: Wenn das Christkind noch mehr Dürre, Flut und Hunger bringt",
-      "excerpt": "Anhand von Korallen haben Forscher untersucht, wie die Erderhitzung das Klimaphänomen El Niño beeinflusst. Die globalen Aussichten sind eher düster. mehr...",
-      "url": "https://taz.de/El-Nino-im-Klimawandel/!6208343/",
-      "publishedAt": "2026-09-19T18:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Midterms in den USA: Die US-Demokratie ist doch noch nicht ganz verloren",
-      "excerpt": "Der Supreme Court hat Trumps Vorhaben, die Briefwahl einzuschränken, gestoppt. Das oberste Gericht holt sich seine Unabhängigkeit teilweise zurück. mehr...",
-      "url": "https://taz.de/Midterms-in-den-USA/!6212564/",
-      "publishedAt": "2026-09-19T18:19:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
       "excerpt": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von G",
@@ -720,22 +744,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
       "publishedAt": "2026-09-19T15:46:45.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
-      "excerpt": "Der Generalinspekteur der Bundeswehr, Carsten Breuer, ist zum künftigen Vorsitzenden des Nato-Militärausschusses gewählt worden. Verteidigungsminister Pistorius spricht von einer »historischen Aufgabe«.",
-      "url": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
-      "publishedAt": "2026-09-19T15:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Friedrich Merz: Auf die Solidarität der SPD sollte der Kanzler nicht hoffen",
-      "excerpt": "Immer mehr Sozialdemokraten glauben, ein Kanzlersturz wäre auch für die SPD das Beste. Im Hinblick auf einen möglichen Nachfolger haben die Genossen Präferenzen.",
-      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-die-solidaritaet-der-spd-sollte-der-kanzler-nicht-hoffen-a-c094e759-256b-4bb2-a2d6-1cac34e4d70c#ref=rss",
-      "publishedAt": "2026-09-19T15:08:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -791,14 +799,6 @@
       "excerpt": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
       "publishedAt": "2026-09-19T02:05:33.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-      "excerpt": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftw",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
-      "publishedAt": "2026-09-18T18:30:08.000Z",
       "category": "INNENPOLITIK"
     },
     {
