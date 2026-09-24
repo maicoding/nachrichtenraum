@@ -1,140 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:24:22.645Z",
+  "updatedAt": "2026-09-24T06:45:59.174Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Chinas Staatschef in den USA - Viel Tamtam beim Xi-Empfang",
-      "excerpt": "18 Grad zeigte das Thermometer am späten Mittwochnachmittag, doch Donald Trump (80) war dick eingepackt. Mantel über dem Anzug, Lede...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-viel-tamtam-beim-xi-empfang-6ab4548ca15a9fecb6693421",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach BILD-Bericht - Trump provoziert! Rüffel für Merz’ US-Beauftragten",
-      "excerpt": "Berlin – Die Kopfwäsche von ganz oben gab es gratis: Nach einem peinlichen und provokanten Video von der US-Grenze zu Mexiko hat sic...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-bild-bericht-trump-provoziert-rueffel-fuer-merz-us-beauftragten-6ab3f263a15a9fecb6692fe6",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auto-Attacke im Westjordanland - Terror-Anschlag! Sohn von US-Botschafter schwer verletzt",
-      "excerpt": "An einem Kontrollpunkt wird der Sohn des Israel-Botschafters schwer verletzt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/anschlag-im-westjordanland-sohn-von-us-botschafter-schwer-verletzt-6ab426dfa15a9fecb66932c9",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hauptstadt Berlin - Linken-Politiker hat engen Kontakt zu Terror-Netzwerk",
-      "excerpt": "Behörden prüfen Linken-Unterstützer mit Kontakten zu Hamas und kriminellen Clans.",
-      "url": "https://www.bild.de/politik/inland/naehe-zu-terroristen-und-clans-linken-unterstuetzer-im-visier-der-behoerden-6ab293e2a15a9fecb668bd0b",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Linken-Politiker unter Druck - Mit diesen Auftritten fiel Ferat Kocak schon auf",
-      "excerpt": "Ferat Koçak steht wegen mutmaßlicher Clan- und Linksradikal-Kontakte unter Druck.",
-      "url": "https://www.bild.de/politik/inland/ferat-kocak-unter-druck-kontakte-ins-remmo-umfeld-6ab41094e5b1ca08382bc874",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Täuschend echt! - KI-Avatare fluten YouTube mit Politik-Videos",
-      "excerpt": "Forscher finden Dutzende KI-Moderatoren, die auf YouTube Politikmeinungen prägen.",
-      "url": "https://www.bild.de/politik/inland/ki-avatare-fluten-youtube-mit-politik-videos-warum-das-gefaehrlich-ist-6ab3bf95a15a9fecb669135e",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ösi-Sprit wird NOCH günstiger - Dieser Kanzler zeigt uns, wie billiger tanken geht",
-      "excerpt": "Österreich wird zum Land des Billig-Tankens.",
-      "url": "https://www.bild.de/politik/inland/dieser-kanzler-zeigt-uns-wie-billiger-tanken-geht-oesterreichs-sprit-wird-noch-guenstiger-6ab35d79274d1bab27b61967",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Medienbericht - Neue Pläne von Biontech-Machern enthüllt",
-      "excerpt": "Die Biontech-Gründer starten in Mainz mit Arife ein neues mRNA-Unternehmen.",
-      "url": "https://www.bild.de/politik/inland/gruender-von-biontech-wagen-den-neustart-ihre-firma-traegt-besonderen-namen-6ab3c2d4274d1bab27b68562",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ehemaliger Richter für Bellevue? - Udo Di Fabio offen für Bundespräsidentenamt",
-      "excerpt": "Udo Di Fabio schließt eine Kandidatur für das höchste Staatsamt nicht aus.",
-      "url": "https://www.bild.de/politik/inland/ehemaliger-richter-fuer-bellevue-udo-di-fabio-offen-fuer-bundespraesidentenamt-6ab40633a15a9fecb669310a",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Pomp-Gipfel von Trump und Xi - In Wahrheit geht es um eiskalte Machtfragen",
-      "excerpt": "Beim Pomp-Gipfel von Trump und Xi geht es um Handel, KI-Risiken und Machtfragen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/xi-jinping-zu-gast-bei-donald-trump-in-wahrheit-geht-es-um-eiskalte-machtfragen-6ab3f795a15a9fecb6693041",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Milliarden-Streit um EU-Haushalt - Warum plötzlich alle über DIESES Foto reden",
-      "excerpt": "Ausgerechnet die Griechen laden in Brüssel zum Luxus-Dinner auf Steuerzahlerkosten ein.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-haushalt-bezahlt-haben-wir-aber-eingeladen-haben-wir-nicht-6ab3a702174ceb992b6e74f1",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Politisches Beben aus Washington - USA laden Putin zum G20-Gipfel ein",
-      "excerpt": "US-Außenminister Rubio lädt Putin zum G20-Gipfel in Trumps Club in Florida ein.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-laden-wladimir-putin-zum-gipfel-der-g20-ein-auf-einem-golfplatz-6ab3f2e6274d1bab27b69b56",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "OSZE schockiert - Trump will keine Wahlbeobachter in den USA",
-      "excerpt": "Die US-Regierung lädt die OSZE 2026 nicht mehr zur Beobachtung der Wahlen ein.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/osze-schockiert-donald-trump-will-keine-wahlbeobachter-in-den-usa-6ab3ea14274d1bab27b69aa4",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar von Patricia Platiel - Erst Jobs retten, dann übers Gehalt reden!",
-      "excerpt": "Wer hart arbeitet, sollte gut verdienen. Doch ist jetzt der passende Moment für mehr Lohn?",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-von-patricia-platiel-erst-jobs-retten-dann-uebers-gehalt-reden-6ab3f017e5b1ca08382bc68b",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wichtig für alle Eltern - Regierung plant 5 Kinderkrankentage weniger",
-      "excerpt": "Gesundheitsminister Linnemann kündigte an, die bisherige Rechtslage zu ändern.",
-      "url": "https://www.bild.de/politik/inland/wichtig-fuer-alle-eltern-fuenf-kinderkrankentage-weniger-ab-2027-6ab3e6fd274d1bab27b69a2a",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Wahlsieg der Linken - „Jüdisches Leben in Deutschland so unsicher wie nie“",
-      "excerpt": "Video",
-      "url": "https://www.bild.de/politik/nach-wahlsieg-der-linken-juedisches-leben-in-deutschland-so-unsicher-wie-nie-6ab3af94e5b1ca08382b5742",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
+      "title": "Politico, CNN und MS NOW betroffen - Richter stoppt Trumps Presse-Bann!",
+      "excerpt": "Bundesrichter kippt vorerst Trumps Bann gegen CNN, MS NOW und Politico.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-richter-stoppt-vorerst-ausschluss-von-cnn-politico-und-ms-now-6ab4b8afa15a9fecb66936e0",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
       "category": "POLITIK"
     },
     {
@@ -142,63 +14,239 @@
       "title": "Enteignungsplan der Linken - Muss ich Angst um Haus und Wohnung haben?",
       "excerpt": "Was droht Eigentümern bei Enteignung großer Wohnungskonzerne wirklich?",
       "url": "https://www.bild.de/politik/enteignungsplan-der-linken-muss-ich-angst-um-haus-und-wohnung-haben-6ab3da60274d1bab27b698ba",
-      "publishedAt": "2026-09-24T01:24:21.330Z",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mail von Martenstein - Lieber Wolfgang Bender,",
+      "excerpt": "Sie sind leider insolvent. Ein gegenderter Newsletter hat zu viele Kunden verärgert.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-lieber-wolfgang-bender-6ab3e059174ceb992b6ed6fa",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD weiß, was heiß diskutiert wird - Kommt DAS statt der Rente mit 63?",
+      "excerpt": "Koalition sucht Kompromiss: Die Rente mit 63 könnte bleiben und neu geregelt werden.",
+      "url": "https://www.bild.de/politik/inland/rente-mit-63-union-und-spd-suchen-kompromiss-6ab3c9dca15a9fecb6692954",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Dramatische Warnung bei Lanz - AfD-Siege machen Europa Angst",
+      "excerpt": "Der österreichische Migrationsforscher Gerald Knaus (56) hat bei Markus Lanz (57) eindringlich auf die enormen Risiken der jüngsten ...",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/markus-lanz-afd-siege-machen-europa-angst-6ab4739ca15a9fecb6693473",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Chinas Staatschef in den USA - Viel Tamtam beim Xi-Empfang",
+      "excerpt": "18 Grad zeigte das Thermometer am späten Mittwochnachmittag, doch Donald Trump (80) war dick eingepackt. Mantel über dem Anzug, Lede...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-viel-tamtam-beim-xi-empfang-6ab4548ca15a9fecb6693421",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach BILD-Bericht - Trump provoziert! Rüffel für Merz’ US-Beauftragten",
+      "excerpt": "Berlin – Die Kopfwäsche von ganz oben gab es gratis: Nach einem peinlichen und provokanten Video von der US-Grenze zu Mexiko hat sic...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nach-bild-bericht-trump-provoziert-rueffel-fuer-merz-us-beauftragten-6ab3f263a15a9fecb6692fe6",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Auto-Attacke im Westjordanland - Terror-Anschlag! Sohn von US-Botschafter schwer verletzt",
+      "excerpt": "An einem Kontrollpunkt wird der Sohn des Israel-Botschafters schwer verletzt.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/anschlag-im-westjordanland-sohn-von-us-botschafter-schwer-verletzt-6ab426dfa15a9fecb66932c9",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hauptstadt Berlin - Linken-Politiker hat engen Kontakt zu Terror-Netzwerk",
+      "excerpt": "Behörden prüfen Linken-Unterstützer mit Kontakten zu Hamas und kriminellen Clans.",
+      "url": "https://www.bild.de/politik/inland/naehe-zu-terroristen-und-clans-linken-unterstuetzer-im-visier-der-behoerden-6ab293e2a15a9fecb668bd0b",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Linken-Politiker unter Druck - Mit diesen Auftritten fiel Ferat Kocak schon auf",
+      "excerpt": "Ferat Koçak steht wegen mutmaßlicher Clan- und Linksradikal-Kontakte unter Druck.",
+      "url": "https://www.bild.de/politik/inland/ferat-kocak-unter-druck-kontakte-ins-remmo-umfeld-6ab41094e5b1ca08382bc874",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Täuschend echt! - KI-Avatare fluten YouTube mit Politik-Videos",
+      "excerpt": "Forscher finden Dutzende KI-Moderatoren, die auf YouTube Politikmeinungen prägen.",
+      "url": "https://www.bild.de/politik/inland/ki-avatare-fluten-youtube-mit-politik-videos-warum-das-gefaehrlich-ist-6ab3bf95a15a9fecb669135e",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ösi-Sprit wird NOCH günstiger - Dieser Kanzler zeigt uns, wie billiger tanken geht",
+      "excerpt": "Österreich wird zum Land des Billig-Tankens.",
+      "url": "https://www.bild.de/politik/inland/dieser-kanzler-zeigt-uns-wie-billiger-tanken-geht-oesterreichs-sprit-wird-noch-guenstiger-6ab35d79274d1bab27b61967",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Medienbericht - Neue Pläne von Biontech-Machern enthüllt",
+      "excerpt": "Die Biontech-Gründer starten in Mainz mit Arife ein neues mRNA-Unternehmen.",
+      "url": "https://www.bild.de/politik/inland/gruender-von-biontech-wagen-den-neustart-ihre-firma-traegt-besonderen-namen-6ab3c2d4274d1bab27b68562",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ehemaliger Richter für Bellevue? - Udo Di Fabio offen für Bundespräsidentenamt",
+      "excerpt": "Udo Di Fabio schließt eine Kandidatur für das höchste Staatsamt nicht aus.",
+      "url": "https://www.bild.de/politik/inland/ehemaliger-richter-fuer-bellevue-udo-di-fabio-offen-fuer-bundespraesidentenamt-6ab40633a15a9fecb669310a",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Pomp-Gipfel von Trump und Xi - In Wahrheit geht es um eiskalte Machtfragen",
+      "excerpt": "Beim Pomp-Gipfel von Trump und Xi geht es um Handel, KI-Risiken und Machtfragen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/xi-jinping-zu-gast-bei-donald-trump-in-wahrheit-geht-es-um-eiskalte-machtfragen-6ab3f795a15a9fecb6693041",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Milliarden-Streit um EU-Haushalt - Warum plötzlich alle über DIESES Foto reden",
+      "excerpt": "Ausgerechnet die Griechen laden in Brüssel zum Luxus-Dinner auf Steuerzahlerkosten ein.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-haushalt-bezahlt-haben-wir-aber-eingeladen-haben-wir-nicht-6ab3a702174ceb992b6e74f1",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Politisches Beben aus Washington - USA laden Putin zum G20-Gipfel ein",
+      "excerpt": "US-Außenminister Rubio lädt Putin zum G20-Gipfel in Trumps Club in Florida ein.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-laden-wladimir-putin-zum-gipfel-der-g20-ein-auf-einem-golfplatz-6ab3f2e6274d1bab27b69b56",
+      "publishedAt": "2026-09-24T06:45:58.901Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neuer Roman von Douglas Stuart: Daddy-Issues im Dauerregen",
+      "excerpt": "Booker-Preisträger Douglas Stuart erzählt von homosexuellem Leben auf den Äußeren Hebriden. Eine Form findet er nicht. mehr...",
+      "url": "https://taz.de/Neuer-Roman-von-Douglas-Stuart/!6215062/",
+      "publishedAt": "2026-09-24T06:40:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Transplantationsgesetz im Bundestag: Organspende – Zustimmung oder Widerspruch?",
+      "excerpt": "250 Abgeordnete meinen, dass sich bei der Organspende etwas ändern muss. Worum es dabei geht und was in der Lesung am Donnerstag besprochen wird. mehr...",
+      "url": "https://taz.de/Transplantationsgesetz-im-Bundestag/!6215893/",
+      "publishedAt": "2026-09-24T06:25:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Vereinte Nationen - Wadephul wirft Moskau gefährliche Eskalation in Europa vor - Selenskyj bezeichnet Putin als \"Patient Null\"",
-      "excerpt": "Bundesaußenminister Wadephul hat sich im UNO-Sicherheitsrat zum Ukraine-Krieg und der Zunahme russischer hybrider Angriffe geäußert. Er warf Russlands Staatschef Putin eine gefährliche Eskalation vor.",
-      "url": "https://www.deutschlandfunk.de/wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor-selenskyj-bezeichnet-putin-als-patient-n-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "title": "USA - Bundesrichter hebt Ausschluss von Medien aus dem Weißen Haus durch Präsident Trump vorerst auf",
+      "excerpt": "Die US-Regierung muss den Journalisten des Senders CNN und weiterer Medien vorerst wieder Zugang zum Weißen Haus gewähren. Ein Bundesrichter erließ eine entsprechende einstweilige Verfügung. Der Ausschluss der Medien sei",
+      "url": "https://www.deutschlandfunk.de/bundesrichter-hebt-ausschluss-von-medien-aus-dem-weissen-haus-durch-praesident-trump-vorerst-auf-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Mehrere Explosionen - Russland greift Kiew in der Nacht erneut mit ballistischen Raketen",
-      "excerpt": "Russland hat die ukrainische Hauptstadt Kiew in der Nacht erneut mit ballistischen Raketen angegriffen.",
-      "url": "https://www.deutschlandfunk.de/russland-greift-kiew-in-der-nacht-erneut-mit-ballistischen-raketen-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "title": "Staatsbesuch - Chinas Präsident Xi wirbt in den USA für Partnerschaft statt Rivalität",
+      "excerpt": "Chinas Staats- und Parteichef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen. US-Präsident Trump empfing Xi auf einem Militärflughafen in der Nähe von Washington. Thematisch dürfte es bei den Ge",
+      "url": "https://www.deutschlandfunk.de/chinas-praesident-xi-wirbt-in-den-usa-fuer-partnerschaft-statt-rivalitaet-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Washington - Chinas Präsident Xi zu Staatsbesuch in den USA eingetroffen",
-      "excerpt": "Chinas Staats- und Parteichef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen.",
-      "url": "https://www.deutschlandfunk.de/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-eingetroffen-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "title": "Vereinte Nationen - Wadephul wirft Moskau gefährliche Eskalation in Europa vor - Selenskyj bezeichnet Putin als \"Patienten Null\"",
+      "excerpt": "Bundesaußenminister Wadephul hat Russlands Staatschef Putin eine Eskalation der Aggression gegen Europa vorgeworfen. Russlands hybride Angriffe gegen diejenigen, die die Ukraine und das Völkerrecht unterstützten, hätten ",
+      "url": "https://www.deutschlandfunk.de/wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor-selenskyj-bezeichnet-putin-als-patienten-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Künstliche Intelligenz - Anthropic-Chef warnt vor UNO-Sicherheitsrat vor KI-Gefahren",
+      "title": "Künstliche Intelligenz - Anthropic-Chef warnt bei Treffen des UNO-Sicherheitsrat vor KI-Gefahren",
       "excerpt": "Vertreter der US-Technologiebranche haben erneut vor den Gefahren durch Künstliche Intelligenz gewarnt - diesmal vor dem UNO-Sicherheitsrat.",
-      "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-vor-uno-sicherheitsrat-vor-ki-gefahren-104.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "url": "https://www.deutschlandfunk.de/anthropic-chef-warnt-bei-treffen-des-uno-sicherheitsrat-vor-ki-gefahren-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Künstliche Intelligenz - OpenAI-Agent hackt australisches Regierungsportal",
+      "excerpt": "Ein autonomer KI-Agent des US-Unternehmens OpenAI hat in Australien ein Regierungsportal gehackt.",
+      "url": "https://www.deutschlandfunk.de/openai-agent-hackt-australisches-regierungsportal-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Wahl in Berlin - Jüdische Studierendenunion: Präsident Dekel fordert von Linkspartei konsequentes Vorgehen gegen Antisemitismus",
+      "excerpt": "Der Präsident der Jüdischen Studierendenunion, Dekel, fordert von der Linkspartei nach ihrem Wahlsieg in Berlin ein klares Bekenntnis gegen Antisemitismus. Die Partei habe im Wahlkampf teilweise auf ein Milieu in der Hau",
+      "url": "https://www.deutschlandfunk.de/juedische-studierendenunion-praesident-dekel-fordert-von-linkspartei-konsequentes-vorgehen-gegen-ant-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Berlin - Bundestag berät erstmals über umfassende Reform der Nachrichtendienste",
-      "excerpt": "Der Bundestag debattiert heute erstmals über die Pläne der Koalition für eine umfassende Reform der Nachrichtendienste.",
+      "excerpt": "Der Bundestag debattiert heute erstmals über die Pläne der Koalition für eine umfassende Reform der Nachrichtendienste. Sie sollen angesichts der wachsenden hybriden Bedrohung, insbesondere durch Russland, mit deutlich m",
       "url": "https://www.deutschlandfunk.de/bundestag-beraet-erstmals-ueber-umfassende-reform-der-nachrichtendienste-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Widerspruchsregelung - Bundestag berät heute über Organspende-Regeln",
-      "excerpt": "Vor dem Hintergrund zu geringer Organspenderzahlen berät der Bundestag heute über eine mögliche Gesetzesänderung.",
-      "url": "https://www.deutschlandfunk.de/bundestag-beraet-heute-ueber-organspende-regeln-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "title": "Berlin - Bundestag berät über Reform für Organspende - erneuter Anlauf für Widerspruchsregelung",
+      "excerpt": "Der Bundestag steht erneut vor der Entscheidung, ob die Organspende in Deutschland anders geregelt werden soll. Zwei fraktionsübergreifende Gruppen von Abgeordneten haben ganz unterschiedliche Vorschläge vorgelegt - jewe",
+      "url": "https://www.deutschlandfunk.de/bundestag-beraet-ueber-reform-fuer-organspende-erneuter-anlauf-fuer-widerspruchsregelung-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Bundestag - Fraktionen loben geplante Strafverschärfung für K.o.-Tropfen-Einsatz",
-      "excerpt": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
-      "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-108.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "title": "Vereinigte Arabische Emirate - Sanktionen gegen Irans größte staatliche Bank",
+      "excerpt": "Die Zentralbank der Vereinigten Arabischen Emirate hat Irans größtem staatlichen Finanzinstitut, der Bank Melli, die Geschäftstätigkeit in dem Golfstaat weitgehend untersagt.",
+      "url": "https://www.deutschlandfunk.de/sanktionen-gegen-irans-groesste-staatliche-bank-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Vorläufige Ergebnisse - Partei PAM erhält die meisten Stimmen bei Parlamentswahl in Marokko",
+      "excerpt": "Bei der Parlamentswahl in Marokko hat die Partei für Authentizität und Modernität die meisten Sitze erhalten.",
+      "url": "https://www.deutschlandfunk.de/partei-pam-erhaelt-die-meisten-stimmen-bei-parlamentswahl-in-marokko-100.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mehrere Explosionen - Russische Armee greift Ukraine in der Nacht mit ballistischen Raketen",
+      "excerpt": "Russland hat die ukrainische Hauptstadt Kiew in der Nacht erneut mit ballistischen Raketen angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russische-armee-greift-ukraine-in-der-nacht-mit-ballistischen-raketen-104.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +254,15 @@
       "title": "Berlin - CDU-Politikerin Reiche warnt vor Linken-Regierung in Berlin - Banaszak (Grüne) stellt Bedingungen für Koalition",
       "excerpt": "Bundeswirtschaftsministerin Reiche hat die Warnungen aus Reihen der Union vor einer Regierung in Berlin unter Führung der Linkspartei bekräftigt.",
       "url": "https://www.deutschlandfunk.de/cdu-politikerin-reiche-warnt-vor-linken-regierung-in-berlin-banaszak-gruene-stellt-bedingungen-fuer--100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundestag - Fraktionen loben geplante Strafverschärfung für K.o.-Tropfen-Einsatz",
+      "excerpt": "Der Bundestag hat in erster Lesung über höhere Strafen für den Einsatz von K.o.-Tropfen beraten.",
+      "url": "https://www.deutschlandfunk.de/fraktionen-loben-geplante-strafverschaerfung-fuer-k-o-tropfen-einsatz-108.html",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +270,7 @@
       "title": "Sicherheit - Hauptstadtflughafen BER vorübergehend wegen Drohne lahmgelegt",
       "excerpt": "Am Flughafen Berlin-Brandenburg ist der Flugverkehr gestern Abend wegen einer Drohne vorübergehend eingestellt worden.",
       "url": "https://www.deutschlandfunk.de/hauptstadtflughafen-ber-voruebergehend-wegen-drohne-lahmgelegt-106.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +278,7 @@
       "title": "Wegen Kritik von Trump - Geplante Rückgabe von Archipel an Mauritius: London gibt Chagos-Deal auf",
       "excerpt": "Die britische Regierung hat ihre Entscheidung verworfen, die Chagos-Inseln an Mauritius zurückzugeben.",
       "url": "https://www.deutschlandfunk.de/geplante-rueckgabe-von-archipel-an-mauritius-london-gibt-chagos-deal-auf-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +286,7 @@
       "title": "Am Rande der UNO-Vollversammlung - Ukraine und Finnland schließen Abkommen zur Drohnen-Produktion",
       "excerpt": "Die Ukraine und Finnland wollen bei der Produktion von Drohnen künftig zusammenarbeiten.",
       "url": "https://www.deutschlandfunk.de/ukraine-und-finnland-schliessen-abkommen-zur-drohnen-produktion-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +294,7 @@
       "title": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus",
       "excerpt": "Außenminister Wadephul hat seinen Appell an den Iran bekräftigt, die Blockade der Straße von Hormus aufzugeben.",
       "url": "https://www.deutschlandfunk.de/aussenminister-wadephul-fodert-vom-iran-die-oeffnung-der-strasse-von-hormus-108.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,52 +302,92 @@
       "title": "Nahostkonflikt - Netanjahu und Abbas sprechen bei UNO-Generaldebatte",
       "excerpt": "Bei der Generaldebatte der UNO steht heute erneut der Nahost-Konflikt im Mittelpunkt.",
       "url": "https://www.deutschlandfunk.de/netanjahu-und-abbas-sprechen-bei-uno-generaldebatte-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Konflikt - Rebellen nehmen Regionalflughafen Mekelle in Äthiopien ein",
-      "excerpt": "Der Konflikt zwischen Äthiopiens Zentralregierung und Oppositionsgruppen in der nördlichen Region Tigray ist wieder eskaliert.",
-      "url": "https://www.deutschlandfunk.de/rebellen-nehmen-regionalflughafen-mekelle-in-aethiopien-ein-102.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wahlbeobachtung - Erstmals keine OSZE-Beobachter zu US-Zwischenwahlen eingeladen",
-      "excerpt": "Die Organisation für Sicherheit und Zusammenarbeit in Europa ist erstmals seit ihrer Gründung nicht zur Beobachtung der Kongress-Zwischenwahlen in den USA eingeladen worden.",
-      "url": "https://www.deutschlandfunk.de/erstmals-keine-osze-beobachter-zu-us-zwischenwahlen-eingeladen-102.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mehr Datenaustausch und schärfere Kontrollen - Regierung will gegen Sozialleistungsmissbrauch vorgehen",
-      "excerpt": "Die Bundesregierung will den Missbrauch von Sozialleistungen eindämmen. Einen entsprechenden Gesetzentwurf brachte das Kabinett heute auf den Weg. Mit dem Aktionsplan soll vor allem der organisierte Sozialleistungsmissbr",
-      "url": "https://www.deutschlandfunk.de/regierung-will-gegen-sozialleistungsmissbrauch-vorgehen-102.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienberichte - Berlin will Olympia-Bewerbung zurückziehen",
-      "excerpt": "Berlin will seine Bewerbung für die Austragung der Olympischen Spiele offiziell zurückziehen. Das geht aus übereinstimmenden Medienberichten hervor. Vorausgegangen war eine Sitzung mit dem Regierenden Bürgermeister Wegne",
-      "url": "https://www.deutschlandfunk.de/berlin-will-olympia-bewerbung-zurueckziehen-116.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - Länderspiel-Premiere für Klopp gegen die Niederlande",
-      "excerpt": "Die Fußball-Nationalmannschaft bestreitet heute das erste Spiel unter dem neuen Bundestrainer Jürgen Klopp.",
-      "url": "https://www.deutschlandfunk.de/laenderspiel-premiere-fuer-klopp-gegen-die-niederlande-100.html",
-      "publishedAt": "2026-09-24T00:43:30.000Z",
+      "publishedAt": "2026-09-24T06:20:08.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
+      "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
+      "excerpt": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
+      "publishedAt": "2026-09-24T06:14:19.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "US-Medien im Weißen Haus: Sie dürfen wieder rein",
+      "excerpt": "Nachdem US-Präsident Donald Trump einigen Medien den Zutritt ins Weiße Haus verweigert hatte, klagten die betroffenen Sender. Jetzt entschied ein Gericht. mehr...",
+      "url": "https://taz.de/US-Medien-im-Weissen-Haus/!6215888/",
+      "publishedAt": "2026-09-24T06:00:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
+      "excerpt": "\"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte auch einen Weg aus dem Konflikt.",
+      "url": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
+      "publishedAt": "2026-09-24T05:57:58.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Eine Frau als Baseball-Schiedsrichterin: „Du hättest zu Hause bleiben sollen, Kartoffeln schälen“",
+      "excerpt": "Lange träumte Bernice Gera von einer Karriere als Profischiedsrichterin. Doch ihr erster Einsatz auf dem Feld geriet zu einem wahren Albtraum. mehr...",
+      "url": "https://taz.de/Eine-Frau-als-Baseball-Schiedsrichterin/!6215583/",
+      "publishedAt": "2026-09-24T05:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Kanzlerkerl",
+      "excerpt": "Donnerstag ist Gedichtetag auf der Wahrheit: Heute darf sich die geneigte Leserschaft an einem Poem über Nachfolger des Kanzlers erfreuen. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6215394/",
+      "publishedAt": "2026-09-24T05:13:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
+      "excerpt": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege. mehr...",
+      "url": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
+      "publishedAt": "2026-09-24T05:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Geheimdienstreform im Bundestag: Wie weit geht Dobrindts Schnüffeloffensive?",
+      "excerpt": "Alexander Dobrindts (CSU) Geheimdienstreform kommt in den Bundestag. Grüne und Linke kritisieren erweiterte Befugnisse und mangelnde Kontrolle. mehr...",
+      "url": "https://taz.de/Geheimdienstreform-im-Bundestag/!6215607/",
+      "publishedAt": "2026-09-24T05:04:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
+      "excerpt": "Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschmeichelter Gast. Von Ralf Borchard.",
+      "url": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
+      "publishedAt": "2026-09-24T04:42:27.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Xi Jinping bei Donald Trump, Herbstgutachten wohl positiv, Unfallrückgang bei Tempo 30",
+      "excerpt": "Xi und Trump reden über künstliche Intelligenz. Die Wirtschaftsinstitute haben wohl gute Nachrichten. Und Tempo-30-Schilder wirken anders, als Sie vielleicht denken. Das ist die Lage am Donnerstagmorgen.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-xi-jinping-bei-donald-trump-herbstgutachten-wohl-positiv-unfallrueckgang-bei-tempo-30-a-fc8b633e-f8b8-43dc-8db5-279cab523a0c#ref=rss",
+      "publishedAt": "2026-09-24T03:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
+      "excerpt": "Sabotage im Ausland und Eindringen in Privatwohnungen: Heute diskutiert der Bundestag über die Bundesnachrichtendienst- und Verfassungsschutzreform. Die Opposition warnt vor einem Bruch mit Lehren aus der Geschichte. Von",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html",
+      "publishedAt": "2026-09-24T03:02:58.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
       "excerpt": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von ",
       "url": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
       "publishedAt": "2026-09-23T23:58:22.000Z",
@@ -343,46 +439,6 @@
       "excerpt": "Ein schwuler Influencer verliert seine Bauchmuskeln und fürchtet das Schlimmste: Heterosexualität. „Jim Queen“ ist eine lustvolle Satire schwuler Schönheitsideale. mehr...",
       "url": "https://taz.de/Schwuler-Animationsfilm-Jim-Queen/!6215180/",
       "publishedAt": "2026-09-23T17:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Antiquariat-Besitzerin: „Das war immer mein Traum“",
-      "excerpt": "Ilona Dahlmann betreibt im havelländischen Stölln ein Antiquariat. Bücher sind ihre Leidenschaft, mit den Geschichten, die zwischen den Seiten verborgen sind. mehr...",
-      "url": "https://taz.de/Antiquariat-Besitzerin/!6205684/",
-      "publishedAt": "2026-09-23T17:36:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ausgediente Windanlagen: Auf Rotorblättern surfen",
-      "excerpt": "Viele ältere Windräder werden in den nächsten Jahren abgebaut. Den Schrott illegal im Ausland zu entsorgen, ist keine Lösung. Es gibt bessere Ideen. mehr...",
-      "url": "https://taz.de/Ausgediente-Windraeder-Was-wird-aus-den-alten-Rotorblaettern/!6213390/",
-      "publishedAt": "2026-09-23T17:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Sanktionen gegen Russland: Was für ein Armutszeugnis",
-      "excerpt": "Zwei russische Oligarchen werden von der EU-Sanktionsliste gestrichen. Dafür wird ein französischer Gefangener in Aserbaidschan begnadigt. mehr...",
-      "url": "https://taz.de/Sanktionen-gegen-Russland/!6215617/",
-      "publishedAt": "2026-09-23T17:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Antisemitismus-Streit in der Linken: An Koçak spaltet sich die Linkspartei",
-      "excerpt": "Die Linke streitet über den Umgang mit ihrem Abgeordneten Ferat Koçak. Gefährden die Antisemitismusvorwürfe die rot-rot-grüne Regierungsbildung in Berlin? mehr...",
-      "url": "https://taz.de/Antisemitismus-Streit-in-der-Linken/!6215665/",
-      "publishedAt": "2026-09-23T17:29:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kampagne gegen die Linkspartei: Keinen Fußbreit dem Antisemitismus!",
-      "excerpt": "Mit aller Macht kämpfen CDU sowie Teile der Berliner SPD und einige Grüne gegen eine rot-grün-rote Koalition. Und die Linke ebnet ihnen den Weg dafür. mehr...",
-      "url": "https://taz.de/Kampagne-gegen-die-Linkspartei/!6211025/",
-      "publishedAt": "2026-09-23T17:28:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -459,18 +515,18 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Angeklagter Influencer Clavicular: Misogynie in Form der perfekten Jawline",
-      "excerpt": "Looksmaxxing-Influencer Clavicular ist wegen Vergewaltigung angeklagt. Hinter dem Optimierungstrend stecken Sexismus, Rassismus und rechte Ideologien. mehr...",
-      "url": "https://taz.de/Angeklagter-Looksmaxxing-Influencer-Clavicular-Online-wie-offline-Frauenhasser/!6215595/",
-      "publishedAt": "2026-09-23T16:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Grundsicherung und Missbrauchsdebatte: Aktionsplan gegen Sozialbetrug beschlossen",
       "excerpt": "Die Bundesregierung will verstärkt gegen Sozialmissbrauch durch EU-Bürger:innen vorgehen. Aber Aufstockende aus der EU haben es heute schon schwer. mehr...",
       "url": "https://taz.de/Grundsicherung-und-Missbrauchsdebatte/!6215708/",
       "publishedAt": "2026-09-23T16:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "„Thiel shall not pass“: Queere Gandalfs gegen Thiel-Springer-Geschmuse",
+      "excerpt": "Gegen die Preisverleihung von Peter Thiel durch den Springer-Verlag sind am Donnerstag Proteste angekündigt – wissenschaftlich und kreativ. mehr...",
+      "url": "https://taz.de/Thiel-shall-not-pass/!6215427/",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -487,14 +543,6 @@
       "excerpt": "Vorm Verwaltungsgericht Hannover geht X gegen die Niedersächsische Landesmedienanstalt vor. Es geht um einen Post des Coronakritikers Stefan Homburg. mehr...",
       "url": "https://taz.de/X-klagt-gegen-Landesmedienanstalt/!6215442/",
       "publishedAt": "2026-09-23T15:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
-      "excerpt": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es. mehr...",
-      "url": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
-      "publishedAt": "2026-09-23T15:46:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -535,14 +583,6 @@
       "excerpt": "Mit Said Abdel Kani ist erstmals ein Mitglied der Seleka-Miliz verurteilt worden. Die hat in der Zentralafrikanischen Republik schwerste Verbrechen begangen. mehr...",
       "url": "https://taz.de/Urteil-gegen-Ex-Milizenfuehrer-Said/!6215662/",
       "publishedAt": "2026-09-23T15:25:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Extremwetterkongress: Stürmische Aussichten",
-      "excerpt": "Beim Extremwetterkongress in Hamburg wird deutlich: Wie gefährlich Extremwettereignisse sind, hängt nicht nur von ihrer Stärke ab. mehr...",
-      "url": "https://taz.de/Extremwetterkongress/!6215565/",
-      "publishedAt": "2026-09-23T15:16:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -618,14 +658,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
-      "excerpt": "Der US-Präsident war bei der UN-Generalversammlung ein gefragter Gesprächspartner. Mit dem ukrainischen Staatschef Selenskyj sprach Trump über den russischen Angriffskrieg. Vom französischen Präsidenten Macron bekam er G",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
-      "publishedAt": "2026-09-23T07:10:49.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Mecklenburg-Vorpommern: »Oma, Opa, alle CDU« – das gilt schon lang nicht mehr",
       "excerpt": "Ausgerechnet in Mecklenburg-Vorpommern, der Heimat von Angela Merkel, ist die CDU aus dem Landtag geflogen. Die Partei zeigt sich schockiert. Im Wahlkreis der ehemaligen Kanzlerin finden sie es dagegen »logisch«.",
@@ -674,14 +706,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "News: Donald Trumps Uno-Rede, Frank-Walter Steinmeier in Hattingen, Friedrich-Merz-CDU in der Krise",
-      "excerpt": "Donald Trump hat sich mal wieder einen neuen Namen ausgedacht. Frank-Walter Steinmeier trinkt Kaffee und geht abends rudern. Und Friedrich Merz ist immer noch Kanzler. Das ist die Lage am Mittwochmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-donald-trumps-uno-rede-frank-walter-steinmeier-in-hattingen-merz-cdu-in-der-krise-a-c3bbda2f-96e7-491b-8375-f6e42526cb0e#ref=rss",
-      "publishedAt": "2026-09-23T03:30:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
       "excerpt": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. Von Angela Göpfert.",
@@ -704,22 +728,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
       "publishedAt": "2026-09-22T18:27:10.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
-      "excerpt": "Vor den Vereinten Nationen gab sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Er bestätigte Gespräche von Vertretern beider Seiten. Auch für den Ukraine-Krieg rechnet er bald",
-      "url": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
-      "publishedAt": "2026-09-22T16:12:08.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
-      "excerpt": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine Sicherheitsvereinbarung.",
-      "url": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
-      "publishedAt": "2026-09-22T16:02:38.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -895,14 +903,6 @@
       "excerpt": "Es ist selten, dass ein früherer Bundesminister vor Gericht steht. Entsprechend groß ist das Medieninteresse beim Prozess gegen Ex-Verkehrsminister Scheuer. Dabei geht es um die Maut - und um Erinnerungen.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/pkw-maut-scheuer-106.html",
       "publishedAt": "2026-09-21T14:45:51.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Kanzler Merz nach Wahlniederlagen \"dankbar\", dass SPD in Koalition bleibt",
-      "excerpt": "Die CDU hat eine historische Niederlage erlebt. Nun gesteht Kanzler Merz ein, dass die Bundesregierung eine Mitschuld trägt - und auch er selbst. Eine Personalfrage stelle sich jedoch nicht. Merz dankte der SPD, dass sie",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-158.html",
-      "publishedAt": "2026-09-21T14:06:38.000Z",
       "category": "INNENPOLITIK"
     },
     {
