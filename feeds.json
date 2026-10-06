@@ -1,92 +1,28 @@
 {
-  "updatedAt": "2026-10-06T19:50:28.544Z",
+  "updatedAt": "2026-10-06T23:48:43.811Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Der Geheimdienst-Skandal - Ex-BND-Chef August Hanning wegen Verdachts auf Landesverrat verhaftet",
-      "excerpt": "Nikolaus Harbusch, BILD-Chefreporter, Jan-Henrik Dobers, BILD-Chefreporter, Charlotte Mahncke, BILD-Reporterin und Frank Schneider, ...",
-      "url": "https://www.bild.de/politik/der-geheimdienst-skandal-ex-bnd-chef-august-hanning-wegen-verdachts-auf-landesverrat-verhaftet-6ac4e00b967e8c06339d2ae6",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
+      "title": "Nach Geheimdienst-GAU - Briten in Sorge um ihre Agenten",
+      "excerpt": "Von Rozina Sabur, James Rothwell und Joe Barnes Nach dem Geheimdienst-GAU untersuchen ausländische Nachrichtendienste jetzt mit Hoch...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-geheimdienst-gau-briten-in-sorge-um-ihre-agenten-6ac571826a0860be6e208b1f",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Test über dem Atlantik - Franzosen-Rakete soll vor Putin- Atomwaffen schützen",
-      "excerpt": "Frankreich testet neue M51.3-Rakete und stärkt damit seine nukleare Abschreckung.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/test-ueber-dem-atlantik-diese-rakete-der-franzosen-soll-uns-vor-putins-atomwaffen-schuetzen-6ac4fee76a0860be6e208551",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
+      "title": "SPD-Protest gegen AfD-Wahl - „Einzigartiger Tabubruch“",
+      "excerpt": "SPD-Abgeordnete protestieren in Berlin gegen die Wahl eines AfD-Landtagspräsidenten.",
+      "url": "https://www.bild.de/politik/inland/marsch-zum-bebelplatz-einzigartiger-tabubruch-6ac551276a0860be6e208a3e",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Neue Bloomberg-Liste - Diese 10 Milliardäre besitzen zusammen 2,8 Billionen Euro",
-      "excerpt": "Elon Musk führt die Superreichen an, KI-Boom treibt mehrere Vermögen nach oben.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-vermoegen-2026-warum-er-374-milliarden-euro-reicher-wurde-6ac4f783967e8c06339d2e03",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Dramatischer Merz-Appell in Fraktion - „Haltet durch!“",
-      "excerpt": "Kanzler Merz gibt sich vor Sitzung des Koalitionsausschusses kämpferisch in Richtung SPD.",
-      "url": "https://www.bild.de/politik/inland/friedrich-merz-haltet-durch-im-streit-um-die-rentenreform-6ac4f9e3967e8c06339d2e43",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Erneut Anschläge im Schwarzen Meer - Frachter sinkt nach Drohnenangriff – Crew vermisst",
-      "excerpt": "Drohnen attackieren Frachter im Schwarzen Meer, ein Schiff sinkt, Crew bleibt vermisst.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/erneut-anschlaege-im-schwarzen-meer-handelsschiff-sinkt-nach-drohnenangriff-crew-vermisst-6ac4fe02967e8c06339d2ea0",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Konstituierung abgeblasen! - Wahlchaos bremst die Berliner Linke",
-      "excerpt": "Wegen Panne beim Wahlergebnis verschiebt die Linke ihre Fraktionskonstituierung.",
-      "url": "https://www.bild.de/politik/inland/berlin-konstituierung-abgeblasen-wahlchaos-bremst-linke-um-elif-eralp-6ac495120a14891ddd2b3db7",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach Razzia - Was könnte der frühere BND-Chef verraten haben?",
-      "excerpt": "Ex-BND-Chef Hanning soll über Jahre geheime Kanzleramt-Dokumente verkauft haben.",
-      "url": "https://www.bild.de/politik/inland/nach-razzia-was-weiss-der-fruehere-bnd-chef-und-was-koennte-er-verraten-haben-6ac4bf3173cfe42b5b02582a",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "In RONZHEIMER-Doku - Hier zeigt AfD-Mann Tillschneider seine „Russische Armee“ - Tasse",
-      "excerpt": "AfD-Mann Tillschneider zeigt im Büro eine Tasse mit Aufdruck „Russische Armee“.",
-      "url": "https://www.bild.de/politik/inland/ronzheimer-doku-vor-der-kamera-afd-politiker-wollte-russen-geschenk-verstecken-6a928db1d88567044d848e56",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zu erster Sitzung in Sachsen-Anhalt - Gewählt: Der Mann mit der Russen-Tasse",
-      "excerpt": "AfD schlägt Tobias Rausch als Landtagspräsidenten vor, auch BSW unterstützt ihn.",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zu-erster-sitzung-vom-landtag-in-sachsen-anhalt-die-afd-ist-schon-da-6ac498b27ca0bfd8ca155bd2",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weltweite Reserven schrumpfen dramatisch - Öl-Boss: Krise könnte noch 2 Jahre dauern",
-      "excerpt": "Öl-Chef sieht Folgen der Krise für Jahre, doch ein Experte dämpft die Sorge.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/strasse-von-hormus-warum-oel-und-sprit-weiter-teuer-bleiben-koennten-6ac4ba396a0860be6e207e2b",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nach mutmaßlichem Verrat - Skandal-Dienst BND",
-      "excerpt": "Spionageaffären, Verrat und Sabotage: Der BND kämpft seit Jahrzehnten mit Skandalen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bnd-diese-affaeren-erschuetterten-den-deutschen-geheimdienst-6ac4e1536a0860be6e20825a",
-      "publishedAt": "2026-10-06T19:50:28.541Z",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +30,7 @@
       "title": "Bürokratie-Abbau - 123.000 Beauftragte weniger in Firmen",
       "excerpt": "Die Koalition streicht viele Pflicht-Beauftragte, Firmen sparen Millionen pro Jahr.",
       "url": "https://www.bild.de/politik/inland/buerokratie-abbau-123-000-beauftragte-weniger-in-firmen-6ac5066f321809b09dd0812e",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +38,7 @@
       "title": "Medienbericht - Hanning soll Geheimnisse an Aserbaidschan verraten haben",
       "excerpt": "Ex-BND-Chef Hanning soll laut Ermittlern geheime Analysen für Baku erstellt haben.",
       "url": "https://www.bild.de/politik/medienbericht-ex-bnd-chef-soll-geheimnisse-an-aserbaidschan-verraten-haben-6ac52b39e2da8b4081b890e9",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +46,7 @@
       "title": "BILD-Chefreporter Frank Schneider über den BND - „Ein Super-Gau für den Geheimdienst“",
       "excerpt": "BILD-Chefreporter Frank Schneider in „Vertraulich“: Im Sicherheitsapparat herrsche „absolute Fassungslosigkeit“ über das mutmaßliche...",
       "url": "https://www.bild.de/politik/bild-chefreporter-frank-schneider-ueber-den-bnd-ein-super-gau-fuer-den-geheimdienst-6ac5228773cfe42b5b02641a",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +54,7 @@
       "title": "Neue Trump-Entgleisung gegen Kalifornien - „Lasst den Iran Atom-Bombe über L.A. abwerfen!“",
       "excerpt": "Trump verharmlost in Nebraska Atomangriff auf Kalifornien und erntet scharfe Kritik.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/neue-trump-entgleisung-lasst-den-iran-a-bombe-ueber-l-a-abwerfen-6ac521fc967e8c06339d3244",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +62,7 @@
       "title": "Gesetzentwurf im Kabinett - Hubig plant härtere Strafen für digitale Gewalt",
       "excerpt": "Die Justizministerin kämpft gegen Vergewaltigungsvideos, Deepfakes und Stalking.",
       "url": "https://www.bild.de/politik/inland/digitale-gewalt-besitz-von-vergewaltigungsvideos-wird-strafbar-6ac50eaf73cfe42b5b02629c",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +70,7 @@
       "title": "Gastgeschenk von Kretschmer - Dienstwagen fährt Christstollen bis zum Papst",
       "excerpt": "Ein riesiger Dresdner Stollen wird zum Papst gefahren, doch er darf ihn nicht essen.",
       "url": "https://www.bild.de/politik/inland/sachsen-kretschmer-fliegt-zum-papst-dienstwagen-faehrt-christstollen-bis-nach-rom-6ac4a0cb7ca0bfd8ca155cad",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
@@ -142,152 +78,224 @@
       "title": "Ex-BND-Chef verhaftet - So stolperte August Hanning über den Block-Prozess",
       "excerpt": "Ermittler kamen Hanning auf die Schliche, als sie eigentlich etwas ganz anderes suchten.",
       "url": "https://www.bild.de/politik/inland/ex-bnd-chef-verhaftet-so-stolperte-august-hanning-ueber-den-block-prozess-6ac4a77d73cfe42b5b0254bb",
-      "publishedAt": "2026-10-06T19:50:28.540Z",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Der Geheimdienst-Skandal - Ex-BND-Chef August Hanning wegen Verdachts auf Landesverrat verhaftet",
+      "excerpt": "Nikolaus Harbusch, BILD-Chefreporter, Jan-Henrik Dobers, BILD-Chefreporter, Charlotte Mahncke, BILD-Reporterin und Frank Schneider, ...",
+      "url": "https://www.bild.de/politik/der-geheimdienst-skandal-ex-bnd-chef-august-hanning-wegen-verdachts-auf-landesverrat-verhaftet-6ac4e00b967e8c06339d2ae6",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Test über dem Atlantik - Franzosen-Rakete soll vor Putin- Atomwaffen schützen",
+      "excerpt": "Frankreich testet neue M51.3-Rakete und stärkt damit seine nukleare Abschreckung.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/test-ueber-dem-atlantik-diese-rakete-der-franzosen-soll-uns-vor-putins-atomwaffen-schuetzen-6ac4fee76a0860be6e208551",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Bloomberg-Liste - Diese 10 Milliardäre besitzen zusammen 2,8 Billionen Euro",
+      "excerpt": "Elon Musk führt die Superreichen an, KI-Boom treibt mehrere Vermögen nach oben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-vermoegen-2026-warum-er-374-milliarden-euro-reicher-wurde-6ac4f783967e8c06339d2e03",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Dramatischer Merz-Appell in Fraktion - „Haltet durch!“",
+      "excerpt": "Kanzler Merz gibt sich vor Sitzung des Koalitionsausschusses kämpferisch in Richtung SPD.",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-haltet-durch-im-streit-um-die-rentenreform-6ac4f9e3967e8c06339d2e43",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Erneut Anschläge im Schwarzen Meer - Frachter sinkt nach Drohnenangriff – Crew vermisst",
+      "excerpt": "Drohnen attackieren Frachter im Schwarzen Meer, ein Schiff sinkt, Crew bleibt vermisst.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/erneut-anschlaege-im-schwarzen-meer-handelsschiff-sinkt-nach-drohnenangriff-crew-vermisst-6ac4fe02967e8c06339d2ea0",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Konstituierung abgeblasen! - Wahlchaos bremst die Berliner Linke",
+      "excerpt": "Wegen Panne beim Wahlergebnis verschiebt die Linke ihre Fraktionskonstituierung.",
+      "url": "https://www.bild.de/politik/inland/berlin-konstituierung-abgeblasen-wahlchaos-bremst-linke-um-elif-eralp-6ac495120a14891ddd2b3db7",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Razzia - Was könnte der frühere BND-Chef verraten haben?",
+      "excerpt": "Ex-BND-Chef Hanning soll über Jahre geheime Kanzleramt-Dokumente verkauft haben.",
+      "url": "https://www.bild.de/politik/inland/nach-razzia-was-weiss-der-fruehere-bnd-chef-und-was-koennte-er-verraten-haben-6ac4bf3173cfe42b5b02582a",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "In RONZHEIMER-Doku - Hier zeigt AfD-Mann Tillschneider seine „Russische Armee“ - Tasse",
+      "excerpt": "AfD-Mann Tillschneider zeigt im Büro eine Tasse mit Aufdruck „Russische Armee“.",
+      "url": "https://www.bild.de/politik/inland/ronzheimer-doku-vor-der-kamera-afd-politiker-wollte-russen-geschenk-verstecken-6a928db1d88567044d848e56",
+      "publishedAt": "2026-10-06T23:48:43.807Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Groß-Demo in Paris - Schülerproteste: Macron beruft Krisensitzung ein, eneute Zusammenstöße mit Polizei",
-      "excerpt": "Wegen anhaltender Massenproteste von Schülerinnen und Schülern hat Präsident Macron eine Krisensitzung über die Lage einberufen. Daran teilnehmen sollten Premierminister Lecornu, Innenminister Nuñez sowie Bildungsministe",
-      "url": "https://www.deutschlandfunk.de/schuelerproteste-macron-beruft-krisensitzung-ein-eneute-zusammenstoesse-mit-polizei-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+      "excerpt": "Bundeskanzler Merz hat zum 3. Jahrestag des Terrorangriffs der Hamas auf Israel an die Opfer erinnert. Er hoffe, dass der tiefe Schmerz und die Wunden heilen könnten, die diese monströsen und barbarischen Taten geschlage",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Sachsen-Anhalt - SPD-Bundestagsabgeordnete demonstrieren mit Protestmarsch gegen Landtagspräsidenten von der AfD",
       "excerpt": "Nach der Wahl des AfD-Abgeordneten Rausch zum Landtagspräsidenten in Sachsen-Anhalt hat die SPD-Bundestagsfraktion gegen das Abstimmungsergebnis demonstriert.",
-      "url": "https://www.deutschlandfunk.de/spd-bundestagsabgeordnete-demonstrieren-mit-protestmarsch-gegen-landtagspraesidenten-von-der-afd-102.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "url": "https://www.deutschlandfunk.de/spd-bundestagsabgeordnete-demonstrieren-mit-protestmarsch-gegen-landtagspraesidenten-von-der-afd-106.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Groß-Demo in Paris - Schülerproteste: Krisensitzung mit Präsident Macron nach erneuten Zusammenstößen mit Polizei",
+      "excerpt": "Wegen anhaltender Massenproteste von Schülerinnen und Schülern hat Präsident Macron sich am Dienstagabend in einer Krisensitzung zur Lage mit weiteren Politikern beraten. Daran nahmen Premierminister Lecornu, Innenminist",
+      "url": "https://www.deutschlandfunk.de/schuelerproteste-krisensitzung-mit-praesident-macron-nach-erneuten-zusammenstoessen-mit-polizei-100.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Treffen des Koalitionsausschusses - Union und SPD beraten über Reformkurs",
+      "excerpt": "Zum ersten Mal seit gut drei Monaten kommen die Spitzen von Union und SPD zu einer Sitzung des Koalitionsausschusses zusammen.",
+      "url": "https://www.deutschlandfunk.de/union-und-spd-beraten-ueber-reformkurs-100.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Appell - Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot in Berlin",
+      "excerpt": "Nach der Wahl zum Berliner Abgeordnetenhaus warnen zahlreiche Menschen aus Politik und Zivilgesellschaft vor einer Koalition unter Führung der Linken.",
+      "url": "https://www.deutschlandfunk.de/prominente-von-cdu-gruenen-und-spd-warnen-vor-rot-gruen-rot-in-berlin-106.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Christa Pike - US-amerikanische Überlebende der Giftspritze nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
+      "excerpt": "Die zum Tode verurteilte US-Amerikanerin Christa Pike ist nach dem gescheiterten Hinrichtungsversuch wieder bei Bewusstsein.",
+      "url": "https://www.deutschlandfunk.de/us-amerikanische-ueberlebende-der-giftspritze-nach-gescheitertem-hinrichtungsversuch-wieder-bei-bewu-102.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Spionage-Verdacht gegen Ex-BND-Chef - Hanning wird Ermittlungsrichter vorgeführt",
+      "excerpt": "Der unter Spionageverdacht stehende frühere BND-Chef Hanning soll heute einem Ermittlungsrichter des Bundesgerichtshofs vorgeführt werden.",
+      "url": "https://www.deutschlandfunk.de/hanning-wird-ermittlungsrichter-vorgefuehrt-100.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Magdeburg - SPD-Kandidat Willingmann bei Wahl zum Vize-Landtagspräsidenten in Sachsen-Anhalt durchgefallen",
       "excerpt": "Nach der Wahl des AfD-Abgeordneten Rausch zum Landtagspräsidenten in Sachsen-Anhalt ist die SPD mit ihrem Vorschlag für einen der Stellvertreterposten gescheitert.",
-      "url": "https://www.deutschlandfunk.de/spd-kandidat-willingmann-bei-wahl-zum-vize-landtagspraesidenten-in-sachsen-anhalt-durchgefallen-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sachsen-Anhalt - Debatte um CDU-Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium",
-      "excerpt": "Die SPD fordert die CDU auf, das Abstimmungsverhalten ihrer Abgeordneten im Magdeburger Landtag zu klären. Dort war der AfD-Politiker Rausch zum Landtagspräsidenten gewählt worden. Die BSW-Fraktion verhalf ihm dabei wie ",
-      "url": "https://www.deutschlandfunk.de/debatte-um-cdu-abstimmungsverhalten-nach-wahl-von-afd-politikern-ins-landtagspraesidium-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "url": "https://www.deutschlandfunk.de/spd-kandidat-willingmann-bei-wahl-zum-vize-landtagspraesidenten-in-sachsen-anhalt-durchgefallen-106.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Ukraine - Selenskyj warnt vor neuem Großangriff Russlands und bittet um mehr Waffen zur Verteidigung",
       "excerpt": "Die Ukraine rechnet nach den Worten von Präsident Selenskyj mit einem neuen Großangriff des russischen Militärs.",
-      "url": "https://www.deutschlandfunk.de/selenskyj-warnt-vor-neuem-grossangriff-russlands-und-bittet-um-mehr-waffen-zur-verteidigung-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Klimapolitik - Weniger deutsches Geld für Klimaschutz in ärmeren Ländern",
-      "excerpt": "Deutschland hat im vergangenen Jahr weniger Haushaltsmittel für Klimaschutz und die Anpassung an die Erderwärmung in ärmeren Ländern gezahlt.",
-      "url": "https://www.deutschlandfunk.de/weniger-deutsches-geld-fuer-klimaschutz-in-aermeren-laendern-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wegen Umweltbedenken - Finnland stoppt Arbeiten für zwei Google-Rechenzentren",
-      "excerpt": "Die finnischen Behörden haben die Bauarbeiten für zwei Rechenzentren des US-Konzerns Google vorerst stark eingeschränkt.",
-      "url": "https://www.deutschlandfunk.de/finnland-stoppt-arbeiten-fuer-zwei-google-rechenzentren-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "url": "https://www.deutschlandfunk.de/selenskyj-warnt-vor-neuem-grossangriff-russlands-und-bittet-um-mehr-waffen-zur-verteidigung-102.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "EU-Beitritt - Von der Leyen will Verfahren vereinfachen",
       "excerpt": "Die EU-Kommission will den Prozess für Beitrittskandidaten vereinfachen und gleichzeitig stärkere Schutzklauseln in die Verträge aufnehmen.",
-      "url": "https://www.deutschlandfunk.de/von-der-leyen-will-verfahren-vereinfachen-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "url": "https://www.deutschlandfunk.de/von-der-leyen-will-verfahren-vereinfachen-106.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wegen Umweltbedenken - Finnland stoppt Arbeiten für zwei Google-Rechenzentren",
+      "excerpt": "Die finnischen Behörden haben die Bauarbeiten für zwei Rechenzentren des US-Konzerns Google vorerst stark eingeschränkt.",
+      "url": "https://www.deutschlandfunk.de/finnland-stoppt-arbeiten-fuer-zwei-google-rechenzentren-106.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hollywood - Schauspielerin Eva Marie Saint mit 102 Jahren gestorben",
+      "excerpt": "Die Schauspielerin Eva Marie Saint ist im Alter von 102 Jahren gestorben.",
+      "url": "https://www.deutschlandfunk.de/schauspielerin-eva-marie-saint-mit-102-jahren-gestorben-102.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Zentralafrika - UNO warnt vor Gesundheitsgefahren durch Handel mit illegalen Medikamenten",
       "excerpt": "Die Vereinten Nationen haben vor gesundheitlichen Risiken durch den Handel mit illegalen Medikamenten in Zentralafrika gewarnt.",
-      "url": "https://www.deutschlandfunk.de/uno-warnt-vor-gesundheitsgefahren-durch-handel-mit-illegalen-medikamenten-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "url": "https://www.deutschlandfunk.de/uno-warnt-vor-gesundheitsgefahren-durch-handel-mit-illegalen-medikamenten-104.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Jahrestag - Israels Verteidigungsminister Katz versetzt Armee vor 7. Oktober in Alarmbereitschaft",
-      "excerpt": "Anlässlich des dritten Jahrestags des Angriffs der islamistischen Hamas vom 7. Oktober hat Israels Verteidigungsminister Katz die Armee in Alarmbereitschaft versetzt.",
-      "url": "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-versetzt-armee-vor-7-oktober-in-alarmbereitschaft-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
+      "title": "Wetter - Am Mittwoch nach Nebelauflösung meist heiter, im Norden und Westen etwas Regen",
+      "excerpt": "Das Wetter: In der Nacht im äußersten Süden und Südosten sowie im Norden etwas Regen, örtlich Schauer. Sonst gering bewölkt oder klar, gebietsweise Nebel. Tiefstwerte 14 bis 5 Grad. Am Tag nach Nebelauflösung oft heiter.",
+      "url": "https://www.deutschlandfunk.de/am-mittwoch-nach-nebelaufloesung-meist-heiter-im-norden-und-westen-etwas-regen-112.html",
+      "publishedAt": "2026-10-06T23:29:56.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen",
-      "excerpt": "Der frühere Chef des Bundesnachrichtendienstes, Hanning, ist wegen Spionageverdachts festgenommen worden. Wie der Generalbundesanwalt mitteilte, wird Hanning unter anderem des versuchten Landesverrats und der geheimdiens",
-      "url": "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-rufe-nach-konsequenzen-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
+      "excerpt": "Die Spionage-Vorwürfe gegen Ex-BND-Chef Hanning haben \"an den Grundfesten gerüttelt\", so der Vorsitzende des Parlamentarischen Kontrollgremiums, Henrichmann, im tagesthemen-Interview. Das Wichtigste sei nun eine lückenlo",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
+      "publishedAt": "2026-10-06T22:05:31.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Katalonien - Spaniens Justiz ermöglicht Rückkehr von Separatistenführer Puigdemont",
-      "excerpt": "Das spanische Verfassungsgericht ermöglicht laut Medienberichten eine Rückkehr des katalanischen Separatistenführers Puigdemont in sein Heimatland. Demnach entschieden die Richter in Madrid, dass Puigdemonts einstige Ver",
-      "url": "https://www.deutschlandfunk.de/spaniens-justiz-ermoeglicht-rueckkehr-von-separatistenfuehrer-puigdemont-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "CDU-Politiker fordert höhere Erbschaftsteuer",
+      "excerpt": "»Leistung muss mehr zählen als Herkunft«: Der Vorsitzende der Arbeitnehmergruppe in der Unionsfraktion, Stefan Nacke, plädiert laut »SZ« für eine höhere Erbschaftsteuer – und weicht damit deutlich von der Parteilinie ab.",
+      "url": "https://www.spiegel.de/politik/deutschland/cdu-politiker-fordert-hoehere-erbschaftsteuer-a-58302aea-ff2e-457a-8905-0a42ddd09177#ref=rss",
+      "publishedAt": "2026-10-06T20:59:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Umstrittene Mega-Fusion - Paramount schließt Warner-Übernahme ab",
-      "excerpt": "Der Unterhaltungskonzern Paramount hat die Übernahme des Hollywood-Konkurrenten Warner Brothers abgeschlossen. Die Aktie des neuen Dachkonzerns \"Skydance\" werde ab sofort an der New Yorker Börse gehandelt werden, wie das",
-      "url": "https://www.deutschlandfunk.de/paramount-schliesst-warner-uebernahme-ab-102.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Berlin: Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot",
+      "excerpt": "Joschka Fischer, Wolfgang Thierse, Peter Altmaier: Dutzende bekannte Stimmen sprechen sich in einem Appell gegen eine Regierung von Linken, Grünen und SPD in Berlin aus. Die Vorsondierungen gehen derweil weiter.",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-prominente-von-cdu-gruenen-und-spd-warnen-vor-rot-gruen-rot-a-0464a4d2-0dc7-471b-b03c-5507496a3f78#ref=rss",
+      "publishedAt": "2026-10-06T20:39:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Buchmesse - \"Frankfurter Appell\" fordert Regulierung von Künstlicher Intelligenz",
-      "excerpt": "Zum Auftakt der Frankfurter Buchmesse hat der Börsenverein des Deutschen Buchhandels einen Aufruf zur Regulierung von Künstlicher Intelligenz veröffentlicht.",
-      "url": "https://www.deutschlandfunk.de/frankfurter-appell-fordert-regulierung-von-kuenstlicher-intelligenz-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Sachsen-Anhalt: Wo kommen die CDU-Stimmen für die AfD her?",
+      "excerpt": "Deutschlands erster AfD-Landtagspräsident erhielt vier Stimmen mehr, als AfD und BSW Sitze im Landtag von Magdeburg haben. Nach SPIEGEL-Informationen wird unter Christdemokraten nach den Schuldigen gesucht.",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wo-kommen-die-cdu-stimmen-fuer-die-afd-her-a-75c34cdd-db02-4439-a358-1aeda702aa5c#ref=rss",
+      "publishedAt": "2026-10-06T20:29:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen",
-      "excerpt": "Der Nobelpreis für Physik geht in diesem Jahr an den belgisch-US-amerikanischen Teilchenforscher Francis Halzen. Er wird für seine entscheidenden Beiträge zum Neutrino-Observatorium \"IceCube\" und zur Entdeckung hochenerg",
-      "url": "https://www.deutschlandfunk.de/physik-nobelpreis-an-neutrinoforscher-francis-halzen-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sachsen-Anhalt - Erster Landtagspräsident von der AfD - Rausch: \"Ich bin kein Hardliner, ich bin pragmatisch\"",
-      "excerpt": "Der AfD-Politiker Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige ist nach eigenen Angaben seit 2013 Mitglied der AfD. In der Partei gilt er als gut vernetzt. Auch bringt er parlamentarische E",
-      "url": "https://www.deutschlandfunk.de/erster-landtagspraesident-von-der-afd-rausch-ich-bin-kein-hardliner-ich-bin-pragmatisch-100.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - Tarifabschluss für Beschäftigte in deutschen Seehäfen",
-      "excerpt": "Der Zentralverband der deutschen Seehafenbetriebe und die Dienstleistungsgewerkschaft Verdi haben sich auf einen Tarifvertrag für die rund 11.000 Beschäftigten geeinigt.",
-      "url": "https://www.deutschlandfunk.de/tarifabschluss-fuer-beschaeftigte-in-deutschen-seehaefen-102.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Braunschweig - Germanwings-Prozess: Gericht weist Klage Hinterbliebener ab",
-      "excerpt": "Im Prozess um zusätzliches Schmerzensgeld für Angehörige der Opfer des Absturzes einer Germanwings-Maschine ist die Klage abgewiesen worden. 30 Hinterbliebene hatten Ansprüche von jeweils bis zu 110.000 Euro gegen die Bu",
-      "url": "https://www.deutschlandfunk.de/germanwings-prozess-gericht-weist-klage-hinterbliebener-ab-102.html",
-      "publishedAt": "2026-10-06T19:23:20.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+      "excerpt": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Caro",
+      "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+      "publishedAt": "2026-10-06T19:54:16.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -770,36 +778,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Bundeswehr: KI sortiert jetzt rechtsextreme Bewerber aus",
-      "excerpt": "Um Extremisten von der Bundeswehr fernzuhalten, durchleuchtet der Truppengeheimdienst MAD die Internetkonten aller Bewerber – per künstlicher Intelligenz. Und die Software wird fündig.",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-ki-sortiert-jetzt-rechtsextreme-bewerber-aus-a-c71ee40d-15a7-4b2e-a074-c2607461b164#ref=rss",
-      "publishedAt": "2026-10-05T16:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Neuwahlen in Spanien, Medizin-Nobelpreis",
-      "excerpt": "Die Neuzulassung von Elektroautos erreicht einen Rekord. In Spanien haben geplante Gesetze gegen die Wohnungsnot die Regierung gesprengt. Und der Medizin-Nobelpreis geht an zwei Deutsche – und Markus Söder. Das ist die L",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-rekord-bei-neuzulassungen-fuer-elektroautos-sanchez-kuendigt-neuwahlen-in-spanien-medizin-nobelpreis-fuer-zwei-deutsche-a-7e10d801-7db4-448c-8f36-a7f00e41d2f7#ref=rss",
-      "publishedAt": "2026-10-05T15:54:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
       "excerpt": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
       "publishedAt": "2026-10-05T15:50:10.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Geheimdienste: Chefs warnen vor Russland und vernetzten Extremisten",
-      "excerpt": "Was will Russland? Welche Gefahren bringt eine AfD-Regierung in Sachsen-Anhalt mit sich? Vor Abgeordneten analysieren die Chefs der deutschen Geheimdienste die aktuelle Bedrohungslage und werden dabei ungewöhnlich deutli",
-      "url": "https://www.spiegel.de/politik/deutschland/geheimdienste-chefs-warnen-vor-russland-und-vernetzten-extremisten-a-54322a6a-7af9-4ac2-9e2b-614a96cf4afa#ref=rss",
-      "publishedAt": "2026-10-05T15:17:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -952,14 +936,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
       "publishedAt": "2026-10-05T03:39:00.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
-      "excerpt": "Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen",
-      "url": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
-      "publishedAt": "2026-10-05T03:04:40.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1143,14 +1119,6 @@
       "excerpt": "Die Verleihung des Westfälischen Friedenspreises an die NATO in Münster hat Kanzler Merz für eine Grundsatzrede genutzt. Er unterstrich die Bedeutung der Allianz - auch, um \"Moskau Einhalt zu gebieten\".",
       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
       "publishedAt": "2026-10-01T19:41:16.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-      "excerpt": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-      "publishedAt": "2026-10-01T17:49:18.000Z",
       "category": "INNENPOLITIK"
     },
     {
