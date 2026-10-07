@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-10-07T19:32:22.121Z",
+  "updatedAt": "2026-10-07T23:50:14.220Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Klatsche vom Europäischen Rechnungshof - EU verschleudert trotz Rekord-Schulden Milliarden",
+      "excerpt": "Teures Versagen: Rechnungshof findet Unregelmäßigkeiten bei über 50 Milliarden Euro",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/rechnungshof-eu-gelder-von-6-7-milliarden-euro-mit-erheblichen-fehlern-6ac5f1d0b87614811a35745d",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "3000 Beamte mehr? - Zoll-Aufstand wegen neuer Tabaksteuer",
+      "excerpt": "Die geplante Steuer könnte den Schwarzmarkt stärken und bis zu 300 Millionen Euro kosten.",
+      "url": "https://www.bild.de/politik/inland/tabaksteuer-3000-zusaetzliche-stellen-noetig-ministerium-widerspricht-6ac60c7ff69f0a623981f451",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Sabotage“-Vorwurf - Wadephul-Mitarbeiterinnen treten in Gender-Streik?",
+      "excerpt": "Abteilungsleiterinnen blockieren im Auswärtigen Amt genderfreie Anweisungen.",
+      "url": "https://www.bild.de/politik/inland/sabotage-vorwurf-wadephul-mitarbeiterinnen-treten-in-gender-streik-6aaea936708e760b5e06445f",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Schröder in Moskau - An Putins Geburtstag ist ein alter Freund nicht weit",
       "excerpt": "Russland tötet bei Raketenangriffen auf die Ukraine mindestens 14 Menschen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/gerhard-schroeder-geschaeftstermin-in-moskau-an-putins-geburtstag-6ac63665f69f0a623981fa76",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +46,7 @@
       "title": "Mega-Deal - Trump-Freunde übernehmen Trump-kritischen Sender",
       "excerpt": "Der Medien-Riese Paramount schluckt ein großes Filmstudio mit Nachrichtensender.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/mega-deal-trump-freunde-uebernehmen-trump-kritischen-sender-6ac685b548fc4583fc769155",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +54,7 @@
       "title": "Israel trauert um seine Terror-Opfer - 1200 Särge und eine „Blut“-Fontäne",
       "excerpt": "Israel gedenkt drei Jahre nach dem Hamas-Massaker der mehr als 1200 Opfer.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/7-oktober-israel-ehrt-opfer-mit-mehr-als-1200-saergen-in-tel-aviv-6ac65970680a65c2883c3ae7",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -30,15 +62,7 @@
       "title": "Ex-BND-Chef Hanning hatte heftige Schulden - Bettelbrief an den Kanzler",
       "excerpt": "Ex-BND-Chef sitzt wegen des Verdachts auf Landesverrat in Untersuchungshaft.",
       "url": "https://www.bild.de/politik/inland/ex-bnd-chef-hanning-hatte-heftige-schulden-bettelbrief-an-den-kanzler-6ac650d4680a65c2883c39f7",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gewerkschaft sagt voraus - Tabaksteuer! Zoll braucht 3000 Beamte zusätzlich",
-      "excerpt": "Die geplante Steuer könnte den Schwarzmarkt stärken und bis zu 300 Millionen Euro kosten.",
-      "url": "https://www.bild.de/politik/inland/tabaksteuer-3000-zusaetzliche-stellen-noetig-ministerium-widerspricht-6ac60c7ff69f0a623981f451",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +70,7 @@
       "title": "Sondersitzung in Sachsen-Anhalt - AfD und BSW wollen „Friedensantrag“ stellen",
       "excerpt": "AfD und BSW beantragen ein Sondersitzung zu Waffenlieferungen und Sanktionen.",
       "url": "https://www.bild.de/politik/inland/sachsen-anhalt-afd-und-bsw-beantragen-sondersitzung-zur-ukraine-6ac652911f1875475631ae30",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +78,7 @@
       "title": "Koalitions-Zoff - „Merz und Klingbeil stellen sich die Vertrauensfrage“",
       "excerpt": "Union und SPD streiten über stockende Reformen und ihre gemeinsame Zukunft.",
       "url": "https://www.bild.de/politik/koalitions-zoff-merz-und-klingbeil-stellen-sich-die-vertrauensfrage-6ac63d3f1f1875475631abfb",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +86,7 @@
       "title": "Koalitionsausschuss - Jetzt Showdown zwischen SPD und Union",
       "excerpt": "Schaffen es die Spitzen von Union und SPD, sich noch einmal zusammenzuraufen?",
       "url": "https://www.bild.de/politik/inland/koalitionsausschuss-union-verlangt-von-kanzler-merz-verhandlungshaerte-6ac617656a0860be6e20931c",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +94,7 @@
       "title": "Aus Sachsen - Papst durfte dieses Geschenk nicht anschneiden",
       "excerpt": "Das Geschenk aus Sachsen ist riesig. Es durfte nicht ins Flugzeug. Probieren war verboten.",
       "url": "https://www.bild.de/politik/inland/aus-sachsen-papst-durfte-dieses-geschenk-nicht-anschneiden-6ac4a0cb7ca0bfd8ca155cad",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +102,7 @@
       "title": "Im Gedenken an die Opfer des 7. Oktober - „Wut und Trauer“ auf dem Festival-Gelände",
       "excerpt": "Drei Jahre nach dem Hamas-Angriff bleiben Angehörige von 378 Opfern in Wut und Trauer zurück.",
       "url": "https://www.bild.de/politik/im-gedenken-an-die-opfer-des-7-oktober-wut-und-trauer-auf-dem-festival-gelaende-6ac610c2b87614811a357725",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +110,7 @@
       "title": "Jahrestag des Hamas-Massakers - Jusos distanzieren sich von Gedenk-Reise nach Israel",
       "excerpt": "Junge SPD-Politiker gedenken in Jerusalem der Hamas-Opfer, Parteifreunde kritisieren sie.",
       "url": "https://www.bild.de/politik/inland/hamas-massaker-juso-spitze-distanziert-sich-von-gedenk-reise-nach-israel-6ac63925b87614811a357b60",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +118,7 @@
       "title": "Eine Stunde Alarmstimmung im Kabinett - Sachsens Innenminister zeichnet düstere Sicherheitslage",
       "excerpt": "Neues Gremium soll Bedrohungen wie Cyberangriffe und Sabotage früh erkennen.",
       "url": "https://www.bild.de/politik/inland/alarmstimmung-im-kabinett-sachsens-innenminister-mit-duesterer-sicherheitslage-6ac610c6b87614811a357729",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Ex-BND-Chef sitzt in Untersuchungshaft - Hanning weist Spionage-Vorwürfe zurück",
       "excerpt": "Sein Anwalt bestreitet die Weitergabe vertraulicher Daten und spricht von Verfolgung.",
       "url": "https://www.bild.de/politik/inland/august-hanning-anwalt-weist-vorwuerfe-zurueck-haftbefehl-in-kraft-6ac652e575caf261c519c839",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "Erster Schritt geglückt - Erfolgreicher Testlauf für Siegmunds Machtplan",
       "excerpt": "Siegmund gewinnt mit Rauschs Wahl Macht auf dem Weg ins Amt des Regierungschefs.",
       "url": "https://www.bild.de/politik/inland/erster-schritt-geglueckt-erfolgreicher-testlauf-fuer-siegmunds-machtplan-6ac50694321809b09dd08139",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
@@ -118,176 +142,200 @@
       "title": "Extremisten wollen Berlin regieren - Linken-Regierung verhindern! Kanzler-Ansage an SPD und Grüne",
       "excerpt": "Friedrich Merz warnt vor einer Linksregierung in Berlin.",
       "url": "https://www.bild.de/politik/inland/merz-spd-und-gruene-sollen-linken-regierung-in-berlin-verhindern-6ac6510048fc4583fc768d1a",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
+      "publishedAt": "2026-10-07T23:50:13.480Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Israels Präsident Herzog im BILD-Interview - „Wir bluten psychisch aus“",
-      "excerpt": "Israels Staatspräsident Herzog spricht im exklusiven BILD-Interview mit Axel Springer Global Reporter Jan Philipp Burgard über die F...",
-      "url": "https://www.bild.de/politik/israels-praesident-herzog-im-bild-interview-wir-bluten-psychisch-aus-6ac4ee566a0860be6e2083b8",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Heikles Geheimpapier - Wackelt das nächste CDU-Versprechen?",
-      "excerpt": "Interner Unionsvorstoß fordert höhere Steuern auf große Erbschaften.",
-      "url": "https://www.bild.de/politik/inland/heikles-geheimpapier-wackelt-das-naechste-cdu-versprechen-6ac6051742646558962927f0",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "400.000 Fluggäste weg! - Ryanair streicht weiteren Flughafen in Deutschland",
-      "excerpt": "Die Billigairline zieht sich ab April 2027 komplett aus der Hansestadt zurück.",
-      "url": "https://www.bild.de/politik/inland/ryanair-bremen-airline-verlaesst-flughafen-400-000-passagiere-weg-6ac61b8bb87614811a35784c",
-      "publishedAt": "2026-10-07T19:32:22.116Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Paris - Steinmeier zu Staatsbesuch in Frankreich: Empfang mit militärischen Ehren am Triumphbogen",
+      "excerpt": "Bundespräsident Steinmeier wird heute bei seinem Staatsbesuch in Frankreich von Gastgeber Macron mit militärischen Ehren am Pariser Triumphbogen empfangen.",
+      "url": "https://www.deutschlandfunk.de/steinmeier-zu-staatsbesuch-in-frankreich-empfang-mit-militaerischen-ehren-am-triumphbogen-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich",
       "excerpt": "Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordne",
-      "url": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "url": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - Staatsministerin Güler geht von CDU-Stimmen für AfD-Mann aus",
+      "excerpt": "Die CDU-Bundestagsabgeordnete Güler geht davon aus, dass der neue Landtagspräsident in Sachsen-Anhalt von der AfD auch mit Stimmen aus ihrer Partei ins Amt gewählt worden ist.",
+      "url": "https://www.deutschlandfunk.de/staatsministerin-gueler-geht-von-cdu-stimmen-fuer-afd-mann-aus-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - BSW bekräftigt, AfD-Vordenker Tillschneider nicht gewählt zu haben",
+      "excerpt": "Das BSW hat noch einmal betont, den AfD-Politiker Tillschneider nicht zum Landtags-Vizepräsidenten gewählt zu haben.",
+      "url": "https://www.deutschlandfunk.de/bsw-bekraeftigt-afd-vordenker-tillschneider-nicht-gewaehlt-zu-haben-104.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Sachsen-Anhalt - SPD beendet Initiative für Regierung mit überparteilichem Ministerpräsidenten",
       "excerpt": "Nach der Wahl des AfD-Abgeordneten Rausch zum Landtagspräsidenten von Sachsen-Anhalt will die SPD nicht erneut zu Gesprächen über eine überparteiliche Landesregierung einladen.",
-      "url": "https://www.deutschlandfunk.de/spd-beendet-initiative-fuer-regierung-mit-ueberparteilichem-ministerpraesidenten-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "url": "https://www.deutschlandfunk.de/spd-beendet-initiative-fuer-regierung-mit-ueberparteilichem-ministerpraesidenten-108.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Landtag - AfD und BSW in Sachsen-Anhalt fordern Stopp deutscher Ukraine-Hilfen",
       "excerpt": "AfD und BSW im Landtag von Sachsen-Anhalt fordern einen Stopp der deutschen Hilfen für die Ukraine.",
-      "url": "https://www.deutschlandfunk.de/afd-und-bsw-in-sachsen-anhalt-fordern-stopp-deutscher-ukraine-hilfen-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "url": "https://www.deutschlandfunk.de/afd-und-bsw-in-sachsen-anhalt-fordern-stopp-deutscher-ukraine-hilfen-104.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Staatsbesuch in Frankreich - Steinmeier: Europa braucht wieder Vernunft und Herz",
-      "excerpt": "Bundespräsident Steinmeier hat die Menschen in Europa angesichts der aktuellen Krisen zu mehr Besonnenheit und Menschlichkeit aufgerufen.",
-      "url": "https://www.deutschlandfunk.de/steinmeier-europa-braucht-wieder-vernunft-und-herz-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Staatsmodernisierung - Weniger Bürokratie, mehr Digitales: Wildberger zieht Zwischenbilanz",
+      "excerpt": "Bundesdigitalminister Wildberger hat einen Bericht zum Stand der Staatsmodernisierung im Kabinett vorgelegt.",
+      "url": "https://www.deutschlandfunk.de/weniger-buerokratie-mehr-digitales-wildberger-zieht-zwischenbilanz-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Spionageverdacht - Ex-BND-Präsident Hanning in U-Haft",
-      "excerpt": "Nach der Festnahme des ehemaligen BND-Präsidenten Hanning prüft das Bundesinnenministerium mögliche Verstöße gegen Geheimhaltungsvorschriften auch während dessen Zeit als Innenstaatssekretär. Der frühere BND-Präsident si",
-      "url": "https://www.deutschlandfunk.de/ex-bnd-praesident-hanning-in-u-haft-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Krankenkassenreform - Psychotherapien: Koalition bessert bei Sparplänen nach",
+      "excerpt": "Im Gesundheitsausschuss sind nach Angaben der SPD die vereinbarten Verbesserungen bei der psychotherapeutischen Versorgung auf den Weg gebracht worden.",
+      "url": "https://www.deutschlandfunk.de/psychotherapien-koalition-bessert-bei-sparplaenen-nach-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Reformpolitik - Koalitionsauschuss im Kanzleramt zusammengekommen",
-      "excerpt": "Im Kanzleramt in Berlin sind am Abend die Spitzen von Union und SPD zur ersten Sitzung des Koalitionsausschusses nach der Sommerpause zusammengekommen.",
-      "url": "https://www.deutschlandfunk.de/koalitionsauschuss-im-kanzleramt-zusammengekommen-102.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Reformpolitik - Koalitionsauschuss im Kanzleramt beendet",
+      "excerpt": "Im Kanzleramt in Berlin hat am Abend der Koalitionsausschusses erstmals seit der Sommerpause getagt. Über Ergebnisse soll die Öffentlichkeit im Laufe des Tages in schriftlicher Form unterrichtet werden. Aus Teilnehmerkre",
+      "url": "https://www.deutschlandfunk.de/koalitionsauschuss-im-kanzleramt-beendet-102.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Niedersachsen - Ermittlungen gegen SPD-Politiker Politze stehen wohl in Zusammenhang mit Vorwürfen gegen Berliner SPD-Politiker Krach",
-      "excerpt": "Die Ermittlungen gegen den niedersächsischen SPD-Fraktionschef Politze stehen offenbar in Zusammenhang mit Vorwürfen gegen den Berliner SPD-Politiker Krach.",
-      "url": "https://www.deutschlandfunk.de/ermittlungen-gegen-spd-politiker-politze-stehen-wohl-in-zusammenhang-mit-vorwuerfen-gegen-berliner-s-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Internet - Ermittler legen Plattform mit erpressten Nacktfotos lahm",
+      "excerpt": "Frankreich und die USA haben eine Internet-Plattform stillgelegt, über die intime Aufnahmen von rund 17.000 Frauen und Mädchen verschiedener Nationalität zum Verkauf angeboten wurden.",
+      "url": "https://www.deutschlandfunk.de/ermittler-legen-plattform-mit-erpressten-nacktfotos-lahm-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Umwelt - Polizei in Bayern sucht nach möglichem Puma",
-      "excerpt": "Die Polizei in Bayern hat in der Nähe des Flughafens München eine großangelegte Suchaktion nach einer möglichen entlaufenen Großkatze gestartet.",
-      "url": "https://www.deutschlandfunk.de/polizei-in-bayern-sucht-nach-moeglichem-puma-104.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Russland greift Ukraine wieder vermehrt an - mindestens 24 Tote",
-      "excerpt": "Bei neuen russischen Angriffen auf die Ukraine sind nach dortigen Angaben mindestens 24 Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/russland-greift-ukraine-wieder-vermehrt-an-mindestens-24-tote-104.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berlin - Bundespräsident Steinmeier gedenkt der Terroropfer des 7. Oktobers: Schlimmster Anschlag auf jüdisches Leben seit dem Holocaust",
-      "excerpt": "Bundespräsident Steinmeier hat den terroristischen Angriff auf Israel vor drei Jahren, als schlimmsten Anschlag auf jüdisches Leben seit dem Holocaust verurteilt. Steinmeier erklärte, die Terroristen hätten mit unvorstel",
-      "url": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-gedenkt-der-terroropfer-des-7-oktobers-schlimmster-anschlag-auf-juedisch-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Auswertung - Tankrabatt kommt größtenteils bei Autofahrern an - Spritpreise deutlich gesunken",
-      "excerpt": "Der seit dem 1. Oktober geltende Tankrabatt kommt nach Einschätzung von Experten des Ifo-Instituts sowie des ADAC nicht komplett, aber größtenteils bei den Autofahrern an. Beim Diesel haben die Tankstellen in den ersten ",
-      "url": "https://www.deutschlandfunk.de/tankrabatt-kommt-groesstenteils-bei-autofahrern-an-spritpreise-deutlich-gesunken-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundestag - Verkehrsausschuss macht Weg frei für Neubau der Bahntrasse Hannover-Hamburg",
-      "excerpt": "Der Verkehrsausschuss des Bundestags hat für den Neubau der Bahnstrecke zwischen Hannover und Hamburg gestimmt. In dem Gremium bestätigten Vertreter von CDU/CSU, SPD, Grünen und Linken das Ergebnis der sogenannten Vorpla",
-      "url": "https://www.deutschlandfunk.de/verkehrsausschuss-macht-weg-frei-fuer-neubau-der-bahntrasse-hannover-hamburg-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kriminalität - NRW-Innenminister Reul: Mitglied von russischer Hackergruppe festgenommen und nach Deutschland ausgeliefert",
-      "excerpt": "Ein Mitglied der russischen Hackergruppe \"Qilin\" ist festgenommen und nach Deutschland ausgeliefert worden.",
-      "url": "https://www.deutschlandfunk.de/nrw-innenminister-reul-mitglied-von-russischer-hackergruppe-festgenommen-und-nach-deutschland-ausgel-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Sachsen - Bauarbeiten für Sorbisches Wissensforum in Bauzen begonnen",
+      "excerpt": "Mit einem symbolischen Spatenstich haben in Bautzen die Bauarbeiten für das Sorbische Wissensforum begonnen.",
+      "url": "https://www.deutschlandfunk.de/bauarbeiten-fuer-sorbisches-wissensforum-in-bauzen-begonnen-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Bundesregierung - Kabinett beschließt höhere Sozialbeiträge für Gutverdiener",
       "excerpt": "Gutverdiener müssen sich für das kommende Jahr auf deutlich höhere Sozialabgaben einstellen.",
-      "url": "https://www.deutschlandfunk.de/kabinett-beschliesst-hoehere-sozialbeitraege-fuer-gutverdiener-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "url": "https://www.deutschlandfunk.de/kabinett-beschliesst-hoehere-sozialbeitraege-fuer-gutverdiener-106.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Bildung - Mehr als ein Drittel im Studium armutsgefährdet",
-      "excerpt": "Mehr als ein Drittel der Studenten in Deutschland ist einer Auswertung des Paritätischen Gesamtverbands zufolge von Armut betroffen.",
-      "url": "https://www.deutschlandfunk.de/mehr-als-ein-drittel-im-studium-armutsgefaehrdet-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Autobranche - Audi will Personal an Rüstungsunternehmen ausleihen",
+      "excerpt": "Der Autohersteller Audi will Teilen des Personals anbieten, übergangsweise für Rüstungsbetriebe tätig zu sein.",
+      "url": "https://www.deutschlandfunk.de/audi-will-personal-an-ruestungsunternehmen-ausleihen-104.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Frankreich - Schülerproteste nehmen leicht ab - Schockgranaten vorerst tabu",
-      "excerpt": "Nach einem Protesttag mit Hunderttausenden auf der Straße haben sich die Schülerproteste in Frankreich etwas beruhigt. In etwa 530 Oberstufen fiel nach Angaben der Regierung erneut der Unterricht aus, etwa 40 Prozent wen",
-      "url": "https://www.deutschlandfunk.de/schuelerproteste-nehmen-leicht-ab-schockgranaten-vorerst-tabu-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Berlin - Weiteres Vorgespräch von Linken, SPD und Grünen - keine Angaben zu Inhalten",
+      "excerpt": "In Berlin ist weiter unklar, ob es Sondierungen von Linken, SPD und Grünen zur Bildung einer Landesregierung geben wird.",
+      "url": "https://www.deutschlandfunk.de/weiteres-vorgespraech-von-linken-spd-und-gruenen-keine-angaben-zu-inhalten-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Soziales - Geplante Pflegekommission verzögert sich",
-      "excerpt": "Die Einsetzung der Pflegekommission ist verschoben worden.",
-      "url": "https://www.deutschlandfunk.de/geplante-pflegekommission-verzoegert-sich-100.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Niedersachsen - Ermittlungen gegen SPD-Politiker Politze stehen wohl in Zusammenhang mit Vorwürfen gegen Berliner SPD-Politiker Krach",
+      "excerpt": "Die Ermittlungen gegen den niedersächsischen SPD-Fraktionschef Politze stehen offenbar in Zusammenhang mit Vorwürfen gegen den Berliner SPD-Politiker Krach.",
+      "url": "https://www.deutschlandfunk.de/ermittlungen-gegen-spd-politiker-politze-stehen-wohl-in-zusammenhang-mit-vorwuerfen-gegen-berliner-s-106.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Weltgesundheitsorganisation - WHO fordert von Russland Informationen zu möglichem zweiten Lungenpest-Fall",
-      "excerpt": "Nach Berichten über einen möglichen zweiten Lungenpest-Fall in Sibirien fordert die Weltgesundheitsorganisation Russland zu Transparenz auf. WHO-Chef Tedros teilte mit, man habe von Moskau Informationen dazu angefordert.",
-      "url": "https://www.deutschlandfunk.de/who-fordert-von-russland-informationen-zu-moeglichem-zweiten-lungenpest-fall-102.html",
-      "publishedAt": "2026-10-07T19:14:41.000Z",
+      "title": "Spionageverdacht - Bundesinnenministerium prüft mögliche Geheimhaltungsverstöße von Ex-BND-Chef Hanning",
+      "excerpt": "Nach der Festnahme des ehemaligen BND-Präsidenten Hanning prüft das Bundesinnenministerium mögliche Verstöße gegen Geheimhaltungsvorschriften auch während dessen Zeit als Innenstaatssekretär.",
+      "url": "https://www.deutschlandfunk.de/bundesinnenministerium-prueft-moegliche-geheimhaltungsverstoesse-von-ex-bnd-chef-hanning-100.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
       "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Interview der Woche - EU-Handelskommissar Šefčovič wünscht sich im Handels-Konflikt mit China schnellere und wirkungsvollere Schutzinstrumente",
+      "excerpt": "EU-Handelskommissar Šefčovič plädiert vor den geplanten Handelsgesprächen mit China für ein einheitliches Vorgehen und schnellere Entscheidungen der europäischen Mitgliedsstaaten. Šefčovič sagte im \"Interview der Woche\" ",
+      "url": "https://www.deutschlandfunk.de/eu-handelskommissar-ef-ovi-wuenscht-sich-im-handels-konflikt-mit-china-schnellere-und-wirkungsvoller-102.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach G7-Forderung - IEA-Mitgliedsstaaten wollen Freigabe von Ölreserven beschleunigen",
+      "excerpt": "Die Mitgliedsländer der Internationalen Energieagentur wollen die Freigabe von Ölreserven beschleunigen.",
+      "url": "https://www.deutschlandfunk.de/iea-mitgliedsstaaten-wollen-freigabe-von-oelreserven-beschleunigen-104.html",
+      "publishedAt": "2026-10-07T23:45:16.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+      "excerpt": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
+      "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+      "publishedAt": "2026-10-07T23:25:54.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+      "excerpt": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lung",
+      "url": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+      "publishedAt": "2026-10-07T22:05:42.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+      "excerpt": "Hitze, ausgetrocknete Flüsse und zunehmende Risiken für Menschen, Natur und Wirtschaft: Die Folgen der Erderwärmung sind unübersehbar. Beim Streitthema Klima will ein neuer SPD-naher Verein nun vorangehen. Von D. Hebestr",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+      "publishedAt": "2026-10-07T22:01:18.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
+      "excerpt": "Diesmal ging es verhältnismäßig schnell: Die Spitzen von CDU, CSU und SPD haben noch am späten Mittwochabend den Koalitionsausschuss beendet. Details soll es am Donnerstag geben.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
+      "publishedAt": "2026-10-07T21:32:31.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+      "excerpt": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzlichen Finanzhilfen in Aussicht zu stellen. Doch neue Proteste sind bereits angekünd",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+      "publishedAt": "2026-10-07T20:00:05.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+      "excerpt": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben.",
+      "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+      "publishedAt": "2026-10-07T19:38:22.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -859,14 +907,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
-      "excerpt": "Offene Debatten und politische Diskussionen: Meinungsfreiheit gehört zum nationalen Selbstverständnis der US-Amerikaner. Doch Studien zeigen: An den Universitäten behalten immer mehr ihre Ansichten lieber für sich. Von A",
-      "url": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
-      "publishedAt": "2026-10-06T05:22:59.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
       "excerpt": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartra",
       "url": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
@@ -888,14 +928,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html",
       "publishedAt": "2026-10-06T02:18:45.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "America.gov: Digitaler Service oder Überwachung per KI?",
-      "excerpt": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung. Doch wer liest mit, wenn Bürger einem Chatbot ihre Lebenssituation anvert",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-      "publishedAt": "2026-10-05T17:12:58.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -928,14 +960,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
       "publishedAt": "2026-10-05T16:42:44.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
-      "excerpt": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
-      "publishedAt": "2026-10-05T15:50:10.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -979,14 +1003,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
-      "excerpt": "Nach Einschätzung von BND-Chef Jäger ist Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko. Thema war auch die Lage in Sachsen-Anhalt.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
-      "publishedAt": "2026-10-05T12:29:07.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Moldau: Wassermangel trifft hohe Ölpreise",
       "excerpt": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Ru",
       "url": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
@@ -1027,27 +1043,11 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
-      "excerpt": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.",
-      "url": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
-      "publishedAt": "2026-10-05T09:14:13.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Rekordschmelze in den Schweizer Alpen",
       "excerpt": "Rekordschmelze in den Schweizer Alpen",
       "url": "https://www.tagesschau.de/video/video-1660576.html",
       "publishedAt": "2026-10-05T08:48:25.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
-      "excerpt": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen.",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
-      "publishedAt": "2026-10-05T07:22:10.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
