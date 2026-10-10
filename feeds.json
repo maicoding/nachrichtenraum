@@ -1,28 +1,68 @@
 {
-  "updatedAt": "2026-10-10T15:22:54.654Z",
+  "updatedAt": "2026-10-10T19:32:26.294Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Nach Geburtstagsbesuch bei Putin - SPD-Landeschefs wollen Schröder aus Partei werfen",
-      "excerpt": "Nach Besuch bei Putin fordern Politiker den Ausschluss des Ex-Kanzlers.",
-      "url": "https://www.bild.de/politik/inland/gerhard-schroeder-spd-politiker-fordern-erneut-parteiausschluss-6aca39c6eac0aea5d04de9dd",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "title": "Diesel-Streit mit Selenskyj - Trump: „Zeit für neuen Präsidenten in der Ukraine!“",
+      "excerpt": "Trump greift Selenskyj an: Ukraine soll einen neuen Präsidenten bekommen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/diesel-streit-mit-selenskyj-trump-es-ist-zeit-fuer-einen-neuen-praesidenten-in-der-ukraine-6aca6f058f1ae671e6ab95ff",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Brand zerstört Ukraine-Hilfsgüter - Feuer in Frankfurter Schule: War es ein Anschlag?",
-      "excerpt": "Ermittler vermuten Brandstiftung, der Staatsschutz ermittelt.",
-      "url": "https://www.bild.de/politik/inland/feuer-zerstoert-ukraine-hilfsgueter-in-frankfurt-war-es-ein-anschlag-6aca389a5528343575dff37e",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "title": "„Ständig neue, unerfüllte Versprechen“ - Seehofer rechnet mit Kanzler Merz ab",
+      "excerpt": "Horst Seehofer fordert von der Union eine Kehrtwende und warnt vor sozialer Kälte.",
+      "url": "https://www.bild.de/politik/inland/exklusiv-seehofer-rechnet-mit-kanzler-merz-ab-6ac9d74b0c38c0adace4c3d1",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Ukraine-Ticker - 17 Tote! Putin lässt Wohnhaus beschießen",
-      "excerpt": "Alles zu den aktuellen Entwicklungen im Ukraine-Krieg lesen Sie im Ticker.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "title": "Christian Sewing im BILD-Gespräch - „Einen hohen Betrag monatlich mehr an Rente!“",
+      "excerpt": "Bankchef Sewing fordert, die geplante Rentenreform unverändert umzusetzen.",
+      "url": "https://www.bild.de/politik/inland/deutsche-bank-chef-sewing-wir-muessen-an-den-kuendigungsschutz-ran-6ac896106e0a564ee52ea035",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "148.000 Haftbefehle offen - Fast 90 Prozent der Gesuchten haben ausländischen Pass",
+      "excerpt": "87,3 Prozent der Menschen mit Haftbefehl haben eine ausländische Staatsangehörigkeit.",
+      "url": "https://www.bild.de/politik/inland/haftbefehle-in-deutschland-87-3-prozent-haben-auslaendischen-pass-6aca7da461b3d4c01d3e2847",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Es geht um pflegende Angehörige - Sozialverband geht auf Linnemann los",
+      "excerpt": "Es gibt neuen Zoff um die Pflegereform von Carsten Linnemann.",
+      "url": "https://www.bild.de/politik/inland/es-geht-um-urlaub-fuer-pflegende-angehoerige-sozialverband-geht-auf-linnemann-los-6ac0c5dcc00ec0a4cc07acd2",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Fifa‑Boss Infantino gehörte zu seinen Favoriten - Trumps Suche nach „seinem“ neuen UN-Chef",
+      "excerpt": "Das Weiße Haus lehnt alle Bewerber für die Spitze der Vereinten Nationen ab.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-weisses-haus-lehnt-offenbar-alle-un-bewerber-ab-6aca5ac15528343575dff5a6",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Cyberangriff per WhatsApp - Verfassungsschutz warnt Politiker vor Fake-Diana",
+      "excerpt": "Teilnehmer einer Ukraine-Konferenz wurden über das Fake-Profil „Diana“ ausgespäht.",
+      "url": "https://www.bild.de/politik/inland/cyberangriff-per-whatsapp-verfassungsschutz-warnt-politiker-vor-fake-diana-6aca67495528343575dff64f",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Diesel-Deal mit Putin - Selenskyj wirft Trump Schwäche vor",
+      "excerpt": "Die Ukraine kritisiert den Diesel-Deal und bietet einen gegenseitigen Angriffs-Stopp an.",
+      "url": "https://www.bild.de/politik/praesident-trump-usa-wollen-wieder-diesel-aus-russland-importieren-6ac939e861b3d4c01d3e1968",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +70,47 @@
       "title": "Putins Horror-Drohne - Das können wir dagegen tun",
       "excerpt": "Billige Drohnen terrorisieren die ukrainische Zivilbevölkerung.",
       "url": "https://www.bild.de/politik/putins-horror-drohne-das-koennen-wir-dagegen-tun-6ac8e0eb5528343575dfe2fe",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusive Umfrage - Die Brandmauer spaltet Deutschland",
+      "excerpt": "Berlin – Deutschland streitet um die Brandmauer nach links und rechts. Führende Politiker der Union wie Bayerns Ministerpräsident Ma...",
+      "url": "https://www.bild.de/politik/inland/exklusive-umfrage-brandmauer-spaltet-die-union-6ac8ffba9ebc37bdca151184",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Russland gestärkt, Ukraine geschwächt - Trumps Diesel-Deal bringt Putin Milliarden ein",
+      "excerpt": "Trump erlaubt russische Dieselimporte. Doch sinken jetzt auch die Preise an der Zapfsäule?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-gestaerkt-ukraine-geschwaecht-trumps-diesel-deal-bringt-putin-milliarden-ein-6ac9e5bc61b3d4c01d3e1dd4",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ukraine-Ticker - 20 Tote! Putin lässt Wohnhaus beschießen",
+      "excerpt": "Alles zu den aktuellen Entwicklungen im Ukraine-Krieg lesen Sie im Ticker.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Anschlag? - Brand zerstört Ukraine-Hilfsgüter in Schule",
+      "excerpt": "Ermittler vermuten Brandstiftung, der Staatsschutz ermittelt.",
+      "url": "https://www.bild.de/politik/inland/feuer-zerstoert-ukraine-hilfsgueter-in-frankfurt-war-es-ein-anschlag-6aca389a5528343575dff37e",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nach Geburtstagsbesuch bei Putin - SPD-Landeschefs wollen Schröder aus Partei werfen",
+      "excerpt": "Nach Besuch bei Putin fordern Politiker den Ausschluss des Ex-Kanzlers.",
+      "url": "https://www.bild.de/politik/inland/gerhard-schroeder-spd-politiker-fordern-erneut-parteiausschluss-6aca39c6eac0aea5d04de9dd",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +118,7 @@
       "title": "„Ein Sicherheitsrisiko“ - Nouripour warnt Berliner Grüne vor Linken-Pakt",
       "excerpt": "Ein Ex-Parteichef kritisiert die mögliche Koalition mit der Linkspartei in Berlin.",
       "url": "https://www.bild.de/politik/inland/nouripour-warnt-berliner-gruene-vor-linken-pakt-sicherheitsrisiko-6aca20045528343575dff20f",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +126,7 @@
       "title": "Bundestags-Vize im Interview - Nouripour: Berliner Linke sind „Sicherheitsrisiko“",
       "excerpt": "Grünen-Politiker fordert Konsequenzen wegen Antisemitismus und Terror-Kontakten.",
       "url": "https://www.bild.de/politik/inland/omid-nouripour-berliner-linke-sind-sicherheitsrisiko-fuer-deutschland-6ac8f8a061b3d4c01d3e15a9",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +134,7 @@
       "title": "Nach Rückzug von BMW - AfD-Politikerin bittet Musk um Dienstwagen",
       "excerpt": "Nach BMWs Rückzug fragt Beatrix von Storch Tesla nach einem Wagen für Rausch.",
       "url": "https://www.bild.de/politik/inland/afd-bettelt-nach-rueckzug-von-bmw-bei-elon-musk-um-dienstwagen-von-tesla-6aca1be6194cb627ee596f40",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
@@ -62,111 +142,39 @@
       "title": "CSU-Frau soll Steinmeier nachfolgen - SPD-Vize will Aigner als Bundespräsidentin",
       "excerpt": "Wenige Monate vor der Wahl in Berlin kommt jetzt eine überraschende Empfehlung.",
       "url": "https://www.bild.de/politik/inland/nachfolgerin-von-steinmeier-spd-vize-traut-aigner-hoechstes-amt-im-staat-zu-6aca1d815528343575dff1e2",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Rot-Grün-Rot in Berlin - Merz-Vertrauter Weimer droht SPD-Chefs",
-      "excerpt": "Kulturstaatsminister warnt vor Folgen eines Bündnisses mit der Linkspartei.",
-      "url": "https://www.bild.de/politik/inland/wolfram-weimer-warnt-linksbuendnis-in-berlin-waere-misstrauensvotum-6ac9f7e25528343575dfef9a",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Er fantasierte von „Großdeutschland“ - Vorstand der AfD-Jugend stürzt über X-Post",
-      "excerpt": "Auf einem X-Post sprach der AfD-Mann von einer nicht vollendeten Deutschen Einheit.",
-      "url": "https://www.bild.de/politik/inland/afd-jugend-wirft-vorstand-nach-x-post-ueber-grossdeutschland-raus-6ac9f3ce5528343575dfef75",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Omid Nouripour über die Berliner Linken - Sie sind „ein Sicherheitsrisiko“",
-      "excerpt": "Nouripour fordert Konsequenzen von der Linken wegen Antisemitismus-Vorwürfen.",
-      "url": "https://www.bild.de/politik/omid-nouripour-ueber-die-berliner-linken-sie-sind-ein-sicherheitsrisiko-nicht-nur-fuer-berlin-6ac8ea930b20fe0c4d8b84f2",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Erstes Statement nach Hüft-OP - CDU-Reul: „Muss jetzt auf die Pausetaste drücken“",
-      "excerpt": "Der NRW-Innenminister erholt sich nach einem „blöden Stolperer“ von einem Hüftbruch.",
-      "url": "https://www.bild.de/politik/inland/reul-nach-hueft-op-muss-jetzt-auf-die-pausetaste-druecken-6aca10a8194cb627ee596e7f",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Putin-Rakete tötet die kleine Liza (6) - Eine verzweifelte Mutter fragt nach ihrer Tochter",
-      "excerpt": "Eine Familie wird nach einem russischen Angriff verschüttet. Die Mutter bangt um ihr Kind.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wladimir-putin-liess-ihr-haus-zerbomben-hier-fragt-yana-nach-ihrer-tochter-liza-6-6ac9e680d186affb369f3050",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Medizin-Exporte auf Rekordkurs - Deutsche Prothesen boomen in Russland!",
-      "excerpt": "Ausfuhren nach Russland steigen um 19 Prozent auf 112 Millionen Euro.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/exporte-auf-rekordkurs-deutsche-prothesen-boomen-in-russland-6ac9d3cc61b3d4c01d3e1cde",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Schändlich und blamabel“ - Trump wütet gegen Nobelpreis-Komitee",
-      "excerpt": "Der US-Präsident schimpft über die verpasste Auszeichnung und schlechte Umfragewerte.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-tobt-wegen-erneuter-pleite-beim-nobelpreis-6ac9d0e761b3d4c01d3e1cbe",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Macht endlich Ernst gegen Stütze-Abzocker!",
-      "excerpt": "2025 flossen 18 Milliarden Euro für Mieten, teils für unberechtigte Doppelwohnungen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-macht-endlich-ernst-gegen-stuetze-abzocker-6ac901640b20fe0c4d8b86f1",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zu langsam, zu viele Baustellen - KLM-Chefin lästert über Deutsche Bahn",
-      "excerpt": "KLM‑ChefinMarjan Rintel kritisiert Verspätungen und Baustellen im Zugverkehr nach Berlin.",
-      "url": "https://www.bild.de/politik/inland/zu-langsam-zu-viele-baustellen-klm-chefin-laestert-ueber-deutsche-bahn-6ac88c3b6e0a564ee52e9f65",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Jobcenter-Insider packen aus - Die dreiste Miet-Masche mit der Stütze!",
-      "excerpt": "Jobcenter zahlen Wohnkosten für untervermietete Wohnungen – Betrug bleibt oft unentdeckt.",
-      "url": "https://www.bild.de/politik/inland/jobcenter-insider-packen-aus-die-dreiste-miet-masche-mit-der-stuetze-6ac20d423b1bc356aee6442a",
-      "publishedAt": "2026-10-10T15:22:54.580Z",
+      "publishedAt": "2026-10-10T19:32:26.290Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Mecklenburg-Vorpommern - Weg frei für Koalitionsverhandlungen von SPD, Linken und Grünen",
-      "excerpt": "In Mecklenburg-Vorpommern ist der Weg frei für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung. Auch die Grünen haben sich dafür ausgesprochen. Die Delegierten fassten den Beschluss auf einem Kle",
-      "url": "https://www.deutschlandfunk.de/weg-frei-fuer-koalitionsverhandlungen-von-spd-linken-und-gruenen-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "title": "USA-Russland-Dieselgeschäft - Kritik von Selenskyj an Vereinbarung - Trump fordert neuen ukrainischen Präsidenten",
+      "excerpt": "Der ukrainische Präsident Selenskyj hat die Vereinbarung zwischen den USA und Russland über Diesel-Lieferungen kritisiert und sie als Investition in die russische Kriegskasse bezeichnet. US-Präsident Trump konterte umgeh",
+      "url": "https://www.deutschlandfunk.de/kritik-von-selenskyj-an-vereinbarung-trump-fordert-neuen-ukrainischen-praesidenten-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Abgeordnetenhauswahl - Kulturstaatsminister Weimer appelliert an SPD-Vorsitz, Rot-Grün-Rot in Berlin zu verhindern",
-      "excerpt": "Kulturstaatsminister Weimer hat an die SPD-Bundesvorsitzenden Klingbeil und Bas appelliert, ein rot-grün-rotes Bündnis auf Landesebene in Berlin zu verhindern.",
-      "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-appelliert-an-spd-vorsitz-rot-gruen-rot-in-berlin-zu-verhindern-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "title": "Regierungsviertel in Berlin - Propalästinensische Demonstration sowie Gegendemonstrationen in der Hauptstadt",
+      "excerpt": "In Berlin haben sich mehrere tausend Menschen an einer propalästinensischen Demonstration beteiligt.",
+      "url": "https://www.deutschlandfunk.de/propalaestinensische-demonstration-sowie-gegendemonstrationen-in-der-hauptstadt-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ukraine-Krieg - Deutsche Regierung bekräftigt nach USA-Russland-Deal Unterstützung für Ukraine - Kritik von Selenskyj an Vereinbarung",
-      "excerpt": "Nach der Vereinbarung zwischen den USA und Russland über Diesel-Lieferungen hat Deutschland seine Unterstützung für die Ukraine bekräftigt. Regierungssprecher Kornelius teilte in Berlin mit, man halte an den Sanktionsbes",
-      "url": "https://www.deutschlandfunk.de/deutsche-regierung-bekraeftigt-nach-usa-russland-deal-unterstuetzung-fuer-ukraine-kritik-von-selensk-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "title": "Saudi-Arabien - Huthi-Miliz greift Flughafen Riad offenbar erneut an - Luftfahrtbehörde bestätigt Verletzte",
+      "excerpt": "Der internationale Flughafen in Riad ist nach Angaben der Luftfahrtbehörde von Saudi-Arabien erneut angegriffen worden.",
+      "url": "https://www.deutschlandfunk.de/huthi-miliz-greift-flughafen-riad-offenbar-erneut-an-luftfahrtbehoerde-bestaetigt-verletzte-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Neu Delhi - Indische Regierung verbittet sich Kritik von Menschenrechtlern an Vorgehen gegen Demonstranten",
+      "excerpt": "Die indische Regierung verwehrt sich gegen Kritik von Menschenrechtlern an ihrem Vorgehen gegen die Massendemonstrationen in Neu-Delhi.",
+      "url": "https://www.deutschlandfunk.de/indische-regierung-verbittet-sich-kritik-von-menschenrechtlern-an-vorgehen-gegen-demonstranten-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +182,31 @@
       "title": "EU - Merz: Irischer Vorschlag für Haushaltsentwurf \"keine Grundlage für Einigung\"",
       "excerpt": "Bundeskanzler Merz lehnt den Vorschlag der irischen Ratspräsidentschaft für den nächsten EU-Haushalt ab. Dieser sei keinerlei Grundlage für eine Einigung, sagte Merz in Berlin.",
       "url": "https://www.deutschlandfunk.de/merz-irischer-vorschlag-fuer-haushaltsentwurf-keine-grundlage-fuer-einigung-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Mecklenburg-Vorpommern - Weg frei für Koalitionsverhandlungen von SPD, Linken und Grünen",
+      "excerpt": "In Mecklenburg-Vorpommern ist der Weg frei für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung. Auch die Grünen haben sich dafür ausgesprochen. Die Delegierten fassten den Beschluss auf einem Kle",
+      "url": "https://www.deutschlandfunk.de/weg-frei-fuer-koalitionsverhandlungen-von-spd-linken-und-gruenen-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Abgeordnetenhauswahl - Kulturstaatsminister Weimer appelliert an SPD-Vorsitz, Rot-Grün-Rot in Berlin zu verhindern",
+      "excerpt": "Kulturstaatsminister Weimer hat an die SPD-Bundesvorsitzenden Klingbeil und Bas appelliert, ein rot-grün-rotes Bündnis auf Landesebene in Berlin zu verhindern.",
+      "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-appelliert-an-spd-vorsitz-rot-gruen-rot-in-berlin-zu-verhindern-102.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-Bundesliga - Leipzig schlägt Frankfurt im Abendspiel - Neuer-Patzer sorgt im Bayern-Spiel für frühestes Tor der Bundesliga-Geschichte",
+      "excerpt": "RB Leipzig hat mit einem 6:0 gegen Eintracht Frankfurt den bislang höchsten Sieg des 5. Spieltags in der Fußball-Bundesliga eingefahren. Nach ihrem schwachen Saisonstart kletterten die Sachsen damit auf Platz fünf in der",
+      "url": "https://www.deutschlandfunk.de/leipzig-schlaegt-frankfurt-im-abendspiel-neuer-patzer-sorgt-im-bayern-spiel-fuer-fruehestes-tor-der--100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +214,7 @@
       "title": "Internationaler Strafgerichtshof - EU fordert USA auf, neu verhängte Sanktionen rückgängig zu machen",
       "excerpt": "Die EU-Außenbeauftragte Kallas hat die USA aufgefordert, die neu gegen den Internationalen Strafgerichtshof verhängten Sanktionen zurückzunehmen. Die Europäische Union bekräftige ihr Bekenntnis zur regelbasierten interna",
       "url": "https://www.deutschlandfunk.de/eu-fordert-usa-auf-neu-verhaengte-sanktionen-rueckgaengig-zu-machen-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +222,15 @@
       "title": "Palästinensergebiete - Präsident Abbas verschiebt Parlaments- und Präsidentenwahl",
       "excerpt": "Der palästinensische Präsident Abbas hat die für Ende November geplante Parlamentswahl in den Palästinensergebieten vertagt.",
       "url": "https://www.deutschlandfunk.de/praesident-abbas-verschiebt-parlaments-und-praesidentenwahl-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "DJV - Journalisten-Verband verurteilt AfD-Drohung gegen ZDF-Reporter Köster",
+      "excerpt": "Der Deutsche Journalisten-Verband hat die Drohung des AfD-Politikers Siegmund gegen den ZDF-Reporter Fabian Köster im Landtag von Sachsen-Anhalt verurteilt. Erst kritische Journalisten unter Druck zu setzen, dann Sender ",
+      "url": "https://www.deutschlandfunk.de/journalisten-verband-verurteilt-afd-drohung-gegen-zdf-reporter-koester-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +238,15 @@
       "title": "Online-Abstimmung - \"Ragebait\" ist das Jugendwort des Jahres 2026",
       "excerpt": "\"Ragebait\" ist das Jugendwort des Jahres 2026.",
       "url": "https://www.deutschlandfunk.de/ragebait-ist-das-jugendwort-des-jahres-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Auszeichnung - Finnische Produktion erhält Europäischen Kinderfilmpreis",
+      "excerpt": "Beim Internationalen Filmfestival für Kinder und junges Publikum \"Schlingel\" in Chemnitz hat die finnische Produktion \"Winski und der Schatz der Wikinger\" den Europäischen Kinderfilmpreis gewonnen. In der Begründung der ",
+      "url": "https://www.deutschlandfunk.de/finnische-produktion-erhaelt-europaeischen-kinderfilmpreis-102.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +254,7 @@
       "title": "Lebensmittelchemiker - Bundesverband warnt vor Kontrolllücken bei Restaurants, Imbissen und Cafés",
       "excerpt": "Wegen Sparmaßnahmen und Haushaltsproblemen in vielen Landkreisen drohen Restaurants und Cafés seltener und schlechter auf Hygiene und Sicherheit kontrolliert zu werden.",
       "url": "https://www.deutschlandfunk.de/bundesverband-warnt-vor-kontrollluecken-bei-restaurants-imbissen-und-caf-s-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +262,7 @@
       "title": "Finanzen - Ökonomen fordern Reform der Erbschaftssteuer",
       "excerpt": "Der Präsident des Münchner Ifo-Instituts, Fuest, hält die geltenden Sonderregeln für Unternehmer bei der Erbschaftssteuer für nicht mehr zeitgemäß.",
       "url": "https://www.deutschlandfunk.de/oekonomen-fordern-reform-der-erbschaftssteuer-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,72 +270,120 @@
       "title": "Wirtschaftspolitik - China: Zentralkomitee der Kommunistischen Partei und Staatsrat veröffentlichen Leitlinien zur Entwicklung von Spitzentechnologie",
       "excerpt": "In China haben das Zentralkomitee der Kommunistischen Partei und der Staatsrat Leitlinien zur Entwicklung von Spitzentechnologie veröffentlicht.",
       "url": "https://www.deutschlandfunk.de/china-zentralkomitee-der-kommunistischen-partei-und-staatsrat-veroeffentlichen-leitlinien-zur-entwic-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Formel-1-Sprintrennen - Verstappen gewinnt in Singapur",
-      "excerpt": "Das Formel-1-Sprintrennen in Singapur hat Max Verstappen gewonnen",
-      "url": "https://www.deutschlandfunk.de/verstappen-gewinnt-in-singapur-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "title": "Mittelamerika - Verletzte und beschädigte Infrastruktur nach schweren Erdbeben in Panama",
+      "excerpt": "In Panama haben mehrere Erdbeben Schäden angerichtet und Panik ausgelöst.",
+      "url": "https://www.deutschlandfunk.de/verletzte-und-beschaedigte-infrastruktur-nach-schweren-erdbeben-in-panama-100.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Mittelamerika - Verletzte und beschädigte Infrastruktur nach schwerem Erdbeben in Panama",
-      "excerpt": "In Panama hat ein Erdbeben der Stärke 7,7 schwere Schäden angerichtet und Panik ausgelöst.",
-      "url": "https://www.deutschlandfunk.de/verletzte-und-beschaedigte-infrastruktur-nach-schwerem-erdbeben-in-panama-102.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
+      "title": "Radrennen - Paul Seixas ist jüngster Sieger der Lombardei-Rundfahrt",
+      "excerpt": "Der französische Radrennfahrer Paul Seixas hat die Lombardei-Rundfahrt gewonnen. Er ist mit 20 Jahren der jüngste Sieger.",
+      "url": "https://www.deutschlandfunk.de/paul-seixas-ist-juengster-sieger-der-lombardei-rundfahrt-102.html",
+      "publishedAt": "2026-10-10T19:25:07.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Neu Delhi - Polizei stoppt Proteste in Indien - auch Gründer von Kakerlaken-Bewegung \"CJP\" festgenommen",
-      "excerpt": "In der indischen Hauptstadt Neu-Delhi hat die Polizei regierungskritische Proteste gestoppt.",
-      "url": "https://www.deutschlandfunk.de/polizei-stoppt-proteste-in-indien-auch-gruender-von-kakerlaken-bewegung-cjp-festgenommen-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "excerpt": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepre",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "publishedAt": "2026-10-10T18:26:35.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
-      "excerpt": "Die neue Friedensnobelpreisträgerin Navanethem Pillay hat sich schockiert über die gestern verschärften US-Sanktionen gegen den Internationalen Strafgerichtshof in Den Haag geäußert. Besonders schlimm sei, dass Richter w",
-      "url": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Neuer Bundestrainer: Wenn Kloppo auf Casting­tour geht, stehen alle Jungs stramm",
+      "excerpt": "Vorläufig funktioniert seine Methode ziemlich gut: Deutschlands Cheftrainer schöpft aus dem Vollen und erwischt dabei den ein oder anderen Goldbuben. mehr...",
+      "url": "https://taz.de/Neuer-Bundestrainer/!6216559/",
+      "publishedAt": "2026-10-10T18:15:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaft - CDU‑Außenpolitiker Volkmann rät EU zu Handelsschutzinstrumenten gegen unfairen Wettbewerb aus China",
-      "excerpt": "Angesichts des steigenden EU-Handelsbilanzdefizits mit China zeigt sich der CDU-Außenpolitiker Volkmann offen für Ausgleichszölle.",
-      "url": "https://www.deutschlandfunk.de/cdu-aussenpolitiker-volkmann-raet-eu-zu-handelsschutzinstrumenten-gegen-unfairen-wettbewerb-aus-chin-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Studie zu Aufforstung: Schottische Wälder wachsen wieder",
+      "excerpt": "Wirtschaftliche Landnutzung hat den Wald in Schottland zerstört. Eine neue Studie untersucht, wie Aufforstung gelingen kann. mehr...",
+      "url": "https://taz.de/Studie-zu-Aufforstung/!6216642/",
+      "publishedAt": "2026-10-10T18:14:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Bundeshaushalt - SPD-Co-Vorsitzende in NRW kritisiert geplante Wohngeld-Kürzungen ihrer Parteikollegin",
-      "excerpt": "Die Vorsitzende der SPD in Nordrhein-Westfalen, Philipp, hat die Kürzungspläne der schwarz-roten Bundesregierung beim Wohngeld kritisiert.",
-      "url": "https://www.deutschlandfunk.de/spd-co-vorsitzende-in-nrw-kritisiert-geplante-wohngeld-kuerzungen-ihrer-parteikollegin-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Zweiter Wahlgang in Brasilien: Die Nicht-Wähler vom Sofa holen",
+      "excerpt": "Der sozialistische Präsident Lula muss den Menschen in Brasilien klar machen, was auf dem Spiel steht. Seine letzte Hoffnung: die Nichtwähler. mehr...",
+      "url": "https://taz.de/Zweiter-Wahlgang-in-Brasilien/!6216565/",
+      "publishedAt": "2026-10-10T18:13:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Sachsen-Anhalt - CDU-Abgeordnete haben offenbar über ihre Landtagspräsidentenwahl gelogen",
-      "excerpt": "Mindestens drei CDU-Abgeordnete im Landtag von Sachsen-Anhalt haben einem Medienbericht zufolge die Unwahrheit über ihr Abstimmungsverhalten bei der Wahl von AfD-Landtagspräsident Rausch gesagt.",
-      "url": "https://www.deutschlandfunk.de/cdu-abgeordnete-haben-offenbar-ueber-ihre-landtagspraesidentenwahl-gelogen-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Erbschaftsteuer: Gerechter erben – geht das?",
+      "excerpt": "Das Bundesverfassungsgericht verhandelt über die Erbschaftsteuer. Ist sie mit dem Gleichheitsgrundsatz vereinbar? Die wichtigsten Fragen und Antworten. mehr...",
+      "url": "https://taz.de/Erbschaftsteuer/!6216599/",
+      "publishedAt": "2026-10-10T18:11:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Anleihenmärkte - Bundesbank-Vorstandsmitglied Theurer sieht noch keine systemische Staatsschuldenkrise, aber Warnsignale",
-      "excerpt": "Bundesbank-Vorstandsmitglied Theurer warnt angesichts einer hohen Staatsverschuldung vor den Folgen für die europäischen Finanzmärkte.",
-      "url": "https://www.deutschlandfunk.de/bundesbank-vorstandsmitglied-theurer-sieht-noch-keine-systemische-staatsschuldenkrise-aber-warnsigna-100.html",
-      "publishedAt": "2026-10-10T15:04:02.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Anschlag mit Auto bei Anti-AfD-Demo: „Die Angst ist seitdem nicht weggegangen“",
+      "excerpt": "Viola Mabel wurde 2020 bei einer Demonstration von einem AfD-Anhänger in Henstedt-Ulzburg angefahren. Bis heute kämpft sie mit den Folgen des Anschlags. mehr...",
+      "url": "https://taz.de/Anschlag-mit-Auto-bei-Anti-AfD-Demo/!6205318/",
+      "publishedAt": "2026-10-10T18:10:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Demokratie in der Krise: Pistorius ist jetzt Antifa",
+      "excerpt": "Seit Dienstag hält erstmals ein AfD-Politiker in Deutschland ein hohes Staatsamt, vermutlich dank der CDU. Verzweifeln könnte man deshalb – muss man aber nicht! mehr...",
+      "url": "https://taz.de/Demokratie-in-der-Krise/!6216607/",
+      "publishedAt": "2026-10-10T18:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Friedenspreisträger Philippe Sands: „Für alle Verbrechen muss Rechenschaft abgelegt werden“",
+      "excerpt": "Der diesjährige Friedenspreisträger des Deutschen Buchhandels, Philippe Sands, im Gespräch über Massengewalt, Ökozid und internationale Gerechtigkeit. mehr...",
+      "url": "https://taz.de/Friedenspreistraeger-Philippe-Sands/!6218996/",
+      "publishedAt": "2026-10-10T18:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Schulproteste in Frankreich: Schließt euch an!",
+      "excerpt": "In Frankreich protestierten in den letzten Tagen fast eine halbe Million Menschen. Deutschland sollte sich davon inspirieren lassen. mehr...",
+      "url": "https://taz.de/Schulproteste-in-Frankreich/!6216604/",
+      "publishedAt": "2026-10-10T18:03:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Serie von Messerattacken an Schulen in Polen",
+      "excerpt": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+      "publishedAt": "2026-10-10T16:33:42.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "CDU diskutiert über Umgang mit der AfD",
+      "excerpt": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werd",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+      "publishedAt": "2026-10-10T15:34:39.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Jacobin-Gründer über Linke in den USA: „Die Linke strebte nicht nach Macht“",
+      "excerpt": "„Jacobin“-Gründer Bhaskar Sunkara will die großen Fragen nach Transformation angehen. Wie kann eine sozialistische Welt aussehen? mehr...",
+      "url": "https://taz.de/Jacobin-Gruender-ueber-Linke-in-den-USA/!6216546/",
+      "publishedAt": "2026-10-10T15:29:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -371,14 +467,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Fußballcontent auf Instagram: Für Fans und Feinde",
-      "excerpt": "Der Instagram-Kanal „gedanken.zum.sport“ analysiert die kommerzialisierte Fußballkultur. Entspannter Fußballcontent ohne Transfernews und Spielberichten mehr...",
-      "url": "https://taz.de/Fussballcontent-auf-Instagram/!6216574/",
-      "publishedAt": "2026-10-10T12:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Streit um Energiereformen: Das Schlimmste verhindern",
       "excerpt": "Die Bundestagsabgeordnete Nina Scheer verhandelt für die SPD über die umstrittenen Energiereformen von Ministerin Katherina Reiche. Warum viele auf sie hoffen. mehr...",
       "url": "https://taz.de/Streit-um-Energiereformen/!6216526/",
@@ -418,30 +506,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "EU sorgt sich um Energie: Wie sich die Europäische Union auf eine neue Energiekrise vorbereitet",
-      "excerpt": "Vor dem EU-Gipfel in Brüssel werden die Rufe nach Notmaßnahmen lauter. Europaweit sind die Gasspeicher so wenig gefüllt wie noch nie zuvor. mehr...",
-      "url": "https://taz.de/EU-sorgt-sich-um-Energie/!6220300/",
-      "publishedAt": "2026-10-10T10:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Gedenken am 7. Oktober: Ein ganz normaler Tag der Schatten",
-      "excerpt": "Was darf, was kann der 7. Oktober sein? Wie lässt er sich angemessen begehen? Unsere Autorin testet den Tag des Pogroms auf mögliche Verhaltensweisen. mehr...",
-      "url": "https://taz.de/Gedenken-am-7-Oktober/!6220234/",
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach Schuss auf Migrant in New York: Mamdani will ICE abschaffen",
-      "excerpt": "Zohran Mamdani, Bürgermeister von NYC, kritisierte den Einsatz von ICE‑Agenten. Am Donnerstagabend schossen sie auf einen Mann, sein fünfjähriger Sohn saß daneben. mehr...",
-      "url": "https://taz.de/Nach-Schuss-auf-Migrant-in-New-York/!6220512/",
-      "publishedAt": "2026-10-10T09:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Schweres Erdbeben erschüttert Panama",
       "excerpt": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
@@ -467,26 +531,10 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Emiratische Ermittler zu Flydubai-Flug: Copilot wollte Airport in Tel Aviv angreifen",
-      "excerpt": "Die emiratischen Ermittler sind sich sicher: Der Copilot der Flydubai-Maschine plante einen Selbstmordanschlag. Dafür soll er sich auch vorbereitet haben. mehr...",
-      "url": "https://taz.de/Emiratische-Ermittler-zu-Flydubai-Flug/!6220509/",
-      "publishedAt": "2026-10-10T08:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Ökonomin über Faschismus und Wirtschaft: „Wir müssen den Nährboden der Frustration angehen“",
       "excerpt": "Eine antifaschistische Wirtschaftspolitik sollte den Reichen ihr Überlegenheitsgefühl nehmen, sagt Isabella Weber. Die Voraussetzung: ein bezahlbares Leben für alle. mehr...",
       "url": "https://taz.de/Oekonomin-ueber-Faschismus-und-Wirtschaft/!6216645/",
       "publishedAt": "2026-10-10T08:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Antifaschistische Wirtschaftspolitik: Wenn der Staat Hand anlegt",
-      "excerpt": "Immer wieder haben Regierungen Märkte gesteuert, wenn sie gesellschaftliche und politische Krisen verschärften. Drei Beispiele, aus denen wir lernen können. mehr...",
-      "url": "https://taz.de/Antifaschistische-Wirtschaftspolitik/!6219144/",
-      "publishedAt": "2026-10-10T08:11:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -515,8 +563,8 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Trump kauft Kraftstoff von Putin: „Das ermöglicht Russland, noch mehr zu töten“",
-      "excerpt": "Drei Wochen vor den Kongresswahlen verkündet der US-Präsident einen Deal mit Putin, um günstig an Sprit zu kommen. Der ukrainische Präsident kritisiert das scharf. mehr...",
+      "title": "Treibstoffdeal zwischen USA und Russland: Trump fordert Ablösung Selenskyjs",
+      "excerpt": "Drei Wochen vor den Kongresswahlen verkündet der US-Präsident einen Deal mit Putin, um günstig an Sprit zu kommen. Für die Ukraine fordert er einen „neuen Präsidenten“. mehr...",
       "url": "https://taz.de/Trump-kauft-Kraftstoff-von-Putin/!6220504/",
       "publishedAt": "2026-10-10T06:21:00.000Z",
       "category": "POLITIK"
@@ -570,22 +618,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Autos geben Daten weiter: Ausgespäht im Pkw",
-      "excerpt": "Wer ein neues Auto kauft, bekommt einiges an Software dazu. Das hat mehr Folgen für die Privatsphäre als bislang bekannt, zeigt eine neue Studie. mehr...",
-      "url": "https://taz.de/Autos-geben-Daten-weiter/!6219932/",
-      "publishedAt": "2026-10-09T17:58:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Todesstrafe in den USA: Scheitern als Kalkül",
-      "excerpt": "Dem Trump-Regime ist es nicht gelungen, Christa Pike hinzurichten. Das ist nicht überraschend. Die Risiken des eingesetzten Mittels sind bekannt. mehr...",
-      "url": "https://taz.de/Todesstrafe-in-den-USA/!6220240/",
-      "publishedAt": "2026-10-09T17:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
       "excerpt": "Familienministerin Prien hat im Bundestag ihr geplantes Gesetz für mehr Qualität in Kitas verteidigt. Gezielte frühkindliche Bildung führe zu mehr Chancengerechtigkeit. Aus der Opposition kam Kritik an der Finanzierung.",
@@ -600,14 +632,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
       "publishedAt": "2026-10-09T17:47:36.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reform der Pflegeversicherung: Regierung schickt Frauen mit Vollgas in die Armut",
-      "excerpt": "Töchter, Ehefrauen, Mütter, Schwestern: Wer Angehörige zu Hause pflegt, war schon immer kurz vorm Burn-out. Jetzt erst recht. mehr...",
-      "url": "https://taz.de/Reform-der-Pflegeversicherung/!6216539/",
-      "publishedAt": "2026-10-09T17:29:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -744,14 +768,6 @@
       "url": "https://www.deutschlandfunk.de/rechnet-die-kmk-mit-zu-vielen-schuelerinnen-und-schuelern-gespraech-mit-dirk-zorn-100.html",
       "publishedAt": "2026-10-09T12:36:04.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
-      "excerpt": "Die Verleihung des Friedensnobelpreises an die Oppositionsführerin Machado galt in Venezuela als Zeichen der Hoffnung. Davon ist nach einem Jahr jedoch nicht mehr viel geblieben - auch wegen der mangelnden Unterstützung ",
-      "url": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html",
-      "publishedAt": "2026-10-09T08:49:03.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -946,14 +962,6 @@
       "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "AfD-Erfolg in Sachsen-Anhalt: \"Schwerer Schlag\" für die Christdemokraten",
-      "excerpt": "Es ist unklar, wer alles bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt für den AfD-Kandidaten gestimmt hat. Etwa auch CDU-Abgeordnete? Das sei nicht mit den Werten der Partei vereinbar, sagte Generalsekretärin H",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-100.html",
-      "publishedAt": "2026-10-07T12:38:58.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Jahrestag 7. Oktober: Lage an den Hochschulen",
       "excerpt": "Kulms, Johannes www.deutschlandfunk.de, Campus & Karriere",
@@ -968,14 +976,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
       "publishedAt": "2026-10-07T08:21:57.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-      "excerpt": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Caro",
-      "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-      "publishedAt": "2026-10-06T19:54:16.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
