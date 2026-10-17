@@ -1,12 +1,76 @@
 {
-  "updatedAt": "2026-10-17T05:00:24.153Z",
+  "updatedAt": "2026-10-17T09:21:42.219Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Krisen-Kanzler heute bei seiner Parteijugend - Wieder wird es ungemütlich für Merz",
+      "excerpt": "Beim Deutschlandtag der Jungen Union muss der Kanzler heute Lösungen liefern.",
+      "url": "https://www.bild.de/politik/friedrich-merz-junge-union-will-loesungen-statt-warmer-worte-6ad3177f199dc15f1abd70ea",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Jetzt ist Schluss“ - Google stoppt Trumps Ozean-Traum",
+      "excerpt": "Der US-Präsident scheitert vorerst mit der Idee, den Atlantik oder Pazifik umzubenennen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/jetzt-ist-schluss-google-stoppt-trumps-ozean-traum-6ad32233199dc15f1abd716d",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bis zu 20 Prozent mehr - Höhere Kosten für Strom und Gas ab 2027",
+      "excerpt": "Bei bestimmten Tarifen drohen 2027 Aufschläge von bis zu 20 Prozent.",
+      "url": "https://www.bild.de/politik/inland/bis-zu-20-prozent-mehr-hoehere-kosten-fuer-strom-und-gas-ab-2027-6ad3260651e5094f7a56f753",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Polnischer Außenminister mit Aussage - USA geben seit Januar 2025 kein Geld an Ukraine",
+      "excerpt": "US-Hilfen für Kiew sind um 99 Prozent eingebrochen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/polnischer-aussenminister-mit-hammer-aussage-usa-geben-seit-januar-2025-keinen-cent-mehr-fuer-die-ukraine-6ad30f571918705d12968596",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Außenminister Wadephul stellt klar - Bis zum Frieden! Deutschland zahlt weiter an Ukraine",
+      "excerpt": "Außenminister Wadephul warnt vor Russlands Wirtschaftsschwäche und fordert mehr Hilfe.",
+      "url": "https://www.bild.de/politik/inland/wadephul-stellt-klar-deutschland-zahlt-weiter-milliarden-an-ukraine-6ad31511199dc15f1abd70ca",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Aus dem Krankenhaus - Papst Leo XIV. telefoniert mit Putin",
+      "excerpt": "Nach einer Lungenkrebs-OP fordert das Kirchenoberhaupt Waffenruhe für Oleschky.",
+      "url": "https://www.bild.de/politik/papst-leo-xiv-messe-drei-tage-nach-lungenkrebs-op-in-rom-gefeiert-6ad24ccf199dc15f1abd6aec",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Ländern ist der Betrieb zu teuer! - Tausende Regio-Verbindungen vor dem Aus",
       "excerpt": "Regionalzüge könnten wegen höherer Trassenpreise gestrichen werden.",
       "url": "https://www.bild.de/politik/inland/verkehrsminister-schlagen-alarm-tausende-regio-verbindungen-in-gefahr-6ad20a2f51e5094f7a56ea06",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Polizei musste einschreiten - AfD-Kollegen sollen sich im Bundestag geprügelt haben",
+      "excerpt": "Zwei NRW-Politiker wollen nach einem Streit zum Fechtkampf antreten.",
+      "url": "https://www.bild.de/politik/inland/polizei-musste-einschreiten-betrunkene-afd-kollegen-sollen-sich-im-bundestag-gepruegelt-haben-6ad23abf199dc15f1abd69ce",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nur noch 18 Prozent! - Union verliert, AfD aber auch",
+      "excerpt": "Die Bürger verteilen ihre Stimmen immer breiter. Vieles spricht für eine Dreierkoalition.",
+      "url": "https://www.bild.de/politik/inland/nur-noch-18-prozent-die-union-verliert-die-afd-aber-auch-6ad238590e64c69ce0e15fbc",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +78,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +86,7 @@
       "title": "JU-Chef Winkel kontert Schwesig - „Fata Morgana der unmenschlichen Angriffe“",
       "excerpt": "JU-Chef Johannes Winkel kritisiert Manuela Schwesig scharf für ihre Rentenpolitik.",
       "url": "https://www.bild.de/politik/inland/johannes-winkel-gegen-schwesig-rentenrebellin-ohne-argumente-6ad26ac05bcdc521aa580391",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -30,15 +94,15 @@
       "title": "„Braune Scheiße“ - Linksextreme kippen Pferdemist vor CDU-Zentralen",
       "excerpt": "In mindestens zehn Städten wurden Parteibüros mit Kot und Farbe attackiert.",
       "url": "https://www.bild.de/politik/inland/linksextreme-greifen-cdu-zentralen-mit-pferdekot-in-zehn-staedten-an-6ad207a20e64c69ce0e15ae5",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Autobauer will 8000 Jobs abbauen - BMW zahlt bis zu 600.000 Euro Abfindung pro Person",
+      "title": "Autobauer will 8000 Jobs abbauen - BMW zahlt Hunderttausende Euro Abfindung pro Person",
       "excerpt": "BMW bietet Mitarbeitern wegen des Stellenabbaus hohe Abfindungen an.",
       "url": "https://www.bild.de/politik/inland/bmw-autobauer-gibt-milliarden-fuer-abfindungs-programm-aus-6ad1cad70e64c69ce0e154de",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +110,7 @@
       "title": "Chefreporter Michael Engelberg vor Ort - Deutschland Tag der JU: Ein Mix aus Party und Politik",
       "excerpt": "Das war der Deutschlandtag der Jungen Union in Bonn: JU-Chef Johannes Winkel rechnet scharf mit Manuela Schwesig ab, Hendrik Wüst ma...",
       "url": "https://www.bild.de/politik/chefreporter-michael-engelberg-vor-ort-deutschland-tag-der-ju-ein-mix-aus-party-und-politik-6ad2817c51e5094f7a56f2fc",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +118,7 @@
       "title": "Weil es den Schulfrieden gefährdet - Gericht: Schule darf Gebete von Muslimen verbieten",
       "excerpt": "Berliner Richter bestätigen umstrittene Regelung wegen religiöser Konflikte.",
       "url": "https://www.bild.de/politik/inland/gericht-schule-darf-gebete-von-muslimen-verbieten-weil-es-den-schulfrieden-gefaehrdet-6ad1efa351e5094f7a56e714",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -62,15 +126,7 @@
       "title": "Nach Peinlich-Auftritt und Anwalts-Lüge - Nach nur 4 Tagen! Trump feuert Pressesprecherin",
       "excerpt": "Katie Zacharia verliert wegen falscher Angaben im Lebenslauf ihr Amt.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/katie-zacharia-gefeuert-trumps-sprecherin-muss-nach-vier-tagen-gehen-6ad25c798410051ee431f378",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Für die Klinik-Mitarbeiter - Papst feiert erste Messe nach der Schock-Diagnose",
-      "excerpt": "Drei Tage seit seiner Lungenkrebs-OP zeigt Leo XIV. eine stetige Verbesserung.",
-      "url": "https://www.bild.de/politik/papst-leo-xiv-messe-drei-tage-nach-lungenkrebs-op-in-rom-gefeiert-6ad24ccf199dc15f1abd6aec",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +134,7 @@
       "title": "Von Starlink-System der Ukraine - Musk soll Trump Drosselung vorgeschlagen haben",
       "excerpt": "Ukraine: Gedrosseltes Starshield erschwerte die Abwehr russischer Drohnen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/musk-soll-trump-starshield-bremse-fuer-ukraine-vorgeschlagen-haben-6ad2705d5762b122df9858e4",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
@@ -86,63 +142,279 @@
       "title": "Mitten im Streit zwischen Union und SPD - Schwesig schickt Liste mit Forderungen an Merz",
       "excerpt": "SPD-Ministerpräsidentin verlangt Entlastungspaket für Bauern und Lebensmittelwirtschaft.",
       "url": "https://www.bild.de/politik/inland/manuela-schwesig-brandbrief-an-merz-mit-teurem-agrarpaket-6ad230c70e64c69ce0e15ea8",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "publishedAt": "2026-10-17T09:21:42.216Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Selenskyj legt nach - So eine Antwort hat Trump noch nie erhalten",
-      "excerpt": "Selenskyj schweigt 15 Sekunden lang auf die Frage nach Schuldzuweisungen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-schweigt-this-is-my-answer-konter-gegen-trump-6ad2265ad2eabbd56ed6a1ae",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "DLF",
+      "title": "Verbrenner-Einigung - Niedersachsens Ministerpräsident Lies (SPD): Automobilindustrie muss Geld für Transformation verdienen",
+      "excerpt": "Niedersachsens Ministerpräsident Lies hat den deutsch-französischen Vorstoß verteidigt, das für 2035 geplante EU-Verbot für neue Verbrennermotoren abzuschwächen. Dies sei kein Festhalten am Verbrenner, sagte der SPD-Poli",
+      "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Interview der Woche - Beck warnt SPD und Grüne vor Regierung mit Linkspartei in Berlin",
+      "excerpt": "Der Präsident der Deutsch-Israelischen Gesellschaft, Beck, hat vor der Bildung einer rot-grün-roten Koalition in Berlin gewarnt. Die Linkspartei in Berlin sei ein \"gäriger antizionistischer Haufen\", sagte Beck im Intervi",
+      "url": "https://www.deutschlandfunk.de/beck-warnt-spd-und-gruene-vor-regierung-mit-linkspartei-in-berlin-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Deutschlandtag der Jungen Union - Digitalminister Wildberger wirbt für Innovationen",
+      "excerpt": "Bundesdigitalminister Wildberger hat auf dem Deutschlandtag der Jungen Union für mehr Mut und Zuversicht bei Innovationen in die Künstliche Intelligenz geworben. Die KI werde Berufe und Wettbewerb verändern, biete aber a",
+      "url": "https://www.deutschlandfunk.de/digitalminister-wildberger-wirbt-fuer-innovationen-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Koalition - Unionsfraktionschef Frei will Änderungen bei Zuckersteuer",
+      "excerpt": "Unionsfraktionschef Frei fordert Änderungen bei der Zuckersteuer.",
+      "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
+      "excerpt": "US-Präsident Trump hat einige gegen Russland ⁠gerichtete Sanktionen ⁠und Beschränkungen ‌per Dekret ausgesetzt. Sie sollten ursprünglich in wenigen Tagen in Kraft treten.",
+      "url": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Behörden: Ein Toter bei russischem Angriff auf Cherson",
+      "excerpt": "Bei russischen Luftangriffen auf die Ukraine ist in Cherson eine Person getötet worden.",
+      "url": "https://www.deutschlandfunk.de/behoerden-ein-toter-bei-russischem-angriff-auf-cherson-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Iranische Medien: Super-Öltanker in der Straße von ⁠Hormus auf Seemine gelaufen",
+      "excerpt": "In ⁠der Straße von ⁠Hormus ist nach Angaben der iranischen Revolutionsgarden ein Öltanker auf eine Seemine gelaufen.",
+      "url": "https://www.deutschlandfunk.de/iranische-medien-super-oeltanker-in-der-strasse-von-hormus-auf-seemine-gelaufen-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Weißes Haus - Trumps Pressesprecherin Zacharia tritt wieder ab",
+      "excerpt": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Trump, Zacharia, gibt ihr Amt Berichten zufolge wieder auf.",
+      "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Himmelschreiende Ungerechtigkeit\" - GKV-Spitzenverband kritisiert Benachteiligung von gesetzlich Versicherten bei Vergabe von Arztterminen",
+      "excerpt": "Der Spitzenverband der gesetzlichen Krankenkassen fordert, die 75 Millionen gesetzlich Versicherten bei der Vergabe von Arztterminen besserzustellen.",
+      "url": "https://www.deutschlandfunk.de/gkv-spitzenverband-kritisiert-benachteiligung-von-gesetzlich-versicherten-bei-vergabe-von-arzttermin-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gesundheit - Chef der Techniker Krankenkasse: \"Private und gesetzliche Kassen abschaffen\" - neues System mit \"Bestem aus beiden Welten\"",
+      "excerpt": "Der Vorstandsvorsitzende der Techniker Krankenkasse, Baas, hat sich für einen Umbau des dualen Systems in der Krankenversicherung ausgesprochen.",
+      "url": "https://www.deutschlandfunk.de/chef-der-techniker-krankenkasse-private-und-gesetzliche-kassen-abschaffen-neues-system-mit-bestem-au-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Schwerin - Positive Zwischenbilanz nach ersten rot-rot-grünen Koalitionsverhandlungen in Mecklenburg-Vorpommern",
+      "excerpt": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben eine positive Zwischenbilanz ihrer bisherigen Koalitionsverhandlungen gezogen.",
+      "url": "https://www.deutschlandfunk.de/positive-zwischenbilanz-nach-ersten-rot-rot-gruenen-koalitionsverhandlungen-in-mecklenburg-vorpommer-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Rot-grün-rote Sondierungen - Berlin: Fraktionsspitze der Linken distanziert sich von Vanessa Emde",
+      "excerpt": "Die Fraktionsspitze der Berliner Linkspartei geht auf Distanz zur umstrittenen Neuköllner Abgeordneten Emde.",
+      "url": "https://www.deutschlandfunk.de/berlin-fraktionsspitze-der-linken-distanziert-sich-von-vanessa-emde-102.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienberichte - Indische Polizei nimmt Gründer der \"Kakerlaken\"-Bewegung fest",
+      "excerpt": "In Indien ist der Gründer der sogenannten \"Kakerlaken\"-Bewegung festgenommen worden.",
+      "url": "https://www.deutschlandfunk.de/indische-polizei-nimmt-gruender-der-kakerlaken-bewegung-fest-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Telefonat - \"Besorgnis über humanitäre Lage\" - Papst fordert Putin zu Waffenstillstand in Frontstadt Oleschky auf",
+      "excerpt": "Papst Leo XIV. hat den russischen Staatschef Putin in einem Telefonat zu einem Waffenstillstand in der Frontstadt Oleschky im Süden der Ukraine aufgerufen.",
+      "url": "https://www.deutschlandfunk.de/besorgnis-ueber-humanitaere-lage-papst-fordert-putin-zu-waffenstillstand-in-frontstadt-oleschky-auf-106.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sudan - 30 Tote bei Drohnenangriff auf Markt in Darfur",
+      "excerpt": "In der sudanesischen Region Darfur hat es bei einem Drohnenangriff auf einen Viehmarkt zahlreiche Opfer gegeben.",
+      "url": "https://www.deutschlandfunk.de/30-tote-bei-drohnenangriff-auf-markt-in-darfur-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Motiv des Täters nach tödlichen Schüssen an Grundschule in Oregon unklar",
+      "excerpt": "Nach den tödlichen Schüssen an einer Grundschule im US-Bundesstaat Oregon ist das Motiv des Täters weiterhin unklar.",
+      "url": "https://www.deutschlandfunk.de/motiv-des-taeters-nach-toedlichen-schuessen-an-grundschule-in-oregon-unklar-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nordrhein-Westfalen - Bewohner eines Seniorenheims in Olfen ersticht Mitbewohnerin",
+      "excerpt": "In einem Seniorenheim in Nordrhein-Westfalen hat ein Bewohner eine 86-Jährige getötet und zwei weitere Frauen schwer verletzt.",
+      "url": "https://www.deutschlandfunk.de/bewohner-eines-seniorenheims-in-olfen-ersticht-mitbewohnerin-100.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Britische Seehandelsaufsicht - Zahl der Angriffe in Straße von Hormus so hoch wie seit Beginn des Iran-Krieges",
+      "excerpt": "In der Straße von Hormus hat die Zahl der Angriffe auf Handelsschiffe in den vergangenen Wochen stark zugenommen.",
+      "url": "https://www.deutschlandfunk.de/zahl-der-angriffe-in-strasse-von-hormus-so-hoch-wie-seit-beginn-des-iran-krieges-106.html",
+      "publishedAt": "2026-10-17T09:16:35.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "GKV zu Wartezeiten der Versicherten: Schnelle Termine denen, die sie brauchen",
+      "excerpt": "Der Verbandschef der Kassen (GKV) sieht in der Ungleichbehandlung von gesetzlich und privat Versicherten eine „himmelschreiende Ungerechtigkeit“. mehr...",
+      "url": "https://taz.de/GKV-zu-Wartezeiten-der-Versicherten/!6222299/",
+      "publishedAt": "2026-10-17T08:52:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Wegen Reformstau und XXL-Schulden - CDU-Politiker völlig fertig: „Ich leide körperlich“",
-      "excerpt": "Rechnungshof warnt bis 2030 vor einer Finanzierungslücke von 108 Milliarden Euro.",
-      "url": "https://www.bild.de/politik/inland/wegen-reformstau-und-xxl-schulden-cdu-politiker-voellig-fertig-ich-leide-koerperlich-6ad2035651e5094f7a56e971",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "TAZ.DE",
+      "title": "Möglicher Nachfolger für Friedrich Merz: Wüst of Change",
+      "excerpt": "Der Deutschlandtag der JU gilt als Bühne für Kanzlerambitionen. Auch Hendrik Wüst hat dort gesprochen. 2027 könnte er NRW weiterregieren. Und dann Berlin? mehr...",
+      "url": "https://taz.de/Moeglicher-Nachfolger-fuer-Friedrich-Merz/!6218116/",
+      "publishedAt": "2026-10-17T08:39:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "STRIVE ehrt wichtige Frauen - Nacht der weiblichen Macht",
-      "excerpt": "Strive wählt 100 einflussreiche Frauen aus Deutschland aus 2026.",
-      "url": "https://www.bild.de/politik/strive100-2026-das-sind-deutschlands-einflussreichste-frauen-6ad2443e199dc15f1abd6a62",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+      "excerpt": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+      "publishedAt": "2026-10-17T08:35:52.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+      "excerpt": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+      "url": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
+      "publishedAt": "2026-10-17T08:15:08.000Z",
+      "category": "KLIMA & UMWELT"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+      "excerpt": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisie",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+      "publishedAt": "2026-10-17T08:08:36.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Fotoarbeit über das Erwachsenwerden: Warst du nicht gerade noch klein und niedlich?",
+      "excerpt": "Die Fotografin Karoline Bofinger begleitet seit mehr als zehn Jahren ihrem Sohn und dessen Freunde. Jedes Jahr macht sie ein neues Porträtfoto von den Jungs. mehr...",
+      "url": "https://taz.de/Fotoarbeit-ueber-das-Erwachsenwerden/!6220263/",
+      "publishedAt": "2026-10-17T08:01:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Neue Patzer-Pressesprecherin - „So wurde Katie Zacharia von Trump entdeckt“",
-      "excerpt": "Trumps neue Pressesprecherin Katie Zacharia wurde vom Präsidenten als Anwältin vorgestellt. Sie widersprach ihm nicht. Jetzt musste ...",
-      "url": "https://www.bild.de/politik/neue-patzer-pressesprecherin-so-wurde-katie-zacharia-von-trump-entdeckt-6ad23fb9d2eabbd56ed6a444",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "TAZ.DE",
+      "title": "Gemeinschaft im Alter: Was kommt vor dem Tod?",
+      "excerpt": "Unsere Autorin lebt bewusst kinderlos und ist glücklich. Aber alt zu werden, macht ihr Angst. Ein Besuch bei Menschen, die Pflege anders organisieren. mehr...",
+      "url": "https://taz.de/Gemeinschaft-im-Alter/!6218159/",
+      "publishedAt": "2026-10-17T07:59:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Kooperiert nicht mit der Partei“ - Schmeißt die Linke Israel-Hasserin Emde jetzt doch raus?",
-      "excerpt": "Gleich mehr bei BILD.",
-      "url": "https://www.bild.de/politik/berliner-sondierungen-linke-fraktionsspitze-geht-auf-distanz-zu-vanessa-emde-6ad238810e64c69ce0e15fc2",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "SPIEGEL.DE",
+      "title": "Thorsten Frei: Unionsfraktionschef will Änderungen bei Zuckersteuer",
+      "excerpt": "Gerade erst hat das Bundeskabinett einen Gesetzentwurf für die Zuckersteuer auf den Weg gebracht. Nun dringt Unionsfraktionschef Thorsten Frei auf Übergangsfristen für Hersteller. SPD-Gesundheitssprecher Pantazis reagier",
+      "url": "https://www.spiegel.de/politik/thorsten-frei-unionsfraktionschef-will-aenderungen-bei-zuckersteuer-a-20578853-acfb-4b31-94cd-d69ef52f2e7e#ref=rss",
+      "publishedAt": "2026-10-17T07:25:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Linke Aktivisten gegen CDU - „Teil der Faschisierung“",
-      "excerpt": "Nach der Wahl von AfD-Politiker Tobias Rausch zum Landtagspräsidenten in Sachsen-Anhalt greift die Interventionistische Linke die CD...",
-      "url": "https://www.bild.de/politik/inland/linke-aktivisten-gegen-cdu-teil-der-faschisierung-6ad22fd9d2eabbd56ed6a2a6",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Schlüpfriges aus der Mottenkiste",
+      "excerpt": "Haustiere? Nur möglichst klein und flattrig! Der wahre Erfahrungsbericht aus deutschen Stuben. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6218118/",
+      "publishedAt": "2026-10-17T07:21:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Gigantische Fortschritte“ - Lungenkrebs-Experte gibt gute Prognose für Papst",
-      "excerpt": "Der Papst hat Lungenkrebs. Ein Viertel seiner Lunge wurde in einer Operation entfernt. Seine Aussichten, wieder komplett gesund zu w...",
-      "url": "https://www.bild.de/politik/papst-mit-lungenkrebs-gute-aussichten-nach-der-operation-6ad1e7ea199dc15f1abd603c",
-      "publishedAt": "2026-10-17T05:00:23.984Z",
+      "source": "TAZ.DE",
+      "title": "„Zeit“-Podcast „House of Block“: Lasst die Kinder sprechen, aber schützt sie",
+      "excerpt": "Im Zeit-Podcast spricht eine der Block-Töchter über ihre Entführung. Wie kann man Kinder erzählen lassen – und sie doch vor der Öffentlichkeit schützen? mehr...",
+      "url": "https://taz.de/Zeit-Podcast-House-of-Block/!6218157/",
+      "publishedAt": "2026-10-17T07:17:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "1 Jahr Seitenwende: Im Witz verbunden",
+      "excerpt": "Ecco Meineke archiviert seit 1979 taz-Texte und macht daraus politisches Kabarett. Mit dem E-Paper fremdelt er noch immer. Aber er bleibt der taz treu. mehr...",
+      "url": "https://taz.de/1-Jahr-Seitenwende/!6220939/",
+      "publishedAt": "2026-10-17T07:00:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "1 Jahr Seitenwende: Radikal zusammenbleiben",
+      "excerpt": "Emotionale Verbundenheit zahlt sich aus: Ein Jahr nach Druckschluss der Werktagsausgabe sind uns mehr als 86 Prozent der Le­se­r:in­nen treu geblieben. mehr...",
+      "url": "https://taz.de/1-Jahr-Seitenwende/!6221629/",
+      "publishedAt": "2026-10-17T06:59:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Junge Union in Bonn: Angezählter Kanzler trifft auf selbstbewusste Parteijugend",
+      "excerpt": "Die Junge Union stellt sich bei ihrem Deutschlandtag als die neue Hoffnung dar. Heute tritt derjenige dort auf, dem die Krise maßgeblich angelastet wird. mehr...",
+      "url": "https://taz.de/Junge-Union-in-Bonn/!6222297/",
+      "publishedAt": "2026-10-17T06:51:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "USA und Russland: Trump setzt geplante Sanktionen aus",
+      "excerpt": "Wegen der Energieknappheit in den Staaten, hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg. mehr...",
+      "url": "https://taz.de/USA-setzen-Sanktionen-gegen-Russland-aus/!6222295/",
+      "publishedAt": "2026-10-17T06:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün lobt Koalitionsgespräche und will künftig weniger verbeamten",
+      "excerpt": "Im Schweriner Schloss verkünden SPD, Grüne und Linke erste Erfolge auf dem Weg zur Regierungsbildung. Künftig soll mehr gespart werden.",
+      "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-rot-rot-gruen-lobt-koalitionsgespraeche-und-will-kuenftig-weniger-verbeamten-a-3c40809f-e10e-4987-9e75-c20390ffddda#ref=rss",
+      "publishedAt": "2026-10-17T06:26:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Diether Dehm: Gericht erlässt Strafbefehl nach Interview mit Björn Höcke",
+      "excerpt": "Der frühere Bundestagsabgeordnete Diether Dehm fungiert als Scharnier zwischen AfD und BSW in Sachsen-Anhalt. Wegen der Verwendung eines NS-Spruchs wurde nach SPIEGEL-Informationen jetzt ein Strafbefehl gegen ihn erlasse",
+      "url": "https://www.spiegel.de/politik/deutschland/diether-dehm-gericht-erlaesst-strafbefehl-nach-interview-mit-bjoern-hoecke-a-7cdc9888-6bd9-4774-8f72-76b82fe8ad98#ref=rss",
+      "publishedAt": "2026-10-17T05:13:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -164,7 +436,7 @@
     {
       "source": "SPIEGEL.DE",
       "title": "News: Friedrich Merz, Junge Union, Juden-Deportation vor 85 Jahren, Dieter Dehm verurteilt",
-      "excerpt": "Die Junge Union empfängt Friedrich Merz zum »Deutschlandtag«. Julia Klöckner hat keine Zeit zum Gedenken an die Juden-Deportationen. Und ein Gericht verurteilt Provokateur Diether Dehm. Das ist die Lage am Samstagmorgen.",
+      "excerpt": "Die Junge Union empfängt Friedrich Merz zum »Deutschlandtag«. Julia Klöckner hat keine Zeit zum Gedenken an die Judendeportationen. Und ein Gericht verurteilt Provokateur Diether Dehm. Das ist die Lage am Samstagmorgen.",
       "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-junge-union-juden-deportation-vor-85-jahren-dieter-dehm-verurteilt-a-cd266a43-6ea0-4bbf-a17a-38bb53e9afbc#ref=rss",
       "publishedAt": "2026-10-17T04:41:00.000Z",
       "category": "POLITIK"
@@ -176,150 +448,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
       "publishedAt": "2026-10-17T03:23:11.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "DLF",
-      "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
-      "excerpt": "US-Präsident Trump hat einige gegen Russland ⁠gerichtete Sanktionen ⁠und Beschränkungen ‌per Dekret ausgesetzt.",
-      "url": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienberichte - Indische Polizei nimmt Gründer der \"Kakerlaken\"-Bewegung fest",
-      "excerpt": "In Indien ist der Gründer der sogenannten \"Kakerlaken\"-Bewegung festgenommen worden.",
-      "url": "https://www.deutschlandfunk.de/indische-polizei-nimmt-gruender-der-kakerlaken-bewegung-fest-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Himmelschreiende Ungerechtigkeit\" - GKV-Spitzenverband kritisiert Benachteiligung von gesetzlich Versicherten bei Vergabe von Arztterminen",
-      "excerpt": "Der Spitzenverband der gesetzlichen Krankenkassen fordert, die 75 Millionen gesetzlich Versicherten bei der Vergabe von Arztterminen besserzustellen.",
-      "url": "https://www.deutschlandfunk.de/gkv-spitzenverband-kritisiert-benachteiligung-von-gesetzlich-versicherten-bei-vergabe-von-arzttermin-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "\"Deutschlandtag\" - CDU-Chef Merz spricht beim Treffen der Jungen Union in Bonn",
-      "excerpt": "Die Junge Union setzt in Bonn ihren \"Deutschlandtag\" fort. Am Vormittag wird der CDU-Vorsitzende, Bundeskanzler Merz, zu den Delegierten der Nachwuchsorganisation von CDU und CSU sprechen. Der wiedergewählte JU-Bundesvor",
-      "url": "https://www.deutschlandfunk.de/cdu-chef-merz-spricht-beim-treffen-der-jungen-union-in-bonn-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Schwerin - Positive Zwischenbilanz nach ersten rot-rot-grünen Koalitionsverhandlungen in Mecklenburg-Vorpommern",
-      "excerpt": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben eine positive Zwischenbilanz ihrer bisherigen Koalitionsverhandlungen gezogen.",
-      "url": "https://www.deutschlandfunk.de/positive-zwischenbilanz-nach-ersten-rot-rot-gruenen-koalitionsverhandlungen-in-mecklenburg-vorpommer-102.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sudan - 30 Tote bei Drohnenangriff auf Markt in Darfur",
-      "excerpt": "In der sudanesischen Region Darfur hat es bei einem Drohnenangriff auf einen Viehmarkt zahlreiche Opfer gegeben.",
-      "url": "https://www.deutschlandfunk.de/30-tote-bei-drohnenangriff-auf-markt-in-darfur-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gipfel in Brüssel - Selenskyj: Ukraine braucht 2027 weitere 70 Milliarden Euro für Abwehrkampf gegen Russland",
-      "excerpt": "In Brüssel haben die Staats- und Regierungschefs der Europäischen Union über die weitere Unterstützung der Ukraine beraten. EU-Kommissionspräsidentin von der Leyen sagte neue Hilfen zu und bekräftigte die Aufrechterhaltu",
-      "url": "https://www.deutschlandfunk.de/selenskyj-ukraine-braucht-2027-weitere-70-milliarden-euro-fuer-abwehrkampf-gegen-russland-102.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nordrhein-Westfalen - Bewohner eines Seniorenheims in Olfen ersticht Mitbewohnerin",
-      "excerpt": "In einem Seniorenheim in Nordrhein-Westfalen hat ein Bewohner eine 86-Jährige getötet und zwei weitere Frauen schwer verletzt.",
-      "url": "https://www.deutschlandfunk.de/bewohner-eines-seniorenheims-in-olfen-ersticht-mitbewohnerin-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Trump: Weder US-Regierung noch Musk für Starlink-Ausfälle verantwortlich",
-      "excerpt": "US-Präsident Trump hat eine Verantwortung für die Einschränkungen der Ukraine beim Zugriff auf das Satellitennetzwerk Starlink zurückgewiesen.",
-      "url": "https://www.deutschlandfunk.de/trump-weder-us-regierung-noch-musk-fuer-starlink-ausfaelle-verantwortlich-106.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Motiv des Täters nach tödlichen Schüssen an Grundschule in Oregon unklar",
-      "excerpt": "Nach den tödlichen Schüssen an einer Grundschule im US-Bundesstaat Oregon ist das Motiv des Täters weiterhin unklar.",
-      "url": "https://www.deutschlandfunk.de/motiv-des-taeters-nach-toedlichen-schuessen-an-grundschule-in-oregon-unklar-100.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Weißes Haus - Trumps Pressesprecherin Zacharia tritt wieder ab",
-      "excerpt": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Trump, Zacharia, gibt ihr Amt Berichten zufolge wieder auf.",
-      "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Automobilindustrie - Merz: \"Verbrenner-Aus ist Geschichte\"",
-      "excerpt": "Nach der deutsch-französischen Einigung über ‌die Senkung der CO2-Werte für Neuwagen ⁠ab 2035 hat Bundeskanzler ⁠Merz vom \"Ende des Verbrenner-Aus\" gesprochen. Merz und Frankreichs Präsident Macron hatten die Einigung am",
-      "url": "https://www.deutschlandfunk.de/merz-verbrenner-aus-ist-geschichte-108.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Telefonat - \"Besorgnis über humanitäre Lage\" - Papst fordert Putin zu Waffenstillstand in Frontstadt Oleschky auf",
-      "excerpt": "Papst Leo XIV. hat den russischen Staatschef Putin in einem Telefonat zu einem Waffenstillstand in der Frontstadt Oleschky im Süden der Ukraine aufgerufen.",
-      "url": "https://www.deutschlandfunk.de/besorgnis-ueber-humanitaere-lage-papst-fordert-putin-zu-waffenstillstand-in-frontstadt-oleschky-auf-106.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Rot-grün-rote Sondierungen - Berlin: Fraktionsspitze der Linken distanziert sich von Vanessa Emde",
-      "excerpt": "Die Fraktionsspitze der Berliner Linkspartei geht auf Distanz zur umstrittenen Neuköllner Abgeordneten Emde.",
-      "url": "https://www.deutschlandfunk.de/berlin-fraktionsspitze-der-linken-distanziert-sich-von-vanessa-emde-102.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gesundheit - Chef der Techniker Krankenkasse: \"Private und gesetzliche Kassen abschaffen\" - neues System mit \"Bestem aus beiden Welten\"",
-      "excerpt": "Der Vorstandsvorsitzende der Techniker Krankenkasse, Baas, hat sich für einen Umbau des dualen Systems in der Krankenversicherung ausgesprochen.",
-      "url": "https://www.deutschlandfunk.de/chef-der-techniker-krankenkasse-private-und-gesetzliche-kassen-abschaffen-neues-system-mit-bestem-au-102.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Halle (Saale) - Hacker erbeuten Daten von Martin-Luther-Universität",
-      "excerpt": "Hacker haben sich Zugriff auf die Datenbank der Martin-Luther-Universität Halle-Wittenberg verschafft.",
-      "url": "https://www.deutschlandfunk.de/hacker-erbeuten-daten-von-martin-luther-universitaet-110.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bildung - KMK will Hilfsstrukturen ausbauen - Jeder Fünfte kann nicht sicher lesen und rechnen",
-      "excerpt": "Bund und Länder haben sich auf die Fortsetzung des Bündnisses für Alphabetisierung und Grundbildung geeinigt.",
-      "url": "https://www.deutschlandfunk.de/kmk-will-hilfsstrukturen-ausbauen-jeder-fuenfte-kann-nicht-sicher-lesen-und-rechnen-110.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Britische Seehandelsaufsicht - Zahl der Angriffe in Straße von Hormus so hoch wie seit Beginn des Iran-Krieges",
-      "excerpt": "In der Straße von Hormus hat die Zahl der Angriffe auf Handelsschiffe in den vergangenen Wochen stark zugenommen.",
-      "url": "https://www.deutschlandfunk.de/zahl-der-angriffe-in-strasse-von-hormus-so-hoch-wie-seit-beginn-des-iran-krieges-106.html",
-      "publishedAt": "2026-10-17T03:07:59.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -386,6 +514,14 @@
       "category": "POLITIK"
     },
     {
+      "source": "TAZ.DE",
+      "title": "Schulblockaden in Berlin: Protest statt Physiktest",
+      "excerpt": "Die Berliner Schülerschaft blockierte am Freitag erneut zwei Schulen. Ein Einblick in den Protest gegen Bildungskürzungen und Bundeswehr. mehr...",
+      "url": "https://taz.de/Schulblockaden-in-Berlin/!6222186/",
+      "publishedAt": "2026-10-16T18:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
       "source": "TAGESSCHAU.DE",
       "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
       "excerpt": "Immer wieder verletzen sich Jugendliche bei Challenges, die in Sozialen Medien kursieren. Der Bundesrat will Erwachsene bestrafen, die Minderjährige dazu verleiten. Eine Wissenschaftlerin warnt vor Symbolpolitik. Von L. ",
@@ -411,25 +547,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Klimaprotest in Österreich: „Zukunft wäre schon geil“",
-      "excerpt": "In Wien und sechs weiteren österreichischen Städten protestieren Tausende für mehr Klimaschutz. Die Regierung bremst derweil die Spritpreise. mehr...",
-      "url": "https://taz.de/Klimaprotest-in-Oesterreich/!6222282/",
-      "publishedAt": "2026-10-16T17:44:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Großproteste in Frankreich: Nichts ist unmöglich",
       "excerpt": "In Frankreich sind für Samstag landesweit mehr als 1.000 Aktionen und Kundgebungen geplant. Gendarmerie und Polizei rüsten massiv auf. mehr...",
       "url": "https://taz.de/Grossproteste-in-Frankreich/!6222237/",
-      "publishedAt": "2026-10-16T17:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Intimes Möbelstück: Ich will ein Bett von dir",
-      "excerpt": "Heino versteigert das Ehebett, in dem er und seine Frau immer geschlafen haben. Unter Promis hat so etwas Tradition. Ihre Betten versprechen Nähe. mehr...",
-      "url": "https://taz.de/Intimes-Moebelstueck/!6218229/",
       "publishedAt": "2026-10-16T17:43:00.000Z",
       "category": "POLITIK"
     },
@@ -458,14 +578,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Proteste gegen IWF und Weltbank: Opfer konfrontieren Weltbank mit gescheitertem Projekt",
-      "excerpt": "In Thailand protestieren Menschen gegen die Weltbank, die den Preis für deren unerfülltes Wohlstandsversprechen zahlen mussten. mehr...",
-      "url": "https://taz.de/Proteste-gegen-IWF-und-Weltbank/!6222192/",
-      "publishedAt": "2026-10-16T17:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
       "excerpt": "Deutschland und Frankreich haben sich auf eine Position zum Verbrenner-Aus in der EU verständigt. Kanzler Merz und Umweltminister Schneider zeigen sich sehr zufrieden. Oder ist es ein historischer Fehler? Von Jakob Mayr.",
@@ -490,27 +602,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Zweiter Tag des EU-Gipfels in Brüssel: Trügerische Harmonie",
-      "excerpt": "Vor dem Hintergrund wachsender Spannungen zwischen Washington und Kyjiw reist Präsident Selenskyj nach Brüssel. Neue Hilfezusagen bekommt er nicht. mehr...",
-      "url": "https://taz.de/Zweiter-Tag-des-EU-Gipfels-in-Bruessel/!6222273/",
-      "publishedAt": "2026-10-16T16:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "EU-Gipfel: Bröckelt jetzt die Unterstützung für die Ukraine?",
       "excerpt": "Wolodymyr Selenskyj bittet beim EU-Gipfel um zusätzliche 70 Milliarden Euro für die Verteidigung gegen Russland. Doch viel mehr als pflichtschuldige Solidaritätsbekundungen haben die Europäer nicht zu bieten.",
       "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-broeckelt-jetzt-die-unterstuetzung-fuer-die-ukraine-a-c0bbe93c-b8ee-48c0-a6a9-e4c83304e644#ref=rss",
       "publishedAt": "2026-10-16T16:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Menschenrechte in der Wirtschaft: Golfstaaten wollen Öko-Regeln verhindern",
-      "excerpt": "Nach einwöchigen Verhandlungen um ein globales Lieferkettengesetz bleiben Konflikte bestehen. Manchen Ländern geht es um Gerechtigkeit. Anderen um Öl. mehr...",
-      "url": "https://taz.de/Menschenrechte-in-der-Wirtschaft/!6221597/",
-      "publishedAt": "2026-10-16T16:19:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -535,14 +631,6 @@
       "excerpt": "Kaum 24 Stunden nachdem Linke, Grüne und SPD in Berlin die Sondierungen wieder aufgenommen haben, sorgt erneut Vanessa Emde für Aufruhr. Die Abgeordnete wird immer mehr zur Bedrohung für eine mögliche Koalition.",
       "url": "https://www.spiegel.de/politik/linke-spd-gruene-in-berlin-israel-gegnerin-vanessa-emde-postet-ein-video-und-die-ruhe-ist-vorbei-a-c7003dde-5e89-43ab-9c35-45d4eccb208b#ref=rss",
       "publishedAt": "2026-10-16T15:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach Äußerungen über Israel: Linken-Fraktionsspitze geht auf Distanz zu Vanessa Emde",
-      "excerpt": "Die Berliner Linken-Abgeordnete Vanessa Emde hält an umstrittenen Aussagen zum Existenzrecht Israels und dem Nahostkonflikt fest. Womit muss sie rechnen? mehr...",
-      "url": "https://taz.de/Nach-Aeusserungen-ueber-Israel/!6222276/",
-      "publishedAt": "2026-10-16T15:20:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -578,30 +666,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "EEG und Katherina Reiche: Ein Zeitdruck ohne Not",
-      "excerpt": "Es ist unklar, warum die Wirtschaftsministerin beim EEG-Folgegesetz Zeitknappheit erzeugt. Der Schaden ist jetzt schon groß. mehr...",
-      "url": "https://taz.de/EEG-und-Katherina-Reiche/!6216898/",
-      "publishedAt": "2026-10-16T14:50:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Koalitionsbildung in Berlin: Sicherheitshalber mehrgleisig",
-      "excerpt": "Die Berliner Grünen mögen – wie die SPD – erst mal nicht auf ein Video der Linken-Abgeordneten Vanessa Emde reagieren. Die Planung zum Koalitionsabschluss läuft weiter. mehr...",
-      "url": "https://taz.de/Koalitionsbildung-in-Berlin/!6222236/",
-      "publishedAt": "2026-10-16T14:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Prozess in Hannover: Vergewaltigung zugegeben",
-      "excerpt": "Ein 39-Jähriger hat gestanden, seine damalige Partnerin sediert, vergewaltigt und Videos davon verbreitet zu haben. Bisher hatte er geschwiegen. mehr...",
-      "url": "https://taz.de/Prozess-in-Hannover/!6221838/",
-      "publishedAt": "2026-10-16T14:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
       "excerpt": "Bei \"Blackout-Challenges\" würgen sich Jugendliche selbst oder gegenseitig bis zur Ohnmacht. Aufnahmen davon werden vielfach in Sozialen Medien geteilt. Der Bundesrat fordert nun Strafen für die, die andere gezielt zu sol",
@@ -632,14 +696,6 @@
       "url": "https://www.deutschlandfunk.de/deutschland-weltweit-gefragter-standort-fuer-das-studium-int-jan-kercher-100.html",
       "publishedAt": "2026-10-16T12:40:00.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Umweltschützer gegen Merz-Macron-Deal: Die zwei von gestern",
-      "excerpt": "Ein deutsch-französischer Vorschlag könnte den Niedergang der europäischen Automobilindustrie besiegeln, fürchten Umwelt- und Verkehrsexperten. mehr...",
-      "url": "https://taz.de/Umweltschuetzer-gegen-Merz-Macron-Deal/!6222177/",
-      "publishedAt": "2026-10-16T12:39:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -690,14 +746,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Linken-Abgeordnete Vanessa Emde: Warum macht sie das?",
-      "excerpt": "Die Neuköllner Linken-Abgeordnete Vanessa Emde gefährdet eine rot-grün-rote Koalition in Berlin – mit einem erneuten Bekenntnis gegen ein Existenzrecht Israels. mehr...",
-      "url": "https://taz.de/Linken-Abgeordnete-Vanessa-Emde/!6222188/",
-      "publishedAt": "2026-10-16T10:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Klingbeils Baustellen - Zwischen Sparzwang und Entlastung",
       "excerpt": "Deutschlands Probleme begleiten Finanzminister Klingbeil bis nach Bangkok. Sparen, Schuldenabbau, Reformen - das sind die Empfehlungen auf der dortigen IWF-Tagung. Klingbeil gibt sich zuversichtlich - und verweist auch a",
@@ -706,28 +754,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Rente mit 63: Junge Union fordert Abschaffung",
-      "excerpt": "Der stellvertretende Vorsitzende der Jungen Union Pascal Reddig besteht auf der Umsetzung der Koalitionsvereinbarung. Dass die SPD inzwischen von der Abschaffung der abschlagsfreien Frührente abrücke, sei nicht das Probl",
-      "url": "https://www.spiegel.de/politik/rente-junge-union-pocht-vor-deutschlandtag-auf-abschaffung-der-rente-mit-63-a-7da27a46-e9b4-4568-a51b-27a625ba8ccc#ref=rss",
-      "publishedAt": "2026-10-16T08:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
       "excerpt": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
       "publishedAt": "2026-10-16T08:16:46.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Linke: Vanessa Emde sieht Aufnahme in Fraktion als »Geländegewinn gegen die Staatsräson«",
-      "excerpt": "Linke, Grüne und SPD wollen heute in Berlin weiter sondieren. Die Gespräche standen wegen der umstrittenen Personalie Vanessa Emde zwischenzeitlich auf der Kippe. Die sorgt nun mit einem Video für neuen Zündstoff.",
-      "url": "https://www.spiegel.de/politik/vanessa-emde-sieht-aufnahme-in-linkenfraktion-als-gelaendegewinn-gegen-die-staatsraeson-a-bc30baa4-6021-4379-8ffb-1e4653ad7473#ref=rss",
-      "publishedAt": "2026-10-16T08:08:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -751,30 +783,6 @@
       "excerpt": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" ",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
       "publishedAt": "2026-10-16T07:04:17.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Ukraine: Weißes Haus soll Starshield-Einsatz für Kyjiw begrenzt haben",
-      "excerpt": "Die Drosselung des US-Satellitensystems Starshield hat offenbar ukrainische Drohnenangriffe beeinträchtigt. Einem Bericht zufolge kam die Anweisung aus dem Weißen Haus. Außenminister Wadephul fordert Aufklärung.",
-      "url": "https://www.spiegel.de/politik/ukraine-krieg-weisses-haus-soll-starshield-einsatz-begrenzt-haben-a-202e59ca-08b8-4fd9-8907-9dc8d063e3e5#ref=rss",
-      "publishedAt": "2026-10-16T06:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Fünf Tote bei Schüssen an Grundschule in Oregon",
-      "excerpt": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder sowie eine Lehrkraft getötet worden. Der jugendliche mutmaßliche Schütze wurde erschossen - noch bevor die Polizei eintraf.",
-      "url": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
-      "publishedAt": "2026-10-16T05:07:05.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-      "excerpt": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
-      "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-      "publishedAt": "2026-10-15T19:20:05.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -1424,14 +1432,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
       "publishedAt": "2026-08-21T07:54:39.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Studie warnt vor deutlich mehr Waldbränden in Europa",
-      "excerpt": "In Europa könnten künftig deutlich mehr Flächen brennen als bislang. Das zeigt eine Studie des Potsdam-Instituts für Klimafolgenforschung. Wie sehr das Risiko mit der Erderwärmung steigt - und was Brandmanagement leisten",
-      "url": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
-      "publishedAt": "2026-08-20T09:01:46.000Z",
-      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
