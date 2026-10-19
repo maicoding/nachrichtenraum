@@ -1,60 +1,116 @@
 {
-  "updatedAt": "2026-10-19T17:33:08.606Z",
+  "updatedAt": "2026-10-19T21:44:36.881Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Live-Ticker zu Frankreich-Krawallen - Auch Meloni prüft Ausgangssperren",
-      "excerpt": "In Frankreich wurden am vergangenen Wochenende mindestens 2331 Menschen festgenommen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-gelbwesten-planen-neuen-protesttag-6ad5fab951e5094f7a571abb",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "BILD exklusiv - Riesiger Hackerangriff auf die AfD",
+      "excerpt": "Es sollen Hunderttausende interne Mails veröffentlicht worden sein",
+      "url": "https://www.bild.de/politik/inland/afd-offenbar-421-179-mails-nach-hackerangriff-im-netz-6ad6642951e5094f7a57232d",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Neues INSA-Politikerranking - Jetzt wird’s eng für Pistorius!",
-      "excerpt": "Pistorius hält seine Spitzenposition im Politiker-Ranking. Doch eine Politikerin holt auf.",
-      "url": "https://www.bild.de/politik/inland/insa-jetzt-wirds-eng-fuer-pistorius-parteifreundin-holt-in-beliebtheit-rasant-auf-6ad60dba51e5094f7a571c73",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Experten: Verfassungsbruch! - Will die Linke mit noch mehr Migranten ihre Macht ausbauen?",
+      "excerpt": "SPD und Grüne planen Wahlrecht für Ausländer nach fünf Jahren Aufenthalt.",
+      "url": "https://www.bild.de/politik/inland/berlin-will-die-linke-mit-noch-mehr-migranten-ihre-macht-ausbauen-6ad62175199dc15f1abd97be",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Investoren-Gipfel mit Nvidia-Boss - Fädelt Merz heute einen Milliarden-Deal ein?",
+      "title": "Brisante Bayern-Umfrage - Mehrheit der CSU-Wähler will Merz-Rücktritt",
+      "excerpt": "Der Rückhalt für Kanzler Merz bröckelt, auch bei Wählern der bayerischen Schwesterpartei.",
+      "url": "https://www.bild.de/politik/inland/friedrich-merz-mehrheit-der-csu-anhaenger-will-seinen-ruecktritt-6ad658a951e5094f7a5722aa",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Schwerer Patzer beim Abschiedsfoto! - Trumps 5-Tage-Sprecherin postete Geheiminfos",
+      "excerpt": "Ein Abschiedsfoto mit Trump enthüllte versehentlich geheime Golfplatzpläne.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/auf-abschiedsfoto-mit-trump-naechster-patzer-katie-zacharia-postete-geheiminfos-6ad5f2ddde9d7a845942b4ae",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Selenskyj mit dramatischem Hilferuf - „Als würden uns die USA zur Kapitulation drängen“",
+      "excerpt": "Selenskyj macht Washington für Einschränkungen bei Starlink verantwortlich.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-mit-hilferuf-wollen-die-usa-die-ukraine-zur-kapitulation-draengen-6ad64a075e327b030a855370",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nur 2 Gegenstimmen in Berlin - Auch Grüne für Koalitionsgespräche mit radikalen Linken",
+      "excerpt": "Berliner Delegierte billigen Gespräche über eine neue Landesregierung.",
+      "url": "https://www.bild.de/politik/berliner-gruene-fuer-koalitionsgespraeche-mit-linke-und-spd-6ad66da7199dc15f1abd9cd0",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Investoren-Gipfel mit Big-Bossen - Prost! Merz tütet Millionen-Deal mit Nvidia ein",
       "excerpt": "Beim Investoren-Gipfel wirbt die Bundesregierung um Geld für Deutschlands Wirtschaft.",
       "url": "https://www.bild.de/politik/inland/merz-und-nvidia-chef-huang-gipfel-trotz-harter-deutschlandkritik-6ad610a951e5094f7a571cf4",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kommentar von Politik-Chef Jan W. Schäfer - Ein Gipfel gegen Klassenkampf und Sozialismus",
-      "excerpt": "Kanzler Merz empfängt 200 internationale Investoren für Milliardeninvestitionen.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-ein-gipfel-gegen-klassenkampf-und-sozialismus-6ad6313cde9d7a845942bb43",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Merz trifft Nvidia-Chef - Fährt bald eine autonome S-Klasse in Deutschland?",
+      "excerpt": "Die Bundesregierung nennt das Ziel, industrielle KI breiter nutzbar zu machen und ein KI-Ökosystem in Europa aufzubauen",
+      "url": "https://www.bild.de/politik/merz-trifft-nvidia-chef-faehrt-bald-eine-autonome-s-klasse-in-deutschland-6ad6604d51e5094f7a5722fb",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "„Vertrauensbruch“ - Bodo Ramelow rechnet mit Israel-Hasserin Emde ab",
-      "excerpt": "Berliner Linke muss Antisemitismus klar ablehnen, sonst ist die Koalition gefährdet.",
-      "url": "https://www.bild.de/politik/inland/linke-ex-ministerpaesident-bodo-ramelow-rechnet-mit-israel-hasserin-emde-ab-6ad5acd8843996518cba56a9",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Waschmaschinen-König stirbt mit 98 - „Mister Miele“ ist tot",
+      "excerpt": "Peter Christian Zinkann starb mit 98 Jahren nach 40 Jahren an der Konzernspitze.",
+      "url": "https://www.bild.de/politik/inland/mister-miele-ist-tot-peter-christian-zinkann-leitete-den-konzern-40-jahre-lang-6ad64f715e327b030a8553c1",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Fast einstimmig beschlossen - SPD stimmt für Koalitionsgespräche mit Linken",
-      "excerpt": "Berlins Sozialdemokraten beschließen fast einstimmig(26 Ja, 3 Nein) Koalitionsgespräche mit Linken und Grünen.",
-      "url": "https://www.bild.de/politik/inland/trotz-aller-warnungen-berliner-spd-stimmt-fuer-koalition-mit-linken-und-gruenen-6ad6060b51e5094f7a571bb1",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Nach Kritik von Nvidia-Chef - Sind WIR WIRKLICH „abgehängt“?",
-      "excerpt": "Beim Investorengipfel in Berlin geht es um Deutschlands Chance durch KI.",
-      "url": "https://www.bild.de/politik/nach-kritik-von-nvidia-chef-sind-wir-wirklich-abgehaengt-6ad61efc199dc15f1abd9787",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Linken-Chefin Ines Schwerdtner erklärt - Mieter sollen für Milliarden-Enteignung zahlen",
+      "excerpt": "Die Linke will die Enteignung mit Krediten finanzieren, die wiederum über Mieteinnahmen.",
+      "url": "https://www.bild.de/politik/inland/linken-chefin-ines-schwerdtner-mieter-sollen-fuer-milliarden-enteignung-zahlen-6ad612a7843996518cba6068",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Zeit“-Recherche enthüllt - Türken kaufen Strafverfahren, um bei uns Asyl zu kriegen",
+      "excerpt": "Türken nutzen offenbar echte Justizeinträge, um in Deutschland Schutz zu erhalten.",
+      "url": "https://www.bild.de/politik/tuerken-kaufen-sich-strafverfahren-fuer-asyl-in-deutschland-6ad633eb199dc15f1abd9956",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zu Frankreich-Krawallen - Ausgangssperren in Kraft! Was passiert jetzt?",
+      "excerpt": "In Frankreich wurden am vergangenen Wochenende mindestens 2331 Menschen festgenommen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-gelbwesten-planen-neuen-protesttag-6ad5fab951e5094f7a571abb",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Reporter konfrontieren Linke - Wie sollen die Enteignungen finanziert werden?",
+      "excerpt": "BILD-Politik-Redakteurin Lisa Windolph und BILD-Chefautor Peter Tiede fragen Linken-Chefin Ines Schwerdtner, wie die Linken ihren En...",
+      "url": "https://www.bild.de/politik/bild-reporter-konfrontieren-linke-wie-sollen-die-enteignungen-finanziert-werden-6ad636a751e5094f7a572093",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
@@ -62,95 +118,39 @@
       "title": "Gewalt in Frankreich - Das absurde Gerede vom „Bildungsprotest“",
       "excerpt": "Palästina-Fahnen prägen die gewaltsamen Ausschreitungen in Frankreich.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/frankreich-krawalle-das-absurde-gerede-vom-bildungsprotest-6ad61f72de9d7a845942b9b3",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Eralps Regierungsbildung in Berlin - „Spannung zwischen Ausländern und Deutschen verschärft sich!“",
-      "excerpt": "SPD und Grüne streben Koalitionsgespräche mit der radikalen Linken an.",
-      "url": "https://www.bild.de/politik/eralps-regierungsbildung-in-berlin-rot-rot-gruen-will-deutschland-schaden-6ad5fc87843996518cba5e46",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Neues INSA-Politikerranking - Jetzt wird’s eng für Pistorius!",
+      "excerpt": "Pistorius hält seine Spitzenposition im Politiker-Ranking. Doch eine Politikerin holt auf.",
+      "url": "https://www.bild.de/politik/inland/insa-jetzt-wirds-eng-fuer-pistorius-parteifreundin-holt-in-beliebtheit-rasant-auf-6ad60dba51e5094f7a571c73",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Versprechen für Amerikas Nachwuchs - Elon Musk will jedem Kind eine SpaceX-Aktie schenken",
-      "excerpt": "Das geplante Milliardengeschenk für US-Kinder ist noch nicht im Detail geregelt.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-will-kindern-in-den-usa-spacexaktien-schenken-6ad5d89c51e5094f7a5716e7",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "Kommentar von Politik-Chef Jan W. Schäfer - Ein Gipfel gegen Klassenkampf und Sozialismus",
+      "excerpt": "Kanzler Merz empfängt 200 internationale Investoren für Milliardeninvestitionen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-ein-gipfel-gegen-klassenkampf-und-sozialismus-6ad6313cde9d7a845942bb43",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Knallhart-Abrechnung der Medien - „Jahrzehnte der Feigheit und der Blindheit“",
-      "excerpt": "Frankreichs Krawalle lösen heftige Kritik an der politischen Klasse aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/frankreich-wurde-gedemuetigt-traditionszeitung-rechnet-mit-macron-co-ab-6ad5c442199dc15f1abd8f17",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Bewaffneter Kampf einer Allianz - Dobrindt: Das steckt wirklich hinter Frankreich-Krawallen",
-      "excerpt": "Bei den Randalen wurden fast 1000 Polizisten verletzt – es ist kein Schulprotest mehr.",
-      "url": "https://www.bild.de/politik/inland/unheimliche-allianz-fuehrt-bewaffneten-kampf-dobrindt-das-steckt-wirklich-hinter-frankreich-krawallen-6ad5e913de9d7a845942b3a7",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ulf Poschardt über Gewalt in Frankreich - „Wir werden diese Konflikte auch in Deutschland erleben“",
-      "excerpt": "Frankreichs Gewalt eskaliert: Über 2000 Menschen wurden festgenommen.",
-      "url": "https://www.bild.de/politik/ulf-poschardt-ueber-gewalt-in-frankreich-wir-werden-diese-konflikte-auch-in-deutschland-erleben-6ad5e4e0de9d7a845942b336",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Krawalle und Eskalation - Frankreich ordnet Ausgangssperren an",
-      "excerpt": "Lecornu beauftragt Präfekten mit lokalen Maßnahmen gegen Ausschreitungen und Plünderungen.",
-      "url": "https://www.bild.de/politik/krawalle-und-eskalation-frankreich-ordnet-lokale-ausgangssperren-an-6ad5fbd3de9d7a845942b58e",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kämpfer gegen das Vergessen - KZ-Überlebender Mano Höllenreiner gestorben",
-      "excerpt": "Als Kind überlebte Mano Höllenreiner Auschwitz, berichtete später als Zeitzeuge.",
-      "url": "https://www.bild.de/politik/inland/kaempfer-gegen-das-vergessen-kz-ueberlebender-mano-hoellenreiner-gestorben-6ad5e15d843996518cba5abd",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Bis zu 7000 Euro/Monat für Quereinsteiger - Lust auf einen Job mit Zukunft?",
-      "excerpt": "Friseure, Goldschmiede, Schneider und Uhrmacher finden Jobs in der Raumfahrt.",
-      "url": "https://www.bild.de/politik/inland/quereinsteiger-jobs-vom-goldschmied-zum-raketenbauer-6ad484f1199dc15f1abd81a1",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Frankreich-Proteste eskalieren komplett / Linke fordert mehr Migration",
-      "excerpt": "Paul Ronzheimer und Filipp Piatov sprechen über die dramatischen Bilder aus Frankreich: brennende Gebäude, geplünderte Geschäfte und...",
-      "url": "https://www.bild.de/politik/ronzheimer-frankreich-proteste-eskalieren-komplett-linke-fordert-mehr-migration-6ad530de51e5094f7a571191",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Berlin und Sachsen-Anhalt - Rhein will Extremismusklausel für Länderfinanzausgleich",
-      "excerpt": "Hessen fordert Geld-Stopp für Berlin und Sachsen-Anhalt wegen extremer Parteien.",
-      "url": "https://www.bild.de/politik/inland/wegen-berlin-und-sachsen-anhalt-rhein-will-extremismusklausel-fuer-laenderfinanzausgleich-6ad5a80e51e5094f7a5713dd",
-      "publishedAt": "2026-10-19T17:33:08.601Z",
+      "title": "„Vertrauensbruch“ - Bodo Ramelow rechnet mit Israel-Hasserin Emde ab",
+      "excerpt": "Berliner Linke muss Antisemitismus klar ablehnen, sonst ist die Koalition gefährdet.",
+      "url": "https://www.bild.de/politik/inland/linke-ex-ministerpaesident-bodo-ramelow-rechnet-mit-israel-hasserin-emde-ab-6ad5acd8843996518cba56a9",
+      "publishedAt": "2026-10-19T21:44:36.878Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Nach Sondierungsgesprächen - Berliner SPD stimmt für Koalitionsverhandlungen mit Linken und Grünen",
-      "excerpt": "Die SPD in Berlin will nach übereinstimmenden Medienberichten Koalitionsverhandlungen mit Linken und Grünen aufnehmen. Das entschied der Landesvorstand der Sozialdemokraten demnach mit 26 zu drei Stimmen in einer digital",
-      "url": "https://www.deutschlandfunk.de/berliner-spd-stimmt-fuer-koalitionsverhandlungen-mit-linken-und-gruenen-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
+      "excerpt": "Nach der SPD haben sich auch die Grünen in Berlin für die Aufnahme von Koalitionsverhandlungen mit der Linken ausgesprochen. Bei einem kleinen Parteitag stimmten am Abend 43 der 45 Delegierten dafür und zwei dagegen.",
+      "url": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,15 +158,31 @@
       "title": "Rot-Grün-Rot in Berlin - Wohnungskonzern Vonovia: Vergesellschaftung in geplanter Form verfassungswidrig",
       "excerpt": "Die Pläne von Linke, Grünen und SPD zur Vergesellschaftung großer Wohnungskonzerne werden aus Sicht des Immobilienkonzerns Vonovia vor Gericht nicht standhalten. Das Unternehmen teilte mit, man sei überzeugt, dass eine V",
       "url": "https://www.deutschlandfunk.de/wohnungskonzern-vonovia-vergesellschaftung-in-geplanter-form-verfassungswidrig-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken",
-      "excerpt": "In Berlin beginnt am Abend auf Einladung der Bundesregierung ein zweitägiger internationaler Investitionsgipfel. Dazu werden etwa 200 Unternehmenschefs aus dem In- und Ausland erwartet, darunter der Chef des US-Chipherst",
-      "url": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
+      "excerpt": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im",
+      "url": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
+      "excerpt": "US-Präsident Trump hat sich offen für ein Gespräch zur Beendigung des",
+      "url": "https://www.deutschlandfunk.de/trump-zu-dreiertreffen-mit-putin-und-xi-bereit-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Tote und Verletzte bei russischem Drohnenangriff auf Park - auch Energiesektor wieder Ziel",
+      "excerpt": "Bei einem russischen Drohnenangriff auf einen Park in der Nähe der ukrainischen Stadt Charkiw im Nordosten des Landes sind mindestens sechs Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-russischem-drohnenangriff-auf-park-auch-energiesektor-wieder-ziel-104.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -174,7 +190,39 @@
       "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
       "excerpt": "Nach den Ausschreitungen am Wochenende hat Frankreichs Premierminister Lecornu Ausgangssperren in mehreren Städten angekündigt. Demnach wies er nach einer Krisensitzung der Regierung die Präfekte der Départements an, lok",
       "url": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Krisensitzung - Italiens Ministerpräsidentin Meloni kündigt nach Krawallen hartes Vorgehen an",
+      "excerpt": "Nach den Ausschreitungen bei Protesten in mehreren italienischen Städten will die Regierung in Rom entschlossen reagieren.",
+      "url": "https://www.deutschlandfunk.de/italiens-ministerpraesidentin-meloni-kuendigt-nach-krawallen-hartes-vorgehen-an-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Überschwemmungen - Spanien: Mindestens vier Tote durch Unwetter",
+      "excerpt": "In Spanien sind bei Unwettern mindestens vier Menschen ums Leben gekommen.",
+      "url": "https://www.deutschlandfunk.de/spanien-mindestens-vier-tote-durch-unwetter-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Armenien - Weltnaturkonferenz berät über Artenvielfalt",
+      "excerpt": "In der armenischen Hauptstadt Eriwan beraten auf der 17. Weltnaturkonferenz Vertreter von fast 200 Ländern zwei Wochen lang über Maßnahmen gegen den Rückgang der Biodiversität.",
+      "url": "https://www.deutschlandfunk.de/weltnaturkonferenz-beraet-ueber-artenvielfalt-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Erkundung von Mond Phobos - Japanische Sonde zum Mars aufgebrochen",
+      "excerpt": "Vom japanischen Weltraumbahnhof Tanegashima ist eine H3-Trägerrakete ins All gestartet. Ziel ist der Marsmond Phobos, der bisher kaum erforscht ist.",
+      "url": "https://www.deutschlandfunk.de/japanische-sonde-zum-mars-aufgebrochen-104.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,23 +230,31 @@
       "title": "Helen Haines - Australische Abgeordnete von Auto erfasst - Premier Albanese spricht von vorsätzlicher Tat - Anti-Terror-Einheit aktiviert",
       "excerpt": "In Australien ist eine Parlamentsabgeordnete von einem Auto angefahren und schwer verletzt worden.",
       "url": "https://www.deutschlandfunk.de/australische-abgeordnete-von-auto-erfasst-premier-albanese-spricht-von-vorsaetzlicher-tat-anti-terro-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Vorstoß des Kreml - Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-      "excerpt": "Ein ​mögliches Dreiertreffen zwischen Russlands Präsident Putin, US-Präsident Trump und Chinas Staatschef Xi Jinping am ‌Rande des ⁠Apec-Gipfels im kommenden Monat ⁠ist im Kreml erörtert worden.",
-      "url": "https://www.deutschlandfunk.de/ukraine-krieg-putin-schlaegt-treffen-mit-trump-und-xi-vor-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "title": "Nahost-Konflikt - Einflussreicher Imam verlangt Vermittlungsinitiative",
+      "excerpt": "Der einflussreiche ägyptische Großimam al-Tayeb hat angesichts der Gewalt im Nahen Osten die Einrichtung eines Vermittlungskomitees verlangt.",
+      "url": "https://www.deutschlandfunk.de/einflussreicher-imam-verlangt-vermittlungsinitiative-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Russische Angriffe auf Energiesektor - 550.000 Haushalte in der Ukraine ohne Strom und Wasser - Selenskyj: erneut keine Vorwarnung durch USA",
-      "excerpt": "Russland hat erneut den ukrainischen Energiesektor und andere Infrastruktureinrichtungen angegriffen. Nach Angaben von Präsident Selenskyj gab es vorher keine Warnung durch die Verbündeten.",
-      "url": "https://www.deutschlandfunk.de/550-000-haushalte-in-der-ukraine-ohne-strom-und-wasser-selenskyj-erneut-keine-vorwarnung-durch-usa-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "title": "Autor und Dramaturg - Mehdi Moradpour ist mit 47 Jahren gestorben",
+      "excerpt": "Der aus Teheran stammende Autor und Dramaturg Mehdi Moradpour ist tot. Wie das Schauspielhaus Wien und das Thalia Theater in Hamburg mitteilten, starb er bereits am 16. Oktober nach langer, schwerer Krankheit in Hamburg.",
+      "url": "https://www.deutschlandfunk.de/mehdi-moradpour-ist-mit-47-jahren-gestorben-102.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - Portugiesischer Verband verhängt Strafe gegen Ronaldo: 255 Euro - und damit weniger als einen Minutenlohn",
+      "excerpt": "Fußball-Star Cristiano Ronaldo ist vom portugiesischen Verband für das vorzeitige Verlassen des Trainingslagers mit einer Strafe belegt worden. Wie aus einer Mitteilung des Disziplinarrats des Verbandes hervorgeht, muss ",
+      "url": "https://www.deutschlandfunk.de/portugiesischer-verband-verhaengt-strafe-gegen-ronaldo-255-euro-und-damit-weniger-als-einen-minutenl-102.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +262,7 @@
       "title": "Serie von Gewalttaten - Jugendgewalt beschäftigt Politik in Brandenburg - wieder Jugendliche in Potsdam bedrängt und attackiert",
       "excerpt": "In Potsdam hat erneut eine Gruppe von Jugendlichen andere Teenager bedrängt und attackiert.",
       "url": "https://www.deutschlandfunk.de/jugendgewalt-beschaeftigt-politik-in-brandenburg-wieder-jugendliche-in-potsdam-bedraengt-und-attacki-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +270,15 @@
       "title": "Durchbrochener Zaun - Sicherheitsvorfall am Flughafen Halle/Leipzig: Tatverdächtige stellen sich der Polizei",
       "excerpt": "Nach dem Sicherheitsvorfall am Flughafen Leipzig/Halle am Wochenende geht die Polizei von einem Unfall aus.",
       "url": "https://www.deutschlandfunk.de/sicherheitsvorfall-am-flughafen-halle-leipzig-tatverdaechtige-stellen-sich-der-polizei-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Afrika - Sektenführer in Kenia der Tötung von 191 Menschen schuldig gesprochen",
+      "excerpt": "Ein Gericht in Kenia hat den Sektenführer Mackenzie und weitere Angeklagte der Tötung von 191 Menschen schuldig gesprochen.",
+      "url": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-der-toetung-von-191-menschen-schuldig-gesprochen-100.html",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,72 +286,128 @@
       "title": "Berlin - Wegen Anschlagsplänen: Auswärtiges Amt bestellt iranischen Botschafter ein",
       "excerpt": "Das Auswärtige Amt hat den iranischen Botschafter einbestellt. Hintergrund ist die Verurteilung von zwei Männern mit Verbindung zu Teheran zu Haftstrafen in der vergangenen Woche.",
       "url": "https://www.deutschlandfunk.de/wegen-anschlagsplaenen-auswaertiges-amt-bestellt-iranischen-botschafter-ein-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
+      "publishedAt": "2026-10-19T21:32:13.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Bürgerkrieg - Cap Anamur: Lage für Zivilbevölkerung im Sudan verschärft sich",
-      "excerpt": "Die Hilfsorganisation Cap Anamur warnt vor einer zunehmend prekären Lage im Sudan.",
-      "url": "https://www.deutschlandfunk.de/cap-anamur-lage-fuer-zivilbevoelkerung-im-sudan-verschaerft-sich-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken",
+      "excerpt": "Linke, SPD und Grüne wollen über ein rot-grün-rotes Bündnis für Berlin verhandeln. Der SPD-Landesvorstand hat den Plänen nun zugestimmt, auch die Grünen nehmen das Sondierungspapier an.",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
+      "publishedAt": "2026-10-19T19:39:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Volkswagen in der Krise - Betriebsrat bestätigt Bericht über Einfrieren der Gehälter bei VW",
-      "excerpt": "​Der Autobauer Volkswagen will die Gehälter seiner weltweit rund 660.000 Beschäftigten bis ‌zum Jahr 2030 ⁠einfrieren. Das berichtet die Gewerkschaft IG Metall unter Verweis auf den Betriebsrat.",
-      "url": "https://www.deutschlandfunk.de/betriebsrat-bestaetigt-bericht-ueber-einfrieren-der-gehaelter-bei-vw-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "excerpt": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+      "publishedAt": "2026-10-19T19:23:41.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Ifo-Institut - Deutsche Industrie hat seit 2019 fast 500.000 Arbeitsplätze verloren",
-      "excerpt": "Die deutschen Industrieunternehmen haben einer Untersuchung des Münchner Ifo-Instituts zufolge seit 2019 fast eine halbe Million Arbeitsplätze abgebaut.",
-      "url": "https://www.deutschlandfunk.de/deutsche-industrie-hat-seit-2019-fast-500-000-arbeitsplaetze-verloren-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+      "excerpt": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger hef",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
+      "publishedAt": "2026-10-19T19:09:32.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaftsministerium - Weitere Milliarden für klimafreundlichen Umbau der Industrie",
-      "excerpt": "Bundeswirtschaftsministerin Reiche (CDU) plant eine neue Förderrunde für den klimafreundlichen Umbau der deutschen Industrie in Milliardenhöhe.",
-      "url": "https://www.deutschlandfunk.de/weitere-milliarden-fuer-klimafreundlichen-umbau-der-industrie-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+      "excerpt": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert ge",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
+      "publishedAt": "2026-10-19T19:08:04.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Branchenverband Bitkom - Digitale Technologien: Deutsche Unternehmen weiter abhängig von USA und China",
-      "excerpt": "Das Ziel einer größeren digitalen Souveränität Deutschlands ist einer Studie zufolge noch weit entfernt. Zwei Drittel der befragten Unternehmen rechnen sogar damit, dass die Abhängigkeit in den kommenden Jahren zunimmt.",
-      "url": "https://www.deutschlandfunk.de/digitale-technologien-deutsche-unternehmen-weiter-abhaengig-von-usa-und-china-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Die Linke, SPD und Grüne in Berlin: Wie realistisch sind die Miet- und Migrationspläne?",
+      "excerpt": "Wahlrecht für Ausländer, sicherer Zuzug für Schutzsuchende, Vergesellschaftung von Wohnkonzernen: Rot-Grün-Rot hat für Berlin einiges vor. Doch was können sie überhaupt umsetzen? Und was könnte der Bund verhindern?",
+      "url": "https://www.spiegel.de/politik/deutschland/die-linke-spd-und-gruene-in-berlin-wie-realistisch-sind-die-miet-und-migrationsplaene-a-b215ebf7-fed2-43a1-8260-dfe754d61eb5#ref=rss",
+      "publishedAt": "2026-10-19T18:06:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Rekordpreise für Energie - Bundesbank rechnet mit hoher Inflationsrate bis ins nächste Jahr",
-      "excerpt": "Die Bundesbank rechnet für die kommenden ‌Monate mit einem ⁠anhaltend hohen Preisdruck.",
-      "url": "https://www.deutschlandfunk.de/bundesbank-rechnet-mit-hoher-inflationsrate-bis-ins-naechste-jahr-104.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Kevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an",
+      "excerpt": "Kevin Dorow soll bei der Gründungsversammlung der AfD-Jugendorganisation eine Propagandaparole der Hitlerjugend verwendet haben. Die Staatsanwaltschaft Gießen hat Anklage erhoben. Ob es zu einem Prozess kommt, ist noch o",
+      "url": "https://www.spiegel.de/politik/deutschland/kevin-dorow-staatsanwaltschaft-klagt-afd-politiker-wegen-ns-parole-an-a-01739e4f-e274-4dec-a236-698d910e05a7#ref=rss",
+      "publishedAt": "2026-10-19T18:02:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nach Krawallen - Auswärtiges Amt rät bei Reisen nach Frankreich zur Vorsicht",
-      "excerpt": "Nach Ausschreitungen bei den Protesten in Frankreich rät das Auswärtige Amt Reisende zur Vorsicht.",
-      "url": "https://www.deutschlandfunk.de/auswaertiges-amt-raet-bei-reisen-nach-frankreich-zur-vorsicht-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+      "excerpt": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
+      "publishedAt": "2026-10-19T17:59:59.000Z",
+      "category": "INNENPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nicht nur in Frankreich - Von Belgien bis Albanien - warum es in mehreren europäischen Ländern Proteste und Ausschreitungen gibt",
-      "excerpt": "Nicht nur in Frankreich, auch in anderen Staaten Europas sind am Wochenende tausende Menschen gegen steigende Lebenshaltungskosten auf die Straße gegangen. Teilweise kam es zu Ausschreitungen und Plünderungen. Ein Überbl",
-      "url": "https://www.deutschlandfunk.de/von-belgien-bis-albanien-warum-es-in-mehreren-europaeischen-laendern-proteste-und-ausschreitungen-gi-100.html",
-      "publishedAt": "2026-10-19T17:23:42.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Proteste in Europa: Und die EU-Spitze schaut weg",
+      "excerpt": "Die europaweiten Proteste könnten sich zu einer Revolte à la 1968 ausweiten. Denn das Nichtstun der EU verstärkt die Wut noch. Dabei gäbe es einen Ausweg. mehr...",
+      "url": "https://taz.de/Proteste-in-vielen-Teilen-von-Europa-Das-Nichtstun-der-EU-verstaerkt-die-Wut-weiter/!6218290/",
+      "publishedAt": "2026-10-19T17:46:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Arabische Bevölkerung in Israel: Gewalt, organisierte Kriminalität und das Wegsehen",
+      "excerpt": "In der arabischen Community in Israel kommt es immer häufiger zu schwerer Gewaltkriminalität. Die Polizei allerdings interessiert sich kaum dafür. mehr...",
+      "url": "https://taz.de/Arabische-Bevoelkerung-in-Israel/!6222585/",
+      "publishedAt": "2026-10-19T17:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Friedrich Merz’ Investitionsgipfel: Stromberg lässt grüßen",
+      "excerpt": "Mit dem „Invest in Germany Summit“ will die Bundesregierung das Großkapital anlocken. Hinter verschlossenen Türen und ohne Gewerkschaften, versteht sich. mehr...",
+      "url": "https://taz.de/Investitionsgipfel-der-Regierung-mit-uA-Nvidia-Blackrock-Siemens-Die-Shitshow-der-Big-Business-Versteher/!6222574/",
+      "publishedAt": "2026-10-19T17:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
+      "excerpt": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit. mehr...",
+      "url": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6222586/",
+      "publishedAt": "2026-10-19T17:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Hubertus Heil und der SPD-Vorsitz: „Ich kann es nicht ausschließen, dass ich antrete“",
+      "excerpt": "Der ehemalige Arbeitsminister macht aus seinen Ambitionen für den SPD-Parteivorsitz kein Geheimnis. Doch er stellt eine interessante Bedingung. mehr...",
+      "url": "https://taz.de/Hubertus-Heil-und-der-SPD-Vorsitz/!6222604/",
+      "publishedAt": "2026-10-19T17:43:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Satire mit Tom Cruise: Warum floppt der Film „Digger“ so dermaßen?",
+      "excerpt": "Auch Social-Media-Kampagnen mit dem publikumsscheuen Tom Cruise erhöhen nicht die Zuschauerzahlen. Was macht Erfolg oder Misserfolg eines Films aus? mehr...",
+      "url": "https://taz.de/Film-mit-Tom-Cruise-Warum-ist-Digger-so-dermassen-gefloppt/!6218188/",
+      "publishedAt": "2026-10-19T17:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Duoalbum von Bibio und Dorian Concept: Rein in die Sackgasse und rückwärts wieder raus",
+      "excerpt": "Bibio und Dorian Concept spannen sich für das Album „Answers“ zusammen. Ihre musikalische Schnittmenge aus Ambient und windschiefer Klangforschung ist schlüssig. mehr...",
+      "url": "https://taz.de/Duoalbum-von-Bibio-und-Dorian-Concept/!6222561/",
+      "publishedAt": "2026-10-19T17:40:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Regierungsbildung: SPD-Landesvorstand stimmt für Koalitionsverhandlungen",
+      "excerpt": "Die Berliner Sozialdemokraten geben als erste der drei Parteien grünes Licht für Koalitionsgespräche. Auch die Grünen wollen noch am Montagabend eine Entscheidung treffen. mehr...",
+      "url": "https://taz.de/Regierungsbildung/!6222816/",
+      "publishedAt": "2026-10-19T17:39:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -298,27 +418,11 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-      "excerpt": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
-      "publishedAt": "2026-10-19T17:19:04.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Lockerung beim Verbrenner-Aus: Merz und Macron sind noch keine Mehrheit",
       "excerpt": "Der deutsch-französische Kompromiss zum Verbrenner-Aus ist noch längst nicht beschlossen. Im EU-Parlament und im Rat beginnt ein Ringen um Mehrheiten. mehr...",
       "url": "https://taz.de/Kompromiss-beim-Verbrenner-Aus-Merz-und-Macron-sind-noch-keine-Mehrheit/!6222608/",
       "publishedAt": "2026-10-19T17:07:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Biodiversität: Die Lösung liegt auf der Alm",
-      "excerpt": "Um das lebenswichtige Miniaturvieh zu retten, braucht es ein Umdenken von Land- und Forstwirtschaft. Mehr Wald und Moore statt Dünger und Tierzucht. mehr...",
-      "url": "https://taz.de/Konferenz-zum-Artenschutz/!6222644/",
-      "publishedAt": "2026-10-19T17:04:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -339,14 +443,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Gewalt bei Schulprotesten: Nur ein Symptom",
-      "excerpt": "Die heftigen Ausschreitungen sind eine Folge dessen, dass das Leben immer unbezahlbarer wird. Und einer Hilflosigkeit, anders nicht gehört zu werden. mehr...",
-      "url": "https://taz.de/Gewalt-bei-Schulprotesten-Die-Hilflosigkeit-auf-eine-andere-Weise-nicht-gehoert-zu-werden/!6222616/",
-      "publishedAt": "2026-10-19T16:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Ökozid als Straftatbestand: Mit Recht gegen schwere Naturzerstörung",
       "excerpt": "Massive Umweltdelikte zu bestrafen, ist oft noch schwierig. Das wäre anders, wenn Ökozide international als Verbrechen gälten, sagen Expert*innen. mehr...",
       "url": "https://taz.de/Oekozid-als-Straftatbestand/!6222590/",
@@ -362,14 +458,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin: SPD stimmt für Koalitionsgespräche mit Linke und Grünen",
-      "excerpt": "Linke, SPD und Grüne wollen über ein rot-grün-rotes Bündnis für Berlin verhandeln. Der SPD-Landesvorstand hat den Plänen nun zugestimmt, bei den Grünen wird eine Entscheidung am Abend erwartet.",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
-      "publishedAt": "2026-10-19T16:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Razzia in queerem Community-Ort: Alles wegen ein paar Tabletten",
       "excerpt": "Auf der Suche nach Hormonmedikamenten durchsuchen Polizisten ein Treffen von trans Frauen in Kreuzberg. Betroffene sehen einen Angriff auf trans Rechte. mehr...",
@@ -379,9 +467,9 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Bärbel Bas' Rücktritt: CDU-Politiker Christian von Stetten verteidigt sich gegen SPD-Kritik",
+      "title": "Bärbel Bas' Rücktritt: Christian von Stetten (CDU) verteidigt sich gegen SPD-Kritik",
       "excerpt": "Der CDU-Abgeordnete Christian von Stetten forderte im September den Rücktritt von Arbeitsministerin Bärbel Bas. Nun verteidigt er sich gegen Kritik aus der SPD – und geht zum Gegenangriff über.",
-      "url": "https://www.spiegel.de/politik/deutschland/baerbel-bas-ruecktritt-cdu-politiker-christian-von-stetten-verteidigt-sich-gegen-spd-kritik-a-d2f4ece8-aaf9-4483-9ad2-ffdfa8913033#ref=rss",
+      "url": "https://www.spiegel.de/politik/deutschland/baerbel-bas-ruecktritt-christian-von-stetten-cdu-verteidigt-sich-gegen-spd-kritik-a-d2f4ece8-aaf9-4483-9ad2-ffdfa8913033#ref=rss",
       "publishedAt": "2026-10-19T16:34:00.000Z",
       "category": "POLITIK"
     },
@@ -395,14 +483,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Sozialproteste in Lissabon: Jugend zeltet",
-      "excerpt": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“. mehr...",
-      "url": "https://taz.de/Sozialproteste-in-Lissabon/!6222613/",
-      "publishedAt": "2026-10-19T16:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Proteste in Frankreich: Macrons Regierung wankt",
       "excerpt": "Nach den Ausschreitungen am Wochenende ist Frankreich entsetzt. Die politischen Lager streiten über die Schuld an der Eskalation. mehr...",
       "url": "https://taz.de/Proteste-in-Frankreich/!6222609/",
@@ -410,11 +490,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Pressefreiheit in Indien: Zwischen Demokratie und Repression",
-      "excerpt": "Die Lage der Pressefreiheit in Indien spitzt sich zu. Drei Jour­na­lis­t:in­nen erzählen aus ihrem Alltag, von lokalen Umständen und nationalen Missständen. mehr...",
-      "url": "https://taz.de/Pressefreiheit-in-Indien/!6219163/",
-      "publishedAt": "2026-10-19T16:18:00.000Z",
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Mögliches Linksbündnis in Berlin, Krawalle in Frankreich, Natur in der Krise",
+      "excerpt": "Die Aussicht auf ein Linksbündnis in Berlin bringt Union und SPD gegeneinander auf. Im Kampf gegen Gewaltexzesse kündigt Frankreich Ausgangssperren an. Der Biber erholt sich – ist aber eine Ausnahme. Das ist die Lage am ",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-moegliches-linksbuendnis-in-berlin-belastet-koalition-im-bund-krawalle-in-frankreich-natur-in-der-krise-a-0476abe9-47fd-4ebc-ae5a-27c59d902865#ref=rss",
+      "publishedAt": "2026-10-19T15:43:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -426,27 +506,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "News des Tages: Mögliches Linksbündnis in Berlin belastet Koalition im Bund, Krawalle in Frankreich, Natur in der Krise",
-      "excerpt": "Die Aussicht auf ein Linksbündnis in Berlin bringt Union und SPD gegeneinander auf. Im Kampf gegen Gewaltexzesse kündigt Frankreich Ausgangssperren an. Der Biber erholt sich – ist aber eine Ausnahme. Das ist die Lage am ",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-moegliches-linksbuendnis-in-berlin-belastet-koalition-im-bund-krawalle-in-frankreich-natur-in-der-krise-a-0476abe9-47fd-4ebc-ae5a-27c59d902865#ref=rss",
-      "publishedAt": "2026-10-19T15:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Protest gegen „Remigrations“-Banner: Pleite für Sellners Netzwerk im Hamburger Stadtpark",
       "excerpt": "Die rechtsextreme Kampagne „Save Europe Act Now“ wollte in Hamburg ein riesiges Banner entrollen. Über Tausend Menschen verhinderten die Aktion. mehr...",
       "url": "https://taz.de/Protest-gegen-Remigrations-Banner/!6222684/",
       "publishedAt": "2026-10-19T15:08:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kampf um Technologieführerschaft: China kündigt Exportkontrollen für Schlüsseltechnologien an",
-      "excerpt": "Peking will die Ausfuhr von KI- und Solartechnik stärker überwachen. Die Regierung begründet das mit Sicherheitsinteressen. mehr...",
-      "url": "https://taz.de/Kampf-um-Technologiefuehrerschaft/!6222581/",
-      "publishedAt": "2026-10-19T14:42:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -464,30 +528,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
       "publishedAt": "2026-10-19T14:09:22.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "US-Beziehungen in Zentralasien: Von deutschen Investoren keine Spur",
-      "excerpt": "US-Außenminister Rubio ist in Zentralasien. Washington will vor allem China und Russland von dort verdrängen. Auch Deutschland gerät ins Hintertreffen. mehr...",
-      "url": "https://taz.de/US-Beziehungen-in-Zentralasien/!6222587/",
-      "publishedAt": "2026-10-19T14:06:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Asylpolitik in Deutschland: Hessen schiebt Eltern ohne ihre Kinder ab",
-      "excerpt": "Deutsche Behörden nehmen die Kleinkinder einer überforderten kurdischen Flüchtlingsfamilie in Obhut – und zwingen die Eltern, ohne sie in die Türkei zurückzukehren. mehr...",
-      "url": "https://taz.de/Asylpolitik-in-Deutschland/!6222573/",
-      "publishedAt": "2026-10-19T13:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Küstenautobahn A20: Klimakiller auf Sand gebaut",
-      "excerpt": "Die neue Küstenautobahn A20, in weiten Teilen noch im Planfeststellungsverfahren, soll quer durchs Moor führen. Viel Natur wird dabei zerstört. mehr...",
-      "url": "https://taz.de/Kuestenautobahn-A20/!6221682/",
-      "publishedAt": "2026-10-19T12:58:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "DLF",
@@ -570,14 +610,6 @@
       "category": "KLIMA & UMWELT"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-      "excerpt": "Ein heftiges Sturmtief hat Straßen und Campingplätze im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens zwei Tote. Auf Mallorca fiel das Unwetter weniger h",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
-      "publishedAt": "2026-10-19T11:00:46.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Sachsen-Anhalt: Migrantenverbände fordern Schutz vor AfD-Regierung",
       "excerpt": "Die AfD könnte in Sachsen-Anhalt bald ihren ersten Ministerpräsidenten stellen. Schon jetzt fürchten Migrantenorganisationen die Folgen – und fordern unter anderem ein Recht auf Wegzug für Asylsuchende.",
@@ -655,14 +687,6 @@
       "excerpt": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
       "publishedAt": "2026-10-18T19:00:53.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-      "excerpt": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von \"ungezügelter Gewalt\".",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-      "publishedAt": "2026-10-18T18:45:27.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -778,14 +802,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin: Cem Özdemir warnt Grüne vor Koalition mit der Linken in Berlin",
-      "excerpt": "Grünen-Ministerpräsident Cem Özdemir lehnt eine Zusammenarbeit seiner Partei mit der Linken in Berlin ab. Im Gegensatz zur Linken in anderen Bundesländern sei die Partei in Berlin »ein Sonderfall«.",
-      "url": "https://www.spiegel.de/politik/berlin-cem-oezdemir-warnt-gruene-vor-koalition-mit-der-linken-in-berlin-a-882b43d2-30f5-469a-aa51-f0bfd166427f#ref=rss",
-      "publishedAt": "2026-10-17T20:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
       "excerpt": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
@@ -800,14 +816,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
       "publishedAt": "2026-10-17T17:44:57.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
-      "excerpt": "Linke, SPD und Grüne wollen in Berlin eine Regierung bilden. Große Wohnungsunternehmen sollen enteignet werden, der Verfassungsschutz bleiben. Fünf Erkenntnisse zur möglichen neuen Koalition in der Hauptstadt.",
-      "url": "https://www.spiegel.de/politik/linke-spd-und-gruene-in-berlin-jetzt-bloss-nicht-irgendwie-radikal-wirken-a-ee655362-a767-4399-b4a8-64f12e09c279#ref=rss",
-      "publishedAt": "2026-10-17T17:03:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -975,14 +983,6 @@
       "excerpt": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
       "publishedAt": "2026-10-16T08:04:20.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-      "excerpt": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-      "publishedAt": "2026-10-16T07:55:57.000Z",
       "category": "INNENPOLITIK"
     },
     {
