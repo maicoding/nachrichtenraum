@@ -1,44 +1,20 @@
 {
-  "updatedAt": "2026-10-18T22:37:06.527Z",
+  "updatedAt": "2026-10-19T00:30:55.172Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Miersch bei Miosga - SPD-Fraktionschef windet sich bei Enteignungs-Frage",
+      "excerpt": "Miersch erklärt nicht, ob seine Partei Vergesellschaftung unterstützt.",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/matthias-miersch-bei-miosga-wem-wollen-sie-das-erklaeren-6ad55a72199dc15f1abd8b66",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "„Großartiger Premier und Krieger“ - Warum Trumps Wahlempfehlung für Netanjahu überrascht",
       "excerpt": "Trump spricht Netanjahu neun Tage vor der Wahl seine Unterstützung aus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-spaete-wahlempfehlung-fuer-netanjahu-ueberrascht-vor-der-wahl-6ad527a1aabd6dd568d6e81f",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Straßenschlachten, Plünderungen - Können die Frankreich-Krawalle auch zu uns kommen?",
-      "excerpt": "Bei den Protesten wurden 500 Polizisten verletzt und 1800 Menschen festgenommen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/krawallein-frankreich-kommt-das-auch-zu-uns-6ad44940199dc15f1abd7edb",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "20 Bundestagsabgeordnete machen Druck! - Anti-Linken-Aufstand in der SPD",
-      "excerpt": "20 Bundestagsabgeordnete lehnen Bündnisgespräche wegen Antisemitismusvorwürfen ab.",
-      "url": "https://www.bild.de/politik/inland/aufstand-in-bundes-spd-gegen-berliner-linke-wertekompass-niemals-verhandelbar-6ad4f0bc51e5094f7a570eab",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD exklusiv - Pistorius schießt gegen Berliner SPD",
-      "excerpt": "Rot-Grün-Rot will die Schulvereinbarung mit der Bundeswehr beenden.",
-      "url": "https://www.bild.de/politik/inland/boris-pistorius-schiesst-gegen-berliner-spd-signal-gegen-bundeswehr-6ad4d88d51e5094f7a570d2f",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Koalition „brandgefährlich“ - Kulturstaatsminister Weimer schlägt Berlin-Alarm",
-      "excerpt": "Fällt die Aufarbeitung der deutschen Diktaturen in Berlin in die Hände von SED und Antisemiten?",
-      "url": "https://www.bild.de/politik/inland/koalition-in-berlin-brandgefaehrlich-kulturstaatsminister-weimer-geht-auf-spd-los-6ad4b9aabbcd3ed7e30247a9",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +22,39 @@
       "title": "Fordert er Klingbeil heraus? - Hubertus Heil deutet Kandidatur für SPD-Vorsitz an",
       "excerpt": "Gleich mehr bei BILD.",
       "url": "https://www.bild.de/politik/eilmeldung-hubertus-heil-deutet-kandidatur-fuer-spd-vorsitz-an-6ad4fa6fbbcd3ed7e3024ca9",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Straßenschlachten, Plünderungen - Können die Frankreich-Krawalle auch zu uns kommen?",
+      "excerpt": "Bei den Protesten wurden 500 Polizisten verletzt und 1800 Menschen festgenommen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/krawallein-frankreich-kommt-das-auch-zu-uns-6ad44940199dc15f1abd7edb",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "20 Bundestagsabgeordnete machen Druck! - Anti-Linken-Aufstand in der SPD",
+      "excerpt": "20 Bundestagsabgeordnete lehnen Bündnisgespräche wegen Antisemitismusvorwürfen ab.",
+      "url": "https://www.bild.de/politik/inland/aufstand-in-bundes-spd-gegen-berliner-linke-wertekompass-niemals-verhandelbar-6ad4f0bc51e5094f7a570eab",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Pistorius schießt gegen Berliner SPD",
+      "excerpt": "Rot-Grün-Rot will die Schulvereinbarung mit der Bundeswehr beenden.",
+      "url": "https://www.bild.de/politik/inland/boris-pistorius-schiesst-gegen-berliner-spd-signal-gegen-bundeswehr-6ad4d88d51e5094f7a570d2f",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Koalition „brandgefährlich“ - Kulturstaatsminister Weimer schlägt Berlin-Alarm",
+      "excerpt": "Fällt die Aufarbeitung der deutschen Diktaturen in Berlin in die Hände von SED und Antisemiten?",
+      "url": "https://www.bild.de/politik/inland/koalition-in-berlin-brandgefaehrlich-kulturstaatsminister-weimer-geht-auf-spd-los-6ad4b9aabbcd3ed7e30247a9",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +62,7 @@
       "title": "Zu viel Betrug! - Deutsch-Test für Zuwanderer wird härter",
       "excerpt": "Künftig gilt die Prüfung nicht als bestanden, wenn ein Teil unzureichend bearbeitet wird.",
       "url": "https://www.bild.de/politik/inland/migration-alexander-dobrindt-verschaerft-deutsch-tests-wegen-zu-viel-betrug-6ad4966e4b9e270c3872f87b",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +70,7 @@
       "title": "Verdächtiges Satelliten-Manöver - Verlagert sich der Ukraine-Krieg jetzt ins All?",
       "excerpt": "Ein russischer Militärsatellit kam einem westlichen Aufklärungssatelliten sehr nahe.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/riskantes-manoever-von-russen-satellit-verlagert-sich-der-ukraine-krieg-jetzt-ins-all-6ad4bdbc199dc15f1abd855e",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +78,7 @@
       "title": "Rubio: „Im Moment nicht verfügbar“ - Ukraine hat keinen militärischen Schutzschild",
       "excerpt": "US-Außenminister Rubio: Starshield steht Kiew vorerst nicht zur Verfügung.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/rubio-im-moment-nicht-verfuegbar-ukraine-hat-kein-militaerisches-schutzschild-6ad473734b9e270c3872f5c6",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +86,7 @@
       "title": "BILD-Analyse nach den Sondierungen - Der radikale Berlin-Plan von Rot-Grün-Rot",
       "excerpt": "Linke, Grüne und SPD wollen Ausländer wählen lassen und Immobilienkonzerne enteignen.",
       "url": "https://www.bild.de/politik/inland/analyse-nach-den-sondierungen-der-berlin-plan-von-rot-gruen-rot-6ad48cff51e5094f7a570885",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +94,7 @@
       "title": "Neue Details zu Rauswurf - Wurde Trumps Sprecherin in eine Falle gelockt?",
       "excerpt": "Katie Zacharia verlor nach einem kritischen Hannity-Interview ihren Posten im Weißen Haus.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/katie-zacharia-insider-spricht-von-intrige-abgesegneter-abschuss-vom-weissen-haus-6ad4aefd51e5094f7a570aac",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +102,7 @@
       "title": "Kommentar - Dieser Bahn-Schock kann heilsam sein",
       "excerpt": "EuGH kippt deutsche Trassenpreisbremse. Eine Chance für mehr Wettbewerb. Ein Kommentar.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/preisbremse-gekippt-dieser-bahn-schock-kann-heilsam-sein-kommentar-6ad22c92d2eabbd56ed6a242",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +110,7 @@
       "title": "Wüst, Merz oder Söder - ER ist der Liebling der Parteijugend",
       "excerpt": "Der CSU-Chef erhält beim Deutschlandtag den längsten Applaus.",
       "url": "https://www.bild.de/politik/inland/markus-soeder-hendrik-wuest-oder-friedrich-merz-bild-erklaert-den-applaus-sieger-beim-ju-deutschlandtag-6ad4967a199dc15f1abd82eb",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +118,7 @@
       "title": "„Wir wollen Trump vertrauen“ - Selenskyj: USA liefern wieder Geheimdienst-Infos",
       "excerpt": "Selenskyj warnt vor Nähe zu Putin, setzt aber weiter auf US-Unterstützung.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-usa-liefern-wieder-geheimdienst-infos-ueber-russische-raketen-6ad4c1e64b9e270c3872fb7b",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +126,7 @@
       "title": "Russlands Angriffswelle erschüttert das Land - Mehr als 50 Tote! Die blutige Woche in der Ukraine",
       "excerpt": "Russland greift Kiew und weitere Städte mit Raketen und Drohnen an, viele Menschen sterben.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/russlands-angriffswelle-erschuettert-das-land-mehr-als-50-tote-die-blutige-woche-in-der-ukraine-6ad342171918705d1296882a",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +134,7 @@
       "title": "Kolumne: Geht das nur mir so? - Es macht mir Angst, dass KI jetzt unsere Gerichte lahmlegt",
       "excerpt": "Willkommen beim neuesten Problem des an Problemen wirklich nicht armen Rechtsstaats.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kolumne-geht-das-nur-mir-so-es-macht-mir-angst-dass-ki-jetzt-unsere-gerichte-lahmlegt-6ad34f6c1918705d12968931",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -134,15 +142,7 @@
       "title": "Sechs Regierungsfrauen weg - Das ist Trumps Rausschmiss-Liste",
       "excerpt": "In seiner zweiten Amtszeit verlieren auffällig viele Frauen Ämter in der US-Regierung.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/sechs-hochrangige-regierungsfrauen-weg-das-ist-trumps-rausschmiss-liste-6ad330b1199dc15f1abd7210",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Israels Botschafter Ron Prosor warnt - „Mit großer Sorge blicke ich auf Berlin“",
-      "excerpt": "In der Hauptstadt wird am Mahnmal „Gleis 17“ der deportierten Juden gedacht.",
-      "url": "https://www.bild.de/politik/inland/israels-botschafter-am-mahnmal-gleis-17-ron-prosor-warnt-vor-juden-und-israelhass-6ad496704b9e270c3872f87f",
-      "publishedAt": "2026-10-18T22:37:06.128Z",
+      "publishedAt": "2026-10-19T00:30:54.957Z",
       "category": "POLITIK"
     },
     {
@@ -150,47 +150,7 @@
       "title": "Nach Ausschreitungen - Frankreichs Präsident Macron verurteilt Gewalt: \"Wir alle empfinden Wut und Scham\"",
       "excerpt": "Nach den gewalttätigen Ausschreitungen in zahlreichen Städten hat sich Frankreichs Präsident Macron mit einer Fernsehansprache an die Bevölkerung gewandt. Er verurteilte die Eskalation und kündigte Konsequenzen an. Die R",
       "url": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-verurteilt-gewalt-wir-alle-empfinden-wut-und-scham-104.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine - Selenskyj besorgt Washingtons Russland-Kurs, Trump: \"Will Russland am Verhandlungstisch halten\"",
-      "excerpt": "Der ukrainische Präsident Selenskyj hat Besorgnis über den Russland-Kurs von US-Präsident Trump geäußert.",
-      "url": "https://www.deutschlandfunk.de/selenskyj-besorgt-washingtons-russland-kurs-trump-will-russland-am-verhandlungstisch-halten-100.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab",
-      "excerpt": "In Berlin entscheiden Grüne und SPD heute über die Aufnahme von Koalitionsverhandlungen mit der Linken.",
-      "url": "https://www.deutschlandfunk.de/gruene-und-spd-stimmen-ueber-koalitionsverhandlungen-ab-100.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Weitere Proteste in Europa - Ausschreitungen und Plünderungen in Mailand",
-      "excerpt": "Außer in Frankreich ist es auch in anderen europäischen Ländern ist es bei Protesten gegen hohe Lebenshaltungskosten teilweise zu Ausschreitungen gekommen.",
-      "url": "https://www.deutschlandfunk.de/ausschreitungen-und-pluenderungen-in-mailand-106.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Krawallen - Deutsche Politiker besorgt über Eskalation der Proteste in Frankreich",
-      "excerpt": "Angesichts der gewalttätigen Proteste in Frankreich wächst auch in Deutschland die Besorgnis.",
-      "url": "https://www.deutschlandfunk.de/deutsche-politiker-besorgt-ueber-eskalation-der-proteste-in-frankreich-106.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kanada - Vier Tote bei Brand auf Militärstützpunkt in Alberta - 39 Verletzte in Krankenhäusern",
-      "excerpt": "Bei einem Feuer auf einem Armeestützpunkt im Westen Kanadas sind vier Soldaten ums Leben gekommen und mindestens 39 zum Teil schwer verletzt worden.",
-      "url": "https://www.deutschlandfunk.de/vier-tote-bei-brand-auf-militaerstuetzpunkt-in-alberta-39-verletzte-in-krankenhaeusern-102.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +158,55 @@
       "title": "Nach Bas‘ Rückzug - Heil über Kandidatur zum SPD-Vorsitz: \"Ich kann es nicht ausschließen, dass ich antrete.\"",
       "excerpt": "Der frühere Bundesarbeitsminister Heil hat eine Kandidatur für den SPD-Vorsitz angedeutet.",
       "url": "https://www.deutschlandfunk.de/heil-ueber-kandidatur-zum-spd-vorsitz-ich-kann-es-nicht-ausschliessen-dass-ich-antrete-110.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine - Selenskyj besorgt Washingtons Russland-Kurs, Trump: \"Will Russland am Verhandlungstisch halten\"",
+      "excerpt": "Der ukrainische Präsident Selenskyj hat Besorgnis über den Russland-Kurs von US-Präsident Trump geäußert.",
+      "url": "https://www.deutschlandfunk.de/selenskyj-besorgt-washingtons-russland-kurs-trump-will-russland-am-verhandlungstisch-halten-100.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kanada - Vier Tote bei Brand auf Militärstützpunkt in Alberta - 39 Verletzte in Krankenhäusern",
+      "excerpt": "Der Großbrand mit Toten und Verletzten auf einem Militärstützpunkt im Westen Kanadas ist auf einen Buschbrand ‌zurückzuführen.",
+      "url": "https://www.deutschlandfunk.de/vier-tote-bei-brand-auf-militaerstuetzpunkt-in-alberta-39-verletzte-in-krankenhaeusern-108.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bulgarien - Nach Bombendrohung Notlandung einer Linienmaschine von Tel Aviv nach Wien in Sofia",
+      "excerpt": "Nach einer Bombendrohung ist ein Flugzeug von Austrian Airlines auf dem Weg vom israelischen Tel Aviv in die österreichische Hauptstadt Wien in Bulgarien notgelandet.",
+      "url": "https://www.deutschlandfunk.de/nach-bombendrohung-notlandung-einer-linienmaschine-von-tel-aviv-nach-wien-in-sofia-102.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab",
+      "excerpt": "In Berlin entscheiden Grüne und SPD heute über die Aufnahme von Koalitionsverhandlungen mit der Linken.",
+      "url": "https://www.deutschlandfunk.de/gruene-und-spd-stimmen-ueber-koalitionsverhandlungen-ab-100.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sozialproteste - Weitere Kundgebungen und Ausschreitungen in europäischen Ländern",
+      "excerpt": "Außer in Frankreich ist es auch in anderen europäischen Ländern ist es bei Protesten gegen hohe Lebenshaltungskosten teilweise zu Ausschreitungen gekommen.",
+      "url": "https://www.deutschlandfunk.de/weitere-kundgebungen-und-ausschreitungen-in-europaeischen-laendern-100.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Krawallen - Deutsche Politiker besorgt über Eskalation der Proteste in Frankreich",
+      "excerpt": "Angesichts der gewalttätigen Proteste in Frankreich wächst auch in Deutschland die Besorgnis.",
+      "url": "https://www.deutschlandfunk.de/deutsche-politiker-besorgt-ueber-eskalation-der-proteste-in-frankreich-106.html",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +214,7 @@
       "title": "Ukraine - Selenskyj besorgt über Annäherungen von USA und Russland",
       "excerpt": "Der ukrainische Präsident Selenskyj hat Besorgnis über die sich abzeichnende Annäherung der USA und Russlands geäußert.",
       "url": "https://www.deutschlandfunk.de/selenskyj-besorgt-ueber-annaeherungen-von-usa-und-russland-102.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +222,7 @@
       "title": "Kanadische Provinz Alberta - Abstimmung über Abspaltungs-Referendum",
       "excerpt": "Die Bewohner der Provinz Alberta stimmen heute über die Einleitung eines Prozesses zu einer Abspaltung von Kanada ab.",
       "url": "https://www.deutschlandfunk.de/abstimmung-ueber-abspaltungs-referendum-100.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +230,7 @@
       "title": "\"Deutschlandtag\" - Junge Union fordert \"gesellschaftliche Ächtung\" einer rot-grün-roten Landesregierung in Berlin",
       "excerpt": "Die Junge Union fordert für den Fall einer rot-grün-roten Koalition in Berlin Konsequenzen auf Ebene der Geheimdienste.",
       "url": "https://www.deutschlandfunk.de/junge-union-fordert-gesellschaftliche-aechtung-einer-rot-gruen-roten-landesregierung-in-berlin-112.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +238,7 @@
       "title": "Parlamentswahl in Israel - Trump spricht Wahlempfehlung für Netanjahu aus",
       "excerpt": "US-Präsident Trump hat dem israelischen Ministerpräsidenten Netanjahu seine Unterstützung bei der anstehenden Parlamentswahl zugesichert.",
       "url": "https://www.deutschlandfunk.de/trump-spricht-wahlempfehlung-fuer-netanjahu-aus-104.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +246,7 @@
       "title": "Berlin - Gedenken an Opfer der NS-Deportationen",
       "excerpt": "In Berlin haben Vertreter aus Politik und Gesellschaft an die Deportationen von Jüdinnen und Juden während des Nationalsozialismus erinnert.",
       "url": "https://www.deutschlandfunk.de/gedenken-an-opfer-der-ns-deportationen-104.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +254,7 @@
       "title": "Erneuter Zwischenfall - Fahrzeug durchbricht Zaun am Flughafen Leipzig/Halle - Ermittlungen dauern an",
       "excerpt": "Am Flughafen Leipzig/Halle dauert der Polizeieinsatz nach einem Sicherheits-Vorfall an.",
       "url": "https://www.deutschlandfunk.de/fahrzeug-durchbricht-zaun-am-flughafen-leipzig-halle-ermittlungen-dauern-an-104.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +262,7 @@
       "title": "Angriffskrieg - Drei Tote und Stromausfälle nach russischen Angriffen auf die Ukraine",
       "excerpt": "In der Ukraine hat es infolge russischer Angriffe erneut Todesopfer gegeben.",
       "url": "https://www.deutschlandfunk.de/drei-tote-und-stromausfaelle-nach-russischen-angriffen-auf-die-ukraine-104.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +270,7 @@
       "title": "Baltikum - Nach Drohnen-Alarm in Litauen und Lettland - Ukraine: Flugkörper möglicherweise von Russland fehlgeleitet",
       "excerpt": "Nach dem Eindringen einer unbemannten Drohne in den litauischen Luftraum laufen Ermittlungen zu den Hintergründen.",
       "url": "https://www.deutschlandfunk.de/nach-drohnen-alarm-in-litauen-und-lettland-ukraine-flugkoerper-moeglicherweise-von-russland-fehlgele-106.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,7 +278,7 @@
       "title": "Nach Ausschreitungen - EU-Kommission verurteilt Gewalt bei Protesten in Albanien",
       "excerpt": "Die Europäische Kommission hat die Ausschreitungen bei den jüngsten Protesten in Albanien verurteilt.",
       "url": "https://www.deutschlandfunk.de/eu-kommission-verurteilt-gewalt-bei-protesten-in-albanien-102.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -278,15 +286,7 @@
       "title": "Fußball-Bundesliga - Mönchengladbach unterliegt Hoffenheim, Leverkusen schlägt Freiburg",
       "excerpt": "In der Fußball-Bundesliga hat Mönchengladbach gegen Hoffenheim mit 1:2 verloren.",
       "url": "https://www.deutschlandfunk.de/moenchengladbach-unterliegt-hoffenheim-leverkusen-schlaegt-freiburg-106.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wetter - In der Nacht nur noch westlich des Rheins Regen - 10 bis 2 Grad",
-      "excerpt": "Das Wetter: In der Nacht westlich des Rheins zunächst Regen, in der zweiten Nachthälfte nachlassend. Sonst trocken. Tiefstwerte 10 bis 2 Grad.",
-      "url": "https://www.deutschlandfunk.de/in-der-nacht-nur-noch-westlich-des-rheins-regen-10-bis-2-grad-100.html",
-      "publishedAt": "2026-10-18T22:35:03.000Z",
+      "publishedAt": "2026-10-19T00:09:48.000Z",
       "category": "NACHRICHTEN"
     },
     {
