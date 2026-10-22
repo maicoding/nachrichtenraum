@@ -1,36 +1,20 @@
 {
-  "updatedAt": "2026-10-22T01:52:33.953Z",
+  "updatedAt": "2026-10-22T07:35:27.714Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Programmiersprache PHP - IT‑Sicherheitslücke! Charité schaltet Website ab",
-      "excerpt": "Die Berliner Klinik schaltet ihre Seite wegen einer Sicherheitslücke vorsorglich ab.",
-      "url": "https://www.bild.de/politik/weltweite-sicherheitsluecke-hacker-alarm-charite-website-offline-6ad8d01a8ef0fba254b7b6fa",
-      "publishedAt": "2026-10-22T01:52:32.639Z",
+      "title": "Kommentar von Max Schneider - Wie konnte die Justiz ihn freilassen?",
+      "excerpt": "Nach 40 Tagen U-Haft kam ein mutmaßlicher Vergewaltiger wieder frei.",
+      "url": "https://www.bild.de/regional/bayern/ahmad-a-nach-40-tagen-frei-warum-der-opferschutz-fragen-aufwirft-6ad87b80199dc15f1abdb81b",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Horrorszenario - Die Wahrheit über den „Golfstrom-Kollaps“",
-      "excerpt": "Hektisches Piepen im Kontrollraum kündigt die Apokalypse an: Im Kinofilm „The Day After Tomorrow“ melden im Nordatlantik treibende B...",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/horrorszenario-die-wahrheit-ueber-den-golfstrom-kollaps-6ad79894199dc15f1abdaf6a",
-      "publishedAt": "2026-10-22T01:52:32.639Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "ARD-Chef gibt zu - Milliardensumme für Rundfunk „absolut hoch“",
-      "excerpt": "Florian Hager versteht die Kritik an den Kosten des öffentlich-rechtlichen Rundfunks.",
-      "url": "https://www.bild.de/politik/ard-chef-gibt-zu-milliardensumme-fuer-rundfunk-absolut-hoch-6ad895e0199dc15f1abdbb45",
-      "publishedAt": "2026-10-22T01:52:32.639Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Europa-Vergleich - Nur drei Länder bauen weniger als Deutschland",
-      "excerpt": "Statt mehr neuer Wohnungen gibt es immer weniger. 2025 nur noch rund 207.000.",
-      "url": "https://www.bild.de/politik/inland/europa-vergleich-nur-drei-laender-bauen-weniger-wohnungen-als-deutschland-6ad86aa3199dc15f1abdb650",
-      "publishedAt": "2026-10-22T01:52:32.639Z",
+      "title": "Deutschland hinter Irak! - So mies fällt unser Strom-Zeugnis aus",
+      "excerpt": "Deutsche Stromversorgung landet im internationalen Vergleich auf Rang 69.",
+      "url": "https://www.bild.de/politik/inland/deutschland-hinter-dem-irak-so-mies-faellt-unser-zeugnis-bei-stromsicherheit-aus-6ad8776d199dc15f1abdb7a0",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +22,47 @@
       "title": "Im Interview bei „Fox-News“ - Selenskyj sagt klar: Ja zum Einfrieren der Front",
       "excerpt": "Der ukrainische Präsident signalisiert Zustimmung zu einem Waffenstillstand.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-im-moment-muessen-wir-einfrieren-waffenruhe-als-ziel-6ad94db3199dc15f1abdc768",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiv-Interview - „Putin hat obsessive Angst, getötet zu werden“",
+      "excerpt": "Tschechiens Präsident Pavel warnt vor einem offenen Konflikt mit Russland.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/tschechiens-praesident-putin-hat-eine-obsessive-angst-getoetet-zu-werden-6ad8b9ac199dc15f1abdbf80",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar zur Cyber-Gefahr - Mehr KI-Panik ist jetzt der falsche Weg",
+      "excerpt": "Eine PHP-Lücke zeigt: Künstliche Intelligenz kann vor Gefahren schützen.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-zur-php-sicherheitsluecke-schluss-mit-der-ki-panik-6ad998ca2c40700de08014f0",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Tschechiens Präsident Peter Pavel bei Paul Ronzheimer - „Ich glaube, dass auch Russlands Ressourcen erschöpft sind“",
+      "excerpt": "Tschechiens Präsident Petr Pavel war einst mächtigster General der Nato.",
+      "url": "https://www.bild.de/politik/tschechiens-praesident-peter-pavel-bei-paul-ronzheimer-ich-glaube-dass-auch-russlands-ressourcen-erschoepft-sind-6ad8fccf2c40700de0801086",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bei Wahlkampfveranstaltung in South Carolina - Proteste gegen Donald Trump",
+      "excerpt": "Mehrfach unterbrechen Demonstranten den US-Präsidenten in South Carolina.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bei-wahlkampfveranstaltung-in-south-carolina-proteste-gegen-donald-trump-6ad9a30d2c40700de080158c",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geldflut für Rechenzentren - So können Sie am neuen KI-Boom mitverdienen!",
+      "excerpt": "KI-Infrastruktur lockt Sparer, doch breit gestreute ETFs gelten als bessere Basis.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ki-boom-so-koennen-sparer-in-rechenzentren-investieren-6ad72b052352c608d83cf12b",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -46,15 +70,7 @@
       "title": "US-Präsident: „Er wurde erwischt“ - Faust-Eklat bei Trump-Rede",
       "excerpt": "Demonstranten stören Auftritt des US-Präsidenten, Anhänger soll Demonstranten geschlagen haben.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/faust-eklat-bei-wahlkampf-auftritt-von-donald-trump-das-hat-mir-gefallen-6ad956ae2c40700de0801376",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wahlgeschenke nur bei Republikaner-Sieg! - So will Trump die Wähler erpressen",
-      "excerpt": "US-Präsident knüpft Hilfe für Camp-Lejeune-Opfer an einen Sieg der Republikaner.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wahlgeschenke-nur-bei-sieg-so-will-trump-midterm-waehler-erpressen-6ad8d73d842f9bd88130b404",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +78,23 @@
       "title": "BILD exklusiv - AfD-Hacker stehlen private Mails von Alice Weidel",
       "excerpt": "Mega-Daten-Klau offenbart Streit um Hakenkreuzfahne und Hitler-Imitation",
       "url": "https://www.bild.de/politik/inland/bild-exklusiv-afd-hacker-stehlen-private-mails-von-alice-weidel-6ad8b389842f9bd88130ae9e",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschende These bei Lanz - Warum der Osten so für Putin ist",
+      "excerpt": "Professor Oschmann erklärt Sympathien zu Russland mit historischem Verlierergefühl.",
+      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/putin-sympathien-in-ostdeutschland-lanz-runde-streitet-ueber-gruende-6ad96128199dc15f1abdc79f",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlgeschenke nur bei Republikaner-Sieg! - So will Trump die Wähler erpressen",
+      "excerpt": "US-Präsident knüpft Hilfe für Camp-Lejeune-Opfer an einen Sieg der Republikaner.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wahlgeschenke-nur-bei-sieg-so-will-trump-midterm-waehler-erpressen-6ad8d73d842f9bd88130b404",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +102,7 @@
       "title": "Es geht um Parteispenden - Anklage gegen Niedersachsens AfD-Chef",
       "excerpt": "Die Staatsanwaltschaft beschuldigt Schledde der Verstöße gegen das Parteiengesetz.",
       "url": "https://www.bild.de/politik/inland/niedersachsen-es-geht-um-parteispenden-afd-politiker-schledde-angeklagt-6ad8c670199dc15f1abdc0b1",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +110,7 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -86,15 +118,7 @@
       "title": "Über Monate übersehen - Wie kam es zur Mega-Steuerpanne bei Klingbeil?",
       "excerpt": "Wer trägt die Schuld an der Steuerpanne?",
       "url": "https://www.bild.de/politik/inland/ueber-monate-uebersehen-wie-kam-es-zur-mega-steuerpanne-bei-klingbeil-6ad8d701199dc15f1abdc270",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Wie konnte die Justiz das zulassen?",
-      "excerpt": "Nach 40 Tagen U-Haft kam ein mutmaßlicher Vergewaltiger wieder frei.",
-      "url": "https://www.bild.de/regional/bayern/ahmad-a-nach-40-tagen-frei-warum-der-opferschutz-fragen-aufwirft-6ad87b80199dc15f1abdb81b",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +126,7 @@
       "title": "Gott sei Dank - Krebs bei Papst Leo hat nicht gestreut!",
       "excerpt": "Gott sei Dank! Papst Leo XIV. ist krebsfrei und braucht keine weitere Therapie.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/gott-sei-dank-krebs-bei-papst-leo-hat-nicht-gestreut-6ad9123dfca363c9aa57da36",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +134,7 @@
       "title": "BILD-Reporter nach Krawallen in Marseille - „Randalierer sofort wieder auf freiem Fuß“",
       "excerpt": "Schwere Ausschreitungen erschüttern Marseille, weitere Krawalle werden erwartet.",
       "url": "https://www.bild.de/politik/neue-randalen-in-marseille-erwartet-geschaefte-verbarrikadieren-sich-6ad878f32c40700de08003a8",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
@@ -118,111 +142,55 @@
       "title": "Cyber-Experte warnt vor Hacker-Angriffen - Flughäfen, Behörden, Kliniken gehen weltweit offline",
       "excerpt": "PHP-Schwachstellen führen in Deutschland zu zahlreichen Internetausfällen.",
       "url": "https://www.bild.de/politik/inland/php-sicherheitsluecken-die-naechsten-24-stunden-sind-entscheidend-6ad8efa0842f9bd88130b5b2",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "publishedAt": "2026-10-22T07:35:27.637Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zur Cyber-Warnung - Webseiten-Ausfall wegen gefährlicher Sicherheitslücke",
-      "excerpt": "Behörden und Städte schalten ihre Internetangebote nach einer PHP-Warnung ab.",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zur-cyber-warnung-webseitenausfall-wegen-gefaehrlicher-sicherheitsluecke-6ad8f5b2de6578e662a06639",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Täuschung von Nutzern - Meta zu 25 Milliarden Dollar Strafe verdonnert",
-      "excerpt": "US-Gericht verurteilt Facebook-Mutterkonzern Meta wegen Täuschung von Nutzern.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-taeuschung-von-nutzern-meta-zu-25-milliarden-dollar-rekord-strafe-verdonnert-6ad8fbd7199dc15f1abdc479",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wird es jetzt billiger? - Klingbeil-Gesetz kippt Steuer auf einige Rauchwaren",
-      "excerpt": "Für Liquids von E-Zigaretten entfällt die Tabaksteuer bis Ende 2026.",
-      "url": "https://www.bild.de/politik/inland/e-zigaretten-liquids-wegen-gesetzespanne-bis-jahresende-steuerfrei-6ad8ad6b438656aeb2fadc53",
-      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "source": "TAZ.DE",
+      "title": "Offener Brief für Vergesellschaftungen: „Ein Sperrgesetz ist verfassungswidrig“",
+      "excerpt": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftungen aus. Das Grundgesetz müsse geachtet werden. mehr...",
+      "url": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
+      "publishedAt": "2026-10-22T07:32:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Ukraine-Krieg - Grüne fordern von Merz mehr Druck auf US-Regierung",
-      "excerpt": "Die Grünen haben Bundeskanzler Merz aufgefordert, bei der US-Regierung auf eine weitere Unterstützung für die Ukraine zu dringen.",
-      "url": "https://www.deutschlandfunk.de/gruene-fordern-von-merz-mehr-druck-auf-us-regierung-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "title": "Problem bei PHP-Anwendungen - Viele Internetseiten nach IT-Sicherheitsvorfall wieder online - BSI hält Gefahr noch nicht für gebannt",
+      "excerpt": "Das Bundesamt für Sicherheit in der Informationstechnik hat bisher keine Fälle festgestellt, bei denen Hacker die gestern bekanntgewordenen Sicherheitslücken ausgenutzt haben. Allerdings werde das komplette Ausmaß des Pr",
+      "url": "https://www.deutschlandfunk.de/viele-internetseiten-nach-it-sicherheitsvorfall-wieder-online-bsi-haelt-gefahr-noch-nicht-fuer-geban-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-      "excerpt": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
-      "url": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "title": "Parteien - Söder fordert \"Extremismusklausel\" im Länderfinanzausgleich",
+      "excerpt": "Der bayerische Ministerpräsident Söder fordert, im Länderfinanzausgleich das Geld für Bundesländer zu kürzen, die von AfD oder Linken geführt werden. Der CSU-Vorsitzende sagte der \"Augsburger Allgemeinen\", Bayern führe d",
+      "url": "https://www.deutschlandfunk.de/soeder-fordert-extremismusklausel-im-laenderfinanzausgleich-102.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
-      "excerpt": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zah",
-      "url": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "title": "Reaktion aus NRW - \"Verpasste Chance\": Verkehrsminister vertagen Entscheidung über Deutschlandticket für Gelegenheitsfahrer",
+      "excerpt": "Die Verkehrsminister von Bund und Ländern setzen heute ihre Beratungen in Bayern fort. Ein Vorstoß von Nordrhein-Westfalen und Hamburg, ein flexibles Deutschlandticket für Gelegenheitsfahrer einzuführen, wurde gestern ve",
+      "url": "https://www.deutschlandfunk.de/verpasste-chance-verkehrsminister-vertagen-entscheidung-ueber-deutschlandticket-fuer-gelegenheitsfah-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Krawallen in Frankreich - Macron berät mit Ministern und Geheimdienstvertretern",
-      "excerpt": "Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen.",
-      "url": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "title": "Angriffskrieg - Russland greift Kiew mit Raketen an - Selenskyj bietet \"Einfrieren der Frontlinie\" an",
+      "excerpt": "Der Kreml ist nach eigener Aussage bereit, ab Mitte November mit den USA und der Ukraine über den eigenen Angriffskrieg zu sprechen. Ungeachtet dessen setzt die russische Armee ihre Angriffe fort. In der vergangenen Nach",
+      "url": "https://www.deutschlandfunk.de/russland-greift-kiew-mit-raketen-an-selenskyj-bietet-einfrieren-der-frontlinie-an-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
+      "title": "Dammam - Ein Toter nach Angriffen auf Flughafen in Saudi-Arabien - US-Regierung zieht Personal aus Botschaft ab",
       "excerpt": "In Saudi-Arabien ist erneut ein Flughafen angegriffen worden.",
-      "url": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
-      "excerpt": "Die SPD-Bundestagsfraktion dringt auf Nachbesserungen beim Gesetzentwurf der Bundesregierung zur Pflegeversicherung.",
-      "url": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verkehrsministerkonferenz - Länder fordern mehr Geld für Busse und Bahnen",
-      "excerpt": "Die Verkehrsminister von Bund und Ländern beenden heute ihre zweitägige Konferenz im bayerischen Hohenschwangau.",
-      "url": "https://www.deutschlandfunk.de/laender-fordern-mehr-geld-fuer-busse-und-bahnen-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Finanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet",
-      "excerpt": "Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor.",
-      "url": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Brüssel - EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
-      "excerpt": "Die EU-Staaten haben sich dagegen ausgesprochen, die Zahl der Cookie-Abfragen im Internet deutlich zu reduzieren.",
-      "url": "https://www.deutschlandfunk.de/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball - München mit Punkteteilung, Niederlage für Leipzig in der Champions League",
-      "excerpt": "In der Fußball-Champions-League hat es zwei Spiele mit deutscher Beteiligung gegeben:",
-      "url": "https://www.deutschlandfunk.de/muenchen-mit-punkteteilung-niederlage-fuer-leipzig-in-der-champions-league-108.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "url": "https://www.deutschlandfunk.de/ein-toter-nach-angriffen-auf-flughafen-in-saudi-arabien-us-regierung-zieht-personal-aus-botschaft-ab-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +198,7 @@
       "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung",
       "excerpt": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
       "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,15 +206,15 @@
       "title": "31. Oktober - Bundesschülerkonferenz begrüßt \"Gen Z\"-Protestaufruf",
       "excerpt": "Die Bundesschülerkonferenz begrüßt die Protestaufrufe junger Menschen in Deutschland.",
       "url": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-begruesst-gen-z-protestaufruf-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland",
-      "excerpt": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
-      "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "title": "Krawallen am Protesttag - Macron berät mit Ministern und Geheimdienstvertretern über Gewalt-Wochenende in Frankreich",
+      "excerpt": "Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen.",
+      "url": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-ueber-gewalt-wochenende-in-frankreich-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +222,71 @@
       "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut",
       "excerpt": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
       "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
+      "excerpt": "Die SPD-Bundestagsfraktion dringt auf Nachbesserungen beim Gesetzentwurf der Bundesregierung zur Pflegeversicherung.",
+      "url": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise",
+      "excerpt": "Der neue Tankrabatt kommt bei Benzin fast vollständig bei den Autofahrern an, bei ‌Diesel jedoch nur ⁠zum Teil. ⁠",
+      "url": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ministerpräsidentenkonferenz - Wüst fordert rasche Senkung der Stromsteuer für alle",
+      "excerpt": "Vor der heutigen Ministerpräsidentenkonferenz fordert der nordrhein-westfälische Regierungschef Wüst eine rasche Senkung der Stromsteuer für private Haushalte und alle Unternehmen.",
+      "url": "https://www.deutschlandfunk.de/wuest-fordert-rasche-senkung-der-stromsteuer-fuer-alle-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Forderung nach Verbotsverfahren - SPD-Abgeordnete Wegge für Auswertung gehackter E-Mails der AfD",
+      "excerpt": "Die SPD-Bundestagsabgeordnete Wegge plädiert dafür, Inhalte gehackter E-Mails der AfD für ein Verbotsverfahren zu nutzen.",
+      "url": "https://www.deutschlandfunk.de/spd-abgeordnete-wegge-fuer-auswertung-gehackter-e-mails-der-afd-102.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Finanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet",
+      "excerpt": "Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor.",
+      "url": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Brüssel - EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
+      "excerpt": "Die EU-Staaten haben sich dagegen ausgesprochen, die Zahl der Cookie-Abfragen im Internet zu reduzieren.",
+      "url": "https://www.deutschlandfunk.de/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball - Champions League: Bayern und Arsenal trennen sich 2:2, Leipzig verliert in Madrid",
+      "excerpt": "Der FC Bayern München hat in der Fußball-Champions-League erneut Punkte liegen lassen. Die Mannschaft von Trainer Kompany kam am dritten Spieltag der Ligaphase gegen den englischen Meister FC Arsenal nicht über ein 2:2 h",
+      "url": "https://www.deutschlandfunk.de/champions-league-bayern-und-arsenal-trennen-sich-2-2-leipzig-verliert-in-madrid-102.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland",
+      "excerpt": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
+      "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,32 +294,88 @@
       "title": "Berlin Global Dialogue - Merz warnt vor hybriden Angriffen Russlands",
       "excerpt": "Bundeskanzler Merz hat vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland gewarnt.",
       "url": "https://www.deutschlandfunk.de/merz-warnt-vor-hybriden-angriffen-russlands-110.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "publishedAt": "2026-10-22T07:27:17.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Bundeswehr - Personalaufwuchs erstmals über Jahresziel - Mehr als 190.000 Soldaten",
-      "excerpt": "Die Bundeswehr hat Anfang des Monats die für dieses Jahr festgelegte Sollstärke von 190.000 Soldatinnen und Soldaten erreicht.",
-      "url": "https://www.deutschlandfunk.de/personalaufwuchs-erstmals-ueber-jahresziel-mehr-als-190-000-soldaten-102.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "SPD: Unter diesen Bedingungen will Hubertus Heil Parteichef werden",
+      "excerpt": "Ob Ampel oder Schwarz-Rot: Die SPD reibt sich auf in der Regierung, Parteichef Lars Klingbeil ist angeschlagen – und Ex-Arbeitsminister Hubertus Heil bringt sich in Stellung.",
+      "url": "https://www.spiegel.de/politik/deutschland/spd-unter-diesen-bedingungen-will-hubertus-heil-parteichef-werden-a-03d04fa8-6a55-474b-bff2-6bcdba857aa1#ref=rss",
+      "publishedAt": "2026-10-22T06:47:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Genf - UNO-Konferenz zum Sudan ohne greifbare Ergebnisse zu Ende gegangen",
-      "excerpt": "Eine internationale Konferenz über den anhaltenden Krieg im Sudan ist ohne greifbare Ergebnisse zu Ende gegangen.",
-      "url": "https://www.deutschlandfunk.de/uno-konferenz-zum-sudan-ohne-greifbare-ergebnisse-zu-ende-gegangen-106.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Sicherheitslücke in Programmiersprache: Internetseiten teilweise noch offline",
+      "excerpt": "Weltweit waren zahlreiche Internetseiten abgeschaltet. Auch in Deutschland warnen die Behörden vor Schwachstellen in der Programmiersprache PHP. mehr...",
+      "url": "https://taz.de/PHP-Sicherheitsluecke/!6223659/",
+      "publishedAt": "2026-10-22T06:40:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Konkurrenz durch KI - US-Bildagentur Getty Images beantragt Insolvenz",
-      "excerpt": "Die US-Bildagentur Getty Images hat Insolvenz angemeldet. Das Unternehmen beantragte bei einem Konkursgericht im US-Bundesstaat Delaware ein entsprechendes Verfahren. Getty Images erklärte, die bereits geplante Restruktu",
-      "url": "https://www.deutschlandfunk.de/us-bildagentur-getty-images-beantragt-insolvenz-106.html",
-      "publishedAt": "2026-10-22T01:07:18.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Rot-Grün-Rot in Berlin: Markus Söder will »Extremismusklausel« gegen AfD- und Linke-geführte Länder",
+      "excerpt": "Die Union warnt vor einer möglichen Linkenregierung in Berlin. Nun droht Bayerns Ministerpräsident Markus Söder, der Hauptstadt und Sachsen-Anhalt via Länderfinanzausgleich Gelder zu streichen. Ein CDU-Ministerpräsident ",
+      "url": "https://www.spiegel.de/politik/rot-gruen-rot-in-berlin-markus-soeder-will-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-a-16fc6b4b-7db9-4e09-aa8f-054b6ba71aaa#ref=rss",
+      "publishedAt": "2026-10-22T05:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kölner Schau „Along the Color Line“: Wer sammelt und ausstellt, bestimmt Zentrum und Rand",
+      "excerpt": "Zu seinem 50-jährigen Jubiläum nimmt das Kölner Museum Ludwig seine berühmte Moderne-Sammlung rassismuskritisch in den Blick. Verläuft auch hier die Farbenlinie? mehr...",
+      "url": "https://taz.de/Koelner-Schau-Along-the-Color-Line/!6222786/",
+      "publishedAt": "2026-10-22T05:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nahostberichterstattung in Deutschland: „Man stößt als Jour­na­lis­t:in schnell an Grenzen“",
+      "excerpt": "Eine Mehrheit befragter Jour­na­lis­t:in­nen sieht die Pressefreiheit zur Nahostberichterstattung bedroht. Carola Richter hat an der FU Berlin dazu geforscht. mehr...",
+      "url": "https://taz.de/Nahostberichterstattung-in-Deutschland/!6223095/",
+      "publishedAt": "2026-10-22T05:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
+      "excerpt": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlic",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+      "publishedAt": "2026-10-22T05:03:31.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+      "excerpt": "US-Präsident Trump nähert sich Russland an und lobt Kreml-Chef Putin ausdrücklich. Auch in Trumps eigener Partei, die ihm lange treu ergeben war, gibt es daran zunehmend Kritik. Einige Abgeordnete wählen deutliche Worte.",
+      "url": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
+      "publishedAt": "2026-10-22T05:03:03.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Rechtspopulismus und Demokratie: Potenzial nicht ausgeschöpft",
+      "excerpt": "Für eine sozial gerechte Zukunft braucht es eine radikale Mitte. Ein politisches Lager, das Möglichkeiten darlegt, statt Vergangenem nachzutrauern. mehr...",
+      "url": "https://taz.de/Rechtspopulismus-und-Demokratie/!6223133/",
+      "publishedAt": "2026-10-22T05:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Herbstliche Laufzeit",
+      "excerpt": "Donnerstag ist Gedichtetag auf der Wahrheit: Heute darf sich die geneigte Leserschaft an einem Poem über würzige Atomkraftwerke erfreuen. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6223114/",
+      "publishedAt": "2026-10-22T04:57:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News: Sicherheitsrisiko PHP, Kanzler im Westbalkan, Ministerpräsidentenkonferenz, Hubertus Heil",
+      "excerpt": "Websites gehen wegen Sicherheitslücken offline. Der Kanzler reist an die Adria. Und die Ministerpräsidenten wappnen sich gegen die AfD. Das ist die Lage am Donnerstagmorgen.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-sicherheitsrisiko-php-kanzler-im-westbalkan-ministerpraesidentenkonferenz-hubertus-heil-a-19cb9abd-0674-4a64-b2b1-e9427753cdab#ref=rss",
+      "publishedAt": "2026-10-22T03:40:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -315,33 +403,9 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Schwangerschaftsabbruch in Polen: Wenig Aussicht auf Erleichterung",
-      "excerpt": "Regierungschef Tusk setzt endlich ein Wahlversprechen um und entschärft die Abtreibungsgesetze in Polen. Doch Präsident Naworocki kann das blockieren. mehr...",
-      "url": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223131/",
-      "publishedAt": "2026-10-21T17:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Auschwitz, Ravensbrück, Sachsenhausen: Er hat drei KZ überlebt: Nun ist Hermann Höllenreiner mit 92 gestorben",
-      "excerpt": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben. mehr...",
-      "url": "https://taz.de/Er-hat-drei-KZ-ueberlebt-Nun-ist-Hermann-Hoellenreiner-mit-92-gestorben/!6223340/",
-      "publishedAt": "2026-10-21T17:56:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Geleakte AfD-Mails: Folgen jetzt mal Konsequenzen?",
       "excerpt": "Zehntausende geleakte interne Mails belegen nochmals, was ohnehin im Großen und Ganzen bekannt ist. Was folgt jetzt daraus? mehr...",
       "url": "https://taz.de/Geleakte-AfD-Mails-Folgen-jetzt-endlich-mal-Konsequenzen/!6223153/",
-      "publishedAt": "2026-10-21T17:55:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Finanzieller Schutz gegen Klimaschäden: Versicherung gegen Klimaschäden soll besser werden",
-      "excerpt": "Die Bundesregierung macht Vorschläge für eine bessere Risikoabsicherung. Unklar ist, wie hohe Beiträge verhindert werden, bemängeln Kritiker:innen. mehr...",
-      "url": "https://taz.de/Finanzieller-Schutz-gegen-Klimaschaeden/!6223111/",
       "publishedAt": "2026-10-21T17:55:00.000Z",
       "category": "POLITIK"
     },
@@ -419,17 +483,17 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "AfD-Leak: 421.326 E-Mails und die Geheimnisse der AfD - was wir bisher sagen können",
-      "excerpt": "Hacker haben sich Zugang zu elf Postfächern der AfD verschafft, darunter das von Alexander Gauland. Es ist der umfangreichste Leak der Parteigeschichte. Der SPIEGEL wertet die Daten aus. Was wir bisher darüber sagen könn",
-      "url": "https://www.spiegel.de/politik/afd-leak-421-326-e-mails-und-die-geheimnisse-der-afd-was-wir-bisher-sagen-koennen-a-2da64a7d-6617-49ba-9c3d-aaad15a25974#ref=rss",
+      "title": "Mecklenburg-Vorpommern: Zeigte ein AfD-Politiker im Landtag das White-Power-Zeichen?",
+      "excerpt": "Anlässlich der ersten Sitzung des Landtags in Schwerin hat der AfD-Abgeordnete Tommy Thormann ein Video auf Instagram veröffentlicht. Am Ende macht er eine mehrdeutige Geste. SPD, Grüne und Linke verlangen Konsequenzen.",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-zeigte-ein-afd-politiker-im-landtag-das-white-power-zeichen-a-fc483377-be33-4110-beee-3c350081f9ff#ref=rss",
       "publishedAt": "2026-10-21T15:41:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Mecklenburg-Vorpommern: Zeigte ein AfD-Politiker im Landtag das White-Power-Zeichen?",
-      "excerpt": "Anlässlich der ersten Sitzung des Landtags in Schwerin hat der AfD-Abgeordnete Tommy Thormann ein Video auf Instagram veröffentlicht. Am Ende macht er eine mehrdeutige Geste. SPD, Grüne und Linke verlangen Konsequenzen.",
-      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-zeigte-ein-afd-politiker-im-landtag-das-white-power-zeichen-a-fc483377-be33-4110-beee-3c350081f9ff#ref=rss",
+      "title": "AfD-Leak: 421.326 E-Mails und die Geheimnisse der AfD - was wir bisher sagen können",
+      "excerpt": "Hacker haben sich Zugang zu elf Postfächern der AfD verschafft, darunter das von Alexander Gauland. Es ist der umfangreichste Leak der Parteigeschichte. Der SPIEGEL wertet die Daten aus. Was wir bisher darüber sagen könn",
+      "url": "https://www.spiegel.de/politik/afd-leak-421-326-e-mails-und-die-geheimnisse-der-afd-was-wir-bisher-sagen-koennen-a-2da64a7d-6617-49ba-9c3d-aaad15a25974#ref=rss",
       "publishedAt": "2026-10-21T15:41:00.000Z",
       "category": "POLITIK"
     },
@@ -455,6 +519,14 @@
       "excerpt": "Jüdische Studierende hinderten einen AfD-Politiker am Betreten einer Synagoge. CDU-Mitglied Vosgerau fand danach, es hätte »gute Gründe« gegeben, sie »mit dem Polizeiknüppel« zu jagen. Was sagt seine Partei dazu?",
       "url": "https://www.spiegel.de/politik/deutschland/cdu-berlin-ulrich-vosgerau-fand-schade-dass-juedische-studierende-nicht-gejagt-wurden-stefan-evers-schweigt-a-59151e0a-f654-4568-9c6e-de271c84bfaf#ref=rss",
       "publishedAt": "2026-10-21T14:52:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Länder müssen mehr für Trassen zahlen: EuGH schadet dem Bahnverkehr",
+      "excerpt": "Nach einem EU-Urteil wird die Maut für Personenverkehr auf der Schiene viel teurer. Schleswig-Holstein warnt vor dem Kollaps des Nahverkehrs. mehr...",
+      "url": "https://taz.de/Trassenpreise-steigen/!6223139/",
+      "publishedAt": "2026-10-21T14:47:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -522,14 +594,6 @@
       "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Vögel in der Stadt: Wenn Glasfassaden den Tod bedeuten",
-      "excerpt": "Der Weltnaturschutzgipfel in Jerewan befasst sich auch mit der Stadt als Lebensraum. Einfache Maßnahmen können ihn für Vögel sicherer machen. mehr...",
-      "url": "https://taz.de/Voegel-in-der-Stadt/!6223112/",
-      "publishedAt": "2026-10-21T12:32:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
       "excerpt": "Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit dessen Freilassung wurde offenbar ein deuts",
@@ -546,28 +610,12 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Doku „La Graciosa – Kanarische Träume“: Am Rand der Zivilisation",
-      "excerpt": "Der Dokumentarfilm „La Graciosa – Kanarische Träume“ von Karin Kaper und Dirk Szuszies erinnert an ein früheres Aussteigerparadies. Touristen gibt es dort jetzt auch. mehr...",
-      "url": "https://taz.de/Doku-La-Graciosa---Kanarische-Traeume/!6220307/",
-      "publishedAt": "2026-10-21T11:50:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Häuser sollen besser gegen Naturgefahren versichert werden",
       "excerpt": "Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
       "publishedAt": "2026-10-21T11:48:22.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wut in der Bevölkerung: Wer zu spät kommt …",
-      "excerpt": "Wer sich abgehängt fühlt, ist nicht resilient genug und fällt leicht den Rechten in die Hände. Eine Regierung, die das nicht begreift, fördert Wut. mehr...",
-      "url": "https://taz.de/Wut-in-der-Bevoelkerung/!6222943/",
-      "publishedAt": "2026-10-21T11:47:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -591,14 +639,6 @@
       "excerpt": "Der niedersächsische AfD-Chef Ansgar Schledde soll Spenden in Höhe von mehr als 40.000 Euro vereinnahmt haben. Angesichts der Anklage gibt er sich jedoch gelassen.",
       "url": "https://www.spiegel.de/politik/deutschland/ansgar-schledde-staatsanwaltschaft-erhebt-anklage-gegen-niedersachsens-afd-chef-a-919b7845-e4e8-4ea7-9a5c-8a0976b326d2#ref=rss",
       "publishedAt": "2026-10-21T10:57:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Film über Bundeswehr-Spezialeinheit: Geheime Krieger im ARD-Vorabend-Streichorchester",
-      "excerpt": "Eine Dokumentation über das Kommando Spezialkräfte fällt reichlich düster aus. Die entscheidende Frage fehlt: Braucht es diesen Verband überhaupt? mehr...",
-      "url": "https://taz.de/Film-ueber-Bundeswehr-Spezialeinheit/!6222841/",
-      "publishedAt": "2026-10-21T10:28:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -663,14 +703,6 @@
       "excerpt": "Menschenrechtsorganisationen kritisieren, dass etwa die Hälfte der 90.000 Menschen in El Salvadors Gefängnissen unschuldig inhaftiert ist. Nun hat Präsident Bukele überraschend angekündigt, Tausende freizulassen. Von Jen",
       "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
       "publishedAt": "2026-10-21T03:05:13.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nigeria bestätigt ersten Ebola-Fall",
-      "excerpt": "Bislang waren drei afrikanische Länder von dem aktuellen Ebola-Ausbruch betroffen, nun meldet auch Nigeria einen Fall. Eine Frau sei in der Hauptstadt Abuja in Behandlung, so die Behörden. Nigeria ist das bevölkerungsrei",
-      "url": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
-      "publishedAt": "2026-10-21T01:11:10.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -787,14 +819,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
-      "excerpt": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. Von Carsten Kühntopp.",
-      "url": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
-      "publishedAt": "2026-10-20T13:07:51.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
       "excerpt": "Die Slowakei hat einen neuen Reaktorblock ans Netz genommen. Wenn er Volllast erreicht, wird sie zum Land mit dem weltweit höchsten Atomanteil im Energiemix. Und Staatschef Fico plant bereits das nächste Kraftwerk. Von M",
       "url": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
@@ -866,36 +890,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Ukraine-Krieg: Steve Witkoff und Jared Kushner sprechen in Norwegen mit Wolodymyr Selenskyj",
-      "excerpt": "Die US-Unterhändler Jared Kushner und Steve Witkoff wollen in Oslo erneut über ein Kriegsende sprechen, auch mit Wolodymyr Selenskyj. Unterdessen wurden in der Nacht nahe Kyjiw drei Menschen getötet.",
-      "url": "https://www.spiegel.de/politik/ukraine-krieg-steve-witkoff-und-jared-kushner-sprechen-in-norwegen-mit-wolodymyr-selenskyj-a-e5c4d2ae-bd8c-4265-ae9a-7f7c366c8f9a#ref=rss",
-      "publishedAt": "2026-10-20T05:39:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Vanessa Emde: Berliner Linke berät über umstrittene Abgeordnete",
-      "excerpt": "Seit Tagen diskutiert halb Deutschland über Antisemitismus in der Linkspartei von Berlin. Nun will die Fraktion klären, wie sie mit der Abgeordneten umgeht, die ein Existenzrecht von Staaten grundsätzlich infrage stellt.",
-      "url": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-beraet-ueber-umstrittene-abgeordnete-a-a1cfcd54-6cd8-4045-aed4-181510981de0#ref=rss",
-      "publishedAt": "2026-10-20T03:23:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
       "excerpt": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
       "publishedAt": "2026-10-20T03:15:05.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Erdoğan baut Türkei zur Diktatur um, Migranten und die AfD, Saudi-Arabien sucht Helfer gegen Huthis",
-      "excerpt": "Der türkische Präsident bringt die letzten unabhängigen Stimmen in seinem Land zum Schweigen. Migranten sorgen sich wegen einer AfD-Regierung. Saudi-Arabien sucht Verbündete gegen die Huthis. Das ist die Lage am Dienstag",
-      "url": "https://www.spiegel.de/politik/deutschland/news-erdogan-baut-tuerkei-zur-diktatur-um-migranten-und-die-afd-saudi-arabien-sucht-helfer-gegen-huthis-a-8ffb245e-ee6d-4cbf-9079-34ab23528e8d#ref=rss",
-      "publishedAt": "2026-10-20T01:21:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
