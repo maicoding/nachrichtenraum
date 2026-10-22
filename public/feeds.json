@@ -1,108 +1,12 @@
 {
-  "updatedAt": "2026-10-21T23:39:14.953Z",
+  "updatedAt": "2026-10-22T01:52:33.953Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Wahlgeschenke nur bei Republikaner-Sieg! - So will Trump die Wähler erpressen",
-      "excerpt": "US-Präsident knüpft Hilfe für Camp-Lejeune-Opfer an einen Sieg der Republikaner.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wahlgeschenke-nur-bei-sieg-so-will-trump-midterm-waehler-erpressen-6ad8d73d842f9bd88130b404",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD exklusiv - AfD-Hacker stehlen private Mails von Alice Weidel",
-      "excerpt": "Mega-Daten-Klau offenbart Streit um Hakenkreuzfahne und Hitler-Imitation",
-      "url": "https://www.bild.de/politik/inland/bild-exklusiv-afd-hacker-stehlen-private-mails-von-alice-weidel-6ad8b389842f9bd88130ae9e",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Es geht um Parteispenden - Anklage gegen Niedersachsens AfD-Chef",
-      "excerpt": "Die Staatsanwaltschaft beschuldigt Schledde der Verstöße gegen das Parteiengesetz.",
-      "url": "https://www.bild.de/politik/inland/niedersachsen-es-geht-um-parteispenden-afd-politiker-schledde-angeklagt-6ad8c670199dc15f1abdc0b1",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Über Monate übersehen - Wie kam es zur Mega-Steuerpanne bei Klingbeil?",
-      "excerpt": "Wer trägt die Schuld an der Steuerpanne?",
-      "url": "https://www.bild.de/politik/inland/ueber-monate-uebersehen-wie-kam-es-zur-mega-steuerpanne-bei-klingbeil-6ad8d701199dc15f1abdc270",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar - Wie konnte die Justiz das zulassen?",
-      "excerpt": "Nach 40 Tagen U-Haft kam ein mutmaßlicher Vergewaltiger wieder frei.",
-      "url": "https://www.bild.de/regional/bayern/ahmad-a-nach-40-tagen-frei-warum-der-opferschutz-fragen-aufwirft-6ad87b80199dc15f1abdb81b",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gott sei Dank - Krebs bei Papst Leo hat nicht gestreut!",
-      "excerpt": "Gott sei Dank! Papst Leo XIV. ist krebsfrei und braucht keine weitere Therapie.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/gott-sei-dank-krebs-bei-papst-leo-hat-nicht-gestreut-6ad9123dfca363c9aa57da36",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter nach Krawallen in Marseille - „Randalierer sofort wieder auf freiem Fuß“",
-      "excerpt": "Schwere Ausschreitungen erschüttern Marseille, weitere Krawalle werden erwartet.",
-      "url": "https://www.bild.de/politik/neue-randalen-in-marseille-erwartet-geschaefte-verbarrikadieren-sich-6ad878f32c40700de08003a8",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Cyber-Experte warnt vor Hacker-Angriffen - Flughäfen, Behörden, Kliniken gehen weltweit offline",
-      "excerpt": "PHP-Schwachstellen führen in Deutschland zu zahlreichen Internetausfällen.",
-      "url": "https://www.bild.de/politik/inland/php-sicherheitsluecken-die-naechsten-24-stunden-sind-entscheidend-6ad8efa0842f9bd88130b5b2",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Live-Ticker zur Cyber-Warnung - Webseiten-Ausfall wegen gefährlicher Sicherheitslücke",
-      "excerpt": "Behörden und Städte schalten ihre Internetangebote nach einer PHP-Warnung ab.",
-      "url": "https://www.bild.de/politik/inland/live-ticker-zur-cyber-warnung-webseitenausfall-wegen-gefaehrlicher-sicherheitsluecke-6ad8f5b2de6578e662a06639",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Täuschung von Nutzern - Meta zu 25 Milliarden Dollar Strafe verdonnert",
-      "excerpt": "US-Gericht verurteilt Facebook-Mutterkonzern Meta wegen Täuschung von Nutzern.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-taeuschung-von-nutzern-meta-zu-25-milliarden-dollar-rekord-strafe-verdonnert-6ad8fbd7199dc15f1abdc479",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wird es jetzt billiger? - Klingbeil-Gesetz kippt Steuer auf einige Rauchwaren",
-      "excerpt": "Für Liquids von E-Zigaretten entfällt die Tabaksteuer bis Ende 2026.",
-      "url": "https://www.bild.de/politik/inland/e-zigaretten-liquids-wegen-gesetzespanne-bis-jahresende-steuerfrei-6ad8ad6b438656aeb2fadc53",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Programmiersprache PHP - IT‑Sicherheitslücke! Charité schaltet Website ab",
       "excerpt": "Die Berliner Klinik schaltet ihre Seite wegen einer Sicherheitslücke vorsorglich ab.",
       "url": "https://www.bild.de/politik/weltweite-sicherheitsluecke-hacker-alarm-charite-website-offline-6ad8d01a8ef0fba254b7b6fa",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "publishedAt": "2026-10-22T01:52:32.639Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +14,7 @@
       "title": "Horrorszenario - Die Wahrheit über den „Golfstrom-Kollaps“",
       "excerpt": "Hektisches Piepen im Kontrollraum kündigt die Apokalypse an: Im Kinofilm „The Day After Tomorrow“ melden im Nordatlantik treibende B...",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/horrorszenario-die-wahrheit-ueber-den-golfstrom-kollaps-6ad79894199dc15f1abdaf6a",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "publishedAt": "2026-10-22T01:52:32.639Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +22,7 @@
       "title": "ARD-Chef gibt zu - Milliardensumme für Rundfunk „absolut hoch“",
       "excerpt": "Florian Hager versteht die Kritik an den Kosten des öffentlich-rechtlichen Rundfunks.",
       "url": "https://www.bild.de/politik/ard-chef-gibt-zu-milliardensumme-fuer-rundfunk-absolut-hoch-6ad895e0199dc15f1abdbb45",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "publishedAt": "2026-10-22T01:52:32.639Z",
       "category": "POLITIK"
     },
     {
@@ -126,31 +30,135 @@
       "title": "Europa-Vergleich - Nur drei Länder bauen weniger als Deutschland",
       "excerpt": "Statt mehr neuer Wohnungen gibt es immer weniger. 2025 nur noch rund 207.000.",
       "url": "https://www.bild.de/politik/inland/europa-vergleich-nur-drei-laender-bauen-weniger-wohnungen-als-deutschland-6ad86aa3199dc15f1abdb650",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "publishedAt": "2026-10-22T01:52:32.639Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Pariser Ladenbesitzer bangen um Existenz - „Wie sollen wir jetzt wieder auf die Beine kommen?“",
-      "excerpt": "Nach Krawallen in Paris bangen Ladenbesitzer um ihre Existenz.",
-      "url": "https://www.bild.de/politik/pariser-ladenbesitzer-stehen-vor-den-truemmern-ihrer-existenz-wie-sollen-wir-jetzt-wieder-auf-die-beine-kommen-6ad67f1e199dc15f1abd9d8b",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "title": "Im Interview bei „Fox-News“ - Selenskyj sagt klar: Ja zum Einfrieren der Front",
+      "excerpt": "Der ukrainische Präsident signalisiert Zustimmung zu einem Waffenstillstand.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-im-moment-muessen-wir-einfrieren-waffenruhe-als-ziel-6ad94db3199dc15f1abdc768",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Florian Hager bei RONZHEIMER - Migration! ARD-Chef gibt Fehler zu",
-      "excerpt": "Florian Hager zeigt Verständnis für AfD-Wähler und kritisiert die Berichterstattung.",
-      "url": "https://www.bild.de/politik/inland/ard-vorsitzender-florian-hager-haben-bei-migration-nicht-alles-richtig-gemacht-6ad87ecf438656aeb2fad56d",
-      "publishedAt": "2026-10-21T23:39:14.560Z",
+      "title": "US-Präsident: „Er wurde erwischt“ - Faust-Eklat bei Trump-Rede",
+      "excerpt": "Demonstranten stören Auftritt des US-Präsidenten, Anhänger soll Demonstranten geschlagen haben.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/faust-eklat-bei-wahlkampf-auftritt-von-donald-trump-das-hat-mir-gefallen-6ad956ae2c40700de0801376",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlgeschenke nur bei Republikaner-Sieg! - So will Trump die Wähler erpressen",
+      "excerpt": "US-Präsident knüpft Hilfe für Camp-Lejeune-Opfer an einen Sieg der Republikaner.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wahlgeschenke-nur-bei-sieg-so-will-trump-midterm-waehler-erpressen-6ad8d73d842f9bd88130b404",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - AfD-Hacker stehlen private Mails von Alice Weidel",
+      "excerpt": "Mega-Daten-Klau offenbart Streit um Hakenkreuzfahne und Hitler-Imitation",
+      "url": "https://www.bild.de/politik/inland/bild-exklusiv-afd-hacker-stehlen-private-mails-von-alice-weidel-6ad8b389842f9bd88130ae9e",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Es geht um Parteispenden - Anklage gegen Niedersachsens AfD-Chef",
+      "excerpt": "Die Staatsanwaltschaft beschuldigt Schledde der Verstöße gegen das Parteiengesetz.",
+      "url": "https://www.bild.de/politik/inland/niedersachsen-es-geht-um-parteispenden-afd-politiker-schledde-angeklagt-6ad8c670199dc15f1abdc0b1",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Über Monate übersehen - Wie kam es zur Mega-Steuerpanne bei Klingbeil?",
+      "excerpt": "Wer trägt die Schuld an der Steuerpanne?",
+      "url": "https://www.bild.de/politik/inland/ueber-monate-uebersehen-wie-kam-es-zur-mega-steuerpanne-bei-klingbeil-6ad8d701199dc15f1abdc270",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar - Wie konnte die Justiz das zulassen?",
+      "excerpt": "Nach 40 Tagen U-Haft kam ein mutmaßlicher Vergewaltiger wieder frei.",
+      "url": "https://www.bild.de/regional/bayern/ahmad-a-nach-40-tagen-frei-warum-der-opferschutz-fragen-aufwirft-6ad87b80199dc15f1abdb81b",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gott sei Dank - Krebs bei Papst Leo hat nicht gestreut!",
+      "excerpt": "Gott sei Dank! Papst Leo XIV. ist krebsfrei und braucht keine weitere Therapie.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/gott-sei-dank-krebs-bei-papst-leo-hat-nicht-gestreut-6ad9123dfca363c9aa57da36",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD-Reporter nach Krawallen in Marseille - „Randalierer sofort wieder auf freiem Fuß“",
+      "excerpt": "Schwere Ausschreitungen erschüttern Marseille, weitere Krawalle werden erwartet.",
+      "url": "https://www.bild.de/politik/neue-randalen-in-marseille-erwartet-geschaefte-verbarrikadieren-sich-6ad878f32c40700de08003a8",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Cyber-Experte warnt vor Hacker-Angriffen - Flughäfen, Behörden, Kliniken gehen weltweit offline",
+      "excerpt": "PHP-Schwachstellen führen in Deutschland zu zahlreichen Internetausfällen.",
+      "url": "https://www.bild.de/politik/inland/php-sicherheitsluecken-die-naechsten-24-stunden-sind-entscheidend-6ad8efa0842f9bd88130b5b2",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Live-Ticker zur Cyber-Warnung - Webseiten-Ausfall wegen gefährlicher Sicherheitslücke",
+      "excerpt": "Behörden und Städte schalten ihre Internetangebote nach einer PHP-Warnung ab.",
+      "url": "https://www.bild.de/politik/inland/live-ticker-zur-cyber-warnung-webseitenausfall-wegen-gefaehrlicher-sicherheitsluecke-6ad8f5b2de6578e662a06639",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Täuschung von Nutzern - Meta zu 25 Milliarden Dollar Strafe verdonnert",
+      "excerpt": "US-Gericht verurteilt Facebook-Mutterkonzern Meta wegen Täuschung von Nutzern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-taeuschung-von-nutzern-meta-zu-25-milliarden-dollar-rekord-strafe-verdonnert-6ad8fbd7199dc15f1abdc479",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wird es jetzt billiger? - Klingbeil-Gesetz kippt Steuer auf einige Rauchwaren",
+      "excerpt": "Für Liquids von E-Zigaretten entfällt die Tabaksteuer bis Ende 2026.",
+      "url": "https://www.bild.de/politik/inland/e-zigaretten-liquids-wegen-gesetzespanne-bis-jahresende-steuerfrei-6ad8ad6b438656aeb2fadc53",
+      "publishedAt": "2026-10-22T01:52:32.638Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Grüne fordern von Merz mehr Druck auf US-Regierung",
+      "excerpt": "Die Grünen haben Bundeskanzler Merz aufgefordert, bei der US-Regierung auf eine weitere Unterstützung für die Ukraine zu dringen.",
+      "url": "https://www.deutschlandfunk.de/gruene-fordern-von-merz-mehr-druck-auf-us-regierung-100.html",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
       "excerpt": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
       "url": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +166,7 @@
       "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
       "excerpt": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zah",
       "url": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,15 +174,23 @@
       "title": "Nach Krawallen in Frankreich - Macron berät mit Ministern und Geheimdienstvertretern",
       "excerpt": "Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen.",
       "url": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen",
-      "excerpt": "In Saudi-Arabien ist bei einem Angriff auf einen Flughafen ein Mensch getötet worden.",
-      "url": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
+      "excerpt": "In Saudi-Arabien ist erneut ein Flughafen angegriffen worden.",
+      "url": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
+      "excerpt": "Die SPD-Bundestagsfraktion dringt auf Nachbesserungen beim Gesetzentwurf der Bundesregierung zur Pflegeversicherung.",
+      "url": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -182,7 +198,7 @@
       "title": "Verkehrsministerkonferenz - Länder fordern mehr Geld für Busse und Bahnen",
       "excerpt": "Die Verkehrsminister von Bund und Ländern beenden heute ihre zweitägige Konferenz im bayerischen Hohenschwangau.",
       "url": "https://www.deutschlandfunk.de/laender-fordern-mehr-geld-fuer-busse-und-bahnen-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +206,7 @@
       "title": "Finanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet",
       "excerpt": "Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor.",
       "url": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +214,7 @@
       "title": "Brüssel - EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
       "excerpt": "Die EU-Staaten haben sich dagegen ausgesprochen, die Zahl der Cookie-Abfragen im Internet deutlich zu reduzieren.",
       "url": "https://www.deutschlandfunk.de/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +222,7 @@
       "title": "Fußball - München mit Punkteteilung, Niederlage für Leipzig in der Champions League",
       "excerpt": "In der Fußball-Champions-League hat es zwei Spiele mit deutscher Beteiligung gegeben:",
       "url": "https://www.deutschlandfunk.de/muenchen-mit-punkteteilung-niederlage-fuer-leipzig-in-der-champions-league-108.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +230,7 @@
       "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung",
       "excerpt": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
       "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +238,7 @@
       "title": "31. Oktober - Bundesschülerkonferenz begrüßt \"Gen Z\"-Protestaufruf",
       "excerpt": "Die Bundesschülerkonferenz begrüßt die Protestaufrufe junger Menschen in Deutschland.",
       "url": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-begruesst-gen-z-protestaufruf-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +246,7 @@
       "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland",
       "excerpt": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
       "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,7 @@
       "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut",
       "excerpt": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
       "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +262,7 @@
       "title": "Berlin Global Dialogue - Merz warnt vor hybriden Angriffen Russlands",
       "excerpt": "Bundeskanzler Merz hat vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland gewarnt.",
       "url": "https://www.deutschlandfunk.de/merz-warnt-vor-hybriden-angriffen-russlands-110.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +270,7 @@
       "title": "Bundeswehr - Personalaufwuchs erstmals über Jahresziel - Mehr als 190.000 Soldaten",
       "excerpt": "Die Bundeswehr hat Anfang des Monats die für dieses Jahr festgelegte Sollstärke von 190.000 Soldatinnen und Soldaten erreicht.",
       "url": "https://www.deutschlandfunk.de/personalaufwuchs-erstmals-ueber-jahresziel-mehr-als-190-000-soldaten-102.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +278,7 @@
       "title": "Genf - UNO-Konferenz zum Sudan ohne greifbare Ergebnisse zu Ende gegangen",
       "excerpt": "Eine internationale Konferenz über den anhaltenden Krieg im Sudan ist ohne greifbare Ergebnisse zu Ende gegangen.",
       "url": "https://www.deutschlandfunk.de/uno-konferenz-zum-sudan-ohne-greifbare-ergebnisse-zu-ende-gegangen-106.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,23 +286,7 @@
       "title": "Konkurrenz durch KI - US-Bildagentur Getty Images beantragt Insolvenz",
       "excerpt": "Die US-Bildagentur Getty Images hat Insolvenz angemeldet. Das Unternehmen beantragte bei einem Konkursgericht im US-Bundesstaat Delaware ein entsprechendes Verfahren. Getty Images erklärte, die bereits geplante Restruktu",
       "url": "https://www.deutschlandfunk.de/us-bildagentur-getty-images-beantragt-insolvenz-106.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Verkehrsministerkonferenz - Verkehrsminister vertagen Debatte über flexibles Deutschlandticket für Gelegenheitsfahrer",
-      "excerpt": "Ein flexibles Deutschlandticket für Gelegenheitsfahrer im Öffentlichen Nahverkehr kommt vorerst nicht.",
-      "url": "https://www.deutschlandfunk.de/verkehrsminister-vertagen-debatte-ueber-flexibles-deutschlandticket-fuer-gelegenheitsfahrer-108.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament",
-      "excerpt": "Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.",
-      "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
-      "publishedAt": "2026-10-21T23:34:18.000Z",
+      "publishedAt": "2026-10-22T01:07:18.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -419,17 +419,17 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Mecklenburg-Vorpommern: Zeigte ein AfD-Politiker im Landtag das White-Power-Zeichen?",
-      "excerpt": "Anlässlich der ersten Sitzung des Landtags in Schwerin hat der AfD-Abgeordnete Tommy Thormann ein Video auf Instagram veröffentlicht. Am Ende macht er eine mehrdeutige Geste. SPD, Grüne und Linke verlangen Konsequenzen.",
-      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-zeigte-ein-afd-politiker-im-landtag-das-white-power-zeichen-a-fc483377-be33-4110-beee-3c350081f9ff#ref=rss",
+      "title": "AfD-Leak: 421.326 E-Mails und die Geheimnisse der AfD - was wir bisher sagen können",
+      "excerpt": "Hacker haben sich Zugang zu elf Postfächern der AfD verschafft, darunter das von Alexander Gauland. Es ist der umfangreichste Leak der Parteigeschichte. Der SPIEGEL wertet die Daten aus. Was wir bisher darüber sagen könn",
+      "url": "https://www.spiegel.de/politik/afd-leak-421-326-e-mails-und-die-geheimnisse-der-afd-was-wir-bisher-sagen-koennen-a-2da64a7d-6617-49ba-9c3d-aaad15a25974#ref=rss",
       "publishedAt": "2026-10-21T15:41:00.000Z",
       "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "AfD-Leak: 421.326 E-Mails und die Geheimnisse der AfD - was wir bisher sagen können",
-      "excerpt": "Hacker haben sich Zugang zu elf Postfächern der AfD verschafft, darunter das von Alexander Gauland. Es ist der umfangreichste Leak der Parteigeschichte. Der SPIEGEL wertet die Daten aus. Was wir bisher darüber sagen könn",
-      "url": "https://www.spiegel.de/politik/afd-leak-421-326-e-mails-und-die-geheimnisse-der-afd-was-wir-bisher-sagen-koennen-a-2da64a7d-6617-49ba-9c3d-aaad15a25974#ref=rss",
+      "title": "Mecklenburg-Vorpommern: Zeigte ein AfD-Politiker im Landtag das White-Power-Zeichen?",
+      "excerpt": "Anlässlich der ersten Sitzung des Landtags in Schwerin hat der AfD-Abgeordnete Tommy Thormann ein Video auf Instagram veröffentlicht. Am Ende macht er eine mehrdeutige Geste. SPD, Grüne und Linke verlangen Konsequenzen.",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-zeigte-ein-afd-politiker-im-landtag-das-white-power-zeichen-a-fc483377-be33-4110-beee-3c350081f9ff#ref=rss",
       "publishedAt": "2026-10-21T15:41:00.000Z",
       "category": "POLITIK"
     },
