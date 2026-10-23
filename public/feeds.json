@@ -1,124 +1,12 @@
 {
-  "updatedAt": "2026-10-23T19:13:20.259Z",
+  "updatedAt": "2026-10-23T22:12:20.541Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Söder bringt sie als Bundespräsidentin ins Spiel - So reagiert Aigner bei BILD",
-      "excerpt": "Söder nennt eine Politikerin für das Präsidentenamt; die CDU muss zustimmen.",
-      "url": "https://www.bild.de/politik/soeder-bringt-sie-als-bundespraesidentin-ins-spiel-so-reagiert-aigner-bei-bild-6adba8139fbb7e8e310ddc0b",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auf Parteitag der CSU - Söder bringt Aigner fürs höchste Amt in Stellung",
-      "excerpt": "Große Aigner-Show beim CSU-Parteitag. Wie reagiert morgen Friedrich Merz?",
-      "url": "https://www.bild.de/politik/inland/markus-soeder-wirbt-fuer-ilse-aigner-als-bundespraesidentin-doch-es-gibt-einen-haken-6adb6ec7d8be1e987154ec25",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weitere 12.000 Stellen sollen weg - Neuer Job-Schock bei VW!",
-      "excerpt": "Volkswagen plant bis 2030 den Abbau von 12.000 Jobs, die IG Metall droht mit Streik.",
-      "url": "https://www.bild.de/politik/inland/neuer-hammer-bei-vw-weitere-12-000-volkswagen-jobs-sollen-weg-6adb94e0ea9d017b539b0253",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar vom BILD-Politikchef - Wir sind keine Bananen-Republik, Herr Minister!",
-      "excerpt": "Finanzminister Klingbeil lässt wegen eines Gesetzesfehlers geltendes Recht aushebeln.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-wir-sind-keine-bananen-republik-herr-minister-6adb6d379fbb7e8e310dd808",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ölpreis schießt auf höchsten Stand seit April - Kommt der nächste Sprit-Schock?",
-      "excerpt": "Ölpreise steigen wegen Nahost-Angriffen, Benzin und Diesel könnten teurer werden.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/oelpreis-schiesst-auf-hoechsten-stand-seit-april-brent-erreicht-117-dollar-6adb9e39ea934d9d9600d3e2",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Drei Reformen für drei Generationen - Mehr Geld im Alter: Was für Sie drin ist",
-      "excerpt": "Aktivrente, Altersvorsorgedepot und Frühstart-Rente verändern die Altersvorsorge.",
-      "url": "https://www.bild.de/politik/inland/fruehstart-rente-aktivrente-vorsorgedepot-was-fuer-sie-drin-ist-6ad1d77751e5094f7a56e465",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "CSU-Chef Söder zieht politische Grenzen - „Keine Kohle für Extremisten!“",
-      "excerpt": "Markus Söder grenzt die CSU auf dem Parteitag von AfD und Linkspartei ab.",
-      "url": "https://www.bild.de/politik/csu-chef-soeder-zieht-politische-grenzen-keine-kohle-fuer-extremisten-6adb8ff5400ffbb8e251bf07",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "800 Jobs weg, drei Standorte dicht - Kahlschlag beim Versicherer Generali",
-      "excerpt": "Der Konzern streicht 800 Stellen und gibt drei Standorte auf.",
-      "url": "https://www.bild.de/politik/inland/kahlschlag-beim-versicherer-generali-800-jobs-weg-drei-standorte-dicht-6adb85a0d8be1e987154ee20",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Prügelei im albanischen Parlament - Hier gehen Politiker aufeinander los",
-      "excerpt": "Im albanischen Parlament fliegen in Tirana Wasser und Dokumente.",
-      "url": "https://www.bild.de/politik/pruegelei-im-albanischen-parlament-hier-gehen-politiker-aufeinander-los-6adb603d400ffbb8e251bb29",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geleakte Mails - Was wusste AfD-Chefin Weidel über illegale Parteispenden?",
-      "excerpt": "Geleakte Mails legen nahe, dass 132.000 Euro Wahlkampfspenden angekündigt waren.",
-      "url": "https://www.bild.de/politik/inland/geleakte-mails-log-alice-weidel-bei-illegaler-parteispende-fuer-afd-6adb4928d8be1e987154e7a7",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kommentar zu Klingbeil - „Anstiftung zur Steuerhinterziehung“",
-      "excerpt": "Ein Kommentar kritisiert das Tabakgesetz der Bundesregierung.",
-      "url": "https://www.bild.de/politik/kommentar-von-bild-politikchef-jan-schaefer-dieser-dilettantismus-darf-klingbeil-nicht-durchgehen-6adb4b8fd8be1e987154e7d3",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Weißes Haus behauptet - Melania hat Feuerpause für Oleschky erwirkt",
-      "excerpt": "Ab 29. Oktober sollen in der Ukraine Waffen schweigen und Zivilisten evakuiert werden.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/weisses-haus-behauptet-melania-trump-hat-feuerpause-fuer-oleschky-erwirkt-6adb6afb400ffbb8e251bc67",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Auf Forum für globale Ordnung - Schröder plötzlich in China aufgetaucht!",
-      "excerpt": "Altkanzler besucht überraschend ein China-Forum nach umstrittenem Treffen mit Putin.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/spd-gerhard-schroeder-ploetzlich-in-china-aufgetaucht-wen-er-dort-traf-6adb5bbcd8be1e987154e9dc",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Missbrauchs-Vorwürfe gegen ihren Vater - „Warum hat Meghan 8 Jahre geschwiegen?“",
-      "excerpt": "Meghans Halbbruder Thomas Markle hat hunderte Fotos und Videos mit Kindesmissbrauch im Haus ihres gemeinsamen Vaters entdeckt und de...",
-      "url": "https://www.bild.de/politik/meghan-wusste-von-vorwuerfen-gegen-vater-warum-schwieg-sie-8-jahre-lang-6adb475eea9d017b539afc05",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Jordanien - Mindestens sechs Tote nach Angriff auf Kirche",
       "excerpt": "Bewaffnete schossen bei einer Trauerfeier in Jordanien auf Gäste.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/jordanien-mindestens-sieben-tote-nach-angriff-auf-kirche-6adb5f05ea9d017b539afe85",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
+      "publishedAt": "2026-10-23T22:12:20.537Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +14,7 @@
       "title": "Geheimer Machtpoker - Welcher Präsidenten-Kandidat rettet Merz den Job?",
       "excerpt": "Die Wahl von Ilse Aigner zur Bundespräsidentin könnte dem Kanzler gefährlich werden.",
       "url": "https://www.bild.de/politik/inland/bundespraesidentenwahl-was-aus-sicht-von-merz-gegen-aigner-spricht-6adb057d773b23ff64a39f45",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
+      "publishedAt": "2026-10-23T22:12:20.537Z",
       "category": "POLITIK"
     },
     {
@@ -134,159 +22,271 @@
       "title": "Passagiere sollen Schutz suchen - Drohnen-Alarm legt Moskauer Flughäfen lahm",
       "excerpt": "Passagiere sollen sich in Scheremetjewo in Schutzbereiche und Bunker begeben.",
       "url": "https://www.bild.de/politik/passagiere-sollen-schutz-suchen-drohnen-alarm-drei-moskauer-flughaefen-dicht-6adb619d400ffbb8e251bb4f",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
+      "publishedAt": "2026-10-23T22:12:20.537Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Kämpfe in Pipelines - Jetzt verlegt die Ukraine den Krieg unter die Erde",
-      "excerpt": "Soldaten rücken bei Kupjansk 15 Kilometer durch alte Gasleitungen vor.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-verlegt-krieg-unter-die-erde-kaempfe-gegen-russland-in-alten-pipelines-6adb06da9fbb7e8e310dcdfd",
-      "publishedAt": "2026-10-23T19:13:19.873Z",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
       "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Frankreich - Ein Toter und 5 Verletzte nahe Paris: Marcon geht von rassistisch motiviertem Terrorakt aus",
-      "excerpt": "Frankreichs Präsident Macron hat den tödlichen Schusswaffenangriff nahe Paris mit einem Toten und fünf Verletzten als rassistisch motivierten Terrorakt bezeichnet.",
-      "url": "https://www.deutschlandfunk.de/ein-toter-und-5-verletzte-nahe-paris-marcon-geht-von-rassistisch-motiviertem-terrorakt-aus-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
-      "category": "NACHRICHTEN"
+      "source": "BILD.DE",
+      "title": "Söder bringt sie als Bundespräsidentin ins Spiel - So reagiert Aigner bei BILD",
+      "excerpt": "Söder nennt eine Politikerin für das Präsidentenamt; die CDU muss zustimmen.",
+      "url": "https://www.bild.de/politik/soeder-bringt-sie-als-bundespraesidentin-ins-spiel-so-reagiert-aigner-bei-bild-6adba8139fbb7e8e310ddc0b",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Auf Parteitag der CSU - Söder bringt Aigner fürs höchste Amt in Stellung",
+      "excerpt": "Große Aigner-Show beim CSU-Parteitag. Wie reagiert morgen Friedrich Merz?",
+      "url": "https://www.bild.de/politik/inland/markus-soeder-wirbt-fuer-ilse-aigner-als-bundespraesidentin-doch-es-gibt-einen-haken-6adb6ec7d8be1e987154ec25",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weitere 12.000 Stellen sollen weg - Neuer Job-Schock bei VW!",
+      "excerpt": "Volkswagen plant bis 2030 den Abbau von 12.000 Jobs, die IG Metall droht mit Streik.",
+      "url": "https://www.bild.de/politik/inland/neuer-hammer-bei-vw-weitere-12-000-volkswagen-jobs-sollen-weg-6adb94e0ea9d017b539b0253",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar vom BILD-Politikchef - Wir sind keine Bananen-Republik, Herr Minister!",
+      "excerpt": "Finanzminister Klingbeil lässt wegen eines Gesetzesfehlers geltendes Recht aushebeln.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-wir-sind-keine-bananen-republik-herr-minister-6adb6d379fbb7e8e310dd808",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ölpreis schießt auf höchsten Stand seit April - Kommt der nächste Sprit-Schock?",
+      "excerpt": "Ölpreise steigen wegen Nahost-Angriffen, Benzin und Diesel könnten teurer werden.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/oelpreis-schiesst-auf-hoechsten-stand-seit-april-brent-erreicht-117-dollar-6adb9e39ea934d9d9600d3e2",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Drei Reformen für drei Generationen - Mehr Geld im Alter: Was für Sie drin ist",
+      "excerpt": "Aktivrente, Altersvorsorgedepot und Frühstart-Rente verändern die Altersvorsorge.",
+      "url": "https://www.bild.de/politik/inland/fruehstart-rente-aktivrente-vorsorgedepot-was-fuer-sie-drin-ist-6ad1d77751e5094f7a56e465",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CSU-Chef Söder zieht politische Grenzen - „Keine Kohle für Extremisten!“",
+      "excerpt": "Markus Söder grenzt die CSU auf dem Parteitag von AfD und Linkspartei ab.",
+      "url": "https://www.bild.de/politik/csu-chef-soeder-zieht-politische-grenzen-keine-kohle-fuer-extremisten-6adb8ff5400ffbb8e251bf07",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "800 Jobs weg, drei Standorte dicht - Kahlschlag beim Versicherer Generali",
+      "excerpt": "Der Konzern streicht 800 Stellen und gibt drei Standorte auf.",
+      "url": "https://www.bild.de/politik/inland/kahlschlag-beim-versicherer-generali-800-jobs-weg-drei-standorte-dicht-6adb85a0d8be1e987154ee20",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Prügelei im albanischen Parlament - Hier gehen Politiker aufeinander los",
+      "excerpt": "Im albanischen Parlament fliegen in Tirana Wasser und Dokumente.",
+      "url": "https://www.bild.de/politik/pruegelei-im-albanischen-parlament-hier-gehen-politiker-aufeinander-los-6adb603d400ffbb8e251bb29",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geleakte Mails - Was wusste AfD-Chefin Weidel über illegale Parteispenden?",
+      "excerpt": "Geleakte Mails legen nahe, dass 132.000 Euro Wahlkampfspenden angekündigt waren.",
+      "url": "https://www.bild.de/politik/inland/geleakte-mails-log-alice-weidel-bei-illegaler-parteispende-fuer-afd-6adb4928d8be1e987154e7a7",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kommentar zu Klingbeil - „Anstiftung zur Steuerhinterziehung“",
+      "excerpt": "Ein Kommentar kritisiert das Tabakgesetz der Bundesregierung.",
+      "url": "https://www.bild.de/politik/kommentar-von-bild-politikchef-jan-schaefer-dieser-dilettantismus-darf-klingbeil-nicht-durchgehen-6adb4b8fd8be1e987154e7d3",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Weißes Haus behauptet - Melania hat Feuerpause für Oleschky erwirkt",
+      "excerpt": "Ab 29. Oktober sollen in der Ukraine Waffen schweigen und Zivilisten evakuiert werden.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/weisses-haus-behauptet-melania-trump-hat-feuerpause-fuer-oleschky-erwirkt-6adb6afb400ffbb8e251bc67",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Auf Forum für globale Ordnung - Schröder plötzlich in China aufgetaucht!",
+      "excerpt": "Altkanzler besucht überraschend ein China-Forum nach umstrittenem Treffen mit Putin.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/spd-gerhard-schroeder-ploetzlich-in-china-aufgetaucht-wen-er-dort-traf-6adb5bbcd8be1e987154e9dc",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Missbrauchs-Vorwürfe gegen ihren Vater - „Warum hat Meghan 8 Jahre geschwiegen?“",
+      "excerpt": "Meghans Halbbruder Thomas Markle hat hunderte Fotos und Videos mit Kindesmissbrauch im Haus ihres gemeinsamen Vaters entdeckt und de...",
+      "url": "https://www.bild.de/politik/meghan-wusste-von-vorwuerfen-gegen-vater-warum-schwieg-sie-8-jahre-lang-6adb475eea9d017b539afc05",
+      "publishedAt": "2026-10-23T22:12:20.536Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Markus Söder: Wie das Aigner-Dilemma seine Kanzlerträume gefährden könnte",
+      "excerpt": "Die CSU will Ilse Aigner als Bundespräsidentin, Parteichef Markus Söder muss sie unterstützen – auch wenn das seine Kanzlerträume zunichtemachen könnte. Vielleicht kommt ihm jetzt ausgerechnet Friedrich Merz zu Hilfe.",
+      "url": "https://www.spiegel.de/politik/deutschland/markus-soeder-wie-das-aigner-dilemma-seine-kanzlertraeume-gefaehrden-koennte-a-13dc7479-31aa-4131-a449-28c22a4aef6d#ref=rss",
+      "publishedAt": "2026-10-23T19:59:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+      "excerpt": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tag",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
+      "publishedAt": "2026-10-23T19:45:20.000Z",
+      "category": "INNENPOLITIK"
     },
     {
       "source": "DLF",
       "title": "CSU-Parteitag - Söder: \"Es geht jetzt um die Existenz der Volksparteien\"",
       "excerpt": "Der CSU-Vorsitzende Söder hat harte politische Auseinandersetzungen mit AfD und Linkspartei angekündigt. Es gehe jetzt um die Existenz der Volksparteien, sagte Söder zum Auftakt des CSU-Parteitags in München. Seine Parte",
-      "url": "https://www.deutschlandfunk.de/soeder-es-geht-jetzt-um-die-existenz-der-volksparteien-104.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/soeder-es-geht-jetzt-um-die-existenz-der-volksparteien-110.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Ein Toter und 5 Verletzte nahe Paris: Marcon geht von rassistisch motiviertem Terrorakt aus",
+      "excerpt": "Frankreichs Präsident Macron hat den tödlichen Schusswaffenangriff nahe Paris mit einem Toten und fünf Verletzten als rassistisch motivierten Terrorakt bezeichnet.",
+      "url": "https://www.deutschlandfunk.de/ein-toter-und-5-verletzte-nahe-paris-marcon-geht-von-rassistisch-motiviertem-terrorakt-aus-104.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Staatsoberhaupt - CDU-Spitze wehrt sich gegen Festlegung auf Aigner als nächste Bundespräsidentin",
       "excerpt": "Die CDU will sich Medienberichten zufolge nicht auf die CSU-Politikerin Aigner als Kandidatin für die Nachfolge von Bundespräsident Steinmeier festlegen. Wie die Frankfurter Allgemeine Zeitung unter Berufung auf Parteikr",
-      "url": "https://www.deutschlandfunk.de/cdu-spitze-wehrt-sich-gegen-festlegung-auf-aigner-als-naechste-bundespraesidentin-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/cdu-spitze-wehrt-sich-gegen-festlegung-auf-aigner-als-naechste-bundespraesidentin-102.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Neue Initiative - Acht Staaten setzen sich für freie Schifffahrt ein",
       "excerpt": "Deutschland und sieben weitere Staaten setzen sich nach den Worten von Außenminister Wadephul gemeinsam für Lösungen im Iran-Konflikt und für eine freie Schifffahrt ein.",
-      "url": "https://www.deutschlandfunk.de/acht-staaten-setzen-sich-fuer-freie-schifffahrt-ein-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/acht-staaten-setzen-sich-fuer-freie-schifffahrt-ein-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Geplante Vergesellschaftung - Linken-Chef Pantisano stellt sich gegen Gewinnerzielung mit Mieten",
       "excerpt": "In der Debatte über eine Vergesellschaftung von Wohnungsunternehmen hat sich der Vorsitzende der Linkspartei, Pantisano, gegen die Gewinnerzielung mit Mieten ausgesprochen. Erträge aus Wohnungen seien für den Erhalt und ",
-      "url": "https://www.deutschlandfunk.de/linken-chef-pantisano-stellt-sich-gegen-gewinnerzielung-mit-mieten-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/linken-chef-pantisano-stellt-sich-gegen-gewinnerzielung-mit-mieten-108.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Hannover - VW-Spitze, Betriebsrat und IG Metall ringen um Sparkurs",
       "excerpt": "​Die IG Metall und der VW-Betriebsrat fordern von Volkswagen die Rücknahme der Kündigung von Haustarifverträgen.",
-      "url": "https://www.deutschlandfunk.de/vw-spitze-betriebsrat-und-ig-metall-ringen-um-sparkurs-116.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/vw-spitze-betriebsrat-und-ig-metall-ringen-um-sparkurs-118.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Herbststurm - Verletzte und Beeinträchtigungen im Bahnverkehr durch Sturm",
       "excerpt": "In Teilen Deutschlands haben Sturmschäden zu Beeinträchtigungen im Bahnverkehr geführt.",
-      "url": "https://www.deutschlandfunk.de/verletzte-und-beeintraechtigungen-im-bahnverkehr-durch-sturm-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/verletzte-und-beeintraechtigungen-im-bahnverkehr-durch-sturm-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Ukraine - Russland und die Ukraine vereinbaren humanitäre Feuerpause für Oleschky",
       "excerpt": "Russland und die Ukraine haben sich nach Angaben aus Washington auf eine vorübergehende Feuerpause für die südukrainische Stadt Oleschky verständigt.",
-      "url": "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-humanitaere-feuerpause-fuer-oleschky-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-humanitaere-feuerpause-fuer-oleschky-112.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Energiewende - Großbatteriespeicher in Alfeld geht ans Hochspannungsnetz",
       "excerpt": "Im niedersächsischen Alfeld ist einer der bislang größten Batteriespeicher Deutschlands an das Hochspannungsnetz gegangen.",
-      "url": "https://www.deutschlandfunk.de/grossbatteriespeicher-in-alfeld-geht-ans-hochspannungsnetz-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/grossbatteriespeicher-in-alfeld-geht-ans-hochspannungsnetz-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Fußball - Bayern-Trainer Vincent Kompany in Klinik gebracht",
       "excerpt": "Der Trainer von Bayern München, Vincent Kompany, ist nach einem Zusammenbruch auf dem Trainingsgelände in ein Krankenhaus gebracht worden.",
-      "url": "https://www.deutschlandfunk.de/bayern-trainer-vincent-kompany-in-klinik-gebracht-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/bayern-trainer-vincent-kompany-in-klinik-gebracht-112.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Energieversorgung - Bundesregierung gibt weiteren Teil der Ölreserve frei",
       "excerpt": "Deutschland gibt weitere Ölreserven frei.",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-gibt-weiteren-teil-der-oelreserve-frei-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/bundesregierung-gibt-weiteren-teil-der-oelreserve-frei-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Besuch in Frankfurt (Oder) - Merz: \"Deutschland kann bei Mikrochip-Entwicklung international mithalten\"",
       "excerpt": "Bundeskanzler Merz hat die Bedeutung der deutschen Spitzenforschung in der Mikrochip-Entwicklung hervorgehoben.",
-      "url": "https://www.deutschlandfunk.de/merz-deutschland-kann-bei-mikrochip-entwicklung-international-mithalten-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Baden-Württemberg - Landesinnenminister Hagel will Sicherheitsarchitektur reformieren",
-      "excerpt": "Baden-Württembergs Innenminister Hagel hat eine grundlegende Reform der Sicherheitsstrukturen angekündigt.",
-      "url": "https://www.deutschlandfunk.de/landesinnenminister-hagel-will-sicherheitsarchitektur-reformieren-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Neue Rechtsform - EU-Staaten wollen schnelle Start-up-Gründungen erleichtern",
-      "excerpt": "In der Europäischen Union soll eine neue Rechtsform die schnelle Gründung kleiner Unternehmen erleichtern.",
-      "url": "https://www.deutschlandfunk.de/eu-staaten-wollen-schnelle-start-up-gruendungen-erleichtern-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/merz-deutschland-kann-bei-mikrochip-entwicklung-international-mithalten-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Nach Steuerschätzung - Forderungen nach Senkung der Stromsteuer für alle",
       "excerpt": "Nach der neuen Steuerschätzung gibt es Rufe nach weiteren Entlastungen: Weil der Bund im kommenden Jahr mit höheren Einnahmen rechnen kann, kommen aus mehreren Bundesländern Forderungen nach einer Senkung der Stromsteuer",
-      "url": "https://www.deutschlandfunk.de/forderungen-nach-senkung-der-stromsteuer-fuer-alle-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/forderungen-nach-senkung-der-stromsteuer-fuer-alle-102.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Nahost - Israel bereitet vollständige Abriegelung des Westjordanlands vor",
       "excerpt": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Wie das Büro von Ministerpräsident Netanjahu mitteilte, wurden die Sicherheitskräfte aufgefo",
-      "url": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-100.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "url": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-110.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "München - CSU-Generalsekretär Huber plädiert für \"Extremismusklausel\"",
-      "excerpt": "CSU-Generalsekretär Huber sieht seine Partei als Bollwerk gegen radikale Parteien von Links wie von Rechts. Huber sagte im Deutschlandfunk, man müsse sich damit befassen, wie die Ränder zurückgedrängt werden könnten.",
-      "url": "https://www.deutschlandfunk.de/csu-generalsekretaer-huber-plaediert-fuer-extremismusklausel-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "title": "Baden-Württemberg - Landesinnenminister Hagel will Sicherheitsarchitektur reformieren",
+      "excerpt": "Baden-Württembergs Innenminister Hagel hat eine grundlegende Reform der Sicherheitsstrukturen angekündigt.",
+      "url": "https://www.deutschlandfunk.de/landesinnenminister-hagel-will-sicherheitsarchitektur-reformieren-106.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Großaufgebote an Sicherheitskräften - Frankreich und Italien bereiten sich auf mögliche weitere Krawalle vor",
-      "excerpt": "In Frankreich und Italien bereiten sich die Behörden auf mögliche weitere Krawalle am morgigen Samstag vor.",
-      "url": "https://www.deutschlandfunk.de/frankreich-und-italien-bereiten-sich-auf-moegliche-weitere-krawalle-vor-102.html",
-      "publishedAt": "2026-10-23T18:49:04.000Z",
+      "title": "Wetter - In der Westhälfte regnerisch mit Sturmböen, in der Osthälfte leichter Regen",
+      "excerpt": "Der Wetterbericht, die Lage: Ein Sturmtief erfasst vor allem den Nordwesten Deutschlands.",
+      "url": "https://www.deutschlandfunk.de/in-der-westhaelfte-regnerisch-mit-sturmboeen-in-der-osthaelfte-leichter-regen-124.html",
+      "publishedAt": "2026-10-23T19:16:39.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -435,7 +435,7 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
+      "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
       "excerpt": "Aus einem Auto heraus hat ein Mann in mehreren Vororten von Paris Schüsse abgefeuert. Ein Mensch wurde getötet, es gibt mehrere Schwerverletzte. Frankreichs Innenminister Nuñez spricht von einer \"terroristischen Tat\".",
       "url": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
       "publishedAt": "2026-10-23T15:15:56.000Z",
@@ -818,14 +818,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Stuttgart: Linke scheitern mit Antrag gegen Manuel Hagel vor Gericht",
-      "excerpt": "Als »zu schade für eine linke Clan-Bürgermeisterin« hatte CDU-Politiker Hagel die Berliner Polizei bezeichnet. Die Hauptstadt-Linken zogen deshalb gegen den Innenminister Baden-Württembergs vor Gericht – ohne Erfolg.",
-      "url": "https://www.spiegel.de/politik/deutschland/stuttgart-linke-scheitern-mit-antrag-gegen-manuel-hagel-vor-gericht-a-c46ad8e5-93a9-4575-81d7-7898c746c901#ref=rss",
-      "publishedAt": "2026-10-22T09:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
       "excerpt": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte ",
@@ -1095,14 +1087,6 @@
       "excerpt": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig. Über die Details und den Zeitplan gehen die Meinungen aber weiterhin auseinander - auch bei den Fraktionschefs.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
       "publishedAt": "2026-10-19T03:00:16.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
-      "excerpt": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
-      "publishedAt": "2026-10-18T18:32:34.000Z",
       "category": "INNENPOLITIK"
     },
     {
