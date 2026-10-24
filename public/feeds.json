@@ -1,44 +1,12 @@
 {
-  "updatedAt": "2026-10-24T19:29:11.466Z",
+  "updatedAt": "2026-10-24T21:54:31.375Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Vor Koalitionsverhandlungen - Deutsche lehnen Rot-Grün-Rot in Berlin ab!",
-      "excerpt": "Mehrheit gegen Rot-Grün-Rot. Sorgen wegen Antisemitismus und Enteignungsplänen.",
-      "url": "https://www.bild.de/politik/inland/vor-den-koalitionsverhandlungen-deutsche-lehnen-rot-gruen-rot-in-berlin-ab-6adb7033d8be1e987154ec3e",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Eine Million Minen und Lautsprecher-Attacken - Kim-Schwester eskaliert an der Grenze zu Südkorea",
-      "excerpt": "Nordkorea plant neue Propaganda-Lautsprecher und verlegt fast eine Million Minen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nordkorea-propaganda-lautsprecher-und-fast-eine-million-minen-6adca83a247c1fa20130556a",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Exklusiv-Interview - „Wir verhalten uns wie die DDR in den 80ern“",
-      "excerpt": "Richard David Precht warnt: In 20 Jahren könnte die liberale Demokratie enden.",
-      "url": "https://www.bild.de/politik/inland/richard-david-precht-wir-verhalten-uns-aehnlich-wie-die-ddr-in-den-80ern-6adb83d9400ffbb8e251be46",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Fake-Videos gegen Demokraten! - Greift Putin für Trump in die US-Wahlen ein?",
-      "excerpt": "Russische Netzwerke verbreiten vor den Zwischenwahlen gefälschte Videos gegen Demokraten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/greift-putin-fuer-trump-in-die-midterms-in-den-usa-ein-us-wahlen-im-visier-6adb9fe5ea9d017b539b02cc",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neuer Sonntagstrend - Schwarz-Rot legt wieder zu, zwei Partein verlieren",
-      "excerpt": "Union, SPD und Grüne hätten im INSA-Trend eine parlamentarische Mehrheit.",
-      "url": "https://www.bild.de/politik/inland/sonntagstrend-schwarz-rot-legt-ploetzlich-wieder-zu-6adb70099fbb7e8e310dd84b",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "title": "Nach rassistischem Terror-Anschlag - Macron-Patzer am Wut-Samstag empört Franzosen",
+      "excerpt": "In der angespannten Lage vor den Demos leistete sich der Präsident einen Patzer.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/frankreich-macron-patzer-am-wut-samstag-empoert-franzosen-6adcd1ccba080c37bf6d020e",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +14,47 @@
       "title": "Merz beim CSU-Parteitag - „Die Menschen sagen mir: Halten Sie durch!“",
       "excerpt": "Kanzler Merz ignoriert Streit um Ilse Aigner, will sich nicht von miesen Umfragen stoppen lassen",
       "url": "https://www.bild.de/politik/inland/merz-beim-csu-parteitag-die-menschen-sagen-mir-halten-sie-durch-6adc82881e6ef8416da7f414",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vor Koalitionsverhandlungen - Deutsche lehnen Rot-Grün-Rot in Berlin ab!",
+      "excerpt": "Mehrheit gegen Rot-Grün-Rot. Sorgen wegen Antisemitismus und Enteignungsplänen.",
+      "url": "https://www.bild.de/politik/inland/vor-den-koalitionsverhandlungen-deutsche-lehnen-rot-gruen-rot-in-berlin-ab-6adb7033d8be1e987154ec3e",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Eine Million Minen und Lautsprecher-Attacken - Kim-Schwester eskaliert an der Grenze zu Südkorea",
+      "excerpt": "Nordkorea plant neue Propaganda-Lautsprecher und verlegt fast eine Million Minen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/nordkorea-propaganda-lautsprecher-und-fast-eine-million-minen-6adca83a247c1fa20130556a",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiv-Interview - „Wir verhalten uns wie die DDR in den 80ern“",
+      "excerpt": "Richard David Precht warnt: In 20 Jahren könnte die liberale Demokratie enden.",
+      "url": "https://www.bild.de/politik/inland/richard-david-precht-wir-verhalten-uns-aehnlich-wie-die-ddr-in-den-80ern-6adb83d9400ffbb8e251be46",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Fake-Videos gegen Demokraten! - Greift Putin für Trump in die US-Wahlen ein?",
+      "excerpt": "Russische Netzwerke verbreiten vor den Zwischenwahlen gefälschte Videos gegen Demokraten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/greift-putin-fuer-trump-in-die-midterms-in-den-usa-ein-us-wahlen-im-visier-6adb9fe5ea9d017b539b02cc",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neuer Sonntagstrend - Schwarz-Rot legt wieder zu, zwei Partein verlieren",
+      "excerpt": "Union, SPD und Grüne hätten im INSA-Trend eine parlamentarische Mehrheit.",
+      "url": "https://www.bild.de/politik/inland/sonntagstrend-schwarz-rot-legt-ploetzlich-wieder-zu-6adb70099fbb7e8e310dd84b",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +62,7 @@
       "title": "Kein Geld für die Stromsteuer-Senkung? - CDU-Mann legt Klingbeil Milliarden-Sparliste vor",
       "excerpt": "Unions-Haushälter zeigt, wo für die Stromsteuer gespart werden kann.",
       "url": "https://www.bild.de/politik/inland/kein-geld-fuer-die-stromsteuer-senkung-unions-mann-legt-klingbeil-milliarden-sparliste-vor-6adc743eea9d017b539b08d0",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +70,7 @@
       "title": "So nennt ihn Trumps Top-Verhandler - „Menschenfreund“!? Das ist Putins blutige Bilanz",
       "excerpt": "Trumps Gesandter lobt Putin als „Menschenfreund“ – sein Weg ist mit Leichen gepflastert.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/kriegsverbrechen-und-hunderttausende-opfer-menschenfreund-putin-6ad9c6e504a84c3e815fe336",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +78,7 @@
       "title": "„Das ist nicht zufriedenstellend“ - CSU sauer über Mini-Ersparnis bei Grundsicherung",
       "excerpt": "Ist die Grundsicherung ein Flop? Am 1. Juli hat sie das Bürgergeld abgelöst.",
       "url": "https://www.bild.de/politik/inland/csu-enttaeuscht-ueber-schwache-wirkung-der-grundsicherung-6adc6d282fdeb2201fba9510",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +86,7 @@
       "title": "Bundespräsidenten-Kür - Merz steckt in der Aigner-Falle",
       "excerpt": "CSU-Chef Söder wirbt für Aigner als Präsidenten, aber Merz hat andere Interessen",
       "url": "https://www.bild.de/politik/inland/ilse-aigner-soeder-bringt-merz-mit-seinem-vorstoss-ins-bedraengnis-6adc683dea9d017b539b083c",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -86,7 +94,7 @@
       "title": "Ex-Sprecherin Zacharia - Ihr neues Leben nach Trump",
       "excerpt": "Nach fünf Tagen im Trump-Team trainiert Katie Zacharia weiter mit Trump-Kappe.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/katie-zacharia-nach-rausschmiss-von-trump-joggt-sie-gegen-den-frust-6adc7c239fbb7e8e310de336",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -94,7 +102,7 @@
       "title": "Beim CSU-Parteitag - Damit hat Merz nicht gerechnet",
       "excerpt": "Standing Ovations für die 61-jährige Ilse Aigner. Ein deutliches Zeichen, wie viel Rückhalt sie in ihrer Partei hat. Denn die Politi...",
       "url": "https://www.bild.de/politik/inland/beim-csu-parteitag-damit-hat-merz-nicht-gerechnet-6adca963ba080c37bf6cff30",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -102,7 +110,7 @@
       "title": "Spritpreis-Irrsinn in Deutschland - Diese Stadt tankt 20 Cent teurer als München",
       "excerpt": "Rhein-Niedrigwasser kann den Kraftstofftransport verteuern und regionale Preise treiben.",
       "url": "https://www.bild.de/politik/inland/tanken-darum-kostet-sprit-regional-so-unterschiedlich-viel-6adc7e6aea9d017b539b096f",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +118,7 @@
       "title": "Große Show beim CSU-Parteitag - Rocky-Hymne für Merz",
       "excerpt": "Kämpferischer kann ein Kanzler kaum einlaufen: Friedrich Merz betritt beim CSU-Parteitag zu „Eye of the Tiger“ den Saal.",
       "url": "https://www.bild.de/politik/inland/grosse-show-beim-csu-parteitag-rocky-hymne-fuer-merz-6adc86431e6ef8416da7f458",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +126,7 @@
       "title": "Kämpfe in Pipelines - Jetzt verlegt die Ukraine den Krieg unter die Erde",
       "excerpt": "Soldaten rücken bei Kupjansk 15 Kilometer durch alte Gasleitungen vor.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-verlegt-krieg-unter-die-erde-kaempfe-gegen-russland-in-alten-pipelines-6adb06da9fbb7e8e310dcdfd",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +134,7 @@
       "title": "Klingbeils Tabaksteuer-Chaos - Post vom BILD-Anwalt! Minister verweigert Antworten",
       "excerpt": "Experten bezweifeln die Rechtsgrundlage für die ausgesetzte Tabaksteuer.",
       "url": "https://www.bild.de/politik/inland/tabaksteuer-chaos-post-vom-bildanwalt-klingbeil-verweigert-antworten-6adb05039fbb7e8e310dcde5",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -134,15 +142,7 @@
       "title": "Durch Tabaksteuer-Panne - Schwarzmarkt-Vapes plötzlich nicht mehr illegal",
       "excerpt": "Für E-Zigaretten-Liquids fehlt bis 1. Januar 2027 die gesetzliche Tabaksteuer.",
       "url": "https://www.bild.de/politik/inland/tabaksteuer-chaos-unversteuerte-vapes-laut-experten-nicht-illegal-6adb78379fbb7e8e310dd907",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Cyberrisiko „verzehntfacht“! - Banken rüsten sich gegen KI-Angriffe",
-      "excerpt": "Künstliche Intelligenz könnte Onlinebanking und Kartenzahlungen lahmlegen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/angriffe-mit-ki-auf-banken-warum-geldhaeuser-sich-auf-den-ernstfall-ruesten-6adc58adea9d017b539b073e",
-      "publishedAt": "2026-10-24T19:29:11.432Z",
+      "publishedAt": "2026-10-24T21:54:29.963Z",
       "category": "POLITIK"
     },
     {
@@ -150,7 +150,7 @@
       "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
       "excerpt": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nac",
       "url": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,7 +158,7 @@
       "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
       "excerpt": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
       "url": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -166,55 +166,15 @@
       "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
       "excerpt": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und",
       "url": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Jemen - Huthi-Miliz meldet Tote bei Luftangriffen in Sanaa - auf Saudi-Arabien gerichtete ballistische Raketen abgewehrt",
-      "excerpt": "Im Jemen hat es nach Angaben der Huthi-Miliz mehrere Tote bei Luftangriffen gegeben.",
-      "url": "https://www.deutschlandfunk.de/huthi-miliz-meldet-tote-bei-luftangriffen-in-sanaa-auf-saudi-arabien-gerichtete-ballistische-raketen-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn",
-      "excerpt": "In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).",
-      "url": "https://www.deutschlandfunk.de/siege-fuer-dortmund-leipzig-bremen-und-paderborn-102.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Palästinenser fordern Hilfe nach israelischem Armeeeinsatz",
-      "excerpt": "Die palästinensische Autonomiebehörde ruft die internationale Gemeinschaft auf, wegen des Vorgehens israelischer Sicherheitskräfte im besetzten Westjordanland einzugreifen. Der Militäreinsatz stelle eine Kollektivstrafe ",
-      "url": "https://www.deutschlandfunk.de/palaestinenser-fordern-hilfe-nach-israelischem-armeeeinsatz-102.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienpolitik - Kulturstaatsminister Weimer: \"ARD und ZDF müssen sich neu erfinden\"",
-      "excerpt": "Kulturstaatsminister Weimer hat sich für eine grundlegende Reform des öffentlich-rechtlichen Rundfunks ausgesprochen. Beispielsweise könne man überlegen, die ARD nach dem Muster des bereits vor Jahren diskutierten Kleebl",
-      "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-ard-und-zdf-muessen-sich-neu-erfinden-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hunderte Teilnehmer - Proteste an mehreren Flughäfen gegen Abschiebungen",
-      "excerpt": "An einer Reihe von deutschen Flughäfen hat ein Aktionsbündnis gegen Abschiebungen und Abschiebehaft demonstriert.",
-      "url": "https://www.deutschlandfunk.de/proteste-an-mehreren-flughaefen-gegen-abschiebungen-102.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Darmstadt - Georg-Büchner-Preis an Christine Wunnicke überreicht",
-      "excerpt": "Die Autorin Christine Wunnicke hat den Georg-Büchner-Preis erhalten. Die Deutsche Akademie für Sprache und Dichtung überreichte der 60-Jährigen die mit 50.000 Euro dotierte Auszeichnung in Darmstadt.",
-      "url": "https://www.deutschlandfunk.de/georg-buechner-preis-an-christine-wunnicke-ueberreicht-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "title": "Slowakei - Regional- und Kommunalwahlen zu Ende",
+      "excerpt": "In der Slowakei sind Regional- und Kommunalwahlen abgehalten worden.",
+      "url": "https://www.deutschlandfunk.de/regional-und-kommunalwahlen-zu-ende-100.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +182,63 @@
       "title": "Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt",
       "excerpt": "In der kommenden Nacht werden die Uhren wieder eine Stunde zurückgestellt - von 3 auf 2 Uhr. Damit gilt wieder die Mitteleuropäische Zeit.",
       "url": "https://www.deutschlandfunk.de/in-der-nacht-werden-die-uhren-eine-stunde-zurueckgestellt-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn",
+      "excerpt": "In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).",
+      "url": "https://www.deutschlandfunk.de/siege-fuer-dortmund-leipzig-bremen-und-paderborn-102.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jemen - Huthi-Miliz meldet neue Angriffe auf Saudi-Arabien",
+      "excerpt": "Die jemenitische Huthi-Miliz hat nach eigenen Angaben erneut mehrere Angriffe auf Saudi-Arabien durchgeführt.",
+      "url": "https://www.deutschlandfunk.de/huthi-miliz-meldet-neue-angriffe-auf-saudi-arabien-100.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nahost - Palästinenser fordern Hilfe nach israelischem Armeeeinsatz",
+      "excerpt": "Die palästinensische Autonomiebehörde ruft die internationale Gemeinschaft auf, wegen des Vorgehens israelischer Sicherheitskräfte im besetzten Westjordanland einzugreifen. Der Militäreinsatz stelle eine Kollektivstrafe ",
+      "url": "https://www.deutschlandfunk.de/palaestinenser-fordern-hilfe-nach-israelischem-armeeeinsatz-102.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nigeria - Zahlreiche Tote bei Überfall auf ein Dorf",
+      "excerpt": "Bei einem Angriff auf ‌ein Dorf ⁠im Nordosten ⁠Nigerias sind mindestens 40 Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/zahlreiche-tote-bei-ueberfall-auf-ein-dorf-100.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienpolitik - Kulturstaatsminister Weimer: \"ARD und ZDF müssen sich neu erfinden\"",
+      "excerpt": "Kulturstaatsminister Weimer hat sich für eine grundlegende Reform des öffentlich-rechtlichen Rundfunks ausgesprochen. Beispielsweise könne man überlegen, die ARD nach dem Muster des bereits vor Jahren diskutierten Kleebl",
+      "url": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-ard-und-zdf-muessen-sich-neu-erfinden-100.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Hunderte Teilnehmer - Proteste an mehreren Flughäfen gegen Abschiebungen",
+      "excerpt": "An einer Reihe von deutschen Flughäfen hat ein Aktionsbündnis gegen Abschiebungen und Abschiebehaft demonstriert.",
+      "url": "https://www.deutschlandfunk.de/proteste-an-mehreren-flughaefen-gegen-abschiebungen-102.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Darmstadt - Georg-Büchner-Preis an Christine Wunnicke überreicht",
+      "excerpt": "Die Autorin Christine Wunnicke hat den Georg-Büchner-Preis erhalten. Die Deutsche Akademie für Sprache und Dichtung überreichte der 60-Jährigen die mit 50.000 Euro dotierte Auszeichnung in Darmstadt.",
+      "url": "https://www.deutschlandfunk.de/georg-buechner-preis-an-christine-wunnicke-ueberreicht-100.html",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +246,7 @@
       "title": "Parteien - Frankreichs Rechtspopulisten bestätigen Jordan Bardella an Parteispitze",
       "excerpt": "Der Vorsitzende von Frankreichs rechtspopulistischem Rassemblement National, Bardella, ist im Amt bestätigt worden.",
       "url": "https://www.deutschlandfunk.de/frankreichs-rechtspopulisten-bestaetigen-jordan-bardella-an-parteispitze-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,7 @@
       "title": "Medien - Tschechiens Parlament stimmt in erster Lesung für Abschaffung von Rundfunkgebühren",
       "excerpt": "Das tschechische Abgeordnetenhaus hat für die Einführung eines neuen Finanzierungssystems für den öffentlich-rechtlichen Rundfunk gestimmt.",
       "url": "https://www.deutschlandfunk.de/tschechiens-parlament-stimmt-in-erster-lesung-fuer-abschaffung-von-rundfunkgebuehren-102.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +262,7 @@
       "title": "Russischer Angriffskrieg - Starlink-Satellitensystem funktioniert wieder über der Ukraine - Waffenstillstand für Oleschky bestätigt",
       "excerpt": "Die Ukraine hat wieder uneingeschränkten Zugang zum US-Satelliten-Dienst Starlink. Verteidigungsminister Chmara teilte in Kiew mit, die Verbindung sei stabil. Er bestätigte damit Angaben von US-Präsident Trump. Der ukrai",
       "url": "https://www.deutschlandfunk.de/starlink-satellitensystem-funktioniert-wieder-ueber-der-ukraine-waffenstillstand-fuer-oleschky-besta-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,7 +270,7 @@
       "title": "Sozialdemokratie - Juso-Chef Türmer gegen erneute Kandidatur Klingbeils für SPD-Vorsitz",
       "excerpt": "Juso-Chef Türmer hat sich gegen eine erneute Kandidatur des SPD-Vorsitzenden Klingbeil ausgesprochen.",
       "url": "https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -262,7 +278,7 @@
       "title": "Nahost - Israel: Netanjahu erwägt Kryptowährungen gegen mögliche Sanktionen",
       "excerpt": "Israels Ministerpräsident Netanjahu lässt den Einsatz von Kryptowährungen prüfen, um sein Land gegen mögliche Sanktionen zu wappnen.",
       "url": "https://www.deutschlandfunk.de/israel-netanjahu-erwaegt-kryptowaehrungen-gegen-moegliche-sanktionen-100.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -270,23 +286,7 @@
       "title": "Herbststurm \"Luise\" - Sturmtief sorgt für Zugausfälle und Verspätungen bei der Bahn, zwei Schwerverletzte auf Stadtfest",
       "excerpt": "Das Sturmtief \"Luise\" hat im Südwesten und Westen Deutschlands Schäden hinterlassen. In Baden-Württemberg wurden zahlreiche Bäume entwurzelt, wie die Polizei mitteilte. Eine Radfahrerin in Kronau wurde leicht verletzt.",
       "url": "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-zugausfaelle-und-verspaetungen-bei-der-bahn-zwei-schwerverletzte-auf-stadtfest-116.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nahost - Jordanien demonstriert Solidarität mit christlicher Minderheit",
-      "excerpt": "Nach dem Attentat auf eine christliche Gemeinde in Jordanien hat König Abdullah ein hartes Vorgehen gegen die Täter angekündigt.",
-      "url": "https://www.deutschlandfunk.de/jordanien-demonstriert-solidaritaet-mit-christlicher-minderheit-102.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Oppositionspartei in der Kritik - KI-generierte Deepfake-Wahlvideos zeigen vermeintlich Ehefrau von Ministerpräsident Sánchez",
-      "excerpt": "Vor den vorgezogenen Neuwahlen in Spanien haben Deepfake-Videos im Wahlkampf für Diskussionen gesorgt.",
-      "url": "https://www.deutschlandfunk.de/ki-generierte-deepfake-wahlvideos-zeigen-vermeintlich-ehefrau-von-ministerpraesident-s-nchez-104.html",
-      "publishedAt": "2026-10-24T19:20:53.000Z",
+      "publishedAt": "2026-10-24T20:04:34.000Z",
       "category": "NACHRICHTEN"
     },
     {
