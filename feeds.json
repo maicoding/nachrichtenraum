@@ -1,108 +1,12 @@
 {
-  "updatedAt": "2026-10-25T23:16:32.136Z",
+  "updatedAt": "2026-10-26T01:17:09.740Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Parlamentswahlen am Dienstag - Welche Wahl hat Israel?",
-      "excerpt": "Am Dienstag entscheidet Israel, wer wird das Land in Zukunft führen wird.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/parlamentswahlen-am-dienstag-welche-wahl-hat-israel-6adc734c3a1b95ad10b382b4",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kolumne: Geht das nur mir so? - Früher haben wir für Träume gespart, heute aus Angst",
-      "excerpt": "Sparen war eine Tugend. Heute sind die Sparbücher tot wie die Dinosaurier.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kolumne-geht-das-nur-mir-so-frueher-haben-wir-fuer-traeume-gespart-heute-aus-angst-6adca025247c1fa2013054b5",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "4500 neue Jobs in Amerika - Was wird jetzt aus den deutschen Audi-Mitarbeitern?",
-      "excerpt": "Das geplante US-Werk könnte Jobs und Aufträge hierzulande gefährden.",
-      "url": "https://www.bild.de/politik/audi-baut-us-werk-experte-warnt-vor-jobverlusten-in-deutschland-6addd62c51fb647ba7e7c3be",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ihm droht der Machtverlust im Inland - Ex-CIA-Chef: Ein schwacher Trump wird gefährlicher",
-      "excerpt": "Trump könnte nach den Zwischenwahlen machtlos werden. Das hätte außenpolitische Folgen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ex-cia-chef-ein-schwacher-trump-wird-gefaehrlicher-fuer-die-welt-6addfc7fba080c37bf6d0e06",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Es wäre so einfach gewesen - Tabaksteuer! Dieser Check hätte das Fiasko verhindert",
-      "excerpt": "Der BILD-Test zeigt: Die KI hätte den Fehler im Tabaksteuer-Gesetz sofort gefunden.",
-      "url": "https://www.bild.de/politik/inland/tabaksteuer-hat-niemand-diesen-einfachen-check-gemacht-ki-haette-den-fehler-sofort-gefunden-6addd7b3247c1fa2013061da",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Obama verspottet Trump vor jubelnder Menge - „Gold überall!“",
-      "excerpt": "Wahlkampf-Endspurt vor den „Midterms“: Barack Obama (ehemaliger US-Präsident) wettert in Ohio und Michigan gegen seinen Amtsnachfolg...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/obama-verspottet-trump-vor-jubelnder-menge-gold-ueberall-6addf250247c1fa2013063cf",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Vorschlag der Bundesbank - Wer mit 63 in Rente geht, soll weniger Geld bekommen",
-      "excerpt": "Die Bundesbank plant höhere Abschläge: Aus 1000 Euro würden 822 Euro.",
-      "url": "https://www.bild.de/politik/inland/rente-mit-63-bundesbank-schlaegt-hoehere-abschlaege-vor-auf-822-euro-6ad9fe09d6da4afc1480064b",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Verband in Sorge um ambulante Pflege - 50.000 Helfern droht die Entlassung",
-      "excerpt": "Jetzt droht in der Pflege der Kahlschlag.",
-      "url": "https://www.bild.de/politik/inland/verband-in-sorge-um-ambulante-pflege-50-000-helfern-droht-die-entlassung-6adb2972ea9d017b539af89f",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Datenleck entlarvt brisante Mail - Halfen Putin und Hisbollah der AfD nach Syrien?",
-      "excerpt": "Interne Mails entlarven brisante Reisehelfer von AfD-Politikern.",
-      "url": "https://www.bild.de/politik/inland/datenleck-reiste-die-afd-mithilfe-von-putin-und-hisbollah-nach-syrien-6addd709247c1fa2013061d1",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neuer Arbeitsminister Alexander Schweitzer - Renten-Riese oder Reform-Zwerg?",
-      "excerpt": "Nach dem Rücktritt von Bärbel Bas muss er nun bis Jahresende die Rentenreform vorlegen.",
-      "url": "https://www.bild.de/politik/inland/vier-huerden-fuer-den-neuen-arbeitsminister-wird-er-renten-riese-oder-reform-zwerg-6adccf0699c0593a1d6b5ce9",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Innenminister warnt vor Protest-Eskalation am 31. Oktober - „Wir werden mit massiver Polizei präsent sein“",
-      "excerpt": "Protest-Alarm in Deutschland: Für den 31. Oktober sind zahlreiche Demonstrationen angekündigt. Bayerns Innenminister Joachim Herrman...",
-      "url": "https://www.bild.de/politik/inland/innenminister-warnt-vor-protest-eskalation-am-31-oktober-wir-werden-mit-massiver-polizei-praesent-sein-6addd710a6a5d701acbce9a2",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BSI warnt nach PHP-Crash - „Die Angriffe werden schneller und heftiger“",
-      "excerpt": "KI könnte Hackern ermöglichen, neue Sicherheitslücken binnen Stunden auszunutzen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bsi-warnt-nach-php-crash-die-angriffe-werden-schneller-und-heftiger-6adb3600400ffbb8e251b5ed",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Tschechien will Finanzierung ändern - Proteste gegen Abschaffung der Rundfunkgebühren",
-      "excerpt": "Tschechiens Parlament billigt staatliche Finanzierung von Radio und Fernsehen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/tschechien-proteste-gegen-abschaffung-der-rundfunkgebuehren-6adda170ba080c37bf6d07c4",
-      "publishedAt": "2026-10-25T23:16:32.132Z",
+      "title": "Bolsonaro-Sohn verliert - Ergebnis da! Lula bleibt Präsident in Brasilien",
+      "excerpt": "Das Kopf-an-Kopf-Rennen um die Präsidentschaft in Brasilien ist entschieden!",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/brasilien-lula-bleibt-praesident-6ade9b45ba080c37bf6d165a",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
     },
     {
@@ -110,7 +14,7 @@
       "title": "Studenten-Bewegung gewinnt - Putin-Freund Vučić verliert Serbien-Wahl",
       "excerpt": "Aleksandar Vučić räumt seine Niederlage ein – Serbien steht vor einem Machtwechsel.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/studenten-bewegung-gewinnt-putin-freund-vucic-verliert-serbien-wahl-6ade6aabba080c37bf6d14ff",
-      "publishedAt": "2026-10-25T23:16:32.131Z",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
     },
     {
@@ -118,7 +22,7 @@
       "title": "Radikalisierung durch das Netz - Drei Minuten schützen Ihr Kind",
       "excerpt": "Soziale Medien prägen politische Ansichten junger Menschen und fördern Radikalisierung.",
       "url": "https://www.bild.de/politik/inland/jugendliche-und-tiktok-wie-radikalisierung-im-netz-beginnt-6abbdb792660ba1a21b06ba2",
-      "publishedAt": "2026-10-25T23:16:32.131Z",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +30,7 @@
       "title": "Zwei Tage vor der Wahl - Netanjahu postet Foto von Atompilz über Israel",
       "excerpt": "Israels Regierungschef warnt vor verheerenden Folgen bei einem Sieg der Opposition.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/benjamin-netanjahu-warnung-vor-zweitem-holocaust-vor-der-wahl-6ade29be247c1fa2013067c6",
-      "publishedAt": "2026-10-25T23:16:32.131Z",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +38,7 @@
       "title": "Nach vereiteltem Mordplan - Plötzlich drohen die Mullahs der Bundeswehr!",
       "excerpt": "Obwohl wir uns nicht am Iran-Krieg beteiligen, drohen die Mullahs jetzt auch Deutschland!",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wegen-vereiteltem-mordplan-ploetzlich-drohen-die-mullahs-der-bundeswehr-6ade3515a6a5d701acbcf17c",
-      "publishedAt": "2026-10-25T23:16:32.131Z",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
     },
     {
@@ -142,79 +46,175 @@
       "title": "Wahlen in Israel - Schlägt dieser Ex-Militärchef Bibi Netanjahu?",
       "excerpt": "Eisenkot ist der aussichtsreichste Herausforderer Netanjahus bei der Parlamentswahl.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wahlen-in-israel-schlaegt-dieser-ex-militaerchef-bibi-netanjahu-6adb7782ea9d017b539b00ac",
-      "publishedAt": "2026-10-25T23:16:32.131Z",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
       "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Parlamentswahlen am Dienstag - Welche Wahl hat Israel?",
+      "excerpt": "Am Dienstag entscheidet Israel, wer wird das Land in Zukunft führen wird.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/parlamentswahlen-am-dienstag-welche-wahl-hat-israel-6adc734c3a1b95ad10b382b4",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Kolumne: Geht das nur mir so? - Früher haben wir für Träume gespart, heute aus Angst",
+      "excerpt": "Sparen war eine Tugend. Heute sind die Sparbücher tot wie die Dinosaurier.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kolumne-geht-das-nur-mir-so-frueher-haben-wir-fuer-traeume-gespart-heute-aus-angst-6adca025247c1fa2013054b5",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "4500 neue Jobs in Amerika - Was wird jetzt aus den deutschen Audi-Mitarbeitern?",
+      "excerpt": "Das geplante US-Werk könnte Jobs und Aufträge hierzulande gefährden.",
+      "url": "https://www.bild.de/politik/audi-baut-us-werk-experte-warnt-vor-jobverlusten-in-deutschland-6addd62c51fb647ba7e7c3be",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ihm droht der Machtverlust im Inland - Ex-CIA-Chef: Ein schwacher Trump wird gefährlicher",
+      "excerpt": "Trump könnte nach den Zwischenwahlen machtlos werden. Das hätte außenpolitische Folgen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ex-cia-chef-ein-schwacher-trump-wird-gefaehrlicher-fuer-die-welt-6addfc7fba080c37bf6d0e06",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Es wäre so einfach gewesen - Tabaksteuer! Dieser Check hätte das Fiasko verhindert",
+      "excerpt": "Der BILD-Test zeigt: Die KI hätte den Fehler im Tabaksteuer-Gesetz sofort gefunden.",
+      "url": "https://www.bild.de/politik/inland/tabaksteuer-hat-niemand-diesen-einfachen-check-gemacht-ki-haette-den-fehler-sofort-gefunden-6addd7b3247c1fa2013061da",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Obama verspottet Trump vor jubelnder Menge - „Gold überall!“",
+      "excerpt": "Wahlkampf-Endspurt vor den „Midterms“: Barack Obama (ehemaliger US-Präsident) wettert in Ohio und Michigan gegen seinen Amtsnachfolg...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/obama-verspottet-trump-vor-jubelnder-menge-gold-ueberall-6addf250247c1fa2013063cf",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Vorschlag der Bundesbank - Wer mit 63 in Rente geht, soll weniger Geld bekommen",
+      "excerpt": "Die Bundesbank plant höhere Abschläge: Aus 1000 Euro würden 822 Euro.",
+      "url": "https://www.bild.de/politik/inland/rente-mit-63-bundesbank-schlaegt-hoehere-abschlaege-vor-auf-822-euro-6ad9fe09d6da4afc1480064b",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Verband in Sorge um ambulante Pflege - 50.000 Helfern droht die Entlassung",
+      "excerpt": "Jetzt droht in der Pflege der Kahlschlag.",
+      "url": "https://www.bild.de/politik/inland/verband-in-sorge-um-ambulante-pflege-50-000-helfern-droht-die-entlassung-6adb2972ea9d017b539af89f",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Datenleck entlarvt brisante Mail - Halfen Putin und Hisbollah der AfD nach Syrien?",
+      "excerpt": "Interne Mails entlarven brisante Reisehelfer von AfD-Politikern.",
+      "url": "https://www.bild.de/politik/inland/datenleck-reiste-die-afd-mithilfe-von-putin-und-hisbollah-nach-syrien-6addd709247c1fa2013061d1",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neuer Arbeitsminister Alexander Schweitzer - Renten-Riese oder Reform-Zwerg?",
+      "excerpt": "Nach dem Rücktritt von Bärbel Bas muss er nun bis Jahresende die Rentenreform vorlegen.",
+      "url": "https://www.bild.de/politik/inland/vier-huerden-fuer-den-neuen-arbeitsminister-wird-er-renten-riese-oder-reform-zwerg-6adccf0699c0593a1d6b5ce9",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Innenminister warnt vor Protest-Eskalation am 31. Oktober - „Wir werden mit massiver Polizei präsent sein“",
+      "excerpt": "Protest-Alarm in Deutschland: Für den 31. Oktober sind zahlreiche Demonstrationen angekündigt. Bayerns Innenminister Joachim Herrman...",
+      "url": "https://www.bild.de/politik/inland/innenminister-warnt-vor-protest-eskalation-am-31-oktober-wir-werden-mit-massiver-polizei-praesent-sein-6addd710a6a5d701acbce9a2",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BSI warnt nach PHP-Crash - „Die Angriffe werden schneller und heftiger“",
+      "excerpt": "KI könnte Hackern ermöglichen, neue Sicherheitslücken binnen Stunden auszunutzen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bsi-warnt-nach-php-crash-die-angriffe-werden-schneller-und-heftiger-6adb3600400ffbb8e251b5ed",
+      "publishedAt": "2026-10-26T01:17:09.690Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "excerpt": "Der linksgerichtete Staatschef Lula da Silva hat die Präsidentschaftswahl in Brasilien gewonnen. Der 80-Jährige setzte sich gegen den rechtsgerichteten Kandidaten Flávio Bolsonaro durch, wie das Oberste Wahlgericht mitte",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "publishedAt": "2026-10-26T01:12:14.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "SPD - \"Wahlkampfhilfe für Autokraten\": Vorwürfe gegen VW nach Audi-Chef-Auftritt bei Trump",
+      "excerpt": "Der Auftritt des Vorstandschefs der VW-Tochter Audi, Döllner, im Wahlkampf von US-Präsident Trump ist auf Kritik gestoßen. Es sei eine Schande, insbesondere in Anbetracht der Geschichte des VW-Konzerns, erklärte die SPD-",
+      "url": "https://www.deutschlandfunk.de/wahlkampfhilfe-fuer-autokraten-vorwuerfe-gegen-vw-nach-audi-chef-auftritt-bei-trump-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Luise\" und \"Manja\" - Schäden und Verletzte bei Herbststürmen - Kreuzfahrtschiff stößt mit Frachter zusammen",
+      "excerpt": "Herbststürme haben in Deutschland und anderen Ländern Westeuropas Schäden hinterlassen.",
+      "url": "https://www.deutschlandfunk.de/schaeden-und-verletzte-bei-herbststuermen-kreuzfahrtschiff-stoesst-mit-frachter-zusammen-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kehrtwende - Berichte über AfD-Leaks: Interne Mails belegen Weidels Abkehr von Distanzierung zum rechten Flügel",
+      "excerpt": "In der Diskussion um die politische Ausrichtung der AfD ist interne Kommunikation veröffentlicht worden, die im Gegensatz zum heutigen Auftreten der Parteispitze steht.",
+      "url": "https://www.deutschlandfunk.de/berichte-ueber-afd-leaks-interne-mails-belegen-weidels-abkehr-von-distanzierung-zum-rechten-fluegel-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Parlamentswahl - Serbien steht vor einem Machtwechsel - Vucic räumt Niederlage ein",
       "excerpt": "Serbien steht nach der Parlamentswahl vor einem Machtwechsel. Der ehemalige Staatspräsident Vucic räumte die Niederlage seiner Partei gegen die sogenannte Studentenliste ein. Das neue Bündnis mit ihrem Spitzenkandidaten ",
       "url": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Südamerika - Stichwahl um Präsidentschaftsamt: Auszählung hat begonnen",
-      "excerpt": "In Brasilien hat die Auszählung der Stichwahl um das Präsidentenamt begonnen.",
-      "url": "https://www.deutschlandfunk.de/stichwahl-um-praesidentschaftsamt-auszaehlung-hat-begonnen-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "NDR - Fernsehansagerin Hanni Vanhaiden mit 88 Jahren gestorben",
+      "excerpt": "Die frühere NDR-Fernsehansagerin Hanni Vanhaiden ist tot.",
+      "url": "https://www.deutschlandfunk.de/fernsehansagerin-hanni-vanhaiden-mit-88-jahren-gestorben-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Frankreich - Le Pen eröffnet den Präsidentschaftswahlkampf - \"Ordnung und nationales Selbstvertrauen\"",
-      "excerpt": "In Frankreich hat der rechtsnationale Rassemblement National den Präsidentschaftswahlkampf eröffnet.",
-      "url": "https://www.deutschlandfunk.de/le-pen-eroeffnet-den-praesidentschaftswahlkampf-ordnung-und-nationales-selbstvertrauen-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "Essen - 230.000 Besucher: Brettspiele-Messe endet ausverkauft",
+      "excerpt": "In Essen ist die viertägige Brettspielmesse \"Spiel\" mit 230.000 Besuchern zu Ende gegangen.",
+      "url": "https://www.deutschlandfunk.de/230-000-besucher-brettspiele-messe-endet-ausverkauft-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ukraine-Hilfen - Europäische Unterstützer der Ukraine beraten in Paris",
-      "excerpt": "Die Verteidigungsminister der fünf militärisch stärksten europäischen NATO-Mitglieder kommen am Vormittag in Paris zu Beratungen zusammen.",
-      "url": "https://www.deutschlandfunk.de/europaeische-unterstuetzer-der-ukraine-beraten-in-paris-100.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "Chancengleichheit - Signal gegen Stadt-Land-Gefälle: Sachsen stärkt Erwachsenenbildung im ländlichen Raum",
+      "excerpt": "Als Signal gegen das Stadt-Land-Gefälle stärkt Sachsen die Bildung im ländlichen Raum mit rund einer Million Euro.",
+      "url": "https://www.deutschlandfunk.de/signal-gegen-stadt-land-gefaelle-sachsen-staerkt-erwachsenenbildung-im-laendlichen-raum-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Sturm \"Manja\" - Kollision im Hafen von Bremerhaven, Frachtschiff vor niederländischer Küste manövrierunfähig",
-      "excerpt": "In Bremerhaven ist bei stürmischem Wetter ein Kreuzfahrtschiff mit zwei Containerschiffen kollidiert.",
-      "url": "https://www.deutschlandfunk.de/kollision-im-hafen-von-bremerhaven-frachtschiff-vor-niederlaendischer-kueste-manoevrierunfaehig-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden - Auftritt von Audi-Chef verstößt gegen eigene Richtlinien",
-      "excerpt": "Der Auftritt von Audi-Vorstandschef Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump verstößt nach Medienangaben gegen Richtlinien des Autokonzerns. Dort hatte Döllner den Bau eines neuen Audiwerks in den ",
-      "url": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "US-Kongresswahlen - Auf welche jüngeren Köpfe die Demokraten setzen",
-      "excerpt": "Bei den US-Kongresswahlen am 3. November treten für die Demokratische Partei einige prominente jüngere Köpfe an. Sie symbolisieren den Generationswechsel in der Partei, den Anhänger nach der verlorenen Präsidentschaftswa",
-      "url": "https://www.deutschlandfunk.de/auf-welche-juengeren-koepfe-die-demokraten-setzen-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Exil - Oppositionsführerin Machado soll zurück in Venezuela sein",
-      "excerpt": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela soll die Friedensnobelpreisträgerin María Corina Machado in ihr Heimatland zurückgekehrt sein. \"Ich bin hier. Bei euch\", schrieb Machado in Online-Medien. Auc",
-      "url": "https://www.deutschlandfunk.de/oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Selenskyj hofft auf Fortschritte bei Verhandlungen",
-      "excerpt": "Der ukrainische Präsident Selenskyj erwartet von den neuen Friedensgesprächen im November diplomatische Fortschritte.",
-      "url": "https://www.deutschlandfunk.de/selenskyj-hofft-auf-fortschritte-bei-verhandlungen-106.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "Parteivorsitz - Juso-Chef Türmer regt Ende der Doppelspitze zugunsten einer Frau als alleiniger SPD-Chefin an",
+      "excerpt": "Juso-Chef Türmer hat ein Ende der Doppelspitze bei der SPD zugunsten einer Frau als Parteichefin angeregt.",
+      "url": "https://www.deutschlandfunk.de/juso-chef-tuermer-regt-ende-der-doppelspitze-zugunsten-einer-frau-als-alleiniger-spd-chefin-an-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +222,7 @@
       "title": "Entlastungen - Union und SPD diskutieren weiter über Stromsteuer - unterschiedliche Vorschläge von Kretschmer und Bovenschulte",
       "excerpt": "Union und SPD diskutieren weiter über mögliche Wege, um eine Senkung der Stromsteuer zu finanzieren.",
       "url": "https://www.deutschlandfunk.de/union-und-spd-diskutieren-weiter-ueber-stromsteuer-unterschiedliche-vorschlaege-von-kretschmer-und-b-104.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,7 +230,23 @@
       "title": "\"Investitionsschutzgesetz\" - Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen",
       "excerpt": "Bundesinnenminister Dobrindt hat Eckpunkte für ein neues Investitionsschutzgesetz vorgelegt, das die Hürden für die Vergesellschaftung großer Wohnungsbestände deutlich erhöhen soll. Sein Ministerium bestätigte mehreren N",
       "url": "https://www.deutschlandfunk.de/innenminister-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-von-wohnungen-114.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Präsidentschaft - Stichwahl entscheidet über Staatsoberhaupt in Bulgarien",
+      "excerpt": "In Bulgarien kommt es zur Stichwahl für das Präsidentenamt.",
+      "url": "https://www.deutschlandfunk.de/stichwahl-entscheidet-ueber-staatsoberhaupt-in-bulgarien-100.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Frankreich - Le Pen eröffnet den Präsidentschaftswahlkampf - \"Ordnung und nationales Selbstvertrauen\"",
+      "excerpt": "In Frankreich hat der rechtsnationale Rassemblement National den Präsidentschaftswahlkampf eröffnet.",
+      "url": "https://www.deutschlandfunk.de/le-pen-eroeffnet-den-praesidentschaftswahlkampf-ordnung-und-nationales-selbstvertrauen-102.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,7 +254,7 @@
       "title": "Tschechien - Demonstrationen in Prag gegen geplante Abschaffung von Rundfunkgebühren",
       "excerpt": "In Tschechien haben Tausende Menschen gegen die Abschaffung von Rundfunkgebühren demonstriert.",
       "url": "https://www.deutschlandfunk.de/demonstrationen-in-prag-gegen-geplante-abschaffung-von-rundfunkgebuehren-104.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -246,7 +262,7 @@
       "title": "Nahost - Kliniken melden sieben Tote bei israelischen Angriffen im Gazastreifen - Israels Militär verhängt neue Beschränkungen im Westjordanland",
       "excerpt": "Bei erneuten israelischen Angriffen sollen im Gazastreifen nach örtlichen Angaben mindestens sieben Menschen getötet worden sein.",
       "url": "https://www.deutschlandfunk.de/kliniken-melden-sieben-tote-bei-israelischen-angriffen-im-gazastreifen-israels-militaer-verhaengt-ne-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,40 +270,48 @@
       "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
       "excerpt": "Wenige Tage vor den Zwischenwahlen in den USA hat sich der ehemalige Präsident Obama in den Wahlkampf eingeschaltet - mit ⁠scharfer Kritik an ⁠seinem Nachfolger Donald Trump. Bei Auftritten in Cleveland und Detroit warf ",
       "url": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ehrung - \"Mutmacher, die zeigen, wie es positiv vorangehen kann\": Umweltpreis für Juristin und Ingenieur",
-      "excerpt": "Die Hamburger Umweltjuristin Roda Verheyen und der Ingenieur Klaus Vossenkaul haben den Deutschen Umweltpreis der Deutschen Bundesstiftung Umwelt erhalten.",
-      "url": "https://www.deutschlandfunk.de/mutmacher-die-zeigen-wie-es-positiv-vorangehen-kann-umweltpreis-fuer-juristin-und-ingenieur-102.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "US-Kongresswahlen - Auf welche jüngeren Köpfe die Demokraten setzen",
+      "excerpt": "Bei den US-Kongresswahlen am 3. November treten für die Demokratische Partei einige prominente jüngere Köpfe an. Sie symbolisieren den Generationswechsel in der Partei, den Anhänger nach der verlorenen Präsidentschaftswa",
+      "url": "https://www.deutschlandfunk.de/auf-welche-juengeren-koepfe-die-demokraten-setzen-102.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Fußball-Bundesliga - FC Bayern siegt in Freiburg - Hoffenheim stoppt Leverkusen",
-      "excerpt": "Trotz des Schocks um Vincent Kompany bleibt der FC Bayern München in der Fußball-Bundesliga auch nach dem siebten Spieltag an der Tabellenspitze. Im ersten Spiel nach dem Zusammenbruch seines Cheftrainers siegten die Mün",
-      "url": "https://www.deutschlandfunk.de/fc-bayern-siegt-in-freiburg-hoffenheim-stoppt-leverkusen-106.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "Nach Exil - Oppositionsführerin Machado soll zurück in Venezuela sein",
+      "excerpt": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela soll die Friedensnobelpreisträgerin María Corina Machado in ihr Heimatland zurückgekehrt sein. \"Ich bin hier. Bei euch\", schrieb Machado in Online-Medien. Auc",
+      "url": "https://www.deutschlandfunk.de/oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein-102.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Formel 1 - Antonelli siegt in Austin und steht vor kurz vor Weltmeister-Titel",
-      "excerpt": "Der italienische Formel-1-Pilot Kimi Antonelli hat den Großen der Preis der USA gewonnen. Der Mercedes-Fahrer gewann in Austin vor Charles Leclerc aus Monaco und dem Niederländer Max Verstappen. Antonelli fehlen noch zwe",
-      "url": "https://www.deutschlandfunk.de/antonelli-siegt-in-austin-und-steht-vor-kurz-vor-weltmeister-titel-106.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
+      "title": "Ukraine-Krieg - Selenskyj hofft auf Fortschritte bei Verhandlungen",
+      "excerpt": "Der ukrainische Präsident Selenskyj erwartet von den neuen Friedensgesprächen im November diplomatische Fortschritte.",
+      "url": "https://www.deutschlandfunk.de/selenskyj-hofft-auf-fortschritte-bei-verhandlungen-106.html",
+      "publishedAt": "2026-10-26T01:05:30.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Wetter - Nachlassender Regen - am Tag bis 16 Grad",
-      "excerpt": "Das Wetter: In der Nacht unterschiedlich bewölkt, noch einzelne Schauer, vor allem in Küstennähe und an den Alpen. 10 bis 2 Grad. Morgen bewölkt, im Norden und Nordosten noch vereinzelt Regen. 10 bis 16 Grad.",
-      "url": "https://www.deutschlandfunk.de/nachlassender-regen-am-tag-bis-16-grad-110.html",
-      "publishedAt": "2026-10-25T22:54:41.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Stichwahl in Brasilien: Lula schlägt Bolsonaro Junior",
+      "excerpt": "Brasiliens linker Präsident Lula gewinnt gegen Flávio Bolsonaro und trotzt dem Rechtsruck in Lateinamerika. Der Wahlabend verlief chaotisch. mehr...",
+      "url": "https://taz.de/Stichwahl-in-Brasilien/!6224962/",
+      "publishedAt": "2026-10-26T00:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Proteste in Deutschland: Union und SPD warnen vor möglichen Ausschreitungen",
+      "excerpt": "Für den 31. Oktober ruft eine Initiative zu Demonstrationen in zahlreichen deutschen Städten auf. In der Union sorgt man sich, dass die Proteste unter anderem von »linksextremen Kräften« vereinnahmt werden könnten.",
+      "url": "https://www.spiegel.de/politik/proteste-in-deutschland-union-und-spd-warnen-vor-moeglichen-ausschreitungen-a-7fb1e9d7-375c-4a03-8cbe-737a3ec6870d#ref=rss",
+      "publishedAt": "2026-10-26T00:09:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -403,7 +427,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Sachsen-Anhalt: Wahl zum Ministerpräsidenten wird Bewährungsprobe für Kanzler",
+      "title": "Sachsen-Anhalt: Wahl zum Ministerpräsidenten wird Bewährungsprobe für Friedrich Merz",
       "excerpt": "Friedrich Merz macht eine klare Ansage: Wer für die AfD die Hand hebt, soll die CDU verlassen. Doch die Wahl zum Ministerpräsidenten in Sachsen-Anhalt stellt den Kanzler auf die Probe. Soll er eingreifen oder abwarten?",
       "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-zum-ministerpraesidenten-wird-bewaehrungsprobe-fuer-kanzler-a-c1f27362-4de4-4fa0-a99b-00ab04af605f#ref=rss",
       "publishedAt": "2026-10-25T17:58:00.000Z",
@@ -451,14 +475,6 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Kurz vor den Wahlen in Israel: Netanjahu setzt im Wahlkampf nochmal einen drauf",
-      "excerpt": "Am Dienstag wählt Israel ein neues Parlament; der Premier macht mit Aussagen zu Sanktionen Furore. In Hebron verlieren derweil Palästinenser den Zugang zu ihren Häusern. mehr...",
-      "url": "https://taz.de/Kurz-vor-den-Wahlen-in-Israel/!6224942/",
-      "publishedAt": "2026-10-25T16:01:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
       "title": "Neue AfD-Fraktion in Berlin: Völkische Imagepflege",
       "excerpt": "Die neue AfD-Fraktion im Abgeordnetenhaus ist deutlich größer als zuvor. Aufstrebende, stramm rechte Jungpolitiker besetzen künftig Schlüsselposten. mehr...",
       "url": "https://taz.de/Neue-AfD-Fraktion-in-Berlin/!6223364/",
@@ -467,7 +483,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Nach Berlin-Wahl: Alexander Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "title": "Berlin-Wahl: Alexander Dobrindt plant hohe Hürden für Vergesellschaftungen",
       "excerpt": "Bundesinnenminister Alexander Dobrindt will Enteignungen, wie sie in Berlin geplant sind, per Gesetz erschweren. Die Linke hält das für rechtswidrig.",
       "url": "https://www.spiegel.de/politik/deutschland/nach-berlin-wahl-alexander-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-a-9d5feeea-5988-47e5-87c8-d4328a60cb98#ref=rss",
       "publishedAt": "2026-10-25T15:32:00.000Z",
@@ -608,14 +624,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss",
       "publishedAt": "2026-10-24T15:05:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-      "excerpt": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-      "publishedAt": "2026-10-24T13:47:08.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -856,14 +864,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
       "publishedAt": "2026-10-23T10:04:33.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "AfD-Datenleck: E-Mails belasten Alice Weidel",
-      "excerpt": "In der Affäre um illegale Wahlkampfspenden aus der Schweiz hat AfD-Chefin Alice Weidel nach SPIEGEL-Recherchen wohl Öffentlichkeit und Partei getäuscht. Das legen geleakte Mails nahe. Demnach wusste Weidel früher von Zah",
-      "url": "https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss",
-      "publishedAt": "2026-10-23T08:36:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
