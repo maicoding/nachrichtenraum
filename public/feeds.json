@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-10-28T11:39:40.006Z",
+  "updatedAt": "2026-10-28T17:24:15.326Z",
   "messages": [
     {
+      "source": "TAZ.DE",
+      "title": "Vergewaltigungsprozess in Berlin: „Kaum zu begreifen“",
+      "excerpt": "12 Jahre und Sicherungsverwahrung – so lautet das Urteil im Fall Frank S. Doch wann können 44 verbleibende Geschädigte mit Gerechtigkeit rechnen? mehr...",
+      "url": "https://taz.de/Vergewaltigungsprozess-in-Berlin/!6223395/",
+      "publishedAt": "2026-10-28T17:30:00.000Z",
+      "category": "POLITIK"
+    },
+    {
       "source": "BILD.DE",
-      "title": "Wahlkrimi spitzt sich zu - Wird ein Araber jetzt zu Israels Königsmacher?",
-      "excerpt": "Der Wahlkrimi in Israel geht weiter. Trotz Wechselstimmung liegt der Block von Benjamin Netanjahu wieder vorn. Doch für eine Mehrhei...",
-      "url": "https://www.bild.de/politik/wahlkrimi-spitzt-sich-zu-wird-ein-araber-jetzt-zu-israels-koenigsmacher-6ae1c6dad1f524f7ccaa9126",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "title": "Sollen Anschlag geplant haben - Zwei mutmaßliche Putin-Agenten in Bayern verhaftet",
+      "excerpt": "Belarussen sollen Anschläge auf Bahn und Stromtrasse bei Nürnberg geplant haben.",
+      "url": "https://www.bild.de/politik/inland/sabotage-in-bayern-zwei-belarussen-wegen-anschlagsplans-in-u-haft-6ae21c43d1f524f7ccaa9a02",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Behörden ahnungslos! - Darum bekommen kriminelle Ausländer weiter Stütze",
+      "excerpt": "2025 wurden 107.510 Menschen per Haftbefehl gesucht, darunter 68.009 ohne deutschen Pass.",
+      "url": "https://www.bild.de/politik/behoerden-ahnungslos-darum-bekommen-kriminelle-auslaender-weiter-stuetze-6ae1c996d1f524f7ccaa9183",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "CDU-Wirtschaftsrat - Renten-Brandbrief an neuen Arbeitsminister!",
+      "excerpt": "CDU-Wirtschaftsrat fordert von Alexander Schweitzer das Ende der Rente mit 63.",
+      "url": "https://www.bild.de/politik/inland/rente-mit-63-cdu-wirtschaftsrat-fordert-schweitzer-zur-abschaffung-auf-6ae0b8e067fc5d0d0ce67726",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sorge vor Gewalt bei bundesweiten Protesten - BILD-Reporter fragt nach Krawall-Gefahr in Berlin",
+      "excerpt": "BILD-Reporter Michael Engelberg berichtet aus Berlin: Am Samstag werden große Proteste erwartet. 1.500 Polizisten sollen mögliche Au...",
+      "url": "https://www.bild.de/politik/sorge-vor-gewalt-bei-bundesweiten-protesten-bild-reporter-fragt-nach-krawall-gefahr-in-berlin-6ae1fb1d21fd087fed7ed655",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Landrat greift durch - Arbeitspflicht für ALLE Stütze-Empfänger",
+      "excerpt": "Kreis Nordhausen streicht jetzt auch älteren Job-Verweigerern das Geld vom Amt.",
+      "url": "https://www.bild.de/politik/inland/spd-landrat-verschaerft-arbeitspflicht-fuer-alle-buergergeld-empfaenger-6ae1f152e1acc6033d3aeb64",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geldwäsche-Alarm - Klingbeil will mehr Zugriff auf Konten und Bürgerdaten",
+      "excerpt": "Neue Geldwäsche-Regeln erlauben schnelle Kontosperren sowie schärfere Firmenprüfungen.",
+      "url": "https://www.bild.de/politik/inland/geldwaesche-klingbeil-will-schnellere-kontosperren-und-mehr-daten-6ae1f7e421fd087fed7ed5c4",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Offenes Bekenntnis - Franca Lehfeldt über Lindners Politik-Aus",
+      "excerpt": "Die Ehefrau des Ex-FDP-Chefs schildert die Belastung durch seinen Politikeralltag.",
+      "url": "https://www.bild.de/politik/inland/franca-lehfeldt-spricht-ueber-christian-lindners-politik-aus-6ae20b3de1acc6033d3aee92",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +70,63 @@
       "title": "Eidesstattliche Versicherung - Strafanzeige und Rücktrittsforderung gegen CDU-Schulze",
       "excerpt": "In der CDU-Fraktion wurde eine eidesstattliche Erklärung zum Wahlverhalten diskutiert.",
       "url": "https://www.bild.de/politik/inland/sven-schulze-soll-cdu-abgeordnete-zur-wahl-erklaerung-gedraengt-haben-6ae1badcd1f524f7ccaa8f90",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hier landet Bolsonaro in Miami - Flucht in die USA!",
+      "excerpt": "Brasiliens unterlegener Präsidentschaftskandidat Flávio landet in Miami.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/flavio-bolsonaro-unterlegener-kandidat-landet-mit-familie-in-miami-6ae200d4d1f524f7ccaa9718",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Erstmals seit der Einführung - Elterngeld soll steigen",
+      "excerpt": "Geplant sind ein Mindestsatz von 330 und ein Höchstsatz von 1900 Euro.",
+      "url": "https://www.bild.de/politik/erstmals-seit-der-einfuehrung-elterngeld-soll-steigen-6ae1f2888f0a4dd417a5ee98",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahlkrimi spitzt sich zu - Wird ein Araber jetzt zu Israels Königsmacher?",
+      "excerpt": "Der Wahlkrimi in Israel geht weiter. Trotz Wechselstimmung liegt der Block von Benjamin Netanjahu wieder vorn. Doch für eine Mehrhei...",
+      "url": "https://www.bild.de/politik/wahlkrimi-spitzt-sich-zu-wird-ein-araber-jetzt-zu-israels-koenigsmacher-6ae1c6dad1f524f7ccaa9126",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Exklusiv! - 40 kriminelle Afghanen abgeschoben",
+      "excerpt": "40 afghanische Straftäter sind jetzt raus aus Deutschland.",
+      "url": "https://www.bild.de/politik/inland/afghanistan-abschiebung-40-straftaeter-in-kabul-gelandet-6ae1d0ea8f0a4dd417a5eac5",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Geheimer Trump-Deal hinter Audi-Eklat!",
+      "excerpt": "VW-Kontrolleure kannten die Bedingungen für einen US-Werksbau und billigten den Auftritt.",
+      "url": "https://www.bild.de/politik/audi-aufsichtsraete-segneten-wahlkampfauftritt-bei-trump-ab-6ae1e5df8f0a4dd417a5ed33",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Erfolgsautorin überlastet - Juli Zeh schmeißt am Verfassungsgericht hin",
+      "excerpt": "Die Schriftstellerin beendet ihr Ehrenamt in Brandenburg wegen hoher Arbeitsbelastung.",
+      "url": "https://www.bild.de/politik/inland/juli-zeh-beendet-vorzeitig-amt-als-verfassungsrichterin-6ae1ddcf8f0a4dd417a5ec71",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisante Umfrage - Bürokratie-Schock für Merz!",
+      "excerpt": "98 Prozent der Firmen klagen über die Bürokratie und spüren keine Verbesserung.",
+      "url": "https://www.bild.de/politik/inland/buerokratie-53-prozent-der-firmen-spueren-mehr-belastungen-6ae069c3606708eb0870c1c5",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +134,7 @@
       "title": "Machen Sie mit BILD den Check! - Kommt Ihre Heimat fürs Atommüll-Endlager infrage?",
       "excerpt": "Die BGE sucht in weniger als fünf Prozent Deutschlands nach einem sicheren Standort.",
       "url": "https://www.bild.de/politik/inland/machen-sie-mit-bild-den-check-kommt-ihre-heimat-fuers-atommuell-endlager-infrage-6ae07856dcd605c8d4cea204",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
       "category": "POLITIK"
     },
     {
@@ -30,15 +142,7 @@
       "title": "Überlebenskampf in Straße des Todes - Putin hungert Stadt aus",
       "excerpt": "In Oleschky im Süden der Ukraine gilt nun die Waffenruhe.",
       "url": "https://www.bild.de/politik/ueberlebenskampf-in-strasse-des-todes-putin-hungert-stadt-aus-6ae0b7c467fc5d0d0ce6770b",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Brisante Umfrage - Bürokratie-Schock für Merz! Jeder zweite Firma heute schlechter",
-      "excerpt": "98 Prozent der Firmen klagen über die Bürokratie und spüren keine Verbesserung.",
-      "url": "https://www.bild.de/politik/inland/buerokratie-53-prozent-der-firmen-spueren-mehr-belastungen-6ae069c3606708eb0870c1c5",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
       "category": "POLITIK"
     },
     {
@@ -46,103 +150,375 @@
       "title": "Außer Spesen nichts gewesen - Brauchen wir überhaupt einen Steinmeier-Nachfolger?",
       "excerpt": "Die zehnjährige Amtszeit des Bundespräsidenten endet im März 2027.",
       "url": "https://www.bild.de/politik/ausser-spesen-nichts-gewesen-brauchen-wir-ueberhaupt-einen-steinmeier-nachfolger-6ae0a3b741a652332eb6da9f",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "publishedAt": "2026-10-28T17:24:15.320Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Gen-Z-Demos am Wochenende - „Alt gegen Jung wird der neue Konflikt“",
-      "excerpt": "In 21 deutschen Städten werden Proteste Jugendlicher erwartet.",
-      "url": "https://www.bild.de/politik/demos-der-gen-z-am-wochenende-alt-gegen-jung-wird-der-neue-konflikt-6ae0b60741a652332eb6dc73",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "DLF",
+      "title": "Region Toledo - Mindestens 68 Tote nach Kollision von zwei Zügen in Spanien",
+      "excerpt": "In der spanischen Provinz Toledo sind bei einem Zusammenstoß zweier Hochgeschwindigkeitszüge mindestens 68 Menschen ums Leben gekommen. Wie die Behörden der Region Kastilien-La Mancha mitteilten, kann die Zahl der Opfer ",
+      "url": "https://www.deutschlandfunk.de/mindestens-68-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Einmalzahlungen - Britische Regierung kündigt Entlastungspaket wegen hoher Energiepreise an",
+      "excerpt": "Die britische Regierung will Haushalte angesichts hoher Energiepreise finanziell entlasten.",
+      "url": "https://www.deutschlandfunk.de/britische-regierung-kuendigt-entlastungspaket-wegen-hoher-energiepreise-an-102.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Parlamentswahl - Israels Präsident Herzog will mit allen Fraktionen reden",
+      "excerpt": "Der israelische Präsident Herzog will nach der Parlamentswahl Konsultationen mit den Parteien aufnehmen. Er werde jede einzelne Fraktion anhören, sagte Herzog. Er erwarte, von allen Beteiligten, mit einer offenen Haltung",
+      "url": "https://www.deutschlandfunk.de/israels-praesident-herzog-will-mit-allen-fraktionen-reden-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regierungspläne - Elterngeld soll erstmals seit Einführung erhöht werden",
+      "excerpt": "Das Elterngeld soll erstmals seit der Einführung im Jahr 2007 erhöht werden. Das Bundesfamilienministerium teilte mit, der Mindestbetrag solle von 300 auf 330 Euro steigen, der Höchstsatz von 1.800 auf 1.900 Euro. Ein Ge",
+      "url": "https://www.deutschlandfunk.de/elterngeld-soll-erstmals-seit-einfuehrung-erhoeht-werden-102.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Brandenburg - Mädchen in Wildpark von Wolf angegriffen und schwer verletzt",
+      "excerpt": "In einem Wildpark in Brandenburg ist ein Mädchen von einem Wolf angegriffen und schwer verletzt worden.",
+      "url": "https://www.deutschlandfunk.de/maedchen-in-wildpark-von-wolf-angegriffen-und-schwer-verletzt-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Brasilianischer Wahlverlierer Flávio Bolsonaro in Miami gelandet",
+      "excerpt": "Der unterlegene brasilianische Präsidentschaftskandidat Flávio Bolsonaro hat sich in die Vereinigten Staaten abgesetzt. Mehrere Nachrichtenagenturen melden seine Ankunft auf einem Flughafen in der Nähe von Miami in Flori",
+      "url": "https://www.deutschlandfunk.de/brasilianischer-wahlverlierer-fl-vio-bolsonaro-in-miami-gelandet-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Geplante Demonstrationen - Bundesregierung würdigt vor Jugendprotesten Distanzierung von Gewalt",
+      "excerpt": "Die Bundesregierung geht nicht davon aus, dass es bei den für Samstag angkündigten Jugendprotesten zu Ausschreitungen wie in Frankreich kommt.",
+      "url": "https://www.deutschlandfunk.de/bundesregierung-wuerdigt-vor-jugendprotesten-distanzierung-von-gewalt-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Dritter Russland-Afrika-Gipfel - Präsident Putin umwirbt afrikanische Staaten",
+      "excerpt": "In Moskau findet der dritte Russland-Afrika-Gipfel statt. Laut russischen Angaben nehmen 48 der 54 afrikanischen Staaten teil. Der Kreml will mit der zweitägigen Veranstaltung seinen politischen, militärischen und wirtsc",
+      "url": "https://www.deutschlandfunk.de/praesident-putin-umwirbt-afrikanische-staaten-102.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Staatsanwaltschaft Landshut - Polizeischüsse auf Bundeswehrsoldaten: Ermittlungen eingestellt",
+      "excerpt": "Die Ermittlungen zu Polizeischüssen auf Bundeswehrsoldaten vor einem Jahr im bayerischen Erding sind eingestellt worden.",
+      "url": "https://www.deutschlandfunk.de/polizeischuesse-auf-bundeswehrsoldaten-ermittlungen-eingestellt-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Ausschreitung - In Frankreich sollen Randalierer künftig für Schäden zahlen",
+      "excerpt": "Vor dem Hintergrund der jüngsten Ausschreitungen in Frankreich hat der Senat des Landes schärfere Regeln beschlossen.",
+      "url": "https://www.deutschlandfunk.de/in-frankreich-sollen-randalierer-kuenftig-fuer-schaeden-zahlen-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Alterssicherung - DGB beharrt auf abschlagsfreier Rente",
+      "excerpt": "Der Deutsche Gewerkschaftsbund hat den Abschlussbericht seiner Rentenkommission vorgestellt. Eine weitere Anhebung ⁠des Renteneintrittsalters lehnt die DGB-Kommission ab. ⁠Auch die abschlagsfreie Rente ‌nach 45 Versicher",
+      "url": "https://www.deutschlandfunk.de/dgb-beharrt-auf-abschlagsfreier-rente-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Musikwettbewerb - Boykott: Eurovision Song Contest 2027 ohne Niederlande, Irland und Island - Teilnahme von Spanien und Slowenien offen",
+      "excerpt": "Der Eurovision Song Contest im nächsten Jahr wird angesichts von Boykott-Aktionen mit voraussichtlich 36 Ländern stattfinden.",
+      "url": "https://www.deutschlandfunk.de/boykott-eurovision-song-contest-2027-ohne-niederlande-irland-und-island-teilnahme-von-spanien-und-sl-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Regierungsbildung - Nach Parlamentswahl in Israel: Vier Szenarien, wie es politisch weitergehen könnte",
+      "excerpt": "Nach der Parlamentswahl in Israel zeichnet sich eine schwierige Regierungsbildung ab. Sowohl Ministerpräsident Netanjahu als auch der wichtigste Oppositionspolitiker Eisenkot kündigten an, eine neue Regierung bilden zu w",
+      "url": "https://www.deutschlandfunk.de/nach-parlamentswahl-in-israel-vier-szenarien-wie-es-politisch-weitergehen-koennte-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Iranisches Regime - Regisseur Jafar Panahi zu fünf Jahren Haft verurteilt",
+      "excerpt": "Der iranische Regisseur Jafar Panahi ist erneut zu einer mehrjährigen Haftstrafe verurteilt worden.",
+      "url": "https://www.deutschlandfunk.de/regisseur-jafar-panahi-zu-fuenf-jahren-haft-verurteilt-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Niedersachsen, Bayern und Thüringen - Unionsfraktionen drohen Berlin und Sachsen-Anhalt mit Verfassungsklagen für den Fall grundgesetzwidriger Gesetze",
+      "excerpt": "Mehrere Unionsfraktionschefs in den Ländern haben mit Verfassungsklagen für den Fall gedroht, dass die möglichen neuen Regierungen in Berlin und Sachsen-Anhalt grundgesetzwidrige Gesetze beschließen.",
+      "url": "https://www.deutschlandfunk.de/unionsfraktionen-drohen-berlin-und-sachsen-anhalt-mit-verfassungsklagen-fuer-den-fall-grundgesetzwid-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Asienreise - Bundeskanzler Merz schlägt bei Japan-Besuch neue globale Allianz für regelgebundenen Handel vor",
+      "excerpt": "Bundeskanzler Merz hat bei einem Besuch in Japan die Gründung einer globalen Staatenallianz für ‌regelgebundenen Handel vorgeschlagen. Deren Ziel ⁠sollte sein, den freien Handel unter Einbeziehung der Welthandelsorganisa",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-schlaegt-bei-japan-besuch-neue-globale-allianz-fuer-regelgebundenen-handel-vor-100.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Kabinettsbeschluss - Bundesregierung will Sicherheitsüberprüfungen in kritischen Bereichen verschärfen",
+      "excerpt": "Der Bund will die Sicherheitsüberprüfung von Beschäftigten in wichtigen Betrieben ausweiten.",
+      "url": "https://www.deutschlandfunk.de/bundesregierung-will-sicherheitsueberpruefungen-in-kritischen-bereichen-verschaerfen-102.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bildung - Mehrere Universitäten durch Proteste blockiert",
+      "excerpt": "In mehreren deutschen Städten ist es zu Blockaden von Universitätsgebäuden gekommen.",
+      "url": "https://www.deutschlandfunk.de/mehrere-universitaeten-durch-proteste-blockiert-102.html",
+      "publishedAt": "2026-10-28T17:12:17.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: Zugunglück in Spanien, Wahl in Israel, Frauen in deutschen Vorständen",
+      "excerpt": "Das Wahlergebnis in Israel ist weiter unklar. Spanien erlebt das zweite schwere Zugunglück in kurzer Zeit. Und Männer mit bestimmtem Vornamen haben häufig Spitzenpositionen in Unternehmen. Das ist die Lage am Mittwochabe",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss",
+      "publishedAt": "2026-10-28T17:09:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Bis zu 220.000 Euro weniger - Elternzeit-Falle! So viel kostet Sie die Babypause",
-      "excerpt": "Eine Sparpause wegen der Kinder kann bis zum Ruhestand 222.000 Euro Depotvermögen kosten.",
-      "url": "https://www.bild.de/politik/inland/babypause-warum-sechs-jahre-sparpause-222-000-euro-kosten-6adf1d17c303dbdd291055c0",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Verhandlungsversuche für Ukraine-Frieden: Die Hoffnung auf einen Waffenstillstand wächst",
+      "excerpt": "Historische Monologe und Maximalforderungen von Kremlchef Putin erschweren Friedensbemühungen. Das Trump-Lager setzt auf wirtschaftliche Deals. mehr...",
+      "url": "https://taz.de/Verhandlungsversuche-fuer-Ukraine-Frieden/!6225651/",
+      "publishedAt": "2026-10-28T16:57:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Zoff um Berliner Linke - SPD-Rehlinger geht bei Lanz unter",
-      "excerpt": "Markus Lanz knöpft sich Saarland-MP Anke Rehlinger vor.",
-      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/zoff-um-berliner-linke-spd-rehlinger-geht-bei-lanz-unter-6ae15d57f74d161423be0dd3",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Ulm-5-Prozess: Hinter Glas, ohne Stift",
+      "excerpt": "Seit einem halben Jahr verhandelt das Landgericht Stuttgart gegen die „Ulm 5“. Ein Ende ist erst im Februar in Sicht. mehr...",
+      "url": "https://taz.de/Ulm-5-Prozess/!6225049/",
+      "publishedAt": "2026-10-28T16:56:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Bundespräsidentenzoff - Merz will Steinmeier-Nachfolger mit Rot-Grün abstimmen",
-      "excerpt": "Ilse Aigner könnte bei der Wahl zur Bundespräsidentin auf breite Unterstützung hoffen.",
-      "url": "https://www.bild.de/politik/inland/bundespraesidentenzoff-merz-will-steinmeier-nachfolger-mit-rot-gruen-abstimmen-6ae198b29d8212885d52906d",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "1.708 Tage Krieg in der Ukraine: Eiserner Vorhang 2.0",
+      "excerpt": "Im nordukrainischen Wolhynien gab es einen regen Grenzverkehr. Seit 2022 sind alle Übergänge nach Belarus dicht, persönliche Verbindungen sind gekappt. mehr...",
+      "url": "https://taz.de/1708-Tage-Krieg-in-der-Ukraine/!6223984/",
+      "publishedAt": "2026-10-28T16:49:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Analyse von Jan Philipp Burgard - Auch Herausforderer Eisenkot hat noch Chancen",
-      "excerpt": "Tel Aviv – Nach den Parlamentswahlen in Israel ist noch völlig unklar, wer Premierminister wird. Komplizierte Koalitionsverhandlunge...",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/gadi-eisenkot-israels-demokratie-schoepft-neue-hoffnung-6ae11d82e235d5b185731212",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Parlamentswahl in Serbien: Wie die Studierendenbewegung Serbien verändern will",
+      "excerpt": "In Serbien haben Studierende die absolute Mehrheit bei der Parlamentswahl erhalten. Doch kann aus einer Protestbewegung eine Regierung werden? mehr...",
+      "url": "https://taz.de/Parlamentswahl-in-Serbien/!6225649/",
+      "publishedAt": "2026-10-28T16:12:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "RONZHEIMER - Stürzt Netanjahu? - Wahlkrimi in Israel. Mit Richard C. Schneider",
-      "excerpt": "Paul Ronzheimer spricht mit dem langjährigen ARD-Nahostkorrespondenten Richard C. Schneider über die ersten Wahlprognosen, die überr...",
-      "url": "https://www.bild.de/politik/ronzheimer-stuerzt-netanjahu-wahlkrimi-in-israel-mit-richard-c-schneider-6ae192529d8212885d528ff5",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "SPIEGEL.DE",
+      "title": "CDU in Sachsen-Anhalt: Streit um Treueschwur gegen die AfD",
+      "excerpt": "Hat Ministerpräsident und Fraktionschef Sven Schulze unangemessen Druck auf seine Abgeordneten aufgebaut und einen schriftlichen Treueschwur gegen die AfD verlangt? Nach SPIEGEL-Informationen lief die Geschichte anders.",
+      "url": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-streit-um-treueschwur-gegen-die-afd-a-8ac3da41-0770-4b8d-85bf-f29a091c3056#ref=rss",
+      "publishedAt": "2026-10-28T16:12:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach Flucht aus Brasilien - USA wollen Flavio Bolsonaro Visum ausstellen",
-      "excerpt": "Nach der Wahlniederlage flieht Brasiliens Senator trotz Ermittlungen ins Ausland.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/insider-er-sitzt-im-flieger-flavio-bolsonaro-soll-auf-der-flucht-in-die-usa-sein-6ae0e8d167fc5d0d0ce67a44",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
+      "excerpt": "Die Zahl der Toten nach dem schweren Zugunglück in Spanien ist auf 68 gestiegen. Ein Hochgeschwindigkeitszug war am Vormittag auf einen stehenden Zug aufgefahren - laut ersten Ermittlungen vermutlich wegen einer falschen",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+      "publishedAt": "2026-10-28T16:11:17.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Deutschland schiebt 40 Straftäter nach Afghanistan ab",
+      "excerpt": "Per Charterflug sind 40 Männer nach Afghanistan ausgewiesen worden. Laut dem Innenministerium handelt es sich um Straftäter, die etwa Totschlag, Vergewaltigung und Drogenhandel begangen haben.",
+      "url": "https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss",
+      "publishedAt": "2026-10-28T16:09:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach Alleingang von Norwegen und Finnland - Nato-Zoff um Rekord-Telefonat mit Putin",
-      "excerpt": "Finnland und Norwegen wollen Putin zu Verhandlungen über die Ukraine bewegen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/erster-anruf-seit-kriegsbeginn-nato-zoff-um-telefonat-mit-putin-6ae0c4e367fc5d0d0ce67804",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Streit um Berliner Linken-Abgeordnete: Emde aufs Abstellgleis, bitte",
+      "excerpt": "Die Linke im Berliner Landesparlament vertagt ihre Entscheidung über den Umgang mit ihrer israelfeindlichen Abgeordneten. Dabei liegt die Lösung so nahe. mehr...",
+      "url": "https://taz.de/Streit-um-Berliner-Linken-Abgeordnete/!6225627/",
+      "publishedAt": "2026-10-28T15:57:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Mercedes-Aktie im Kurskeller - Sieben Auto-Aktien im Krisencheck",
-      "excerpt": "Mercedes gibt Gewinnwarnung heraus, in China brachen die Verkäufe um 31 Prozent ein.",
-      "url": "https://www.bild.de/politik/inland/mercedes-aktie-experte-warnt-vor-langer-krise-der-deutschen-autobauer-6ae09d2cdcd605c8d4cea672",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Brasiliens Wahlverlierer haut ab: Lügner und Feigling",
+      "excerpt": "Flávio Bolsonaros Flucht ist ein Schuldeingeständnis – er will seine Haut retten. Doch für Wahlsieger Lula könnte der Schritt zum Problem werden. mehr...",
+      "url": "https://taz.de/Flavio-Bolsonaros-Flucht-Luegner-und-Feigling/!6225646/",
+      "publishedAt": "2026-10-28T15:41:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Mbappé-Boykott in China: Schluss mit lustig",
+      "excerpt": "Der französische Fußballstar Kylian Mbappé wird wegen einer belanglosen Bemerkung zur Zielscheibe der chinesischen Zensurwut. mehr...",
+      "url": "https://taz.de/Die-chinesische-Zensurwut-trifft-Kylian-Mbappe---der-Grund-koennte-kaum-belangloser-sein/!6225613/",
+      "publishedAt": "2026-10-28T15:40:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Kunden empört über Trump-Auftritt - „Ich werde mir keinen Audi mehr kaufen“",
-      "excerpt": "So reagieren Autokunden auf den Auftritt des Audi-Chefs bei US-Präsident Trump.",
-      "url": "https://www.bild.de/politik/audi-nach-trump-auftritt-drohen-stammkunden-mit-boykott-in-deutschland-6adf3b4c8e175153b6abf9fd",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "TAZ.DE",
+      "title": "Prozess um Totschlag: Noch Fahnen im Keller",
+      "excerpt": "Ein 51-Jähriger bringt seinen Nachbarn um und wird verurteilt. Ist das Motiv Rassismus? Seine Reichsflagge spielt im Prozess keine Rolle. mehr...",
+      "url": "https://taz.de/Prozess-um-Totschlag/!6225681/",
+      "publishedAt": "2026-10-28T15:39:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Rekord-Wahlbeteiligung in Israel - Wird Netanjahu heute abgewählt?",
-      "excerpt": "Israel verzeichnet Rekordbeteiligung, doch der Wahltag bleibt unruhig.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/israel-wahl-rekordbeteiligung-bei-engem-rennen-um-netanjahus-zukunft-6ae0c77367fc5d0d0ce67872",
-      "publishedAt": "2026-10-28T11:39:39.728Z",
+      "source": "SPIEGEL.DE",
+      "title": "Innovationen: Ein Acht-Punkte-Plan für ein vernünftiges Deutschland - Kolumne",
+      "excerpt": "An Äußerungen über die deutsche Krise herrscht kein Mangel. Dagegen stemmt sich der Chefredakteur des »Handelsblatt« mit einem Achtpunkteplan, der nicht nur in Berlin gelesen werden sollte.",
+      "url": "https://www.spiegel.de/politik/deutschland/innovationen-ein-acht-punkte-plan-fuer-ein-vernuenftiges-deutschland-kolumne-a-fb4f55e0-7fc5-4a38-b2d9-5ab8a50a2ab9#ref=rss",
+      "publishedAt": "2026-10-28T15:23:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Weiterhin 14 Monate - Rolle rückwärts beim Elterngeld",
+      "excerpt": "Das Elterngeld bleibt laut Plänen des Familienministeriums bei bis zu 14 Monaten. Eine geplante Kürzung auf zwölf Monate wird nicht umgesetzt. Zudem sollen Mindest- und Höchstbeträge steigen. Von Sarah Beham und Philip K",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
+      "publishedAt": "2026-10-28T15:11:17.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin: Linke-Fraktion im Abgeordnetenhaus kleiner als gedacht",
+      "excerpt": "Die Linke-Fraktion im Berliner Abgeordnetenhaus wird nicht 45, sondern 44 Mitglieder haben: Asya Şenyüz wird fraktionslose Abgeordnete. Sie hatte eine Erklärung zum Kampf gegen Antisemitismus krankheitsbedingt nicht unte",
+      "url": "https://www.spiegel.de/politik/berlin-linke-fraktion-im-abgeordnetenhaus-kleiner-als-gedacht-a-140345f9-627e-4ec5-af22-ba3d7bfcf64d#ref=rss",
+      "publishedAt": "2026-10-28T15:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Korrektur bei Elterngeld-Plänen: Elterngeld soll doch weiter für 14 Monate gezahlt werden",
+      "excerpt": "Die Kürzungspläne für das Elterngeld hatten viel Kritik geerntet. Ein neuer Entwurf aus dem Haus von CDU-Familienministerin Prien sieht nun ganz anders aus. mehr...",
+      "url": "https://taz.de/Korrektur-bei-Elterngeld-Plaenen/!6225800/",
+      "publishedAt": "2026-10-28T14:59:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Kritische Infrastruktur: Mehr Prüfungen auf Sabotagerisiko",
+      "excerpt": "Die Bedrohung für die Kritische Infrastruktur in Deutschland - etwa durch Sabotage oder Spionage - ist gestiegen. Daher will der Bund künftig Beschäftigte in noch mehr Betrieben auf mögliche Sicherheitsrisiken überprüfen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html",
+      "publishedAt": "2026-10-28T14:48:08.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Krieg im Jemen: Neue Eskalation zwischen Huthis und Saudi-Arabien",
+      "excerpt": "Laut Huthi-Miliz kommt im Jemen mehr als ein Dutzend Menschen durch Angriffe Saudi-Arabiens ums Leben. Die Huthis beschießen den Flughafen von Aden. mehr...",
+      "url": "https://taz.de/Krieg-im-Jemen/!6225779/",
+      "publishedAt": "2026-10-28T14:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Stellenabbau bei Tamedia: Menschengemachter Journalismus in der Krise",
+      "excerpt": "Der Schweizer Medienkonzern Tamedia entlässt reihenweise Jour­na­lis­t:in­nen und setzt immer mehr auf KI. Das wird intern als auch extern kritisiert. mehr...",
+      "url": "https://taz.de/Schweizer-Medienkonzern-Tamedia-entlaesst-Journalisten-und-setzt-immer-mehr-auf-KI---Kritik-kommt-von-allen-Seiten/!6225595/",
+      "publishedAt": "2026-10-28T14:45:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach illegaler Ausreise aus Brasilien: Flávio Bolsonaro in Miami gelandet",
+      "excerpt": "Der brasilianische Wahlverlierer Flávio Bolsonaro hat sich trotz eines Ausreiseverbots in die USA abgesetzt. Ein Privatflugzeug brachte ihn und seine Familie nach Miami. Gegen Bolsonaro wird unter anderem wegen Korruptio",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
+      "publishedAt": "2026-10-28T14:37:14.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Asien-Reise des Bundeskanzlers: Merz wirbt für engere Zusammenarbeit",
+      "excerpt": "Auf seiner Asienreise schlägt der Bundeskanzler ein „Bündnis für regelgebundenen Handel“ vor. Mit Japan gibt es eine Rohstoffpartnerschaft. mehr...",
+      "url": "https://taz.de/Asien-Reise-des-Bundeskanzlers/!6225746/",
+      "publishedAt": "2026-10-28T14:04:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Umgang mit der AfD in Sachsen-Anhalt: CDU streitet über eidesstattliche Versicherung",
+      "excerpt": "Wer wählte Tobias Rausch zum Landtagspräsidenten? CDU-Abgeordnete sollten eidesstattlich versichern, dass sie es nicht waren. Nun gibt es Rücktrittsforderungen. mehr...",
+      "url": "https://taz.de/Umgang-mit-der-AfD-in-Sachsen-Anhalt/!6225735/",
+      "publishedAt": "2026-10-28T13:54:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Wenn geflüchtete Kinder keinen Schulplatz finden und wie die EU das ändern will",
+      "excerpt": "Sammann, Luise www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/wenn-gefluechtete-kinder-keinen-schulplatz-finden-und-wie-die-eu-das-aendern-will-100.html",
+      "publishedAt": "2026-10-28T13:50:40.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Eritrea im Konflikt mit Äthiopien: „Die eritreische Opposition ist tief gespalten“",
+      "excerpt": "Eritrea und Äthiopien stehen sich wieder als Kriegsgegner gegenüber. Exiljournalist Zekarias Kebraeb über die Folgen für die eritreische Gesellschaft. mehr...",
+      "url": "https://taz.de/Eritrea-im-Konflikt-mit-Aethiopien/!6225630/",
+      "publishedAt": "2026-10-28T13:47:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Sprachförderung in der Kita: Welche bundesweiten Standards brauchen wir?",
+      "excerpt": "Brinkmann, Regina; Himmelrath, Armin www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/sprachfoerderung-in-der-kita-welche-bundesweiten-standards-brauchen-wir-100.html",
+      "publishedAt": "2026-10-28T13:35:00.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Nach Ausreise aus Brasilien: Verwirrung um Aufenthaltsort von Flávio Bolsonaro",
+      "excerpt": "Wo ist Flávio Bolsonaro? US-Medien hatten zunächst berichtet, der aus Brasilien widerrechtlich ausgereiste Präsidentschaftskandidat sei in den USA. Argentinische Behörden berichten nun, er sei mit seiner Familie nach Ecu",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
+      "publishedAt": "2026-10-28T12:00:47.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Ilse Aigner von der CSU: Sie ist die Richtige für Bellevue",
+      "excerpt": "Kanzler Friedrich Merz gerät bei der Nachfolge für Frank-Walter Steinmeier unter Druck. Dabei liegt die Lösung nahe: Mit Ilse Aigner könnte die politische Mitte ein Zeichen gegen die Demagogen von links und rechts setzen",
+      "url": "https://www.spiegel.de/politik/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-merz-unter-druck-bei-der-kandidatensuche-a-70a6b01c-d490-4e9e-9477-f8373642007d#ref=rss",
+      "publishedAt": "2026-10-28T11:44:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Russland-Afrika-Gipfel in Moskau: Afrika wird zunehmend zu Russlands Schattenfront",
+      "excerpt": "Russland baut seine Macht in Afrika mit Militärbasen, Waffen und Geschäften aus. Nun findet in Moskau ein zweitägiges Gipfeltreffen statt. mehr...",
+      "url": "https://taz.de/Russland-Afrika-Gipfel-in-Moskau/!6223693/",
+      "publishedAt": "2026-10-28T11:42:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -152,182 +528,6 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html",
       "publishedAt": "2026-10-28T11:35:40.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Region Toledo - Mindestens 30 Tote nach Kollision von zwei Zügen in Spanien",
-      "excerpt": "Nach dem Zugunglück in Spanien ist die Zahl der Toten auf mindestens 30 gestiegen. Das teilte die Regionalregierung von Kastilien-La Mancha mit. Außerdem gab es zahlreiche Verletzte. Das Unglück ereignete sich nahe der O",
-      "url": "https://www.deutschlandfunk.de/mindestens-30-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Dritter Russland-Afrika-Gipfel - Präsident Putin umwirbt afrikanische Staaten",
-      "excerpt": "In Moskau findet der dritte Russland-Afrika-Gipfel statt. Laut russischen Angaben nehmen 48 der 54 afrikanischen Staaten teil. Der Kreml will mit der zweitägigen Veranstaltung seinen politischen, militärischen und wirtsc",
-      "url": "https://www.deutschlandfunk.de/praesident-putin-umwirbt-afrikanische-staaten-102.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Staatsanwaltschaft Landshut - Polizeischüsse auf Bundeswehrsoldaten: Ermittlungen eingestellt",
-      "excerpt": "Die Ermittlungen zu Polizeischüssen auf Bundeswehrsoldaten vor einem Jahr im bayerischen Erding sind eingestellt worden.",
-      "url": "https://www.deutschlandfunk.de/polizeischuesse-auf-bundeswehrsoldaten-ermittlungen-eingestellt-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Ausschreitung - In Frankreich sollen Randalierer künftig für Schäden zahlen",
-      "excerpt": "Vor dem Hintergrund der jüngsten Ausschreitungen in Frankreich hat der Senat des Landes schärfere Regeln beschlossen.",
-      "url": "https://www.deutschlandfunk.de/in-frankreich-sollen-randalierer-kuenftig-fuer-schaeden-zahlen-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Israel - Netanjahu liegt bei Parlamentswahl vorn, aber ohne Mehrheit - beide Lager sehen Regierungsauftrag",
-      "excerpt": "In Israel deutet sich nach der Parlamentswahl eine schwierige Regierungsbildung an. Nach Auszählung eines Großteils der Stimmen zeichnet sich keine klare Mehrheit für eines der politischen Lager ab. Israelischen Medienbe",
-      "url": "https://www.deutschlandfunk.de/netanjahu-liegt-bei-parlamentswahl-vorn-aber-ohne-mehrheit-beide-lager-sehen-regierungsauftrag-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Regierungsbildung - Nach Parlamentswahl in Israel: Vier Szenarien, wie es politisch weitergehen könnte",
-      "excerpt": "Nach der Parlamentswahl in Israel zeichnet sich eine schwierige Regierungsbildung ab. Sowohl Ministerpräsident Netanjahu als auch der wichtigste Oppositionspolitiker Eisenkot kündigten an, eine neue Regierung bilden zu w",
-      "url": "https://www.deutschlandfunk.de/nach-parlamentswahl-in-israel-vier-szenarien-wie-es-politisch-weitergehen-koennte-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Iranisches Regime - Regisseur Jafar Panahi zu fünf Jahren Haft verurteilt",
-      "excerpt": "Der iranische Regisseur Jafar Panahi ist erneut zu einer mehrjährigen Haftstrafe verurteilt worden.",
-      "url": "https://www.deutschlandfunk.de/regisseur-jafar-panahi-zu-fuenf-jahren-haft-verurteilt-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Niedersachsen, Bayern und Thüringen - Unionsfraktionen drohen Berlin und Sachsen-Anhalt mit Verfassungsklagen für den Fall grundgesetzwidriger Gesetze",
-      "excerpt": "Mehrere Unionsfraktionschefs in den Ländern haben mit Verfassungsklagen für den Fall gedroht, dass die möglichen neuen Regierungen in Berlin und Sachsen-Anhalt grundgesetzwidrige Gesetze beschließen.",
-      "url": "https://www.deutschlandfunk.de/unionsfraktionen-drohen-berlin-und-sachsen-anhalt-mit-verfassungsklagen-fuer-den-fall-grundgesetzwid-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Asienreise - Bundeskanzler Merz schlägt bei Japan-Besuch neue globale Allianz für regelgebundenen Handel vor",
-      "excerpt": "Bundeskanzler Merz hat bei einem Besuch in Japan die Gründung einer globalen Staatenallianz für ‌regelgebundenen Handel vorgeschlagen. Deren Ziel ⁠sollte sein, den freien Handel unter Einbeziehung der Welthandelsorganisa",
-      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-schlaegt-bei-japan-besuch-neue-globale-allianz-fuer-regelgebundenen-handel-vor-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Kabinettsbeschluss - Bundesregierung will Sicherheitsüberprüfungen in kritischen Bereichen verschärfen",
-      "excerpt": "Der Bund will die Sicherheitsüberprüfung von Beschäftigten in wichtigen Betrieben ausweiten.",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-will-sicherheitsueberpruefungen-in-kritischen-bereichen-verschaerfen-102.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Besuch auf den Bahamas - König Charles erkennt \"großes Leid\" der Sklaverei an, vermeidet aber eine Entschuldigung",
-      "excerpt": "Der britische König Charles hat bei einem Besuch auf den Bahamas auf das Leid der Sklaverei während der Kolonialzeit hingewiesen, eine Entschuldigung aber erneut vermieden.",
-      "url": "https://www.deutschlandfunk.de/koenig-charles-erkennt-grosses-leid-der-sklaverei-an-vermeidet-aber-eine-entschuldigung-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "IT-Sicherheit - Bitkom erwartet deutlich steigende Investitionen in Unternehmen",
-      "excerpt": "​Deutsche Unternehmen investieren wegen der wachsenden Gefahr von Cyberangriffen mehr Geld in ihre ‌IT-Sicherheit.",
-      "url": "https://www.deutschlandfunk.de/bitkom-erwartet-deutlich-steigende-investitionen-in-unternehmen-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Deutschland - Außenpolitiker der Union hoffen nach Parlamentswahl in Israel auf künftige Regierung ohne Rechtsextreme",
-      "excerpt": "Außenpolitiker der Union haben nach der Parlamentswahl in Israel die Hoffnung auf eine Regierung ohne Beteiligung rechtsextremer Parteien geäußert.",
-      "url": "https://www.deutschlandfunk.de/aussenpolitiker-der-union-hoffen-nach-parlamentswahl-in-israel-auf-kuenftige-regierung-ohne-rechtsex-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Mittlerer Osten - Nach jordanischen Vergeltungsangriffen: Damaskus und Amman wollen Krise beilegen",
-      "excerpt": "Jordanien und Syrien wollen die Krise in ihren Beziehungen nach der jüngsten Gewalt beilegen.",
-      "url": "https://www.deutschlandfunk.de/nach-jordanischen-vergeltungsangriffen-damaskus-und-amman-wollen-krise-beilegen-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Statistik - Zahl der Suizide auf höchsten Stand seit 1998",
-      "excerpt": "Die Zahl der Suizide in Deutschland ist im vergangenen Jahr auf den höchsten Stand seit 1998 gestiegen.",
-      "url": "https://www.deutschlandfunk.de/zahl-der-suizide-auf-hoechsten-stand-seit-102.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Hamburg - Erste Verfahren wegen Verstößen gegen die 12-Uhr-Preisregel",
-      "excerpt": "Die Hansestadt Hamburg hat nach der Einführung der sogenannten 12-Uhr-Preisregel für Tankstellen erste Ordnungswidrigkeitsverfahren eingeleitet.",
-      "url": "https://www.deutschlandfunk.de/erste-verfahren-wegen-verstoessen-gegen-die-12-uhr-preisregel-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Waffenruhe um russisch besetzte Frontstadt Oleschky wird eingehalten",
-      "excerpt": "In der Ukraine wird die vereinbarte ⁠Waffenruhe für die von der russischen Armee besetzte Frontstadt Oleschky bislang eingehalten.",
-      "url": "https://www.deutschlandfunk.de/waffenruhe-um-russisch-besetzte-frontstadt-oleschky-wird-eingehalten-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Quartalsergebnisse - Deutsche Bank und BASF steigern Ergebnisse, Mercedes meldet Absatzrückgang",
-      "excerpt": "Die Deutsche Bank hat auch im dritten Quartal deutlich mehr verdient.",
-      "url": "https://www.deutschlandfunk.de/deutsche-bank-und-basf-steigern-ergebnisse-mercedes-meldet-absatzrueckgang-100.html",
-      "publishedAt": "2026-10-28T11:22:15.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Mindestens 30 Tote nach Zugunglück in Spanien",
-      "excerpt": "Beim Zusammenstoß zweier Züge in Spanien sind mindestens 30 Menschen getötet worden. Zwei Waggons sollen entgleist sein. Die Strecke zwischen der Hauptstadt Madrid und der südlichen Region Andalusien wurde gesperrt.",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
-      "publishedAt": "2026-10-28T10:43:13.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Zugunglück in Spanien: Zahl der Toten steigt auf mindestens 30",
-      "excerpt": "Bei einem Zusammenstoß zweier Hochgeschwindigkeitszüge stürzen zwei Waggons einen Bahndamm hinab. Das Zugunglück weckt Erinnerungen an die Katastrophe im Januar. mehr...",
-      "url": "https://taz.de/Zugunglueck-in-Spanien/!6225626/",
-      "publishedAt": "2026-10-28T10:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Haftstrafe für iranischen Regisseur: Palme-d’or-Gewinner im Iran verurteilt",
-      "excerpt": "Der Regisseur Jafar Panahi ist im Iran laut einem Bericht zu über fünf Jahren Haft verurteilt worden. Sein Vermögen soll beschlagnahmt werden. mehr...",
-      "url": "https://taz.de/Haftstrafe-fuer-iranischen-Regisseur/!6225615/",
-      "publishedAt": "2026-10-28T10:36:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Repressionen in Russland: 79 politische Gefangene in Haft verstorben",
-      "excerpt": "Immer mehr Menschen werden in Russland wegen vorgeblicher Terrorismusvorwürfe verurteilt. Inzwischen überleben viele die Haft nicht mehr. mehr...",
-      "url": "https://taz.de/Repressionen-in-Russland/!6225434/",
-      "publishedAt": "2026-10-28T10:14:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -344,30 +544,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
       "publishedAt": "2026-10-28T09:54:58.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nach der Knesset-Wahl in Israel: Wie geht es weiter?",
-      "excerpt": "In Israel läuft die Stimmenauszählung. Der Fahrplan zur Regierungsbildung ist durch strikte Verfassungsfristen geregelt. Ein Überblick der nächsten Schritte. mehr...",
-      "url": "https://taz.de/Israel-hat-gewaehlt-Wie-geht-es-weiter/!6225614/",
-      "publishedAt": "2026-10-28T09:48:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Eingriff in die Pressefreiheit: Block-Prozess: Sicherstellungen bei der „Zeit“ teils rechtswidrig",
-      "excerpt": "Das Landgericht Hamburg erklärte das Einziehen einiger „Zeit“-Interviewaufnahmen zum „House of Block“-Podcasts nun als teilweise rechtswidrig. mehr...",
-      "url": "https://taz.de/Eingriff-in-die-Pressefreiheit/!6225581/",
-      "publishedAt": "2026-10-28T09:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Regisseurin über ihren Film „Glaube“: „Die Angst macht Gespräche so binär“",
-      "excerpt": "Eine private Entscheidung erschüttert Gewissheiten: In Alauda Ruiz de Azúas Film „Glaube“ emanzipiert sich eine junge Frau, indem sie ins Kloster geht. mehr...",
-      "url": "https://taz.de/Regisseurin-ueber-ihren-Film-Glaube/!6221045/",
-      "publishedAt": "2026-10-28T09:29:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -402,68 +578,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Terrorverdacht in Serbien: Anschlag auf Polizisten vor israelischer Botschaft",
-      "excerpt": "Erneut wird ein Wachbeamter vor der israelischen Botschaft in Belgrad angegriffen. Laut Behörden war der mutmaßliche Angreifer als Anhänger des IS bekannt. mehr...",
-      "url": "https://taz.de/Terrorverdacht-in-Serbien/!6225583/",
-      "publishedAt": "2026-10-28T08:27:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "SPD lässt Mitglieder entscheiden: Steffen Krach stellt die Vertrauensfrage",
-      "excerpt": "Nach der Linken und den Grünen hat sich auch die Berliner SPD für eine Mitgliederbefragung entschieden. Das Risiko, in das Steffen Krach geht, ist hoch. mehr...",
-      "url": "https://taz.de/SPD-laesst-Mitglieder-entscheiden/!6225575/",
-      "publishedAt": "2026-10-28T08:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "+++ Nachrichten im Ukrainekrieg +++: Trump kündigt „baldiges“ Treffen mit Putin und Selenskyj an",
-      "excerpt": "Der US-Präsident hofft auf ein baldiges Treffen mit dem russischen Präsidenten und ​dem ‌ukrainischen Staatschef. Die Waffenruhe in Oleschky hält an. mehr...",
-      "url": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6225572/",
-      "publishedAt": "2026-10-28T08:21:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Knesset-Wahl in Israel: Es bleibt kompliziert",
-      "excerpt": "Premier Benjamin Netanjahu hat die meisten Stimmen geholt, aber keine Mehrheit. Ein neuer Irankrieg dürfte die Regierungsbildung begleiten. mehr...",
-      "url": "https://taz.de/Knesset-Wahl-in-Israel/!6225567/",
-      "publishedAt": "2026-10-28T07:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
       "excerpt": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Mar",
       "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
       "publishedAt": "2026-10-28T07:21:25.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Stimmauszählung nach der Wahl in Israel: Netanjahus Block weiterhin in Führung",
-      "excerpt": "Nach der Auszählung von knapp 80 Prozent aller Stimmen liegt Netanjahus Lager vorn, verfehlt aber die Mehrheit. Wer künftig Israel regieren wird, bleibt offen. mehr...",
-      "url": "https://taz.de/Wahl-in-Israel-Nach-Auszaehlung-von-50-Prozent-der-Stimmen-fuehrt-Netanjahus-Block/!6225568/",
-      "publishedAt": "2026-10-28T07:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ukrainischer Autor über das Kämpfen: „Wir haben AC/DC gehört, bevor wir zum Kampf ausrückten“",
-      "excerpt": "Der Soldat und Schriftsteller Artem Tschech hat in Bachmut gekämpft und zwei Bücher über den Krieg veröffentlicht. Ein Gespräch über Hungern und heilende Musik. mehr...",
-      "url": "https://taz.de/Ukrainischer-Autor-ueber-das-Kaempfen/!6218988/",
-      "publishedAt": "2026-10-28T06:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Frontex wird Abschiebeagentur: Schrilles „Invasions“-Gerede",
-      "excerpt": "Die irreguläre Migration geht zurück, die EU-Grenzschutzagentur wird trotzdem ausgebaut. Mi­gran­t:in­nen werden als Machtoption instumentalisiert. mehr...",
-      "url": "https://taz.de/Frontex-wird-Abschiebeagentur/!6225356/",
-      "publishedAt": "2026-10-28T06:28:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -522,14 +642,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "AfD und die Wahl in Serbien: Krahs Klage um Belgrad",
-      "excerpt": "Mit Vučić’ Abwahl verliert Europas extreme Rechte ihr zweites Vorzeigemodell binnen eines halben Jahres. Ein AfD-Post zeigt, wie sehr das schmerzt. mehr...",
-      "url": "https://taz.de/AfD-und-die-Wahl-in-Serbien/!6225304/",
-      "publishedAt": "2026-10-27T17:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
       "excerpt": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo ",
@@ -554,27 +666,11 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Studie zur Grundsicherung: Schwarz-Rot mindert Anreize zum Arbeiten",
-      "excerpt": "Menschen mit schlecht bezahlten Jobs stehen besser da als ohne Job – allerdings nur mit ergänzenden Sozialleistungen. Und auch nicht mehr lange. mehr...",
-      "url": "https://taz.de/Studie-zur-Grundsicherung/!6225357/",
-      "publishedAt": "2026-10-27T16:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "News des Tages: Endlager für Atommüll, Wahl in Israel, Lehrerin angeklagt",
       "excerpt": "Drei weitere Bundesländer scheiden bei der Suche nach einem Atommüllendlager aus. Israel rechnet mit einer hohen Wahlbeteiligung. Und die Justiz klagt eine dauerhaft krankgeschriebene Lehrerin an. Das ist die Lage am Die",
       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-endlager-fuer-atommuell-gesucht-wahl-in-israel-16-jahre-krankgeschriebene-lehrerin-angeklagt-a-bdeecd8d-d879-45a5-bf09-4443b797eb9e#ref=rss",
       "publishedAt": "2026-10-27T16:31:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nord-Stream-Verfahren geht weiter: Schweigepflicht gilt nur für Deutsche",
-      "excerpt": "Die Verteidigung des Angeklagten Serhii K. hatte eine Einstellung unter anderem wegen fehlender Aussagegenehmigung beantragt. Das Gericht hat das abgelehnt. mehr...",
-      "url": "https://taz.de/Nord-Stream-Verfahren-geht-weiter/!6225440/",
-      "publishedAt": "2026-10-27T16:15:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -674,14 +770,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro",
-      "excerpt": "Nach der Präsidentenwahl in Brasilien gibt es weitere schlechte Nachrichten für den unterlegenen Flávio Bolsonaro. Nun darf er das Land nicht mehr verlassen und soll seine Pässe abgeben. Der Grund: Ermittlungen wegen mut",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html",
-      "publishedAt": "2026-10-27T06:43:16.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "News: Wahl in Israel, Berliner Linke trifft Vanessa Emde, Renate Künast gegen Facebook",
       "excerpt": "In Israel wird ein neues Parlament gewählt. In Berlin hofft die Linksfraktion auf das Erscheinen ihres bekanntesten Mitglieds. Und der Bundesgerichtshof verhandelt darüber, wer den Schmutz in den sozialen Medien wegputze",
@@ -696,14 +784,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
       "publishedAt": "2026-10-27T04:20:26.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-      "excerpt": "Nach der Stichwahl hat nun auch Bolsonaros Partei die Niederlage anerkannt. Doch die Herausforderungen, vor denen Lula steht, sind groß. Die Kosten für essenzielle Güter wie Lebensmittel sind hoch. Die vierte Amtszeit kö",
-      "url": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
-      "publishedAt": "2026-10-27T03:06:48.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -754,14 +834,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Kann Alexander Dobrindt per Gesetz die Berliner Vergesellschaftungspläne stoppen?",
-      "excerpt": "Die angehende rot-grün-rote Regierung in Berlin will Wohnungen vergesellschaften. Jetzt hat Innenminister Dobrindt Eckpunkte für ein Gesetz vorgelegt, das das erschweren soll. Doch es gibt Zweifel an seinem Vorgehen.",
-      "url": "https://www.spiegel.de/politik/deutschland/bundesinnenminister-vs-rot-gruen-rot-kann-alexander-dobrindt-per-gesetz-die-berliner-vergesellschaftungsplaene-stoppen-a-79185181-dd9a-4eac-8d65-134c071c4c6c#ref=rss",
-      "publishedAt": "2026-10-26T16:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
       "excerpt": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen",
@@ -792,46 +864,6 @@
       "url": "https://www.deutschlandfunk.de/ki-im-bewerbungsprozess-was-ist-erlaubt-und-was-nicht-100.html",
       "publishedAt": "2026-10-26T13:40:00.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Stromsteuersenkung: Anke Rehlinger wirft Friedrich Merz »leere Versprechungen« vor",
-      "excerpt": "Bundeskanzler Merz zeigte sich zuversichtlich, die Stromsteuer im nächsten Jahr für alle senken zu können. Woher das Geld kommen soll, ist unklar. Und genau das kritisiert die saarländische Ministerpräsidentin.",
-      "url": "https://www.spiegel.de/politik/deutschland/stromsteuersenkung-anke-rehlinger-wirft-friedrich-merz-leere-versprechungen-vor-a-d54f0f8c-c394-4a5f-aae0-1437263c3f24#ref=rss",
-      "publishedAt": "2026-10-26T12:45:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin: Elif Eralp nennt Alexander Dobrindts Pläne gegen Vergesellschaftung verfassungswidrig",
-      "excerpt": "Bundesinnenminister Alexander Dobrindt will Vergesellschaftungen enorm erschweren – und damit Pläne der Linken in Berlin verhindern. Die Linken-Spitzenkandidatin Elif Eralp wehrt sich.",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-elif-eralp-nennt-alexander-dobrindts-plaene-gegen-vergesellschaftung-verfassungswidrig-a-8a10e6db-ac88-4e97-9d81-286c84d5e070#ref=rss",
-      "publishedAt": "2026-10-26T12:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Benjamin Netanyahu: Sein umstrittener Berater Srulik Einhorn und dessen CDU-Verbindungen",
-      "excerpt": "Srulik Einhorn verehrt Israels Premier Benjamin Netanyahu, beriet rechtsnationale Politiker in Europa – und offenbar auch mehrere CDU-Landesverbände. Seine Methoden beschäftigen längst die israelische Justiz.",
-      "url": "https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-sein-umstrittener-berater-srulik-einhorn-und-dessen-cdu-verbindungen-a-7db678a7-1bb9-4b7f-979d-f179171b813c#ref=rss",
-      "publishedAt": "2026-10-26T11:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Politischer Diskurs: Die Verantwortungslosigkeit unsinniger Politikerforderungen",
-      "excerpt": "Wo man auch hinschaut in der deutschen Politik, überall fehlt der Ernst. Das ist nicht nur unhöflich, sondern verantwortungslos.",
-      "url": "https://www.spiegel.de/politik/deutschland/politischer-diskurs-die-verantwortungslosigkeit-unsinniger-politikerforderungen-a-cffa72a9-81e5-410d-9add-dc0dbce6487d#ref=rss",
-      "publishedAt": "2026-10-26T08:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Nachfolge des Bundespräsidenten: Ilse Aigner erhält Unterstützung aus Sachsen und Bremen",
-      "excerpt": "Sie könnte die erste Frau an der Staatsspitze werden: Zwei Ministerpräsidenten sprachen sich für die Kandidatur von CSU-Politikerin Ilse Aigner aus. Nur die CDU-Spitze und Kanzler Merz haben sich noch nicht festgelegt.",
-      "url": "https://www.spiegel.de/politik/deutschland/nachfolge-des-bundespraesidenten-ilse-aigner-erhaelt-unterstuetzung-aus-sachsen-und-bremen-a-dd7a21ad-84f6-4503-b0c5-5d6dde16a9da#ref=rss",
-      "publishedAt": "2026-10-26T06:30:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -960,22 +992,6 @@
       "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
       "publishedAt": "2026-10-24T08:55:12.000Z",
       "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wie sieht die Zukunft der Raffinerien aus?",
-      "excerpt": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind sk",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
-      "publishedAt": "2026-10-24T01:06:57.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-      "excerpt": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den ta",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-      "publishedAt": "2026-10-23T19:45:20.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "DLF",
@@ -1160,22 +1176,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
       "publishedAt": "2026-10-20T08:07:00.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "DLF",
-      "title": "Karrieresprungbrett für IT-Sicherheit: Europameisterschaft der Hacker",
-      "excerpt": "Panning, Jonas www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/karrieresprungbrett-fuer-it-sicherheit-europameisterschaft-der-hacker-100.html",
-      "publishedAt": "2026-10-19T12:55:00.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Ganztagsschulen in NRW: Streit ums Mittagessen",
-      "excerpt": "Rüsberg, Kai www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/ganztagsschulen-in-nrw-streit-ums-mittagessen-100.html",
-      "publishedAt": "2026-10-19T12:50:00.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
