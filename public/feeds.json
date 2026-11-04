@@ -1,12 +1,132 @@
 {
-  "updatedAt": "2026-11-04T08:01:42.088Z",
+  "updatedAt": "2026-11-04T16:18:47.422Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Wenig Anfragen in Beratungszentrum - Nur drei wehrfähige Ukrainer wollen zurück",
-      "excerpt": "Mehr als 1,3 Millionen Schutzsuchende aus der Ukraine leben in Deutschland.",
-      "url": "https://www.bild.de/politik/fluechtlinge-aus-der-ukraine-im-wehrfaehigen-alter-wollen-nur-drei-maenner-zurueck-6aeacf211a1d431301d46224",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
+      "title": "Berliner Linken-Politikerin - Neue Provokation von Vanessa Emde!",
+      "excerpt": "Vanessa Emde soll ihr Mandat wegen einer umstrittenen Aktivistin zurückgeben.",
+      "url": "https://www.bild.de/politik/inland/vanessa-emde-auftritt-mit-umstrittener-aktivistin-bei-linken-in-berlin-sorgt-fuer-streit-6aeade7a748580e4813c34d7",
+      "publishedAt": "2026-11-04T16:18:47.053Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Überraschende Umfrage - Das SPD-Wunder im Saarland",
+      "excerpt": "Anke Rehlinger liegt mit ihrer Partei bei 33 Prozent vor CDU und AfD.",
+      "url": "https://www.bild.de/politik/inland/saarland-ueberraschende-umfrage-spd-von-rehlinger-erlebt-kleines-wunder-6aeaf2ac1a1d431301d4650b",
+      "publishedAt": "2026-11-04T16:18:47.053Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wichtigste Waffe: Veto! - Wie viel Macht hat Trump jetzt noch?",
+      "excerpt": "Macht im Kongress ist futsch, doch dieser US-Präsident wird eine „lahme Ente“ mit Zähnen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wichtigste-waffe-veto-wie-viel-macht-hat-trump-jetzt-noch-6aead7711a1d431301d462e0",
+      "publishedAt": "2026-11-04T16:18:47.053Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Judenhass und Enteignungen - Linken-Pakt in Berlin: Klingbeil bricht Schweigen",
+      "excerpt": "Lars Klingbeil bricht sein Schweigen zum Linken-Pakt der SPD und geht die Berliner Linke hart an.",
+      "url": "https://www.bild.de/politik/inland/judenhass-und-enteignungen-linken-pakt-in-berlin-klingbeil-bricht-schweigen-6aeb476299c6bf1f5f1aad5d",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Klingbeil und das Steuerchaos - „Der Staat missbraucht unser Geld!“",
+      "excerpt": "Geplante Steuerentlastungen für Millionen Bürger stehen auf der Kippe.",
+      "url": "https://www.bild.de/politik/steuerentlastungen-auf-der-kippe-regierung-stoppt-berichte-6aeb09d41a1d431301d46870",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wahl zum Ministerpräsidenten - Unerwartete Konkurrenz für AfD-Siegmund",
+      "excerpt": "Bei der MP-Wahl könnte es Konkurrenz für AfD-Kandidat Siegmund geben.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-linke-erwaegt-gegenkandidatur-zu-afd-kandidat-siegmund-6aeb37e109e0301c03e7f3fe",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Union blockt: Zuckersteuer kommt vorerst nicht!",
+      "excerpt": "Berlin – Erst sollte es ab dem 1. Januar 2027 eine Abgabe für die Krankenkassen werden, dann ab Juli eine Steuer für den Finanzminis...",
+      "url": "https://www.bild.de/politik/inland/bild-exklusiv-union-blockt-zuckersteuer-kommt-vorerst-nicht-6aeb235b1a1d431301d46b3e",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mikrofon im Klassenraum - Putin überwacht Lehrer und Schüler",
+      "excerpt": "Moskauer Behörden können in Klassenräumen heimlich Mikrofone einschalten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/putin-laesst-schulen-ueberwachen-mikrofone-zeichnen-unterricht-auf-6aeac5c3955da465e2264cf7",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD deckt auf! - Friedensplan für Ukraine entstand in deutscher Botschaft",
+      "excerpt": "Diplomat Martin Nissen schlägt fünf Jahre UN-Verwaltung und Volksabstimmungen vor.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/dieser-diplomat-schrieb-ihn-auf-friedensplan-fuer-ukraine-entstand-in-deutscher-botschaft-6ad08f298a441c6635d99543",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Außenminister Wadephul zu den Midterms - Das bedeutet das Wahlergebnis für die Ukraine",
+      "excerpt": "Nach den Midterms blickt die Welt auf die USA. Bundesaußenminister Johann Wadephul ordnet das Wahlergebnis ein.",
+      "url": "https://www.bild.de/politik/aussenminister-wadephul-zu-den-midterms-das-bedeutet-das-wahlergebnis-fuer-die-ukraine-6aeb306e09e0301c03e7f2b7",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hessen-Innenminister - 80 Prozent der Chaoten haben Migrationshintergrund",
+      "excerpt": "Bei den Ausschreitungen wurden laut Innenminister 100 Polizisten verletzt.",
+      "url": "https://www.bild.de/politik/inland/hessen-innenminister-80-prozent-der-chaoten-mit-migrationshintergrund-6aeb240799c6bf1f5f1aa907",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Wahlschlappe für Republikaner - Berühmter Trump-Fan rastet im Livestream aus",
+      "excerpt": "Internetstar Asmongold fühlt sich von seinem politischen Idol verraten.",
+      "url": "https://www.bild.de/politik/donald-trump-kassiert-wahlniederlage-asmongold-wettert-im-livestream-gegen-idol-6aeb0a4c3f6a429425b73496",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gewinn-Einbrüche, Job-Angst - Die Auto-Krise wird zum deutschen Industrie-Drama",
+      "excerpt": "Welche Folgen die Stellenstreichungen im ganzen Land haben.",
+      "url": "https://www.bild.de/politik/inland/gewinne-brechen-ein-jobs-weg-schuldenkrise-so-frisst-sich-die-auto-krise-durch-unser-land-6ae4af3cbfb85e617afeb45a",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "BILD exklusiv - Union im Süden für Aigner als Bundespräsidentin",
+      "excerpt": "CSU und CDU-Landeschefs unterstützen die Kandidatur der Bayerin fürs höchste Staatsamt.",
+      "url": "https://www.bild.de/politik/inland/cdu-und-csu-im-sueden-fordern-ilse-aigner-als-naechste-bundespraesidentin-6aeb30ac8379e9b057e1687a",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Sorgen in Kiew und Europa - Trump verliert – und die Welt fürchtet die Folgen",
+      "excerpt": "US-Demokraten erobern den Kongress, doch der Präsident bleibt außenpolitisch mächtig.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/jubel-im-iran-sorgen-in-kiew-und-europa-wird-trump-jetzt-noch-gefaehrlicher-fuer-die-welt-6aeadc6e748580e4813c34ac",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Global Reporterin zu Midterm Ergebnis - Das wird sich jetzt für Trump ändern",
+      "excerpt": "Bei US-Zwischenwahlen verlieren Republikaner Mehrheiten in Senat und Repräsentantenhaus.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/amerika-hat-gewaehlt-midterms-in-den-usa-trump-scheint-das-ergebnis-zu-akzeptieren-6aeac447955da465e2264cdd",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
       "category": "POLITIK"
     },
     {
@@ -14,296 +134,440 @@
       "title": "Global Reporter Paul Ronzheimer - Trump-Debakel muss Europa alarmieren",
       "excerpt": "Global Reporter Paul Ronzheimer erwartet trotz des Wahlergebnisses keinen grundlegenden Kurswechsel der USA gegenüber der Ukraine.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/global-reporter-paul-ronzheimer-zu-den-midterms-keine-grosse-wende-in-ukraine-politik-6aeacc1a1a1d431301d461d4",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "Keine Sondierungen - Berliner Grüne und SPD lassen CDU abblitzen",
-      "excerpt": "Berlin: Sozialdemokraten und Ökopartei setzen auf eine Koalition mit der Linken.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/berlin-cdu-abgeblitzt-gruene-und-spd-lehnen-sondierungen-ab-6aeadf5c748580e4813c34e7",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ex-Obama-Berater analysiert Midterms - „Das ist ein toxischer Cocktail“",
-      "excerpt": "Obama-Berater Julius van de Laar kommentiert die US-Midterms 2026.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ehemaliger-berater-von-obama-analysiert-midterms-das-ist-ein-toxischer-cocktail-6aead6fa1a1d431301d462c4",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter aus New York - Trump regierte fast wie ein Monarch",
-      "excerpt": "BILD-Reporter Herbert Bauernebel erklärt die Niederlage bei den US-Midterms.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-reporter-aus-new-york-trump-regierte-fast-wie-ein-monarch-6aeadbdf748580e4813c34a3",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Prognose - Bei Bundespräsidenten-Wahl hat DIESE Frau die Nase vorn",
-      "excerpt": "Auf Frank-Walter Steinmeier folgt eine Frau in Schloss Bellevue. Aber welche?",
-      "url": "https://www.bild.de/politik/inland/bundespraesidenten-wahl-diese-vier-frauen-sind-noch-im-rennen-6aea0933cad3152eb3265b24",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Metaller-Boss schlägt Alarm - Weitere 300.000 Jobs vor dem Aus!",
-      "excerpt": "Gesamtmetall warnt: In der Industrie könnten bis 2030 300.000 Stellen entfallen.",
-      "url": "https://www.bild.de/politik/inland/metaller-boss-schlaegt-alarm-weitere-300-000-metaller-jobs-vor-dem-aus-6ae9e3c070820d59f932a061",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Politikchef analysiert die Midterms - „Für die Wirtschaft eher keine gute Nachricht“",
-      "excerpt": "Bei den Zwischenwahlen in den USA verlieren die Republikaner ihre Mehrheiten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-politikchef-analysiert-die-midterms-fuer-die-wirtschaft-eher-keine-gute-nachricht-6aead71d1a1d431301d462cf",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Niederlage bei den Midterms - Trumps bitterer Wahl-Bumerang",
-      "excerpt": "Seine Erfolgs-Themen wurden ihm jetzt zum Verhängnis",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-seine-erfolgs-themen-wurden-zum-midterm-verhaengnis-6aea94fd20bce96d34ce8e46",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Republikaner verlieren Macht - Doppel-Klatsche für Trump",
-      "excerpt": "Demokraten erobern das Repräsentantenhaus und gewinnen wichtige Senatssitze.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-unter-druck-demokraten-vor-mehrheit-im-repraesentantenhaus-6aea8fd68654beaecfe28f71",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "US-Wahlen - Demokratin wird erste schwarze Gouverneurin in USA",
-      "excerpt": "Keisha Lance Bottoms holt Georgia nach Jahrzehnten zurück zu den Demokraten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/keisha-lance-bottoms-erste-schwarze-gouverneurin-der-usa-gewaehlt-6aeab2908eac27bc2057f6e4",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Global Reporterin Sophia Cai zu Midterm Ergebnis - Das wird sich für Trump in den nächsten zwei Jahren ändern",
-      "excerpt": "Amerika hat gewählt: US-Präsident Donald Trump verliert einen guten Teil seiner Macht. Ergebnis der Midterms (US‑Zwischenwahlen): Di...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/amerika-hat-gewaehlt-midterms-in-den-usa-trump-scheint-das-ergebnis-zu-akzeptieren-6aeac447955da465e2264cdd",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Kriegstraining für Schüler - So rüsten sich Putins Nachbarn für den Ernstfall",
-      "excerpt": "Norwegen, Finnland und Polen bereiten ihre Bevölkerung auf Krieg und Krisen vor.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/putins-nachbarn-ruesten-zivilisten-mit-schiesstraining-fuer-den-ernstfall-6ae99e5d08ca4edf91e650cf",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter in N.Y. zu den Midterms - „Ein wuchtiger Moment für Amerika“",
-      "excerpt": "Amerika hat gewählt. US-Präsident Donald Trump verliert einen guten Teil seiner Macht. Ergebnis der Midterms (US‑Zwischenwahlen): Di...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/bild-reporter-herbert-bauernebel-zu-den-midterms-ein-wuchtiger-moment-fuer-amerika-6aeacb171a1d431301d461bf",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Mail von Martenstein - Liebe Trainer-Legende Ottmar Hitzfeld!",
-      "excerpt": "Sie waren einer der besten Trainer der deutschen Fußballgeschichte.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-liebe-trainer-legende-ottmar-hitzfeld-6aea1fe4cad3152eb3265d5c",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Demokraten holen Trump-Hochburg - Texas-Sensation perfekt!",
-      "excerpt": "Demokraten gewinnen im Südstaat Senat und Gouverneursposten!",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/james-talarico-demokrat-vor-historischem-sieg-in-texas-6aeaadcdb73023840ba832e4",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Hamas-Nähe von Parteifreunden - Lanz führt Linke-Chefin vor",
-      "excerpt": "Die Debatte drehte sich um Kontakte zur Terrororganisation Hamas.",
-      "url": "https://www.bild.de/politik/politik-talkshows-im-tv-talk-kritik/wegen-hamas-naehe-markus-lanz-fuehrt-linke-chefin-vor-6aea902020bce96d34ce8e16",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Alaska - Zwei Sullivans auf Wahlzettel! Republikaner wittert Wahlbetrug",
-      "excerpt": "US-Justiz untersucht, wie ein zweiter Sullivan auf den Stimmzettel kam.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/dan-sullivan-us-justiz-untersucht-zweiten-sullivan-auf-dem-wahlzettel-6aea5f8d9664b64e37ecc325",
-      "publishedAt": "2026-11-04T08:01:41.901Z",
+      "title": "Verdacht auf sexuellen Übergriff - Anzeige gegen Boris Palmer!",
+      "excerpt": "Justiz prüft Verdacht eines sexuellen Übergriffs durch Tübingens Oberbürgermeister.",
+      "url": "https://www.bild.de/politik/inland/verdacht-auf-sexuellen-uebergriff-anzeige-gegen-tuebingens-ob-boris-palmer-6aeb13a03f6a429425b735cf",
+      "publishedAt": "2026-11-04T16:18:47.052Z",
       "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses",
-      "excerpt": "Die US-Demokraten haben bei den Midterms die Mehrheiten im Senat und im Repräsentantenhaus gewonnen. Der demokratische Fraktionschef im Repräsentantenhaus, Jeffries, jubelte: \"Amerika ist zurück.\" Auch bei den Gouverneur",
-      "url": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html",
-      "publishedAt": "2026-11-04T07:55:10.000Z",
+      "title": "Liveblog zu den Midterms: ++ Berichte: Johnson will nicht Fraktionschef bleiben ++",
+      "excerpt": "Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren. Nach deren Niederlage äußert sich die iranische Staatsspitze und gibt sich",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "publishedAt": "2026-11-04T16:16:04.000Z",
       "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Friedrich Merz reist nicht zur Klimakonferenz: Grüne kritisieren Kanzler als »Enttäuschung in Sachen Klimaschutz«",
+      "excerpt": "Bundeskanzler Friedrich Merz wird nicht zur Klimakonferenz in die Türkei reisen. Die Grünenfraktionschefin Katharina Dröge spricht von einem »verheerenden Signal für die Welt«. Kritik kommt auch von Luisa Neubauer.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss",
+      "publishedAt": "2026-11-04T16:11:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "News des Tages: US-Demokraten, Trumps Niederlage, Janosch ist tot",
+      "excerpt": "Die US-Demokraten feiern ihren Sieg – und stehen vor einer harten Probe. Trump verliert die Wahl an der Tankstelle. Deutschland trauert um den Schöpfer der Tigerente. Das ist die Lage am Mittwochabend.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss",
+      "publishedAt": "2026-11-04T16:05:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Verfassungsänderung in NRW: Die AfD im Blick",
+      "excerpt": "Eine breite Mehrheit im NRW-Landtag will die Verfassung ändern – und Parlament und Verfassungsgericht vor Missbrauch durch Ex­tre­mis­ten schützen. mehr...",
+      "url": "https://taz.de/Verfassungsaenderung-in-NRW/!6226960/",
+      "publishedAt": "2026-11-04T15:48:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Umwelt - Laut UNO-Bericht fehlen Milliarden für Kampf gegen Klimawandel",
+      "excerpt": "Um die Folgen des Klimawandels zu bewältigen, sind nach einem Bericht des UNO-Umweltprogramms UNEP bis 2035 jedes Jahr 305 Milliarden US-Dollar notwendig. 2024 ist aber laut einem aktuellen UNEP-Bericht nur rund ein Zehn",
+      "url": "https://www.deutschlandfunk.de/laut-uno-bericht-fehlen-milliarden-fuer-kampf-gegen-klimawandel-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Midterms - Wadephul hofft nach US-Kongresswahl auf mehr Unterstützung für Ukraine",
+      "excerpt": "Bundesaußenminister Wadephul hofft nach dem Sieg der US-Demokraten bei den Zwischenwahlen auf eine neue Dynamik zur Unterstützung der Ukraine.",
+      "url": "https://www.deutschlandfunk.de/wadephul-hofft-nach-us-kongresswahl-auf-mehr-unterstuetzung-fuer-ukraine-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Checks and Balances\" - USA nach den Zwischenwahlen: Welche Folgen hat das Ergebnis für Präsident Trump?",
+      "excerpt": "Die Ergebnisse der Zwischenwahlen haben weitreichende Folgen für den politischen Prozess in den USA. Denn durch die Mehrheit der Demokraten in beiden Kongresskammern wird es für Präsident Trump schwieriger, seine politis",
+      "url": "https://www.deutschlandfunk.de/usa-nach-den-zwischenwahlen-welche-folgen-hat-das-ergebnis-fuer-praesident-trump-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Midterms - Demokraten erobern Mehrheit im Senat und im Repräsentantenhaus",
-      "excerpt": "Bei den Zwischenwahlen in den USA haben die Demokraten nach dem Repräsentantenhaus auch die Mehrheit im Senat erreicht. Hochrechnungen zufolge verfügen sie in der zweiten Kammer des Kongresses aktuell nun über 54 Sitze. ",
+      "excerpt": "Bei den Zwischenwahlen in den USA haben die Demokraten die Mehrheit in beiden Kongresskammern gewonnen. Übereinstimmenden Hochrechnungen zufolge haben sie im Senat 54 der insgesamt 100 Sitze sicher. Die Republikaner komm",
       "url": "https://www.deutschlandfunk.de/demokraten-erobern-mehrheit-im-senat-und-im-repraesentantenhaus-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Newsblog zu den US-\"Midterms\" - Michigan: Demokrat El-Sayed wird erster muslimischer Senator",
-      "excerpt": "+++ Im Bundesstaat Michigan haben die Demokraten ihren Senatssitz verteidigt. +++ US-Präsident Trump will die Ergebnisse der Zwischenwahlen akzeptieren. +++ Die Demokraten nehmen den Republikanern sowohl die Mehrheit im ",
-      "url": "https://www.deutschlandfunk.de/michigan-demokrat-el-sayed-wird-erster-muslimischer-senator-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Newsblog zu den US-\"Midterms\" - Iran rechnet nicht mit anderer US-Politik und warnt vor neuen Angriffen",
+      "excerpt": "+++ Irans oberster Führer Chamenei geht nicht davon aus, dass sich die US-Politik durch die Niederlage der Republikaner ändert. +++ US-Präsident Trump hat nach dem Wahlsieg der Demokraten Kooperationsbereitschaft signali",
+      "url": "https://www.deutschlandfunk.de/iran-rechnet-nicht-mit-anderer-us-politik-und-warnt-vor-neuen-angriffen-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ukraine-Krieg - Drohnenangriff auf Filiale des russischen Internet-Händlers Ozon",
-      "excerpt": "Die ukrainische Armee hat Agenturberichten zufolge in der Nacht erneut eine Filiale eines großen russischen Internethändlers beschossen.",
-      "url": "https://www.deutschlandfunk.de/drohnenangriff-auf-filiale-des-russischen-internet-haendlers-ozon-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Änderung der Grundordnung - Universität Kassel kann künftig mit Rüstungsindustrie kooperieren",
+      "excerpt": "Die Universität Kassel hat künftig die Möglichkeit, mit der Rüstungsindustrie zu kooperieren.",
+      "url": "https://www.deutschlandfunk.de/universitaet-kassel-kann-kuenftig-mit-ruestungsindustrie-kooperieren-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Ukraine - Grüne halten Hilfe für Kiew für unverzichtbar - Wagener: Druck auf Moskau muss bleiben",
-      "excerpt": "Der Außenpolitiker der Bundestagsfraktion von Bündnis90/Die Grünen, Wagener, hat die weitere Hilfe für die Ukraine als unverzichtbar für den Schutz Europas bezeichnet.",
-      "url": "https://www.deutschlandfunk.de/gruene-halten-hilfe-fuer-kiew-fuer-unverzichtbar-wagener-druck-auf-moskau-muss-bleiben-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Midterms - Bundesregierung zurückhaltend, deutsche Politiker gratulieren US-Demokraten",
+      "excerpt": "Die Bundesregierung will den Ausgang der US-Zwischenwahlen nicht bewerten.",
+      "url": "https://www.deutschlandfunk.de/bundesregierung-zurueckhaltend-deutsche-politiker-gratulieren-us-demokraten-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Industrie - Metall-Arbeitgeber gehen von weiterem Job-Abbau aus",
-      "excerpt": "Angesichts der anhaltend schwachen Auftragslage und hoher Produktionskosten ‌rechnet der ⁠Arbeitgeberverband Gesamtmetall einem Zeitungsbericht zufolge mit einer Beschleunigung des Stellenabbaus in der Metall- und Elektr",
-      "url": "https://www.deutschlandfunk.de/metall-arbeitgeber-gehen-von-weiterem-job-abbau-aus-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Ukraine-Krieg - Russland greift wieder Kraftwerke an",
+      "excerpt": "Russland hat in der Nacht wieder zahlreiche Ziele in der Ukraine angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russland-greift-wieder-kraftwerke-an-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Handy-Blitzer - Auch Deutsche Verkehrssicherheitsrat fordert härtere Maßnahmen gegen Handy am Steuer",
-      "excerpt": "Nach Bundesverkehrsminister Bilger hat sich auch der Deutsche Verkehrssicherheitsrat für die bundesweite Einführung von sogenannten Handy-Blitzern auf Autobahnen ausgesprochen. DVR-Präsident Wirsch bezeichnete die Kamera",
-      "url": "https://www.deutschlandfunk.de/auch-deutsche-verkehrssicherheitsrat-fordert-haertere-massnahmen-gegen-handy-am-steuer-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Geheimdienste - Ungarn macht erstmals Stasi-Akten umfassend zugänglich",
+      "excerpt": "Zum ersten Mal seit der demokratischen Wende macht Ungarn Akten der kommunistischen Staatssicherheit umfassend zugänglich.",
+      "url": "https://www.deutschlandfunk.de/ungarn-macht-erstmals-stasi-akten-umfassend-zugaenglich-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Wahlversprechen von Lula - Senat in Brasilien beschließt Gesetz zur Bekämpfung der organisierten Kriminalität",
-      "excerpt": "In Brasilien hat der Senat eine weitreichende Reform von Präsident Lula da Silva zur Bekämpfung der organisierten Kriminalität gebilligt.",
-      "url": "https://www.deutschlandfunk.de/senat-in-brasilien-beschliesst-gesetz-zur-bekaempfung-der-organisierten-kriminalitaet-102.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Westbalkan - EU-Kommission: Montenegro könnte nächstes EU-Mitglied werden",
+      "excerpt": "Montenegro könnte nach Einschätzung der EU-Kommission das nächste Mitgliedsland der Europäischen Union werden. Wie aus einer neuen Analyse der Brüsseler Behörde hervorgeht, könnten bereits Ende dieses Jahres die Beitritt",
+      "url": "https://www.deutschlandfunk.de/eu-kommission-montenegro-koennte-naechstes-eu-mitglied-werden-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Sicherheitsabkommen - Grönland gibt grünes Licht für Abkommen mit den USA",
-      "excerpt": "Das Parlament in Grönland hat das im September mit den USA und Dänemark unterzeichnete Sicherheitsabkommen ratifiziert.",
-      "url": "https://www.deutschlandfunk.de/groenland-gibt-gruenes-licht-fuer-abkommen-mit-den-usa-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "\"Oh wie schön ist Panama\" - Schriftsteller und Ilustrator Janosch mit 95 Jahren gestorben",
+      "excerpt": "Der Schriftsteller und Illustrator Janosch ist tot. Wie sein Verlag mitteilte, starb er im Alter von 95 Jahren auf Teneriffa. Mit Büchern wie \"Oh wie schön ist Panama\" begeisterte Janosch seit den 70er Jahren Kinder und ",
+      "url": "https://www.deutschlandfunk.de/schriftsteller-und-ilustrator-janosch-mit-95-jahren-gestorben-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Raketentest - Nordkorea feuert offenbar erneut Geschosse Richtung Meer",
-      "excerpt": "Nordkorea hat nach Angaben des südkoreanischen Militärs erneut ein Geschoss Richtung Meer abgefeuert.",
-      "url": "https://www.deutschlandfunk.de/nordkorea-feuert-offenbar-erneut-geschosse-richtung-meer-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Europäische Zentralbank - Niederlande nominieren Ex-Notenbankchef Knot für Chefposten",
+      "excerpt": "Die Niederlande haben den früheren Notenbankchef ‌Klaas Knot als neuen Präsidenten der Europäischen Zentralbank vorgeschlagen.",
+      "url": "https://www.deutschlandfunk.de/niederlande-nominieren-ex-notenbankchef-knot-fuer-chefposten-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach tödlichen Zugunfällen - Spaniens Verkehrsminister Puente kündigt Rücktritt an",
-      "excerpt": "Spaniens Verkehrsminister Puente hat nach dem tödlichen Zugunglück vor gut einer Woche seinen Rücktritt eingereicht. Auf einer Pressekonferenz nach einer Anhörung vor dem Parlamentsausschuss in Madrid sagte Puente, er wo",
-      "url": "https://www.deutschlandfunk.de/spaniens-verkehrsminister-puente-kuendigt-ruecktritt-an-102.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Teuerung - Inflationsrate im Euro-Raum erreicht 4,0 Prozent",
+      "excerpt": "Die hohen Energiepreise haben die Teuerung im Euro-Raum auf den höchsten Stand seit mehr als drei Jahren ‌getrieben.",
+      "url": "https://www.deutschlandfunk.de/inflationsrate-im-euro-raum-erreicht-4-0-prozent-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Teuerungsrate - Bundesbankpräsident Nagel erwartet höheren EZB-Leitzins im Dezember",
-      "excerpt": "Die Europäische Zentralbank steuert nach Einschätzung von Bundesbank-Präsident Nagel auf eine Zinserhöhung im kommenden Monat zu. Nagel sagte auf einer Veranstaltung in Berlin, eine Anhebung sei \"sehr wahrscheinlich notw",
-      "url": "https://www.deutschlandfunk.de/bundesbankpraesident-nagel-erwartet-hoeheren-ezb-leitzins-im-dezember-104.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Israel - Wahlkommission sieht keine Unregelmäßigkeiten - Konsultationen beginnen",
+      "excerpt": "In Israel hat das Zentrale Wahlkomitee die Ergebnisse der Parlamentswahl gebilligt.",
+      "url": "https://www.deutschlandfunk.de/wahlkommission-sieht-keine-unregelmaessigkeiten-konsultationen-beginnen-104.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Berlin - Merz ruft Russland zu Friedensverhandlungen mit der Ukraine auf",
-      "excerpt": "Zum Abschluss seines Besuchs in Berlin hat der ukrainische Staatschef Selenskyj mit Bundespräsident Steinmeier zu Abend gegessen.",
-      "url": "https://www.deutschlandfunk.de/merz-ruft-russland-zu-friedensverhandlungen-mit-der-ukraine-auf-114.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Cyberkriminalität - Hacker haben in Frankreich auch Blutspendedienst angegriffen",
+      "excerpt": "Von den Hackerangriffen auf Kühlanlagen sind in Frankreich auch mehrere Blutbanken betroffen gewesen.",
+      "url": "https://www.deutschlandfunk.de/hacker-haben-in-frankreich-auch-blutspendedienst-angegriffen-104.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Katastrophenschutz - Nationale Krisenübung zu Dürre und Hitzewelle startet",
-      "excerpt": "Zehn Bundesländer beteiligen sich ab heute an einer groß angelegten Übung zum Krisenmanagement.",
-      "url": "https://www.deutschlandfunk.de/nationale-krisenuebung-zu-duerre-und-hitzewelle-startet-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Verdacht auf Körperverletzung - Nadeln in weiteren Süßigkeiten entdeckt",
+      "excerpt": "In Bayern sind weitere Fälle von Halloween-Süßigkeiten bekanntgeworden, die mit Nadeln präpariert wurden.",
+      "url": "https://www.deutschlandfunk.de/nadeln-in-weiteren-suessigkeiten-entdeckt-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Flugverkehr - Lufthansa steigt bei der portugiesischen Tap ein",
-      "excerpt": "Der Einstieg des Lufthansa-Konzerns bei der portugiesischen Staatsfluglinie Tap ist beschlossen.",
-      "url": "https://www.deutschlandfunk.de/lufthansa-steigt-bei-der-portugiesischen-tap-ein-100.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Berlin - Kabinett beschließt verpflichtenden Standard für bundesweite Wohnsitzanmeldung",
+      "excerpt": "Bürgerinnen und Bürger können künftig überall in Deutschland über die Internet-Adresse \"wohnsitzanmeldung.gov.de\" ihren Wohnsitz an- und ummelden.",
+      "url": "https://www.deutschlandfunk.de/kabinett-beschliesst-verpflichtenden-standard-fuer-bundesweite-wohnsitzanmeldung-100.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Nach Protesten - Richter des polnischen Verfassungsgerichts setzen Disziplinarkommission ein",
-      "excerpt": "In Polen haben sich nach der Absetzung des Verfassungsgerichts-Präsidenten mehrere Richter auf das weitere Vorgehen geeinigt.",
-      "url": "https://www.deutschlandfunk.de/richter-des-polnischen-verfassungsgerichts-setzen-disziplinarkommission-ein-108.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Wirtschaft - BMW senkt Prognose für das laufende Jahr",
-      "excerpt": "Der Automobilhersteller BMW hat eine sogenannte Gewinnwarnung an seine Aktionäre herausgegeben.",
-      "url": "https://www.deutschlandfunk.de/bmw-senkt-prognose-fuer-das-laufende-jahr-106.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Rundfunk - Tschechische öffentlich-rechtliche Medien streiken wegen geplanter Gebührenreform",
-      "excerpt": "In Tschechien haben Beschäftigte des öffentlich-rechtlichen Rundfunks gegen die geplante Abschaffung der Rundfunkgebühren protestiert.",
-      "url": "https://www.deutschlandfunk.de/tschechische-oeffentlich-rechtliche-medien-streiken-wegen-geplanter-gebuehrenreform-110.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Weiterer Anlauf - Schwedischer Ministerpräsident Kristersson erneut mit Regierungsbildung beauftragt",
-      "excerpt": "In Schweden soll nach zwei gescheiterten Versuchen der Regierungsbildung der amtierende Ministerpräsident Kristersson Sondierungsgespräche aufnehmen.",
-      "url": "https://www.deutschlandfunk.de/schwedischer-ministerpraesident-kristersson-erneut-mit-regierungsbildung-beauftragt-108.html",
-      "publishedAt": "2026-11-04T07:54:11.000Z",
+      "title": "Deutsche Krankenhausgesellschaft - Kliniken, Ärzte und Pflege erarbeiten Leitbild gegen Machtmissbrauch",
+      "excerpt": "Kliniken, Ärzte und Pflegekräfte wollen gemeinsam gegen Machtmissbrauch und sexuelle Belästigung in Krankenhäusern vorgehen.",
+      "url": "https://www.deutschlandfunk.de/kliniken-aerzte-und-pflege-erarbeiten-leitbild-gegen-machtmissbrauch-102.html",
+      "publishedAt": "2026-11-04T15:43:57.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Liveblog zu den Midterms: ++ Linker Demokrat El-Sayed gewinnt Senatssitz in Michigan ++",
-      "excerpt": "In Michigan hat sich der Demokrat El-Sayed durchgesetzt, er wird erster muslimischer Senator. In Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt. Auch in anderen Staaten gibt es historische Ergebnisse.",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-      "publishedAt": "2026-11-04T07:52:53.000Z",
+      "title": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
+      "excerpt": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
+      "publishedAt": "2026-11-04T15:42:29.000Z",
       "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Gewinner des Filmfestivals DOK Leipzig: Nachrichten aus der Welt in multipler Dauerkrise",
+      "excerpt": "Das 69. Filmfestival DOK Leipzig war geprägt von Konflikten der Gegenwart. Dieser Jahrgang war einer seiner stärksten bisher. mehr...",
+      "url": "https://taz.de/Gewinner-des-Filmfestivals-DOK-Leipzig/!6227333/",
+      "publishedAt": "2026-11-04T15:36:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Abkehr vom Verbrenner-Aus: Laschere Klimaregeln nehmen die nächste Hürde",
+      "excerpt": "Die europäischen Mitte-Fraktionen hatten stark verwässerte CO2-Regeln für Verbrennerautos ausgehandelt. Jetzt hat sie auch der Umweltausschuss abgenickt. mehr...",
+      "url": "https://taz.de/Abkehr-vom-Verbrenner-Aus/!6227245/",
+      "publishedAt": "2026-11-04T15:35:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Belastung durch Chemikalien: Deutsche Umwelthilfe verklagt Shein",
+      "excerpt": "Die Umweltorganisation geht gerichtlich gegen den Online-Händler Shein vor. EU-Grenzwerte für Chemikalien seien teils massiv überschritten worden. mehr...",
+      "url": "https://taz.de/EU-Grenzwerte-fuer-Chemikalien-Deutsche-Umwelthilfe-verklagt-Shein/!6227403/",
+      "publishedAt": "2026-11-04T15:33:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Ukrainische Armee in Kursk: Von Normalität keine Spur",
+      "excerpt": "Teile der russischen Region Kursk waren mehrere Monate in ukrainischer Hand. Zehntausende Menschen flohen. Wie sieht es dort heute aus? mehr...",
+      "url": "https://taz.de/Ukrainische-Armee-in-Kursk/!6227198/",
+      "publishedAt": "2026-11-04T15:29:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Niedrigster Oktober-Wert seit 2011: So wenig Asyl-Neuzugänge gab es lange nicht",
+      "excerpt": "Innenminister Dobrindt (CSU) verkauft seine Abschottungsmaßnahmen als Ursache für den Rückgang der Asyl-Neuzugänge. Wahrscheinlich sind sie aber nicht der einzige Faktor. mehr...",
+      "url": "https://taz.de/Niedrigster-Oktober-Wert-seit-2011/!6227380/",
+      "publishedAt": "2026-11-04T15:27:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Midterms 2026 – deutsche Reaktionen: Johann Wadephul hofft auf neue Kongress-Initiativen für Ukrainehilfen",
+      "excerpt": "Deutsche Regierungsvertreter blicken angesichts der Midterms vorsichtig optimistisch auf die transatlantischen Beziehungen. Bei der Analyse des US-Wahlergebnisses gehen hierzulande aber die Meinungen auseinander.",
+      "url": "https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss",
+      "publishedAt": "2026-11-04T15:20:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Sachsen-Anhalt: Schulamt streicht Abmahnung eines Lehrers für Kritik an AfD",
+      "excerpt": "Ein Lehrer aus Stendal wurde abgemahnt, weil er kritisch über die AfD gesprochen hat. Jetzt entfernt das Schulamt die Abmahnung – vor einem Gerichtstermin. mehr...",
+      "url": "https://taz.de/Lehrer-gegen-Landesschulamt/!6227196/",
+      "publishedAt": "2026-11-04T14:59:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Bericht zur EU-Erweiterung: Softe Expansionsgelüste in Brüssel",
+      "excerpt": "Bereits 2028 soll Montenegro Mitglied der Europäischen Union werden. Die Ukraine dagegen muss weiterhin auf ein konkretes Beitrittsdatum warten. mehr...",
+      "url": "https://taz.de/Bericht-zur-EU-Erweiterung/!6227268/",
+      "publishedAt": "2026-11-04T14:41:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Zum Tod von Janosch: Oh, wie schön war …",
+      "excerpt": "Illustrationen und Geschichten mit Herz und Verstand: Dafür war Horst Eckert aka Janosch bekannt. Nun ist er 95-jährig gestorben. Ein paar Erinnerungen. mehr...",
+      "url": "https://taz.de/Zum-Tod-von-Janosch/!6227330/",
+      "publishedAt": "2026-11-04T14:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin: Lars Klingbeil fordert Ausschluss antisemitischer Linken-Politiker",
+      "excerpt": "Wegen antisemitischer Positionen und Clankontakten in Teilen der eigenen Partei steht die Berliner Linke massiv in der Kritik. Nun meldet sich auch SPD-Chef Lars Klingbeil zu Wort.",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss",
+      "publishedAt": "2026-11-04T14:34:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Demokrat El-Sayed gewinnt Michigan: Der Sieg des „unwahrscheinlichsten aller Kandidaten“",
+      "excerpt": "Den industriell geprägten Bundesstaat Michigan bei den Zwischenwahlen zu gewinnen, ist eigentlich ein Selbstläufer für die Demokraten. Für Abdul El-Sayed war es dennoch hart. mehr...",
+      "url": "https://taz.de/Demokrat-El-Sayed-gewinnt-Michigan/!6227311/",
+      "publishedAt": "2026-11-04T14:06:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Gewaltschutzwohnungen für Männer: Seltene Zuflucht",
+      "excerpt": "Seit einem Jahr gibt es in Hannover und Hamburg Schutzwohnungen für männliche Opfer von Partnerschaftsgewalt. Im Rest des Nordens fehlen Zufluchtsräume. mehr...",
+      "url": "https://taz.de/Gewaltschutzwohnungen-fuer-Maenner/!6225773/",
+      "publishedAt": "2026-11-04T14:06:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Eine Stunde für die Demokratie: Politik kommt ins Klassenzimmer",
+      "excerpt": "Neubig, Magdalena www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/eine-stunde-fuer-die-demokratie-politik-kommt-ins-klassenzimmer-100.html",
+      "publishedAt": "2026-11-04T13:48:20.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+      "excerpt": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+      "publishedAt": "2026-11-04T13:44:41.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Tagungsfinanzierung: Studierende aus Bayern klagen für Drittmittel",
+      "excerpt": "Krone, Tobias www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/tagungsfinanzierung-studierende-aus-bayern-klagen-fuer-drittmittel-100.html",
+      "publishedAt": "2026-11-04T13:41:58.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nach Zugunglück in Spanien: Spanischer Verkehrsminister tritt zurück",
+      "excerpt": "Spaniens Verkehrsminister Óscar Puente nimmt seinen Hut. Nach zwei schweren Zugunglücken übernimmt er Verantwortung, während andere sich wegducken. mehr...",
+      "url": "https://taz.de/Nach-Zugunglueck-in-Spanien/!6227262/",
+      "publishedAt": "2026-11-04T13:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "DLF",
+      "title": "Zivilklausel: Universität Kassel fällt Entscheidung zur Rüstungsforschung",
+      "excerpt": "Vogt, Jonas www.deutschlandfunk.de, Campus & Karriere",
+      "url": "https://www.deutschlandfunk.de/zivilklausel-universitaet-kassel-faellt-entscheidung-zur-ruestungsforschung-100.html",
+      "publishedAt": "2026-11-04T13:36:31.000Z",
+      "category": "KARRIERE & STUDIUM"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
+      "excerpt": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
+      "publishedAt": "2026-11-04T13:21:52.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+      "excerpt": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+      "publishedAt": "2026-11-04T13:11:29.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+      "excerpt": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im We",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+      "publishedAt": "2026-11-04T12:49:49.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Wo die Menschen in Deutschland am längsten leben",
+      "excerpt": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartu",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
+      "publishedAt": "2026-11-04T12:38:29.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Plan für Aus der Rundfunkgebühren: Tschechiens Sender sehen schwarz",
+      "excerpt": "Gegen die geplante Abschaffung der Rundfunkgebühren streiken Mitarbeiter der öffentlich-rechtlichen Medien in Tschechien. Die Regierung reagiert mit Spott. mehr...",
+      "url": "https://taz.de/Pressefreiheit-Tschechien/!6227203/",
+      "publishedAt": "2026-11-04T12:38:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Midterms in den USA: Deutsche Politiker warnen vor zu großer Erleichterung nach Sieg der Demokraten",
+      "excerpt": "Donald Trumps US-Republikaner gehen bei den Midterms unter – wird jetzt alles wieder leichter für Europa im Umgang mit Washington? Hierzulande reagieren Politiker zwar hoffnungsvoll auf die Wahl. Doch die Zweifel bleiben",
+      "url": "https://www.spiegel.de/politik/deutschland/midterms-in-den-usa-deutsche-politiker-warnen-vor-zu-grosser-erleichterung-nach-sieg-der-demokraten-a-36b59104-c318-4d8a-a2fb-585a1b8b98b8#ref=rss",
+      "publishedAt": "2026-11-04T10:52:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Wiener Akademie: Wie die Kunst verwaltet wurde",
+      "excerpt": "Eine Ausstellung der Wiener Akademie der bildenden Künste versucht die Geschichte des Widerstreits von Akademie und Avantgarde neu zu erzählen. Klappt das? mehr...",
+      "url": "https://taz.de/Wiener-Akademie/!6223209/",
+      "publishedAt": "2026-11-04T10:37:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+      "excerpt": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karte",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+      "publishedAt": "2026-11-04T09:58:04.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
+      "excerpt": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von N",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
+      "publishedAt": "2026-11-04T09:54:43.000Z",
+      "category": "GESUNDHEIT & PSYCHE"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Abkommen mit den USA: Grönland gibt grünes Licht",
+      "excerpt": "Das grönländische Parlament hat für das Sicherheitsabkommen mit den USA gestimmt. Wenn Dänemark zustimmt, kann die Vereinbarung in Kraft treten. mehr...",
+      "url": "https://taz.de/Abkommen-mit-den-USA/!6227225/",
+      "publishedAt": "2026-11-04T09:21:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Migration: Knapp 40 Prozent der Menschen im Chancen-Aufenthalt bleiben dauerhaft",
+      "excerpt": "Mit einer Art Aufenthalt auf Probe wollte die Ampelregierung die Aussicht auf Bleiberecht ändern. Mehr als einem Drittel der Geflüchteten ist das gelungen.",
+      "url": "https://www.spiegel.de/politik/deutschland/migration-knapp-40-prozent-der-menschen-im-chancen-aufenthalt-bleiben-dauerhaft-a-587d6b3f-aa59-4db5-8a5b-cb3386f9975e#ref=rss",
+      "publishedAt": "2026-11-04T08:51:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neue Bücher über Drogen und Verbote: Dem Irrsinn nahe",
+      "excerpt": "Drogen sind überall, nicht zuletzt an der Supermarktkasse. Der Soziologe Robert Feustel schreibt in seinem Buch aufrüttelnd über Rausch und Angst. mehr...",
+      "url": "https://taz.de/Buecher-ueber-Drogen-und-Verbote-Drogen-sind-ueberall-nicht-zuletzt-an-der-Supermarktkasse/!6226895/",
+      "publishedAt": "2026-11-04T08:24:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Hakeem Jeffries: Der ranghöchste Demokrat der USA",
+      "excerpt": "Hakeem Jeffries wird Sprecher des Repräsentantenhauses und jubelt. Doch er muss mit Gegenwind aus dem Weißen Haus und aus seinen eigenen Reihen rechnen. mehr...",
+      "url": "https://taz.de/Wahlen-in-den-USA/!6227187/",
+      "publishedAt": "2026-11-04T08:11:00.000Z",
+      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -315,91 +579,11 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
-      "excerpt": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber nicht gelegen - im Gegent",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
-      "publishedAt": "2026-11-04T07:28:06.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Marktbericht: Zwischen Zahlenflut und US-Politik",
-      "excerpt": "An der Börse geht die Berichtssaison der Unternehmen zur Wochenmitte weiter. Zudem blicken die Anleger auf die US-Kongresswahlen, wo die oppositionellen Demokraten auf dem Vormarsch sind.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-      "publishedAt": "2026-11-04T06:46:08.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Ausstellung über Künstlerkolonien: Wir essen Salat, ja, wir essen Salat",
-      "excerpt": "Eine Ausstellung im Berner Kunstmuseum widmet sich Künstlerkolonien. Sie zeigt die ländliche Welteroberung und schlägt damit den Bogen ins Heute. mehr...",
-      "url": "https://taz.de/Ausstellung-ueber-Kuenstlerkolonien/!6226775/",
-      "publishedAt": "2026-11-04T06:36:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
-      "excerpt": "Mehrheiten in beiden Kammern - der Sieg der Demokraten bei den Midterms ist deutlich. Politikexperte Michael Werz sagt, US-Präsident Trump habe seine Gegner zusammengeschweißt. Der Blick richte sich nun auf die nächste P",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
-      "publishedAt": "2026-11-04T06:35:46.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-      "excerpt": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karte",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-      "publishedAt": "2026-11-04T06:33:21.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Milliardengrab Bundeswehr: Mit dem USB-Stick an der Front",
-      "excerpt": "Projekt D-LBO ist das Codewort für ein Milliardengrab der Bundeswehr. Und dann sind Sol­da­t*in­nen mit Geräten aus dem Technikmuseum unterwegs. Na dann gute Nacht! mehr...",
-      "url": "https://taz.de/Digitalisierung-des-Heeres/!6226945/",
-      "publishedAt": "2026-11-04T06:23:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Aktivistin aus Kolumbien: „Menschenhandel ist Sklaverei“",
-      "excerpt": "Helga Flamtermesky begleitet Frauen, die Menschenhändlern entkommen sind. Sie kritisiert, dass Europa die Grenzsicherheit zunehmend über humanitären Schutz stellt. mehr...",
-      "url": "https://taz.de/Aktivistin-aus-Kolumbien/!6224028/",
-      "publishedAt": "2026-11-04T06:20:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Südafrika vor den Kommunalwahlen: Ratlose Politiker und hoffnungslose Bürger",
-      "excerpt": "Bei Südafrikas Kommunalwahlen am Mittwoch stehen Unsicherheit und politische Unfähigkeit im Mittelpunkt. Viele Amtsträger dürften abgestraft werden. mehr...",
-      "url": "https://taz.de/Suedafrika-vor-den-Kommunalwahlen/!6227027/",
-      "publishedAt": "2026-11-04T06:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Die Wahrheit: Wummsen und Schlenkern",
-      "excerpt": "Das geheime Leben der Türen und Fenster: Feldforscher wissen jetzt, wie die Maueröffnungen kommunizieren. mehr...",
-      "url": "https://taz.de/Die-Wahrheit/!6226919/",
-      "publishedAt": "2026-11-04T06:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
       "excerpt": "Bei den Midterms haben sich die Demokraten eine knappe Mehrheit im Senat gesichert. Sie konnten mehrere Bundesstaaten erobern, die lange in der Hand der Republikaner waren.",
       "url": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
       "publishedAt": "2026-11-04T06:10:55.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "15. Jahrestag der NSU-Terrorserie: Wie die NSU-Helfer davonkamen",
-      "excerpt": "Vor 15 Jahren flog der NSU-Terror auf. Verurteilte Helfer sind wieder auf freiem Fuß, andere kamen ohne Strafe davon. Einer wird weiter in der Szene gefeiert. mehr...",
-      "url": "https://taz.de/15-Jahrestag-der-NSU-Terrorserie/!6226928/",
-      "publishedAt": "2026-11-04T06:04:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -412,7 +596,7 @@
     {
       "source": "TAGESSCHAU.DE",
       "title": "Karlsruhe prüft Fraktionsausschluss von AfD-Politiker",
-      "excerpt": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Fraktion, nachdem er die Debatte ins Rollen gebracht hatte. Nun wehrt er sich gerichtlich. Von Anne Stein.",
+      "excerpt": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Bundestagsfraktion, nachdem er die Debatte ins Rollen gebracht hatte. Nun wehrt er sich gerichtlich. Von Anne Stein.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afd-fraktionsausschluss-100.html",
       "publishedAt": "2026-11-04T05:22:34.000Z",
       "category": "INNENPOLITIK"
@@ -427,7 +611,7 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Linkenchefin Ines Schwerdtner bei Markus Lanz: Streit über Vanessa Emde",
+      "title": "Linken-Chefin Ines Schwerdtner bei Markus Lanz: Streit über Vanessa Emde",
       "excerpt": "Schlagabtausch in der Talkshow von Markus Lanz: Die Linkenvorsitzende Ines Schwerdtner nennt den SPIEGEL-Titel »infam« und gibt sich im Fall Vanessa Emde abwartend. Warum eigentlich?",
       "url": "https://www.spiegel.de/politik/deutschland/linkenchefin-ines-schwerdtner-bei-markus-lanz-streit-ueber-vanessa-emde-a-877a2238-5dff-4514-aca6-2124414ac7a1#ref=rss",
       "publishedAt": "2026-11-04T04:35:00.000Z",
@@ -435,7 +619,7 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Blaue Welle bei den US-Midterms: „Alhamdullilah!“ mit Augenzwinkern",
+      "title": "Blaue Welle bei den US-Midterms: Trumps Niederlage als Netanjahus Niederlage",
       "excerpt": "Wow, ist das blau! Die Demokraten gewinnen beide Kammern des Kongresses – und einige Gouverneursposten dazu. Die US-Midterms im Liveticker. mehr...",
       "url": "https://taz.de/Midterms/!6226893/",
       "publishedAt": "2026-11-04T02:58:00.000Z",
@@ -463,70 +647,6 @@
       "excerpt": "Es geht um Geld, Russland oder Verbindungen ins rechtsextreme Milieu: Noch laufen die Recherchen zu dem gigantischen AfD-Leak. Doch schon jetzt liefern die Daten einen ungefilterten Einblick in das Innenleben der Partei.",
       "url": "https://www.spiegel.de/politik/afd-leak-das-sind-bislang-die-wichtigsten-fuenf-erkenntnisse-a-49c23778-b694-40c1-9e3a-3dd993c51119#ref=rss",
       "publishedAt": "2026-11-03T19:18:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Wahlkampfabschluss von Donald Trump: Zurück und noch viel schöner!",
-      "excerpt": "Zum Abschluss des Wahlkampfs in den USA gibt Donald Trump noch einmal alles: mit einer bewegenden Rede zu Beckenlack und Säulen. mehr...",
-      "url": "https://taz.de/Wahlkampfabschluss-von-Donald-Trump/!6226921/",
-      "publishedAt": "2026-11-03T19:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Debatte um Steinmeiers Nachfolge: Wir brauchen keine Bundespräsidentin",
-      "excerpt": "Als erste Frau könnte Ilse Aigner (CSU) demnächst Bundespräsidentin werden. Ist uns damit geholfen? mehr...",
-      "url": "https://taz.de/Debatte-um-Steinmeiers-Nachfolge/!6227000/",
-      "publishedAt": "2026-11-03T19:16:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Soziologe zu „Gen Z regelt“-Demos: „Was die CDU macht, ist gemeingefährlich“",
-      "excerpt": "Gen-Z-Proteste drücken das Gefühl von Zukunftslosigkeit aus, sagt der Protestsoziologe Simon Teune. Rassismus und Repression vertieften die Entfremdung. mehr...",
-      "url": "https://taz.de/Soziologe-zu-Gen-Z-regelt-Demos/!6226822/",
-      "publishedAt": "2026-11-03T19:15:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Opferberatung in Sachsen-Anhalt: Zum Jubiläum braucht es Solidarität",
-      "excerpt": "Seit 25 Jahren unterstützt die Mobile Opferberatung Betroffene rechter Gewalt. Doch ein Thema trübt die Freude bei der Jubiläumsfeier. mehr...",
-      "url": "https://taz.de/Opferberatung-in-Sachsen-Anhalt/!6222204/",
-      "publishedAt": "2026-11-03T19:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Angriffe auf Kühlanlagen: Eiskalt erwischt",
-      "excerpt": "Die Cyberattacken zeigen, wie verwundbar unsere Versorgung mit Lebensmitteln ist. Und wie sehr der Schutz kritischer Infrastruktur vernachlässigt wird. mehr...",
-      "url": "https://taz.de/Angriffe-auf-Kuehlanlagen/!6221032/",
-      "publishedAt": "2026-11-03T19:13:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Bilger für Handyblitzer: Das Problem am falschen Ende angepackt",
-      "excerpt": "Der Verkehrsminister will mit Monocams gegen Handysünder vorgehen. Geht es um Sicherheit oder um eine PR-Aktion und den KI-Trend? mehr...",
-      "url": "https://taz.de/Bilger-fuer-Handyblitzer/!6227012/",
-      "publishedAt": "2026-11-03T19:12:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Eishockey-WM in Deutschland: Ein Tor für Russland",
-      "excerpt": "Das internationale Sportschiedsgericht hat entschieden: Russland darf ran an den WM-Puck. Unpolitischer wird der Sport dadurch kaum. mehr...",
-      "url": "https://taz.de/Eishockey-WM-in-Deutschland/!6226948/",
-      "publishedAt": "2026-11-03T19:11:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Neuer Lucky-Luke-Band: Muh! Der Lucky-Kult geht um",
-      "excerpt": "Als Lucky Luke aus dem Hotel tritt, begegnen ihm lauter Doppelgänger. Alle tragen Blau – Gelb – Schwarz, dazu ein rotes Halstuch. Was ist geschehen? mehr...",
-      "url": "https://taz.de/Neuer-Lucky-Luke-Band/!6226566/",
-      "publishedAt": "2026-11-03T19:10:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -578,36 +698,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "CDU in der Krise: Dem Ärger Luft gemacht – und nun?",
-      "excerpt": "Zwei Tage lang haben rund 160 CDU-Kreisvorsitzende der Parteiführung die schlechte Stimmung an der Basis geschildert. Was davon nimmt Merz mit? mehr...",
-      "url": "https://taz.de/CDU-in-der-Krise/!6227059/",
-      "publishedAt": "2026-11-03T17:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kritik von Grünen und Umweltschützern: Satte Zuschläge für LEAG und RWE",
-      "excerpt": "Neue Gaskraftwerke sollen Strom liefern, wenn Wind und Sonne schwächeln. Bei einer ersten Ausschreibung jubilieren die alten Kohlekonzerne. mehr...",
-      "url": "https://taz.de/Kritik-von-Gruenen-und-Umweltschuetzern/!6226929/",
-      "publishedAt": "2026-11-03T17:14:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
       "excerpt": "Sind \"migrantische Milieus\" für die Gewalt vom Wochenende verantwortlich? Die Aussagen von Innenminister Dobrindt stoßen weiter auf breite Kritik. Der Minister selbst will seine Wortwahl jedoch nicht korrigieren.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
       "publishedAt": "2026-11-03T16:14:29.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Kommunalwahlen in Südafrika: Kap der falschen Hoffnung",
-      "excerpt": "Südafrikas „Regenbogennation“ sollte allen einen Platz bieten. Doch seit Monaten hetzen Nationalisten wieder gegen Mi­gran­t:in­nen auch jetzt vor den Kommunalwahlen. Einblicke aus Kapstadt. mehr...",
-      "url": "https://taz.de/Kommunalwahlen-in-Suedafrika/!6226941/",
-      "publishedAt": "2026-11-03T16:11:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -666,68 +762,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Grünenchefin Franziska Brantner erhielt Apple-Warnung vor möglichem Hack",
-      "excerpt": "Mehrere Bundestagsabgeordnete bekamen vorige Woche von Apple die beunruhigende Nachricht, dass ihr Handy gehackt worden sein könnte. Eine von ihnen ist nach SPIEGEL-Informationen die Parteivorsitzende der Grünen.",
-      "url": "https://www.spiegel.de/politik/gruenenchefin-brantner-erhielt-apple-warnung-vor-moeglichem-hack-a-6493cfe2-4c16-44bb-9b01-950aa3339788#ref=rss",
-      "publishedAt": "2026-11-03T12:09:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Berlin: Friedrich Merz empfängt Wolodymyr Selenskyj in Hauptstadt",
-      "excerpt": "Eine Woche vor Beginn der Dreiergespräche zwischen Kyjiw, Moskau und Washington ist der ukrainische Präsident nach Berlin gereist. Selenskyj will mit Kanzler Merz über Deutschlands Rolle bei den Friedensgesprächen reden.",
-      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-empfaengt-wolodymyr-selenskyj-in-berlin-a-a4a7b25b-f7cd-4d42-aabe-d23ca56d5b63#ref=rss",
-      "publishedAt": "2026-11-03T11:49:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
-      "excerpt": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von N",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
-      "publishedAt": "2026-11-03T10:07:38.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
       "excerpt": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
       "publishedAt": "2026-11-03T09:22:54.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Memphis: Bodycam-Video zeigt Einsatz nach tödlichen Schüssen in den USA",
-      "excerpt": "US-Präsident Trump hatte Soldaten in mehrere von Demokraten regierte Städte entsandt. Jetzt veröffentlichte Aufnahmen zeigen, wie Soldaten der Nationalgarde in Memphis ihre Waffen auf einen bereits sterbenden Mann richte",
-      "url": "https://www.spiegel.de/politik/us-nationalgarde-in-memphis-bodycam-video-zeigt-einsatz-nach-toedlichen-schuessen-a-de992946-6117-4f72-9c77-b6ba7d547975#ref=rss",
-      "publishedAt": "2026-11-03T08:34:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "»Gen Z regelt«: Große Mehrheit zeigt Verständnis für Jugendproteste",
-      "excerpt": "Bessere Bildung, keine Wehrpflicht, mehr Klimaschutz – doch die öffentliche Debatte konzentrierte sich auf die Krawalle nach den Gen-Z-Protesten. Laut einer Umfrage unterstützt allerdings eine Mehrheit die Anliegen der J",
-      "url": "https://www.spiegel.de/politik/deutschland/deutschland-grosse-mehrheit-zeigt-verstaendnis-fuer-gen-z-regelt-jugendproteste-a-ecc21116-0a2d-49e9-be1e-d6f3a51687dd#ref=rss",
-      "publishedAt": "2026-11-03T06:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Wiedergutmachungs-Einbürgerung: Immer mehr Israelis wollen Deutsche werden",
-      "excerpt": "Die Wiedergutmachungseinbürgerung ermöglicht Nachfahren von NS-Opfern die deutsche Staatsbürgerschaft. Vor allem Israelis mit deutschen Wurzeln nutzen verstärkt das Angebot – seit 2023 mit großem Andrang.",
-      "url": "https://www.spiegel.de/politik/deutschland/wiedergutmachungs-einbuergerung-immer-mehr-israelis-wollen-deutsche-werden-a-c2e54b47-dd6b-4518-950a-12807cf3da2c#ref=rss",
-      "publishedAt": "2026-11-03T05:57:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Midterms in den USA, Merz bei CDU-Kreisvorsitzenden, Interview mit Hanning-Verteidiger",
-      "excerpt": "In den USA entscheidet sich der Kurs der ausgehenden Ära Trump. Von ihrer Konferenz in Berlin können die CDU-Kreisvorsitzenden daheim stolz berichten. Und hat August Hanning womöglich gar keine Geheimnisse verraten? Das ",
-      "url": "https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-merz-bei-cdu-kreisvorsitzenden-interview-mit-hanning-verteidiger-a-e8b6c0bc-ceaa-4899-a33f-4ef21ef7ba44#ref=rss",
-      "publishedAt": "2026-11-03T04:27:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -907,14 +947,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Simon Plentinger, BR, zzt. Eriwan, zum Abschluss der UN-Biodiversitätskonferenz in Armenien",
-      "excerpt": "Simon Plentinger, BR, zzt. Eriwan, zum Abschluss der UN-Biodiversitätskonferenz in Armenien",
-      "url": "https://www.tagesschau.de/video/video-1675312.html",
-      "publishedAt": "2026-10-30T17:23:35.000Z",
-      "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Debatte um Eralp überlagert Regierungsbildung",
       "excerpt": "Die Regierungsbildung in Berlin wird erneut von einer Debatte um die Linke überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp und ihr Umgang mit Islamismus. Ihre Partei stellt sich entschiede",
       "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
@@ -960,14 +992,6 @@
       "url": "https://www.deutschlandfunk.de/gen-z-regelt-ausblick-auf-die-proteste-am-samstag-100.html",
       "publishedAt": "2026-10-30T13:36:00.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
-      "excerpt": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier. Die Kandidatendebatte bei CDU/CSU ist unübersichtlich und parteipolitisch aufgeladen - nicht zum ersten Mal in der Geschichte. Von Georg Schwarte.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
-      "publishedAt": "2026-10-29T16:22:50.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1034,22 +1058,6 @@
       "category": "KARRIERE & STUDIUM"
     },
     {
-      "source": "DLF",
-      "title": "Mindestlohn vs. Grundsicherung: Gespräch mit Bettina Kohlrausch, WSI",
-      "excerpt": "Cuber, Anne www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/mindestlohn-vs-grundsicherung-gespraech-mit-bettina-kohlrausch-wsi-100.html",
-      "publishedAt": "2026-10-27T13:42:15.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "DLF",
-      "title": "Bildungsproteste in Frankreich: Regierung macht Zugeständnisse",
-      "excerpt": "Detjen, Stephan www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/bildungsproteste-in-frankreich-regierung-macht-zugestaendnisse-100.html",
-      "publishedAt": "2026-10-27T13:36:24.000Z",
-      "category": "KARRIERE & STUDIUM"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Deutsche sparen weniger - aber immer noch viel",
       "excerpt": "Die Deutschen haben 2025 etwas weniger gespart als im Vorjahr. Trotzdem liegt die Sparquote deutlich über dem EU-Schnitt. Nur in einem Land in Europa wird noch mehr gespart.",
@@ -1064,14 +1072,6 @@
       "url": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
       "publishedAt": "2026-10-27T09:00:07.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "DLF",
-      "title": "Wahlausgang in Serbien: Studierende feiern ihren Erfolg",
-      "excerpt": "Laffert, Bartholomäus; Steinwender, Lucia www.deutschlandfunk.de, Campus & Karriere",
-      "url": "https://www.deutschlandfunk.de/wahlausgang-in-serbien-studierende-feiern-ihren-erfolg-100.html",
-      "publishedAt": "2026-10-26T13:55:00.000Z",
-      "category": "KARRIERE & STUDIUM"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1371,11 +1371,11 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Studie: In der EU sinkt die Impfquote bei Kindern",
-      "excerpt": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Der Rückgang begann demnach während der Corona-Pandemie.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
-      "publishedAt": "2026-09-18T06:27:57.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
+      "title": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
+      "excerpt": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
+      "url": "https://www.tagesschau.de/video/video-1653338.html",
+      "publishedAt": "2026-09-22T07:38:32.000Z",
+      "category": "KLIMA & UMWELT"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -1392,14 +1392,6 @@
       "url": "https://www.tagesschau.de/wissen/klima/wmo-bericht-zu-wasserressourcen-100.html",
       "publishedAt": "2026-09-17T05:55:02.000Z",
       "category": "KLIMA & UMWELT"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
-      "excerpt": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Von Joachim Budde.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
-      "publishedAt": "2026-09-16T13:22:15.000Z",
-      "category": "GESUNDHEIT & PSYCHE"
     },
     {
       "source": "TAGESSCHAU.DE",
