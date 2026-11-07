@@ -1,20 +1,28 @@
 {
-  "updatedAt": "2026-11-07T03:13:15.997Z",
+  "updatedAt": "2026-11-07T10:14:17.690Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Dreier-Gipfel geplant - China bestätigt Gespräche mit Trump und Putin",
-      "excerpt": "Ein Dreier-Gipfel der Staatschefs könnte in Shenzhen stattfinden.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-xi-und-putin-china-bestaetigt-gespraeche-ueber-einen-dreier-gipfel-6aee8baea1d166876580d1a9",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "title": "Graichen verwundert mit Aussage - Ex-Habeck-Staatssekretär plötzlich für Kernkraft?",
+      "excerpt": "Patrick Graichen räumt ein: Atomkraftwerke hätten Deutschland günstigen Strom geliefert.",
+      "url": "https://www.bild.de/politik/inland/habecks-staatssekretaer-graichen-gibt-vorteile-der-atomkraft-zu-6aeee186079f8c15d3a2cda2",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
       "category": "POLITIK"
     },
     {
       "source": "BILD.DE",
-      "title": "US-Präsident: „Nur ein kleiner Angriff“ - Trump greift Irans Luftabwehr an",
-      "excerpt": "Washington/Teheran – Erst die Bomben, dann die demonstrative Gelassenheit! US-Präsident Donald Trump hat am Freitag erneut Ziele im ...",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-greift-iran-an-nur-ein-kleiner-angriff-6aee8239a389bc337cfc899d",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "title": "Schon 413.000 Metaller auf der Straße - Arbeitgeber-Chefin: „Warnstreiks kosten Millionen“",
+      "excerpt": "Im Tarifstreit der Metallbranche gingen bereits 413.000 Beschäftigte auf die Straße.",
+      "url": "https://www.bild.de/politik/inland/schon-413-000-metaller-auf-der-strasse-chefin-der-arbeitgeber-warnt-warnstreiks-kosten-millionen-6aedecf2a389bc337cfc833c",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Zweifel an Neutralität - „Omas gegen Rechts“ aus Klassenzimmer verbannt",
+      "excerpt": "Hessen streitet über politische Bildung an Schulen und das Neutralitätsgebot.",
+      "url": "https://www.bild.de/politik/inland/streit-um-omas-gegen-rechts-wie-politisch-neutral-sind-schulen-6aeee864bd9dc1882a99e994",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +30,63 @@
       "title": "Trump gegen seinen Vize Vance - Ist der Iran-Streit in Wahrheit nur ein Schauspiel?",
       "excerpt": "Trump lässt Vance über eine Waffenruhe mit Teheran verhandeln.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/trump-und-vance-hinter-den-kulissen-gemeinsam-gegen-den-iran-krieg-6aee62bb1a7ecfe0dd44e350",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Halloween-Krawalle in Frankfurt - Drei Viertel mit ausländischem Pass! Das sind die Randalierer",
+      "excerpt": "Frankfurter Polizei legt Herkunft von 55 Tatverdächtigen offen.",
+      "url": "https://www.bild.de/politik/inland/halloween-krawalle-in-frankfurt-drei-viertel-mit-auslaendischem-pass-6aeebf32a389bc337cfc8ada",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von Star-Souvenir bis Weihnachtsdeko - Diese Geschenke versteigert der Staat",
+      "excerpt": "Bundesregierung bietet Reise-Mitbringsel online an – darunter Schmuck und Ratzinger-Porträt.",
+      "url": "https://www.bild.de/politik/inland/von-schwarzenegger-souvenir-bis-weihnachtsdeko-diese-geschenke-versteigert-der-staat-6aec504409e0301c03e8041a",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„House of Cards“-Manöver - Tritt Trump vorzeitig zurück?",
+      "excerpt": "Nach dem Wahldebakel drohen ihm Machtverlust und Untersuchungen. Tut er sich das an?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/wilde-spekulationen-um-house-of-cards-manoever-tritt-trump-vorzeitig-zurueck-6aee0743320931eb80f5caa7",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Bürger bekommen Post - GEZ jagt säumige Beitragszahler",
+      "excerpt": "Für den Rundfunkbeitrag werden bald die Meldedaten von 73 Millionen Bürgern abgeglichen.",
+      "url": "https://www.bild.de/politik/inland/rundfunkbeitrag-gez-jagt-ab-morgen-saeumige-beitragszahler-6aeec517e8c1b29d85a3e44b",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hightech an der Ukraine-Front - Spektakuläre Rettung mit 400-Kilo-Drohne",
+      "excerpt": "Ukrainische Drohne bringt schwer Verletzte aus gefährlichen Frontgebieten in Sicherheit.",
+      "url": "https://www.bild.de/politik/bild-lagezentrum-ki-drohne-stargate-rettet-verletzten-soldaten-in-der-ukraine-6aeda9e8a389bc337cfc7bde",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "190.000 Soldaten! - Pistorius sieht keinen Grund für Wehrpflicht",
+      "excerpt": "Die Bundeswehr wächst, doch Frauen fehlen und sexuelle Übergriffe bleiben ein Problem.",
+      "url": "https://www.bild.de/politik/inland/boris-pistorius-190-000-soldaten-koennten-wehrpflicht-vermeiden-6aeec96c0d88b798aeeb1c80",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Experten warnen vor Knappheit - Altes Habeck-Gesetz bedroht unsere Energieversorgung",
+      "excerpt": "Der Braunkohleausstieg gilt als Prestigeprojekt von Robert Habeck. Jetzt bekommt es Risse.",
+      "url": "https://www.bild.de/politik/inland/oekonomen-warnen-vor-stromknappheit-wegen-habeck-gesetz-6aeebb5fa389bc337cfc8aa1",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +94,47 @@
       "title": "Musk macht Platz für Auto-Revolution - Cybertruck-Aus! Jetzt platzt Europas Tesla-Traum",
       "excerpt": "Texas (USA) – Dieser Tesla sah aus, als käme er direkt aus der Zukunft. Doch nach Europa wird er wohl nie kommen: Elon Musk kündigt ...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/tesla-cybertruck-produktion-endet-2027-europa-hoffnung-schwindet-6aee4d04a389bc337cfc88ac",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "US-Präsident: „Nur ein kleiner Angriff“ - Trump greift Irans Luftabwehr an",
+      "excerpt": "Washington/Teheran – Erst die Bomben, dann die demonstrative Gelassenheit! US-Präsident Donald Trump hat am Freitag erneut Ziele im ...",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-greift-iran-an-nur-ein-kleiner-angriff-6aee8239a389bc337cfc899d",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Wegen Israelhasserin Vanessa Emde - SPD-Chef droht Berliner Linken mit Bündnis-Aus",
+      "excerpt": "Steffen Krach macht Zustimmung von Aufklärung im Fall Vanessa Emde abhängig.",
+      "url": "https://www.bild.de/politik/inland/wegen-israelhasserin-vanessa-emde-chef-der-berliner-spd-droht-berliner-linken-mit-aus-des-buednisses-6aee1ddfd3b9284356de1236",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Gesetzesänderung geplant - Darum sollten Sie jetzt noch einen Pflegeantrag stellen",
+      "excerpt": "Die Regierung will den großen Pflege-Umbau, um Milliarden zu sparen.",
+      "url": "https://www.bild.de/politik/inland/gesetzesaenderung-geplant-darum-sollten-sie-jetzt-noch-einen-pflegeantrag-stellen-6aeda4bea389bc337cfc7b4c",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Brisante Branchenumfrage - Jedes 3. Stadtwerk will Gasnetz runterfahren",
+      "excerpt": "Viele Haushalte müssen künftig auf Wärmepumpen oder Fernwärme umsteigen.",
+      "url": "https://www.bild.de/politik/inland/brisante-branchenumfrage-jedes-3-stadtwerk-will-gasnetz-runterfahren-6aee067c320931eb80f5ca8e",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Dreier-Gipfel geplant - China bestätigt Gespräche mit Trump und Putin",
+      "excerpt": "Ein Dreier-Gipfel der Staatschefs könnte in Shenzhen stattfinden.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-xi-und-putin-china-bestaetigt-gespraeche-ueber-einen-dreier-gipfel-6aee8baea1d166876580d1a9",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
       "category": "POLITIK"
     },
     {
@@ -38,112 +142,280 @@
       "title": "Von BILD gekürt - Gewinner & Verlierer",
       "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
       "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "publishedAt": "2026-11-07T10:14:17.398Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Trumps Frau plötzlich in Russland beliebt - „Putins Omas“ fordern: Melania for President!",
-      "excerpt": "Russische Omis für Putin stellen eine skurrile Forderung an Amerika.",
-      "url": "https://www.bild.de/politik/putins-omas-fordern-melania-for-president-6aee339fa389bc337cfc879e",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "DLF",
+      "title": "Frankfurt am Main - Demonstration zu Preisverleihung an iranischen Schah-Sohn Pahlavi",
+      "excerpt": "In Frankfurt am Main hat eine Demonstration anlässlich der Verleihung eines Freiheitspreises an das iranische Volk begonnen. Die Polizei sprach von zunächst etwa 1.000 Teilnehmern auf dem Römerberg. Zur Stunde soll der O",
+      "url": "https://www.deutschlandfunk.de/demonstration-zu-preisverleihung-an-iranischen-schah-sohn-pahlavi-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+      "excerpt": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woc",
+      "url": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Entlassung von Stabschefin Wiles - Trump rückt rechten Hardliner Stephen Miller ins Zentrum des Machtzirkels",
+      "excerpt": "US-Präsident Trump hat nach dem Verlust der Mehrheiten seiner Partei im Kongress seine Stabschefin Susie Wiles entlassen. Mit Stephen Miller hat er stattdessen einen \"America First\"-Verfechter und Strippenzieher seiner r",
+      "url": "https://www.deutschlandfunk.de/trump-rueckt-rechten-hardliner-stephen-miller-ins-zentrum-des-machtzirkels-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA Russland China - Peking bestätigt Gespräche über Treffen von Xi, Trump und Putin",
+      "excerpt": "China hat bestätigt, dass es Gespräche über ein Treffen von Staatschef Xi mit US-Präsident Trump und dem russischen Präsidenten Putin gibt.",
+      "url": "https://www.deutschlandfunk.de/peking-bestaetigt-gespraeche-ueber-treffen-von-xi-trump-und-putin-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ukraine-Krieg - Russen greifen mit Raketen an: Explosionen in Kiew und Umland",
+      "excerpt": "Russland hat in der Nacht erneut die ukrainische Haupstadt Kiew und ihr Umland mit Raketen angegriffen.",
+      "url": "https://www.deutschlandfunk.de/russen-greifen-mit-raketen-an-explosionen-in-kiew-und-umland-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Europaweite Vorfälle - Gefährliche Metallteile in Halloween-Süßigkeiten: Polizei prüft Einfluss von Sozialen Medien oder Chatgruppen",
+      "excerpt": "Die Serie von Halloween-Süßigkeiten, in die gefährliche Metallobjekte gesteckt wurden, könnte durch Beiträge in Sozialen Medien oder Chatgruppen angeregt worden sein.",
+      "url": "https://www.deutschlandfunk.de/gefaehrliche-metallteile-in-halloween-suessigkeiten-polizei-prueft-einfluss-von-sozialen-medien-oder-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
+      "excerpt": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
+      "url": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundespräsidentenwahl - Medienberichte: Auch CDU für Ilse Aigner - Merz schweigt weiter - CDU-Parteikollege Kiesewetter kritisiert Merz",
+      "excerpt": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Be",
+      "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundesjustizministerin - Hubig will AfD-Leaks für Prüfung von Parteiverbot nutzen",
+      "excerpt": "Bundesjustizministerin Hubig will die im Internet veröffentlichten E-Mails der AfD für die Prüfung eines Verbotsverfahrens gegen die Partei nutzen.",
+      "url": "https://www.deutschlandfunk.de/hubig-will-afd-leaks-fuer-pruefung-von-parteiverbot-nutzen-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Ueno-Bank - Staatskrise in Paraguay: Präsident Peña abgesetzt und festgenommen",
+      "excerpt": "Die Staatskrise im südamerikanischen Paraguay spitzt sich weiter zu: Präsident Peña wurde am Abend vom Parlament abgesetzt. Der Senat votierte einstimmig für die Amtsenthebung. Wenig später erließ die Generalstaatsanwalt",
+      "url": "https://www.deutschlandfunk.de/staatskrise-in-paraguay-praesident-pe-a-abgesetzt-und-festgenommen-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Eine fantastische Frau\" - Chilenischer Oscar-Regisseur Sebastián Lelio ist gestorben",
+      "excerpt": "Der chilenische Regisseur Sebastián Lelio ist im Alter von 52 Jahren gestorben. Sein Drama \"Eine fantastische Frau\" gewann 2018 den Oscar als bester fremdsprachiger Film. Es war das bislang einzige Mal, dass der Auslands",
+      "url": "https://www.deutschlandfunk.de/chilenischer-oscar-regisseur-sebasti-n-lelio-ist-gestorben-102.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Provinz Taiz - Viele Tote nach Angriffen auf Markt im Jemen",
+      "excerpt": "Im Jemen sind bei Luftangriffen auf einen Markt in der Provinz Taiz zahlreiche Menschen getötet worden.",
+      "url": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "USA - Vater von Herzogin Meghan festgenommen - Aufnahmen von Kindesmissbrauch entdeckt",
+      "excerpt": "Der Vater der britischen Herzogin Meghan, Thomas Markle, ist in den USA wegen des Verdachts auf Besitz von kinderpornografischem Material vorübergehend festgenommen worden.",
+      "url": "https://www.deutschlandfunk.de/vater-von-herzogin-meghan-festgenommen-aufnahmen-von-kindesmissbrauch-entdeckt-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Missbrauch - Sachsen will Schutzkonzepte gegen sexuelle Gewalt an Schulen verpflichtend machen",
+      "excerpt": "Sachsen will bei Schutzkonzepten gegen sexuelle Gewalt an Schulen vom Prinzip der Freiwilligkeit abrücken.",
+      "url": "https://www.deutschlandfunk.de/sachsen-will-schutzkonzepte-gegen-sexuelle-gewalt-an-schulen-verpflichtend-machen-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Sachsen-Anhalt - AfD-Politiker Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+      "excerpt": "Der AfD-Politiker Siegmund schließt entgegen früheren Aussagen nicht mehr aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt auch in einem zweiten oder dritten Wahlgang anzutreten. Er verwies auf die Entscheidung der",
+      "url": "https://www.deutschlandfunk.de/afd-politiker-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus-106.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Antisemitismus-Vorwurf - Berliner Landesverband fordert Abgeordnete Emde zum Mandatsverzicht auf",
+      "excerpt": "Der Berliner Landesverband der Linkspartei hat die Abgeordnete Emde zum Mandatsverzicht aufgefordert. Die Vorsitzenden Wolter und Schirmer erklärten, Emde solle wegen ihrer Position zum Nahostkonflikt ihr Mandat im Abgeo",
+      "url": "https://www.deutschlandfunk.de/berliner-landesverband-fordert-abgeordnete-emde-zum-mandatsverzicht-auf-102.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
+      "excerpt": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
+      "url": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Jahrestag - Evangelische Kirche stellt eigene Rolle bei der Wiedervereinigung infrage",
+      "excerpt": "Die Evangelische Kirche in Deutschland hat angesichts des Jahrestags des Mauerfalls kommende Woche die eigene Rolle nach der Wiedervereinigung infrage gestellt.",
+      "url": "https://www.deutschlandfunk.de/evangelische-kirche-stellt-eigene-rolle-bei-der-wiedervereinigung-infrage-102.html",
+      "publishedAt": "2026-11-07T10:08:24.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Staats- und Finanzkrise in Paraguay: Haftbefehl gegen abgesetzten Präsidenten",
+      "excerpt": "Paraguays Parlament entmachtet Santiago Peña. Wenig später wird gegen ihn Haftbefehl erlassen. Was ist los in dem lateinamerikanischen Land? mehr...",
+      "url": "https://taz.de/Staats--und-Finanzkrise-in-Paraguay/!6228316/",
+      "publishedAt": "2026-11-07T09:57:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Ministerpräsidenten-Wahl in Sachsen-Anhalt - Siegmund ändert plötzlich seinen Machtplan",
-      "excerpt": "Magdeburg – Erst wollte er nur einmal antreten, jetzt hält er sich plötzlich alle Möglichkeiten offen! AfD-Spitzenkandidat Ulrich Si...",
-      "url": "https://www.bild.de/politik/inland/vor-ministerpraesidenten-wahl-in-sachsen-anhalt-siegmund-aendert-ploetzlich-seinen-machtplan-6aee177ea389bc337cfc8633",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAZ.DE",
+      "title": "Neuseeland hat gewählt: Knappes Rennen zwischen Konservativen und Sozialdemokraten",
+      "excerpt": "Regierungschef Luxon oder sein Herausforderer Ex-Premier Hipkins? Ersten Ergebnissen zufolge wird für beide die Regierungsbildung schwierig. mehr...",
+      "url": "https://taz.de/Neuseeland-hat-gewaehlt/!6228315/",
+      "publishedAt": "2026-11-07T09:41:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Noch ein Problem für Eralp - Nächste Linke kämpft für kriminelle Clan-Mitglieder",
-      "excerpt": "Abgeordnete Katharina Marg protestierte gegen die Abschiebung polizeibekannter Männer.",
-      "url": "https://www.bild.de/politik/inland/neuer-aerger-um-radikalen-fluegel-naechste-problem-linke-in-berlin-6aed80a2a389bc337cfc7828",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+      "excerpt": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfah",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+      "publishedAt": "2026-11-07T09:28:52.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Neuer Stabschef im Weißen Haus: Extremist Stephen Miller rückt auf",
+      "excerpt": "Nach dem Midterms-Debakel muss Trumps Stabschefin Susie Wiles gehen, Miller wird sie ersetzen. Das zeigt: Trump wird von seiner Politik nicht abrücken. mehr...",
+      "url": "https://taz.de/Neuer-Stabschef-im-Weissen-Haus/!6228313/",
+      "publishedAt": "2026-11-07T09:14:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Zwischenruf von Peter Tiede - Rot-Grün-Rot in Berlin: Die würdelose Clowns-Nummer",
-      "excerpt": "Die Überraschung vorneweg: Die Worte von SPD-Chef Lars Klingbeil haben noch Wirkung.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/ein-zwischenruf-von-peter-tiede-zu-den-rot-gruenen-verrenkungen-in-berlin-die-wuerdelose-clowns-nummer-6aedd2a847b5fce02f87a406",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAZ.DE",
+      "title": "Tod von Hubert Aiwanger: Warum er fehlen wird",
+      "excerpt": "An Hubert Aiwanger konnte man viel kritisieren – und das haben wir getan. Doch eines muss man ihm lassen: Ein Hund war er schon, manchmal sogar ein cooler. mehr...",
+      "url": "https://taz.de/Tod-von-Hubert-Aiwanger/!6228138/",
+      "publishedAt": "2026-11-07T08:38:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Merz telefoniert mit US-Präsident - „Es interessiert Trump nicht, was die Deutschen sagen“",
-      "excerpt": "Als mehr und mehr Senats- und Abgeordnetensitze bei den US-Kongresswahlen für die Republikaner verloren gingen, saß Präsident Trump ...",
-      "url": "https://www.bild.de/politik/merz-telefoniert-mit-us-praesident-es-interessiert-trump-nicht-was-die-deutschen-sagen-6aee0d49320931eb80f5cb09",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAZ.DE",
+      "title": "Michail Chodorkowskij über Russland: „Man sollte mit Putin reden“",
+      "excerpt": "Der frühere Oligarch wurde in seiner Heimat zur Lagerhaft verurteilt. Heute lebt er im Exil. Ein Gespräch über Sanktionen, Krieg und russische Opposition. mehr...",
+      "url": "https://taz.de/Michail-Chodorkowskij-ueber-Russland/!6225176/",
+      "publishedAt": "2026-11-07T08:32:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Nach Wahldebakel - Trump tauscht Stabschefin aus",
-      "excerpt": "Hardliner Stephen Miller übernimmt nach Wahlniederlage die Leitung im Weißen Haus.",
-      "url": "https://www.bild.de/politik/nach-wahldebakel-trump-tauscht-stabschefin-aus-6aee235447b5fce02f87aabf",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+      "excerpt": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Frage",
+      "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+      "publishedAt": "2026-11-07T08:10:26.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Neuköllner Linker Ahmed Abed vertrat mehrfach Terrorsympathisanten Ibrahim vor Gericht",
+      "excerpt": "Ahmed Abed möchte in Berlin-Neukölln für die Linke ins Rathaus einziehen. Der Jurist vertrat nach SPIEGEL-Informationen mehrfach den Terrorsympathisanten Ibrahim vor Gericht, vor dem Elif Eralp sich fürchtet.",
+      "url": "https://www.spiegel.de/politik/neukoellner-linker-ahmed-abed-vertrat-mehrfach-terrorsymphatisanten-ibrahim-vor-gericht-a-ab87687b-d693-4cd9-a610-8933708c25b2#ref=rss",
+      "publishedAt": "2026-11-07T07:51:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "BILD-Reporter zur Aigner-Entscheidung - „Merz hat sich wahnsinnig über Söder geärgert”",
-      "excerpt": "Ilse Aigner hat offenbar die besten Chancen, Deutschlands nächste Bundespräsidentin zu werden.",
-      "url": "https://www.bild.de/politik/steinmeier-nachfolge-offenbar-entschieden-aigner-wird-eine-buerger-praesidentin-sein-6aedfc7e47b5fce02f87a84f",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "excerpt": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+      "publishedAt": "2026-11-07T07:40:23.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Boris Palmer wird zur Last für Cem Özdemir - Belästigungsvorwürfe gegen Tübingen-OB",
+      "excerpt": "Die Empörung in Tübingen und darüber hinaus ist groß: Oberbürgermeister Boris Palmer steht wegen Vorwürfen unter Druck, er habe eine Frau sexuell belästigt. Das hat auch Folgen für den grünen Ministerpräsidenten.",
+      "url": "https://www.spiegel.de/politik/deutschland/boris-palmer-wird-zur-last-fuer-cem-oezdemir-belaestigungsvorwuerfe-gegen-tuebingen-ob-a-c637193a-2303-4d18-951c-5bf785b2c6d2#ref=rss",
+      "publishedAt": "2026-11-07T07:34:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Wie der Freie-Wähler-Chef wirklich war - Wir bestellten heimlich Drinks auf Aiwangers Rechnung",
-      "excerpt": "Hubert Aiwanger ist tot in einem Berliner Hotel aufgefunden worden.",
-      "url": "https://www.bild.de/politik/wegbegleiter-verraet-wie-aiwanger-wirklich-war-wir-bestellten-heimlich-drinks-auf-seine-rechnung-6aec49c10ed738572938c486",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAZ.DE",
+      "title": "Podcast der wochentaz: Die Toilettenmafia",
+      "excerpt": "Ein dubioses Unternehmen beutet deutschlandweit Toilettenpersonal in Einkaufszentren aus. Trotz mehrjähriger Haftstrafen geht die Masche weiter. mehr...",
+      "url": "https://taz.de/Podcast-der-wochentaz/!6228289/",
+      "publishedAt": "2026-11-07T07:21:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "„Wir vertrauen ihr nicht mehr“ - Berliner Linke will Israelhasserin Emde loswerden",
-      "excerpt": "Heute verlangt die Partei den Rückzug der Israelhasserin aus dem Abgeordnetenamt.",
-      "url": "https://www.bild.de/politik/medienbericht-berliner-linke-will-vanessa-emde-zu-mandatsverzicht-auffordern-6aedcda347b5fce02f87a357",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "SPIEGEL.DE",
+      "title": "Bundeswehr: Personalbedarf kann laut Pistorius voraussichtlich auch ohne Wehrpflicht gedeckt werden",
+      "excerpt": "Mit rund 190.000 Soldaten und Soldatinnen hat die Bundeswehr Verteidigungsminister Pistorius zufolge den höchsten Personalstand seit 13 Jahren. Sollte sich der Kurs fortsetzen, müsse es keine Debatte über eine Wehrpflich",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-personalbedarf-kann-laut-pistorius-voraussichtlich-auch-ohne-wehrpflicht-gedeckt-werden-a-34b7a192-f4f4-4446-b403-dd06d7d30212#ref=rss",
+      "publishedAt": "2026-11-07T07:05:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Trauer um Hubert Aiwanger - DIESE Zitate werden wir nicht vergessen",
-      "excerpt": "Hubert Aiwanger, Bundes- und Landeschef der Freien Wähler, ist im Alter von 55 Jahren gestorben. Hier sind einige seiner stärksten ...",
-      "url": "https://www.bild.de/politik/inland/trauer-um-hubert-aiwanger-diese-zitate-werden-wir-nicht-vergessen-6aec80e493d31cdb1e6ce910",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
+      "source": "TAGESSCHAU.DE",
+      "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+      "excerpt": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+      "publishedAt": "2026-11-07T07:02:40.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Serpil Midyatli über Ungleichbehandlung: „Frauen werden wundgeschossen“",
+      "excerpt": "Schleswig-Holsteins SPD-Fraktionschefin Serpil Midyatli findet, dass Frauen und Männer in der Politik mit zweierlei Maß gemessen werden. Immer noch. mehr...",
+      "url": "https://taz.de/Serpil-Midyatli-ueber-Ungleichbehandlung/!6228066/",
+      "publishedAt": "2026-11-07T07:00:00.000Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Kommentar - Aigner hat, was Steinmeier fehlt!",
-      "excerpt": "Sie kann dazu beitragen, dass die Bürger wieder zuversichtlicher in die Zukunft blicken.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-ilse-aigner-ist-jetzt-genau-die-richtige-6aedfe481d9d38d6d601ba6a",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+      "excerpt": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnte",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+      "publishedAt": "2026-11-07T06:01:55.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Unions-Entscheidung gefallen - llse Aigner soll Bundespräsidentin werden",
-      "excerpt": "In der CDU/CSU steht die Kür der Bundespräsidentschafts-Kandidatin an. Und es gibt nur noch einen Namen – eigentlich",
-      "url": "https://www.bild.de/politik/inland/ilse-aigner-merz-kommt-an-dieser-frau-fuer-bellevue-nicht-vorbei-6aedbab8a389bc337cfc7da7",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„StarGate“ revolutioniert Verwundetentransport - Drohnen-Rettung aus der Todeszone",
-      "excerpt": "Ukrainische Drohne bringt schwer Verletzte aus gefährlichen Frontgebieten in Sicherheit.",
-      "url": "https://www.bild.de/politik/bild-lagezentrum-ki-drohne-stargate-rettet-verletzten-soldaten-in-der-ukraine-6aeda9e8a389bc337cfc7bde",
-      "publishedAt": "2026-11-07T03:13:15.771Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "excerpt": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+      "publishedAt": "2026-11-07T04:19:10.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -152,150 +424,6 @@
       "url": "https://www.spiegel.de/politik/pflegeversicherung-braucht-im-november-extra-geldspritze-a-ce3800ef-f854-4e76-b4c2-16792074d5f7#ref=rss",
       "publishedAt": "2026-11-07T03:08:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "DLF",
-      "title": "Europaweite Vorfälle - Gefährliche Metallteile in Halloween-Süßigkeiten: Polizei prüft Einfluss von Sozialen Medien oder Chatgruppen",
-      "excerpt": "Die ominöse Serie von Halloween-Süßigkeiten, in die gefährliche Metallobjekte gesteckt wurden, könnte durch Beiträge in Sozialen Medien oder Chatgruppen angeregt worden sein.",
-      "url": "https://www.deutschlandfunk.de/gefaehrliche-metallteile-in-halloween-suessigkeiten-polizei-prueft-einfluss-von-sozialen-medien-oder-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
-      "excerpt": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
-      "url": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Soldatinnen und Soldaten - Pistorius rechnet nicht mit Rückkehr zur Wehrpflicht: Bundeswehr kann Personalbedarf auch so decken",
-      "excerpt": "Bundesverteidigungsminister Pistorius hat sich zuversichtlich geäußert, dass die Bundeswehr ihren Personalbedarf auch künftig ohne Rückkehr zur Wehrpflicht decken kann. Man habe aktuell mit rund 190.000 Soldatinnen und S",
-      "url": "https://www.deutschlandfunk.de/pistorius-rechnet-nicht-mit-rueckkehr-zur-wehrpflicht-bundeswehr-kann-personalbedarf-auch-so-decken-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundesjustizministerin - Hubig will AfD-Leaks für Prüfung von Parteiverbot nutzen",
-      "excerpt": "Bundesjustizministerin Hubig will die im Internet veröffentlichten E-Mails der AfD für die Prüfung eines Verbotsverfahrens gegen die Partei nutzen.",
-      "url": "https://www.deutschlandfunk.de/hubig-will-afd-leaks-fuer-pruefung-von-parteiverbot-nutzen-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Provinz Taiz - Viele Tote nach Angriffen auf Markt im Jemen",
-      "excerpt": "Im Jemen sind bei Luftangriffen auf einen Markt in der Provinz Taiz zahlreiche Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "USA - Vater von Herzogin Meghan festgenommen - Aufnahmen von Kindesmissbrauch entdeckt",
-      "excerpt": "Der Vater der britischen Herzogin Meghan, Thomas Markle, ist in den USA wegen des Verdachts auf Besitz von kinderpornografischem Material vorübergehend festgenommen worden.",
-      "url": "https://www.deutschlandfunk.de/vater-von-herzogin-meghan-festgenommen-aufnahmen-von-kindesmissbrauch-entdeckt-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
-      "excerpt": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Be",
-      "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-104.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Bundespräsidentenwahl - Merz schweigt weiter zu Aigner",
-      "excerpt": "Der CDU-Vorsitzende Merz hat am Abend konkrete Fragen zur Nachfolge von Bundespräsident Steinmeier offen gelassen.",
-      "url": "https://www.deutschlandfunk.de/merz-schweigt-weiter-zu-aigner-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "CDU-Parteikollege - Vernichtende Kritik an Merz: Kiesewetter spricht von Dilettantismus und fehlendem Fingerspitzengefühl",
-      "excerpt": "Der CDU-Bundestagsabgeordnete Kiesewetter hat dem Vorsitzenden seiner Partei und Bundeskanzler Merz mangelndes Fingerspitzengefühl vorgeworfen.",
-      "url": "https://www.deutschlandfunk.de/vernichtende-kritik-an-merz-kiesewetter-spricht-von-dilettantismus-und-fehlendem-fingerspitzengefueh-102.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Missbrauch - Sachsen will Schutzkonzepte gegen sexuelle Gewalt an Schulen verpflichtend machen",
-      "excerpt": "Sachsen will bei Schutzkonzepten gegen sexuelle Gewalt an Schulen vom Prinzip der Freiwilligkeit abrücken.",
-      "url": "https://www.deutschlandfunk.de/sachsen-will-schutzkonzepte-gegen-sexuelle-gewalt-an-schulen-verpflichtend-machen-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Sachsen-Anhalt - AfD-Politiker Siegmund schließt mehrere Wahlgänge nicht mehr aus",
-      "excerpt": "Der AfD-Politiker Siegmund schließt entgegen früheren Aussagen nicht mehr aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt auch in einem zweiten oder dritten Wahlgang anzutreten. Er verwies auf die Entscheidung der",
-      "url": "https://www.deutschlandfunk.de/afd-politiker-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus-106.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nach Wahlniederlage - Trump: Stabschefin Susie Wiles verlässt Weißes Haus - Nachfolger wird Stephen Miller",
-      "excerpt": "Nach der Niederlage der Republikaner bei den Zwischenwahlen hat US-Präsident Trump personelle Konsequenzen gezogen. Trump erklärte auf seiner Online-Plattform, die Stabschefin im Weißen Haus, Wiles, gebe ihren Posten auf",
-      "url": "https://www.deutschlandfunk.de/trump-stabschefin-susie-wiles-verlaesst-weisses-haus-nachfolger-wird-stephen-miller-108.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Antisemitismus-Vorwurf - Berliner Landesverband fordert Abgeordnete Emde zum Mandatsverzicht auf",
-      "excerpt": "Der Berliner Landesverband der Linkspartei hat die Abgeordnete Emde zum Mandatsverzicht aufgefordert. Die Vorsitzenden Wolter und Schirmer erklärten, Emde solle wegen ihrer Position zum Nahostkonflikt ihr Mandat im Abgeo",
-      "url": "https://www.deutschlandfunk.de/berliner-landesverband-fordert-abgeordnete-emde-zum-mandatsverzicht-auf-102.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
-      "excerpt": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
-      "url": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Jahrestag - Evangelische Kirche stellt eigene Rolle bei der Wiedervereinigung infrage",
-      "excerpt": "Die Evangelische Kirche in Deutschland hat angesichts des Jahrestags des Mauerfalls kommende Woche die eigene Rolle nach der Wiedervereinigung infrage gestellt.",
-      "url": "https://www.deutschlandfunk.de/evangelische-kirche-stellt-eigene-rolle-bei-der-wiedervereinigung-infrage-102.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Versuchter Mord - Gewerkschaft kritisiert Haftstrafe nach Angriff auf Polizisten bei Fußball-Krawallen in Magdeburg als zu mild",
-      "excerpt": "Nach einem Prozess wegen versuchten Mordes an einem Polizisten bei Fußballausschreitungen in Magdeburg gibt es Kritik am Urteil.",
-      "url": "https://www.deutschlandfunk.de/gewerkschaft-kritisiert-haftstrafe-nach-angriff-auf-polizisten-bei-fussball-krawallen-in-magdeburg-a-100.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Am Rande von Protesten - Frankreich: AFP prangert Gewalt von Polizisten gegen Journalisten an",
-      "excerpt": "Die Nachrichtenagentur AFP hat der Polizei in Frankreich ein gewaltsames Vorgehen gegen Journalisten am Rande von Protesten vorgeworfen.",
-      "url": "https://www.deutschlandfunk.de/frankreich-afp-prangert-gewalt-von-polizisten-gegen-journalisten-an-104.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Pressefreiheit - Deutsche Welle kritisiert Fahndung nach Journalistinnen in Belarus",
-      "excerpt": "In Belarus sind nach Angaben der Deutschen Welle Journalistinnen des Senders zur Fahndung ausgeschrieben worden.",
-      "url": "https://www.deutschlandfunk.de/deutsche-welle-kritisiert-fahndung-nach-journalistinnen-in-belarus-108.html",
-      "publishedAt": "2026-11-07T03:03:05.000Z",
-      "category": "NACHRICHTEN"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -363,14 +491,6 @@
     },
     {
       "source": "TAGESSCHAU.DE",
-      "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
-      "excerpt": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
-      "publishedAt": "2026-11-06T20:20:30.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
       "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
       "excerpt": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\"",
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
@@ -383,14 +503,6 @@
       "excerpt": "Die Linkspartei in Berlin beschließt, die umstrittene Abgeordnete Emde zum Verzicht ihres Mandats aufzufordern. Zusätzlich droht ihr der Fraktionsausschluss. mehr...",
       "url": "https://taz.de/Ansage-der-Berliner-Linkspartei/!6228309/",
       "publishedAt": "2026-11-06T19:28:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Generalstreik in Frankreich: Sie hoffen, dass das nur der Anfang ist",
-      "excerpt": "In 207 Städten wurde in Frankreich gestreikt. Unterwegs mit der Lehrerin und Vorsitzenden der Bildungsgewerkschaft Nara Cladera. mehr...",
-      "url": "https://taz.de/Generalstreik-in-Frankreich/!6224243/",
-      "publishedAt": "2026-11-06T18:58:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -443,7 +555,7 @@
     },
     {
       "source": "TAZ.DE",
-      "title": "Deutsch-polnische Beziehungen: Hass auf Bundewehrsoldaten ohne Ende",
+      "title": "Deutsch-polnische Beziehungen: Hass auf Bundeswehrsoldaten ohne Ende",
       "excerpt": "Die deutsche Botschaft dementiert Falschmeldungen in Videos. Der Nato-Verbündete Polens habe mit der Krise um das Verfassungsgericht nichts zu tun. mehr...",
       "url": "https://taz.de/Deutsch-polnische-Beziehungen/!6228208/",
       "publishedAt": "2026-11-06T18:53:00.000Z",
@@ -466,28 +578,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Was wird nur aus dem Café Kranzler?: Big Mamma statt Kännchen",
-      "excerpt": "Kultur als Fotokulisse: Ins legendäre Kranzler Eck zieht ein Restaurant, das italienische Identität nur vorgibt. Was sagt das aus über das neue Berlin? mehr...",
-      "url": "https://taz.de/Was-wird-nur-aus-dem-Cafe-Kranzler/!6224207/",
-      "publishedAt": "2026-11-06T18:50:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
       "excerpt": "Der Konflikt um Vanessa Emde erschwert die Koalitionsgespräche in Berlin. Nun hat die Partei sie gedrängt, ihren Posten aufzugeben – das Mandat sei keine »Ich-AG«. Hintergrund sind ihre Positionen zum Nahostkonflikt.",
       "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
       "publishedAt": "2026-11-06T18:24:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-      "excerpt": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-      "publishedAt": "2026-11-06T17:46:51.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -530,38 +626,6 @@
       "category": "KLIMA & UMWELT"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Bundestag stimmt für Strafverschärfung: Tropfen als Waffe",
-      "excerpt": "Die meisten riecht man nicht, man schmeckt sie nicht: Der Einsatz von K.-o.-Tropfen wird künftig härter bestraft. Das Strafmaß wird auf fünf Jahre erhöht. mehr...",
-      "url": "https://taz.de/Bundestag-stimmt-fuer-Strafverschaerfung/!6227549/",
-      "publishedAt": "2026-11-06T16:42:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Regierungskrise in Belgien: Ein abgelehnter Rücktritt und ein ICE-Imitat",
-      "excerpt": "Belgiens König Philippe lehnt den Rücktritt von Premier De Wever ab. Unterdessen verabschiedet das Parlament ein Gesetz für Razzien nach ICE-Vorbild. mehr...",
-      "url": "https://taz.de/Regierungskrise-in-Belgien/!6228207/",
-      "publishedAt": "2026-11-06T16:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Reichsbürgerprozess in Düsseldorf: Königliche Audienz im Gerichtssaal",
-      "excerpt": "Zu Prozessbeginn gegen die Reichsbürger-Sekte „Königreich Deutschland“ zeigt der selbsternannte Monarch Peter Fitzek: Er glaubt immer noch an sich. mehr...",
-      "url": "https://taz.de/Reichsbuergerprozess-in-Duesseldorf/!6228213/",
-      "publishedAt": "2026-11-06T16:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Mutmaßlicher Neonazi bei VfL Halle: Keeper ganz rechts außen",
-      "excerpt": "Fans des Fußball-Oberligisten VfL Halle meiden aus Protest gegen einen wohl rechtsextremen Spieler das Stadion. Für den Klub sind die Fans das Problem. mehr...",
-      "url": "https://taz.de/Mutmasslicher-Neonazi-bei-VfL-Halle/!6224254/",
-      "publishedAt": "2026-11-06T16:38:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "News des Tages: Börsenbeben an der Wall Street, AfD-Hacker, Vanessa Emde droht Parteiausschluss",
       "excerpt": "Der Demokratensieg bei den US-Zwischenwahlen verunsichert die Börsen. Die Spur der AfD-Hacker führt in eine berüchtigte Onlineszene. Die Berliner Linkenspitze will endlich Vanessa Emde loswerden. Das ist die Lage am Frei",
@@ -576,14 +640,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
       "publishedAt": "2026-11-06T16:19:52.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Nachfolge von Frank-Walter Steinmeier: CDU will laut Medien Ilse Aigner als Bundespräsidentin",
-      "excerpt": "Nach der CSU legt sich offenbar auch die Schwesterpartei CDU fest: Die bayerische Landtagspräsidentin soll Deutschlands erstes weibliches Staatsoberhaupt werden. mehr...",
-      "url": "https://taz.de/Berichte-CDU-will-Ilse-Aigner-als-Bundespraesidentin/!6228285/",
-      "publishedAt": "2026-11-06T16:15:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -607,14 +663,6 @@
       "excerpt": "Zuletzt sprachen sich immer mehr prominente CDU-Politiker für die CSU-Politikerin Ilse Aigner als nächste Bundespräsidentin aus. Jetzt ist die Entscheidung offenbar gefallen. Aigner soll nach SPIEGEL-Informationen Kandid",
       "url": "https://www.spiegel.de/politik/deutschland/llse-aigner-die-csu-politikerin-soll-bundespraesidentin-werden-so-cdu-kreise-a-7a25d55d-6e5b-4fa7-9daa-96be6f9916fe#ref=rss",
       "publishedAt": "2026-11-06T14:59:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Greenpeace warnt vor Rechenzentren: Mega-Datenfabriken verursachen Mega-Wasserstress",
-      "excerpt": "Einige geplante Rechenzentren in Deutschland könnten so viel Wasser wie eine Kleinstadt verbrauchen, warnt Greenpeace. Das gefährde die Versorgung. mehr...",
-      "url": "https://taz.de/Greenpeace-warnt-fuer-Deutschland/!6228179/",
-      "publishedAt": "2026-11-06T14:39:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -690,14 +738,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "excerpt": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von An",
-      "url": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-      "publishedAt": "2026-11-06T09:29:54.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Migration: Warum das Wort »migrantisch« nicht taugt – Kommentar",
       "excerpt": "Kanzler Merz und sein Innenminister Dobrindt weigern sich, differenziert über Migration zu sprechen. Das macht lösungsorientierte Debatten fast unmöglich.",
@@ -711,6 +751,22 @@
       "excerpt": "Rund 60 Prozent der Erwachsenen haben in Paraguay ihr Geld der Ueno Bank anvertraut. Die ist jetzt pleite. Die Folge: Das Land stürzt in eine beispiellose politische Krise.",
       "url": "https://www.spiegel.de/politik/paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-a-52ab3a5b-7cd8-45a9-8f2e-b38d69b32854#ref=rss",
       "publishedAt": "2026-11-06T06:17:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Die Wahrheit: Kuscheltest im Atombunker",
+      "excerpt": "In einem Geheimlabor werden KI-Toys getestet, ob sie auf den deutschen Spielzeugmarkt kommen oder zur Bundeswehr müssen. mehr...",
+      "url": "https://taz.de/Die-Wahrheit/!6224162/",
+      "publishedAt": "2026-11-06T06:15:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "SPIEGEL.DE",
+      "title": "Berlin: Linken-Politikerin Katharina Marg war bei Demo gegen Abschiebung von Clan-Mitgliedern",
+      "excerpt": "Die Berliner Neuabgeordnete Katharina Marg hat sich an einer Demo gegen Abschiebungen von Männern aus dem Barbakh-Clan beteiligt. Bei Gerichtsterminen war sie als »parlamentarische Beobachterin« dabei. Kritik kommt von S",
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-linken-politikerin-katharina-marg-war-bei-demo-gegen-abschiebung-von-clan-mitgliedern-a-fbec994a-21d8-4b41-98f7-3fe4823b1bd8#ref=rss",
+      "publishedAt": "2026-11-06T06:06:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -738,28 +794,12 @@
       "category": "POLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Sexuelles Fehlverhalten: Bundeswehr gab in drei Jahren 724 Fälle an Justiz ab",
-      "excerpt": "In Hunderten Fällen sexueller Übergriffe aus den vergangenen Jahren hat die Bundeswehr Staatsanwaltschaften eingeschaltet. Nicht alle führten zu Verurteilungen: Rund die Hälfte der abgeschlossenen Verfahren wurde eingest",
-      "url": "https://www.spiegel.de/politik/sexuelles-fehlverhalten-bundeswehr-gab-in-drei-jahren-724-faelle-an-justiz-ab-a-967328e1-e5fa-47ca-ad0b-03a471597ea2#ref=rss",
-      "publishedAt": "2026-11-06T04:02:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
       "excerpt": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
       "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
       "publishedAt": "2026-11-06T00:55:35.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Frankreich: 448 Festnahmen bei landesweiten Protesten",
-      "excerpt": "In Frankreich haben vorwiegend junge Menschen abermals für bessere Schulen und gegen Sozialkürzungen protestiert. Es kam zu Gewalt vonseiten der Demonstranten und der Polizei.",
-      "url": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f#ref=rss",
-      "publishedAt": "2026-11-05T22:01:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -770,28 +810,12 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "SPIEGEL.DE",
-      "title": "Midterms in den USA: Die trügerische Freude über Trumps Machtverlust",
-      "excerpt": "Donald Trump verliert die US-Zwischenwahlen. Auch in Ungarn, Brasilien und Serbien scheiterten Rechtspopulisten. Ist das der Anfang vom Ende ihrer weltweiten Erfolgswelle? Hören Sie eine neue Folge von »Mad Kings«.",
-      "url": "https://www.spiegel.de/politik/midterms-in-den-usa-die-truegerische-freude-ueber-trumps-machtverlust-a-a699ab52-1203-4447-967e-f44d6941354a#ref=rss",
-      "publishedAt": "2026-11-05T19:57:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
       "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
       "excerpt": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. V",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
       "publishedAt": "2026-11-05T19:11:03.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Schlachthöfe werden künftig mit Kameras überwacht - Beschluss im Bundestag",
-      "excerpt": "Tierquälerei-Skandale sind an deutschen Schlachthöfen keine Seltenheit. Der Bundestag hat größere Betriebe nun zur Videoüberwachung verpflichtet. So sollen mehr als 90 Prozent aller Schlachtungen erfasst werden.",
-      "url": "https://www.spiegel.de/politik/schlachthoefe-werden-kuenftig-mit-kameras-ueberwacht-beschluss-im-bundestag-a-10d81644-e866-44db-bf3f-b5337bad0739#ref=rss",
-      "publishedAt": "2026-11-05T19:06:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -912,30 +936,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
       "publishedAt": "2026-11-05T04:05:08.000Z",
       "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
-      "excerpt": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt? Von Tina Handel.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
-      "publishedAt": "2026-11-05T03:21:38.000Z",
-      "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
-      "excerpt": "Die wichtigsten Gewerkschaften in Frankreich haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schließen sich an. Kann das funktionieren? Von C. Dylla.",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
-      "publishedAt": "2026-11-05T01:52:28.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-      "excerpt": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hote",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
-      "publishedAt": "2026-11-04T23:35:58.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
