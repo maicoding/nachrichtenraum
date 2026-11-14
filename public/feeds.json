@@ -1,124 +1,12 @@
 {
-  "updatedAt": "2026-11-13T23:53:01.641Z",
+  "updatedAt": "2026-11-14T06:23:14.378Z",
   "messages": [
-    {
-      "source": "BILD.DE",
-      "title": "Urlaubsanträge vor Start von GTA 6 - Deutschland zockt, statt zu arbeiten",
-      "excerpt": "Wie die Urlaubsanträge zum Start des Spiels zunehmen und wie Unternehmen reagieren.",
-      "url": "https://www.bild.de/politik/inland/deutschland-zockt-statt-zu-arbeiten-urlaubsantraege-schiessen-vor-start-von-gta-6-in-die-hoehe-6af72bd584c7128d8f27e81c",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geheimdienst-Reform beschlossen - Diese Geheimdienst-Jobs sind jetzt frei",
-      "excerpt": "Nach Reform: BND, Verfassungsschutz und MAD suchen Personal – Sicherheitscheck Pflicht.",
-      "url": "https://www.bild.de/politik/inland/geheimdienst-reform-beschlossen-diese-geheimdienst-jobs-sind-jetzt-frei-6af6d566559aca3d9f9928a7",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Hacker waren es nicht! - Microsoft nennt Grund für die Mega-Panne",
-      "excerpt": "Fast 24 Stunden legte eine Panne viele Microsoft-Dienste lahm. Jetzt ist klar, woran es lag.",
-      "url": "https://www.bild.de/politik/eilmeldung-microsoft-nennt-grund-fuer-die-mega-panne-6af76e43aa0d1596fb27e608",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Würde heute dafür stimmen“ - Erst Nein, heute Ja! Merkels Wende bei der Ehe für alle",
-      "excerpt": "Die Altkanzlerin habe moralische Bedenken gehabt, sagt sie heute. Sie denke nun anders.",
-      "url": "https://www.bild.de/politik/inland/wuerde-heute-dafuer-stimmen-merkel-bereut-ihr-nein-zur-ehe-fuer-alle-6af75e809849eea0701e2151",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ehemann von Ex-Kanzlerin Merkel - „Wir hatten auch in der DDR ein richtiges Leben“",
-      "excerpt": "Joachim Sauer berichtet über Stasi-Druck und seine Ehe mit Angela Merkel.",
-      "url": "https://www.bild.de/politik/inland/ehemann-von-ex-kanzlerin-merkel-wir-hatten-auch-in-der-ddr-ein-richtiges-leben-6af74bde27adfb0b7bb2d7f2",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Selenskyj soll Land abgeben - Das traurige Gesicht des „Friedens“-Deals",
-      "excerpt": "Ein bedrückendes Bild erzählt das ganze Drama vom möglichen Ende des Ukraine-Kriegs.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trumps-maenner-verhandeln-selenskyj-soll-verkaufen-das-traurige-gesicht-des-friedens-deals-6af6e6fb5a72dceba1d61423",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neuer Chef gesucht! - Nvidia baggert schon am Huang-Nachfolger",
-      "excerpt": "Nach Jensens Rücktritt sprach der Verwaltungsrat mit einem Ex-Konkurrenten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/neuer-chef-gesucht-nvidia-baggert-schon-am-nachfolger-von-huang-6af74e749849eea0701e20ae",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Millionen Bürger betroffen - Klingbeil will Steuererklärung auf Papier abschaffen",
-      "excerpt": "Künftig sollen auch Arbeitnehmer und Rentner ihre Steuererklärung digital abgeben.",
-      "url": "https://www.bild.de/politik/inland/rentner-besonders-betroffen-klingbeil-will-steuererklaerung-auf-papier-abschaffen-6af722ae7f8bbad09ea6267b",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Maschinen statt Soldaten - Jetzt startet die Ukraine den Roboter-Krieg!",
-      "excerpt": "Bewaffnete Maschinen greifen russische Stellungen an, Drohnen bringen sie ins Gefecht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/roboter-krieg-in-der-ukraine-maschinen-statt-soldaten-6af6fb557f8bbad09ea621bd",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Partei kontert und spricht von Doppelmoral - „Tagesschau“ geht rechtlich gegen Linke vor",
-      "excerpt": "NDR fordert wegen Markenrechtsverletzung die Löschung eines Satire-Videos.",
-      "url": "https://www.bild.de/politik/inland/die-tagesschau-geht-rechtlich-gegen-linke-vor-6af7140a7f8bbad09ea62495",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Was dem Ex-CEO blühen könnte - Nach Nvidia-Skandal nun Milliarden-Scheidung?",
-      "excerpt": "Jensen Huangs Ehefrau könnte bis zu 70 Mrd. Dollar erhalten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/was-dem-ehemaligen-ceo-bluehen-koennte-nach-skandal-um-nvidia-nun-milliardenscheidung-6af72b299849eea0701e1d6c",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "EU einig - Verhandlungsteam für Gespräche mit Russland steht",
-      "excerpt": "Fünf EU-Staaten sollen Europa bei Ukraine-Fragen vertreten.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht-6af74e727f8bbad09ea62b09",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Umfrage unter 504 Führungskräften - Top-Manager haben Vertrauen in Merz-Regierung verloren",
-      "excerpt": "Deutschlands Führungskräfte bezweifeln, dass die Politik Probleme lösen kann.",
-      "url": "https://www.bild.de/politik/inland/wut-der-wirtschaft-90-prozent-halten-regierung-von-merz-fuer-zu-schwach-6af6f1d37f8bbad09ea620a6",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
-      "category": "POLITIK"
-    },
     {
       "source": "BILD.DE",
       "title": "Kampf gegen die Nazis - Fallen wir bis heute auf Hitler rein?",
       "excerpt": "Der Widerstand vom 20. Juli plante den Sturz des NS-Regimes mit ziviler Regierung.",
       "url": "https://www.bild.de/politik/inland/kampf-gegen-die-nazis-fallen-wir-bis-heute-auf-hitler-rein-6af5cf5a5596369bf0edd52f",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
+      "publishedAt": "2026-11-14T06:23:14.291Z",
       "category": "POLITIK"
     },
     {
@@ -126,7 +14,7 @@
       "title": "„Schuss nicht gehört?“ - Tunnelbau-König Herrenknecht wettert gegen IG Metall",
       "excerpt": "Martin Herrenknecht fordert mehr Leistung und Einsatz gegen die Krise der Industrie.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/martin-herrenknecht-deutschland-muss-wieder-mehr-schaffen-6af584ec5596369bf0edc2b7",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
+      "publishedAt": "2026-11-14T06:23:14.291Z",
       "category": "POLITIK"
     },
     {
@@ -134,7 +22,7 @@
       "title": "Kommentar vom BILD-Politikchef - Die Rechnung wird richtig teuer",
       "excerpt": "Die deutschen Staatsfinanzen laufen völlig aus dem Ruder. Bezahlen werden wir Bürger.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-die-rechnung-wird-richtig-teuer-6af73adf27adfb0b7bb2d6f6",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
+      "publishedAt": "2026-11-14T06:23:14.291Z",
       "category": "POLITIK"
     },
     {
@@ -142,15 +30,167 @@
       "title": "Zwischenruf von BILD-Sachsen-Korrespondent - Liebe Wessis, zieht euch warm an!",
       "excerpt": "Mercedes stoppt Investitionen und prüft Werksschließungen in Deutschland.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/zwischenruf-liebe-wessis-zieht-euch-warm-an-6af6f44784c7128d8f27e14e",
-      "publishedAt": "2026-11-13T23:53:01.538Z",
+      "publishedAt": "2026-11-14T06:23:14.291Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Urlaubsanträge vor Start von GTA 6 - Deutschland zockt, statt zu arbeiten",
+      "excerpt": "Wie die Urlaubsanträge zum Start des Spiels zunehmen und wie Unternehmen reagieren.",
+      "url": "https://www.bild.de/politik/inland/deutschland-zockt-statt-zu-arbeiten-urlaubsantraege-schiessen-vor-start-von-gta-6-in-die-hoehe-6af72bd584c7128d8f27e81c",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Geheimdienst-Reform beschlossen - Diese Geheimdienst-Jobs sind jetzt frei",
+      "excerpt": "Nach Reform: BND, Verfassungsschutz und MAD suchen Personal – Sicherheitscheck Pflicht.",
+      "url": "https://www.bild.de/politik/inland/geheimdienst-reform-beschlossen-diese-geheimdienst-jobs-sind-jetzt-frei-6af6d566559aca3d9f9928a7",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hacker waren es nicht! - Microsoft nennt Grund für die Mega-Panne",
+      "excerpt": "Fast 24 Stunden legte eine Panne viele Microsoft-Dienste lahm. Jetzt ist klar, woran es lag.",
+      "url": "https://www.bild.de/politik/eilmeldung-microsoft-nennt-grund-fuer-die-mega-panne-6af76e43aa0d1596fb27e608",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Würde heute dafür stimmen“ - Erst Nein, heute Ja! Merkels Wende bei der Ehe für alle",
+      "excerpt": "Die Altkanzlerin habe moralische Bedenken gehabt, sagt sie heute. Sie denke nun anders.",
+      "url": "https://www.bild.de/politik/inland/wuerde-heute-dafuer-stimmen-merkel-bereut-ihr-nein-zur-ehe-fuer-alle-6af75e809849eea0701e2151",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ehemann von Ex-Kanzlerin Merkel - „Wir hatten auch in der DDR ein richtiges Leben“",
+      "excerpt": "Joachim Sauer berichtet über Stasi-Druck und seine Ehe mit Angela Merkel.",
+      "url": "https://www.bild.de/politik/inland/ehemann-von-ex-kanzlerin-merkel-wir-hatten-auch-in-der-ddr-ein-richtiges-leben-6af74bde27adfb0b7bb2d7f2",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Selenskyj soll Land abgeben - Das traurige Gesicht des „Friedens“-Deals",
+      "excerpt": "Ein bedrückendes Bild erzählt das ganze Drama vom möglichen Ende des Ukraine-Kriegs.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trumps-maenner-verhandeln-selenskyj-soll-verkaufen-das-traurige-gesicht-des-friedens-deals-6af6e6fb5a72dceba1d61423",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neuer Chef gesucht! - Nvidia baggert schon am Huang-Nachfolger",
+      "excerpt": "Nach Jensens Rücktritt sprach der Verwaltungsrat mit einem Ex-Konkurrenten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/neuer-chef-gesucht-nvidia-baggert-schon-am-nachfolger-von-huang-6af74e749849eea0701e20ae",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Millionen Bürger betroffen - Klingbeil will Steuererklärung auf Papier abschaffen",
+      "excerpt": "Künftig sollen auch Arbeitnehmer und Rentner ihre Steuererklärung digital abgeben.",
+      "url": "https://www.bild.de/politik/inland/rentner-besonders-betroffen-klingbeil-will-steuererklaerung-auf-papier-abschaffen-6af722ae7f8bbad09ea6267b",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Maschinen statt Soldaten - Jetzt startet die Ukraine den Roboter-Krieg!",
+      "excerpt": "Bewaffnete Maschinen greifen russische Stellungen an, Drohnen bringen sie ins Gefecht.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/roboter-krieg-in-der-ukraine-maschinen-statt-soldaten-6af6fb557f8bbad09ea621bd",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Partei kontert und spricht von Doppelmoral - „Tagesschau“ geht rechtlich gegen Linke vor",
+      "excerpt": "NDR fordert wegen Markenrechtsverletzung die Löschung eines Satire-Videos.",
+      "url": "https://www.bild.de/politik/inland/die-tagesschau-geht-rechtlich-gegen-linke-vor-6af7140a7f8bbad09ea62495",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Was dem Ex-CEO blühen könnte - Nach Nvidia-Skandal nun Milliarden-Scheidung?",
+      "excerpt": "Jensen Huangs Ehefrau könnte bis zu 70 Mrd. Dollar erhalten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/was-dem-ehemaligen-ceo-bluehen-koennte-nach-skandal-um-nvidia-nun-milliardenscheidung-6af72b299849eea0701e1d6c",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "EU einig - Verhandlungsteam für Gespräche mit Russland steht",
+      "excerpt": "Fünf EU-Staaten sollen Europa bei Ukraine-Fragen vertreten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht-6af74e727f8bbad09ea62b09",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Umfrage unter 504 Führungskräften - Top-Manager haben Vertrauen in Merz-Regierung verloren",
+      "excerpt": "Deutschlands Führungskräfte bezweifeln, dass die Politik Probleme lösen kann.",
+      "url": "https://www.bild.de/politik/inland/wut-der-wirtschaft-90-prozent-halten-regierung-von-merz-fuer-zu-schwach-6af6f1d37f8bbad09ea620a6",
+      "publishedAt": "2026-11-14T06:23:14.290Z",
       "category": "POLITIK"
     },
     {
       "source": "DLF",
-      "title": "Luftfahrt - \"Kommunikationsprobleme\": Landesweiter Flugstopp in den USA",
-      "excerpt": "In den USA hat die Luftfahrtbehörde FAA ⁠einen landesweiten ⁠Flugstopp verhängt.Kommunikationsprobleme im Flugkontrollsystem hätten dazu geführt, hieß es in einer Mitteilung. Davon seien alle Flugsicherungszentralen betr",
-      "url": "https://www.deutschlandfunk.de/kommunikationsprobleme-landesweiter-flugstopp-in-den-usa-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "title": "Sicherheitsbehörden - Krampe (Linke): AfD bekommt Überwachungsstaat \"schlüsselfertig hingehalten\"",
+      "excerpt": "Der Linken-Bundestagsabgeordnete Krampe hat vor den möglichen Folgen der Reform der Geheimdienste gewarnt.",
+      "url": "https://www.deutschlandfunk.de/krampe-linke-afd-bekommt-ueberwachungsstaat-schluesselfertig-hingehalten-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Rente - Pläne: Abzüge bei Frührente sollen von 0,3 auf 0,4 Prozent pro Monat steigen",
+      "excerpt": "Die Bundesregierung plant höhere Abzüge für Menschen, die vor Erreichen der Regelaltersgrenze in Rente gehen. Nach Angaben des CSU-Landesgruppenchefs Hoffmann sollen die Abschläge von 0,3 auf 0,4 Prozent pro Monat angeho",
+      "url": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Migration - Ruanda soll erster Standort für EU-Abschiebezentrum werden",
+      "excerpt": "Deutschland und vier weitere EU-Mitgliedsstaaten stehen offenbar kurz vor dem Abschluss eines Migrationsabkommens mit Ruanda.",
+      "url": "https://www.deutschlandfunk.de/ruanda-soll-erster-standort-fuer-eu-abschiebezentrum-werden-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Technische Störung - Stundenlanges Flugverbot in den USA - Regierung sieht veraltete Technik als Ursache",
+      "excerpt": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Ursache war eine Störung der Kommunikationssysteme, wie das Verkehrsministerium mitteilte. Die Luftsicherheitsbehörde FAA untersagte den ",
+      "url": "https://www.deutschlandfunk.de/stundenlanges-flugverbot-in-den-usa-regierung-sieht-veraltete-technik-als-ursache-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nach Einigung für 2027 - Führende Ökonomen sehen zusätzliche Herausforderungen für den Bundeshaushalt in den kommenden Jahren",
+      "excerpt": "Führende Wirtschaftswissenschaftler in Deutschland erwarten zunehmend schwierige Haushaltsverhandlungen in den kommenden Jahren. Der Ökonom des Kieler Instituts für Weltwirtschaft, Boysen-Hogrefe, sagte im Deutschlandfun",
+      "url": "https://www.deutschlandfunk.de/fuehrende-oekonomen-sehen-zusaetzliche-herausforderungen-fuer-den-bundeshaushalt-in-den-kommenden-ja-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Apec-Gipfel - US-Regierung: Trump trifft Putin und Xi am kommenden Donnerstag",
+      "excerpt": "Die US-Regierung hat Details zum geplanten Treffen von Präsident Trump mit dem russischen Staatschef Putin und Chinas Staatschef Xi mitgeteilt.",
+      "url": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,47 +198,23 @@
       "title": "Gipfel in Dublin - Europa legt sich auf Delegation für Ukraine-Friedensverhandlungen fest",
       "excerpt": "Europa will sich mit einer Delegation aus Diplomaten an künftigen Friedensgesprächen zwischen Russland und der Ukraine beteiligen. Der Kontinent werde von Spitzen der Europäischen Union und Vertretern der sogenannten Koa",
       "url": "https://www.deutschlandfunk.de/europa-legt-sich-auf-delegation-fuer-ukraine-friedensverhandlungen-fest-102.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
-      "excerpt": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
-      "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "title": "Türkei - Genehmigte Demonstrationen zur Halbzeit der UNO-Klimakonferenz angekündigt",
+      "excerpt": "Im türkischen Antalya wollen Umweltaktivisten heute für mehr Einsatz gegen den Klimawandel demonstrieren.",
+      "url": "https://www.deutschlandfunk.de/genehmigte-demonstrationen-zur-halbzeit-der-uno-klimakonferenz-angekuendigt-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Den Haag - Niederländische Minderheitsregierung will weiter über Zusammenarbeit verhandeln",
-      "excerpt": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
-      "url": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-will-weiter-ueber-zusammenarbeit-verhandeln-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
-      "excerpt": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
-      "url": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
-      "excerpt": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
-      "url": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
-      "excerpt": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jah",
-      "url": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "title": "Ausschluss geplant - Linke-Parteichef Pantisano verteidigt Verfahren zu Berliner Abgeordneten Emde",
+      "excerpt": "Der Linke-Bundesvorsitzende Pantisano hat das Verfahren zum Umgang mit der umstrittenen Berliner Abgeordneten Emde verteidigt.",
+      "url": "https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,7 +222,39 @@
       "title": "Mecklenburg-Vorpommern - Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
       "excerpt": "In Mecklenburg-Vorpommern wollen SPD und Grüne heute auf ihren Parteitagen über den Koalitionsvertrag abstimmen, den sie gemeinsam mit der Linken ausgearbeitet haben.",
       "url": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+      "excerpt": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jah",
+      "url": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Den Haag - Niederländische Minderheitsregierung hält vorerst - Ministerpräsident Jetten: Grundlegender Neustart nötig",
+      "excerpt": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
+      "url": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-haelt-vorerst-ministerpraesident-jetten-grundlegender-neustart-100.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+      "excerpt": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
+      "url": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+      "excerpt": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+      "url": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -214,7 +262,7 @@
       "title": "Interview der Woche - Bundestagspräsidentin Klöckner will Mitarbeiter des Parlaments stärker durchleuchten",
       "excerpt": "Bundestagspräsidentin Klöckner hat angesichts hybrider Bedrohungen eine stärkere Kontrolle von Parlamentsmitarbeitern angemahnt. Man brauche für Sicherheitsüberprüfungen von künftigen Mitarbeitern auch Informationen der ",
       "url": "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-will-mitarbeiter-des-parlaments-staerker-durchleuchten-106.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,15 +270,15 @@
       "title": "Militärische Bedeutung - Bund will nach Medienberichten bei Atomfirma Urenco einsteigen",
       "excerpt": "Die Bundesregierung will sich nach übereinstimmenden Medienberichten am Atomtechnikkonzern Urenco beteiligen.",
       "url": "https://www.deutschlandfunk.de/bund-will-nach-medienberichten-bei-atomfirma-urenco-einsteigen-106.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Aufruf zum \"Klimastreik\" - Klimabewegung Fridays for Future mobilisiert bundesweit Zehntausende",
-      "excerpt": "Mit Protestaktionen und Demonstrationen an rund 70 Orten hat die Klimabewegung Fridays for Future gegen die Erderwärmung demonstriert.",
-      "url": "https://www.deutschlandfunk.de/klimabewegung-fridays-for-future-mobilisiert-bundesweit-zehntausende-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+      "excerpt": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+      "url": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -238,63 +286,63 @@
       "title": "Klimaauswirkungen - El Niño: Brasilianischer Bundesstaat Pará ruft nach Tausenden Waldbränden den Umweltnotstand aus",
       "excerpt": "Der brasilianische Bundesstaat Pará hat nach zahlreichen Waldbränden den Umweltnotstand ausgerufen.",
       "url": "https://www.deutschlandfunk.de/el-ni-o-brasilianischer-bundesstaat-par-ruft-nach-tausenden-waldbraenden-den-umweltnotstand-aus-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
+      "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Kinderbetreuung - Bundesregierung beschließt Veränderungen beim Elterngeld",
-      "excerpt": "Die Bundesregierung hat eine Reform des Elterngeldes auf den Weg gebracht.",
-      "url": "https://www.deutschlandfunk.de/bundesregierung-beschliesst-veraenderungen-beim-elterngeld-112.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "SPD-Parteitag: Genossen planen Anti-Klingbeil-Antrag",
+      "excerpt": "Noch hat Lars Klingbeil die Frage nicht beantwortet, ob er ein weiteres Mal für den SPD-Vorsitz kandidiert. Geht es nach einem Bündnis aus Arbeitsgemeinschaften und Parteinachwuchs, ist die Antwort klar.",
+      "url": "https://www.spiegel.de/politik/deutschland/spd-parteitag-genossen-planen-anti-klingbeil-antrag-a-72be0008-5531-4cc4-86d5-ce0f7e2c4774#ref=rss",
+      "publishedAt": "2026-11-14T05:58:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Nations League - DFB-Elf der Männer schlägt Serbien",
-      "excerpt": "Die Fußball-Nationalmannschaft der Männer hat in der Nations League das Rückspiel gegen Serbien in Belgrad mit 3:1 gewonnen. Deutschland ging bereits in der dritten Minute in Führung.",
-      "url": "https://www.deutschlandfunk.de/dfb-elf-der-maenner-schlaegt-serbien-110.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "News: Trauerakt für Hubert Aiwanger, Friedrich Merz und Stromsteuer, Rot-Grün-Rot in Berlin",
+      "excerpt": "Aiwanger wird mit einem Trauerakt gewürdigt. Der Kanzler hat ein Haushaltsproblem. Und: rot-grün-rote Koalitionsverhandlungen. Das ist die Lage am Samstagmorgen.",
+      "url": "https://www.spiegel.de/politik/deutschland/news-trauerakt-fuer-hubert-aiwanger-friedrich-merz-und-stromsteuer-rot-gruen-rot-in-berlin-a-3dda3c1b-9aab-48c2-b6aa-4a244a239e84#ref=rss",
+      "publishedAt": "2026-11-14T05:49:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wintersport - Nach Finnland wollen auch Norwegen, Schweden und Estland russischen Sportlern die Einreise verweigern",
-      "excerpt": "Drei weitere europäische Länder wollen Sportlern aus Russland die Einreise zu internationalen Wettkämpfen verweigern.",
-      "url": "https://www.deutschlandfunk.de/nach-finnland-wollen-auch-norwegen-schweden-und-estland-russischen-sportlern-die-einreise-verweigern-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+      "excerpt": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Ja",
+      "url": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+      "publishedAt": "2026-11-14T04:41:37.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Fußball-Bundesligist - BVB beendet umstrittene Partnerschaft mit Rheinmetall",
-      "excerpt": "Borussia Dortmund beendet seine umstrittene Sponsoringpartnerschaft mit dem Rüstungskonzern Rheinmetall. Der im Sommer 2027 auslaufende Vertrag soll nach drei Jahren nicht verlängert werden, teilten der Fußball-Bundeslig",
-      "url": "https://www.deutschlandfunk.de/bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-106.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Ökonomen warnen vor schwerer Haushaltskrise ab 2028",
+      "excerpt": "Rekordausgaben und noch mehr neue Schulden prägen den Bundesetat für 2027. Ökonomen sehen die Lage ab 2028 noch ernster. Sie empfehlen der Politik entschlossenes Handeln.",
+      "url": "https://www.spiegel.de/politik/oekonomen-warnen-vor-schwerer-haushaltskrise-ab-2028-a-f839e6f9-fa33-40db-8cf1-395e6db1568a#ref=rss",
+      "publishedAt": "2026-11-14T03:35:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wahl im Dezember - Nun auch offiziell: Mronz und Engelhardt kämpfen um DOSB-Chefposten",
-      "excerpt": "Das Rennen um das Präsidenten-Amt beim Deutschen Olympischen Sportbund ist nun auch offiziell ein Duell zwischen IOC-Mitglied Michael Mronz und dem Präsidenten der Deutschen Triathlon-Union, Martin Engelhardt.",
-      "url": "https://www.deutschlandfunk.de/nun-auch-offiziell-mronz-und-engelhardt-kaempfen-um-dosb-chefposten-104.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "excerpt": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte",
+      "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+      "publishedAt": "2026-11-14T03:18:01.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Wetter - Im Norden und Osten bewölkt, im Westen und Süden nach Nebelauflösung heiter",
-      "excerpt": "Das Wetter: In der Nacht im Norden einzelne Schauer, sonst meist klar und trocken. Tiefstwerte 3 bis minus 5 Grad. Tagsüber im Norden und Osten bewölkt, im Küstenumfeld einzelne Schauer. Im Westen und Süden nach Nebelauf",
-      "url": "https://www.deutschlandfunk.de/im-norden-und-osten-bewoelkt-im-westen-und-sueden-nach-nebelaufloesung-heiter-100.html",
-      "publishedAt": "2026-11-13T23:49:54.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+      "excerpt": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+      "publishedAt": "2026-11-14T02:36:59.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
       "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-      "excerpt": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen.",
+      "excerpt": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand",
       "url": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-      "publishedAt": "2026-11-13T21:37:39.000Z",
+      "publishedAt": "2026-11-14T00:51:37.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
@@ -362,14 +410,6 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-      "excerpt": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-      "publishedAt": "2026-11-13T17:15:20.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Bildungsreform in Georgien: Zurück in die Sowjetzeit?",
       "excerpt": "Die georgische Regierung will das Bildungssystem umbauen. Neben mehr staatlicher Kontrolle sehen Kritiker die nationale Selbstbestimmung in Gefahr. mehr...",
@@ -408,14 +448,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
       "publishedAt": "2026-11-13T16:37:14.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
-      "excerpt": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland a",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
-      "publishedAt": "2026-11-13T16:36:49.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAZ.DE",
@@ -674,14 +706,6 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Scott Colom: Wie ein schwarzer Demokrat Mississippi erobert",
-      "excerpt": "Der Demokrat Colom hat Historisches geschafft: Erstmals seit mehr als 140 Jahren hat Mississippi einen schwarzen Senator. Im Wahlkampf hat sich Colom als Politiker präsentiert, der den Menschen zuhört, egal welche Ansich",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-senator-scott-colom-100.html",
-      "publishedAt": "2026-11-13T08:22:34.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Israel-Gaza-Krieg: Ärzte ohne Grenzen kritisieren Zerstörung eines Krankenhauses",
       "excerpt": "Bei einem Angriff auf eine Klinik im Gazastreifen sterben mindestens sechs Menschen. Die Helfer von Ärzte ohne Grenzen sind empört. Auch der von US-Präsident Trump geschaffene Friedensrat reagiert.",
@@ -712,30 +736,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
       "publishedAt": "2026-11-13T04:23:02.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Geheimdienstreform, CDU-Frust über Friedrich Merz, Klimaproteste",
-      "excerpt": "Die deutschen Nachrichtendienste werden reformiert. Friedrich Merz nervt seine eigenen Leute. Und es wird wieder fürs Klima protestiert. Das ist die Lage am Freitagmorgen.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf#ref=rss",
-      "publishedAt": "2026-11-13T04:23:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Quantum Systems: Massiver Cyberangriff auf deutschen Drohnenhersteller",
-      "excerpt": "Unbekannten ist es gelungen, ein Schadprogramm auf einem internen Updateserver des Drohnenherstellers Quantum Systems zu deponieren, eines Lieferanten der Bundeswehr. Dort nimmt man den Vorfall sehr ernst.",
-      "url": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
-      "publishedAt": "2026-11-12T20:05:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
-      "excerpt": "Friedrich Merz hat sich festgelegt: Die Senkung der Stromsteuer für alle soll kommen. Doch es fehlt die Finanzierung, die SPD lässt den Kanzler auflaufen. In der eigenen Partei wachsen schon wieder Wut und Frust über den",
-      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
-      "publishedAt": "2026-11-12T19:02:00.000Z",
-      "category": "POLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
