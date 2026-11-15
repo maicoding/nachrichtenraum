@@ -1,12 +1,84 @@
 {
-  "updatedAt": "2026-11-15T17:11:17.074Z",
+  "updatedAt": "2026-11-15T21:49:30.825Z",
   "messages": [
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Hunderttausende auf der Straße - Riesen-Proteste gegen Rundfunk-Pläne in Tschechien",
+      "excerpt": "Bis zu 450.000 Menschen werfen der Regierung Angriffe auf die Pressefreiheit vor.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/rechte-regierung-in-der-kritik-proteste-gegen-rundfunkplaene-in-tschechien-6afa035b9849eea0701e3e71",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Das ist eine Grenzüberschreitung“ - AfD-Schoko-Nikolaus sorgt für Empörung",
+      "excerpt": "Dafür gibt es keinen Segen: Im AfD-Shop gibt es einen Schoko-Nikolaus in Bischofstracht.",
+      "url": "https://www.bild.de/politik/inland/afd-aerger-um-diesen-schoko-nikolaus-eine-grenzueberschreitung-6af723c627adfb0b7bb2d4a6",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Mail von Martenstein - Lieber Ilse Aigner,",
+      "excerpt": "Harald Martenstein verteidigt die Freundschaft zu Monika Gruber.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-lieber-ilse-aigner-6afa1faa322e194a14e8733d",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Putin verbannt Pizza - Schon diese Diktatoren setzten auf Konsum-Verbote",
+      "excerpt": "Putin will Pizza aus Russlands Speisekarten streichen, wie einst andere Gewaltherrscher.",
+      "url": "https://www.bild.de/politik/inland/diktatoren-und-verbote-von-putins-pizza-bis-zu-hitlers-jazzverbot-6af975a89849eea0701e35f7",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neuer BSW-Landesvorsitzender - Verhilft Deutschlands jüngster Parteichef der AfD zur Macht?",
+      "excerpt": "Ein 21-Jähriger führt das BSW in Sachsen-Anhalt und beeinflusst dort Abstimmungen.",
+      "url": "https://www.bild.de/politik/inland/neuer-landesvorsitzender-des-bsw-in-sachsen-anhalt-verhilft-deutschlands-juengster-parteichef-der-afd-zur-macht-6af89452389d31d8c8a8077f",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Ex-Arbeitsminister Heil kandidiert - Kampf um die Macht in der SPD – mit Schwesig?",
+      "excerpt": "Hubertus Heil bewirbt sich vorzeitig für den Parteivorsitz und setzt Klingbeil unter Druck.",
+      "url": "https://www.bild.de/politik/inland/ex-arbeitsminister-heil-kandidiert-kampf-um-die-macht-in-der-spd-mit-schwesig-6af9aac69849eea0701e3967",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Trump zieht Truppen zusammen - Dritter US-Flugzeugträger jetzt in Nahost!",
+      "excerpt": "Die USS Roosevelt erreicht das Arabische Meer, während Trump den Iran-Kurs ändert.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-zieht-truppen-zusammen-uss-theodore-roosevelt-jetzt-in-nahost-6af9e4259849eea0701e3cfa",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Financial Times“ meldet - Huang spricht schon über Rückkehr als Nvidia-Chef",
+      "excerpt": "Elon Musk und Tim Sweeney unterstützen den früheren Konzernleiter.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/financial-times-meldet-huang-spricht-schon-ueber-rueckkehr-als-nvidia-chef-6afa07189849eea0701e3ea4",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
+      "category": "POLITIK"
+    },
     {
       "source": "BILD.DE",
       "title": "Nach versuchtem Brandanschlag - Estland schließt Grenze zu Russland",
       "excerpt": "Acht Verdächtige wurden nach einem vereitelten Anschlag auf eine Drohnenfabrik festgenommen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/nach-versuchtem-brandanschlag-estland-schliesst-grenze-zu-russland-6af9ccf36b444af68d4ad677",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +86,7 @@
       "title": "Staatsakt in München - Bewegender Abschied von Hubert Aiwanger",
       "excerpt": "Bayern nimmt Abschied von Hubert Aiwanger. Mehr als 1100 Trauergäste sind in der Münchner Frauenkirche zusammengekommen. Darunter au...",
       "url": "https://www.bild.de/politik/inland/staatsakt-in-muenchen-bewegender-abschied-von-hubert-aiwanger-6af845b4389d31d8c8a802ce",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +94,7 @@
       "title": "Viele Tote und Hunderte Verletzte - Iran nutzte Fitness-Apps für Angriffe auf US-Soldaten",
       "excerpt": "Digitale Daten gaben offenbar Standorte und Dienstzeiten amerikanischer Truppen preis.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/krieg-in-nahost-iran-nutzte-fitness-apps-fuer-angriffe-auf-amerikanische-soldaten-6af9c9244468a1e3991a3529",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +102,7 @@
       "title": "Warnplakate abgehängt - Das ist ein Sieg für Islamisten!",
       "excerpt": "Bremer Verfassungsschutz warnte mit einer Kampagne vor der Muslimbruderschaft.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/warnung-vor-islamismus-plakate-abhaengen-war-falsch-kommentar-6af985639849eea0701e371c",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +110,7 @@
       "title": "Angst vor Iran-Attentat - Mehrere Trump-Minister an sichere Orte gebracht",
       "excerpt": "Konkrete Anschlagsdrohungen führen zu besonderem Schutz für US-Regierungsvertreter.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/gefahr-durch-iran-drei-minister-von-donald-trump-in-sicherheit-gebracht-6af9bbe34468a1e3991a3475",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +118,7 @@
       "title": "Militärischer Eingriff von außen - Roboter-Hunde sollen Gangster jagen",
       "excerpt": "Salvadorianische Truppen zerstören das Hauptquartier einer berüchtigten Bande.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/el-salvador-greift-ein-robo-hunde-jagen-die-gangs-von-haiti-6af6d0be5a72dceba1d611ca",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +126,7 @@
       "title": "BILD-Chefautor zerpflückt den Irrsinn - Hilfe, Klingbeil hat schon wieder eine Steueridee!",
       "excerpt": "Klingbeils Pläne für höhere Kapitalertragsteuer und Übergewinnsteuer stoßen auf Kritik.",
       "url": "https://www.bild.de/politik/peter-tiede-kritisiert-klingbeils-plaene-kapital-und-uebergewinnsteuer-6af9c2b46b444af68d4ad5b9",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +134,7 @@
       "title": "Gen-Z-Proteste in Frankfurt (Main) - Hessens Innenminister musste vor Randalierern fliehen",
       "excerpt": "Neue, schockierende Details zu den Ausschreitungen am 31. Oktober in Frankfurt.",
       "url": "https://www.bild.de/politik/inland/gen-z-proteste-in-frankfurt-main-hessens-innenminister-musste-vor-randalierern-fliehen-6af5c03ac45061d752ba8592",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
@@ -70,87 +142,55 @@
       "title": "Ex-Premier Johnson packt aus - Wodka-Lunch mit Lawrow wurde zur Folter",
       "excerpt": "Ex-Premier Boris behauptet, Moskau widerspricht: Er habe freiwillig mehr Wodka bestellt.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/boris-johnson-packt-ueber-wodka-lunch-mit-lawrow-aus-ein-widerlicher-kerl-6af99d694468a1e3991a32af",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
+      "publishedAt": "2026-11-15T21:49:30.678Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Abgelehnte Asylbewerber - Deutschland plant Abschiebezentrum in Ruanda",
-      "excerpt": "Deutschland und vier EU-Staaten planen Abschiebezentren außerhalb Europas: offenbar in Ruanda.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/abgelehnte-asylbewerber-deutschland-plant-abschiebezentrum-in-ruanda-6af995219849eea0701e3848",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Debatte über Stromsteuer - CSU-Chef Söder schließt Verzicht auf Erhöhung der Mütterrente aus",
+      "excerpt": "CSU-Chef Söder hat einen Verzicht auf die Ausweitung der Mütterrente zugunsten einer Stromsteuersenkung abgelehnt.",
+      "url": "https://www.deutschlandfunk.de/csu-chef-soeder-schliesst-verzicht-auf-erhoehung-der-muetterrente-aus-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
     },
     {
-      "source": "BILD.DE",
-      "title": "Viermal so groß wie Monaco - Ukraine greift Putins Chemie-Riesen an",
-      "excerpt": "Angriff auf einen der gewaltigsten Industriekomplexe Russlands!",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/grossbrand-in-tatarstan-ukraine-greift-russischen-petro-riesen-nknk-an-6af96c503b42268b54efc925",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Geht das nur mir so? - Eine Million für ein getötetes Kind machen mir Mut",
-      "excerpt": "Martinas Eltern erkämpfen nach 15 Jahren hohe Entschädigung.",
-      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/geht-das-nur-mir-so-eine-millionen-euro-fuer-ein-getoetetes-kind-machen-mir-mut-6af8733224c1168e19b75f6d",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Ballsaal, Triumphbogen und jetzt ein Golfplatz - Wieder kassiert Trump eine Baustellen-Klatsche",
-      "excerpt": "Nächste Bau-Klatsche! Schon wieder kassiert Donald Trump eine juristische Niederlage!",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/golfplatz-ballsaal-triumphbogen-naechste-baustellen-klatsche-fuer-trump-6af951a64495f9bd85b806b3",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "„Stilles Sterben der Betriebe“ - 80.000 Handwerks-Jobs pro Jahr in Gefahr",
-      "excerpt": "Unruhe im deutschen Handwerk! Trotz besserer Konjunkturprognosen spitzt sich die Krise weiter zu.",
-      "url": "https://www.bild.de/politik/inland/gewerbe-in-der-krise-handwerk-praesident-80-000-jobs-pro-jahr-in-gefahr-6af966a89849eea0701e3553",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "VW-Chef im BILD-Interview - „Ich will neun Prozent Rendite!“",
-      "excerpt": "VW-Chef Oliver Blume verteidigt den Abbau von über 100.000 Stellen.",
-      "url": "https://www.bild.de/politik/vw-chef-im-bild-interview-machs-doch-fuer-die-menschen-6af708b97f8bbad09ea6233f",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Zwischenruf: Man wünscht, es wäre Satire - Deutschland: Abstieg nach Plan",
-      "excerpt": "Hohe Abgaben, weniger Arbeitszeit und mehr Schulden belasten die Wirtschaft.",
-      "url": "https://www.bild.de/politik/man-wuenschte-es-waere-satire-deutschland-abstieg-nach-plan-6af87c4de192c5ea0c5a6ed9",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Dreier-Gipfel soll in China stattfinden - Putin bestätigt historisches Treffen mit Trump und Xi",
-      "excerpt": "USA, Russland und China planen erstmals einen Gipfel; die Ukraine bleibt außen vor.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/trump-putin-und-xi-historisches-dreier-treffen-in-shenzhen-geplant-6af92a1e9849eea0701e32d5",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Nvidia und die Affäre um Jensen Huang - Hier verspielt er sein Milliarden-Reich",
-      "excerpt": "Jensen Huang gesteht Affären und tritt als Nvidia-Chef zurück.",
-      "url": "https://www.bild.de/politik/nvidia-und-die-affaere-um-jensen-huang-im-fegefeuer-der-lust-6af892939849eea0701e2e8c",
-      "publishedAt": "2026-11-15T17:11:17.003Z",
-      "category": "POLITIK"
+      "source": "DLF",
+      "title": "Prag - Großdemonstration in Tschechien gegen Abschaffung der Rundfunkgebühren",
+      "excerpt": "In der tschechischen Hauptstadt Prag haben Zehntausende Menschen gegen die geplante Abschaffung der Rundfunkgebühren demonstriert.",
+      "url": "https://www.deutschlandfunk.de/grossdemonstration-in-tschechien-gegen-abschaffung-der-rundfunkgebuehren-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Baltikum - Estland vereitelt Anschlag auf Drohnenfabrik - Grenzübergänge nach Russland werden geschlossen",
       "excerpt": "Estland will ab dem 1. Dezember alle Grenzübergänge nach Russland schließen. Zuvor hatten Sicherheitskräfte nach Regierungsangaben einen Anschlag auf eine estnische Drohnenfabrik vereitelt.",
       "url": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Straße von Hormus - Iranische Revolutionsgarden: Öltanker gesunken",
+      "excerpt": "Ein Tanker mit einer Ladung von mehr als zwei Millionen Barrel Öl ist nach iranischen Angaben in der Straße von Hormus gesunken.",
+      "url": "https://www.deutschlandfunk.de/iranische-revolutionsgarden-oeltanker-gesunken-102.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gazastreifen - Großbritannien, Italien, Kanada und Australien fordern schnelle Hilfe",
+      "excerpt": "Vier Staaten haben Israel aufgefordert, schnelle und ungehinderte humanitäre Hilfe im Gazastreifen zuzulassen.",
+      "url": "https://www.deutschlandfunk.de/grossbritannien-italien-kanada-und-australien-fordern-schnelle-hilfe-102.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter",
+      "excerpt": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. In Genf beraten ab Montag 128 Länder über ein internationales Regelwerk.",
+      "url": "https://www.deutschlandfunk.de/128-laender-beraten-ab-montag-ueber-beschraenkungen-fuer-ki-waffensysteme-und-killerroboter-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -158,31 +198,15 @@
       "title": "Krieg im Jemen - Regierungstruppen ziehen sich nach Kämpfen mit Huthi-Miliz von Meerenge Bab al-Mandab zurück",
       "excerpt": "Im Jemen ziehen sich die Truppen der international anerkannten Regierung von der strategisch wichtigen Meerenge Bab al-Mandab zurück.",
       "url": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
-      "excerpt": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
-      "url": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-106.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Prag - Zehntausende protestieren erneut gegen Abschaffung der tschechischen Rundfunkgebühren",
-      "excerpt": "In der tschechischen Hauptstadt Prag haben erneut Zehntausende Menschen gegen die geplante Abschaffung der Rundfunkgebühren demonstriert.",
-      "url": "https://www.deutschlandfunk.de/zehntausende-protestieren-erneut-gegen-abschaffung-der-tschechischen-rundfunkgebuehren-102.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Gedenkstunde im Bundestag - Österreichs Bundespräsident van der Bellen warnt vor \"Abstumpfung durch Algorithmen\" - Appell zu mehr Mitgefühl im Alltag",
-      "excerpt": "Der österreichische Bundespräsident van der Bellen hat in einer Gedenkstunde zum Volkstrauertag im Deutschen Bundestag zu Empathie aufgerufen - trotz \"Dauerfeuer aus Leid und Wahnsinn\", das im Internet durch Algorithmen ",
-      "url": "https://www.deutschlandfunk.de/oesterreichs-bundespraesident-van-der-bellen-warnt-vor-abstumpfung-durch-algorithmen-appell-zu-mehr--100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "title": "Berliner Linke - Ramelow fordert Emde zum freiwilligen Verlassen der Fraktion auf",
+      "excerpt": "Der Linken-Politiker Ramelow hat die Berliner Abgeordnete Emde aufgefordert, die Fraktion seiner Partei im Abgeordnetenhaus zu verlassen.",
+      "url": "https://www.deutschlandfunk.de/ramelow-fordert-emde-zum-freiwilligen-verlassen-der-fraktion-auf-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -190,7 +214,23 @@
       "title": "Debatte um künftige Spitze - Lies warnt SPD vor \"Selbstbeschäftigung\" - Rückhalt für Klingbeil",
       "excerpt": "Der frühere Arbeitsminister Heil hat als erster seine Kandidatur für den SPD-Vorsitz angekündigt. Daraufhin meldeten sich namhafte Fürsprecher des bisherigen Parteichefs Klingbeil. Der niedersächsische Ministerpräsident ",
       "url": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Verkehrsminister - Normalisierung nach Flugstopp in den USA am Montag zu erwarten",
+      "excerpt": "Nach dem landesweiten Flugstopp in den USA rechnet Verkehrsminister Duffy spätestens am Montag mit einer Rückkehr zum Normalbetrieb.",
+      "url": "https://www.deutschlandfunk.de/normalisierung-nach-flugstopp-in-den-usa-am-montag-zu-erwarten-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
+      "excerpt": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
+      "url": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-106.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -198,7 +238,15 @@
       "title": "Bremen - Innensenat stoppt Kampagne gegen Islamismus - Kritik an Generalverdacht gegen Muslime",
       "excerpt": "In Bremen hat der Senat nach Kritik eine Kampagne zur Warnung vor islamistischer Unterwanderung gestoppt.",
       "url": "https://www.deutschlandfunk.de/innensenat-stoppt-kampagne-gegen-islamismus-kritik-an-generalverdacht-gegen-muslime-108.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Gedenkstunde im Bundestag - Österreichs Bundespräsident van der Bellen warnt vor \"Abstumpfung durch Algorithmen\" - Appell zu mehr Mitgefühl im Alltag",
+      "excerpt": "Der österreichische Bundespräsident van der Bellen hat in einer Gedenkstunde zum Volkstrauertag im Deutschen Bundestag zu Empathie aufgerufen - trotz \"Dauerfeuer aus Leid und Wahnsinn\", das im Internet durch Algorithmen ",
+      "url": "https://www.deutschlandfunk.de/oesterreichs-bundespraesident-van-der-bellen-warnt-vor-abstumpfung-durch-algorithmen-appell-zu-mehr--100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -206,15 +254,7 @@
       "title": "Ukraine-Krieg - Selenskyj macht Drosselung von US-Satellitendienst Starshield für erfolgreiche russische Angriffe verantwortlich",
       "excerpt": "Der ukrainische Präsident Selenskyj hat die USA erneut zur vollen Wiederherstellung des Satelliteninternets Starshield aufgefordert.",
       "url": "https://www.deutschlandfunk.de/selenskyj-macht-drosselung-von-us-satellitendienst-starshield-fuer-erfolgreiche-russische-angriffe-v-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an",
-      "excerpt": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen. In der russischen Teilrepublik Tatarstan wurde örtlichen Medien zufolge einer der landesweit größten Komplexe der petrochemischen Industrie g",
-      "url": "https://www.deutschlandfunk.de/ukrainische-armee-greift-grosses-chemie-werk-in-russland-mit-drohnen-an-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -222,7 +262,7 @@
       "title": "COP31 - Zur Halbzeit der Weltklimakonferenz in Antalya stocken die Verhandlungen",
       "excerpt": "Zur Halbzeit der Weltklimakonferenz in der Türkei sehen Beobachter die Verhandlungen ins Stocken geraten. Am heutigen Pausentag der COP31 machten Nichtregierungsorganisationen mit einem \"Klimagipfel der Völker\" in Antaly",
       "url": "https://www.deutschlandfunk.de/zur-halbzeit-der-weltklimakonferenz-in-antalya-stocken-die-verhandlungen-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -230,23 +270,15 @@
       "title": "Spanien - Fast 2.200 Migranten erreichen die Kanarischen Inseln",
       "excerpt": "In den vergangenen Tagen haben etwa 2.200 Menschen per Boot die Kanarischen Inseln erreicht.",
       "url": "https://www.deutschlandfunk.de/fast-2-200-migranten-erreichen-die-kanarischen-inseln-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
-      "title": "Migration - 89 Migranten nach Bootsunglück im Ärmelkanal gerettet",
-      "excerpt": "Nach dem Untergang eines Boots im Ärmelkanal sind zahlreiche Migranten gerettet worden.",
-      "url": "https://www.deutschlandfunk.de/89-migranten-nach-bootsunglueck-im-aermelkanal-gerettet-102.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Philippinen - Asean-Staaten kritisieren Myanmar und verlängern Ausschluss",
-      "excerpt": "Die Asean-Staaten haben auf ihrem Gipfeltreffen in Manila die autoritäre Führung von Myanmar kritisiert.",
-      "url": "https://www.deutschlandfunk.de/asean-staaten-kritisieren-myanmar-und-verlaengern-ausschluss-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "title": "Südliches Afrika - Madagaskar schließt offenbar Verteidigungsabkommen mit USA - nach Hinwendung zu Russland",
+      "excerpt": "In Madagaskar zeichnet sich ein Verteidigungsabkommen mit den Vereinigten Staaten ab.",
+      "url": "https://www.deutschlandfunk.de/madagaskar-schliesst-offenbar-verteidigungsabkommen-mit-usa-nach-hinwendung-zu-russland-100.html",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
@@ -254,45 +286,133 @@
       "title": "Tennis - Alexander Zverev gewinnt Auftaktmatch bei den ATP Finals",
       "excerpt": "Tennisprofi Alexander Zverev ist erfolgreich in die ATP Finals in Turin gestartet. Der Weltranglisten-Erste gewann sein Auftaktmatch gegen den Spanier Rafael Jodar.",
       "url": "https://www.deutschlandfunk.de/alexander-zverev-gewinnt-auftaktmatch-bei-den-atp-finals-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
+      "publishedAt": "2026-11-15T21:21:03.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Wirtschaft - Handwerkspräsident Dittrich: Krise verschärft sich",
-      "excerpt": "Die Krise im Handwerk verschärft sich nach Angaben von Handwerkspräsident Dittrich.",
-      "url": "https://www.deutschlandfunk.de/handwerkspraesident-dittrich-krise-verschaerft-sich-102.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "excerpt": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge",
+      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "publishedAt": "2026-11-15T20:44:43.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Gesundheit - Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen",
-      "excerpt": "Der Vorstandsvorsitzende der Kassenärztlichen Bundesvereinigung, Gassen, hat mit seinen Äußerungen zu möglichen Selbstzahler-Terminen Kritik auf sich gezogen.",
-      "url": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+      "excerpt": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+      "publishedAt": "2026-11-15T20:23:26.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Berichte - USA verlieren Status als masernfreies Land",
-      "excerpt": "Die USA stehen vor der Aberkennung ihres Status als masernfreies Land.",
-      "url": "https://www.deutschlandfunk.de/usa-verlieren-status-als-masernfreies-land-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Otto Mühl, nicht Künstler, sondern Täter: Wiener Aktionistendämmerung",
+      "excerpt": "Das neue Wiener Aktionismus Museum wollte Otto Mühl eigentlich als Künstler rehabilitieren. Doch es scheitert jetzt an Mühl als Missbrauchstäter. Zusammenfassung einer fiesen Geschichte. mehr...",
+      "url": "https://taz.de/Otto-Muehl-nicht-Kuenstler-sondern-Taeter/!6229218/",
+      "publishedAt": "2026-11-15T19:11:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "US-Wahlen - Demokrat gewinnt Gouverneurswahl in Alaska",
-      "excerpt": "Fast zwei Wochen nach den US-Wahlen gibt es ein weiteres Ergebnis: Im Bundesstaat Alaska hat der Demokrat Jonathan Kreiss-Tomkins die Gouverneurswahl gewonnen. Damit wird der nördlichste Bundesstaat der USA zum ersten Ma",
-      "url": "https://www.deutschlandfunk.de/demokrat-gewinnt-gouverneurswahl-in-alaska-100.html",
-      "publishedAt": "2026-11-15T17:06:27.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAZ.DE",
+      "title": "Botanische Forschung: Mit Pflanzen musizieren",
+      "excerpt": "Ob Baum oder Blume, Pflanzen erzeugen elektrische Potenziale, die man in Töne übersetzen kann. Ihre Fähigkeiten zur Kommunikation gehen noch weiter. mehr...",
+      "url": "https://taz.de/Botanische-Forschung/!6224453/",
+      "publishedAt": "2026-11-15T19:10:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Quote für deutschsprachige Musik: 1Live nicht gut genug",
+      "excerpt": "Das Produktionsduo KitschKrieg wettert gegen den Radiosender „1Live“ und fordert eine Quote für deutsche Musik. Guter Vorschlag oder nur eigene Promo? mehr...",
+      "url": "https://taz.de/Quote-fuer-deutschsprachige-Musik/!6230171/",
+      "publishedAt": "2026-11-15T19:09:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Nato-Mitgliedschaft für Gebietsverzicht: Die Nebelkerze vom Donbass",
+      "excerpt": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen. mehr...",
+      "url": "https://taz.de/Nato-Mitgliedschaft-fuer-Gebietsverzicht/!6230163/",
+      "publishedAt": "2026-11-15T19:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Urs Niggli über Agrarökologie: „Bio kann nicht die Welt ernähren“",
+      "excerpt": "Urs Niggli leitete lange das Forschungsinstitut für biologischen Landbau. Heute sagt er, Bio allein reiche nicht. Man müsse auch Gentechnik nutzen. mehr...",
+      "url": "https://taz.de/Urs-Niggli-ueber-Agraroekologie/!6224391/",
+      "publishedAt": "2026-11-15T19:06:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Selbstzahlen in Arztpraxen: Der Weg in die Dreiklassenmedizin",
+      "excerpt": "Gesetzlich versicherte könnten zukünftig auf mehr Arzttermine zugreifen, wenn sie dafür selbst zahlen. Eine Zeitenwende der Gesundheitspolitik. mehr...",
+      "url": "https://taz.de/Selbstzahlen-in-Arztpraxen/!6224540/",
+      "publishedAt": "2026-11-15T19:02:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Kandidatur zum SPD-Vorsitz: Besser als Klingbeil",
+      "excerpt": "Hubertus Heil fordert Lars Klingbeil heraus. Der Ex-Arbeitsminister ist zwar kein Zohran Mamdani, aber mehr am Puls der SPD als der Amtsinhaber. mehr...",
+      "url": "https://taz.de/Kandidatur-zum-SPD-Vorsitz/!6230228/",
+      "publishedAt": "2026-11-15T19:01:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Haartransplantationen bei Männern: Bruder, es ist so weit",
+      "excerpt": "Die Zahl der Männer, die sich für volleres Haar unters Messer legen, steigt seit Jahren. Zu Besuch an einem Ort, an dem gestanzt und verpflanzt wird. mehr...",
+      "url": "https://taz.de/Maenner-Haartransplantationen-Zu-Besuch-an-einem-Ort-an-dem-gestanzt-und-verpflanzt-wird/!6224503/",
+      "publishedAt": "2026-11-15T18:58:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Gesundheitspolitiker zu Reformen: „Eine Erosion des Sozialstaats können wir uns nicht leisten“",
+      "excerpt": "SPD-Politiker Serdar Yüksel empfiehlt, gesetzliche und private Pflegeversicherung zusammenzulegen. Zum Terminmangel bei Ärzten sagt er: Das muss nicht sein. mehr...",
+      "url": "https://taz.de/Gesundheitspolitiker-zu-Reformen/!6229432/",
+      "publishedAt": "2026-11-15T18:56:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+      "excerpt": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welche",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+      "publishedAt": "2026-11-15T18:44:55.000Z",
+      "category": "INNENPOLITIK"
+    },
+    {
+      "source": "TAZ.DE",
+      "title": "Grenzschließung in Estland: Tallinn macht dicht",
+      "excerpt": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland. mehr...",
+      "url": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
+      "publishedAt": "2026-11-15T18:07:00.000Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
+      "excerpt": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an.",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+      "publishedAt": "2026-11-15T17:54:56.000Z",
+      "category": "AUSLANDSPOLITIK"
+    },
+    {
+      "source": "TAGESSCHAU.DE",
+      "title": "Hunderte Flüchtlinge auf Kanaren angekommen",
+      "excerpt": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ",
+      "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+      "publishedAt": "2026-11-15T17:31:41.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Streit um Berliner Linke: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
-      "excerpt": "Linke-Politiker Bodo Ramelow legt Parteigenossin Vanessa Emde nahe, die Berliner Fraktion zu verlassen: Sie halte sich nicht an das Sondierungspapier, das sie mitunterzeichnet habe.",
+      "title": "Linke in Berlin: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
+      "excerpt": "Der Druck auf die umstrittene Berliner Linkenpolitikerin Vanessa Emde wächst: Auch Parteigenosse Bodo Ramelow drängt Emde dazu, die Fraktion im Abgeordnetenhaus der Hauptstadt zu verlassen.",
       "url": "https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss",
       "publishedAt": "2026-11-15T17:06:00.000Z",
       "category": "POLITIK"
@@ -338,30 +458,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Nach der rechten Buchmesse in Halle: Monika Maron sollte sich an ihre Verantwortung erinnern",
-      "excerpt": "Bei der Buchmesse in Halle trafen sich auch völkische Rechtsextreme. Die Autorin Monika Maron fand es dort total entspannt. Das ist krass. mehr...",
-      "url": "https://taz.de/Nach-der-rechten-Buchmesse-in-Halle/!6224462/",
-      "publishedAt": "2026-11-15T17:02:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "IT-Störung bei Microsoft: Hoffentlich ein Weckruf",
-      "excerpt": "Eine IT-Störung bei Microsoft hat zu Problemen bei zahlreichen Unternehmen und Institutionen geführt. Höchste Zeit für Konsequenzen. mehr...",
-      "url": "https://taz.de/IT-Stoerung-bei-Microsoft/!6230113/",
-      "publishedAt": "2026-11-15T17:02:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-      "excerpt": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "publishedAt": "2026-11-15T16:52:46.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
       "title": "Union und SPD: Der nächste Showdown steht schon bevor",
       "excerpt": "Der Haushalt steht – aber große Teile der Union wollen sich mit dem Ergebnis nicht abfinden. Es geht unter anderem um die Stromsteuer, die nicht gesenkt wird. Wird die Entscheidung am Dienstag umgeworfen?",
@@ -378,51 +474,19 @@
       "category": "INNENPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Übers Lachen und lächerliche Summen: Wartet mal ab, bis die SPD das Finanzministerium kriegt!",
-      "excerpt": "Der Bundeshaushalt steht, wenn auch sehr wackelig. Um den Sozialstaat kümmert sich auch die SPD kaum. Da kann Greta Thunberg nur noch lachen. mehr...",
-      "url": "https://taz.de/Uebers-Lachen-und-laecherliche-Summen/!6230154/",
-      "publishedAt": "2026-11-15T15:51:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "US-Demokraten nach dem Wahlsieg: Chris van Hollen will Mehrheitsführer im US-Senat werden",
-      "excerpt": "Der Aufstand innerhalb der Demokraten im US-Senat nimmt Gestalt an. Fraktionschef Chuck Schumer hat einen Gegenkandidaten. mehr...",
-      "url": "https://taz.de/US-Demokraten-nach-dem-Wahlsieg/!6230106/",
-      "publishedAt": "2026-11-15T15:41:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "TAGESSCHAU.DE",
-      "title": "Zehntausende protestieren gegen Rundfunkreform in Tschechien",
-      "excerpt": "Zehntausende sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle brin",
+      "title": "Massenprotest gegen Rundfunkreform in Tschechien",
+      "excerpt": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unte",
       "url": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
       "publishedAt": "2026-11-15T15:40:55.000Z",
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
-      "excerpt": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an.",
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-      "publishedAt": "2026-11-15T15:29:20.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "TAZ.DE",
-      "title": "Krieg im Jemen: Raketen auf Hafenstadt erzwingen Rückzug",
-      "excerpt": "Die proiranische Huthi-Miliz bedroht die von der Regierung gehaltene Stadt Aden. Nun werden zu deren Schutz Truppen verlegt – weg von der Meerenge Bab al-Mandab. mehr...",
-      "url": "https://taz.de/Krieg-im-Jemen/!6230263/",
-      "publishedAt": "2026-11-15T15:17:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Regierungskrise in den Niederlanden: Millionärssteuer setzt die „Notlösung“ unter Druck",
-      "excerpt": "Die niederländische Minderheitsregierung ringt in geheimer Klausur um ihren Fortbestand. Koalitionspartnerin VVD treibt den Preis in die Höhe. mehr...",
-      "url": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6230077/",
-      "publishedAt": "2026-11-15T15:08:00.000Z",
+      "title": "Veranstaltungsort bUm in Berlin: Googles rebellische Er­b:in­nen",
+      "excerpt": "Häkelkurse, Co-Working und einer der letzten Zufluchtsorte der palästinasolidarischen Szene: Der Veranstaltungsort bUm muss zum Ende des Jahres schließen. mehr...",
+      "url": "https://taz.de/Veranstaltungsort-bUm-in-Kreuzberg/!6229211/",
+      "publishedAt": "2026-11-15T15:15:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -434,35 +498,11 @@
       "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "TAZ.DE",
-      "title": "Krieg in Afghanistan: Internationaler Strafgerichtshof lässt USA vom Haken",
-      "excerpt": "Die Untersuchung von Kriegsverbrechen des US-Militärs und ihrer afghanischer Verbündeter soll eingestellt werden. Men­schen­recht­le­r:in­nen üben Kritik. mehr...",
-      "url": "https://taz.de/Krieg-in-Afghanistan/!6230121/",
-      "publishedAt": "2026-11-15T14:43:00.000Z",
-      "category": "POLITIK"
-    },
-    {
       "source": "SPIEGEL.DE",
-      "title": "Volkstrauertag: Van der Bellen fordert bei Gedenkakt in Berlin mehr Mitgefühl",
+      "title": "Volkstrauertag: Österreichs Präsident mahnt Mitgefühl als Stärke an",
       "excerpt": "Eine Rede von Alexander Van der Bellen hat das Gedenken zum Volkstrauertag im Bundestag geprägt. Der österreichische Bundespräsident mahnte an, aus der Vergangenheit zu lernen. Und erklärte, warum Mitgefühl keine Schwäch",
       "url": "https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss",
       "publishedAt": "2026-11-15T14:40:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Luftverkehr in China: In Peking keine Drohnen mehr erlaubt",
-      "excerpt": "In der chinesischen Haupstadt sind die unbemannten Flugobjekte für Privatleute ab heute tabu. Wer jetzt noch welche besitzt, dem drohen Geldstrafen. mehr...",
-      "url": "https://taz.de/Drohnenbesitz-Verbot-in-Peking-in-Kraft-getreten/!6230247/",
-      "publishedAt": "2026-11-15T14:37:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
-      "excerpt": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden? mehr...",
-      "url": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
-      "publishedAt": "2026-11-15T13:46:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -475,26 +515,10 @@
     },
     {
       "source": "SPIEGEL.DE",
-      "title": "Wolf im Schafsfell: Bremen stoppt eine umstrittene Kampagne gegen Islamisten",
+      "title": "Bremen stoppt umstrittene Kampagne gegen Islamisten",
       "excerpt": "Auf Bildschirmen wurde ein Wolf im Schafsfell gezeigt. So wollte Bremen auf die Gefahren des Islamismus aufmerksam machen. Nun wurde die Aktion nach Beschwerden aus der muslimischen Gemeinde abgebrochen.",
       "url": "https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2#ref=rss",
       "publishedAt": "2026-11-15T13:24:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
-      "excerpt": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas b",
-      "url": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
-      "publishedAt": "2026-11-15T12:46:16.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "Weltklimakonferenz in Antalya: „Ich bin auf der Klimakonferenz, weil ich hier sein muss“",
-      "excerpt": "Große Erfolge verspricht die Weltklimakonferenz in diesem Jahr nicht. Drei junge Menschen erzählen, warum sie trotzdem hinfahren. mehr...",
-      "url": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229786/",
-      "publishedAt": "2026-11-15T12:37:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -503,22 +527,6 @@
       "excerpt": "Umweltgruppen, Gewerkschaften und linke Parteien bringen in Antalya Tausende auf die Straße – zu einer riesigen regierungskritischen Demo. mehr...",
       "url": "https://taz.de/Klimakonferenz-in-Antalya/!6230066/",
       "publishedAt": "2026-11-15T12:36:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
-      "excerpt": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
-      "publishedAt": "2026-11-15T11:21:27.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
-      "source": "TAZ.DE",
-      "title": "AfD-Kandidat für Bundespräsidentenwahl: Der Fußball ist auch rechts",
-      "excerpt": "Die AfD möchte Thomas Berthold als Kandidaten für das höchste Staatsamt aufstellen. Das sagt uns auch, wie sehr im Sport rechtsextreme Positionen um sich greifen. mehr...",
-      "url": "https://taz.de/AfD-Kandidat-fuer-Bundespraesidentenwahl/!6230059/",
-      "publishedAt": "2026-11-15T11:01:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -968,14 +976,6 @@
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
       "publishedAt": "2026-11-11T18:46:53.000Z",
       "category": "WIRTSCHAFT & PREISE"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-      "excerpt": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahr",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-      "publishedAt": "2026-11-11T18:01:47.000Z",
-      "category": "INNENPOLITIK"
     },
     {
       "source": "DLF",
