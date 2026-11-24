@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-11-23T22:15:37.371Z",
+  "updatedAt": "2026-11-24T06:07:09.373Z",
   "messages": [
     {
       "source": "BILD.DE",
-      "title": "Von BILD gekürt - Gewinner & Verlierer",
-      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "title": "Mail von Martenstein - Liebe Tilly Norwood,",
+      "excerpt": "Sie sehen gut aus, aber in Ihrem Kopf geht’s drunter und drüber.",
+      "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mail-von-martenstein-liebe-tilly-norwood-6b046ee739a3e8110f0e91eb",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Russlands „Sputnik“-Plan - So gefährlich ist Putins Weltraum-Wahnsinn für uns",
+      "excerpt": "Eine russische Atombombe im All könnte Satelliten und wichtige Dienste lahmlegen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/kann-ich-noch-mit-karte-zahlen-wenn-satelliten-ausfallen-6b042f4e66a00c9ca1fe0c7c",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -14,7 +22,55 @@
       "title": "Comeback von Jensen Huang - Nvidia-Boss war zu wichtig für den Rauswurf",
       "excerpt": "Jensen Huang führt Nvidia wieder, Behörden entlasteten ihn von Spionagevorwürfen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/nvidia-boss-jensen-huang-zu-wichtig-fuer-den-rauswurf-6b0463ea172877701c070644",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue YouGov-Umfrage zeigt - Wie die Angst Deutschland bewaffnet",
+      "excerpt": "Viele Deutsche fühlt sich auf der Straße unsicher – mit Folgen! Millionen Bürger rüsten auf.",
+      "url": "https://www.bild.de/politik/neue-yougov-umfrage-zeigt-wie-die-angst-deutschland-bewaffnet-6b0444dd66a00c9ca1fe0fa8",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Klimaaktivistin bei RONZHEIMER - Luisa Neubauer deutet Politik-Karriere an",
+      "excerpt": "Klimaaktivistin Neubauer schließt einen Einstieg in die Politik nicht aus.",
+      "url": "https://www.bild.de/politik/inland/luisa-neubauer-ueber-polit-karriere-ich-halte-es-mir-offen-6b048d92c25ee8352c150e66",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Neue Umfrage - Mehrheit gegen deutsche Militärhilfe für die Ukraine",
+      "excerpt": "Soll Deutschland der Ukraine militärisch helfen? 53 Prozent sagen Nein. Unter den Anhängern von Grünen, Union, SPD und Linken ist jeweils eine Mehrheit dafür. Bei der AfD sagen 88 Prozent Nein.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-umfrage-mehrheit-gegen-deutsche-militaerhilfe-6b0462805842ff528b9e612a",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Nahe der Grenze zur Ukraine - Luftalarm in Polen ausgelöst",
+      "excerpt": "Bewohner nahe der Ukraine sollten Schutzräume aufsuchen; die Warnung endete bald.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/polen-luftalarm-nahe-der-grenze-zur-ukraine-6b04c6a85842ff528b9e65e9",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "„Er hat es gesagt! Aaah!“ - Habeck macht sich über Kritiker lustig",
+      "excerpt": "Ex-Vizekanzler scherzt im ntv-Talk mit Wärmepumpenwitz und Putin-Vergleich.",
+      "url": "https://www.bild.de/politik/inland/er-hat-es-gesagt-ahaah-habeck-macht-sich-ueber-kritiker-lustig-6b04b8ea39a3e8110f0e9642",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
+      "category": "POLITIK"
+    },
+    {
+      "source": "BILD.DE",
+      "title": "Von BILD gekürt - Gewinner & Verlierer",
+      "excerpt": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
+      "url": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -22,7 +78,7 @@
       "title": "Kommentar vom BILD-Politikchef - Diese Regierung entmündigt ihre Bürger!",
       "excerpt": "Markus Söder will‘s wissen: Der CSU-Politiker versucht, heimliche Steuererhöhungen im nächsten Jahr doch noch zu verhindern.",
       "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/kommentar-vom-bild-politikchef-diese-regierung-entmuendigt-ihre-buerger-6b046b3466a00c9ca1fe160d",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -30,7 +86,7 @@
       "title": "„Ich werde beim zweiten Mal ein besserer Chef sein“ - Mitarbeiter feiern Huang bei Nvidia-Comeback",
       "excerpt": "Mit Applaus und „Jensen“-Rufen wird Nvidia-Chef Huang in der Firmenspitze begrüßt.",
       "url": "https://www.bild.de/politik/eilmeldung-nividia-chef-huang-werde-beim-2-mal-besserer-chef-sein-6b0490b169474d7b83222d67",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -38,7 +94,7 @@
       "title": "Gemeinsame Geheimdienst-Operation - Mossad verhinderte Angriff auf Taylor-Swift-Konzert",
       "excerpt": "Israel half offenbar, einen IS-Anschlag in Wien 2024 zu vereiteln.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/wien-israelischer-geheimdienst-mossad-verhinderte-massaker-bei-konzert-von-taylor-swift-6b04478366a00c9ca1fe0ffe",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -46,7 +102,7 @@
       "title": "Regierungszoff um Einbürgerungen - CDU will Pass erst nach 8 Jahren vergeben",
       "excerpt": "Union will Einbürgerung erst nach acht statt fünf Jahren erlauben.",
       "url": "https://www.bild.de/politik/inland/zoff-um-deutschen-pass-es-geht-um-zusammensetzung-unseres-staatsvolkes-6afd89c9fc384ca056386098",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -54,7 +110,7 @@
       "title": "Geheimes Sicherheitspapier - Linken-Attacke auf unsere Polizei-Gesetze",
       "excerpt": "Ein internes Papier zeigt: Die Linke fordert in Berlins Koalitionsgesprächen die Rücknahme von Polizeibefugnissen und Klagen gegen Sicherheitsgesetze.",
       "url": "https://www.bild.de/politik/neue-forderungen-in-berlin-linken-attacke-auf-unsere-polizei-gesetze-6b0306ee5842ff528b9e3fd9",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -62,7 +118,7 @@
       "title": "US-Ermittler finden Beweise - Nvidia-Affäre hatte Kontakt zu China-Geheimdienst",
       "excerpt": "Berichte aus den USA bringen Alice Huang mit chinesischer Spionage in Verbindung.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/nvidia-affaere-bewiesen-alice-huang-hatte-kontakt-zu-china-geheimdienst-6b0388dd5842ff528b9e45aa",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -70,7 +126,7 @@
       "title": "Einsatzbereit in 60 Tagen - Putin will Atomwaffen ins All bringen",
       "excerpt": "Westliche Geheimdienste warnen vor einem atomar bewaffneten Satelliten.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/russland-geheimdienste-warnen-vor-atomsprengkopf-im-all-6b03c9fe5842ff528b9e4714",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -78,7 +134,7 @@
       "title": "Deutsch-ukrainisches System - Abfangjäger stoppt Putins Turbo-Drohne",
       "excerpt": "Ukraine – Ein deutsch-ukrainischer SPYS-Abfangjäger hat im Gefecht in der Nordukraine eine russische Geran-5-K5-K-Drohne abgeschosse...",
       "url": "https://www.bild.de/politik/ausland-und-internationales/im-gefecht-deutsch-ukrainisches-system-stoppt-putins-turbo-drohne-6b0486065842ff528b9e6395",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
@@ -86,208 +142,208 @@
       "title": "Mitten im Gefecht - Quantum-System stoppt Putins Turbo-Drohne",
       "excerpt": "Abfangjäger SPYS schießt schnelle Geran-5-K5-K in der Nordukraine ab.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-abfangsystem-von-quantum-stoppt-putins-turbo-drohne-6b04581366a00c9ca1fe130f",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
+      "publishedAt": "2026-11-24T06:07:09.121Z",
       "category": "POLITIK"
     },
     {
-      "source": "BILD.DE",
-      "title": "Finanzexpertin über Rückkehr des Nvidia-Bosses - „Ohne Huang läuft nichts“",
-      "excerpt": "Nvidia-Chef Jensen Huang kehrt zurück, die Börsenkurse steigen.",
-      "url": "https://www.bild.de/politik/finanzexpertin-ueber-rueckkehr-des-nvidia-bosses-ohne-huang-laeuft-nichts-6b04537439a3e8110f0e8d12",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "INSA-Politikerranking - Wer jetzt plötzlich Höhenluft schnuppert",
-      "excerpt": "Pistorius führt das Politikerranking an, Merz bleibt auf dem letzten Platz.",
-      "url": "https://www.bild.de/politik/inland/boris-pistorius-fuehrt-merz-bleibt-schlusslicht-im-insa-ranking-6b04449639a3e8110f0e8a23",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Börsen-Beben - Die unheimliche Macht des Nvidia-Chefs",
-      "excerpt": "Die Börsen jubeln – und zeigen, wie viel Macht ein einzelner Mann über das Geld der Welt hat.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/jensen-huang-die-unheimliche-macht-des-nvidia-chefs-6b045ee45842ff528b9e60ab",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Gefallenen-Liste enthüllt - Neun Deutsche starben für Putin im Ukraine-Krieg",
-      "excerpt": "Geleakte Behördenakten nennen Namen, Todesorte und Todesursachen getöteter Kämpfer.",
-      "url": "https://www.bild.de/politik/inland/neun-deutsche-starben-fuer-putin-im-ukraine-krieg-6b0471045842ff528b9e6262",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Neue Sanktionen geplant - EU will Russland-Flaggen beim Sport verbieten",
-      "excerpt": "Gleich mehr bei BILD.",
-      "url": "https://www.bild.de/politik/eilmeldung-russland-flagge-soll-bei-sportevents-in-eu-verboten-werden-6b04591766a00c9ca1fe133f",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Rechnungshof prüft - Berliner SPD-Größe soll sich Extra-Rente erschlichen haben",
-      "excerpt": "Der Rechnungshof prüft umstrittene Zahlungen an den Berliner SPD-Fraktionschef.",
-      "url": "https://www.bild.de/politik/inland/rechnungshof-prueft-berliner-spd-chef-soll-sich-extra-rente-erschlichen-haben-6affe0115842ff528b9e0f97",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "BILD.DE",
-      "title": "Wegen Konzert ohne Kopftuch - Mullahs peitschen iranische Sängerin aus",
-      "excerpt": "Ihr Anwalt berichtet von 74 Hieben für Parastu Ahmadi und vier Kollegen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-saengerin-parastu-ahmadi-mit-74-peitschenhieben-bestraft-6b043fd666a00c9ca1fe0ee1",
-      "publishedAt": "2026-11-23T22:15:37.160Z",
-      "category": "POLITIK"
+      "source": "TAGESSCHAU.DE",
+      "title": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
+      "excerpt": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
+      "publishedAt": "2026-11-24T05:28:47.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "DLF",
-      "title": "Chiphersteller - US-Präsident Trump setzte sich für Rückkehr von Huang zu Nvidia ein",
-      "excerpt": "Die Wiedereinsetzung des zurückgetretenen Chefs des Chipherstellers Nvidia, Huang, geht einer Medienrecherche zufolge auf den direkten Einfluss des Weißen Hauses zurück. Die Nachrichtenagentur AP berichtet, Vizepräsident",
-      "url": "https://www.deutschlandfunk.de/us-praesident-trump-setzte-sich-fuer-rueckkehr-von-huang-zu-nvidia-ein-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "title": "Chiphersteller - US-Präsident Trump nahm Einfluss auf Rückkehr von Huang an die Spitze von Nvidia",
+      "excerpt": "Die Rückkehr von Nvidia-Chef Huang an die Spitze des Chipkonzerns geht nach übereinstimmenden US-Medienberichten auf eine direkte Einflussnahme durch das Weiße Haus und Präsident Trump zurück. Die \"New York Times\", die \"",
+      "url": "https://www.deutschlandfunk.de/us-praesident-trump-nahm-einfluss-auf-rueckkehr-von-huang-an-die-spitze-von-nvidia-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Unverantwortlich\" - Kritik bei Demokraten und Republikanern im US-Kongress nach Rückkehr von Huang als Chef von Nvidia",
+      "excerpt": "Die Rückkehr von Nvidia-Chef Huang an die Konzernspitze und die Einflussnahme von US-Präsident Trump auf die Personalie stoßen im amerikanischen Kongress parteiübergreifend auf Kritik.",
+      "url": "https://www.deutschlandfunk.de/kritik-bei-demokraten-und-republikanern-im-us-kongress-nach-rueckkehr-von-huang-als-chef-von-nvidia-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Satellit mit Atomsprengkopf? - Merz: Berichte über Moskaus Atom-Pläne im All \"schockierend\"",
       "excerpt": "Bundeskanzler Merz hat die jüngsten Berichte über Pläne für russische Atomwaffen im All als \"schockierend\" bezeichnet. Merz sagte in Berlin, zwar seien diese Nachrichten nicht neu, dennoch zeigten sie, zu welcher Eskalat",
-      "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Strategie der Einschüchterung\" - Henrichmann warnt vor russischer Erpressung durch Atomwaffen im Weltall",
+      "excerpt": "Der CDU-Geheimdienstexperte Henrichmann wirft Russland vor, den Westen mit der Entwicklung nuklearer Anti-Satelliten-Waffen unter Druck zu setzen.",
+      "url": "https://www.deutschlandfunk.de/henrichmann-warnt-vor-russischer-erpressung-durch-atomwaffen-im-weltall-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "London - Burnham verteidigt Abkommen mit EU im Unterhaus",
+      "excerpt": "Der britische Premierminister Burnham hat im Unterhaus die neuen Abkommen mit der EU über eine engere Zusammenarbeit verteidigt.",
+      "url": "https://www.deutschlandfunk.de/burnham-verteidigt-abkommen-mit-eu-im-unterhaus-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "ARD-Produktion - Deutsche Doku \"Der talentierte Mr. F\" über gestohlenen Film gewinnt Emmy",
+      "excerpt": "Die deutsche Dokumentation \"Der talentierte Mr. F\" ist bei den \"International Emmy Awards\" in New York ausgezeichnet worden.",
+      "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-ueber-gestohlenen-film-gewinnt-emmy-102.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bundestag - Abgeordnete bestimmen heute Finanzetat des Bundes für kommendes Jahr",
+      "excerpt": "Nach der jüngsten Einigung auf eine Stromsteuer-Senkung beginnt der Bundestag heute mit der abschließenden Haushaltsdebatte.",
+      "url": "https://www.deutschlandfunk.de/abgeordnete-bestimmen-heute-finanzetat-des-bundes-fuer-kommendes-jahr-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "\"Über Jahrzehnte selbstverständlich\" - Auch Kretschmer für vollständigen Ausgleich der kalten Progression",
+      "excerpt": "Nach Bayerns Ministerpräsident Söder fordert auch der sächsische Regierungschef Kretschmer einen vollständigen Ausgleich der kalten Progression.",
+      "url": "https://www.deutschlandfunk.de/auch-kretschmer-fuer-vollstaendigen-ausgleich-der-kalten-progression-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Volkswagen - Tarifverhandlungen für 120.000 Beschäftigte beginnen heute",
+      "excerpt": "In Emden nehmen heute Volkswagen und die IG Metall ihre Verhandlungen über den Haustarifvertrag des Autobauers auf.",
+      "url": "https://www.deutschlandfunk.de/tarifverhandlungen-fuer-120-000-beschaeftigte-beginnen-heute-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Zwei-Drittel-Mehrheit erforderlich - Linksfraktion in Berlin stimmt heute über Ausschluss der Abgeordneten Emde ab",
+      "excerpt": "Die Linksfraktion im Berliner Abgeordnetenhaus stimmt heute über den Ausschluss der Politikerin Emde ab.",
+      "url": "https://www.deutschlandfunk.de/linksfraktion-in-berlin-stimmt-heute-ueber-ausschluss-der-abgeordneten-emde-ab-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Afrika-Reise - Steinmeier eröffnet heute in Ghana Deutsch-Afrikanischen Wirtschaftsgipfel",
+      "excerpt": "Bundespräsident Steinmeier setzt seine Afrika-Reise heute in Ghana fort.",
+      "url": "https://www.deutschlandfunk.de/steinmeier-eroeffnet-heute-in-ghana-deutsch-afrikanischen-wirtschaftsgipfel-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Berlin - Ukrainische Drohne soll in Deutschland produziert werden",
       "excerpt": "Ukrainische Aufklärungsdrohnen sollen künftig auch in Deutschland hergestellt werden.",
-      "url": "https://www.deutschlandfunk.de/ukrainische-drohne-soll-in-deutschland-produziert-werden-102.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/ukrainische-drohne-soll-in-deutschland-produziert-werden-108.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
+      "category": "NACHRICHTEN"
+    },
+    {
+      "source": "DLF",
+      "title": "Bericht von Yonhap - Russische Militärflugzeuge nähern sich kurzzeitig dem südkoranischen Luftraum",
+      "excerpt": "Mehrere russische Militärflugzeuge haben sich kurzzeitig dem südkoreanischen Luftraum genähert.",
+      "url": "https://www.deutschlandfunk.de/russische-militaerflugzeuge-naehern-sich-kurzzeitig-dem-suedkoranischen-luftraum-100.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
       "excerpt": "Als Reaktion auf den Absturz von drei russischen Marschflugkörpern in Polen verlegt die NATO ein Awacs-Überwachungsflugzeug in das Mitgliedsland des Verteidigungsbündnisses.",
-      "url": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-102.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-110.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Flugsicherheit - Flydubai soll nach Vorfall bald wieder Israel anfliegen dürfen",
       "excerpt": "Die emiratische Fluggesellschaft \"Flydubai\" soll bald wieder in Israel landen und starten dürfen.",
-      "url": "https://www.deutschlandfunk.de/flydubai-soll-nach-vorfall-bald-wieder-israel-anfliegen-duerfen-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Brüssel - EU-Kommission legt weiteres Sanktionspaket gegen Russland vor",
-      "excerpt": "Die Europäische Kommission hat ein weiteres Sanktionspaket gegen Russland vorgelegt.",
-      "url": "https://www.deutschlandfunk.de/eu-kommission-legt-weiteres-sanktionspaket-gegen-russland-vor-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/flydubai-soll-nach-vorfall-bald-wieder-israel-anfliegen-duerfen-108.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Verdi - Tarifkonflikt bei privaten Banken zieht sich hin",
       "excerpt": "Der Tarifkonflikt zwischen der Gewerkschaft Verdi und privaten Banken zieht sich voraussichtlich mindestens bis in den Januar hinein.",
-      "url": "https://www.deutschlandfunk.de/tarifkonflikt-bei-privaten-banken-zieht-sich-hin-102.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/tarifkonflikt-bei-privaten-banken-zieht-sich-hin-104.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Sicherheitspolitik - Bundeskanzler Merz: Ukraine sollte nach dem Krieg NATO-ähnliche Sicherheitsgarantien erhalten",
       "excerpt": "Bundeskanzler Merz hat es rückblickend als Fehler bezeichnet, dass im Jahr 2008 auf dem NATO-Gipfel in Bukarest nicht dem US-Vorschlag gefolgt wurde, die Ukraine in das Bündnis aufzunehmen. Der Ukraine-Krieg wäre wahrsch",
-      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ukraine-sollte-nach-dem-krieg-nato-aehnliche-sicherheitsgarantien-erhalten-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Afrika-Reise - Steinmeier sagt Elfenbeinküste Unterstützung bei Terrorbekämpfung zu",
-      "excerpt": "Bundespräsident Steinmeier hat der Elfenbeinküste und den umliegenden Staaten die Unterstützung Deutschlands bei der Eindämmung des Terrorismus zugesichert.",
-      "url": "https://www.deutschlandfunk.de/steinmeier-sagt-elfenbeinkueste-unterstuetzung-bei-terrorbekaempfung-zu-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ukraine-sollte-nach-dem-krieg-nato-aehnliche-sicherheitsgarantien-erhalten-110.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
       "source": "DLF",
       "title": "Energiekosten - Umweltminister Schneider: Förderprogramm für Stromspar-Check wird ausgeweitet",
       "excerpt": "Nach Angaben des Bundesumweltministeriums sollen zehntausende weitere Haushalte vom bundesweiten Stromspar-Check profitieren.",
-      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-foerderprogramm-fuer-stromspar-check-wird-ausgeweitet-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
+      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-foerderprogramm-fuer-stromspar-check-wird-ausgeweitet-102.html",
+      "publishedAt": "2026-11-24T05:05:28.000Z",
       "category": "NACHRICHTEN"
     },
     {
-      "source": "DLF",
-      "title": "Ukraine - Tote und Verletzte bei russischen Angriffen",
-      "excerpt": "Bei neuen russischen Luftangriffen auf die Ukraine hat es mehrere Todesopfer gegeben.",
-      "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-russischen-angriffen-122.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "Pflege: Mehrheit der Versicherten fordert grundlegende Reform",
+      "excerpt": "Ob jung oder alt, mit oder ohne persönliche Pflegeerfahrung: Die Menschen in Deutschland eint der Wunsch nach einer grundlegenden Reform. Das ergab eine Erhebung der TK. Deren Chef Jens Baas sieht den Bund in der Pflicht",
+      "url": "https://www.spiegel.de/politik/deutschland/pflege-mehrheit-der-versicherten-fordert-grundlegende-reform-a-60f0353b-75d0-4bf0-89ae-52c51ab6578d#ref=rss",
+      "publishedAt": "2026-11-24T04:43:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Abwehrkampf gegen Russland - Ukraine bekennt sich zum Versenken von russischem Kriegsschiff vor libyscher Küste",
-      "excerpt": "Die Ukraine hat sich zum Versenken eines russischen Kriegsschiffs im Mittelmeerhafen der libyschen Stadt Bengasi bekannt. Präsident Selenskyj teilte mit, man habe die Korvette \"Merkury\" mit sieben Seedrohnen angegriffen.",
-      "url": "https://www.deutschlandfunk.de/ukraine-bekennt-sich-zum-versenken-von-russischem-kriegsschiff-vor-libyscher-kueste-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "SPIEGEL.DE",
+      "title": "News: Berliner Linksfraktion will Vanessa Emde ausschließen, Irritation über Markus Söders Vorstoß zur kalten Progression, Femizid soll ins Strafgesetzbuch",
+      "excerpt": "In Berlin soll Vanessa Emde aus der Linksfraktion fliegen – diesmal wirklich. In der Union fragt man sich mal wieder, was Markus Söder im Schilde führt. Und im Strafgesetzbuch soll der Femizid als Mord festgeschrieben we",
+      "url": "https://www.spiegel.de/politik/deutschland/news-berliner-linksfraktion-will-vanessa-emde-ausschliessen-irritation-ueber-markus-soeders-vorstoss-zur-kalten-progression-femizid-soll-ins-strafgesetzbuch-a-95f73901-9196-4dde-a781-c80010d12098#ref=rss",
+      "publishedAt": "2026-11-24T04:31:00.000Z",
+      "category": "POLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Protest gegen Sparpläne - Generalstreik in Belgien - Flugverkehr lahmgelegt",
-      "excerpt": "In Belgien haben die Gewerkschaften mit einem landesweiten Generalstreik gegen die Sparpläne der Regierung protestiert.",
-      "url": "https://www.deutschlandfunk.de/generalstreik-in-belgien-flugverkehr-lahmgelegt-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+      "excerpt": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Sükoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
+      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+      "publishedAt": "2026-11-24T04:23:38.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Handel - Baumarktketten Obi und Toom vereinbaren Zusammenschluss",
-      "excerpt": "Die Baumarktketten Obi und Toom wollen sich zusammenschließen. Das teilten die Gesellschafter, die Tengelmann-Gruppe und die Rewe-Gruppe, mit. Künftig solle die Marke Toom wegfallen.",
-      "url": "https://www.deutschlandfunk.de/baumarktketten-obi-und-toom-vereinbaren-zusammenschluss-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
+      "excerpt": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so Oxfam. Von Julio Segador.",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+      "publishedAt": "2026-11-24T04:09:27.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Spanien - Verfahren gegen Puigdemont endgültig eingestellt",
-      "excerpt": "Der frühere katalanische Regionalpräsident Puigdemont muss in Spanien nicht mehr mit Strafverfolgung wegen vergangener separatistischer Betrebungen rechnen.",
-      "url": "https://www.deutschlandfunk.de/verfahren-gegen-puigdemont-endgueltig-eingestellt-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Deutschland baut künftig ukrainische Drohnen",
+      "excerpt": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffsp",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+      "publishedAt": "2026-11-24T01:46:30.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
-      "source": "DLF",
-      "title": "Sicherheit - Bombendrohungen an Schulen bundesweit - Polizei geht nicht von einer Gefahr aus",
-      "excerpt": "An hunderten Schulen hat es bundesweit Bombendrohungen gegeben. Nach ersten Erkenntnissen der Polizei handelte es um gleichlautende E-Mails, die massenhaft versendet wurden. Betroffen waren unter anderem Bayern, Baden-Wü",
-      "url": "https://www.deutschlandfunk.de/bombendrohungen-an-schulen-bundesweit-polizei-geht-nicht-von-einer-gefahr-aus-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Konjunktur - Deutscher Aufschwung gewinnt an Breite - Einkaufsmanagerindex und Exporte der Elektroindustrie steigen",
-      "excerpt": "Die deutsche ⁠Wirtschaft ist im November einer Unternehmensumfrage zufolge so stark gewachsen wie seit vier Jahren nicht mehr.",
-      "url": "https://www.deutschlandfunk.de/deutscher-aufschwung-gewinnt-an-breite-einkaufsmanagerindex-und-exporte-der-elektroindustrie-steigen-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
-    },
-    {
-      "source": "DLF",
-      "title": "Reaktionen zur Weltklimakonferenz - Umweltminister Schneider (SPD): Klimaschutz braucht keine Abschlusserklärung - Steinmeier mahnt Suche nach Konsens an",
-      "excerpt": "Viele Organisationen und Politiker haben enttäuscht auf das Scheitern der Weltklimakonferenz im türkischen Antalya reagiert. Bundesumweltminister Schneider relativierte dagegen das Ergebnis der COP.",
-      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-spd-klimaschutz-braucht-keine-abschlusserklaerung-steinmeier-mahnt-suche-na-100.html",
-      "publishedAt": "2026-11-23T20:45:46.000Z",
-      "category": "NACHRICHTEN"
+      "source": "TAGESSCHAU.DE",
+      "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+      "excerpt": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert.",
+      "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+      "publishedAt": "2026-11-24T00:53:40.000Z",
+      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
@@ -434,14 +490,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
-      "excerpt": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte sic",
-      "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
-      "publishedAt": "2026-11-23T16:57:55.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "TAZ.DE",
       "title": "Polizei in Frankreich: Hitlergruß in Polizeischulen-Chats",
       "excerpt": "Im französischen Cannes-Ecluse teilten Polizeischüler rassistische Beleidigungen, sexistische Karikaturen und Nazi-Symbolik. Es ist einer von vielen Skandalen. mehr...",
@@ -514,14 +562,6 @@
       "category": "POLITIK"
     },
     {
-      "source": "TAGESSCHAU.DE",
-      "title": "Istanbuler Polizei sucht nach streunender Löwin",
-      "excerpt": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?",
-      "url": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
-      "publishedAt": "2026-11-23T14:14:38.000Z",
-      "category": "AUSLANDSPOLITIK"
-    },
-    {
       "source": "DLF",
       "title": "Mit SchülerInnen über Nahost sprechen: Der HörBus Nahost in Berlin",
       "excerpt": "Sammann, Luise www.deutschlandfunk.de, Campus & Karriere",
@@ -544,14 +584,6 @@
       "url": "https://www.deutschlandfunk.de/wenn-der-azubi-kifft-workshop-der-handwerkskammer-konstanz-100.html",
       "publishedAt": "2026-11-23T13:36:36.000Z",
       "category": "KARRIERE & STUDIUM"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-      "excerpt": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrend",
-      "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
-      "publishedAt": "2026-11-23T13:34:43.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -584,14 +616,6 @@
       "url": "https://www.spiegel.de/politik/deutschland/bayern-tobias-gotthardt-soll-auf-hubert-aiwanger-als-wirtschaftsminister-folgen-a-32657ef9-8f70-4a1c-a32c-e40a38829457#ref=rss",
       "publishedAt": "2026-11-23T12:16:00.000Z",
       "category": "POLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "Wer ist schuld am Scheitern des Klimagipfels?",
-      "excerpt": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidents",
-      "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
-      "publishedAt": "2026-11-23T10:42:23.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "SPIEGEL.DE",
@@ -743,22 +767,6 @@
       "excerpt": "Planänderung bei der Bundeswehr: Statt über die Straße wurden Panzer und Fahrzeuge per Zug zu einer Großübung nach Litauen gebracht. Offenbar wollte man keine sichtbar fahrende Kolonne auf Polens Straßen haben.",
       "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
       "publishedAt": "2026-11-22T10:22:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "News: Treffen von Donald Trump, Wladimir Putin und Xi Jinping in Shenzhen",
-      "excerpt": "Wieder hat sich gezeigt, dass der US-Präsident die Demokratien nicht würdig und wirkungsvoll vertreten kann. Das ist die Lage am Sonntag.",
-      "url": "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
-      "publishedAt": "2026-11-22T09:00:00.000Z",
-      "category": "POLITIK"
-    },
-    {
-      "source": "SPIEGEL.DE",
-      "title": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
-      "excerpt": "Kommt die AfD an die Macht, sieht die Antisemitismusbeauftragte Katharina von Schnurbein KZ-Gedenkstätten und die Erinnerungskultur in Gefahr. In jüdischen Gemeinden spüre sie Unsicherheit.",
-      "url": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
-      "publishedAt": "2026-11-22T07:13:00.000Z",
       "category": "POLITIK"
     },
     {
@@ -920,14 +928,6 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
       "publishedAt": "2026-11-19T19:22:45.000Z",
       "category": "INNENPOLITIK"
-    },
-    {
-      "source": "TAGESSCHAU.DE",
-      "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
-      "excerpt": "Zur Bekämpfung der Covid-19-Pandemie wurden Personen, die beispielsweise in Krankenhäusern oder Rettungsdiensten arbeiteten, verpflichtet, sich gegen Corona impfen zu lassen. Nun hat der EGMR entschieden. Von A. Stephany",
-      "url": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
-      "publishedAt": "2026-11-19T15:24:28.000Z",
-      "category": "AUSLANDSPOLITIK"
     },
     {
       "source": "TAGESSCHAU.DE",
